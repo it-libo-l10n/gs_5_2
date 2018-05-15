@@ -6,6 +6,46 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072618Z" creationid="luke" creationdate="20180515T072618Z">
+        <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;390&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Getting Started with LibreOffice 5.2&lt;/t3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072535Z" creationid="luke" creationdate="20180515T072535Z">
+        <seg>&lt;t0&gt;390&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Getting Started with LibreOffice 5.2&lt;/t3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Appendix B Open Source, Open Standards, OpenDocument&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;389&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072520Z" creationid="luke" creationdate="20180515T072520Z">
+        <seg>&lt;t0&gt;Appendix B Open Source, Open Standards, OpenDocument&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;389&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Getting Started with LibreOffice 5.2&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072616Z" creationid="luke" creationdate="20180515T072616Z">
+        <seg>&lt;t0&gt;Guida introduttiva a LibreOffice 5.2&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All trademarks within this guide belong to their legitimate owners.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072631Z" creationid="luke" creationdate="20180515T072631Z">
+        <seg>Tutti i marchi registrati citati in questo documento appartengono ai legittimi proprietari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applying special effects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154641Z" creationid="luke" creationdate="20180514T154641Z">
@@ -38,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072638Z" creationid="luke" creationdate="20180515T072638Z">
+        <seg>Collaboratori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Controlling dialogs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154651Z" creationid="luke" creationdate="20180514T154651Z">
@@ -64,8 +112,8 @@
       <tuv lang="EN">
         <seg>Getting Started with LibreOffice 5.2</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154620Z" creationid="luke" creationdate="20180514T154620Z">
-        <seg>Getting Started with LibreOffice 5.2</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072516Z" creationid="luke" creationdate="20180514T154620Z">
+        <seg>Guida introduttiva a LibreOffice 5.2</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154645Z" creationid="luke" creationdate="20180514T154645Z">
         <seg>Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jean Hollis Weber</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072640Z" creationid="luke" creationdate="20180515T072640Z">
+        <seg>Jean Hollis Weber</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154730Z" creationid="luke" creationdate="20180514T154730Z">
         <seg>Open the Styles and Formatting window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select an object with a single click.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072456Z" creationid="luke" creationdate="20180515T072456Z">
+        <seg>Select an object with a single click.</seg>
       </tuv>
     </tu>
     <tu>
