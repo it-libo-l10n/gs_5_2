@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072735Z" creationid="luke" creationdate="20180515T072735Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072618Z" creationid="luke" creationdate="20180515T072618Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072616Z" creationid="luke" creationdate="20180515T072616Z">
         <seg>&lt;t0&gt;Guida introduttiva a LibreOffice 5.2&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Acknowledgments</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072753Z" creationid="luke" creationdate="20180515T072753Z">
+        <seg>Riconoscimenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072730Z" creationid="luke" creationdate="20180515T072730Z">
+        <seg>Indice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributors</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072638Z" creationid="luke" creationdate="20180515T072638Z">
@@ -94,10 +118,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072735Z" creationid="luke" creationdate="20180515T072735Z">
+        <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E-mailing documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154643Z" creationid="luke" creationdate="20180514T154643Z">
         <seg>E-mailing documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feedback</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072741Z" creationid="luke" creationdate="20180515T072741Z">
+        <seg>Commenti e suggerimenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154730Z" creationid="luke" creationdate="20180514T154730Z">
         <seg>Open the Styles and Formatting window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publication date and software version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072758Z" creationid="luke" creationdate="20180515T072758Z">
+        <seg>Data di pubblicazione e versione del software</seg>
       </tuv>
     </tu>
     <tu>
