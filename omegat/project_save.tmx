@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>Applying special effects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154641Z" creationid="luke" creationdate="20180514T154641Z">
+        <seg>Applying special effects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Associating a document with a different template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154636Z" creationid="luke" creationdate="20180514T154636Z">
+        <seg>Associating a document with a different template</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the shortcut keys you want to assign a style to.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154733Z" creationid="luke" creationdate="20180514T154733Z">
+        <seg>Choose the shortcut keys you want to assign a style to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Closes the current document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154724Z" creationid="luke" creationdate="20180514T154724Z">
+        <seg>Closes the current document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Controlling dialogs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154651Z" creationid="luke" creationdate="20180514T154651Z">
+        <seg>Controlling dialogs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E-mailing documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154643Z" creationid="luke" creationdate="20180514T154643Z">
+        <seg>E-mailing documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
+        <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting Started with LibreOffice 5.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154620Z" creationid="luke" creationdate="20180514T154620Z">
+        <seg>Getting Started with LibreOffice 5.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the selected icon normally demands a consecutive mouse action, such as inserting a rectangle, then pressing the &lt;f1&gt;Enter&lt;/f1&gt; key is not sufficient: in these cases press &lt;f2&gt;Ctrl+Enter&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154727Z" creationid="luke" creationdate="20180514T154727Z">
+        <seg>If the selected icon normally demands a consecutive mouse action, such as inserting a rectangle, then pressing the &lt;f1&gt;Enter&lt;/f1&gt; key is not sufficient: in these cases press &lt;f2&gt;Ctrl+Enter&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154645Z" creationid="luke" creationdate="20180514T154645Z">
+        <seg>Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;6&lt;/seq0&gt;: Append the text “Hello” to the current document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154751Z" creationid="luke" creationdate="20180514T154751Z">
+        <seg>Listing &lt;seq0&gt;6&lt;/seq0&gt;: Append the text “Hello” to the current document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac equivalent</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154711Z" creationid="luke" creationdate="20180514T154711Z">
+        <seg>Mac equivalent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Customize dialog, select the menu in the &lt;f1&gt;Menu&lt;/f1&gt; list and click the &lt;f2&gt;Add&lt;/f2&gt; button in the &lt;f3&gt;Menu Content&lt;/f3&gt; section of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154743Z" creationid="luke" creationdate="20180514T154743Z">
+        <seg>On the Customize dialog, select the menu in the &lt;f1&gt;Menu&lt;/f1&gt; list and click the &lt;f2&gt;Add&lt;/f2&gt; button in the &lt;f3&gt;Menu Content&lt;/f3&gt; section of the dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Export dialog, specify a file name for the exported document, then select the desired format in the &lt;f1&gt;File format&lt;/f1&gt; list and click the &lt;f2&gt;Export&lt;/f2&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154719Z" creationid="luke" creationdate="20180514T154719Z">
+        <seg>On the Export dialog, specify a file name for the exported document, then select the desired format in the &lt;f1&gt;File format&lt;/f1&gt; list and click the &lt;f2&gt;Export&lt;/f2&gt; button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Styles and Formatting window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154730Z" creationid="luke" creationdate="20180514T154730Z">
+        <seg>Open the Styles and Formatting window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes the macro recorder has a failure and understanding LibreOffice internal workings helps to understand how and why the macro recorder sometimes fails.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154755Z" creationid="luke" creationdate="20180514T154755Z">
+        <seg>Sometimes the macro recorder has a failure and understanding LibreOffice internal workings helps to understand how and why the macro recorder sometimes fails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The EnterMyName macro is not as complicated as it first appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154800Z" creationid="luke" creationdate="20180514T154800Z">
+        <seg>The EnterMyName macro is not as complicated as it first appears.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Gallery (Figure &lt;t0&gt;309&lt;/t0&gt;) provides a convenient way to group reusable objects such as graphics and sounds that you can insert into your documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154824Z" creationid="luke" creationdate="20180514T154824Z">
+        <seg>The Gallery (Figure &lt;t0&gt;309&lt;/t0&gt;) provides a convenient way to group reusable objects such as graphics and sounds that you can insert into your documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The example shows some of LibreOffice’s predefined styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154731Z" creationid="luke" creationdate="20180514T154731Z">
+        <seg>The example shows some of LibreOffice’s predefined styles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most used application commands were put together in the Styles, Sheets, and Slide menus, respectively.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154746Z" creationid="luke" creationdate="20180514T154746Z">
+        <seg>The most used application commands were put together in the Styles, Sheets, and Slide menus, respectively.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the way that LibreOffice stores the hyperlinks in your file, select &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; and choose if you want URLs saved relatively when referencing the &lt;f1&gt;File System&lt;/f1&gt;, or the &lt;f2&gt;Internet&lt;/f2&gt;, or both.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154804Z" creationid="luke" creationdate="20180514T154804Z">
+        <seg>To change the way that LibreOffice stores the hyperlinks in your file, select &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; and choose if you want URLs saved relatively when referencing the &lt;f1&gt;File System&lt;/f1&gt;, or the &lt;f2&gt;Internet&lt;/f2&gt;, or both.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To have the shortcut key assignment available only with one component (for example, Writer), select that component’s name in the upper right corner of the page; otherwise select &lt;f0&gt;LibreOffice&lt;/f0&gt; to make it available to every component.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154737Z" creationid="luke" creationdate="20180514T154737Z">
+        <seg>To have the shortcut key assignment available only with one component (for example, Writer), select that component’s name in the upper right corner of the page; otherwise select &lt;f0&gt;LibreOffice&lt;/f0&gt; to make it available to every component.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f1&gt;Down Arrow&lt;/f1&gt; and &lt;f2&gt;Right Arrow&lt;/f2&gt; to select the desired toolbar icon and press &lt;f3&gt;Ctrl+Enter&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154722Z" creationid="luke" creationdate="20180514T154722Z">
+        <seg>Use the &lt;f1&gt;Down Arrow&lt;/f1&gt; and &lt;f2&gt;Right Arrow&lt;/f2&gt; to select the desired toolbar icon and press &lt;f3&gt;Ctrl+Enter&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validating cell contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154639Z" creationid="luke" creationdate="20180514T154639Z">
+        <seg>Validating cell contents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also pay for support through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154658Z" creationid="luke" creationdate="20180514T154658Z">
+        <seg>You can also pay for support through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a4&gt;http://www.gnu.org/licenses/gpl.html&lt;/a4&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a5&gt;&lt;f6&gt;http://creativecommons.org/licenses/by/4.0/&lt;/f6&gt;&lt;/a5&gt;), version &lt;f7&gt;4&lt;/f7&gt;.0 or later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154634Z" creationid="luke" creationdate="20180514T154634Z">
+        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a4&gt;http://www.gnu.org/licenses/gpl.html&lt;/a4&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a5&gt;&lt;f6&gt;http://creativecommons.org/licenses/by/4.0/&lt;/f6&gt;&lt;/a5&gt;), version &lt;f7&gt;4&lt;/f7&gt;.0 or later.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may get better results by passing scanned material into a graphics program and cleaning it up there before inserting the resulting image into LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154814Z" creationid="luke" creationdate="20180514T154814Z">
+        <seg>You may get better results by passing scanned material into a graphics program and cleaning it up there before inserting the resulting image into LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should be able to download &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;o&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;ther&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt; icon set&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;s&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt; from the software repository for your Linux &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;distribution &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;if you wish to use them&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;.&lt;/f32&gt;&lt;/f31&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154707Z" creationid="luke" creationdate="20180514T154707Z">
+        <seg>You should be able to download &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;o&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;ther&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt; icon set&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;s&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt; from the software repository for your Linux &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;distribution &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;if you wish to use them&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;.&lt;/f32&gt;&lt;/f31&gt;</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
