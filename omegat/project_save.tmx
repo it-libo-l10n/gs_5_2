@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(You can change the sequence and remove or insert images later, as you can with any slides.)&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
+        <seg>(You can change the sequence and remove or insert images later, as you can with any slides.)&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072735Z" creationid="luke" creationdate="20180515T072735Z">
@@ -14,10 +22,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Create the required sequence by removing images or moving them up or down in the list of images.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
+        <seg>&lt;f0&gt;Create the required sequence by removing images or moving them up or down in the list of images.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072618Z" creationid="luke" creationdate="20180515T072618Z">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Getting Started&lt;/f0&gt; Guide</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T082726Z" creationid="luke" creationdate="20180515T082726Z">
+        <seg>&lt;f0&gt;Getting Started&lt;/f0&gt; Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If&lt;/f0&gt; you se&lt;f1&gt;lec&lt;/f1&gt;t&lt;f2&gt;ed&lt;/f2&gt; &lt;f3&gt;Add caption to each slide&lt;/f3&gt;, &lt;f4&gt;t&lt;/f4&gt;here will be a placeholder for the image caption &lt;f5&gt;(title) on each slide.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085946Z" creationid="luke" creationdate="20180515T085946Z">
+        <seg>&lt;f0&gt;If&lt;/f0&gt; you se&lt;f1&gt;lec&lt;/f1&gt;t&lt;f2&gt;ed&lt;/f2&gt; &lt;f3&gt;Add caption to each slide&lt;/f3&gt;, &lt;f4&gt;t&lt;/f4&gt;here will be a placeholder for the image caption &lt;f5&gt;(title) on each slide.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice Draw&lt;/f0&gt; is &lt;i1/&gt;a vector graphics drawing program, although it can also perform some operations on raster graphics (pixels).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090141Z" creationid="luke" creationdate="20180515T090141Z">
+        <seg>&lt;f0&gt;LibreOffice Draw&lt;/f0&gt; is &lt;i1/&gt;a vector graphics drawing program, although it can also perform some operations on raster graphics (pixels).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
+        <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +110,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085801Z" creationid="luke" creationdate="20180515T085801Z">
+        <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix A &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T084308Z" creationid="luke" creationdate="20180515T084308Z">
+        <seg>Appendix A &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix B &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T084400Z" creationid="luke" creationdate="20180515T084400Z">
+        <seg>Appendix B &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applying special effects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154641Z" creationid="luke" creationdate="20180514T154641Z">
         <seg>Applying special effects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As mentioned in “&lt;bf0&gt;Modifying the slide show&lt;/bf0&gt;” on page &lt;bf1&gt;168&lt;/bf1&gt;, Impress allocates reasonable default settings for slide shows, while at the same time allowing for customizing many aspects of the slide show experience.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
+        <seg>As mentioned in “&lt;bf0&gt;Modifying the slide show&lt;/bf0&gt;” on page &lt;bf1&gt;168&lt;/bf1&gt;, Impress allocates reasonable default settings for slide shows, while at the same time allowing for customizing many aspects of the slide show experience.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,10 +158,186 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 1 &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085837Z" creationid="luke" creationdate="20180515T082559Z">
+        <seg>Capitolo 1 &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 10 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T083520Z" creationid="luke" creationdate="20180515T083520Z">
+        <seg>Chapter 10 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 11 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T083612Z" creationid="luke" creationdate="20180515T083612Z">
+        <seg>Chapter 11 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 12 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T083652Z" creationid="luke" creationdate="20180515T083652Z">
+        <seg>Chapter 12 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 13 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T084002Z" creationid="luke" creationdate="20180515T084002Z">
+        <seg>Chapter 13 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 14 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T084113Z" creationid="luke" creationdate="20180515T084113Z">
+        <seg>Chapter 14 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 2 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T082516Z" creationid="luke" creationdate="20180515T082516Z">
+        <seg>Chapter 2 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 4 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T082829Z" creationid="luke" creationdate="20180515T082829Z">
+        <seg>Chapter 4 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 5 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T083113Z" creationid="luke" creationdate="20180515T083113Z">
+        <seg>Chapter 5 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 6 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T083117Z" creationid="luke" creationdate="20180515T083117Z">
+        <seg>Chapter 6 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 7 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090058Z" creationid="luke" creationdate="20180515T083316Z">
+        <seg>Capitolo 7 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 8 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T083404Z" creationid="luke" creationdate="20180515T083404Z">
+        <seg>Chapter 8 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter &lt;f0&gt;3&lt;/f0&gt; &lt;s1/&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T082644Z" creationid="luke" creationdate="20180515T082644Z">
+        <seg>Chapter &lt;f0&gt;3&lt;/f0&gt; &lt;s1/&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter &lt;f0&gt;9&lt;/f0&gt; &lt;s1/&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T083407Z" creationid="luke" creationdate="20180515T083407Z">
+        <seg>Chapter &lt;f0&gt;9&lt;/f0&gt; &lt;s1/&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose the shortcut keys you want to assign a style to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154733Z" creationid="luke" creationdate="20180514T154733Z">
         <seg>Choose the shortcut keys you want to assign a style to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Apply to All Slides&lt;/f0&gt; to apply the transition for all of your presentation or continue selecting transitions to place between each slide in your presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090028Z" creationid="luke" creationdate="20180515T090028Z">
+        <seg>Click &lt;f0&gt;Apply to All Slides&lt;/f0&gt; to apply the transition for all of your presentation or continue selecting transitions to place between each slide in your presentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; when you have finished.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090035Z" creationid="luke" creationdate="20180515T090035Z">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; when you have finished.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Slide Show &gt; Start from first Slide&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z" creationid="luke" creationdate="20180515T090036Z">
+        <seg>Click &lt;f0&gt;Slide Show &gt; Start from first Slide&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on a file name to display it in the Preview area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085942Z" creationid="luke" creationdate="20180515T085942Z">
+        <seg>Click on a file name to display it in the Preview area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Apply to All Slides&lt;/f0&gt; button to apply the same display time to all slides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090033Z" creationid="luke" creationdate="20180515T090033Z">
+        <seg>Click on the &lt;f0&gt;Apply to All Slides&lt;/f0&gt; button to apply the same display time to all slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the New button to create a new sequence of slides and save it with a different name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085954Z" creationid="luke" creationdate="20180515T085954Z">
+        <seg>Click on the New button to create a new sequence of slides and save it with a different name.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Start from first Slide&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Presentation toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z" creationid="luke" creationdate="20180515T090036Z">
+        <seg>Click the &lt;f0&gt;Start from first Slide&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Presentation toolbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the mouse to move to the next slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
+        <seg>Click the mouse to move to the next slide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,10 +382,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom slide shows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085952Z" creationid="luke" creationdate="20180515T085952Z">
+        <seg>Custom slide shows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date (fixed)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085937Z" creationid="luke" creationdate="20180515T085937Z">
+        <seg>Date (fixed)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E-mailing documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154643Z" creationid="luke" creationdate="20180514T154643Z">
         <seg>E-mailing documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the required amount of time in seconds that each slide will be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
+        <seg>Enter the required amount of time in seconds that each slide will be displayed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,10 +422,82 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085929Z" creationid="luke" creationdate="20180515T085929Z">
+        <seg>Fields</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;154&lt;/seq0&gt;: Example master view</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085921Z" creationid="luke" creationdate="20180515T085921Z">
+        <seg>Figure &lt;seq0&gt;154&lt;/seq0&gt;: Example master view</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;155&lt;/seq0&gt;: Footer dialog in Impress</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085923Z" creationid="luke" creationdate="20180515T085923Z">
+        <seg>Figure &lt;seq0&gt;155&lt;/seq0&gt;: Footer dialog in Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;158&lt;/seq0&gt;: Impress Presenter Console</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
+        <seg>Figure &lt;seq0&gt;158&lt;/seq0&gt;: Impress Presenter Console</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information and details about using the Presenter Console, see the &lt;f0&gt;Impress Guide Chapter 9 Slide Shows&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
+        <seg>For more information and details about using the Presenter Console, see the &lt;f0&gt;Impress Guide Chapter 9 Slide Shows&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting Impress Remote</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090042Z" creationid="luke" creationdate="20180515T090042Z">
+        <seg>Getting Impress Remote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting Started Guide</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085820Z" creationid="luke" creationdate="20180515T083543Z">
+        <seg>Guida introduttiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting Started with Draw</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090102Z" creationid="luke" creationdate="20180515T090102Z">
+        <seg>Guida introduttiva a Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting Started with Impress</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T083204Z" creationid="luke" creationdate="20180515T083204Z">
+        <seg>Getting Started with Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,10 +510,162 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Advance slide&lt;/f0&gt; and select the &lt;f1&gt;Automatically after&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
+        <seg>Go to &lt;f0&gt;Advance slide&lt;/f0&gt; and select the &lt;f1&gt;Automatically after&lt;/f1&gt; option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Slide &gt; Hide Slide&lt;/f0&gt; on the Menu bar or right-click on the slide thumbnail and select &lt;f1&gt;Hide Slide&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085951Z" creationid="luke" creationdate="20180515T085951Z">
+        <seg>Go to &lt;f0&gt;Slide &gt; Hide Slide&lt;/f0&gt; on the Menu bar or right-click on the slide thumbnail and select &lt;f1&gt;Hide Slide&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Slide &gt; Slide Transition&lt;/f0&gt; on the Menu bar or click on the Slide Transition icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; on the Sidebar to open the options available for slide transitions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090028Z" creationid="luke" creationdate="20180515T090028Z">
+        <seg>Go to &lt;f0&gt;Slide &gt; Slide Transition&lt;/f0&gt; on the Menu bar or click on the Slide Transition icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; on the Sidebar to open the options available for slide transitions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Slide Show &gt; Custom Slide Show&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085954Z" creationid="luke" creationdate="20180515T085954Z">
+        <seg>Go to &lt;f0&gt;Slide Show &gt; Custom Slide Show&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Slide Show &gt; Rehearse Timings&lt;/f0&gt; on the Menu bar and the slide show starts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
+        <seg>Go to &lt;f0&gt;Slide Show &gt; Rehearse Timings&lt;/f0&gt; on the Menu bar and the slide show starts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Slide Show &gt; Slide Show Settings&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090035Z" creationid="luke" creationdate="20180515T090035Z">
+        <seg>Go to &lt;f0&gt;Slide Show &gt; Slide Show Settings&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;View &gt; Slide Sorter&lt;/f0&gt; on the Menu bar or click the Slide Sorter tab at the top of the Workspace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
+        <seg>Go to &lt;f0&gt;View &gt; Slide Sorter&lt;/f0&gt; on the Menu bar or click the Slide Sorter tab at the top of the Workspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hidden slides are marked by a diagonal bars across the slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085952Z" creationid="luke" creationdate="20180515T085952Z">
+        <seg>Hidden slides are marked by a diagonal bars across the slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hiding slides</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085950Z" creationid="luke" creationdate="20180515T085950Z">
+        <seg>Hiding slides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the selected icon normally demands a consecutive mouse action, such as inserting a rectangle, then pressing the &lt;f1&gt;Enter&lt;/f1&gt; key is not sufficient: in these cases press &lt;f2&gt;Ctrl+Enter&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154727Z" creationid="luke" creationdate="20180514T154727Z">
         <seg>If the selected icon normally demands a consecutive mouse action, such as inserting a rectangle, then pressing the &lt;f1&gt;Enter&lt;/f1&gt; key is not sufficient: in these cases press &lt;f2&gt;Ctrl+Enter&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the slide advance is set to &lt;f0&gt;Automatically after X sec&lt;/f0&gt;, let the slide show run by itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090037Z" creationid="luke" creationdate="20180515T090037Z">
+        <seg>If the slide advance is set to &lt;f0&gt;Automatically after X sec&lt;/f0&gt;, let the slide show run by itself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the slide advance is set to &lt;f0&gt;On mouse click&lt;/f0&gt;, do one of the following to move from one slide to the next:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090037Z" creationid="luke" creationdate="20180515T090037Z">
+        <seg>If the slide advance is set to &lt;f0&gt;On mouse click&lt;/f0&gt;, do one of the following to move from one slide to the next:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to create a custom slide show from the same presentation:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085953Z" creationid="luke" creationdate="20180515T085953Z">
+        <seg>If you want to create a custom slide show from the same presentation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to edit this field in your slide, see the &lt;f1&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085934Z" creationid="luke" creationdate="20180515T085934Z">
+        <seg>If you want to edit this field in your slide, see the &lt;f1&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f1&gt; for more information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Illustrations</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085718Z" creationid="luke" creationdate="20180515T085718Z">
+        <seg>Illustrazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress Remote is a mobile application developed by the community for Android and iOS systems that allows you to control a live presentation with a mobile device such as a phone or tablet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090042Z" creationid="luke" creationdate="20180515T090042Z">
+        <seg>Impress Remote is a mobile application developed by the community for Android and iOS systems that allows you to control a live presentation with a mobile device such as a phone or tablet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress will create a presentation with as many pages as determined by the Slide layout number of slides per page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085944Z" creationid="luke" creationdate="20180515T085944Z">
+        <seg>Impress will create a presentation with as many pages as determined by the Slide layout number of slides per page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress will memorize the timings for each slide and will advance to the next slide automatically using these timings when you run the slide show.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
+        <seg>Impress will memorize the timings for each slide and will advance to the next slide automatically using these timings when you run the slide show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In many situations, you may find that you have more slides than the time available to present them or you may want to provide a rapid overview without dwelling on the details.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
+        <seg>In many situations, you may find that you have more slides than the time available to present them or you may want to provide a rapid overview without dwelling on the details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introducing LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085842Z" creationid="luke" creationdate="20180515T085842Z">
+        <seg>Introduzione a LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,6 +686,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice Impress has a Presenter Console function that can be used when an extra display for presentation has been connected to your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090040Z" creationid="luke" creationdate="20180515T090040Z">
+        <seg>LibreOffice Impress has a Presenter Console function that can be used when an extra display for presentation has been connected to your computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is a freely available, fully-featured office productivity suite.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085911Z" creationid="luke" creationdate="20180515T085911Z">
+        <seg>LibreOffice is a freely available, fully-featured office productivity suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice runs on Windows, Linux, and Mac OS X operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085725Z" creationid="luke" creationdate="20180515T085725Z">
+        <seg>LibreOffice funziona su sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;6&lt;/seq0&gt;: Append the text “Hello” to the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154751Z" creationid="luke" creationdate="20180514T154751Z">
@@ -194,6 +722,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154711Z" creationid="luke" creationdate="20180514T154711Z">
         <seg>Mac equivalent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of the tasks are best done in Slide Sorter view where you can see most of the slides simultaneously.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
+        <seg>Most of the tasks are best done in Slide Sorter view where you can see most of the slides simultaneously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normally only footers are used on a slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085918Z" creationid="luke" creationdate="20180515T085918Z">
+        <seg>Normally only footers are used on a slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085915Z" creationid="luke" creationdate="20180515T085915Z">
+        <seg>Nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,10 +766,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One slide set – multiple presentations</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
+        <seg>One slide set – multiple presentations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Styles and Formatting window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154730Z" creationid="luke" creationdate="20180514T154730Z">
         <seg>Open the Styles and Formatting window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paid support and training</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085659Z" creationid="luke" creationdate="20180515T085659Z">
+        <seg>Supporto e formazione a pagamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password protection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T082606Z" creationid="luke" creationdate="20180515T082606Z">
+        <seg>Password protection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Presenter Console</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090039Z" creationid="luke" creationdate="20180515T090039Z">
+        <seg>Presenter Console</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;F5&lt;/f0&gt; on the keyboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090037Z" creationid="luke" creationdate="20180515T090037Z">
+        <seg>Press &lt;f0&gt;F5&lt;/f0&gt; on the keyboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the spacebar on the keyboard to advance to the next slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
+        <seg>Press the spacebar on the keyboard to advance to the next slide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,10 +830,114 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rather than having to create a new presentation, you can use two tools that Impress offers: hiding slides and custom slide shows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
+        <seg>Rather than having to create a new presentation, you can use two tools that Impress offers: hiding slides and custom slide shows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click anywhere on the screen to open a context menu where you can navigate through the slides and set other options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
+        <seg>Right-click anywhere on the screen to open a context menu where you can navigate through the slides and set other options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running a slide show</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090035Z" creationid="luke" creationdate="20180515T090035Z">
+        <seg>Running a slide show</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Auto&lt;/f0&gt; and the timing of the pause between slide shows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090035Z" creationid="luke" creationdate="20180515T090035Z">
+        <seg>Select &lt;f0&gt;Auto&lt;/f0&gt; and the timing of the pause between slide shows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select an object with a single click.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072456Z" creationid="luke" creationdate="20180515T072456Z">
         <seg>Select an object with a single click.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select its checkbox and when you make any changes in a slide transition, the new slide is previewed in the Slide Design area, including its transition effect.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090030Z" creationid="luke" creationdate="20180515T090030Z">
+        <seg>Select its checkbox and when you make any changes in a slide transition, the new slide is previewed in the Slide Design area, including its transition effect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the desired transition, the speed of the animation, and whether the transition should happen when you click the mouse (preferred) or automatically after a certain number of seconds.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090028Z" creationid="luke" creationdate="20180515T090028Z">
+        <seg>Select the desired transition, the speed of the animation, and whether the transition should happen when you click the mouse (preferred) or automatically after a certain number of seconds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the number of images per slide in the &lt;f0&gt;Slide layout&lt;/f0&gt; list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085942Z" creationid="luke" creationdate="20180515T085942Z">
+        <seg>Select the number of images per slide in the &lt;f0&gt;Slide layout&lt;/f0&gt; list box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the slide you want to hide in the Slide Pane or Slide Sorter view on the Workspace area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085951Z" creationid="luke" creationdate="20180515T085951Z">
+        <seg>Select the slide you want to hide in the Slide Pane or Slide Sorter view on the Workspace area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the slides you want to use in your custom slide show.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085954Z" creationid="luke" creationdate="20180515T085954Z">
+        <seg>Select the slides you want to use in your custom slide show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up a slide show</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
+        <seg>Setting up a slide show</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide advance</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z" creationid="luke" creationdate="20180515T090031Z">
+        <seg>Slide advance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide transition is the animation that is played when a slide is changed for the next slide in your presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090027Z" creationid="luke" creationdate="20180515T090027Z">
+        <seg>Slide transition is the animation that is played when a slide is changed for the next slide in your presentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide transitions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090026Z" creationid="luke" creationdate="20180515T090026Z">
+        <seg>Transizioni delle diapositive</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,10 +966,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Presenter Console (Figure &lt;t0&gt;158&lt;/t0&gt;) provides extra control over slide shows by using different views on your computer display and on the display &lt;t1/&gt;that the audience sees.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090040Z" creationid="luke" creationdate="20180515T090040Z">
+        <seg>The Presenter Console (Figure &lt;t0&gt;158&lt;/t0&gt;) provides extra control over slide shows by using different views on your computer display and on the display &lt;t1/&gt;that the audience sees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Slide Transition section has a very useful choice: Automatic preview.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090029Z" creationid="luke" creationdate="20180515T090029Z">
+        <seg>The Slide Transition section has a very useful choice: Automatic preview.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The connection between your mobile device and the computer running your presentation is made through a Bluetooth pairing or a local network connection between the two.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090042Z" creationid="luke" creationdate="20180515T090042Z">
+        <seg>The connection between your mobile device and the computer running your presentation is made through a Bluetooth pairing or a local network connection between the two.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The example shows some of LibreOffice’s predefined styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154731Z" creationid="luke" creationdate="20180514T154731Z">
         <seg>The example shows some of LibreOffice’s predefined styles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fields you can use in Impress are as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085934Z" creationid="luke" creationdate="20180515T085934Z">
+        <seg>The fields you can use in Impress are as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The illustrations in this guide were taken from a variety of computers and operating systems.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085731Z" creationid="luke" creationdate="20180515T085731Z">
+        <seg>Le illustrazioni di questa guida sono state tratte da computer e sistemi operativi diversi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,10 +1022,98 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The view you see on your computer display includes the current slide, the upcoming slide, any slide notes, and a presentation timer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090040Z" creationid="luke" creationdate="20180515T090040Z">
+        <seg>The view you see on your computer display includes the current slide, the upcoming slide, any slide notes, and a presentation timer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, some illustrations will not look exactly like what you see on your computer display.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085738Z" creationid="luke" creationdate="20180515T085738Z">
+        <seg>Alcune immagini, pertanto, non saranno esattamente uguali a quelle che vedete sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This section covers only some aspects; more advanced techniques are explained in the &lt;f2&gt;Impress Guide Chapter 9 Slide Shows&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
+        <seg>This section covers only some aspects; more advanced techniques are explained in the &lt;f2&gt;Impress Guide Chapter 9 Slide Shows&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085940Z" creationid="luke" creationdate="20180515T085940Z">
+        <seg>Suggerimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add a field into an object or as a separate object on a slide, select &lt;f0&gt;Insert &gt; Fields&lt;/f0&gt; on the Menu bar and select the required field from the submenu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085933Z" creationid="luke" creationdate="20180515T085933Z">
+        <seg>To add a field into an object or as a separate object on a slide, select &lt;f0&gt;Insert &gt; Fields&lt;/f0&gt; on the Menu bar and select the required field from the submenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To apply a different display time to each slide in your presentation:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090033Z" creationid="luke" creationdate="20180515T090033Z">
+        <seg>To apply a different display time to each slide in your presentation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the way that LibreOffice stores the hyperlinks in your file, select &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; and choose if you want URLs saved relatively when referencing the &lt;f1&gt;File System&lt;/f1&gt;, or the &lt;f2&gt;Internet&lt;/f2&gt;, or both.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154804Z" creationid="luke" creationdate="20180514T154804Z">
         <seg>To change the way that LibreOffice stores the hyperlinks in your file, select &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; and choose if you want URLs saved relatively when referencing the &lt;f1&gt;File System&lt;/f1&gt;, or the &lt;f2&gt;Internet&lt;/f2&gt;, or both.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To close LibreOffice completely, go to &lt;f0&gt;File &gt; Exit&lt;/f0&gt; on the Menu bar in Windows and Linux operating systems.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T082612Z" creationid="luke" creationdate="20180515T082612Z">
+        <seg>To close LibreOffice completely, go to &lt;f0&gt;File &gt; Exit&lt;/f0&gt; on the Menu bar in Windows and Linux operating systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a header, you can use a text box as explained in “&lt;bf0&gt;Text&lt;/bf0&gt;” on page &lt;bf1&gt;181&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085920Z" creationid="luke" creationdate="20180515T085920Z">
+        <seg>To create a header, you can use a text box as explained in “&lt;bf0&gt;Text&lt;/bf0&gt;” on page &lt;bf1&gt;181&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To display or hide toolbars, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, then click on the name of a toolbar from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T082602Z" creationid="luke" creationdate="20180515T082602Z">
+        <seg>To display or hide toolbars, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, then click on the name of a toolbar from the drop-down list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To exit the slide show at any time including when the slide show has ended, press the &lt;f0&gt;Esc&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090039Z" creationid="luke" creationdate="20180515T090039Z">
+        <seg>To exit the slide show at any time including when the slide show has ended, press the &lt;f0&gt;Esc&lt;/f0&gt; key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get the software, access your mobile device application store, either Google Play Store for Android devices or Apple Store for IOs devices.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090048Z" creationid="luke" creationdate="20180515T090048Z">
+        <seg>To get the software, access your mobile device application store, either Google Play Store for Android devices or Apple Store for IOs devices.</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,10 +1126,82 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To restart a slide show automatically after the last slide has been displayed:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
+        <seg>To restart a slide show automatically after the last slide has been displayed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To run a slide show, do one of the following:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z" creationid="luke" creationdate="20180515T090036Z">
+        <seg>To run a slide show, do one of the following:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select nonconsecutive items using the keyboard:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085556Z" creationid="luke" creationdate="20180515T085556Z">
+        <seg>Per selezionare elementi non consecutivi usando la tastiera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Undoing and redoing changes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T082610Z" creationid="luke" creationdate="20180515T082610Z">
+        <seg>Undoing and redoing changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use audio resources &lt;f8&gt;(page &lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;176&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;) &lt;/f11&gt;to insert a musical background.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085947Z" creationid="luke" creationdate="20180515T085947Z">
+        <seg>Use audio resources &lt;f8&gt;(page &lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;176&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;) &lt;/f11&gt;to insert a musical background.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use slide transitions &lt;f3&gt;(page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;185&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;) &lt;/f6&gt;to go smoothly to &lt;s7/&gt;the following photo.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085947Z" creationid="luke" creationdate="20180515T085947Z">
+        <seg>Use slide transitions &lt;f3&gt;(page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;185&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;) &lt;/f6&gt;to go smoothly to &lt;s7/&gt;the following photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the &lt;f1&gt;Down Arrow&lt;/f1&gt; and &lt;f2&gt;Right Arrow&lt;/f2&gt; to select the desired toolbar icon and press &lt;f3&gt;Ctrl+Enter&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154722Z" creationid="luke" creationdate="20180514T154722Z">
         <seg>Use the &lt;f1&gt;Down Arrow&lt;/f1&gt; and &lt;f2&gt;Right Arrow&lt;/f2&gt; to select the desired toolbar icon and press &lt;f3&gt;Ctrl+Enter&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the arrow keys on the keyboard to go to the next slide or to go back to the previous one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090037Z" creationid="luke" creationdate="20180515T090037Z">
+        <seg>Use the arrow keys on the keyboard to go to the next slide or to go back to the previous one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the slide sorter &lt;f0&gt;(see page&lt;/f0&gt; &lt;bf1&gt;160&lt;/bf1&gt;&lt;f2&gt;) &lt;/f2&gt;to reorder your photo album.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085947Z" creationid="luke" creationdate="20180515T085947Z">
+        <seg>Use the slide sorter &lt;f0&gt;(see page&lt;/f0&gt; &lt;bf1&gt;160&lt;/bf1&gt;&lt;f2&gt;) &lt;/f2&gt;to reorder your photo album.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Impress Remote control</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
+        <seg>Using Impress Remote control</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,10 +1214,82 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Vector Drawing in LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090117Z" creationid="luke" creationdate="20180515T090117Z">
+        <seg>Disegno vettoriale in LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is Draw?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090123Z" creationid="luke" creationdate="20180515T090123Z">
+        <seg>Introduzione a Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is LibreOffice?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085847Z" creationid="luke" creationdate="20180515T085847Z">
+        <seg>Cos'è LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What you see may be different</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085712Z" creationid="luke" creationdate="20180515T085712Z">
+        <seg>Differenze nelle immagini presenti nel libro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the sequence of images is ready, click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert Slides&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
+        <seg>When the sequence of images is ready, click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert Slides&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you are ready to advance to the next slide, mouse click on the display background or press the right arrow or space bar on your keyboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
+        <seg>When you are ready to advance to the next slide, mouse click on the display background or press the right arrow or space bar on your keyboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also pay for support through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154658Z" creationid="luke" creationdate="20180514T154658Z">
         <seg>You can also pay for support through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can configure the slide transition from the Slide Transition section in the Tasks Pane.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090027Z" creationid="luke" creationdate="20180515T090027Z">
+        <seg>You can configure the slide transition from the Slide Transition section in the Tasks Pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can have as many slide shows as you want from a single presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085956Z" creationid="luke" creationdate="20180515T085956Z">
+        <seg>You can have as many slide shows as you want from a single presentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can set the presentation &lt;i0/&gt;to advance automatically to the next slide after a set amount of time from the Slide Transition section in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
+        <seg>You can set the presentation &lt;i0/&gt;to advance automatically to the next slide after a set amount of time from the Slide Transition section in the Sidebar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +1314,38 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154707Z" creationid="luke" creationdate="20180514T154707Z">
         <seg>You should be able to download &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;o&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;ther&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt; icon set&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;s&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt; from the software repository for your Linux &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;distribution &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;if you wish to use them&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;.&lt;/f32&gt;&lt;/f31&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>automatically advance</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z" creationid="luke" creationdate="20180515T090031Z">
+        <seg>automatically advance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>slide show</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090017Z" creationid="luke" creationdate="20180515T090017Z">
+        <seg>presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>transitions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090013Z" creationid="luke" creationdate="20180515T090013Z">
+        <seg>transizioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vector graphics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090133Z" creationid="luke" creationdate="20180515T090133Z">
+        <seg>grafica vettoriale</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
