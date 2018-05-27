@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Open source.&lt;/f0&gt; You can distribute, copy, and modify the software as much as you wish, in accordance with the LibreOffice Open Source licenses.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212159Z" creationid="Marco Marega" creationdate="20180527T212159Z">
+        <seg>&lt;f0&gt;Open source.&lt;/f0&gt;Grazie alle licenze Open Source di LibreOffice è possibile distribuire, copiare e modificare il software come si desidera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
@@ -950,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many features that are available as extra cost add-ins in other office suites (like PDF export) are free with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212034Z" creationid="Marco Marega" creationdate="20180527T212034Z">
+        <seg>Molte caratteristiche, che in altre suite per ufficio sono disponibili come pacchetti aggiuntivi a pagamento (come l'esportazione in formato PDF), in LibreOffice sono invece disponibili gratuitamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Math (formula editor)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211243Z" creationid="Marco Marega" creationdate="20180527T211243Z">
@@ -1282,6 +1298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090040Z" creationid="luke" creationdate="20180515T090040Z">
         <seg>The view you see on your computer display includes the current slide, the upcoming slide, any slide notes, and a presentation timer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no hidden charges now or in the future.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212047Z" creationid="Marco Marega" creationdate="20180527T212047Z">
+        <seg>Nessun costo nascosto attuale o futuro.</seg>
       </tuv>
     </tu>
     <tu>
