@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;No licensing fees&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211800Z" creationid="Marco Marega" creationdate="20180527T211800Z">
+        <seg>&lt;f0&gt;Nessun costo di licenza&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072753Z" creationid="luke" creationdate="20180515T072753Z">
         <seg>Riconoscimenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advantages of LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211728Z" creationid="Marco Marega" creationdate="20180527T211728Z">
+        <seg>Vantaggi di LibreOffice 19</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here are some of the advantages of LibreOffice over other office suites:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211746Z" creationid="Marco Marega" creationdate="20180527T211746Z">
+        <seg>Ecco alcuni dei vantaggi di LibreOffice rispetto ad altre suite per ufficio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hidden slides are marked by a diagonal bars across the slide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085952Z" creationid="luke" creationdate="20180515T085952Z">
@@ -890,6 +914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T195643Z" creationid="luke" creationdate="20180515T085911Z">
         <seg>LibreOffice è una suite gratuita di produttività per ufficio, completa di tutte le funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is free for anyone to use and distribute at no cost.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211823Z" creationid="Marco Marega" creationdate="20180527T211823Z">
+        <seg>LibreOffice è liberamente utilizzabile e distribuibile da chiunque senza alcun costo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1554,6 +1586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200137Z" creationid="Marco Marega" creationdate="20180527T200137Z">
         <seg>Nei documenti di Writer è possibile inserire grafici e oggetti provenienti da altri componenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can save formulas in the standard Mathematical Markup Language (MathML) format for inclusion in web pages and other documents not created by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211712Z" creationid="Marco Marega" creationdate="20180527T211712Z">
+        <seg>Con Math è possibile salvare le formule nel formato standard Mathematical Markup Language (MathML) e inserirle in pagine web e altri documenti non creati da LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
