@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Draw is a vector drawing tool that can produce everything from simple diagrams or flowcharts to 3D artwork.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210837Z" creationid="Marco Marega" creationdate="20180527T210837Z">
+        <seg>Draw è uno strumento per il disegno vettoriale in grado di creare qualsiasi cosa, da semplici grafici o diagrammi di flusso fino alla grafica 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E-mailing documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154643Z" creationid="luke" creationdate="20180514T154643Z">
@@ -762,6 +770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T205227Z" creationid="Marco Marega" creationdate="20180527T205117Z">
         <seg>È integrato con le funzioni grafiche avanzate dei componenti Draw e Math di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its Smart Connectors feature allows you to define your own connection points.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210847Z" creationid="Marco Marega" creationdate="20180527T210847Z">
+        <seg>La funzione Smart Connectors permette di definire punti di connessione personalizzati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,6 +1474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
         <seg>You can set the presentation &lt;i0/&gt;to advance automatically to the next slide after a set amount of time from the Slide Transition section in the Sidebar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use Draw to create drawings for use in any of the LibreOffice components, and you can create your own clip art and then add it to the Gallery.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210921Z" creationid="Marco Marega" creationdate="20180527T210921Z">
+        <seg>Con Draw potete creare disegni da utilizzare in qualsiasi altro componente di LibreOffice e nuove clipart da aggiungere alla Galleria.</seg>
       </tuv>
     </tu>
     <tu>
