@@ -30,10 +30,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Cross-platform.&lt;/f0&gt; LibreOffice runs on several hardware architectures and under multiple operating systems, such as Microsoft Windows, Mac OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212217Z" creationid="Marco Marega" creationdate="20180527T212217Z">
+        <seg>&lt;f0&gt;Multipiattaforma.&lt;/f0&gt; LibreOffice funziona su numerose architetture hardware e sistemi operativi diversi quali Microsoft Windows, Mac OS X e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072618Z" creationid="luke" creationdate="20180515T072618Z">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Extensive language support&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212241Z" creationid="Marco Marega" creationdate="20180527T212241Z">
+        <seg>&lt;f0&gt;Ampio &lt;/f0&gt; supporto linguistico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1226,6 +1242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154824Z" creationid="luke" creationdate="20180514T154824Z">
         <seg>The Gallery (Figure &lt;t0&gt;309&lt;/t0&gt;) provides a convenient way to group reusable objects such as graphics and sounds that you can insert into your documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LibreOffice user interface, including spelling, hyphenation, and thesaurus dictionaries, is available in over 100 languages and dialects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212557Z" creationid="Marco Marega" creationdate="20180527T212557Z">
+        <seg>L'interfaccia utente di LibreOffice, il dizionario ortografico, di sillabazione, ed il glossario, sono disponibili in più di 100 lingue e dialetti.</seg>
       </tuv>
     </tu>
     <tu>
