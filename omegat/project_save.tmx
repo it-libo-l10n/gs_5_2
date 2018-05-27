@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Impress provides all the common multimedia presentation tools, such as special effects, animation, and drawing tools.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T205035Z" creationid="Marco Marega" creationdate="20180527T205035Z">
+        <seg>Impress fornisce tutti i più comuni strumenti di presentazione multimediale quali effetti speciali, animazione e strumenti di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Impress will create a presentation with as many pages as determined by the Slide layout number of slides per page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085944Z" creationid="luke" creationdate="20180515T085944Z">
@@ -730,6 +738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200548Z" creationid="Marco Marega" creationdate="20180527T200548Z">
         <seg>Dispone, tra l'altro, di oltre 300 funzioni per calcoli finanziari, statistici e matematici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is integrated with the advanced graphics capabilities of LibreOffice Draw and Math components.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T205117Z" creationid="Marco Marega" creationdate="20180527T205117Z">
+        <seg>It is integrated with the advanced graphics capabilities of LibreOffice Draw and Math components.</seg>
       </tuv>
     </tu>
     <tu>
