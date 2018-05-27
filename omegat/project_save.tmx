@@ -158,6 +158,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc (spreadsheet)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200328Z" creationid="Marco Marega" creationdate="20180527T200328Z">
+        <seg>Calc (foglio elettronico)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc has all of the advanced analysis, charting, and decision making features expected from a high-end spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200527Z" creationid="Marco Marega" creationdate="20180527T200527Z">
+        <seg>Calc dispone di tutte le funzionalità avanzate per l'analisi, la creazione di diagrammi e di supporto a scelte decisionali che ci si attende da un programma di calcolo di alto livello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085837Z" creationid="luke" creationdate="20180515T082559Z">
@@ -674,6 +690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154645Z" creationid="luke" creationdate="20180514T154645Z">
         <seg>Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It also connects to your email client.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200322Z" creationid="Marco Marega" creationdate="20180527T200322Z">
+        <seg>Permette inoltre di collegarsi al vostro client di posta elettronica.</seg>
       </tuv>
     </tu>
     <tu>
