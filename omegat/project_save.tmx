@@ -158,6 +158,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Base (database)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210955Z" creationid="Marco Marega" creationdate="20180527T210955Z">
+        <seg>Base (database)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base incorporates two relational database engines, HSQLDB and PostgreSQL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211150Z" creationid="Marco Marega" creationdate="20180527T211150Z">
+        <seg>Base integra due motori di database relazionali, HSQLDB e PostgreSQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base provides many new features, such as the ability to analyze and edit relationships from a diagram view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211104Z" creationid="Marco Marega" creationdate="20180527T211104Z">
+        <seg>Base presenta molte nuove caratteristiche quali la possibilità di analizzare e modificare relazioni da una vista diagramma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base provides tools for day-to-day database work within a simple interface.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211004Z" creationid="Marco Marega" creationdate="20180527T211004Z">
+        <seg>Base offre tutti gli strumenti necessari per lavorare con i database tramite un'interfaccia utente semplice ed intuitiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc (spreadsheet)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200328Z" creationid="Marco Marega" creationdate="20180527T200328Z">
@@ -434,6 +466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210653Z" creationid="Marco Marega" creationdate="20180527T210653Z">
         <seg>Draw (grafica vettoriale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Draw can import graphics from many common formats and save them in over 20 formats, including PNG, HTML, PDF, and Flash.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210942Z" creationid="Marco Marega" creationdate="20180527T210942Z">
+        <seg>Draw è in grado di importare immagini dai formati più comuni e salvarle in oltre 20 formati compresi PNG, HTML, PDF e Flash.</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,6 +794,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200322Z" creationid="Marco Marega" creationdate="20180527T200322Z">
         <seg>Permette inoltre di collegarsi al vostro client di posta elettronica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can also use dBASE, Microsoft Access, MySQL, or Oracle, or any ODBC compliant or JDBC compliant database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211226Z" creationid="Marco Marega" creationdate="20180527T211226Z">
+        <seg>Il programma può anche elaborare database in formato dBASE, Microsoft Access, MySQL, Oracle o qualsiasi altro database compatibile con ODBC o JDBC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can create and edit forms, reports, queries, tables, views, and relations, so that managing a relational database is much the same as in other popular database applications.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211038Z" creationid="Marco Marega" creationdate="20180527T211038Z">
+        <seg>Base rende possibile creare e modificare formulari, rapporti, query, tabelle, viste e relazioni, in modo da poter gestire un database relazionale esattamente come con i più comuni applicativi per la gestione di database.</seg>
       </tuv>
     </tu>
     <tu>
