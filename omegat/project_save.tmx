@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Base also provides support for a subset of ANSI-92 SQL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211236Z" creationid="Marco Marega" creationdate="20180527T211236Z">
+        <seg>Base fornisce il supporto per un sottoinsieme del linguaggio SQL ANSI-92.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base incorporates two relational database engines, HSQLDB and PostgreSQL.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211150Z" creationid="Marco Marega" creationdate="20180527T211150Z">
@@ -910,6 +918,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Math (formula editor)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211243Z" creationid="Marco Marega" creationdate="20180527T211243Z">
+        <seg>Math (formule)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Math is the LibreOffice formula or equation editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211313Z" creationid="Marco Marega" creationdate="20180527T211313Z">
+        <seg>Math è il programma di LibreOffice per formule o equazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of the tasks are best done in Slide Sorter view where you can see most of the slides simultaneously.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
@@ -1462,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While it is most commonly used &lt;t0/&gt;to create formulas in other documents, such as Writer and Impress files, Math can also work as a standalone tool.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211644Z" creationid="Marco Marega" creationdate="20180527T211452Z">
+        <seg>Nonostante normalmente venga usato &lt;t0/&gt;per creare formule in altri documenti, come file di Writer e Impress, Math è utilizzabile anche come strumento indipendente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writer (word processor)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200013Z" creationid="Marco Marega" creationdate="20180527T200013Z">
@@ -1538,6 +1570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210921Z" creationid="Marco Marega" creationdate="20180527T210921Z">
         <seg>Con Draw potete creare disegni da utilizzare in qualsiasi altro componente di LibreOffice e nuove clipart da aggiungere alla Galleria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use it to create complex equations that include symbols or characters not available in standard font sets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211320Z" creationid="Marco Marega" creationdate="20180527T211320Z">
+        <seg>Può essere usato per creare equazioni complesse contenenti simboli o caratteri non disponibili nelle serie di caratteri standard.</seg>
       </tuv>
     </tu>
     <tu>
