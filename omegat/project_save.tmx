@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc generates 2D and 3D charts, which can be integrated into other LibreOffice documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200640Z" creationid="Marco Marega" creationdate="20180527T200640Z">
+        <seg>Con Calc è possibile generare grafici bi e tridimensionali che possono essere integrati in altri documenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc has all of the advanced analysis, charting, and decision making features expected from a high-end spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200527Z" creationid="Marco Marega" creationdate="20180527T200527Z">
@@ -702,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It includes over 300 functions for financial, statistical, and mathematical operations, among others.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200548Z" creationid="Marco Marega" creationdate="20180527T200548Z">
+        <seg>Dispone, tra l'altro, di oltre 300 funzioni per calcoli finanziari, statistici e matematici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Its native file format is Open Document Format (ODF), an open standard format that is being adopted by governments worldwide as a required file format for publishing and accepting documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T195848Z" creationid="Marco Marega" creationdate="20180527T195848Z">
@@ -1022,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Scenario Manager provides “what if” analysis.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200605Z" creationid="Marco Marega" creationdate="20180527T200605Z">
+        <seg>Il Gestore di scenari fornisce analisi del tipo "what if" (cosa succede se).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Slide Transition section has a very useful choice: Automatic preview.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090029Z" creationid="luke" creationdate="20180515T090029Z">
@@ -1330,6 +1354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200041Z" creationid="Marco Marega" creationdate="20180527T200041Z">
         <seg>Writer è uno strumento ricco di funzioni per la creazione di lettere, libri, relazioni, bollettini, depliant e altri documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also open and work with Microsoft Excel workbooks and save them in Excel format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200810Z" creationid="Marco Marega" creationdate="20180527T200810Z">
+        <seg>È anche possibile aprire e lavorare con fogli di calcolo di Microsoft Excel e salvarli nell'originario formato Excel.</seg>
       </tuv>
     </tu>
     <tu>
