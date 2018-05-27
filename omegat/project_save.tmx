@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Draw (vector graphics)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210653Z" creationid="Marco Marega" creationdate="20180527T210653Z">
+        <seg>Draw (grafica vettoriale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E-mailing documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154643Z" creationid="luke" creationdate="20180514T154643Z">
@@ -678,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Impress is compatible with Microsoft PowerPoint file format and can also save your work in numerous graphics formats, including Macromedia Flash (SWF).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T205400Z" creationid="Marco Marega" creationdate="20180527T205400Z">
+        <seg>Impress è compatibile con il formato Microsoft PowerPoint ed è anche in grado di salvare le vostre presentazioni in numerosi formati grafici, compreso Macromedia Flash (SWF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Impress provides all the common multimedia presentation tools, such as special effects, animation, and drawing tools.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T205035Z" creationid="Marco Marega" creationdate="20180527T205035Z">
@@ -744,8 +760,8 @@
       <tuv lang="EN">
         <seg>It is integrated with the advanced graphics capabilities of LibreOffice Draw and Math components.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T205117Z" creationid="Marco Marega" creationdate="20180527T205117Z">
-        <seg>It is integrated with the advanced graphics capabilities of LibreOffice Draw and Math components.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T205227Z" creationid="Marco Marega" creationdate="20180527T205117Z">
+        <seg>È integrato con le funzioni grafiche avanzate dei componenti Draw e Math di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,6 +1050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090026Z" creationid="luke" creationdate="20180515T090026Z">
         <seg>Transizioni delle diapositive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slideshows can be further enhanced using Fontwork special effects text, as well as sound and video clips.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T205334Z" creationid="Marco Marega" creationdate="20180527T205334Z">
+        <seg>Le presentazioni possono essere ulteriormente migliorate con speciali effetti di testo ottenibili con Fontwork e contributi audio e video.</seg>
       </tuv>
     </tu>
     <tu>
