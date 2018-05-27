@@ -702,6 +702,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice can also open and save documents in many other formats, including those used by several versions of Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T195947Z" creationid="Marco Marega" creationdate="20180527T195947Z">
+        <seg>LibreOffice è anche in grado di aprire e salvare documenti in molti altri formati, compresi quelli utilizzati da varie versioni di Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice includes the following components.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200006Z" creationid="Marco Marega" creationdate="20180527T200006Z">
+        <seg>LibreOffice comprende i seguenti componenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice is a freely available, fully-featured office productivity suite.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T195643Z" creationid="luke" creationdate="20180515T085911Z">
@@ -1270,6 +1286,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writer (word processor)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200013Z" creationid="Marco Marega" creationdate="20180527T200013Z">
+        <seg>Writer (elaborazione di testi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer can export files to HTML, XHTML, XML, Adobe Portable Document Format (PDF), and several versions of Microsoft Word files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200309Z" creationid="Marco Marega" creationdate="20180527T200309Z">
+        <seg>Con Writer è possibile esportare file nei formati HTML, XHTML, XML, Adobe Portable Document Format (PDF) e Microsoft Word di diverse versioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer is a feature-rich tool for creating letters, books, reports, newsletters, brochures, and other documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200041Z" creationid="Marco Marega" creationdate="20180527T200041Z">
+        <seg>Writer è uno strumento ricco di funzioni per la creazione di lettere, libri, relazioni, bollettini, depliant e altri documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also pay for support through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154658Z" creationid="luke" creationdate="20180514T154658Z">
@@ -1290,6 +1330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085956Z" creationid="luke" creationdate="20180515T085956Z">
         <seg>You can have as many slide shows as you want from a single presentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can insert graphics and objects from other components into Writer documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200137Z" creationid="Marco Marega" creationdate="20180527T200137Z">
+        <seg>Nei documenti di Writer è possibile inserire grafici e oggetti provenienti da altri componenti.</seg>
       </tuv>
     </tu>
     <tu>
