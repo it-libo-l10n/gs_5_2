@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel,” making them easy to use and master.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212724Z" creationid="Marco Marega" creationdate="20180527T212724Z">
+        <seg>&lt;f0&gt;Interfaccia utente condivisa.&lt;/f0&gt; L'interfaccia utente semplice ed intuitiva comune a tutti i componenti rende il loro utilizzo semplice da apprendere e padroneggiare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Create the required sequence by removing images or moving them up or down in the list of images.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
@@ -914,6 +922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090040Z" creationid="luke" creationdate="20180515T090040Z">
         <seg>LibreOffice Impress has a Presenter Console function that can be used when an extra display for presentation has been connected to your computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice also provides support for both Complex Text Layout (CTL) and Right to Left (RTL) layout languages (such as Urdu, Hebrew, and Arabic).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212633Z" creationid="Marco Marega" creationdate="20180527T212633Z">
+        <seg>LibreOffice offre anche supporto sia per le lingue con disposizione di testo complesso (CTL) sia per lingue con scrittura da destra a sinistra (RTL), quali Urdu, Ebraico e Arabo.</seg>
       </tuv>
     </tu>
     <tu>
