@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085946Z" creationid="luke" creationdate="20180515T085946Z">
         <seg>&lt;f0&gt;If&lt;/f0&gt; you se&lt;f1&gt;lec&lt;/f1&gt;t&lt;f2&gt;ed&lt;/f2&gt; &lt;f3&gt;Add caption to each slide&lt;/f3&gt;, &lt;f4&gt;t&lt;/f4&gt;here will be a placeholder for the image caption &lt;f5&gt;(title) on each slide.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Integration.&lt;/f0&gt; The components of LibreOffice are well integrated with one another.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T182242Z" creationid="Marco Marega" creationdate="20180528T182242Z">
+        <seg>&lt;f0&gt;Integration.&lt;/f0&gt; The components of LibreOffice are well integrated with one another.</seg>
       </tuv>
     </tu>
     <tu>
