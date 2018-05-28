@@ -80,8 +80,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Integration.&lt;/f0&gt; The components of LibreOffice are well integrated with one another.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T182242Z" creationid="Marco Marega" creationdate="20180528T182242Z">
-        <seg>&lt;f0&gt;Integration.&lt;/f0&gt; The components of LibreOffice are well integrated with one another.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184701Z" creationid="Marco Marega" creationdate="20180528T182242Z">
+        <seg>&lt;f0&gt;Integrazione.&lt;/f0&gt; I componenti di LibreOffice sono ben integrati tra loro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211728Z" creationid="Marco Marega" creationdate="20180527T211728Z">
         <seg>Vantaggi di LibreOffice 19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the components share a common spelling checker and other tools, which are used consistently across the suite.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184724Z" creationid="Marco Marega" creationdate="20180528T184724Z">
+        <seg>Tutti i componenti condividono un correttore ortografico e altri strumenti comuni, utilizzabili in modo omogeneo in tutta la suite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,6 +666,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the drawing tools available in Writer are also found in Calc, with similar but enhanced versions in Impress and Draw.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184751Z" creationid="Marco Marega" creationdate="20180528T184751Z">
+        <seg>Ad esempio, gli strumenti di disegno disponibili in Writer sono gli stessi presenti in Calc e, con funzionalità simili ma più avanzate, in Impress e Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you can open a Draw file from Writer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184836Z" creationid="Marco Marega" creationdate="20180528T184836Z">
+        <seg>A titolo di esempio, potete aprire un file Draw da Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1786,6 +1810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211320Z" creationid="Marco Marega" creationdate="20180527T211320Z">
         <seg>Può essere usato per creare equazioni complesse contenenti simboli o caratteri non disponibili nelle serie di caratteri standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not need to know which application was used to create a particular file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184821Z" creationid="Marco Marega" creationdate="20180528T184821Z">
+        <seg>Non è necessario sapere quale applicazione è stata utilizzata per creare un determinato file.</seg>
       </tuv>
     </tu>
     <tu>
