@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to install the software</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191512Z" creationid="Marco Marega" creationdate="20180528T191512Z">
+        <seg>Installazione del software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, LibreOffice options can be set at a component level or even at document level.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185032Z" creationid="Marco Marega" creationdate="20180528T185032Z">
@@ -1034,6 +1042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
         <seg>In many situations, you may find that you have more slides than the time available to present them or you may want to provide a rapid overview without dwelling on the details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information on installing and setting up LibreOffice on the various supported operating systems is given here: &lt;a0&gt;http://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191635Z" creationid="Marco Marega" creationdate="20180528T191635Z">
+        <seg>Le informazioni relative all'installazione e impostazione di LibreOffice sui vari sistemi operativi supportati sono fornite a questo indirizzo: &lt;a0&gt;https://it.libreoffice.org/supporto/installazione/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,6 +1210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154751Z" creationid="luke" creationdate="20180514T154751Z">
         <seg>Listing &lt;seq0&gt;6&lt;/seq0&gt;: Append the text “Hello” to the current document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X users can also get two versions of LibreOffice from the App Store: LibreOffice Vanilla (free) and LibreOffice-from-Collabora (an enterprise-ready version; small fee).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191501Z" creationid="Marco Marega" creationdate="20180528T191501Z">
+        <seg>Gli utenti di Mac OS X possono ottenere dall'App Store due versioni di LibreOffice: LibreOffice Vanilla (libero) e LibreOffice-from-Collabora (una versione orientata alle imprese; con un piccolo onere).</seg>
       </tuv>
     </tu>
     <tu>
