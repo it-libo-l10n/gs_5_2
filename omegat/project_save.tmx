@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list of pages drops down.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083245Z" creationid="manuel" creationdate="20180528T083245Z">
+        <seg>Appare un elenco di pagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acknowledgments</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072753Z" creationid="luke" creationdate="20180515T072753Z">
@@ -398,6 +406,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choosing &lt;i0/&gt;options for all of LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083208Z" creationid="manuel" creationdate="20180528T083208Z">
+        <seg>&lt;i0/&gt;Opzioni comuni a tutti i componenti di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing Options to Suit the Way You Work</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083204Z" creationid="manuel" creationdate="20180528T083204Z">
+        <seg>Scegliere le opzioni adatte al vostro lavoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Apply to All Slides&lt;/f0&gt; to apply the transition for all of your presentation or continue selecting transitions to place between each slide in your presentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090028Z" creationid="luke" creationdate="20180515T090028Z">
@@ -418,6 +442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z" creationid="luke" creationdate="20180515T090036Z">
         <seg>Click &lt;f0&gt;Slide Show &gt; Start from first Slide&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083228Z" creationid="manuel" creationdate="20180528T083228Z">
+        <seg>Fate clic su &lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z" creationid="luke" creationdate="20180515T090036Z">
         <seg>Click the &lt;f0&gt;Start from first Slide&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Presentation toolbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the marker (+ or triangle) by LibreOffice on the left-hand side.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083242Z" creationid="manuel" creationdate="20180528T083242Z">
+        <seg>Fate clic sul marcatore (+ o triangolo) vicino a LibreOffice sul lato sinistro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,10 +638,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: LibreOffice options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083307Z" creationid="manuel" creationdate="20180528T083307Z">
+        <seg>Figura &lt;seq0&gt;15&lt;/seq0&gt;: Opzioni - LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For information on settings not discussed here, see the Help.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083224Z" creationid="manuel" creationdate="20180528T083224Z">
+        <seg>Per informazioni sulle impostazioni non discusse in questa sezione, si veda l'aiuto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1198,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting an item in the list causes the right-hand side of the dialog to display the relevant page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083300Z" creationid="manuel" creationdate="20180528T083300Z">
+        <seg>Selezionando un elemento dell'elenco apparirà, sul lato destro della finestra di dialogo, la pagina relativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting up LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T082952Z" creationid="manuel" creationdate="20180528T082952Z">
@@ -1326,10 +1390,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The illustrations in this chapter show the list as it appears when a Writer document is open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083234Z" creationid="manuel" creationdate="20180528T083234Z">
+        <seg>Le illustrazioni di questo capitolo mostrano l'elenco che appare quando è aperto un documento di Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The illustrations in this guide were taken from a variety of computers and operating systems.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085731Z" creationid="luke" creationdate="20180515T085731Z">
         <seg>Le illustrazioni di questa guida sono state tratte da computer e sistemi operativi diversi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The list in the left-hand box of the Options – LibreOffice dialog varies depending on which component of LibreOffice is open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083231Z" creationid="manuel" creationdate="20180528T083231Z">
+        <seg>L'elenco nella parte sinistra della finestra varia a seconda del componente di LibreOffice aperto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1370,6 +1450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
         <seg>This section covers only some aspects; more advanced techniques are explained in the &lt;f2&gt;Impress Guide Chapter 9 Slide Shows&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This section covers some of the settings that apply to all the components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083211Z" creationid="manuel" creationdate="20180528T083211Z">
+        <seg>Questa sezione tratta alcune delle impostazioni comuni a tutti i componenti di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +1810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z" creationid="luke" creationdate="20180515T090031Z">
         <seg>automatically advance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>setup options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083206Z" creationid="manuel" creationdate="20180528T083206Z">
+        <seg>opzioni di installazione</seg>
       </tuv>
     </tu>
     <tu>
