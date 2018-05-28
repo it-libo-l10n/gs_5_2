@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;LibreOffice uses OpenDocument, an XML (eXtensible Markup Language) file format developed as an industry standard by OASIS (Organization for the Advancement of Structured Information Standards).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185802Z" creationid="Marco Marega" creationdate="20180528T185802Z">
+        <seg>&lt;/f0&gt;LibreOffice usa OpenDocument, un formato di file in XML (eXtensible Markup Language), sviluppato come standard di settore da OASIS (Organization for the Advancement of Structured Information Standards).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;Usually, if you change an option, it affects all components.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184935Z" creationid="Marco Marega" creationdate="20180528T184935Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211800Z" creationid="Marco Marega" creationdate="20180527T211800Z">
         <seg>&lt;f0&gt;Nessun costo di licenza&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;No vendor lock-in.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185618Z" creationid="Marco Marega" creationdate="20180528T185618Z">
+        <seg>&lt;f0&gt;Nessun vincolo esclusivo con il produttore.</seg>
       </tuv>
     </tu>
     <tu>
