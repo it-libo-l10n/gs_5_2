@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;GNU/Linux&lt;/f0&gt; Kernel version 2.6.18, glibc2 v2.5 or higher, and gtk v2.10.4 or higher</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190531Z" creationid="Marco Marega" creationdate="20180528T190531Z">
+        <seg>&lt;f0&gt;GNU/&lt;/f0&gt;Linux Kernel versione 2.6.18, glibc2 v2.5 o superiore, e gtk v2.10.4 o superiore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Getting Started&lt;/f0&gt; Guide</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T082726Z" creationid="luke" creationdate="20180515T082726Z">
@@ -122,6 +130,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090141Z" creationid="luke" creationdate="20180515T090141Z">
         <seg>&lt;f0&gt;LibreOffice Draw&lt;/f0&gt; is &lt;i1/&gt;a vector graphics drawing program, although it can also perform some operations on raster graphics (pixels).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Mac OS X&lt;/f0&gt; 10.8 (Mountain Lion) or higher</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190551Z" creationid="Marco Marega" creationdate="20180528T190551Z">
+        <seg>&lt;f0&gt;Mac OS X&lt;/f0&gt; 10.8 (Mountain Lion) o superiore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Microsoft Windows&lt;/f0&gt; XP SP3, Vista, Windows Server 2008, Windows 7, Windows 8/8.1, Windows Server 2012, or Windows 10.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190454Z" creationid="Marco Marega" creationdate="20180528T190454Z">
+        <seg>&lt;f0&gt;Microsoft Windows&lt;/f0&gt; XP SP3, Vista, Windows Server 2008, Windows 7, Windows 8/8.1, Windows Server 2012, o Windows 10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Administrator rights are needed for the installation process.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190556Z" creationid="Marco Marega" creationdate="20180528T190556Z">
+        <seg>Per il processo d'installazione sono richiesti privilegi di amministratore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advantages of LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211728Z" creationid="Marco Marega" creationdate="20180527T211728Z">
@@ -234,6 +266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085801Z" creationid="luke" creationdate="20180515T085801Z">
         <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although LibreOffice will work without Java support, some features will not be available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190658Z" creationid="Marco Marega" creationdate="20180528T190658Z">
+        <seg>Sebbene LibreOffice funzioni senza supporto Java, alcune funzionalità non saranno disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1410,6 +1450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T205334Z" creationid="Marco Marega" creationdate="20180527T205334Z">
         <seg>Le presentazioni possono essere ulteriormente migliorate con speciali effetti di testo ottenibili con Fontwork e contributi audio e video.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some LibreOffice features (wizards and the HSQLDB database engine) require that the Java Runtime Environment (JRE) is installed on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190618Z" creationid="Marco Marega" creationdate="20180528T190618Z">
+        <seg>Alcune funzionalità di LibreOffice (le procedure guidate e il motore di database HSQLDB) richiedono che Java Runtime Environment (JRE) sia installato sul vostro computer.</seg>
       </tuv>
     </tu>
     <tu>
