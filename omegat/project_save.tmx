@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You have a voice.&lt;/f0&gt; Enhancements, software fixes, and release dates are community-driven.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190036Z" creationid="Marco Marega" creationdate="20180528T190036Z">
+        <seg>&lt;f0&gt;Tutti hanno voce in capitolo.&lt;/f0&gt; Migliorie, eliminazione di bug e date di rilascio sono determinate dalla comunità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;390&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Getting Started with LibreOffice 5.2&lt;/t3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072535Z" creationid="luke" creationdate="20180515T072535Z">
@@ -1522,6 +1530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085738Z" creationid="luke" creationdate="20180515T085738Z">
         <seg>Alcune immagini, pertanto, non saranno esattamente uguali a quelle che vedete sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These files can easily be unzipped and read by any text editor, and their framework is open and published.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190005Z" creationid="Marco Marega" creationdate="20180528T190005Z">
+        <seg>Tali file possono essere facilmente decompressi e letti con un qualsiasi editor di testo e la loro struttura è aperta e liberamente consultabile.</seg>
       </tuv>
     </tu>
     <tu>
