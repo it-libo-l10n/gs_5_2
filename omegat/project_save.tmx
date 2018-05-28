@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux users will also find LibreOffice included in many of the latest Linux distributions; Ubuntu is just one example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191244Z" creationid="Marco Marega" creationdate="20180528T191244Z">
+        <seg>Gli utenti Linux troveranno LibreOffice compreso in molte delle più recenti distribuzioni Linux; Ubuntu è solo un esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;6&lt;/seq0&gt;: Append the text “Hello” to the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154751Z" creationid="luke" creationdate="20180514T154751Z">
@@ -1890,6 +1898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200041Z" creationid="Marco Marega" creationdate="20180527T200041Z">
         <seg>Writer è uno strumento ricco di funzioni per la creazione di lettere, libri, relazioni, bollettini, depliant e altri documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also download the software by using a Peer-to-Peer client, such as BitTorrent, at the same address.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191200Z" creationid="Marco Marega" creationdate="20180528T191200Z">
+        <seg>Dallo stesso indirizzo è anche possibile scaricare il software utilizzando un programma Peer-to-Peer, come ad esempio BitTorrent, .</seg>
       </tuv>
     </tu>
     <tu>
