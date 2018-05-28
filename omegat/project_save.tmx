@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice 5.&lt;f0&gt;2&lt;/f0&gt; requires one of the following operating systems:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190443Z" creationid="Marco Marega" creationdate="20180528T190443Z">
+        <seg>LibreOffice 5.&lt;f0&gt;2&lt;/f0&gt; richiede uno dei seguenti sistemi operativi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice Impress has a Presenter Console function that can be used when an extra display for presentation has been connected to your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090040Z" creationid="luke" creationdate="20180515T090040Z">
@@ -1154,6 +1162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211313Z" creationid="Marco Marega" creationdate="20180527T211313Z">
         <seg>Math è il programma di LibreOffice per formule o equazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minimum requirements</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190149Z" creationid="Marco Marega" creationdate="20180528T190149Z">
+        <seg>Requisiti minimi di sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -1842,6 +1858,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200137Z" creationid="Marco Marega" creationdate="20180527T200137Z">
         <seg>Nei documenti di Writer è possibile inserire grafici e oggetti provenienti da altri componenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can join the community and affect the course of the product you use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190103Z" creationid="Marco Marega" creationdate="20180528T190103Z">
+        <seg>Anche voi potete entrare a far parte della comunità e contribuire allo sviluppo del prodotto che utilizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can read more about LibreOffice and The Document Foundation on their websites at &lt;a0&gt;http://www.libreoffice.org/&lt;/a0&gt; and &lt;a1&gt;http://www.documentfoundation.org/&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190141Z" creationid="Marco Marega" creationdate="20180528T190141Z">
+        <seg>Maggiori informazioni riguardo a LibreOffice e The Document Foundation sono reperibili sui rispettivi siti web &lt;a0&gt;http://www.libreoffice.org/&lt;/a0&gt; e &lt;a1&gt;http://www.documentfoundation.org/&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
