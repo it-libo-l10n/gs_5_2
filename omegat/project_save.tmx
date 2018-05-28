@@ -702,6 +702,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extensions and add-ons</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191641Z" creationid="Marco Marega" creationdate="20180528T191641Z">
+        <seg>Estensioni e componenti aggiuntivi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extensions and add-ons are available to enhance LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191649Z" creationid="Marco Marega" creationdate="20180528T191649Z">
+        <seg>Sono disponibili estensioni e componenti aggiuntivi per ottimizzare LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Feedback</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072741Z" creationid="luke" creationdate="20180515T072741Z">
