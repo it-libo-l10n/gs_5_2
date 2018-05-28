@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;Usually, if you change an option, it affects all components.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184935Z" creationid="Marco Marega" creationdate="20180528T184935Z">
+        <seg>&lt;/f0&gt;Di solito, la modifica di un'opzione si riflette su tutti i componenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel,” making them easy to use and master.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212724Z" creationid="Marco Marega" creationdate="20180527T212724Z">
@@ -62,10 +70,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;File compatibility.&lt;/f0&gt; In addition to its native OpenDocument formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185448Z" creationid="Marco Marega" creationdate="20180528T185108Z">
+        <seg>&lt;f0&gt;Compatibilità dei file.&lt;/f0&gt; Oltre ai propri formati nativi OpenDocument, LibreOffice include il supporto per aprire e salvare i file in molti formati comuni tra i quali: Microsoft Office, HTML, XML, WordPerfect e Lotus 1-2-3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Getting Started&lt;/f0&gt; Guide</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T082726Z" creationid="luke" creationdate="20180515T082726Z">
         <seg>&lt;f0&gt;Getting Started&lt;/f0&gt; Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Granularity.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184853Z" creationid="Marco Marega" creationdate="20180528T184853Z">
+        <seg>&lt;f0&gt;Granularità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -818,6 +842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085950Z" creationid="luke" creationdate="20180515T085950Z">
         <seg>Hiding slides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, LibreOffice options can be set at a component level or even at document level.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185032Z" creationid="Marco Marega" creationdate="20180528T185032Z">
+        <seg>In ogni caso, le opzioni di LibreOffice possono essere configurate a livello di componente o addirittura di singolo documento.</seg>
       </tuv>
     </tu>
     <tu>
