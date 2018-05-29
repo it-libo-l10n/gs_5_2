@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;16&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Setting general options for LibreOffice&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060547Z" creationid="manuel" creationdate="20180529T060547Z">
+        <seg>&lt;f0&gt;Figura &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;16&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: impostazione delle opzioni generali di LibreOffice&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;File compatibility.&lt;/f0&gt; In addition to its native OpenDocument formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185448Z" creationid="Marco Marega" creationdate="20180528T185108Z">
@@ -934,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help – Extended tips</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060440Z" creationid="manuel" creationdate="20180529T060440Z">
+        <seg>Guida - Guida attiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here are some of the advantages of LibreOffice over other office suites:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211746Z" creationid="Marco Marega" creationdate="20180527T211746Z">
@@ -1378,6 +1394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154730Z" creationid="luke" creationdate="20180514T154730Z">
         <seg>Open the Styles and Formatting window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open/Save Dialogs&lt;ie0/&gt; – Use LibreOffice dialogs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060554Z" creationid="manuel" creationdate="20180529T060554Z">
+        <seg>Finestre di dialogo Apri/Salva&lt;ie0/&gt; – Utilizza finestre di dialogo LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -1966,10 +1990,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When &lt;f0&gt;Extended tips&lt;/f0&gt; is active, a brief description of the function of a particular icon or menu command or a field on a dialog appears when you hold the mouse pointer over that item.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060447Z" creationid="manuel" creationdate="20180529T060447Z">
+        <seg>Se la &lt;f0&gt;Guida attiva&lt;/f0&gt; è abilitata, mantenendo il puntatore del mouse su un'icona, un comando di menu o un campo di una finestra, appare una breve descrizione della loro funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the sequence of images is ready, click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert Slides&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
         <seg>When the sequence of images is ready, click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert Slides&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this option is selected, the Open and Save dialogs supplied with LibreOffice will be used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060558Z" creationid="manuel" creationdate="20180529T060558Z">
+        <seg>Se l'opzione è selezionata, verranno usate le finestre Apri e Salva fornite da LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2146,6 +2186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z" creationid="luke" creationdate="20180515T090031Z">
         <seg>automatically advance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extended tips</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060435Z" creationid="manuel" creationdate="20180529T060435Z">
+        <seg>guida attiva</seg>
       </tuv>
     </tu>
     <tu>
