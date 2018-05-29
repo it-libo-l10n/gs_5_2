@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;(Not shown in illustration.)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070022Z" creationid="manuel" creationdate="20180529T070022Z">
+        <seg>&lt;f0&gt;(non è mostrato nell'illustrazione.)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel,” making them easy to use and master.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212724Z" creationid="Marco Marega" creationdate="20180527T212724Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154636Z" creationid="luke" creationdate="20180514T154636Z">
         <seg>Associating a document with a different template</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Available only in some operating systems and desktop managers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T065951Z" creationid="manuel" creationdate="20180529T065951Z">
+        <seg>Disponibile solo per alcuni sistemi operativi e desktop manager.</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Document status – Printing sets “document modified” status</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070034Z" creationid="manuel" creationdate="20180529T070034Z">
+        <seg>Stato del documento – Dopo la stampa cambia lo stato in “documento modificato”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Draw (vector graphics)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210653Z" creationid="Marco Marega" creationdate="20180527T210653Z">
@@ -1018,6 +1042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090037Z" creationid="luke" creationdate="20180515T090037Z">
         <seg>If the slide advance is set to &lt;f0&gt;On mouse click&lt;/f0&gt;, do one of the following to move from one slide to the next:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is selected, then the next time you close the document after printing, the print date is recorded in the document properties as a change and you will be prompted to save the document again, even if you did not make any other changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070043Z" creationid="manuel" creationdate="20180529T070043Z">
+        <seg>Se l'opzione è attiva, dopo la stampa di un documento, la data di stampa viene salvata nelle proprietà del documento come un cambiamento e, alla chiusura, verrà chiesto di salvare il documento anche se questo non ha subito modifiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specifies &lt;i0/&gt;how two-digit years are interpreted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070217Z" creationid="manuel" creationdate="20180529T070217Z">
+        <seg>Specifica &lt;i0/&gt;come sono interpretati gli anni espressi con due cifre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Reset&lt;/f0&gt; button, located in the lower right of the full Options dialog, has the same effect on all pages of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055034Z" creationid="manuel" creationdate="20180529T055034Z">
@@ -2094,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Year (two digits)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070050Z" creationid="manuel" creationdate="20180529T070050Z">
+        <seg>Anno (due cifre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also download the software by using a Peer-to-Peer client, such as BitTorrent, at the same address.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191200Z" creationid="Marco Marega" creationdate="20180528T191200Z">
@@ -2230,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>document status option</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070028Z" creationid="manuel" creationdate="20180529T070028Z">
+        <seg>opzione stato del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>extended tips</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060435Z" creationid="manuel" creationdate="20180529T060435Z">
@@ -2270,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>two-digit years</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070115Z" creationid="manuel" creationdate="20180529T070115Z">
+        <seg>anni espressi con due cifre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>user data options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055145Z" creationid="manuel" creationdate="20180529T055145Z">
@@ -2282,6 +2346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090133Z" creationid="luke" creationdate="20180515T090133Z">
         <seg>grafica vettoriale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>year (two digits)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070047Z" creationid="manuel" creationdate="20180529T070047Z">
+        <seg>anno (due cifre)</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
