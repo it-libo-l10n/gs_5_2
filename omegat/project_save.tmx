@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Because LibreOffice can use the name or initials stored in the &lt;f0&gt;LibreOffice – User Data&lt;/f0&gt; page for several things – including document properties (‘created by’ and ‘last edited by’ information), the name of the author of comments and changes, and the sender address in mailing lists – you will want to ensure that the correct information appears here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055533Z" creationid="manuel" creationdate="20180529T055533Z">
+        <seg>Siccome LibreOffice utilizza il nome o le iniziali salvati nella pagina &lt;f0&gt;LibreOffice – Dati Utente&lt;/f0&gt; per diverse cose, incluse le proprietà del documento (informazioni relative alla creazione e all'ultima modifica), il nome dell'autore di annotazioni e modifiche, e l'indirizzo del mittente nelle mailing list – assicuratevi di inserire in questa pagina le informazioni corrette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc (spreadsheet)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200328Z" creationid="Marco Marega" creationdate="20180527T200328Z">
