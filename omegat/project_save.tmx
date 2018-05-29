@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fill in the form (not shown here), or amend or delete any existing information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055823Z" creationid="manuel" creationdate="20180529T055823Z">
+        <seg>Compilate il modulo (non visualizzato qui), oppure correggete o cancellate eventuali informazioni sbagliate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a more detailed listing of requirements, see the LibreOffice website, &lt;a0&gt;http://www.libreoffice.org/get-help/system-requirements/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190828Z" creationid="Marco Marega" creationdate="20180528T190828Z">
@@ -818,6 +826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
         <seg>For more information and details about using the Presenter Console, see the &lt;f0&gt;Impress Guide Chapter 9 Slide Shows&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060009Z" creationid="manuel" creationdate="20180529T060009Z">
+        <seg>Opzioni generali</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055138Z" creationid="manuel" creationdate="20180529T055138Z">
         <seg>Se state utilizzando una versione di LibreOffice diversa da quella Inglese (US English), alcune etichette dei campi potrebbero essere diverse da quelle mostrate nelle illustrazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not want user data to be part of the document’s properties, clear the box at the bottom.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055931Z" creationid="manuel" creationdate="20180529T055931Z">
+        <seg>Se non volete che i dati utente facciano parte delle proprietà del documento, deselezionate la casella in basso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2114,6 +2138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z" creationid="luke" creationdate="20180515T090031Z">
         <seg>automatically advance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>general options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055935Z" creationid="manuel" creationdate="20180529T055935Z">
+        <seg>opzioni generali</seg>
       </tuv>
     </tu>
     <tu>
