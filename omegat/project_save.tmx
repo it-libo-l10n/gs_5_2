@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An “earlier” date is interpreted as being in the following century; that is, 1/1/20 is interpreted as 1/1/2020.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070247Z" creationid="manuel" creationdate="20180529T070247Z">
+        <seg>Una data "precedente" è interpretata come relativa al secolo successivo; ovvero, 01/01/20 è interpretata come 01/01/2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appendix A &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T084308Z" creationid="luke" creationdate="20180515T084308Z">
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190828Z" creationid="Marco Marega" creationdate="20180528T190828Z">
         <seg>Per un elenco più dettagliato dei requisiti, vi rimandiamo al sito web di LibreOffice, &lt;a0&gt;https://it.libreoffice.org/supporto/requisiti-sistema/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if the two-digit year is set to 1930, and you enter a date of 1/1/30 or later into your document, the date is interpreted as 1/1/1930 or later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070244Z" creationid="manuel" creationdate="20180529T070244Z">
+        <seg>Ad esempio, se il valore è impostato su 1930, inserendo nel documento la data 01/01/30 o posteriore, questa viene interpretata come 01/01/1930 o posteriore.</seg>
       </tuv>
     </tu>
     <tu>
