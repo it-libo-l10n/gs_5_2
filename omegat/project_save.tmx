@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Print &lt;f0&gt;D&lt;/f0&gt;ialogs - Use LibreOffice dialogs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T061229Z" creationid="manuel" creationdate="20180529T061229Z">
+        <seg>Finestre di dialogo di stampa&lt;f0&gt;&lt;/f0&gt; - Utilizza finestre di dialogo di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Publication date and software version</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072758Z" creationid="luke" creationdate="20180515T072758Z">
