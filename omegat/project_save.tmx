@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The options on the &lt;f0&gt;LibreOffice – General&lt;/f0&gt; page &lt;f1&gt;(Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;16&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;) &lt;/f4&gt;are described below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060429Z" creationid="manuel" creationdate="20180529T060429Z">
+        <seg>Di seguito vengono descritte le opzioni nella pagina &lt;f0&gt;LibreOffice – Generale&lt;/f0&gt; &lt;f1&gt;(Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;16&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The view you see on your computer display includes the current slide, the upcoming slide, any slide notes, and a presentation timer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090040Z" creationid="luke" creationdate="20180515T090040Z">
