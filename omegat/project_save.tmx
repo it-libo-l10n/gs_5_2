@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are using a version of LibreOffice other than US English, some field labels may be different from those shown in the illustrations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055138Z" creationid="manuel" creationdate="20180529T055138Z">
+        <seg>Se state utilizzando una versione di LibreOffice diversa da quella Inglese (US English), alcune etichette dei campi potrebbero essere diverse da quelle mostrate nelle illustrazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to create a custom slide show from the same presentation:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085953Z" creationid="luke" creationdate="20180515T085953Z">
@@ -1122,6 +1130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T205227Z" creationid="Marco Marega" creationdate="20180527T205117Z">
         <seg>È integrato con le funzioni grafiche avanzate dei componenti Draw e Math di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It resets the options to the values that were in place when you opened the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055130Z" creationid="manuel" creationdate="20180529T055130Z">
+        <seg>Reimposta le opzioni sui valori presenti all'apertura della finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Reset&lt;/f0&gt; button, located in the lower right of the full Options dialog, has the same effect on all pages of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055034Z" creationid="manuel" creationdate="20180529T055034Z">
+        <seg>Il pulsante &lt;f0&gt;Ripristina&lt;/f0&gt; (posizionato in basso a destra nella finestra di dialogo Opzioni) ha lo stesso effetto in tutte le pagine della finestra Opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The EnterMyName macro is not as complicated as it first appears.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154800Z" creationid="luke" creationdate="20180514T154800Z">
@@ -1838,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User Data options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055150Z" creationid="manuel" creationdate="20180529T055150Z">
+        <seg>Dati utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Impress Remote control</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
@@ -2098,6 +2130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090013Z" creationid="luke" creationdate="20180515T090013Z">
         <seg>transizioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>user data options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055145Z" creationid="manuel" creationdate="20180529T055145Z">
+        <seg>dati utente</seg>
       </tuv>
     </tu>
     <tu>
