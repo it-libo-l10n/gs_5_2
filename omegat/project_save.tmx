@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Same as above, but for the Print dialogs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T061406Z" creationid="manuel" creationdate="20180529T061406Z">
+        <seg>Come sopra,ma per le finestre di dialogo di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Chapter 1, Introducing LibreOffice, for more about the LibreOffice Open and Save dialogs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060856Z" creationid="manuel" creationdate="20180529T060856Z">
