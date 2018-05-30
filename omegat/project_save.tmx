@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Memory options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081318Z" creationid="manuel" creationdate="20180530T081318Z">
+        <seg>Memoria principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimum requirements</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190149Z" creationid="Marco Marega" creationdate="20180528T190149Z">
@@ -1826,6 +1834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060429Z" creationid="manuel" creationdate="20180529T060429Z">
         <seg>Di seguito vengono descritte le opzioni nella pagina &lt;f0&gt;LibreOffice – Generale&lt;/f0&gt; &lt;f1&gt;(Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;16&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The usage data is sent anonymously and carries no document contents, only the commands used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081310Z" creationid="manuel" creationdate="20180530T081310Z">
+        <seg>I dati di utilizzo vengono inviati in forma anonima e non contengono contenuti di documenti, ma solo i comandi utilizzati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2338,6 +2354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055935Z" creationid="manuel" creationdate="20180529T055935Z">
         <seg>opzioni generali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>memory options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081315Z" creationid="manuel" creationdate="20180530T081315Z">
+        <seg>memoria principale</seg>
       </tuv>
     </tu>
     <tu>
