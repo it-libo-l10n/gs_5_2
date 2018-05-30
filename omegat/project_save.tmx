@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;H&lt;/f1&gt;ere the Automatic option uses an icon set compatible with your operating system and choice of desktop: for example, KDE or Gnome on Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084848Z" creationid="manuel" creationdate="20180530T084848Z">
+        <seg>&lt;f1&gt;In questo caso&lt;/f1&gt; l'opzione Automatico usa un tipo di icone compatibile con il vostro sistema operativo e la vostra impostazione del desktop: ad esempio, KDE o Gnome in Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;390&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Getting Started with LibreOffice 5.2&lt;/t3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072535Z" creationid="luke" creationdate="20180515T072535Z">
@@ -1838,6 +1846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Th&lt;f0&gt;is &lt;/f0&gt;box specifies the icon style (theme).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084743Z" creationid="manuel" creationdate="20180530T084743Z">
+        <seg>Questa&lt;f0&gt; &lt;/f0&gt;opzione specifica lo stile icona (tema).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Reset&lt;/f0&gt; button, located in the lower right of the full Options dialog, has the same effect on all pages of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055034Z" creationid="manuel" creationdate="20180529T055034Z">
@@ -2262,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User interface – &lt;i0/&gt;&lt;i1/&gt;Screen font anti-aliasing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084901Z" creationid="manuel" creationdate="20180530T084901Z">
+        <seg>Interfaccia utente – &lt;i0/&gt;&lt;i1/&gt;Eliminazione effetto scalettatura (antialiasing)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Impress Remote control</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
@@ -2526,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>antialiasing screen font</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084859Z" creationid="manuel" creationdate="20180530T084859Z">
+        <seg>eliminazione effetto scalettatura (antialiasing)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>automatically advance</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z" creationid="luke" creationdate="20180515T090031Z">
@@ -2586,6 +2618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084059Z" creationid="manuel" creationdate="20180530T084059Z">
         <seg>scala (interfaccia utente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>screen font antialiasing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084856Z" creationid="manuel" creationdate="20180530T084856Z">
+        <seg>eliminazione effetto scalettatura (antialiasing)</seg>
       </tuv>
     </tu>
     <tu>
