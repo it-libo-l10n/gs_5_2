@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data about usage patterns helps with identifying the most frequently used sequences of commands while performing common tasks; the developers can then design a user interface that is easier to use and more productive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081154Z" creationid="manuel" creationdate="20180530T081154Z">
+        <seg>I dati sui modelli di utilizzo aiutano a identificare le sequenze di comandi utilizzate più frequentemente durante l'esecuzione di attività comuni; gli sviluppatori possono quindi progettare un'interfaccia utente più facile da usare e più produttiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date (fixed)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085937Z" creationid="luke" creationdate="20180515T085937Z">
@@ -1618,6 +1626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083300Z" creationid="manuel" creationdate="20180528T083300Z">
         <seg>Selezionando un elemento dell'elenco apparirà, sul lato destro della finestra di dialogo, la pagina relativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send usage data to help The Document Foundation improve usability of the software.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081042Z" creationid="manuel" creationdate="20180530T081042Z">
+        <seg>Inviate i dati di utilizzo per aiutare The Document Foundation a migliorare l'usabilità del software.</seg>
       </tuv>
     </tu>
     <tu>
