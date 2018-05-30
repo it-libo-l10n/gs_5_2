@@ -846,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083955Z" creationid="manuel" creationdate="20180530T083955Z">
+        <seg>Figura &lt;seq0&gt;18&lt;/seq0&gt;: le opzioni di Vista per le applicazioni LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
@@ -1710,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set them to suit your personal preferences.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083902Z" creationid="manuel" creationdate="20180530T083902Z">
+        <seg>Potete impostarle come preferite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting up LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T082952Z" creationid="manuel" creationdate="20180528T082952Z">
@@ -1762,6 +1778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190618Z" creationid="Marco Marega" creationdate="20180528T190618Z">
         <seg>Alcune funzionalità di LibreOffice (le procedure guidate e il motore di database HSQLDB) richiedono che Java Runtime Environment (JRE) sia installato sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some of these options are described below Figure &lt;t1&gt;18&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083859Z" creationid="manuel" creationdate="20180530T083859Z">
+        <seg>Di seguito sono descritte alcune di queste opzioni Figura &lt;t1&gt;18&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
