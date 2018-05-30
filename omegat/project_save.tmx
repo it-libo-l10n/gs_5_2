@@ -702,6 +702,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clipboard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091955Z" creationid="manuel" creationdate="20180530T091955Z">
+        <seg>Appunti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clipboard and “Selection clipboard” can contain different contents at the same time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091948Z" creationid="manuel" creationdate="20180530T091948Z">
+        <seg>Gli appunti e gli “Appunti di selezione” possono avere allo stesso tempo contenuti differenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Closes the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154724Z" creationid="luke" creationdate="20180514T154724Z">
@@ -730,6 +746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154651Z" creationid="luke" creationdate="20180514T154651Z">
         <seg>Controlling dialogs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy content</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091959Z" creationid="manuel" creationdate="20180530T091959Z">
+        <seg>Copia del contenuto</seg>
       </tuv>
     </tu>
     <tu>
@@ -962,6 +986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
         <seg>For more information and details about using the Presenter Console, see the &lt;f0&gt;Impress Guide Chapter 9 Slide Shows&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091954Z" creationid="manuel" creationdate="20180530T091954Z">
+        <seg>Funzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selection clipboard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091957Z" creationid="manuel" creationdate="20180530T091957Z">
+        <seg>Appunti di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Send usage data to help The Document Foundation improve usability of the software.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081042Z" creationid="manuel" creationdate="20180530T081042Z">
@@ -1922,6 +1962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055034Z" creationid="manuel" creationdate="20180529T055034Z">
         <seg>Il pulsante &lt;f0&gt;Ripristina&lt;/f0&gt; (posizionato in basso a destra nella finestra di dialogo Opzioni) ha lo stesso effetto in tutte le pagine della finestra Opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;i0/&gt;“Selection clipboard” is independent of the normal clipboard that you use by &lt;f1&gt;Edit &gt; Copy/Cut/Paste&lt;/f1&gt; or their respective keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091845Z" creationid="manuel" creationdate="20180530T091845Z">
+        <seg>Gli &lt;i0/&gt;“Appunti di selezione” sono indipendenti dai normali appunti che utilizzate tramite &lt;f1&gt;Modifica &gt; Copia/Taglia/Incolla&lt;/f1&gt; o i loro rispettivi tasti di scelta rapida.</seg>
       </tuv>
     </tu>
     <tu>
