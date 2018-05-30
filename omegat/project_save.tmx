@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(Not available in Windows.) Select this option to smooth the screen appearance of text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085508Z" creationid="manuel" creationdate="20180530T085508Z">
+        <seg>(Non disponibile in Windows.) Selezionate questa opzione per smorzare l'aspetto del testo sul monitor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The objects are still in the file even if you cannot see them on screen.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082053Z" creationid="manuel" creationdate="20180530T082053Z">
@@ -790,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the smallest font size to apply anti-aliasing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085522Z" creationid="manuel" creationdate="20180530T085522Z">
+        <seg>Inserite la più piccola dimensione del carattere, a partire dalla quale verrà applicata l'eliminazione dell'effetto scalettatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extensions and add-ons</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191641Z" creationid="Marco Marega" creationdate="20180528T191641Z">
@@ -1486,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Middle mouse button</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085531Z" creationid="manuel" creationdate="20180530T085531Z">
+        <seg>Tasto medio del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimum requirements</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190149Z" creationid="Marco Marega" creationdate="20180528T190149Z">
@@ -1506,6 +1530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
         <seg>Most of the tasks are best done in Slide Sorter view where you can see most of the slides simultaneously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mouse positioning</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085527Z" creationid="manuel" creationdate="20180530T085527Z">
+        <seg>Posizionamento del mouse</seg>
       </tuv>
     </tu>
     <tu>
@@ -1834,6 +1866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070217Z" creationid="manuel" creationdate="20180529T070217Z">
         <seg>Specifica &lt;i0/&gt;come sono interpretati gli anni espressi con due cifre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies if and how the mouse pointer will be positioned in newly opened dialogs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085528Z" creationid="manuel" creationdate="20180530T085528Z">
+        <seg>Specifica se e come il puntatore del mouse verrà posizionato nelle nuove finestre di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2610,6 +2650,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081315Z" creationid="manuel" creationdate="20180530T081315Z">
         <seg>memoria principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>middle mouse button function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085533Z" creationid="manuel" creationdate="20180530T085533Z">
+        <seg>funzione del tasto medio del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mouse positioning</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085525Z" creationid="manuel" creationdate="20180530T085525Z">
+        <seg>posizionamento del mouse</seg>
       </tuv>
     </tu>
     <tu>
