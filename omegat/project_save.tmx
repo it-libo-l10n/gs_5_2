@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, it does not affect the actual font size of the text in your documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084112Z" creationid="manuel" creationdate="20180530T084112Z">
+        <seg>Comunque, non ha alcun effetto sulle dimensioni dei caratteri del testo nei vostri documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the selected icon normally demands a consecutive mouse action, such as inserting a rectangle, then pressing the &lt;f1&gt;Enter&lt;/f1&gt; key is not sufficient: in these cases press &lt;f2&gt;Ctrl+Enter&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154727Z" creationid="luke" creationdate="20180514T154727Z">
@@ -1106,6 +1114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090037Z" creationid="luke" creationdate="20180515T090037Z">
         <seg>If the slide advance is set to &lt;f0&gt;On mouse click&lt;/f0&gt;, do one of the following to move from one slide to the next:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the text in the help files or on the menus of the LibreOffice user interface is too small or too large, you can change it by specifying a scaling factor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084104Z" creationid="manuel" creationdate="20180530T084104Z">
+        <seg>Se il testo nei file della Guida o nei menu dell'interfaccia utente di LibreOffice è troppo piccolo o troppo grande, è possibile modificarlo specificando un fattore di scala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes a change here can have unexpected results, depending on the screen fonts available on your system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084107Z" creationid="manuel" creationdate="20180530T084107Z">
+        <seg>La modifica di questo valore può dare risultati imprevisti, a seconda dei caratteri disponibili per lo schermo nel vostro sistema operativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes the macro recorder has a failure and understanding LibreOffice internal workings helps to understand how and why the macro recorder sometimes fails.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154755Z" creationid="luke" creationdate="20180514T154755Z">
@@ -2198,6 +2222,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User Interface – &lt;i0/&gt;Icon size</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084154Z" creationid="manuel" creationdate="20180530T084154Z">
+        <seg>Interfaccia utente – &lt;i0/&gt;Dimensione icona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User Interface – &lt;i0/&gt;Scaling</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084102Z" creationid="manuel" creationdate="20180530T084102Z">
+        <seg>Interfaccia utente – &lt;i0/&gt;Scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Impress Remote control</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
@@ -2502,10 +2542,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>icon size and style (user interface)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084114Z" creationid="manuel" creationdate="20180530T084114Z">
+        <seg>dimensioni e stile icona (interfaccia utente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>memory options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081315Z" creationid="manuel" creationdate="20180530T081315Z">
         <seg>memoria principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>scaling factor (user interface)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084059Z" creationid="manuel" creationdate="20180530T084059Z">
+        <seg>scala (interfaccia utente)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2546,6 +2602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055145Z" creationid="manuel" creationdate="20180529T055145Z">
         <seg>dati utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>user interface options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084057Z" creationid="manuel" creationdate="20180530T084057Z">
+        <seg>interfaccia utente</seg>
       </tuv>
     </tu>
     <tu>
