@@ -1830,10 +1830,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Th&lt;f0&gt;is &lt;/f0&gt;box specifies the display size of toolbar icons (Automatic, Small, or Large).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084410Z" creationid="manuel" creationdate="20180530T084410Z">
+        <seg>Questa&lt;f0&gt; &lt;/f0&gt;opzione specifica la dimensione delle icone sulla barra degli strumenti (Automatica, piccola o grande).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Reset&lt;/f0&gt; button, located in the lower right of the full Options dialog, has the same effect on all pages of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055034Z" creationid="manuel" creationdate="20180529T055034Z">
         <seg>Il pulsante &lt;f0&gt;Ripristina&lt;/f0&gt; (posizionato in basso a destra nella finestra di dialogo Opzioni) ha lo stesso effetto in tutte le pagine della finestra Opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Automatic icon size option uses the setting for your operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084426Z" creationid="manuel" creationdate="20180530T084426Z">
+        <seg>L'opzione Automatico usa l'impostazione della dimensione delle icone del vostro sistema operativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,6 +2234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055150Z" creationid="manuel" creationdate="20180529T055150Z">
         <seg>Dati utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User Interface &lt;s0/&gt;- Icon &lt;f1&gt;s&lt;/f1&gt;tyle</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084555Z" creationid="manuel" creationdate="20180530T084555Z">
+        <seg>Interfaccia utente &lt;s0/&gt;- Stile &lt;f1&gt;icona&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
