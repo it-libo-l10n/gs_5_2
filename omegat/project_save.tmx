@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Automatic scrolling&lt;/f0&gt; – dragging while pressing the middle mouse button shifts the view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085617Z" creationid="manuel" creationdate="20180530T085617Z">
+        <seg>&lt;f0&gt;Scorrimento automatico&lt;/f0&gt; - il trascinamento, mentre si preme il pulsante centrale del mouse, fa scorrere la visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel,” making them easy to use and master.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212724Z" creationid="Marco Marega" creationdate="20180527T212724Z">
@@ -746,6 +754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085937Z" creationid="luke" creationdate="20180515T085937Z">
         <seg>Date (fixed)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defines the function of the &lt;i0/&gt;middle mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085556Z" creationid="manuel" creationdate="20180530T085556Z">
+        <seg>Definisce la funzione del &lt;i0/&gt;tasto medio del mouse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,6 +2618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z" creationid="luke" creationdate="20180515T090031Z">
         <seg>automatically advance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>clipboard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085620Z" creationid="manuel" creationdate="20180530T085620Z">
+        <seg>Appunti</seg>
       </tuv>
     </tu>
     <tu>
