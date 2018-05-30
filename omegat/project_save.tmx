@@ -1278,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is not available on Mac OS X or on systems where the Quickstarter module has not been installed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082405Z" creationid="manuel" creationdate="20180530T082405Z">
+        <seg>Essa non è disponibile su Mac OS X o su sistemi dove il modulo Quickstarter non è installato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It resets the options to the values that were in place when you opened the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055130Z" creationid="manuel" creationdate="20180529T055130Z">
@@ -1942,6 +1950,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This makes LibreOffice start faster; the trade-off is LibreOffice uses some memory even when not being used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082201Z" creationid="manuel" creationdate="20180530T082201Z">
+        <seg>In questo modo LibreOffice si aprirà più velocemente, ma impegnerà parte della memoria anche quando non viene utilizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option is called &lt;f1&gt;Enable systray quickstarter&lt;/f1&gt; on Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082306Z" creationid="manuel" creationdate="20180530T082306Z">
+        <seg>Questa opzione è chiamata &lt;f1&gt;Abilita QuickStart nell'area di notifica&lt;/f1&gt; su Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This section covers only some aspects; more advanced techniques are explained in the &lt;f2&gt;Impress Guide Chapter 9 Slide Shows&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
@@ -2034,6 +2058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154737Z" creationid="luke" creationdate="20180514T154737Z">
         <seg>To have the shortcut key assignment available only with one component (for example, Writer), select that component’s name in the upper right corner of the page; otherwise select &lt;f0&gt;LibreOffice&lt;/f0&gt; to make it available to every component.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To load the &lt;i0/&gt;Quickstarter when you start your computer, select the option near the bottom of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082156Z" creationid="manuel" creationdate="20180530T082156Z">
+        <seg>Per caricare &lt;i0/&gt;Quickstart all'avvio del computer, selezionate l'opzione in fondo alla finestra.</seg>
       </tuv>
     </tu>
     <tu>
