@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Paste clipboard&lt;/f0&gt; – pressing the middle mouse button inserts the contents of the “&lt;i1/&gt;Selection clipboard” at the cursor position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T090928Z" creationid="manuel" creationdate="20180530T090928Z">
+        <seg>&lt;f0&gt;Incolla Appunti&lt;/f0&gt; – la pressione del pulsante centrale del mouse inserisce il contenuto degli “&lt;i1/&gt;Appunti di selezione” alla posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
@@ -2706,6 +2714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084856Z" creationid="manuel" creationdate="20180530T084856Z">
         <seg>eliminazione effetto scalettatura (antialiasing)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>selection clipboard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T090931Z" creationid="manuel" creationdate="20180530T090931Z">
+        <seg>appunti di selezione</seg>
       </tuv>
     </tu>
     <tu>
