@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;17&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Choosing Memory options for the LibreOffice applications&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082505Z" creationid="manuel" creationdate="20180530T082505Z">
+        <seg>&lt;f0&gt;Figura &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;17&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: le opzioni di Memoria per le applicazioni LibreOffice&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;File compatibility.&lt;/f0&gt; In addition to its native OpenDocument formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185448Z" creationid="Marco Marega" creationdate="20180528T185108Z">
@@ -1902,6 +1910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The options on the &lt;f0&gt;LibreOffice – View&lt;/f0&gt; page affect the way the document window looks and behaves.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082547Z" creationid="manuel" creationdate="20180530T082547Z">
+        <seg>Le opzioni della pagina &lt;f0&gt;LibreOffice – Vista&lt;/f0&gt; riguardano l'aspetto e il comportamento della finestra dei documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The usage data is sent anonymously and carries no document contents, only the commands used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081310Z" creationid="manuel" creationdate="20180530T081310Z">
@@ -2186,6 +2202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191034Z" creationid="Marco Marega" creationdate="20180528T191034Z">
         <seg>Le versioni di LibreOffice per Windows, Linux e Mac OS X si possono scaricare liberamente da &lt;a0&gt;https://it.libreoffice.org/download/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082536Z" creationid="manuel" creationdate="20180530T082536Z">
+        <seg>Vista</seg>
       </tuv>
     </tu>
     <tu>
@@ -2506,6 +2530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090133Z" creationid="luke" creationdate="20180515T090133Z">
         <seg>grafica vettoriale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>view options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082511Z" creationid="manuel" creationdate="20180530T082511Z">
+        <seg>vista</seg>
       </tuv>
     </tu>
     <tu>
