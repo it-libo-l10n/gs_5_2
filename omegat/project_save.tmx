@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before changing them, you may wish to consider the following points:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081601Z" creationid="manuel" creationdate="20180530T081601Z">
+        <seg>Prima di modificarle, tenete in considerazione i seguenti fattori:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc (spreadsheet)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200328Z" creationid="Marco Marega" creationdate="20180527T200328Z">
@@ -1834,6 +1842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060429Z" creationid="manuel" creationdate="20180529T060429Z">
         <seg>Di seguito vengono descritte le opzioni nella pagina &lt;f0&gt;LibreOffice – Generale&lt;/f0&gt; &lt;f1&gt;(Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;16&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The options on the &lt;f0&gt;LibreOffice – Memory&lt;/f0&gt; page control how LibreOffice uses your computer’s memory and how much memory it requires.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081552Z" creationid="manuel" creationdate="20180530T081552Z">
+        <seg>Le opzioni della pagina &lt;f0&gt;LibreOffice – Memoria principale&lt;/f0&gt; controllano l'utilizzo della memoria del computer e la memoria richiesta da parte di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
