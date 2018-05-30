@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(The objects are still in the file even if you cannot see them on screen.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082053Z" creationid="manuel" creationdate="20180530T082053Z">
+        <seg>(Gli oggetti sono comunque nel file anche se non li potete vedere a schermo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(You can change the sequence and remove or insert images later, as you can with any slides.)&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
@@ -1110,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you find that objects seem to disappear from a document that &lt;t0/&gt;contains a lot of them, increase the number of objects in the cache.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082043Z" creationid="manuel" creationdate="20180530T082043Z">
+        <seg>Se vi accorgete che in un  documento che &lt;t0/&gt;contiene molti oggetti questi sembrano scomparire, aumentate il numero di oggetti nella cache.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to create a custom slide show from the same presentation:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085953Z" creationid="luke" creationdate="20180515T085953Z">
@@ -1122,6 +1138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085934Z" creationid="luke" creationdate="20180515T085934Z">
         <seg>If you want to edit this field in your slide, see the &lt;f1&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f1&gt; for more information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your documents contain a lot of objects such as images, or the objects are large, LibreOffice’s performance may improve if you increase the memory for LibreOffice or the memory per object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081939Z" creationid="manuel" creationdate="20180530T081939Z">
+        <seg>Se i vostri documenti contengono molti oggetti come le immagini, oppure gli oggetti sono di grosse dimensioni, le prestazioni di LibreOffice potrebbero migliorare se aumentate la memoria per LibreOffice o la memoria per oggetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1422,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More memory can make LibreOffice faster and more convenient (for example, more undo steps require more memory); but less memory &lt;f0&gt;is &lt;/f0&gt;available for other applications.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081907Z" creationid="manuel" creationdate="20180530T081907Z">
+        <seg>Una memoria maggiore può rendere LibreOffice più comodo e veloce (ad esempio, ricordare più livelli per la funzione Annulla richiede più memoria); per contro, meno memoria &lt;f0&gt;è &lt;/f0&gt;disponibile per altre applicazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of the tasks are best done in Slide Sorter view where you can see most of the slides simultaneously.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
@@ -1538,6 +1570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072758Z" creationid="luke" creationdate="20180515T072758Z">
         <seg>Data di pubblicazione e versione del software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quickstarter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082103Z" creationid="manuel" creationdate="20180530T082103Z">
+        <seg>Quickstart</seg>
       </tuv>
     </tu>
     <tu>
@@ -2354,6 +2394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070028Z" creationid="manuel" creationdate="20180529T070028Z">
         <seg>opzione stato del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>enabling</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082058Z" creationid="manuel" creationdate="20180530T082058Z">
+        <seg>abilitare</seg>
       </tuv>
     </tu>
     <tu>
