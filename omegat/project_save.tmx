@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Always checkbox</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080245Z" creationid="manuel" creationdate="20180531T080245Z">
+        <seg>Casella sempre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An “earlier” date is interpreted as being in the following century; that is, 1/1/20 is interpreted as 1/1/2020.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070247Z" creationid="manuel" creationdate="20180529T070247Z">
@@ -1134,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Defining a font to be substituted for another font</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080019Z" creationid="manuel" creationdate="20180531T080019Z">
+        <seg>Figura &lt;seq0&gt;24&lt;/seq0&gt;: sostituzione di un carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
@@ -1154,6 +1170,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062408Z" creationid="manuel" creationdate="20180531T062408Z">
         <seg>Elenchi dei caratteri - Mostra &lt;i0/&gt;anteprima dei caratteri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font replacement on screen and when printing, whether the font is installed or not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080300Z" creationid="manuel" creationdate="20180531T080300Z">
+        <seg>Sostituzione del carattere a schermo e nella stampa, che il carattere sia installato o meno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font replacement only on screen, whether the font is installed or not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080314Z" creationid="manuel" creationdate="20180531T080314Z">
+        <seg>Sostituzione del carattere solo a schermo, che il carattere sia installato o meno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font substitution replacement actions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080241Z" creationid="manuel" creationdate="20180531T080241Z">
+        <seg>Azioni di sostituzione nel cambiamento del carattere</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replacement action</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080251Z" creationid="manuel" creationdate="20180531T080251Z">
+        <seg>Azione di sostituzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click anywhere on the screen to open a context menu where you can navigate through the slides and set other options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
@@ -2242,6 +2290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T061406Z" creationid="manuel" creationdate="20180529T061406Z">
         <seg>Come sopra,ma per le finestre di dialogo di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Screen only checkbox</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080248Z" creationid="manuel" creationdate="20180531T080248Z">
+        <seg>Casella solo schermo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2490,6 +2546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085528Z" creationid="manuel" creationdate="20180530T085528Z">
         <seg>Specifica se e come il puntatore del mouse verrà posizionato nelle nuove finestre di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080028Z" creationid="manuel" creationdate="20180531T080028Z">
+        <seg>Tabella &lt;seq0&gt;2&lt;/seq0&gt;: </seg>
       </tuv>
     </tu>
     <tu>
@@ -3402,6 +3466,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z" creationid="luke" creationdate="20180515T090031Z">
         <seg>automatically advance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>blank</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080256Z" creationid="manuel" creationdate="20180531T080256Z">
+        <seg>bianca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>checked</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080253Z" creationid="manuel" creationdate="20180531T080253Z">
+        <seg>spuntata</seg>
       </tuv>
     </tu>
     <tu>
