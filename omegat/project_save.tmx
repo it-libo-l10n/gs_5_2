@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In general, you start LibreOffice the same way you start any other program on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213742Z" creationid="Marco Marega" creationdate="20180531T213742Z">
+        <seg>In linea di massima, LibreOffice si avvia allo stesso modo in cui, sul vostro computer, avviate qualunque altro programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In many situations, you may find that you have more slides than the time available to present them or you may want to provide a rapid overview without dwelling on the details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
@@ -2114,6 +2122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070121Z" creationid="manuel" creationdate="20180531T070121Z">
         <seg>Notate che per alcune voci possono essere elencati almeno due percorsi: uno porta a una cartella condivisa (che potrebbe trovarsi in rete) e uno ad una cartella personale (di solito sul computer dell'utente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On computers with Windows or Linux operating systems, a menu entry for LibreOffice and each LibreOffice component appears in the system menu of your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213919Z" creationid="Marco Marega" creationdate="20180531T213919Z">
+        <seg>Sui computer con sistema operativo Windows o Linux, nel menu di sistema compare una voce per LibreOffice e per ciascuno dei suoi componenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2642,6 +2658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085528Z" creationid="manuel" creationdate="20180530T085528Z">
         <seg>Specifica se e come il puntatore del mouse verrà posizionato nelle nuove finestre di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Starting LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213528Z" creationid="Marco Marega" creationdate="20180531T213528Z">
+        <seg>Avviare LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
