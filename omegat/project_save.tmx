@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A small box showing the new color is added to the Color table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072718Z" creationid="manuel" creationdate="20180531T072718Z">
+        <seg>Un piccolo riquadro con il nuovo colore viene aggiunto alla tavola dei colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acknowledgments</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072753Z" creationid="luke" creationdate="20180515T072753Z">
@@ -378,6 +386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070247Z" creationid="manuel" creationdate="20180529T070247Z">
         <seg>Una data "precedente" è interpretata come relativa al secolo successivo; ovvero, 01/01/20 è interpretata come 01/01/2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another way to define or alter colors is through the Colors page of the Area dialog, where you can also save and load palettes, a feature that is not possible here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072723Z" creationid="manuel" creationdate="20180531T072723Z">
+        <seg>Un altro modo per definire o modificare i colori è tramite la pagina Colori della finestra di dialogo Area, dove potete anche salvare e caricare tavolozze, una funzionalità che non è possibile qui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Editing colors</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072822Z" creationid="manuel" creationdate="20180531T072822Z">
+        <seg>Figura &lt;seq0&gt;23&lt;/seq0&gt;: modifica dei colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
@@ -1106,6 +1130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062408Z" creationid="manuel" creationdate="20180531T062408Z">
         <seg>Elenchi dei caratteri - Mostra &lt;i0/&gt;anteprima dei caratteri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fonts options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072856Z" creationid="manuel" creationdate="20180531T072856Z">
+        <seg>Tipi di carattere</seg>
       </tuv>
     </tu>
     <tu>
@@ -1478,6 +1510,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you load a palette in one component of LibreOffice, it is only active in that component; the other components keep their own palettes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072731Z" creationid="manuel" creationdate="20180531T072731Z">
+        <seg>Se caricate una tavolozza in uno dei componenti di LibreOffice, questa sarà attiva solo per quel componente; gli altri componenti manterranno le proprie tavolozze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you receive from someone else a document containing fonts that you do not have on your system, LibreOffice will substitute fonts for those it does not find.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072901Z" creationid="manuel" creationdate="20180531T072901Z">
+        <seg>Se ricevete un documento contenente caratteri non installati nel vostro sistema, LibreOffice li sostituirà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to create a custom slide show from the same presentation:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085953Z" creationid="luke" creationdate="20180515T085953Z">
@@ -1562,6 +1610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
         <seg>Impress will memorize the timings for each slide and will advance to the next slide automatically using these timings when you run the slide show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Calc, draw a temporary draw object and use the context menu of this object to open the Area dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072725Z" creationid="manuel" creationdate="20180531T072725Z">
+        <seg>In Calc, create un oggetto di disegno temporaneo e usate il menu contestuale di tale oggetto per aprire la finestra di dialogo Area.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1850,6 +1906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070250Z" creationid="manuel" creationdate="20180531T070250Z">
         <seg>Modificate il &lt;f0&gt;Nome&lt;/f0&gt; come richiesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modify the color components as required and click &lt;f0&gt;OK&lt;/f0&gt; to exit the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072628Z" creationid="manuel" creationdate="20180531T072628Z">
+        <seg>Cambiate i componenti del colore secondo necessità e fate clic su &lt;f0&gt;OK&lt;/f0&gt; per uscire dalla finestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,6 +2510,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The color field at the lower left shows the value of the selected color on the left and the currently set value from the color value fields on the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072625Z" creationid="manuel" creationdate="20180531T072625Z">
+        <seg>Il campo di colore in basso a sinistra mostra il valore del colore selezionato sulla sinistra e il valore correntemente impostato nei campi relativi al valore del colore sulla destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The color window on the left is linked directly with the color input fields on the right; as you choose a color in the window, the numbers change accordingly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072621Z" creationid="manuel" creationdate="20180531T072621Z">
+        <seg>La finestra del colore sulla sinistra è collegata direttamente con i campi di inserimento del colore sulla destra; quando scegliete un colore nella finestra, i numeri cambiano di conseguenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The connection between your mobile device and the computer running your presentation is made through a Bluetooth pairing or a local network connection between the two.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090042Z" creationid="luke" creationdate="20180515T090042Z">
@@ -2522,6 +2602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070256Z" creationid="manuel" creationdate="20180531T070256Z">
         <seg>Il colore appena definito è ora elencato nella tavola dei colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The newly defined color now appears in the lower of the color preview boxes shown in Figure &lt;t1&gt;22&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072701Z" creationid="manuel" creationdate="20180531T072701Z">
+        <seg>Il colore appena definito ora appare nel più basso dei riquadri di anteprima del colore mostrati in &lt;t1&gt;Figura 22&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,6 +2878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type a name for this color in the &lt;f2&gt;Name&lt;/f2&gt; box, then click the &lt;f3&gt;Add&lt;/f3&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072711Z" creationid="manuel" creationdate="20180531T072711Z">
+        <seg>Digitate un nome per questo colore nel riquadro &lt;f2&gt;Nome&lt;/f2&gt;, quindi fate clic sul pulsante &lt;f3&gt;Aggiungi&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Undoing and redoing changes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T082610Z" creationid="luke" creationdate="20180515T082610Z">
@@ -3054,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can define replacements for any fonts that might appear in your documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072859Z" creationid="manuel" creationdate="20180531T072859Z">
+        <seg>Potete stabilire un sostituto per ogni carattere presente nei documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can have as many slide shows as you want from a single presentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085956Z" creationid="luke" creationdate="20180515T085956Z">
@@ -3154,6 +3258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154814Z" creationid="luke" creationdate="20180514T154814Z">
         <seg>You may get better results by passing scanned material into a graphics program and cleaning it up there before inserting the resulting image into LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You might prefer to specify a different font from the one that the program chooses.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072903Z" creationid="manuel" creationdate="20180531T072903Z">
+        <seg>Potete specificare un carattere diverso da quello scelto dal programma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3286,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072827Z" creationid="manuel" creationdate="20180531T072827Z">
+        <seg>opzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>path options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070003Z" creationid="manuel" creationdate="20180531T070003Z">
@@ -3306,6 +3426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062648Z" creationid="manuel" creationdate="20180531T062648Z">
         <seg>opzioni stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>replacements</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072847Z" creationid="manuel" creationdate="20180531T072847Z">
+        <seg>sostituzioni</seg>
       </tuv>
     </tu>
     <tu>
