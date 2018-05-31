@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on the LibreOffice menu entry, desktop icon, or tile opens the LibreOffice Start Center (Figure &lt;t0&gt;2&lt;/t0&gt;) from where you can select the individual components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T214616Z" creationid="Marco Marega" creationdate="20180531T214616Z">
+        <seg>Nel menu, facendo clic sulla voce LibreOffice, sull'icona sul desktop, si apre il Centro di Avvio di LibreOffice (Figura &lt;t0&gt;2&lt;/t0&gt;), da dove è possibile selezionare i singoli componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking the middle mouse button pastes at the mouse pointer position.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055230Z" creationid="manuel" creationdate="20180531T055230Z">
@@ -2122,6 +2130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070121Z" creationid="manuel" creationdate="20180531T070121Z">
         <seg>Notate che per alcune voci possono essere elencati almeno due percorsi: uno porta a una cartella condivisa (che potrebbe trovarsi in rete) e uno ad una cartella personale (di solito sul computer dell'utente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On computers operating Mac OS X, only a menu entry for LibreOffice is added to the Applications menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T214057Z" creationid="Marco Marega" creationdate="20180531T214057Z">
+        <seg>Sui computer con sistema operativo Mac OS X, al menu delle Applicazioni viene aggiunta solo una voce per LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
