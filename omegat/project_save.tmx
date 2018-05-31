@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Modify&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070253Z" creationid="manuel" creationdate="20180531T070253Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Modifica&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Start from first Slide&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Presentation toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z" creationid="luke" creationdate="20180515T090036Z">
@@ -770,6 +778,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154724Z" creationid="luke" creationdate="20180514T154724Z">
         <seg>Closes the current document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color Picker</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070444Z" creationid="manuel" creationdate="20180531T070444Z">
+        <seg>Scelta colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070154Z" creationid="manuel" creationdate="20180531T070154Z">
+        <seg>Colori</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the new values that define the color.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070214Z" creationid="manuel" creationdate="20180531T070214Z">
+        <seg>Inserite i nuovi valori che definiscono il colore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the required amount of time in seconds that each slide will be displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
@@ -1026,6 +1058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070137Z" creationid="manuel" creationdate="20180531T070137Z">
         <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: i percorsi dei file utilizzati da LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Defining colors to use in color palettes in LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070323Z" creationid="manuel" creationdate="20180531T070323Z">
+        <seg>Figura &lt;seq0&gt;22&lt;/seq0&gt;: definizione dei colori da utilizzare nella tavolozza di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -1782,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modify the &lt;f0&gt;Name&lt;/f0&gt; as required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070250Z" creationid="manuel" creationdate="20180531T070250Z">
+        <seg>Modificate il &lt;f0&gt;Nome&lt;/f0&gt; come richiesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More memory can make LibreOffice faster and more convenient (for example, more undo steps require more memory); but less memory &lt;f0&gt;is &lt;/f0&gt;available for other applications.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081907Z" creationid="manuel" creationdate="20180530T081907Z">
@@ -1850,6 +1898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070121Z" creationid="manuel" creationdate="20180531T070121Z">
         <seg>Notate che per alcune voci possono essere elencati almeno due percorsi: uno porta a una cartella condivisa (che potrebbe trovarsi in rete) e uno ad una cartella personale (di solito sul computer dell'utente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;LibreOffice – Colors&lt;/f0&gt; page, you can specify colors to use in LibreOffice documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070157Z" creationid="manuel" creationdate="20180531T070157Z">
+        <seg>Nella pagina &lt;f0&gt;LibreOffice – Colori&lt;/f0&gt; potete specificare i colori da usare nei documenti di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2090,6 +2146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055200Z" creationid="manuel" creationdate="20180531T055200Z">
         <seg>Seleziona testo, tabella, o oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the color to modify from the list or the color table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070212Z" creationid="manuel" creationdate="20180531T070212Z">
+        <seg>Selezionate il colore da modificare dall'elenco o dalla tavola dei colori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2350,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The changed color appears in the lower of the two color preview boxes at the top.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070247Z" creationid="manuel" creationdate="20180531T070247Z">
+        <seg>I colori modificati appaiono nel più basso tra i due riquadri di anteprima del colore, nella parte alta della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The connection between your mobile device and the computer running your presentation is made through a Bluetooth pairing or a local network connection between the two.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090042Z" creationid="luke" creationdate="20180515T090042Z">
@@ -2422,6 +2494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The newly defined color is now listed in the Color table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070256Z" creationid="manuel" creationdate="20180531T070256Z">
+        <seg>Il colore appena definito è ora elencato nella tavola dei colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The option &lt;f0&gt;PDF as Standard Print Job Format&lt;/f0&gt; is not available on Windows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T064053Z" creationid="manuel" creationdate="20180531T064053Z">
@@ -2482,6 +2562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085738Z" creationid="luke" creationdate="20180515T085738Z">
         <seg>Alcune immagini, pertanto, non saranno esattamente uguali a quelle che vedete sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These colors are stored in your color palette and are then available in all components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070207Z" creationid="manuel" creationdate="20180531T070207Z">
+        <seg>Questi colori sono salvati nella vostra tavola dei colori e sono quindi disponibili in tutti i componenti di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2634,6 +2722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070112Z" creationid="manuel" creationdate="20180531T070112Z">
         <seg>Per apportare modifiche, scegliete una voce dall'elenco visualizzato in Figura &lt;t0&gt;21&lt;/t0&gt; e fate clic su &lt;f1&gt;Modifica&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify a color:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070210Z" creationid="manuel" creationdate="20180531T070210Z">
+        <seg>Per modificare un colore:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2918,6 +3014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can choose the RGB (Red, Green, Blue) or the CMYK (Cyan, Magenta, Yellow, Black) system to specify your color.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070244Z" creationid="manuel" creationdate="20180531T070244Z">
+        <seg>Per indicare il vostro colore potete scegliere il sistema RGB (Red, Green, Blue - Rosso, Verde, Blu) oppure il sistema CMYK (Cyan, Magenta, Yellow, Black - Ciano, Magenta, Giallo Nero).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can configure the slide transition from the Slide Transition section in the Tasks Pane.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090027Z" creationid="luke" creationdate="20180515T090027Z">
@@ -2962,6 +3066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211712Z" creationid="Marco Marega" creationdate="20180527T211712Z">
         <seg>Con Math è possibile salvare le formule nel formato standard Mathematical Markup Language (MathML) e inserirle in pagine web e altri documenti non creati da LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select a color from a color table, edit an existing color, and define new colors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070201Z" creationid="manuel" creationdate="20180531T070201Z">
+        <seg>Potete selezionare un colore da una tavolozza, modificare un colore già presente e definire nuovi colori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3050,6 +3162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085620Z" creationid="manuel" creationdate="20180530T085620Z">
         <seg>Appunti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>color options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070152Z" creationid="manuel" creationdate="20180531T070152Z">
+        <seg>colori</seg>
       </tuv>
     </tu>
     <tu>
