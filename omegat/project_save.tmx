@@ -2318,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The option &lt;f0&gt;PDF as Standard Print Job Format&lt;/f0&gt; is not available on Windows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T064053Z" creationid="manuel" creationdate="20180531T064053Z">
+        <seg>L'opzione &lt;f0&gt;PDF come formato di lavoro di stampa standard&lt;/f0&gt; non è disponibile su Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The options on the &lt;f0&gt;LibreOffice – General&lt;/f0&gt; page &lt;f1&gt;(Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;16&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;) &lt;/f4&gt;are described below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060429Z" creationid="manuel" creationdate="20180529T060429Z">
