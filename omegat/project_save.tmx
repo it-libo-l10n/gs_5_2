@@ -2342,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select&lt;f1&gt; Always&lt;/f1&gt; to replace the font, even if the original font is installed on your system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T074026Z" creationid="manuel" creationdate="20180531T074026Z">
+        <seg>Selezionate&lt;f1&gt; Sempre&lt;/f1&gt; per sostituire il carattere, anche se il carattere originale è installato sul vostro sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting an item in the list causes the right-hand side of the dialog to display the relevant page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083300Z" creationid="manuel" creationdate="20180528T083300Z">
