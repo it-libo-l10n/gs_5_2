@@ -2030,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select this option to change the internal print job format from a Postscript document description to a PDF description.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T064358Z" creationid="manuel" creationdate="20180531T064358Z">
+        <seg>Selezione questa opzione per cambiare il formato di lavoro  della stampa interna da una descrizione del documento in Postscript alla descrizione in PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting an item in the list causes the right-hand side of the dialog to display the relevant page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083300Z" creationid="manuel" creationdate="20180528T083300Z">
