@@ -2806,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do that, you need to change the default template for documents, as described in Chapter 3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073444Z" creationid="manuel" creationdate="20180531T073444Z">
+        <seg>Per fare ciò, è necessario modificare il modello predefinito per i documenti, come descritto nel Capitolo 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To exit the slide show at any time including when the slide show has ended, press the &lt;f0&gt;Esc&lt;/f0&gt; key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090039Z" creationid="luke" creationdate="20180515T090039Z">
