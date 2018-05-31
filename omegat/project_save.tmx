@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables and disables the use of the 3D graphics language OpenGL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055918Z" creationid="manuel" creationdate="20180531T055918Z">
+        <seg>Abilita e disabilita l'uso del linguaggio grafico 3D OpenGL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the required amount of time in seconds that each slide will be displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
@@ -1138,6 +1146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
         <seg>Go to &lt;f0&gt;View &gt; Slide Sorter&lt;/f0&gt; on the Menu bar or click the Slide Sorter tab at the top of the Workspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Graphics output – Use OpenGL for all rendering (on restart)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055758Z" creationid="manuel" creationdate="20180531T055758Z">
+        <seg>Risultato immagine – Usa OpenGL per tutto il rendering (all'avvio)</seg>
       </tuv>
     </tu>
     <tu>
