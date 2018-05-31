@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Causes the font list to look like Figure &lt;t0&gt;19&lt;/t0&gt;, Left, with the font names shown as an example of the font; with the option deselected, the font list shows only the font names, not their formatting (Figure &lt;t1&gt;19&lt;/t1&gt;, Right).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062546Z" creationid="manuel" creationdate="20180531T062546Z">
+        <seg>Selezionando questa opzione l'elenco dei caratteri appare come in Figura &lt;t0&gt;19&lt;/t0&gt;, a sinistra, con i nomi dei caratteri scritti con il carattere stesso; se non selezionate l'opzione, l'elenco dei caratteri mostra soltanto i nomi dei caratteri, non il loro aspetto (Figura &lt;t1&gt;19&lt;/t1&gt;, a destra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085837Z" creationid="luke" creationdate="20180515T082559Z">
@@ -990,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Font list (Left) with preview; (Right) without preview</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062642Z" creationid="manuel" creationdate="20180531T062642Z">
+        <seg>Figura &lt;seq0&gt;19&lt;/seq0&gt;: elenco dei caratteri con anteprima (Sinistra); senza anteprima (Destra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
@@ -1010,6 +1026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062408Z" creationid="manuel" creationdate="20180531T062408Z">
         <seg>Elenchi dei caratteri - Mostra &lt;i0/&gt;anteprima dei caratteri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fonts which are tuned for use with a specific script, such as Arabic, Hebrew, Malayalam, and so on, now show an additional preview of some sample text in the target script.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062558Z" creationid="manuel" creationdate="20180531T062558Z">
+        <seg>I caratteri che sono regolati per l'utilizzo con una scrittura specifica, come l'Arabo, l'Ebraico, il Malayalam, e così via, ora mostrano una ulteriore anteprima di un testo di esempio nella scrittura di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f0&gt;LibreOffice – Print&lt;/f0&gt; page, set the print options to suit your default printer and your most common printing method.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062701Z" creationid="manuel" creationdate="20180531T062701Z">
+        <seg>Sulla pagina &lt;f0&gt;LibreOffice – Stampa&lt;/f0&gt;, impostate le opzioni di stampa adatte alla vostra stampante e ai vostri consueti metodi di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Customize dialog, select the menu in the &lt;f1&gt;Menu&lt;/f1&gt; list and click the &lt;f2&gt;Add&lt;/f2&gt; button in the &lt;f3&gt;Menu Content&lt;/f3&gt; section of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154743Z" creationid="luke" creationdate="20180514T154743Z">
@@ -1858,6 +1890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T061229Z" creationid="manuel" creationdate="20180529T061229Z">
         <seg>Finestre di dialogo di stampa&lt;f0&gt;&lt;/f0&gt; - Utilizza finestre di dialogo di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Print options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062657Z" creationid="manuel" creationdate="20180531T062657Z">
+        <seg>Opzioni stampa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,6 +2258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085934Z" creationid="luke" creationdate="20180515T085934Z">
         <seg>The fields you can use in Impress are as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fonts you will see listed are those that are installed on your system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062554Z" creationid="manuel" creationdate="20180531T062554Z">
+        <seg>I caratteri elencati sono quelli installati sul vostro sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,6 +2942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>general</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062646Z" creationid="manuel" creationdate="20180531T062646Z">
+        <seg>generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>general options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055935Z" creationid="manuel" creationdate="20180529T055935Z">
@@ -2938,6 +2994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062312Z" creationid="manuel" creationdate="20180531T062312Z">
         <seg>anteprima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>print options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062648Z" creationid="manuel" creationdate="20180531T062648Z">
+        <seg>opzioni stampa</seg>
       </tuv>
     </tu>
     <tu>
