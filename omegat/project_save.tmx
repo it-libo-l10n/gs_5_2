@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(If you do not have this font on your system, it will not appear in the drop-down list in this box, so you need to type it in.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073809Z" creationid="manuel" creationdate="20180531T073809Z">
+        <seg>(Se sul sistema non è presente un determinato carattere, questo non appare nel menu a tendina, perciò dovrete digitarne il nome).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Not available in Windows.) Select this option to smooth the screen appearance of text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085508Z" creationid="manuel" creationdate="20180530T085508Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083245Z" creationid="manuel" creationdate="20180528T083245Z">
         <seg>Appare un elenco di pagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A row of information now appears in the larger box below the input boxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073833Z" creationid="manuel" creationdate="20180531T073833Z">
+        <seg>Appare una riga di informazioni nel riquadro grande sotto i riquadri di selezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085954Z" creationid="luke" creationdate="20180515T085954Z">
         <seg>Click on the New button to create a new sequence of slides and save it with a different name.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on this check mark.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073814Z" creationid="manuel" creationdate="20180531T073814Z">
+        <seg>Fate clic su questo segno di spunta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Replace with&lt;/f0&gt; box, select a suitable font from the drop-down list of fonts installed on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073810Z" creationid="manuel" creationdate="20180531T073810Z">
+        <seg>Nella casella &lt;f0&gt;Sostituisci con&lt;/f0&gt;, scegliete un carattere adatto dal menu a tendina dei caratteri installati sul computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information on installing and setting up LibreOffice on the various supported operating systems is given here: &lt;a0&gt;http://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191635Z" creationid="Marco Marega" creationdate="20180528T191635Z">
@@ -1998,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f0&gt;LibreOffice – Fonts&lt;/f0&gt; page:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073757Z" creationid="manuel" creationdate="20180531T073757Z">
+        <seg>Nella pagina &lt;f0&gt;LibreOffice – Tipi di carattere&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f0&gt;LibreOffice – Paths&lt;/f0&gt; page, you can change the &lt;i1/&gt;location of files associated with, or used by, LibreOffice to suit your working situation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070035Z" creationid="manuel" creationdate="20180531T070035Z">
@@ -2230,10 +2270,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select or type the name of the font to be replaced in the &lt;f0&gt;Font&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073807Z" creationid="manuel" creationdate="20180531T073807Z">
+        <seg>Selezionate o digitate il nome del carattere da sostituire nel riquadro &lt;f0&gt;Tipo di carattere&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select text, table, or object.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055200Z" creationid="manuel" creationdate="20180531T055200Z">
         <seg>Seleziona testo, tabella, o oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f0&gt;Apply &lt;/f0&gt;&lt;i1/&gt;&lt;i2/&gt;&lt;f3&gt;replacement table&lt;/f3&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073805Z" creationid="manuel" creationdate="20180531T073805Z">
+        <seg>Selezionate l'opzione &lt;f0&gt;Applica &lt;/f0&gt;&lt;i1/&gt;&lt;i2/&gt;&lt;f3&gt;tabella di sostituzione&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2506,6 +2562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070247Z" creationid="manuel" creationdate="20180531T070247Z">
         <seg>I colori modificati appaiono nel più basso tra i due riquadri di anteprima del colore, nella parte alta della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The check mark to the right of the &lt;f0&gt;Replace with&lt;/f0&gt; box turns green.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073812Z" creationid="manuel" creationdate="20180531T073812Z">
+        <seg>Il segno di spunta a destra della casella &lt;f0&gt;Sostituisci con&lt;/f0&gt; diventa verde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3442,6 +3506,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062648Z" creationid="manuel" creationdate="20180531T062648Z">
         <seg>opzioni stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>replacement table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073801Z" creationid="manuel" creationdate="20180531T073801Z">
+        <seg>tabella di sostituzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>replacement table (font)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073759Z" creationid="manuel" creationdate="20180531T073759Z">
+        <seg>tabella di sostituzione (carattere)</seg>
       </tuv>
     </tu>
     <tu>
