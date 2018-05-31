@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forces the use of OpenGL even if the graphics device is blacklisted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T061432Z" creationid="manuel" creationdate="20180531T061432Z">
+        <seg>Forza l'uso di OpenGL anche se il dispositivo grafico è nella lista nera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Function</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091954Z" creationid="manuel" creationdate="20180530T091954Z">
@@ -1146,6 +1154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
         <seg>Go to &lt;f0&gt;View &gt; Slide Sorter&lt;/f0&gt; on the Menu bar or click the Slide Sorter tab at the top of the Workspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Graphics output – Force OpenGL even if blacklisted (on restart)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T061326Z" creationid="manuel" creationdate="20180531T061326Z">
+        <seg>Risultato immagine – Forza OpenGL anche se nella lista nera (all'avvio)</seg>
       </tuv>
     </tu>
     <tu>
