@@ -102,6 +102,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit &gt; Copy&lt;/f0&gt; &lt;f1&gt;Ctrl+C&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055154Z" creationid="manuel" creationdate="20180531T055154Z">
+        <seg>&lt;f0&gt;Modifica &gt; Copia&lt;/f0&gt; &lt;f1&gt;Ctrl+C&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit &gt; Paste&lt;/f0&gt; &lt;f1&gt;Ctrl+V&lt;/f1&gt; pastes at the cursor position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055227Z" creationid="manuel" creationdate="20180531T055227Z">
+        <seg>&lt;f0&gt;Modifica &gt; Incolla&lt;/f0&gt; &lt;f1&gt;Ctrl+V&lt;/f1&gt; incolla alla posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Extensive language support&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212241Z" creationid="Marco Marega" creationdate="20180527T212241Z">
@@ -702,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking the middle mouse button pastes at the mouse pointer position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055230Z" creationid="manuel" creationdate="20180531T055230Z">
+        <seg>Facendo clic con il tasto medio del mouse si incolla il contenuto alla posizione del puntatore del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clipboard</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091955Z" creationid="manuel" creationdate="20180530T091955Z">
@@ -798,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Directly accesses hardware features of the graphical display adapter to improve the screen display.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055319Z" creationid="manuel" creationdate="20180531T055319Z">
+        <seg>Accesso diretto alle funzionalità hardware della scheda video per migliorare la visualizzazione a schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Document status – Printing sets “document modified” status</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070034Z" creationid="manuel" creationdate="20180529T070034Z">
@@ -834,6 +866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154643Z" creationid="luke" creationdate="20180514T154643Z">
         <seg>E-mailing documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables and disables anti-aliasing, which makes the display of most graphical objects look smoother and with fewer artifacts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055403Z" creationid="manuel" creationdate="20180531T055403Z">
+        <seg>Abilita e disabilita l'antialiasing, che rende la visualizzazione della maggior parte degli oggetti grafici più smorzata e meno artefatta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1098,6 +1138,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
         <seg>Go to &lt;f0&gt;View &gt; Slide Sorter&lt;/f0&gt; on the Menu bar or click the Slide Sorter tab at the top of the Workspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Graphics output – Use anti-aliasing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055325Z" creationid="manuel" creationdate="20180531T055325Z">
+        <seg>Risultato immagine - Usa anti-aliasing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Graphics output – Use hardware acceleration</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055315Z" creationid="manuel" creationdate="20180531T055315Z">
+        <seg>Risultato immagine – Usa accelerazione hardware</seg>
       </tuv>
     </tu>
     <tu>
@@ -1598,10 +1654,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No effect on the clipboard contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055311Z" creationid="manuel" creationdate="20180531T055311Z">
+        <seg>Nessun effetto sui contenuti degli appunti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Normally only footers are used on a slide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085918Z" creationid="luke" creationdate="20180515T085918Z">
         <seg>Normally only footers are used on a slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not supported on all operating systems and LibreOffice distributions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055323Z" creationid="manuel" creationdate="20180531T055323Z">
+        <seg>Non supportato su tutti i sistemi operativi e distribuzioni di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1666,6 +1738,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T082606Z" creationid="luke" creationdate="20180515T082606Z">
         <seg>Password protection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paste content</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055204Z" creationid="manuel" creationdate="20180531T055204Z">
+        <seg>Incollare contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pasting into another document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055303Z" creationid="manuel" creationdate="20180531T055303Z">
+        <seg>Copia in un altro documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +1866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090030Z" creationid="luke" creationdate="20180515T090030Z">
         <seg>Select its checkbox and when you make any changes in a slide transition, the new slide is previewed in the Slide Design area, including its transition effect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select text, table, or object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055200Z" creationid="manuel" creationdate="20180531T055200Z">
+        <seg>Seleziona testo, tabella, o oggetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2066,6 +2162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085731Z" creationid="luke" creationdate="20180515T085731Z">
         <seg>Le illustrazioni di questa guida sono state tratte da computer e sistemi operativi diversi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The last marked selection is the content of the selection clipboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055313Z" creationid="manuel" creationdate="20180531T055313Z">
+        <seg>L'ultima selezione contrassegnata è il contenuto degli appunti di selezione.</seg>
       </tuv>
     </tu>
     <tu>
