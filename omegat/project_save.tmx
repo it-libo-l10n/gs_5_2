@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A device is blacklisted when it is buggy or may render graphics with poor quality.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062258Z" creationid="manuel" creationdate="20180531T062258Z">
+        <seg>Un apparecchio è nella lista nera quando ha difetti o può rendere la grafica con scarsa qualità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of pages drops down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083245Z" creationid="manuel" creationdate="20180528T083245Z">
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200527Z" creationid="Marco Marega" creationdate="20180527T200527Z">
         <seg>Calc dispone di tutte le funzionalità avanzate per l'analisi, la creazione di diagrammi e di supporto a scelte decisionali che ci si attende da un programma di calcolo di alto livello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Causes icons as well as words to be visible in menus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062309Z" creationid="manuel" creationdate="20180531T062309Z">
+        <seg>Rende visibili sia le icone che le parole nei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,6 +1002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055823Z" creationid="manuel" creationdate="20180529T055823Z">
         <seg>Compilate il modulo (non visualizzato qui), oppure correggete o cancellate eventuali informazioni sbagliate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font Lists – Show &lt;i0/&gt;preview of fonts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062408Z" creationid="manuel" creationdate="20180531T062408Z">
+        <seg>Elenchi dei caratteri - Mostra &lt;i0/&gt;anteprima dei caratteri</seg>
       </tuv>
     </tu>
     <tu>
@@ -1642,6 +1666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081318Z" creationid="manuel" creationdate="20180530T081318Z">
         <seg>Memoria principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu – &lt;is0/&gt;icons in menus</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062304Z" creationid="manuel" creationdate="20180531T062304Z">
+        <seg>Menu – &lt;is0/&gt;icone nei menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -2854,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>font</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062314Z" creationid="manuel" creationdate="20180531T062314Z">
+        <seg>carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>general options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055935Z" creationid="manuel" creationdate="20180529T055935Z">
@@ -2890,6 +2930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085525Z" creationid="manuel" creationdate="20180530T085525Z">
         <seg>posizionamento del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>preview</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062312Z" creationid="manuel" creationdate="20180531T062312Z">
+        <seg>anteprima</seg>
       </tuv>
     </tu>
     <tu>
