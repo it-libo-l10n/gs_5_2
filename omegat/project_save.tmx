@@ -1678,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the bottom section of the page, you can change the typeface and size of the font used to display source code such as HTML and Basic (in macros).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T075940Z" creationid="manuel" creationdate="20180531T075940Z">
+        <seg>Nella sezione nella parte bassa della pagina, potete cambiare il tipo e la dimensione del carattere usato per visualizzare codice sorgente come HTML e Basic (nelle macro).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information on installing and setting up LibreOffice on the various supported operating systems is given here: &lt;a0&gt;http://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191635Z" creationid="Marco Marega" creationdate="20180528T191635Z">
@@ -2254,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f2&gt;Screen only&lt;/f2&gt; to replace the screen font only and never replace the font for printing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T075834Z" creationid="manuel" creationdate="20180531T075834Z">
+        <seg>Selezionate &lt;f2&gt;Solo schermo&lt;/f2&gt; per sostituire il carattere solo a schermo e mai per la stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select an object with a single click.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072456Z" creationid="luke" creationdate="20180515T072456Z">
@@ -2714,6 +2730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082547Z" creationid="manuel" creationdate="20180530T082547Z">
         <seg>Le opzioni della pagina &lt;f0&gt;LibreOffice – Vista&lt;/f0&gt; riguardano l'aspetto e il comportamento della finestra dei documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results of combining these selections are given in Table &lt;t3&gt;15&lt;/t3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T075936Z" creationid="manuel" creationdate="20180531T075936Z">
+        <seg>I risultati della combinazione di queste selezioni sono mostrati nella &lt;t3&gt;Tabella 15&lt;/t3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
