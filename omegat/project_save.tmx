@@ -2678,6 +2678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These choices do &lt;f0&gt;not&lt;/f0&gt; affect the default font for your documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073229Z" creationid="manuel" creationdate="20180531T073229Z">
+        <seg>Queste scelte &lt;f0&gt;non&lt;/f0&gt; influiscono sul carattere standard per i vostri documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These colors are stored in your color palette and are then available in all components of LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070207Z" creationid="manuel" creationdate="20180531T070207Z">
