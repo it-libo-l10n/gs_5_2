@@ -2214,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Passwords for web connections</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T082021Z" creationid="manuel" creationdate="20180531T082021Z">
+        <seg>Password per le connessioni web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paste content</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055204Z" creationid="manuel" creationdate="20180531T055204Z">
