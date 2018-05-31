@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2374,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;f1&gt;Chapter 14, Customizing LibreOffice&lt;/f1&gt; for more information on installing extensions and add-ons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213522Z" creationid="Marco Marega" creationdate="20180531T213522Z">
+        <seg>Vedete il &lt;f1&gt;Capitolo 14 (Personalizzazione di LibreOffice)&lt;/f1&gt; per maggiori informazioni sulle modalità d'installazione di estensioni e add-on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Chapter 1, Introducing LibreOffice, for more about the LibreOffice Open and Save dialogs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060856Z" creationid="manuel" creationdate="20180529T060856Z">
@@ -2546,6 +2554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
         <seg>Setting up a slide show</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Several extensions are installed with the program and you can get others from the official extensions repository, &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213426Z" creationid="Marco Marega" creationdate="20180531T213426Z">
+        <seg>Numerose estensioni vengono installate con il programma e altre sono disponibili nell'archivio ufficiale delle estensioni, &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
