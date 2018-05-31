@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Choosing security options for opening and saving documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T081021Z" creationid="manuel" creationdate="20180531T081021Z">
+        <seg>Figura &lt;seq0&gt;25&lt;/seq0&gt;: opzioni di sicurezza per il caricamento e il salvataggio di documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
@@ -2362,6 +2370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060856Z" creationid="manuel" creationdate="20180529T060856Z">
         <seg>Per maggiori dettagli sulle finestre Apri e Salva di LibreOffice, si veda il Capitolo 1 (Introduzione a LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See “&lt;bf2&gt;Security options and warnings&lt;/bf2&gt;” on page &lt;bf3&gt;46&lt;/bf3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080959Z" creationid="manuel" creationdate="20180531T080959Z">
+        <seg>Vedete “&lt;bf2&gt;Opzioni di sicurezza e avvisi&lt;/bf2&gt;” su una pagina &lt;bf3&gt;46&lt;/bf3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
