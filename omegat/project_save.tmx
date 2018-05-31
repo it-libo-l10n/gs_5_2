@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can select a color from the window on the left, or you can enter values on the right using your choice of RGB, CMYK, or HSB (Hue, Saturation and Brightness) values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072618Z" creationid="manuel" creationdate="20180531T072618Z">
+        <seg>Qui potete selezionare un colore dalla finestra sulla sinistra, oppure potete inserire dei valori di vostra scelta sulla destra, per RGB, CMYK, o HSB (Hue, Saturation and Brightness - Tono, Saturazione e Luminosità).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hidden slides are marked by a diagonal bars across the slide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085952Z" creationid="luke" creationdate="20180515T085952Z">
