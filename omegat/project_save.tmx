@@ -846,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deselecting this option reverts to the Postscript document workflow system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065849Z" creationid="manuel" creationdate="20180531T065849Z">
+        <seg>Deselezionando questa opzioni si ritorna al sistema di flusso di lavoro del documento in Postscript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Directly accesses hardware features of the graphical display adapter to improve the screen display.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055319Z" creationid="manuel" creationdate="20180531T055319Z">
@@ -1002,6 +1010,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062642Z" creationid="manuel" creationdate="20180531T062642Z">
         <seg>Figura &lt;seq0&gt;19&lt;/seq0&gt;: elenco dei caratteri con anteprima (Sinistra); senza anteprima (Destra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Choosing general printing options to apply to all LibreOffice components</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065959Z" creationid="manuel" creationdate="20180531T065959Z">
+        <seg>Figura &lt;seq0&gt;20&lt;/seq0&gt;: opzioni generali di stampa per tutti i componenti di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Viewing the paths of files used by LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070137Z" creationid="manuel" creationdate="20180531T070137Z">
+        <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: i percorsi dei file utilizzati da LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -1246,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Having these warnings turned on can be quite helpful, particularly if you work with documents produced by people in other countries where the standard paper size is different from yours.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065920Z" creationid="manuel" creationdate="20180531T065920Z">
+        <seg>Attivare queste opzioni può risultare molto utile, in particolare nel caso in cui si lavori con documenti prodotti in paesi con formati standard di carta differenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help Improve LibreOffice – Collect usage data and send it to The Document Foundation</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T080825Z" creationid="manuel" creationdate="20180530T080825Z">
@@ -1406,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your printouts are incorrectly placed on the page or chopped off at the top, bottom, or sides, or the printer is refusing to print, the most likely cause is page size incompatibility.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065937Z" creationid="manuel" creationdate="20180531T065937Z">
+        <seg>Se le stampe non sono ben posizionate nella pagina o sono troncate in alto, in basso o ai lati, o se la stampante si rifiuta di stampare, probabilmente è un problema di incompatibilità di dimensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Illustrations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085718Z" creationid="luke" creationdate="20180515T085718Z">
@@ -1462,10 +1502,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a Windows system, for example, you might want to store documents by default somewhere other than My Documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070039Z" creationid="manuel" creationdate="20180531T070039Z">
+        <seg>Ad esempio, in Windows potreste voler salvare in maniera predefinita i documenti in una cartella diversa da Documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In many situations, you may find that you have more slides than the time available to present them or you may want to provide a rapid overview without dwelling on the details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
         <seg>In many situations, you may find that you have more slides than the time available to present them or you may want to provide a rapid overview without dwelling on the details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Printer warnings&lt;/f0&gt; section near the bottom of the page, you can choose whether to be warned if the paper size or orientation specified in your document does not match the paper size or orientation available for your printer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065915Z" creationid="manuel" creationdate="20180531T065915Z">
+        <seg>Nella sezione &lt;f0&gt;Avvertenze di stampa&lt;/f0&gt;, nella parte bassa della pagina, potete decidere se ricevere un avviso nel caso in cui le dimensioni o l'orientamento della carta indicati nel documento non corrispondano alle dimensioni o all'orientamento disponibili per la vostra stampante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,6 +1846,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that some items can have at least two paths listed: one to a shared folder (which might be on a network) and one to a user-specific folder (normally on the user’s personal computer).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070121Z" creationid="manuel" creationdate="20180531T070121Z">
+        <seg>Notate che per alcune voci possono essere elencati almeno due percorsi: uno porta a una cartella condivisa (che potrebbe trovarsi in rete) e uno ad una cartella personale (di solito sul computer dell'utente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;LibreOffice – Paths&lt;/f0&gt; page, you can change the &lt;i1/&gt;location of files associated with, or used by, LibreOffice to suit your working situation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070035Z" creationid="manuel" creationdate="20180531T070035Z">
+        <seg>Sulla pagina &lt;f0&gt;LibreOffice – Percorsi&lt;/f0&gt; potete cambiare la &lt;i1/&gt;posizione dei file relativi o utilizzati da LibreOffice in base alla vostra situazione lavorativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f0&gt;LibreOffice – Print&lt;/f0&gt; page, set the print options to suit your default printer and your most common printing method.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062701Z" creationid="manuel" creationdate="20180531T062701Z">
@@ -1810,6 +1882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154719Z" creationid="luke" creationdate="20180514T154719Z">
         <seg>On the Export dialog, specify a file name for the exported document, then select the desired format in the &lt;f1&gt;File format&lt;/f1&gt; list and click the &lt;f2&gt;Export&lt;/f2&gt; button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Select Path dialog (not shown; may also be titled Edit Paths), add or delete folders as required, and then click &lt;f2&gt;OK&lt;/f2&gt; to return to the Options dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070119Z" creationid="manuel" creationdate="20180531T070119Z">
+        <seg>Nella finestra Seleziona percorso (non riportata; potrebbe anche essere chiamata Modifica Percorsi), aggiungete o eliminate le cartelle secondo necessità, e poi fate clic su &lt;f2&gt;OK&lt;/f2&gt; per tornare alla finestra Opzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1866,6 +1946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055303Z" creationid="manuel" creationdate="20180531T055303Z">
         <seg>Copia in un altro documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paths options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070024Z" creationid="manuel" creationdate="20180531T070024Z">
+        <seg>Percorsi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make changes, select an item in the list shown in Figure &lt;t0&gt;21&lt;/t0&gt; and click &lt;f1&gt;Edit&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070112Z" creationid="manuel" creationdate="20180531T070112Z">
+        <seg>Per apportare modifiche, scegliete una voce dall'elenco visualizzato in Figura &lt;t0&gt;21&lt;/t0&gt; e fate clic su &lt;f1&gt;Modifica&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To restart a slide show automatically after the last slide has been displayed:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
@@ -2894,6 +2990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can use the entries on the &lt;f0&gt;LibreOffice – Paths&lt;/f0&gt; page to compile a list of files, such as those containing AutoText, that you need to back up or copy to another computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070125Z" creationid="manuel" creationdate="20180531T070125Z">
+        <seg>Potete utilizzare le voci nella pagina &lt;f0&gt;LibreOffice – Percorsi&lt;/f0&gt; per compilare un elenco di file, ad esempio quelli contenenti il Testo automatico, che dovete salvare o copiare su un altro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You do not need to know which application was used to create a particular file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184821Z" creationid="Marco Marega" creationdate="20180528T184821Z">
@@ -2974,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>file locations</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070031Z" creationid="manuel" creationdate="20180531T070031Z">
+        <seg>posizione dei file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>font</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062314Z" creationid="manuel" creationdate="20180531T062314Z">
@@ -3026,6 +3138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085525Z" creationid="manuel" creationdate="20180530T085525Z">
         <seg>posizionamento del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>path options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070003Z" creationid="manuel" creationdate="20180531T070003Z">
+        <seg>percorsi</seg>
       </tuv>
     </tu>
     <tu>
