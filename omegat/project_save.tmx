@@ -2230,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening an existing document before starting LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T214752Z" creationid="Marco Marega" creationdate="20180531T214752Z">
+        <seg>Apertura di un documento esistente prima di avviare LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paid support and training</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085659Z" creationid="luke" creationdate="20180515T085659Z">
@@ -3450,6 +3458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154658Z" creationid="luke" creationdate="20180514T154658Z">
         <seg>You can also pay for support through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also select to open an existing file or use a template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T214716Z" creationid="Marco Marega" creationdate="20180531T214716Z">
+        <seg>Inoltre è possibile aprire un documento esistente o usare un modello di documento.</seg>
       </tuv>
     </tu>
     <tu>
