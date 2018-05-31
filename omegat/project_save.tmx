@@ -1774,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Shift+Ctrl+R&lt;/f0&gt; to restore or refresh the view of the current document after changing the anti-aliasing settings, to see the effect.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055550Z" creationid="manuel" creationdate="20180531T055550Z">
+        <seg>Premete &lt;f0&gt;Shift+Ctrl+R&lt;/f0&gt; per ripristinare o aggiornare la vista del documento attivo dopo avere modificato le impostazioni anti-aliasing, per vederne l'effetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press the spacebar on the keyboard to advance to the next slide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
