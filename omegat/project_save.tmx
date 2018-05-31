@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Options&lt;/f0&gt; button to open a separate dialog with specific choices (Figure &lt;t1&gt;27&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080411Z" creationid="manuel" creationdate="20180531T080411Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Opzioni&lt;/f0&gt; per aprire una finestra di dialogo separata con scelte specifiche (&lt;t1&gt;Figura 27&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Start from first Slide&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Presentation toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z" creationid="luke" creationdate="20180515T090036Z">
@@ -1174,10 +1182,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font replacement on screen and when printing, but only if font is not available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080329Z" creationid="manuel" creationdate="20180531T080329Z">
+        <seg>Sostituzione del carattere a schermo e nella stampa, ma solo se il carattere non è disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font replacement on screen and when printing, whether the font is installed or not.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080300Z" creationid="manuel" creationdate="20180531T080300Z">
         <seg>Sostituzione del carattere a schermo e nella stampa, che il carattere sia installato o meno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font replacement only on screen, but only if font is not available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080322Z" creationid="manuel" creationdate="20180531T080322Z">
+        <seg>Sostituzione del carattere solo a schermo, ma solo se il carattere non è disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1586,6 +1610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072901Z" creationid="manuel" creationdate="20180531T072901Z">
         <seg>Se ricevete un documento contenente caratteri non installati nel vostro sistema, LibreOffice li sostituirà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you record changes, save multiple versions, or include hidden information or notes in your documents, and you do not want some of the recipients to see that information, you can set warnings to remind you to remove it, or you can have LibreOffice remove some of it automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080348Z" creationid="manuel" creationdate="20180531T080348Z">
+        <seg>Se registrate le modifiche, salvate versioni multiple, o includete informazioni nascoste o note nei vostri documenti, e desiderate che alcuni dei destinatari non vedano queste informazioni, potete impostare degli avvisi per ricordarvi di rimuovere tali informazioni, oppure potete fare in modo che LibreOffice cancelli automaticamente alcune informazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,6 +2094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that (unless removed) much of this information is retained in a file whether the file is in LibreOffice’s default OpenDocument format, or has been saved to other formats, including PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080351Z" creationid="manuel" creationdate="20180531T080351Z">
+        <seg>Notate che (a meno che siano state rimosse) molte di queste informazioni sono conservate in un file, che sia nel formato predefinito di LibreOffice OpenDocument, o che sia stato salvato in altri formati, incluso PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that some items can have at least two paths listed: one to a shared folder (which might be on a network) and one to a user-specific folder (normally on the user’s personal computer).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070121Z" creationid="manuel" creationdate="20180531T070121Z">
@@ -2298,6 +2338,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080248Z" creationid="manuel" creationdate="20180531T080248Z">
         <seg>Casella solo schermo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Security options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080334Z" creationid="manuel" creationdate="20180531T080334Z">
+        <seg>Sicurezza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Security options and warnings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080344Z" creationid="manuel" creationdate="20180531T080344Z">
+        <seg>Opzioni di sicurezza e avvisi</seg>
       </tuv>
     </tu>
     <tu>
@@ -3070,6 +3126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;i0/&gt;the &lt;f1&gt;LibreOffice – Security&lt;/f1&gt; page to choose security options for saving documents and for opening documents that contain macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080341Z" creationid="manuel" creationdate="20180531T080341Z">
+        <seg>Nella pagina &lt;i0/&gt;&lt;f1&gt;LibreOffice – Sicurezza&lt;/f1&gt; potete stabilire le opzioni di sicurezza per il salvataggio dei documenti e il caricamento di quei documenti che contengono macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use audio resources &lt;f8&gt;(page &lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;176&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;) &lt;/f11&gt;to insert a musical background.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085947Z" creationid="luke" creationdate="20180515T085947Z">
@@ -3534,6 +3598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>file sharing options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080337Z" creationid="manuel" creationdate="20180531T080337Z">
+        <seg>opzioni di condivisione file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>font</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062314Z" creationid="manuel" creationdate="20180531T062314Z">
@@ -3658,6 +3730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084856Z" creationid="manuel" creationdate="20180530T084856Z">
         <seg>eliminazione effetto scalettatura (antialiasing)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>security options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080331Z" creationid="manuel" creationdate="20180531T080331Z">
+        <seg>sicurezza</seg>
       </tuv>
     </tu>
     <tu>
