@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, click the &lt;f0&gt;Pick&lt;/f0&gt; button to open &lt;i1/&gt;the Pick a Color dialog, shown in Figure &lt;t2&gt;23&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072154Z" creationid="manuel" creationdate="20180531T072047Z">
+        <seg>Alternativamente, fate clic sul bottone &lt;f0&gt;Preleva&lt;/f0&gt; che apre &lt;i1/&gt;la finestra di dialogo di prelievo colore, mostrato in Figura &lt;t2&gt;23&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although LibreOffice will work without Java support, some features will not be available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190658Z" creationid="Marco Marega" creationdate="20180528T190658Z">
@@ -784,8 +792,8 @@
       <tuv lang="EN">
         <seg>Color Picker</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070444Z" creationid="manuel" creationdate="20180531T070444Z">
-        <seg>Scelta colori</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072055Z" creationid="manuel" creationdate="20180531T070444Z">
+        <seg>Preleva colori</seg>
       </tuv>
     </tu>
     <tu>
