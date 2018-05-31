@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information, see &lt;a1&gt;&lt;f2&gt;http://www.linuxfound&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;f4&gt;ation.org/collaborate/workgroups/openprinting/pdf_as_standard_print_job_format&lt;/f4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065651Z" creationid="manuel" creationdate="20180531T065651Z">
+        <seg>Per maggiori informazioni, consultate &lt;a1&gt;&lt;f2&gt;http://www.linuxfound&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;f4&gt;ation.org/collaborate/workgroups/openprinting/pdf_as_standard_print_job_format&lt;/f4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Forces the use of OpenGL even if the graphics device is blacklisted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T061432Z" creationid="manuel" creationdate="20180531T061432Z">
@@ -2402,6 +2410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060858Z" creationid="manuel" creationdate="20180529T060858Z">
         <seg>Questo testo utilizza le finestre di dialogo "Apri" e "Salva" di LibreOffice nelle illustrazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This format has a number of advantages over Postscript.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065538Z" creationid="manuel" creationdate="20180531T065538Z">
+        <seg>Questo formato ha un certo numero di vantaggi rispetto al Postscript.</seg>
       </tuv>
     </tu>
     <tu>
