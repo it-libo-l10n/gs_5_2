@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Choosing a Java runtime environment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105830Z" creationid="manuel" creationdate="20180606T105830Z">
+        <seg>Figura &lt;seq0&gt;32&lt;/seq0&gt;: scegliere un ambiente runtime Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
@@ -1726,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If LibreOffice finds one or more JREs, it will display them there.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105912Z" creationid="manuel" creationdate="20180606T105912Z">
+        <seg>Se LibreOffice trova uno o più JRE, li mostrerà nella pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the selected icon normally demands a consecutive mouse action, such as inserting a rectangle, then pressing the &lt;f1&gt;Enter&lt;/f1&gt; key is not sufficient: in these cases press &lt;f2&gt;Ctrl+Enter&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154727Z" creationid="luke" creationdate="20180514T154727Z">
@@ -1766,10 +1782,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are a system administrator, programmer, or other person who customizes JRE installations, you can use the Parameters and Class Path pages (reached from the Java page) to specify this information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105835Z" creationid="manuel" creationdate="20180606T105835Z">
+        <seg>Se siete amministratori di sistema, programmatori o comunque persone che personalizzano installazioni JRE, potete usare le pagine Parametri e Classpath (accessibili dalla pagina Java) per specificare queste informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using a version of LibreOffice other than US English, some field labels may be different from those shown in the illustrations.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055138Z" creationid="manuel" creationdate="20180529T055138Z">
         <seg>Se state utilizzando una versione di LibreOffice diversa da quella Inglese (US English), alcune etichette dei campi potrebbero essere diverse da quelle mostrate nelle illustrazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not see anything listed in the middle of the page, wait a few minutes while LibreOffice searches for JREs on the hard disk.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105838Z" creationid="manuel" creationdate="20180606T105838Z">
+        <seg>Se nella pagina non appare nulla, aspettate qualche minuto affinché LibreOffice possa cercare i JRE sul disco rigido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4026,6 +4058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
         <seg>You can set the presentation &lt;i0/&gt;to advance automatically to the next slide after a set amount of time from the Slide Transition section in the Sidebar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then select the &lt;f0&gt;Use a &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Java runtime environment&lt;/f2&gt; option and (if necessary) choose one of the JREs listed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105915Z" creationid="manuel" creationdate="20180606T105915Z">
+        <seg>Potete quindi selezionare l'opzione &lt;f0&gt;Usa un &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;ambiente Java runtime&lt;/f2&gt; e (se necessario) scegliere uno dei JRE elencati.</seg>
       </tuv>
     </tu>
     <tu>
