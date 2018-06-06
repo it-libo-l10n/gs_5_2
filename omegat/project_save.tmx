@@ -2120,8 +2120,8 @@
       <tuv lang="EN">
         <seg>Note that (unless removed) much of this information is retained in a file whether the file is in LibreOffice’s default OpenDocument format, or has been saved to other formats, including PDF.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080351Z" creationid="manuel" creationdate="20180531T080351Z">
-        <seg>Notate che (a meno che siano state rimosse) molte di queste informazioni sono conservate in un file, che sia nel formato predefinito di LibreOffice OpenDocument, o che sia stato salvato in altri formati, incluso PDF.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T072318Z" creationid="manuel" creationdate="20180531T080351Z">
+        <seg>Notate che (a meno che vengano rimosse) molte di queste informazioni sono conservate in un file, che sia nel formato predefinito di LibreOffice OpenDocument, o che sia stato salvato in altri formati, incluso PDF.</seg>
       </tuv>
     </tu>
     <tu>
