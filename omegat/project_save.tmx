@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A digital signature requires a personal signing certificate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073330Z" creationid="manuel" creationdate="20180606T073330Z">
+        <seg>Un firma digitale richiede un certificato di firma personale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of pages drops down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083245Z" creationid="manuel" creationdate="20180528T083245Z">
@@ -1566,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, a personal certificate issued by an outside agency (after verifying an individual’s identity) has a higher degree of trust associated with it than does a self-signed certificate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073447Z" creationid="manuel" creationdate="20180606T073447Z">
+        <seg>Tuttavia, un certificato personale rilasciato da un'agenzia esterna (dopo aver verificato l'identità di una persona) ha un grado di fiducia più elevato associato ad esso rispetto a un certificato autofirmato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, it does not affect the actual font size of the text in your documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084112Z" creationid="manuel" creationdate="20180530T084112Z">
@@ -2122,6 +2138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062852Z" creationid="manuel" creationdate="20180531T062852Z">
         <seg>Molte di queste opzioni dovrebbero essere autoesplicative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most operating systems can generate a self-signed certificate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073411Z" creationid="manuel" creationdate="20180606T073411Z">
+        <seg>La maggior parte dei sistemi operativi può generare un certificato autofirmato.</seg>
       </tuv>
     </tu>
     <tu>
