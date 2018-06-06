@@ -1966,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice does not provide a secure method of storing these certificates, but it can access certificates that have been saved using other programs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074051Z" creationid="manuel" creationdate="20180606T074051Z">
+        <seg>LibreOffice non fornisce un metodo sicuro per l'archiviazione di questi certificati, ma può accedere ai certificati che sono stati salvati utilizzando altri programmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice includes the following components.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200006Z" creationid="Marco Marega" creationdate="20180527T200006Z">
