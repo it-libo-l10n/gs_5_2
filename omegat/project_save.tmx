@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows you to optionally select a Time Stamping Authority (TSA) URL for PDF documents created by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074705Z" creationid="manuel" creationdate="20180606T074705Z">
+        <seg>Vi consente di selezionare facoltativamente un URL TSA (Time Stamping Authority) per i documenti PDF creati da LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085801Z" creationid="luke" creationdate="20180515T085801Z">
@@ -2222,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On Windows, LibreOffice uses the default Windows location for storing and retrieving certificates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074506Z" creationid="manuel" creationdate="20180606T074506Z">
+        <seg>Su Windows, LibreOffice utilizza la posizione predefinita di Windows per l'archiviazione e il recupero dei certificati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On computers operating Mac OS X, only a menu entry for LibreOffice is added to the Applications menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T214057Z" creationid="Marco Marega" creationdate="20180531T214057Z">
@@ -2778,6 +2794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213528Z" creationid="Marco Marega" creationdate="20180531T213528Z">
         <seg>Avviare LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TSAs - Time Stamp&lt;f0&gt;ing&lt;/f0&gt; Authorities</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074618Z" creationid="manuel" creationdate="20180606T074618Z">
+        <seg>TSAs - Time Stamping&lt;f0&gt;&lt;/f0&gt; Authorities</seg>
       </tuv>
     </tu>
     <tu>
