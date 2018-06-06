@@ -2102,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many people find creation and editing of documents easier when accidental clicks on links do not activate the links.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084120Z" creationid="manuel" creationdate="20180606T084120Z">
+        <seg>Molte persone trovano più facile la creazione e la modifica di documenti se clic involontari sui collegamenti non attivano i collegamenti stessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Math (formula editor)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211243Z" creationid="Marco Marega" creationdate="20180527T211243Z">
@@ -2410,6 +2418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070024Z" creationid="manuel" creationdate="20180531T070024Z">
         <seg>Percorsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Personalization</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084139Z" creationid="manuel" creationdate="20180606T084139Z">
+        <seg>Personalizazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -2998,6 +3014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default behavior in LibreOffice is to &lt;f0&gt;Ctrl+click&lt;/f0&gt; on a hyperlink to open the linked document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084059Z" creationid="manuel" creationdate="20180606T084059Z">
+        <seg>Il comportamento predefinito in LibreOffice richiede il &lt;f0&gt;Ctrl+clic&lt;/f0&gt; su un collegamento ipertestuale per aprire il documento collegato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The example shows some of LibreOffice’s predefined styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154731Z" creationid="luke" creationdate="20180514T154731Z">
@@ -3114,6 +3138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082547Z" creationid="manuel" creationdate="20180530T082547Z">
         <seg>Le opzioni della pagina &lt;f0&gt;LibreOffice – Vista&lt;/f0&gt; riguardano l'aspetto e il comportamento della finestra dei documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The other options on this dialog should be self-explanatory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084127Z" creationid="manuel" creationdate="20180606T084127Z">
+        <seg>Le altre opzioni in questa finestra di dialogo dovrebbero essere autoesplicative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3370,6 +3402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085556Z" creationid="luke" creationdate="20180515T085556Z">
         <seg>Per selezionare elementi non consecutivi usando la tastiera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To set LibreOffice to activate hyperlinks using an ordinary click, deselect this option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084124Z" creationid="manuel" creationdate="20180606T084124Z">
+        <seg>Per fare in modo che LibreOffice attivi i collegamenti ipertestuali con un semplice clic, deselezionate questa opzione.</seg>
       </tuv>
     </tu>
     <tu>
