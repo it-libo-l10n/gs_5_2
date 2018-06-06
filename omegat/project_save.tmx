@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After a brief pause the appearance of LibreOffice will refresh and reflect the selected theme.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093010Z" creationid="manuel" creationdate="20180606T093010Z">
+        <seg>Dopo una breve pausa, l'aspetto di LibreOffice si aggiornerà e rifletterà il tema selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All the components share a common spelling checker and other tools, which are used consistently across the suite.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184724Z" creationid="Marco Marega" creationdate="20180528T184724Z">
@@ -426,6 +434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080245Z" creationid="manuel" creationdate="20180531T080245Z">
         <seg>Casella sempre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An example is shown in Figure &lt;t5&gt;29&lt;/t5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093050Z" creationid="manuel" creationdate="20180606T093050Z">
+        <seg>È possibile vedere un esempio nella Figura &lt;t5&gt;29&lt;/t5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
