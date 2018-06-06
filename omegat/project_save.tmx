@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding a trusted timestamp to an electronic signature on a PDF provides a digital seal of data integrity and a trusted date and time of when the file was signed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T081821Z" creationid="manuel" creationdate="20180606T081821Z">
+        <seg>L'aggiunta di un timestamp attendibile a una firma elettronica su un PDF fornisce un sigillo digitale di integrità dei dati e una data e un'ora attendibili di quando il file è stato firmato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Administrator rights are needed for the installation process.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190556Z" creationid="Marco Marega" creationdate="20180528T190556Z">
