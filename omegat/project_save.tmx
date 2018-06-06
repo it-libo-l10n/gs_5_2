@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For full details about themes, visit the Mozilla website: &lt;a6&gt;http&lt;/a6&gt;&lt;a7&gt;s&lt;/a7&gt;&lt;a8&gt;://www.&lt;/a8&gt;&lt;a9&gt;https://addons.mozilla.org/en-US/firefox/themes/&lt;/a9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093458Z" creationid="manuel" creationdate="20180606T093458Z">
+        <seg>Per maggiori dettagli riguardo ai temi, visitate il sito web di Mozilla: &lt;a6&gt;http&lt;/a6&gt;&lt;a7&gt;s&lt;/a7&gt;&lt;a8&gt;://www.&lt;/a8&gt;&lt;a9&gt;https://addons.mozilla.org/en-US/firefox/themes/&lt;/a9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For information on settings not discussed here, see the Help.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083224Z" creationid="manuel" creationdate="20180528T083224Z">
