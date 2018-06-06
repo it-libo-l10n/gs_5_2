@@ -350,6 +350,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Accessibility options include whether to allow animated graphics or text, how long help tips remain visible, some options for high contrast display, and a way to change the font for the &lt;f0&gt;LibreOffice &lt;/f0&gt;user interface.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T103815Z" creationid="manuel" creationdate="20180606T103815Z">
+        <seg>Le opzioni di Accesso facilitato includono la gestione di animazioni grafiche o testuali, della durata di visualizzazione dei suggerimenti, di alcune opzioni per la visualizzazione in alto contrasto e del cambiamento dei caratteri dell'interfaccia utente di &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Accessibility support relies on the Java Runtime Environment for communication with assistive technology tools.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104109Z" creationid="manuel" creationdate="20180606T104109Z">
+        <seg>Il supporto per l'accesso facilitato si appoggia a Java Runtime Environment per le comunicazioni con strumenti di tecnologia assistiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acknowledgments</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072753Z" creationid="luke" creationdate="20180515T072753Z">
@@ -370,6 +386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190556Z" creationid="Marco Marega" creationdate="20180528T190556Z">
         <seg>Per il processo d'installazione sono richiesti privilegi di amministratore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advanced options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104443Z" creationid="manuel" creationdate="20180606T104443Z">
+        <seg>Opzioni avanzate</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Choosing accessibility options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104422Z" creationid="manuel" creationdate="20180606T104422Z">
+        <seg>Figura &lt;seq0&gt;31&lt;/seq0&gt;: opzioni di Accesso facilitato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
@@ -2038,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104459Z" creationid="manuel" creationdate="20180606T104459Z">
+        <seg>Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean Hollis Weber</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072640Z" creationid="luke" creationdate="20180515T072640Z">
@@ -2670,6 +2710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;f1&gt;Assistive Tools in LibreOffice&lt;/f1&gt; in the Help for other requirements and information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104401Z" creationid="manuel" creationdate="20180606T104401Z">
+        <seg>Vedete &lt;f1&gt;Funzioni di accesso facilitato in LibreOffice&lt;/f1&gt; nella Guida per altre informazioni e requisiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;f1&gt;Chapter 14, Customizing LibreOffice&lt;/f1&gt; for more information on installing extensions and add-ons.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213522Z" creationid="Marco Marega" creationdate="20180531T213522Z">
@@ -2730,6 +2778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T090940Z" creationid="manuel" creationdate="20180606T090940Z">
         <seg>Fate clic su &lt;f4&gt;OK&lt;/f4&gt; per applicare il tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select or deselect the options as required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104411Z" creationid="manuel" creationdate="20180606T104411Z">
+        <seg>Selezionate o deselezionate le opzioni secondo necessità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,6 +3058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055034Z" creationid="manuel" creationdate="20180529T055034Z">
         <seg>Il pulsante &lt;f0&gt;Ripristina&lt;/f0&gt; (posizionato in basso a destra nella finestra di dialogo Opzioni) ha lo stesso effetto in tutte le pagine della finestra Opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Support assistive technology tools&lt;/f0&gt; option is not shown on all LibreOffice installations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104155Z" creationid="manuel" creationdate="20180606T104155Z">
+        <seg>L'opzione &lt;f0&gt;Strumenti per il supporto con tecnologia assistiva&lt;/f0&gt; non viene mostrata in tutte le installazioni di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
