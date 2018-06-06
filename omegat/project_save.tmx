@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Application colors</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093723Z" creationid="manuel" creationdate="20180606T093723Z">
+        <seg>Colori dell'applicazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applying special effects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154641Z" creationid="luke" creationdate="20180514T154641Z">
@@ -1262,6 +1270,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Personalization dialogs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093545Z" creationid="manuel" creationdate="20180606T093545Z">
+        <seg>Figura &lt;seq0&gt;28&lt;/seq0&gt;: finestre di dialogo Personalizzazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Sample personalized theme</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093609Z" creationid="manuel" creationdate="20180606T093609Z">
+        <seg>Figura &lt;seq0&gt;29&lt;/seq0&gt;: Semplice tema personalizzato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
@@ -1850,6 +1874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070039Z" creationid="manuel" creationdate="20180531T070039Z">
         <seg>Ad esempio, in Windows potreste voler salvare in maniera predefinita i documenti in una cartella diversa da Documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, you might prefer to use colors that are different from LibreOffice’s defaults for such items as comment indicators or field shadings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093801Z" creationid="manuel" creationdate="20180606T093801Z">
+        <seg>Inoltre, potreste volere colori diversi da quelli predefiniti di LibreOffice per elementi come indicatori di commento o contrassegni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3710,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writing, editing, and (especially) page layout are often easier when you can see the page margins (text boundaries), the boundaries of tables and sections (in Writer documents), page breaks in Calc, grid lines in Draw or Writer, and other features.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093757Z" creationid="manuel" creationdate="20180606T093757Z">
+        <seg>La scrittura, la modifica e (specialmente) il layout di pagina risultano spesso facilitati dalla possibilità di vedere i margini di pagina (i bordi del testo), i bordi di tabelle e sezioni (nei documenti di Writer), interruzioni di pagina in Calc, griglie in Draw o Writer, e altre funzionalità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Year (two digits)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070050Z" creationid="manuel" creationdate="20180529T070050Z">
@@ -3922,6 +3962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084859Z" creationid="manuel" creationdate="20180530T084859Z">
         <seg>eliminazione effetto scalettatura (antialiasing)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>application colors</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093712Z" creationid="manuel" creationdate="20180606T093712Z">
+        <seg>colori dell'applicazione</seg>
       </tuv>
     </tu>
     <tu>
