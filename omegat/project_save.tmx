@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Certificate Path</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073115Z" creationid="manuel" creationdate="20180606T073115Z">
+        <seg>Percorso del certificato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085837Z" creationid="luke" creationdate="20180515T082559Z">
@@ -770,6 +778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073814Z" creationid="manuel" creationdate="20180531T073814Z">
         <seg>Fate clic su questo segno di spunta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Macro Security&lt;/f0&gt; button to open the &lt;i1/&gt;Macro Security dialog (not shown here), where you can adjust the security level for executing macros and specify trusted sources.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073032Z" creationid="manuel" creationdate="20180606T073032Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Sicurezza delle macro&lt;/f0&gt; per aprire la finestra di dialogo &lt;i1/&gt;Sicurezza delle macro (qui non riportata), dove potete impostare il livello di sicurezza per l'esecuzione delle macro e specificare le fonti affidabili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1170,6 +1186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T081021Z" creationid="manuel" creationdate="20180531T081021Z">
         <seg>Figura &lt;seq0&gt;25&lt;/seq0&gt;: opzioni di sicurezza per il caricamento e il salvataggio di documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Set Master Password dialog for web connections</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073003Z" creationid="manuel" creationdate="20180606T073003Z">
+        <seg>Figura &lt;seq0&gt;26&lt;/seq0&gt;: finestra di dialogo Imposta Password principale per le connessioni web</seg>
       </tuv>
     </tu>
     <tu>
@@ -1994,6 +2018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154711Z" creationid="luke" creationdate="20180514T154711Z">
         <seg>Mac equivalent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macro security</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073009Z" creationid="manuel" creationdate="20180606T073009Z">
+        <seg>Sicurezza delle macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,6 +3350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Users can digitally sign documents using LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073154Z" creationid="manuel" creationdate="20180606T073154Z">
+        <seg>Gli utenti possono firmare digitalmente i documenti usando LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Impress Remote control</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
@@ -3762,6 +3802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084114Z" creationid="manuel" creationdate="20180530T084114Z">
         <seg>dimensioni e stile icona (interfaccia utente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macro security options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073012Z" creationid="manuel" creationdate="20180606T073012Z">
+        <seg>opzioni di sicurezza delle macro</seg>
       </tuv>
     </tu>
     <tu>
