@@ -2638,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select one and click &lt;f4&gt;OK&lt;/f4&gt; to apply the theme.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T090940Z" creationid="manuel" creationdate="20180606T090940Z">
+        <seg>Fate clic su &lt;f4&gt;OK&lt;/f4&gt; per applicare il tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select or type the name of the font to be replaced in the &lt;f0&gt;Font&lt;/f0&gt; box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073807Z" creationid="manuel" creationdate="20180531T073807Z">
@@ -3434,6 +3442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072711Z" creationid="manuel" creationdate="20180531T072711Z">
         <seg>Digitate un nome per questo colore nel riquadro &lt;f2&gt;Nome&lt;/f2&gt;, quindi fate clic sul pulsante &lt;f3&gt;Aggiungi&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type a search term, click &lt;f3&gt;Search&lt;/f3&gt;, and wait while theme thumbnails load.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T090846Z" creationid="manuel" creationdate="20180606T090846Z">
+        <seg>Digitate un termine di ricerca, fate clic su &lt;f3&gt;Cerca&lt;/f3&gt;, e attendete il caricamento delle miniature del tema.</seg>
       </tuv>
     </tu>
     <tu>
