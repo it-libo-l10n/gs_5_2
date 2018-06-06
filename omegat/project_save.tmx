@@ -3494,6 +3494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can enter a master password to enable easy access to websites that require a user name and password.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T071148Z" creationid="manuel" creationdate="20180606T071148Z">
+        <seg>Potete inserire la password principale per abilitare un facile accesso ai siti web che richiedono user name e password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can have as many slide shows as you want from a single presentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085956Z" creationid="luke" creationdate="20180515T085956Z">
