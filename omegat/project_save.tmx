@@ -966,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl-click required to follow hyperlinks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084031Z" creationid="manuel" creationdate="20180606T084031Z">
+        <seg>Ctrl-clic necessario per l'apertura dei collegamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom slide shows</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085952Z" creationid="luke" creationdate="20180515T085952Z">
@@ -1226,6 +1234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073003Z" creationid="manuel" creationdate="20180606T073003Z">
         <seg>Figura &lt;seq0&gt;26&lt;/seq0&gt;: finestra di dialogo Imposta Password principale per le connessioni web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Security options and warnings dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083920Z" creationid="manuel" creationdate="20180606T083920Z">
+        <seg>Figura &lt;seq0&gt;27&lt;/seq0&gt;: finestra di dialogo Opzioni di sicurezza e avvisi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2470,6 +2486,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Recipients of PDF documents with a trusted timestamp can verify when the document was digitally or electronically signed, as well as verify that the document was not altered after the date the timestamp vouches for.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083816Z" creationid="manuel" creationdate="20180606T083816Z">
+        <seg>I destinatari di documenti PDF con un timestamp attendibile possono verificare quando il documento è stato firmato digitalmente o elettronicamente, nonché verificare che il documento non sia stato alterato dopo la data in cui il timestamp è valido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove personal information on saving</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083926Z" creationid="manuel" creationdate="20180606T083926Z">
+        <seg>Rimuovi le informazioni personali al salvataggio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replacement action</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080251Z" creationid="manuel" creationdate="20180531T080251Z">
@@ -2642,6 +2674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085954Z" creationid="luke" creationdate="20180515T085954Z">
         <seg>Select the slides you want to use in your custom slide show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option to always remove user data from the file properties when saving the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083936Z" creationid="manuel" creationdate="20180606T083936Z">
+        <seg>Selezionate questa opzione per rimuovere sempre i dati dell'utente dalle proprietà del file quando salvate il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2974,6 +3014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following options are on the Security options and warnings dialog (Figure &lt;t0&gt;27&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083855Z" creationid="manuel" creationdate="20180606T083855Z">
+        <seg>Le seguenti opzioni si trovano nella finestra di dialogo Opzioni di sicurezza e avvisi (Figura &lt;t0&gt;27&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The fonts you will see listed are those that are installed on your system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062554Z" creationid="manuel" creationdate="20180531T062554Z">
@@ -3282,6 +3330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070112Z" creationid="manuel" creationdate="20180531T070112Z">
         <seg>Per apportare modifiche, scegliete una voce dall'elenco visualizzato in Figura &lt;t0&gt;21&lt;/t0&gt; e fate clic su &lt;f1&gt;Modifica&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To manually remove personal information from specific documents, deselect this option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084024Z" creationid="manuel" creationdate="20180606T084024Z">
+        <seg>Per rimuovere manualmente le informazioni personali da documenti specifici, deselezionate questa opzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3946,6 +4002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062648Z" creationid="manuel" creationdate="20180531T062648Z">
         <seg>opzioni stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove personal information on saving</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083924Z" creationid="manuel" creationdate="20180606T083924Z">
+        <seg>rimuovi le informazioni personali al salvataggio</seg>
       </tuv>
     </tu>
     <tu>
