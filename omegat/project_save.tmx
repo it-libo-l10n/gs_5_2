@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you select the &lt;f0&gt;Persistently save passwords for web connections&lt;/f0&gt; option, the Set Master Password dialog opens (Figure &lt;t1&gt;45&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T072718Z" creationid="manuel" creationdate="20180606T072718Z">
+        <seg>Se selezionate l'opzione &lt;f0&gt;Salva persistentemente le passowrd per le connessioni web&lt;/f0&gt;, viene visualizzata la finestra di dialogo Imposta password principale (Figura &lt;t1&gt;45&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to create a custom slide show from the same presentation:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085953Z" creationid="luke" creationdate="20180515T085953Z">
@@ -1946,6 +1954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085725Z" creationid="luke" creationdate="20180515T085725Z">
         <seg>LibreOffice funziona su sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice will securely store all passwords that you use to access files from web servers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T072807Z" creationid="manuel" creationdate="20180606T072807Z">
+        <seg>LibreOffice memorizzerà in modo sicuro tutte le password che utilizzerete per accedere ai file dai server web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3530,6 +3546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190141Z" creationid="Marco Marega" creationdate="20180528T190141Z">
         <seg>Maggiori informazioni riguardo a LibreOffice e The Document Foundation sono reperibili sui rispettivi siti web &lt;a0&gt;http://www.libreoffice.org/&lt;/a0&gt; e &lt;a1&gt;http://www.documentfoundation.org/&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can retrieve the passwords from the list after you enter the master password.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T072840Z" creationid="manuel" creationdate="20180606T072840Z">
+        <seg>È possibile recuperare le password dall'elenco dopo aver inserito la password principale.</seg>
       </tuv>
     </tu>
     <tu>
