@@ -2342,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f0&gt;LibreOffice – Application colors&lt;/f0&gt; page (Figure &lt;t1&gt;30&lt;/t1&gt;), you can specify which items are visible and the colors used to display various items.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T094051Z" creationid="manuel" creationdate="20180606T094051Z">
+        <seg>Nella scheda &lt;f0&gt;LibreOffice – Colori dell'applicazione&lt;/f0&gt; (Figura &lt;t1&gt;30&lt;/t1&gt;), potete specificare quali elementi rendere visibili e con quali colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f0&gt;LibreOffice – Colors&lt;/f0&gt; page, you can specify colors to use in LibreOffice documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070157Z" creationid="manuel" creationdate="20180531T070157Z">
@@ -3358,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the default colors for items, click the down-arrow in the &lt;f0&gt;Color Setting&lt;/f0&gt; column by the name of the item and select a color from the list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T094148Z" creationid="manuel" creationdate="20180606T094148Z">
+        <seg>Per modificare il colore predefinito degli elementi, fate clic sulla freccia rivolta verso il basso, nella colonna &lt;f0&gt;Impostazione colori&lt;/f0&gt;, che appare di fianco al nome dell'elemento e selezionate un colore dall'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the way that LibreOffice stores the hyperlinks in your file, select &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; and choose if you want URLs saved relatively when referencing the &lt;f1&gt;File System&lt;/f1&gt;, or the &lt;f2&gt;Internet&lt;/f2&gt;, or both.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154804Z" creationid="luke" creationdate="20180514T154804Z">
@@ -3482,6 +3498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084124Z" creationid="manuel" creationdate="20180606T084124Z">
         <seg>Per fare in modo che LibreOffice attivi i collegamenti ipertestuali con un semplice clic, deselezionate questa opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To show or hide items such as &lt;i0/&gt;text boundaries, select or deselect the options next to the names of the items.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T094108Z" creationid="manuel" creationdate="20180606T094108Z">
+        <seg>Per mostrare o nascondere elementi come &lt;i0/&gt;i margini di testo, selezionate o deselezionate le opzioni vicine ai nomi degli elementi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4226,6 +4250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090017Z" creationid="luke" creationdate="20180515T090017Z">
         <seg>presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>text boundaries (show/hide)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T094056Z" creationid="manuel" creationdate="20180606T094056Z">
+        <seg>margini di testo (mostra/nascondi)</seg>
       </tuv>
     </tu>
     <tu>
