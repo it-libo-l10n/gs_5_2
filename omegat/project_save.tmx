@@ -2158,6 +2158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice needs Java to run several wizards (such as &lt;f0&gt;File &gt; Wizards &gt; Letter&lt;/f0&gt;&lt;f1&gt;) and to run databases with the internal HSQLDB engine.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105749Z" creationid="manuel" creationdate="20180606T105749Z">
+        <seg>LibreOffice necessita di Java per far girare diverse procedure guidate (come &lt;f0&gt;File &gt; Creazione guidata &gt; Lettera&lt;/f0&gt;&lt;f1&gt;) e per far girare database con il motore interno di HSQLDB.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice runs on Windows, Linux, and Mac OS X operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085725Z" creationid="luke" creationdate="20180515T085725Z">
