@@ -3494,6 +3494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To save your color changes as a &lt;i0/&gt;color scheme, click &lt;f1&gt;Save&lt;/f1&gt;, type a name in the &lt;f2&gt;Scheme&lt;/f2&gt; box, and then click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100603Z" creationid="manuel" creationdate="20180606T100603Z">
+        <seg>Per salvare le modifiche apportate come &lt;i0/&gt;schema colori, fate clic su &lt;f1&gt;Salva&lt;/f1&gt;, digitate un nome nel campo &lt;f2&gt;Nome dello schema colori&lt;/f2&gt;, e poi fate clic su &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;OK&lt;/f9&gt;&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To select nonconsecutive items using the keyboard:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085556Z" creationid="luke" creationdate="20180515T085556Z">
