@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CMIS, like OpenDocument Format, is an OASIS standard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202422Z" creationid="Marco Marega" creationdate="20180607T202422Z">
+        <seg>CMIS, come il formato OpenDocument, è uno standard definito da OASIS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc (spreadsheet)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200328Z" creationid="Marco Marega" creationdate="20180527T200328Z">
@@ -3946,6 +3954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200810Z" creationid="Marco Marega" creationdate="20180527T200810Z">
         <seg>È anche possibile aprire e lavorare con fogli di calcolo di Microsoft Excel e salvarli nell'originario formato Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also open files stored in remote servers running Content Management Interoperability Services (CMIS).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202356Z" creationid="Marco Marega" creationdate="20180607T202356Z">
+        <seg>Potete anche aprire dei file memorizzati su dei server remoti che utilizzano Content Management Interoperability Services (CMIS).</seg>
       </tuv>
     </tu>
     <tu>
