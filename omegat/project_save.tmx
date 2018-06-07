@@ -1326,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: LibreOffice Start Center</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202531Z" creationid="Marco Marega" creationdate="20180607T202442Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Centro di Avvio di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Showing or hiding text, object, and table boundaries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100633Z" creationid="manuel" creationdate="20180606T100633Z">
@@ -1802,6 +1810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055138Z" creationid="manuel" creationdate="20180529T055138Z">
         <seg>Se state utilizzando una versione di LibreOffice diversa da quella Inglese (US English), alcune etichette dei campi potrebbero essere diverse da quelle mostrate nelle illustrazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not have Microsoft Office installed on your computer, or if Microsoft Office is installed but you have associated Microsoft Office file types with LibreOffice, then when you double-click on the following files, they open in LibreOffice:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202824Z" creationid="Marco Marega" creationdate="20180607T202824Z">
+        <seg>Se sul vostro computer non è installato Microsoft Office, o se è installato ma avete associato a LibreOffice i tipi di file di Microsoft Office, allora, quando fate doppio clic sui seguenti tipi di file, questi si apriranno in LibreOffice:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3882,6 +3898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060558Z" creationid="manuel" creationdate="20180529T060558Z">
         <seg>Se l'opzione è selezionata, verranno usate le finestre Apri e Salva fornite da LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using CMIS servers, the service will ask you for the necessary credentials for file access.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202507Z" creationid="Marco Marega" creationdate="20180607T202439Z">
+        <seg>Quando si utilizzano dei server CMIS, il servizio vi richiederà le credenziali necessarie per l'accesso.</seg>
       </tuv>
     </tu>
     <tu>
