@@ -3934,6 +3934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When Quickstarter is activated, the necessary library files are loaded when the computer system is started, resulting in a shorter startup time for LibreOffice components.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203621Z" creationid="Marco Marega" creationdate="20180607T203621Z">
+        <seg>Se Quickstart è attivato, le librerie necessarie vengono caricate all'avvio del computer, permettendo un tempo di caricamento più rapido dei componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the sequence of images is ready, click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert Slides&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
