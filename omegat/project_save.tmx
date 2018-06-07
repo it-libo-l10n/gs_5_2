@@ -302,6 +302,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A PowerPoint file (*.ppt or *.pptx) opens in Impress.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202942Z" creationid="Marco Marega" creationdate="20180607T202942Z">
+        <seg>Un file di PowerPoint (*.ppt o *.pptx) si aprirà in Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A Word file (*.doc or *.docx) opens in Writer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202857Z" creationid="Marco Marega" creationdate="20180607T202857Z">
+        <seg>Un file di Word (*.doc o *.docx) si aprirà in Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A device is blacklisted when it is buggy or may render graphics with poor quality.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062258Z" creationid="manuel" creationdate="20180531T062258Z">
@@ -466,6 +482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080245Z" creationid="manuel" creationdate="20180531T080245Z">
         <seg>Casella sempre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An Excel file (*.xls or *.xlsx) opens in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202922Z" creationid="Marco Marega" creationdate="20180607T202922Z">
+        <seg>Un file di Excel (*.xls o *.xlsx) si aprirà in Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1814,10 +1838,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you did not associate the file types and Microsoft Office is installed on your computer, then when you double-click on a Microsoft Office file, it opens using the appropriate Microsoft Office component.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203126Z" creationid="Marco Marega" creationdate="20180607T203126Z">
+        <seg>Se non avete associato i tipi di file e Microsoft Office è installato sul vostro computer, allora,, quando farete doppio clic su un file di Microsoft Office, questo si aprirà usando il componente appropriato di Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not have Microsoft Office installed on your computer, or if Microsoft Office is installed but you have associated Microsoft Office file types with LibreOffice, then when you double-click on the following files, they open in LibreOffice:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202824Z" creationid="Marco Marega" creationdate="20180607T202824Z">
-        <seg>Se sul vostro computer non è installato Microsoft Office, o se è installato ma avete associato a LibreOffice i tipi di file di Microsoft Office, allora, quando fate doppio clic sui seguenti tipi di file, questi si apriranno in LibreOffice:</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202901Z" creationid="Marco Marega" creationdate="20180607T202824Z">
+        <seg>Se sul vostro computer non è installato Microsoft Office, o se è installato ma avete associato a LibreOffice i tipi di file di Microsoft Office, allora, quando farete doppio clic sui seguenti tipi di file, questi si apriranno in LibreOffice:</seg>
       </tuv>
     </tu>
     <tu>
