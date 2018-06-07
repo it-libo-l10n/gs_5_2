@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Activating Quickstarter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203659Z" creationid="Marco Marega" creationdate="20180607T203659Z">
+        <seg>Attivazione di Quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding a trusted timestamp to an electronic signature on a PDF provides a digital seal of data integrity and a trusted date and time of when the file was signed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T081821Z" creationid="manuel" creationdate="20180606T081821Z">
@@ -1010,6 +1018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070458Z" creationid="manuel" creationdate="20180531T070458Z">
         <seg>Colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Computers with a Mac operating system do not have a Quickstarter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203649Z" creationid="Marco Marega" creationdate="20180607T203649Z">
+        <seg>I computer con un sistema operativo Mac non hanno un Quickstart.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2510,6 +2526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On computers operating a Linux or Windows operating system, the default installation of LibreOffice does not set the Quickstarter to load automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203815Z" creationid="Marco Marega" creationdate="20180607T203815Z">
+        <seg>Sui computer con sistema operativo Linux o Windows, l'installazione predefinita di LibreOffice non imposta il caricamento automatico di Quickstart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On computers with Windows or Linux operating systems, a menu entry for LibreOffice and each LibreOffice component appears in the system menu of your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213919Z" creationid="Marco Marega" creationdate="20180531T213919Z">
@@ -2594,6 +2618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
         <seg>One slide set – multiple presentations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203840Z" creationid="Marco Marega" creationdate="20180607T203840Z">
+        <seg>Aprite LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3554,6 +3586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085940Z" creationid="luke" creationdate="20180515T085940Z">
         <seg>Suggerimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To activate it:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203823Z" creationid="Marco Marega" creationdate="20180607T203823Z">
+        <seg>Per attivarlo:</seg>
       </tuv>
     </tu>
     <tu>
