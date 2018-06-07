@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on opening files, see “&lt;bf0&gt;Opening existing documents&lt;/bf0&gt;” on page &lt;bf1&gt;27&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203218Z" creationid="Marco Marega" creationdate="20180607T203218Z">
+        <seg>Per maggiori informazioni sull'apertura dei file, vedete “&lt;bf0&gt;Apertura di documenti esistenti&lt;/bf0&gt;” a pagina &lt;bf1&gt;27&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information, see &lt;a1&gt;&lt;f2&gt;http://www.linuxfound&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;f4&gt;ation.org/collaborate/workgroups/openprinting/pdf_as_standard_print_job_format&lt;/f4&gt;&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065651Z" creationid="manuel" creationdate="20180531T065651Z">
@@ -3914,6 +3922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060447Z" creationid="manuel" creationdate="20180529T060447Z">
         <seg>Se la &lt;f0&gt;Guida attiva&lt;/f0&gt; è abilitata, mantenendo il puntatore del mouse su un'icona, un comando di menu o un campo di una finestra, appare una breve descrizione della loro funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When LibreOffice is installed on computers running Windows or Linux, a Quickstarter feature may also be installed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203417Z" creationid="Marco Marega" creationdate="20180607T203417Z">
+        <seg>Quando LibreOffice viene installato su computer che utilizzano Windows o Linux, dovrebbe essere installato anche l'elemento Quickstart.</seg>
       </tuv>
     </tu>
     <tu>
