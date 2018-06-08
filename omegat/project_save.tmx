@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change some locale and language settings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170001Z" creationid="manuel" creationdate="20180608T170001Z">
+        <seg>Cambiare le impostazioni locali e della lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085837Z" creationid="luke" creationdate="20180515T082559Z">
@@ -958,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose spelling options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170004Z" creationid="manuel" creationdate="20180608T170004Z">
+        <seg>Modificare le opzioni del controllo ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose the shortcut keys you want to assign a style to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154733Z" creationid="luke" creationdate="20180514T154733Z">
@@ -986,6 +1002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083204Z" creationid="manuel" creationdate="20180528T083204Z">
         <seg>Scegliere le opzioni adatte al vostro lavoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing language settings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165949Z" creationid="manuel" creationdate="20180608T165949Z">
+        <seg>Impostazioni della lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -1490,6 +1514,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160211Z" creationid="manuel" creationdate="20180608T160211Z">
         <seg>Esporta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export – Character set</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165936Z" creationid="manuel" creationdate="20180608T165936Z">
+        <seg>Esporta – Set di caratteri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export – Copy local graphics to Internet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165915Z" creationid="manuel" creationdate="20180608T165915Z">
+        <seg>Esporta – Copia immagini locali in internet</seg>
       </tuv>
     </tu>
     <tu>
@@ -2758,6 +2798,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Install the required &lt;i0/&gt;dictionaries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170022Z" creationid="manuel" creationdate="20180608T170022Z">
+        <seg>Installazione dei &lt;i0/&gt;dizionari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install the required dictionaries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165958Z" creationid="manuel" creationdate="20180608T165958Z">
+        <seg>Installare i dizionari necessari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introducing LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085842Z" creationid="luke" creationdate="20180515T085842Z">
@@ -2906,6 +2962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212633Z" creationid="Marco Marega" creationdate="20180527T212633Z">
         <seg>LibreOffice offre anche supporto sia per le lingue con disposizione di testo complesso (CTL) sia per lingue con scrittura da destra a sinistra (RTL), quali Urdu, Ebraico e Arabo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice automatically installs &lt;f0&gt;many&lt;/f0&gt; dictionaries with the program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170046Z" creationid="manuel" creationdate="20180608T170046Z">
+        <seg>LibreOffice installa automaticamente &lt;f0&gt;diversi&lt;/f0&gt; dizionari con il programma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3870,6 +3934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the appropriate character set for the export.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165945Z" creationid="manuel" creationdate="20180608T165945Z">
+        <seg>Selezionate il set di caratteri appropriato per l'esportazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the color to modify from the list or the color table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070212Z" creationid="manuel" creationdate="20180531T070212Z">
@@ -3930,6 +4002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083936Z" creationid="manuel" creationdate="20180606T083936Z">
         <seg>Selezionate questa opzione per rimuovere sempre i dati dell'utente dalle proprietà del file quando salvate il file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option to automatically upload the embedded pictures to the Internet server when uploading using FTP.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165922Z" creationid="manuel" creationdate="20180608T165922Z">
+        <seg>Selezionate questa opzione per fare l'upload automatico delle immagini inserite nel documento su un server Internet tramite FTP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4630,6 +4710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These capabilities are only effective if print layout export is activated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165848Z" creationid="manuel" creationdate="20180608T165848Z">
+        <seg>Queste funzionalità sono effettive solo se viene attivata l'esportazione del layout di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These choices do &lt;f0&gt;not&lt;/f0&gt; affect the default font for your documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073229Z" creationid="manuel" creationdate="20180531T073229Z">
@@ -4810,6 +4898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085920Z" creationid="luke" creationdate="20180515T085920Z">
         <seg>To create a header, you can use a text box as explained in “&lt;bf0&gt;Text&lt;/bf0&gt;” on page &lt;bf1&gt;181&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To customize the language settings in LibreOffice, you can do any of the following:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165955Z" creationid="manuel" creationdate="20180608T165955Z">
+        <seg>Ci sono diverse opzioni per personalizzare le impostazioni della lingua in LibreOffice:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5678,6 +5774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>dictionaries, installing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170007Z" creationid="manuel" creationdate="20180608T170007Z">
+        <seg>dizionari, installazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>document status option</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070028Z" creationid="manuel" creationdate="20180529T070028Z">
@@ -5818,6 +5922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155807Z" creationid="manuel" creationdate="20180608T155807Z">
         <seg>importazione numeri da una pagina HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>language settings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165947Z" creationid="manuel" creationdate="20180608T165947Z">
+        <seg>impostazioni della lingua &lt;s0/&gt;51</seg>
       </tuv>
     </tu>
     <tu>
