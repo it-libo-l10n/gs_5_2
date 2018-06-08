@@ -3342,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Basic IDE Options are available after &lt;f0&gt;Enable experimental features&lt;/f0&gt; has been selected on the Advanced page of the Options dialog and the options have been saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071541Z" creationid="manuel" creationdate="20180608T071541Z">
+        <seg>Le opzioni Basic IDE sono disponibili dopo che &lt;f0&gt;Abilita funzioni sperimentali&lt;/f0&gt; è stato selezionato nella scheda Avanzate della finestra di dialogo Opzioni e le opzioni sono state salvate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Certificate Path option appears only on Linux and Mac systems.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074424Z" creationid="manuel" creationdate="20180606T074424Z">
