@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;39&lt;/seq0&gt;: Choosing HTML compatibility options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155503Z" creationid="manuel" creationdate="20180608T155503Z">
+        <seg>Figura &lt;seq0&gt;39&lt;/seq0&gt;: scelta delle opzioni Compatibilità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill in the form (not shown here), or amend or delete any existing information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055823Z" creationid="manuel" creationdate="20180529T055823Z">
@@ -1770,6 +1778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080314Z" creationid="manuel" creationdate="20180531T080314Z">
         <seg>Sostituzione del carattere solo a schermo, che il carattere sia installato o meno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font sizes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155507Z" creationid="manuel" creationdate="20180608T155507Z">
+        <seg>Dimensioni carattere</seg>
       </tuv>
     </tu>
     <tu>
@@ -3586,6 +3602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213522Z" creationid="Marco Marega" creationdate="20180531T213522Z">
         <seg>Vedete il &lt;f1&gt;Capitolo 14 (Personalizzazione di LibreOffice)&lt;/f1&gt; per maggiori informazioni sulle modalità d'installazione di estensioni e add-on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;f2&gt;HTML documents; importing/exporting&lt;/f2&gt; in the Help for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155331Z" creationid="manuel" creationdate="20180608T155331Z">
+        <seg>Si veda &lt;f2&gt;documenti HTML; importazione/esportazione&lt;/f2&gt; nella guida per maggiori informazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5698,6 +5722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083206Z" creationid="manuel" creationdate="20180528T083206Z">
         <seg>opzioni di installazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sizes for HTML</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155509Z" creationid="manuel" creationdate="20180608T155509Z">
+        <seg>dimensioni per HTML</seg>
       </tuv>
     </tu>
     <tu>
