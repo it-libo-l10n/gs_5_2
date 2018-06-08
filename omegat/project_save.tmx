@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A relative address always starts from the directory in which the current document is located.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144530Z" creationid="manuel" creationdate="20180608T144530Z">
+        <seg>Un indirizzo relativo inizia sempre dalla cartella in cui si trova il documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A row of information now appears in the larger box below the input boxes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073833Z" creationid="manuel" creationdate="20180531T073833Z">
@@ -518,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Always create backup copy</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144341Z" creationid="manuel" creationdate="20180608T144341Z">
+        <seg>Crea sempre copia di backup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An Excel file (*.xls or *.xlsx) opens in Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202922Z" creationid="Marco Marega" creationdate="20180607T202922Z">
@@ -598,10 +614,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Authors whose work may be very lengthy should always consider using this option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144455Z" creationid="manuel" creationdate="20180608T144455Z">
+        <seg>Gli autori di lavori molto lunghi dovrebbero sempre considerare l'utilizzo di questa opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AutoRecovery</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144233Z" creationid="manuel" creationdate="20180608T144233Z">
         <seg>autoripristino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>AutoRecovery in &lt;i0/&gt;LibreOffice saves the information needed to restore all open documents in case of a crash.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144300Z" creationid="manuel" creationdate="20180608T144300Z">
+        <seg>Il Ripristino Automatico in&lt;i0/&gt; LibreOffice salva le informazioni necessarie al ripristino dei documenti aperti in caso di un crash.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1278,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit document properties before saving</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144321Z" creationid="manuel" creationdate="20180608T144321Z">
+        <seg>Modifica le proprietà prima di salvare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable &lt;i0/&gt;experimental features</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065447Z" creationid="manuel" creationdate="20180608T065447Z">
@@ -1338,6 +1378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143708Z" creationid="manuel" creationdate="20180608T143708Z">
         <seg>Anche se non selezionate questa opzione, alcune impostazioni vengono prese dalla installazione del vostro LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Every time LibreOffice creates a backup copy, the previous backup copy is replaced.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144424Z" creationid="manuel" creationdate="20180608T144424Z">
+        <seg>Quando LibreOffice crea una copia di backup, quella precedente viene rimpiazzata da quella nuova.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2158,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have this option set, recovering your document after a system crash will be easier.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144305Z" creationid="manuel" creationdate="20180608T144305Z">
+        <seg>Se questa opzione è attiva, sarà più facile recuperare un documento dopo un blocco del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you install or update a Java Runtime Environment (JRE) after you install LibreOffice, or if you have more than one JRE installed on your computer, you can use the &lt;f0&gt;LibreOffice – Advanced options&lt;/f0&gt; page to choose the JRE for LibreOffice to use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104713Z" creationid="manuel" creationdate="20180606T104713Z">
@@ -2194,6 +2250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T072718Z" creationid="manuel" creationdate="20180606T072718Z">
         <seg>Se selezionate l'opzione &lt;f0&gt;Salva persistentemente le passowrd per le connessioni web&lt;/f0&gt;, viene visualizzata la finestra di dialogo Imposta password principale (Figura &lt;t1&gt;45&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select this option, the Document Properties dialog pops up to prompt you to enter relevant information the first time you save a new document (or whenever you use &lt;f0&gt;Save As&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144339Z" creationid="manuel" creationdate="20180608T144339Z">
+        <seg>Se selezionate questa opzione, la prima volta che salvate un documento (oppure ogni volta che usate &lt;f0&gt;Salva con nome&lt;/f0&gt;) apparirà la finestra Proprietà, a suggerirvi di inserire le informazioni relative al file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2306,6 +2370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093801Z" creationid="manuel" creationdate="20180606T093801Z">
         <seg>Inoltre, potreste volere colori diversi da quelli predefiniti di LibreOffice per elementi come indicatori di commento o contrassegni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In contrast, absolute addressing always starts from a root directory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144532Z" creationid="manuel" creationdate="20180608T144532Z">
+        <seg>Di contro, un indirizzo assoluto inizia sempre da una cartella radice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3182,6 +3254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Relative addressing is only possible if the source document and the referenced document are both on the same drive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144527Z" creationid="manuel" creationdate="20180608T144527Z">
+        <seg>L'indirizzamento relativo è possibile solo se il documento sorgente e il documento a cui si fa riferimento sono entrambi sulla stessa unità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove personal information on saving</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083926Z" creationid="manuel" creationdate="20180606T083926Z">
@@ -3226,6 +3306,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144231Z" creationid="manuel" creationdate="20180608T144231Z">
         <seg>Salva informazioni di Ripristino Automatico ogni __ Minuti </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save URLs relative to file system / internet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144500Z" creationid="manuel" creationdate="20180608T144500Z">
+        <seg>Salvare URL relativi al file system / internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saves the previous version of a document as a backup copy whenever you save a document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144414Z" creationid="manuel" creationdate="20180608T144414Z">
+        <seg>Salva la versione precedente di un documento come copia di backup quando salvate un documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3746,6 +3842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202127Z" creationid="Marco Marega" creationdate="20180607T202127Z">
         <seg>Così facendo si avvierà il componente appropriato di LibreOffice e il documento verrà caricato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The backup copy gets the extension BAK.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144437Z" creationid="manuel" creationdate="20180608T144437Z">
+        <seg>La copia di backup ha estensione .BAK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4382,6 +4486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use this option to select the default for relative addressing of URLs in the file system and on the Internet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144521Z" creationid="manuel" creationdate="20180608T144521Z">
+        <seg>Usate questa opzione per selezionare il comportamento predefinito per l'indirizzamento relativo degli URL nel file system e su Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User Data options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055150Z" creationid="manuel" creationdate="20180529T055150Z">
@@ -4942,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>edit document properties before saving</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144315Z" creationid="manuel" creationdate="20180608T144315Z">
+        <seg>modifica le proprietà prima di salvare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>enabling</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082058Z" creationid="manuel" creationdate="20180530T082058Z">
@@ -5130,6 +5250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144228Z" creationid="manuel" creationdate="20180608T144228Z">
         <seg>salva informazioni di Ripristino Automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>save relative URLs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144458Z" creationid="manuel" creationdate="20180608T144458Z">
+        <seg>Salvare URL relativi</seg>
       </tuv>
     </tu>
     <tu>
