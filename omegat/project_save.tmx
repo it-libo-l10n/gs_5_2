@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable &lt;i0/&gt;experimental features</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065447Z" creationid="manuel" creationdate="20180608T065447Z">
+        <seg>Abilita &lt;i0/&gt;le funzionalità sperimentali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enables and disables anti-aliasing, which makes the display of most graphical objects look smoother and with fewer artifacts.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055403Z" creationid="manuel" creationdate="20180531T055403Z">
@@ -3046,6 +3054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting this option enables features that are not yet complete or contain known bugs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065548Z" creationid="manuel" creationdate="20180608T065548Z">
+        <seg>Selezionando questa opzione vengono abilitate delle funzionalità incomplete o aventi difetti conosciuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selection clipboard</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091957Z" creationid="manuel" creationdate="20180530T091957Z">
@@ -4392,8 +4408,8 @@
       <tuv lang="EN">
         <seg>experimental features</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065257Z" creationid="manuel" creationdate="20180608T065257Z">
-        <seg>caratteristiche sperimentali</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065505Z" creationid="manuel" creationdate="20180608T065257Z">
+        <seg>funzionalità sperimentali</seg>
       </tuv>
     </tu>
     <tu>
