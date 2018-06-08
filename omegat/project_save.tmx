@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: Choosing Load/Save VBA Properties</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153812Z" creationid="manuel" creationdate="20180608T153812Z">
+        <seg>Figura &lt;seq0&gt;37&lt;/seq0&gt;: opzioni Carica/Salva Proprietà VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill in the form (not shown here), or amend or delete any existing information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055823Z" creationid="manuel" creationdate="20180529T055823Z">
@@ -2214,10 +2222,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are importing a Microsoft Word or Excel file containing VBA code, you can select the option &lt;f0&gt;Executable code&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154059Z" creationid="manuel" creationdate="20180608T154059Z">
+        <seg>Se state importando un file di Microsoft Word o Excel contenente codice VBA, potete selezionare l'opzione &lt;f0&gt;Codice eseguibile&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using a version of LibreOffice other than US English, some field labels may be different from those shown in the illustrations.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055138Z" creationid="manuel" creationdate="20180529T055138Z">
         <seg>Se state utilizzando una versione di LibreOffice diversa da quella Inglese (US English), alcune etichette dei campi potrebbero essere diverse da quelle mostrate nelle illustrazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you choose &lt;i0/&gt;&lt;f1&gt;Load Basic code&lt;/f1&gt;, you can edit the macros in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153841Z" creationid="manuel" creationdate="20180608T153841Z">
+        <seg>Se scegliete &lt;i0/&gt;&lt;f1&gt;Carica il codice Basic&lt;/f1&gt;, è possibile modificare le macro in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you choose &lt;i0/&gt;&lt;f1&gt;Save original Basic code&lt;/f1&gt;, the macros will not work in LibreOffice but are retained unchanged if you save the file into Microsoft Office format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154042Z" creationid="manuel" creationdate="20180608T154042Z">
+        <seg>Se scegliete &lt;i0/&gt;&lt;f1&gt;Salva codice Basic originale&lt;/f1&gt;, le macro non funzioneranno in LibreOffice ma saranno mantenute immutate se salvate il file nel formato Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3998,6 +4030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The changed code is saved in an ODF document but is not retained if you save into a Microsoft Office format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153945Z" creationid="manuel" creationdate="20180608T153945Z">
+        <seg>Il codice modificato è salvato in un documento ODF ma non viene mantenuto se salvate in un formato Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The changed color appears in the lower of the two color preview boxes at the top.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070247Z" creationid="manuel" creationdate="20180531T070247Z">
@@ -5374,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>load Basic code to edit</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153819Z" creationid="manuel" creationdate="20180608T153819Z">
+        <seg>carica codice Basic per modifica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>macro recording</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065816Z" creationid="manuel" creationdate="20180608T065816Z">
@@ -5498,6 +5546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144228Z" creationid="manuel" creationdate="20180608T144228Z">
         <seg>salva informazioni di Ripristino Automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>save original Basic code</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153949Z" creationid="manuel" creationdate="20180608T153949Z">
+        <seg>salva codice Basic originale</seg>
       </tuv>
     </tu>
     <tu>
