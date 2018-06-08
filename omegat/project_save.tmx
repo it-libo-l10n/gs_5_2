@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Basic IDE options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071232Z" creationid="manuel" creationdate="20180608T071232Z">
+        <seg>Opzioni Basic IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because LibreOffice can use the name or initials stored in the &lt;f0&gt;LibreOffice – User Data&lt;/f0&gt; page for several things – including document properties (‘created by’ and ‘last edited by’ information), the name of the author of comments and changes, and the sender address in mailing lists – you will want to ensure that the correct information appears here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055533Z" creationid="manuel" creationdate="20180529T055533Z">
@@ -698,6 +706,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062546Z" creationid="manuel" creationdate="20180531T062546Z">
         <seg>Selezionando questa opzione l'elenco dei caratteri appare come in Figura &lt;t0&gt;19&lt;/t0&gt;, a sinistra, con i nomi dei caratteri scritti con il carattere stesso; se non selezionate l'opzione, l'elenco dei caratteri mostra soltanto i nomi dei caratteri, non il loro aspetto (Figura &lt;t1&gt;19&lt;/t1&gt;, a destra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Caution</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071036Z" creationid="manuel" creationdate="20180608T071036Z">
+        <seg>Attenzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -1146,6 +1162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070034Z" creationid="manuel" creationdate="20180529T070034Z">
         <seg>Stato del documento – Dopo la stampa cambia lo stato in “documento modificato”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-click on a listed preference to enter a value to configure the preference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071032Z" creationid="manuel" creationdate="20180608T071032Z">
+        <seg>Fate doppio clic su una preferenza elencata per inserire un valore per configurare la preferenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3330,6 +3354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154800Z" creationid="luke" creationdate="20180514T154800Z">
         <seg>The EnterMyName macro is not as complicated as it first appears.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Expert Configuration dialog lets you access, edit, and save configuration preferences that can turn the user profile of LibreOffice unstable, inconsistent, or even unusable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071209Z" creationid="manuel" creationdate="20180608T071131Z">
+        <seg>La finestra di dialogo Configurazione esperta consente di accedere, modificare e salvare le preferenze di configurazione che possono trasformare il profilo utente di LibreOffice instabile, incoerente o persino inutilizzabile.</seg>
       </tuv>
     </tu>
     <tu>
