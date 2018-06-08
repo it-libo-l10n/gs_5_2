@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;If you routinely share documents with users of Microsoft Office, you might want to change the &lt;i1/&gt;&lt;f2&gt;Always save as&lt;/f2&gt; attribute for documents to the Microsoft Office formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153113Z" creationid="manuel" creationdate="20180608T153113Z">
+        <seg>&lt;/f0&gt;Se condividete abitualmente documenti con utenti di Microsoft Office, potreste voler modificare l'attributo per documenti di testo &lt;i1/&gt;&lt;f2&gt;Salva sempre come&lt;/f2&gt; con uno dei formati di Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;LibreOffice uses OpenDocument, an XML (eXtensible Markup Language) file format developed as an industry standard by OASIS (Organization for the Advancement of Structured Information Standards).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185802Z" creationid="Marco Marega" creationdate="20180528T185802Z">
