@@ -1822,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;40&lt;/seq0&gt;: LibreOffice language options, without and with Asian and CTL options enabled</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170617Z" creationid="manuel" creationdate="20180608T170617Z">
+        <seg>Figura &lt;seq0&gt;40&lt;/seq0&gt;: impostazioni della lingua di LibreOffice, senza e con le opzioni per le lingue asiatiche e CTL abilitate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill in the form (not shown here), or amend or delete any existing information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055823Z" creationid="manuel" creationdate="20180529T055823Z">
@@ -2770,6 +2778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073810Z" creationid="manuel" creationdate="20180531T073810Z">
         <seg>Nella casella &lt;f0&gt;Sostituisci con&lt;/f0&gt;, scegliete un carattere adatto dal menu a tendina dei caratteri installati sul computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Options dialog, click the expansion symbol (+ sign or triangle) &lt;f0&gt;by&lt;/f0&gt; &lt;f1&gt;Language Settings &gt; Languages&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170419Z" creationid="manuel" creationdate="20180608T170419Z">
+        <seg>Nella finestra di dialogo Opzioni, fate clic sul simbolo di espansione (segno + o triangolo) &lt;f0&gt;da&lt;/f0&gt; &lt;f1&gt;Impostazioni lingua &gt; Lingue&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4506,6 +4522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154209Z" creationid="manuel" creationdate="20180608T154209Z">
         <seg>Il documento verrà salvato senza il codice Microsoft Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The exact list shown depends on the &lt;f2&gt;Enhanced language support&lt;/f2&gt; settings (see Figure &lt;t3&gt;41&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170505Z" creationid="manuel" creationdate="20180608T170505Z">
+        <seg>L'elenco esatto mostrato dipende dalle impostazioni del &lt;f2&gt;Supporto linguistico avanzato&lt;/f2&gt; (vedere Figura &lt;t3&gt;41&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
