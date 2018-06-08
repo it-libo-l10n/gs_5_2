@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A LibreOffice document contains certain settings that are read from the user’s system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142907Z" creationid="manuel" creationdate="20180608T142907Z">
+        <seg>Un documento di LibreOffice contiene determinate impostazioni che vengono lette dal sistema dell'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A PowerPoint file (*.ppt or *.pptx) opens in Impress.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202942Z" creationid="Marco Marega" creationdate="20180607T202942Z">
@@ -1534,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Choosing Load and Save options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142810Z" creationid="manuel" creationdate="20180608T142810Z">
+        <seg>Figura &lt;seq0&gt;36&lt;/seq0&gt;: scelta delle opzioni Carica/Salva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill in the form (not shown here), or amend or delete any existing information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055823Z" creationid="manuel" creationdate="20180529T055823Z">
@@ -2494,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Load user-specific settings with the document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142844Z" creationid="manuel" creationdate="20180608T142844Z">
+        <seg>Carica le impostazioni personalizzate insieme al documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac OS X users can also get two versions of LibreOffice from the App Store: LibreOffice Vanilla (free) and LibreOffice-from-Collabora (an enterprise-ready version; small fee).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191501Z" creationid="Marco Marega" creationdate="20180528T191501Z">
@@ -2610,6 +2634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081907Z" creationid="manuel" creationdate="20180530T081907Z">
         <seg>Una memoria maggiore può rendere LibreOffice più comodo e veloce (ad esempio, ricordare più livelli per la funzione Annulla richiede più memoria); per contro, meno memoria &lt;f0&gt;è &lt;/f0&gt;disponibile per altre applicazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of the choices on the &lt;f0&gt;Load/Save – General&lt;/f0&gt; page are familiar to users of other office suites.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142727Z" creationid="manuel" creationdate="20180608T142727Z">
+        <seg>La maggior parte delle voci nella pagina &lt;f0&gt;Carica/salva - Generale&lt;/f0&gt; saranno familiari agli utenti di altre suite per ufficio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3386,6 +3418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190618Z" creationid="Marco Marega" creationdate="20180528T190618Z">
         <seg>Alcune funzionalità di LibreOffice (le procedure guidate e il motore di database HSQLDB) richiedono che Java Runtime Environment (JRE) sia installato sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some items of interest are described below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142732Z" creationid="manuel" creationdate="20180608T142732Z">
+        <seg>Di seguito sono descritti alcuni elementi di particolare interesse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5002,6 +5042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084057Z" creationid="manuel" creationdate="20180530T084057Z">
         <seg>interfaccia utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>user-specific settings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142827Z" creationid="manuel" creationdate="20180608T142827Z">
+        <seg>impostazioni personalizzate</seg>
       </tuv>
     </tu>
     <tu>
