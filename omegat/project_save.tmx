@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data source linked to the document and its view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143804Z" creationid="manuel" creationdate="20180608T143804Z">
+        <seg>Sorgente dati collegata al documento e sua visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date (fixed)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085937Z" creationid="luke" creationdate="20180515T085937Z">
@@ -1306,6 +1314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085522Z" creationid="manuel" creationdate="20180530T085522Z">
         <seg>Inserite la più piccola dimensione del carattere, a partire dalla quale verrà applicata l'eliminazione dell'effetto scalettatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Even if you do not select this option, some settings are taken from your LibreOffice installation:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143708Z" creationid="manuel" creationdate="20180608T143708Z">
+        <seg>Anche se non selezionate questa opzione, alcune impostazioni vengono prese dalla installazione del vostro LibreOffice:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1650,6 +1666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184836Z" creationid="Marco Marega" creationdate="20180528T184836Z">
         <seg>A titolo di esempio, potete aprire un file Draw da Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, your choice (in the options for LibreOffice Writer) of how to update links is affected by the Load user-specific settings option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143838Z" creationid="manuel" creationdate="20180608T143838Z">
+        <seg>Ad esempio, la scelta (nelle opzioni per LibreOffice Writer) della modalità di aggiornamento dei collegamenti è influenzata dall'opzione Carica le impostazioni personalizzate insieme al documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2054,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you deselect this option, the user’s personal settings do not overrule the settings in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143811Z" creationid="manuel" creationdate="20180608T143811Z">
+        <seg>Se disattivate l'opzione, le impostazioni personalizzate dell'utente non prevalgono sulle impostazioni del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you did not associate the file types and Microsoft Office is installed on your computer, then when you double-click on a Microsoft Office file, it opens using the appropriate Microsoft Office component.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203126Z" creationid="Marco Marega" creationdate="20180607T203126Z">
@@ -2282,6 +2314,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T075940Z" creationid="manuel" creationdate="20180531T075940Z">
         <seg>Nella sezione nella parte bassa della pagina, potete cambiare il tipo e la dimensione del carattere usato per visualizzare codice sorgente come HTML e Basic (nelle macro).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information about automatic updating for links, field functions and charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143724Z" creationid="manuel" creationdate="20180608T143724Z">
+        <seg>Informazioni sull'aggiornamento automatico per collegamenti, funzioni di campo e grafici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information about working with Asian character formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143728Z" creationid="manuel" creationdate="20180608T143728Z">
+        <seg>Informazioni riguardanti l'utilizzo di formati di caratteri Asiatici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2682,6 +2730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085527Z" creationid="manuel" creationdate="20180530T085527Z">
         <seg>Posizionamento del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name of Fax</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143717Z" creationid="manuel" creationdate="20180608T143717Z">
+        <seg>Nome del Fax</seg>
       </tuv>
     </tu>
     <tu>
@@ -3382,6 +3438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Settings available in &lt;f0&gt;File &gt; Print &gt; Options&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143715Z" creationid="manuel" creationdate="20180608T143715Z">
+        <seg>Impostazioni disponibili in &lt;f0&gt;File &gt; Stampa &gt; Opzioni&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several extensions are installed with the program and you can get others from the official extensions repository, &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213426Z" creationid="Marco Marega" creationdate="20180531T213426Z">
@@ -3458,6 +3522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154755Z" creationid="luke" creationdate="20180514T154755Z">
         <seg>Sometimes the macro recorder has a failure and understanding LibreOffice internal workings helps to understand how and why the macro recorder sometimes fails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spacing options for paragraphs before text tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143719Z" creationid="manuel" creationdate="20180608T143719Z">
+        <seg>Opzioni di spaziatura per paragrafi che precedono tabelle di testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3706,6 +3778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083855Z" creationid="manuel" creationdate="20180606T083855Z">
         <seg>Le seguenti opzioni si trovano nella finestra di dialogo Opzioni di sicurezza e avvisi (Figura &lt;t0&gt;27&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following setting is &lt;f0&gt;always&lt;/f0&gt; loaded with a document, whether or not this option is marked:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143759Z" creationid="manuel" creationdate="20180608T143759Z">
+        <seg>Le seguenti impostazioni sono &lt;f0&gt;sempre&lt;/f0&gt; caricate insieme al documento, anche se questa opzione non è selezionata:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4938,6 +5018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062648Z" creationid="manuel" creationdate="20180531T062648Z">
         <seg>opzioni stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>printer settings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143846Z" creationid="manuel" creationdate="20180608T143846Z">
+        <seg>impostazioni della stampante</seg>
       </tuv>
     </tu>
     <tu>
