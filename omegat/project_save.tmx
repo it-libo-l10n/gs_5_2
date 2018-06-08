@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable macro recording (limited)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065852Z" creationid="manuel" creationdate="20180608T065852Z">
+        <seg>Abilita la registrazione di macro (limitata)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enables and disables anti-aliasing, which makes the display of most graphical objects look smoother and with fewer artifacts.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055403Z" creationid="manuel" creationdate="20180531T055403Z">
@@ -3438,6 +3446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The list of these features is different version by version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065729Z" creationid="manuel" creationdate="20180608T065729Z">
+        <seg>L'elenco di queste caratteristiche varia da versione a versione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most used application commands were put together in the Styles, Sheets, and Slide menus, respectively.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154746Z" creationid="luke" creationdate="20180514T154746Z">
@@ -3586,6 +3602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082201Z" creationid="manuel" creationdate="20180530T082201Z">
         <seg>In questo modo LibreOffice si aprirà più velocemente, ma impegnerà parte della memoria anche quando non viene utilizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option enables macro recording, with some limitations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065855Z" creationid="manuel" creationdate="20180608T065855Z">
+        <seg>Questa opzione abilita la registrazione di macro, con alcune limitazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4466,6 +4490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084114Z" creationid="manuel" creationdate="20180530T084114Z">
         <seg>dimensioni e stile icona (interfaccia utente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macro recording</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065816Z" creationid="manuel" creationdate="20180608T065816Z">
+        <seg>registrazione macro</seg>
       </tuv>
     </tu>
     <tu>
