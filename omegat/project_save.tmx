@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Save original Basic code&lt;/f0&gt; takes precedence over &lt;f1&gt;Load Basic code&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154136Z" creationid="manuel" creationdate="20180608T154136Z">
+        <seg>&lt;f0&gt;Salva codice Basic originale&lt;/f0&gt; ha precedenza su &lt;f1&gt;Carica codice Basic&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
@@ -2126,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If both options are selected and you edit the disabled code in LibreOffice, the original Microsoft Basic code will be saved when saving in a Microsoft Office format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154154Z" creationid="manuel" creationdate="20180608T154154Z">
+        <seg>Se entrambe le opzioni sono selezionate e modificate il codice disabilitato in LibreOffice, il codice originale Microsoft Basic verrà salvato quando si salva in un formato Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If disabled, your standard printer will be used to print this document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144209Z" creationid="manuel" creationdate="20180608T144209Z">
@@ -2898,6 +2914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062304Z" creationid="manuel" creationdate="20180531T062304Z">
         <seg>Menu – &lt;is0/&gt;icone nei menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office file conversion</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154212Z" creationid="manuel" creationdate="20180608T154212Z">
+        <seg>Conversione file di Microsoft Office</seg>
       </tuv>
     </tu>
     <tu>
@@ -4102,6 +4126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The document will be saved without the Microsoft Basic code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154209Z" creationid="manuel" creationdate="20180608T154209Z">
+        <seg>Il documento verrà salvato senza il codice Microsoft Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The example shows some of LibreOffice’s predefined styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154731Z" creationid="luke" creationdate="20180514T154731Z">
@@ -4566,6 +4598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remove any possible macro viruses from the Microsoft Office document, deselect &lt;f0&gt;Save original Basic code&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154205Z" creationid="manuel" creationdate="20180608T154205Z">
+        <seg>Per eliminare qualsiasi possibile virus collegato a macro dai documenti Microsoft Office, deselezionate &lt;f0&gt;Salva codice Basic originale&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To restart a slide show automatically after the last slide has been displayed:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
@@ -4906,6 +4946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143503Z" creationid="manuel" creationdate="20180608T143503Z">
         <seg>Durante il salvataggio, queste impostazioni vengono salvate con il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whereas normally the code is preserved but rendered inactive (if you inspect it with the StarBasic IDE you will notice that it is all commented), with this option the code is ready to be executed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154115Z" creationid="manuel" creationdate="20180608T154115Z">
+        <seg>Dal momento che normalmente il codice viene mantenuto ma reso inattivo (se lo controllate con l'IDE StarBasic noterete che è tutto commentato), con questa opzione il codice è pronto per essere eseguito.</seg>
       </tuv>
     </tu>
     <tu>
