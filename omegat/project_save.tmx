@@ -2798,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OpenCL (Open Computing Language) is a software architecture used to write programs that run in different processors of the computer, such as the CPU and GPU (graphics processing unit) of the video card.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140139Z" creationid="manuel" creationdate="20180608T140139Z">
+        <seg>OpenCL (Open Computing Language) è un'architettura software utilizzata per scrivere programmi eseguiti in processori diversi del computer, come CPU e GPU (graphic processing unit - unità di elaborazione grafica) della scheda video.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenCL options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T135900Z" creationid="manuel" creationdate="20180608T135900Z">
@@ -3522,6 +3530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072621Z" creationid="manuel" creationdate="20180531T072621Z">
         <seg>La finestra del colore sulla sinistra è collegata direttamente con i campi di inserimento del colore sulla destra; quando scegliete un colore nella finestra, i numeri cambiano di conseguenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The computer video card driver must have support for OpenCL to use this feature.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140234Z" creationid="manuel" creationdate="20180608T140234Z">
+        <seg>Il driver della scheda video del computer deve avere il supporto per OpenCL per utilizzare questa funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4258,6 +4274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211644Z" creationid="Marco Marega" creationdate="20180527T211452Z">
         <seg>Nonostante normalmente venga usato &lt;t0/&gt;per creare formule in altri documenti, come file di Writer e Impress, Math è utilizzabile anche come strumento indipendente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With OpenCL enabled, LibreOffice can benefit from the very fast numerical calculations performed in the GPU, which is especially useful in very large spreadsheets with extensive calculations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140211Z" creationid="manuel" creationdate="20180608T140211Z">
+        <seg>Con OpenCL abilitato, LibreOffice può beneficiare dei calcoli numerici molto veloci eseguiti nella GPU, che è particolarmente utile in fogli di calcolo molto grandi con calcoli estesi.</seg>
       </tuv>
     </tu>
     <tu>
