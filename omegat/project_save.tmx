@@ -1830,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;41&lt;/seq0&gt;: Choosing language options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171146Z" creationid="manuel" creationdate="20180608T171146Z">
+        <seg>Figura &lt;seq0&gt;41&lt;/seq0&gt;: opzioni della lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill in the form (not shown here), or amend or delete any existing information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055823Z" creationid="manuel" creationdate="20180529T055823Z">
@@ -2798,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the example, English (USA) has been chosen for all the appropriate settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171136Z" creationid="manuel" creationdate="20180608T171136Z">
+        <seg>Nell'esempio, l'Italiano (Italia) è stato scelto per tutte le impostazioni a disposizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case, it does not matter where the referenced directory structure is recorded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144733Z" creationid="manuel" creationdate="20180608T144733Z">
@@ -3490,6 +3506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070119Z" creationid="manuel" creationdate="20180531T070119Z">
         <seg>Nella finestra Seleziona percorso (non riportata; potrebbe anche essere chiamata Modifica Percorsi), aggiungete o eliminate le cartelle secondo necessità, e poi fate clic su &lt;f2&gt;OK&lt;/f2&gt; per tornare alla finestra Opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the right-hand side of the &lt;f0&gt;Language Settings – Languages&lt;/f0&gt; page, change the &lt;f1&gt;User interface&lt;/f1&gt;, &lt;f2&gt;Locale setting&lt;/f2&gt;, &lt;f3&gt;Default currency&lt;/f3&gt;, and &lt;f4&gt;Default languages for documents&lt;/f4&gt; as required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171133Z" creationid="manuel" creationdate="20180608T171133Z">
+        <seg>Sul lato destro della pagina &lt;f0&gt;Impostazioni Lingua – Lingue&lt;/f0&gt;, modificate a vostro piacimento &lt;f1&gt;Interfaccia utente&lt;/f1&gt;, &lt;f2&gt;Impostazione locale&lt;/f2&gt;, &lt;f3&gt;Valuta predefinita&lt;/f3&gt;, e &lt;f4&gt;Lingue predefinite per i documenti&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5234,6 +5258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084102Z" creationid="manuel" creationdate="20180530T084102Z">
         <seg>Interfaccia utente – &lt;i0/&gt;Scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User interface</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171207Z" creationid="manuel" creationdate="20180608T171148Z">
+        <seg>Interfaccia utente</seg>
       </tuv>
     </tu>
     <tu>
