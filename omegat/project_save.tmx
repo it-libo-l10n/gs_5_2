@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Expert Configuration</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T070619Z" creationid="manuel" creationdate="20180608T070619Z">
+        <seg>Configurazione esperta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extensions and add-ons</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191641Z" creationid="Marco Marega" creationdate="20180528T191641Z">
@@ -1546,6 +1554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083224Z" creationid="manuel" creationdate="20180528T083224Z">
         <seg>Per informazioni sulle impostazioni non discusse in questa sezione, si veda l'aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more about macro recording, see Chapter 13, Getting Started with Macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T070411Z" creationid="manuel" creationdate="20180608T070411Z">
+        <seg>Per maggiori informazioni su registrare macro, consultate il Capitolo 13 Introduzione alle macro.</seg>
       </tuv>
     </tu>
     <tu>
