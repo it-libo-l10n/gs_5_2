@@ -1486,6 +1486,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160211Z" creationid="manuel" creationdate="20180608T160211Z">
+        <seg>Esporta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export – LibreOffice Basic</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160238Z" creationid="manuel" creationdate="20180608T160231Z">
+        <seg>Esporta – LibreOffice Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extensions and add-ons</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191641Z" creationid="Marco Marega" creationdate="20180528T191641Z">
@@ -1822,10 +1838,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a closing tag, an HTML_OFF will be created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160120Z" creationid="manuel" creationdate="20180608T160120Z">
+        <seg>Per un tag di chiusura, verrà creato un HTML_OFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a more detailed listing of requirements, see the LibreOffice website, &lt;a0&gt;http://www.libreoffice.org/get-help/system-requirements/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190828Z" creationid="Marco Marega" creationdate="20180528T190828Z">
         <seg>Per un elenco più dettagliato dei requisiti, vi rimandiamo al sito web di LibreOffice, &lt;a0&gt;https://it.libreoffice.org/supporto/requisiti-sistema/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For an opening tag, an HTML_ON field will be created with the value of the tag name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160103Z" creationid="manuel" creationdate="20180608T160103Z">
+        <seg>Per un tag di apertura, verrà creato un campo HTML_ON con il valore del nome del tag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2078,6 +2110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML export</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160213Z" creationid="manuel" creationdate="20180608T160213Z">
+        <seg>esportazione HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Having these warnings turned on can be quite helpful, particularly if you work with documents produced by people in other countries where the standard paper size is different from yours.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065920Z" creationid="manuel" creationdate="20180531T065920Z">
@@ -2174,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If LibreOffice Writer is selected, specific LibreOffice Writer instructions are exported.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160227Z" creationid="manuel" creationdate="20180608T160227Z">
+        <seg>Se è selezionato LibreOffice Writer, vengono esportate istruzioni specifiche di LibreOffice Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If LibreOffice finds one or more JREs, it will display them there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105912Z" creationid="manuel" creationdate="20180606T105912Z">
@@ -2266,6 +2314,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084104Z" creationid="manuel" creationdate="20180530T084104Z">
         <seg>Se il testo nei file della Guida o nei menu dell'interfaccia utente di LibreOffice è troppo piccolo o troppo grande, è possibile modificarlo specificando un fattore di scala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is &lt;f0&gt;not&lt;/f0&gt; selected, numbers will be interpreted according to the &lt;f1&gt;Locale setting&lt;/f1&gt; in &lt;f2&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f2&gt; (see page &lt;bf3&gt;57&lt;/bf3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160017Z" creationid="manuel" creationdate="20180608T160017Z">
+        <seg>Se questa opzione &lt;f0&gt;non&lt;/f0&gt; è selezionata, i numeri saranno interpretati secondo l'&lt;f1&gt;Impostazione locale della Lingua&lt;/f1&gt; in &lt;f2&gt;Strumenti &gt; Opzioni &gt; Impostazioni Lingua &gt; Lingue&lt;/f2&gt; (si veda pagina &lt;bf3&gt;57&lt;/bf3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is selected, numbers will be interpreted as for the English (USA) locale.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160025Z" creationid="manuel" creationdate="20180608T160025Z">
+        <seg>Se questa opzione è selezionata, i numeri saranno interpretati secondo l'area geografica Inglese (USA).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2482,6 +2546,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085718Z" creationid="luke" creationdate="20180515T085718Z">
         <seg>Illustrazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import – Ignore font settings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160146Z" creationid="manuel" creationdate="20180608T160146Z">
+        <seg>Importa – Ignora impostazioni font</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import – Import unknown HTML tags as fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160048Z" creationid="manuel" creationdate="20180608T160048Z">
+        <seg>Importa – Importa Tag HTML sconosciuti come campi</seg>
       </tuv>
     </tu>
     <tu>
@@ -3774,6 +3854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select this option if you want tags that are not recognized by LibreOffice to be imported as fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160057Z" creationid="manuel" creationdate="20180608T160057Z">
+        <seg>Selezionate questa opzione se desiderate che i tag che non sono riconosciuti da LibreOffice vengano importati come campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select this option so that when a document loads, it ignores the stored settings in favor of the settings on your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143633Z" creationid="manuel" creationdate="20180608T143633Z">
@@ -3794,6 +3882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T064358Z" creationid="manuel" creationdate="20180531T064358Z">
         <seg>Selezione questa opzione per cambiare il formato di lavoro  della stampa interna da una descrizione del documento in Postscript alla descrizione in PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option to have LibreOffice &lt;i0/&gt;&lt;i1/&gt;ignore all font settings when importing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160203Z" creationid="manuel" creationdate="20180608T160203Z">
+        <seg>Selezionate questa opzione per fare sì che LibreOffice &lt;i0/&gt;&lt;i1/&gt;ignori tutte le impostazioni delle font nell'importazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4278,6 +4374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The fonts that were defined in the HTML Page Style will be used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160205Z" creationid="manuel" creationdate="20180608T160205Z">
+        <seg>Verranno utilizzate le font definite nello stile della pagina HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The fonts you will see listed are those that are installed on your system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062554Z" creationid="manuel" creationdate="20180531T062554Z">
@@ -4458,6 +4562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070207Z" creationid="manuel" creationdate="20180531T070207Z">
         <seg>Questi colori sono salvati nella vostra tavola dei colori e sono quindi disponibili in tutti i componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These fields will be converted to tags in the HTML export.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160134Z" creationid="manuel" creationdate="20180608T160134Z">
+        <seg>Questi campi verranno convertiti in tag durante l'esportazione HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4690,6 +4802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070210Z" creationid="manuel" creationdate="20180531T070210Z">
         <seg>Per modificare un colore:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To optimize the &lt;i0/&gt;HTML&lt;i1/&gt; export, select a browser or HTML standard from the &lt;f2&gt;Export&lt;/f2&gt; box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160222Z" creationid="manuel" creationdate="20180608T160222Z">
+        <seg>Per ottimizzare l'esportazione &lt;i0/&gt;HTML&lt;i1/&gt;, selezionate un browser oppure lo standard HTML dal riquadro &lt;f2&gt;Esporta&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5502,6 +5622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>export HTML</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160215Z" creationid="manuel" creationdate="20180608T160215Z">
+        <seg>esporta HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>extended tips</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060435Z" creationid="manuel" creationdate="20180529T060435Z">
@@ -5570,6 +5698,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084114Z" creationid="manuel" creationdate="20180530T084114Z">
         <seg>dimensioni e stile icona (interfaccia utente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ignore font settings when importing HTML</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160154Z" creationid="manuel" creationdate="20180608T160154Z">
+        <seg>ignora le impostazioni delle font nell'importazione HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ignore settings when importing HTML</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160157Z" creationid="manuel" creationdate="20180608T160157Z">
+        <seg>ignora le impostazioni nell'importazione HTML</seg>
       </tuv>
     </tu>
     <tu>
