@@ -2342,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If more than one language has been installed for LibreOffice, you can select which language will be used for menus, dialogs, and help files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171527Z" creationid="manuel" creationdate="20180608T171527Z">
+        <seg>Se è stata installata più di una lingua per LibreOffice, è possibile selezionare quale lingua verrà utilizzata per i menu, le finestre di dialogo e i file della guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;f0&gt;Send OS version &amp; simple hardware info&lt;/f0&gt; option is selected, the information of the computer architecture and operating system will be sent to the server for statistics collection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T135827Z" creationid="manuel" creationdate="20180608T135827Z">
@@ -3130,6 +3138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152644Z" creationid="manuel" creationdate="20180608T152644Z">
         <seg>Carica/Salva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Locale setting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171543Z" creationid="manuel" creationdate="20180608T171543Z">
+        <seg>Impostazioni locali</seg>
       </tuv>
     </tu>
     <tu>
@@ -4638,6 +4654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The language of the user interface is usually set at the time LibreOffice is installed to match the language of the operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171440Z" creationid="manuel" creationdate="20180608T171440Z">
+        <seg>La lingua dell'interfaccia utente viene solitamente impostata al momento dell'installazione di LibreOffice in modo che corrisponda alla lingua del sistema operativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The last marked selection is the content of the selection clipboard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055313Z" creationid="manuel" creationdate="20180531T055313Z">
@@ -4658,6 +4682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065729Z" creationid="manuel" creationdate="20180608T065729Z">
         <seg>L'elenco di queste caratteristiche varia da versione a versione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The local setting is the basis for many other settings within LibreOffice, for example defaults for numbering, currency, and units of measure.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171609Z" creationid="manuel" creationdate="20180608T171609Z">
+        <seg>L'impostazione locale è la base per molte altre impostazioni di LibreOffice, ad esempio i valori predefiniti per la numerazione, la valuta e le unità di misura.</seg>
       </tuv>
     </tu>
     <tu>
