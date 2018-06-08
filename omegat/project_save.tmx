@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065309Z" creationid="manuel" creationdate="20180608T065309Z">
+        <seg>Avanzate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104443Z" creationid="manuel" creationdate="20180606T104443Z">
@@ -4378,6 +4386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082058Z" creationid="manuel" creationdate="20180530T082058Z">
         <seg>abilitare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>experimental features</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065257Z" creationid="manuel" creationdate="20180608T065257Z">
+        <seg>caratteristiche sperimentali</seg>
       </tuv>
     </tu>
     <tu>
