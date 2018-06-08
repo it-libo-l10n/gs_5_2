@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Document type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152729Z" creationid="manuel" creationdate="20180608T152729Z">
+        <seg>&lt;f0&gt;Tipo di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072618Z" creationid="luke" creationdate="20180515T072618Z">
@@ -546,6 +554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144341Z" creationid="manuel" creationdate="20180608T144341Z">
         <seg>Crea sempre copia di backup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Always save as</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152622Z" creationid="manuel" creationdate="20180608T152608Z">
+        <seg>Salva sempre come</seg>
       </tuv>
     </tu>
     <tu>
@@ -2270,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you plan to share documents with people who use editors that use older versions of ODF, you may wish to save the document using ODF version 1.0/1.1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152605Z" creationid="manuel" creationdate="20180608T152605Z">
+        <seg>Se intendete condividere documenti con persone che utilizzano editor che fanno uso di versioni più vecchie di ODF, salvate il documento usando la versione ODF 1.0/1.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you prefer absolute saving, all references to other files will also be defined as absolute, based on the respective drive, volume or root directory.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144741Z" creationid="manuel" creationdate="20180608T144741Z">
@@ -2738,6 +2762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142844Z" creationid="manuel" creationdate="20180608T142844Z">
         <seg>Carica le impostazioni personalizzate insieme al documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load/Save</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152644Z" creationid="manuel" creationdate="20180608T152644Z">
+        <seg>Carica/Salva</seg>
       </tuv>
     </tu>
     <tu>
@@ -4666,6 +4698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
         <seg>Using Impress Remote control</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VBA properties load/save options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152724Z" creationid="manuel" creationdate="20180608T152724Z">
+        <seg>proprietà VBA</seg>
       </tuv>
     </tu>
     <tu>
