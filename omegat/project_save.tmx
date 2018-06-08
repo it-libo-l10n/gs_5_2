@@ -1478,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Online update options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T135835Z" creationid="manuel" creationdate="20180608T135835Z">
+        <seg>Figura &lt;seq0&gt;34&lt;/seq0&gt;: aggiornamento online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
@@ -1890,6 +1898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105912Z" creationid="manuel" creationdate="20180606T105912Z">
         <seg>Se LibreOffice trova uno o più JRE, li mostrerà nella pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the &lt;f0&gt;Send OS version &amp; simple hardware info&lt;/f0&gt; option is selected, the information of the computer architecture and operating system will be sent to the server for statistics collection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T135827Z" creationid="manuel" creationdate="20180608T135827Z">
+        <seg>Se è selezionata l'opzione &lt;f0&gt;Invia versione SO e informazioni hardware semplice&lt;/f0&gt;, le informazioni sull'architettura del computer e sul sistema operativo verranno inviate al server per la raccolta delle statistiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2778,6 +2794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060554Z" creationid="manuel" creationdate="20180529T060554Z">
         <seg>Finestre di dialogo Apri/Salva&lt;ie0/&gt; – Utilizza finestre di dialogo LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenCL options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T135900Z" creationid="manuel" creationdate="20180608T135900Z">
+        <seg>Opzioni OpenCL</seg>
       </tuv>
     </tu>
     <tu>
