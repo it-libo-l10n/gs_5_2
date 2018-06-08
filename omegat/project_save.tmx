@@ -1494,10 +1494,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export – Display warning</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164329Z" creationid="manuel" creationdate="20180608T164329Z">
+        <seg>Esporta – Mostra avviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export – LibreOffice Basic</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160238Z" creationid="manuel" creationdate="20180608T160231Z">
         <seg>Esporta – LibreOffice Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export – Print layout</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164400Z" creationid="manuel" creationdate="20180608T164400Z">
+        <seg>Esporta – Layout di stampa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2258,6 +2274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T135827Z" creationid="manuel" creationdate="20180608T135827Z">
         <seg>Se è selezionata l'opzione &lt;f0&gt;Invia versione SO e informazioni hardware semplice&lt;/f0&gt;, le informazioni sull'architettura del computer e sul sistema operativo verranno inviate al server per la raccolta delle statistiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the &lt;f3&gt;Display warning&lt;/f3&gt; option is selected, then when exporting to HTML a warning is shown that LibreOffice Basic macros will be lost.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164348Z" creationid="manuel" creationdate="20180608T164348Z">
+        <seg>Se l'opzione &lt;f3&gt;Mostra avviso&lt;/f3&gt; è selezionata, durante l'esportazione in HTML verrà mostrato un avvertimento per ricordare che le macro di LibreOffice Basic andranno perdute.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3742,6 +3766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Chapter 13, Getting Started with Macros, for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164316Z" creationid="manuel" creationdate="20180608T164316Z">
+        <seg>Si veda il Capitolo 13 (Introduzione alle Macro) per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See “&lt;bf2&gt;Security options and warnings&lt;/bf2&gt;” on page &lt;bf3&gt;46&lt;/bf3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080959Z" creationid="manuel" creationdate="20180531T080959Z">
@@ -5170,6 +5202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155834Z" creationid="manuel" creationdate="20180608T155834Z">
         <seg>Nell'importazione di numeri da una pagina HTML, i caratteri separatori dei decimali e delle migliaia differiscono a seconda dell'area geografica della pagina HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; option (see above) is &lt;f1&gt;not&lt;/f1&gt; selected, the &lt;f2&gt;Display warning&lt;/f2&gt; option becomes available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164336Z" creationid="manuel" creationdate="20180608T164336Z">
+        <seg>Quando l'opzione &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; (si veda sopra) &lt;f1&gt;non&lt;/f1&gt; è selezionata, l'opzione &lt;f2&gt;Mostra avviso&lt;/f2&gt; diviene disponibile.</seg>
       </tuv>
     </tu>
     <tu>
