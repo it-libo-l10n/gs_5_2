@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choices made on the &lt;f0&gt;Load/Save – HTML Compatibility&lt;/f0&gt; page (Figure &lt;t1&gt;39&lt;/t1&gt;) affect HTML pages imported into LibreOffice and those exported from LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155253Z" creationid="manuel" creationdate="20180608T155253Z">
+        <seg>Le scelte fatte nella pagina &lt;f0&gt;Carica/Salva – Compatibilità HTML&lt;/f0&gt; (Figura &lt;t1&gt;39&lt;/t1&gt;) influiscono sia sulle pagine HTML importate in LibreOffice che su quelle esportate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose the shortcut keys you want to assign a style to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154733Z" creationid="luke" creationdate="20180514T154733Z">
@@ -1710,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;38&lt;/seq0&gt;: Choosing Load/Save Microsoft Office options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155148Z" creationid="manuel" creationdate="20180608T155148Z">
+        <seg>Figura &lt;seq0&gt;38&lt;/seq0&gt;: opzioni Carica/salva Microsoft Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill in the form (not shown here), or amend or delete any existing information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055823Z" creationid="manuel" creationdate="20180529T055823Z">
@@ -2026,6 +2042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055315Z" creationid="manuel" creationdate="20180531T055315Z">
         <seg>Risultato immagine – Usa accelerazione hardware</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML compatibility</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155154Z" creationid="manuel" creationdate="20180608T155154Z">
+        <seg>compatibilità HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -3174,6 +3198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Load/Save – Microsoft Office&lt;/f0&gt; page (Figure &lt;t1&gt;38&lt;/t1&gt;), you can choose what to do when importing and exporting Microsoft Office OLE objects (linked or embedded objects or documents such as spreadsheets or equations).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155101Z" creationid="manuel" creationdate="20180608T155101Z">
+        <seg>Nella pagina &lt;f0&gt;Carica/Salva – Microsoft Office&lt;/f0&gt; (Figura &lt;t1&gt;38&lt;/t1&gt;), potete stabilire cosa fare quando si importano ed esportano oggetti OLE di Microsoft Office (che siano collegati o integrati oppure documenti come fogli elettronici o equazioni).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f0&gt;VBA Properties&lt;/f0&gt; page, you can choose whether to keep any macros in Microsoft Office documents that are opened in LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153755Z" creationid="manuel" creationdate="20180608T153755Z">
@@ -3642,6 +3674,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073805Z" creationid="manuel" creationdate="20180531T073805Z">
         <seg>Selezionate l'opzione &lt;f0&gt;Applica &lt;/f0&gt;&lt;i1/&gt;&lt;i2/&gt;&lt;f3&gt;tabella di sostituzione&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the [L] options to convert Microsoft OLE objects into the corresponding LibreOffice OLE objects when a Microsoft document is loaded into LibreOffice (mnemonic: “L” for “load”).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155112Z" creationid="manuel" creationdate="20180608T155112Z">
+        <seg>Selezionate l'opzione nella colonna [C] per convertire gli oggetti OLE Microsoft nei corrispondenti OLE LibreOffice quando caricate un documento Microsoft in LibreOffice (ricordate: "C" sta per "carica").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the [S] options to convert LibreOffice OLE objects into the corresponding Microsoft OLE objects when a document is saved in a Microsoft format (mnemonic: “S” for “save”).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155128Z" creationid="manuel" creationdate="20180608T155128Z">
+        <seg>Selezionate l'opzione nella colonna [S] per convertire gli oggetti OLE LibreOffice nei corrispondenti OLE Microsoft quando salvate un documento in formato Microsoft (ricordate: "S" sta per "salva").</seg>
       </tuv>
     </tu>
     <tu>
