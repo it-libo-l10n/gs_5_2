@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Many pages no longer use these tags.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155645Z" creationid="manuel" creationdate="20180608T155645Z">
+        <seg>(Molte pagine non utilizzano più questi tag.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Not available in Windows.) Select this option to smooth the screen appearance of text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085508Z" creationid="manuel" creationdate="20180530T085508Z">
@@ -2478,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Import – Use 'English (USA)' locale for numbers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155752Z" creationid="manuel" creationdate="20180608T155752Z">
+        <seg>Importa – Usa l'area geografica 'Inglese (USA)' per i numeri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Impress (presentations)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T201041Z" creationid="Marco Marega" creationdate="20180527T201041Z">
@@ -4150,6 +4166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The clipboard, however, contains no information about the locale.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155840Z" creationid="manuel" creationdate="20180608T155840Z">
+        <seg>Gli appunti, comunque, non contengono informazioni sull'area geografica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The color field at the lower left shows the value of the selected color on the left and the currently set value from the color value fields on the right.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072625Z" creationid="manuel" creationdate="20180531T072625Z">
@@ -4814,6 +4838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use these fields to define the respective &lt;i0/&gt;font sizes for the HTML &lt;font size=1&gt; to &lt;font size=7&gt; tags, if they are used in the HTML pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155640Z" creationid="manuel" creationdate="20180608T155640Z">
+        <seg>Usate questi campi per definire le rispettive &lt;i0/&gt;dimensioni carattere per i tag HTML, da &lt;font size=1&gt; fino a &lt;font size=7&gt;, se vengono utilizzati nelle pagine HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use this option to select the default for relative addressing of URLs in the file system and on the Internet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144521Z" creationid="manuel" creationdate="20180608T144521Z">
@@ -4978,6 +5010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152507Z" creationid="manuel" creationdate="20180608T152507Z">
         <seg>Quando un file salvato in ODF 1.2 Esteso viene aperto con un editor che utilizza versioni precedenti di ODF (1.0/1.1), alcune delle caratteristiche avanzate potrebbero perdersi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When importing numbers from an HTML page, the decimal and thousands separator characters differ according to the locale of the HTML page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155834Z" creationid="manuel" creationdate="20180608T155834Z">
+        <seg>Nell'importazione di numeri da una pagina HTML, i caratteri separatori dei decimali e delle migliaia differiscono a seconda dell'area geografica della pagina HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5530,6 +5570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084114Z" creationid="manuel" creationdate="20180530T084114Z">
         <seg>dimensioni e stile icona (interfaccia utente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>importing numbers from an HTML page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155807Z" creationid="manuel" creationdate="20180608T155807Z">
+        <seg>importazione numeri da una pagina HTML</seg>
       </tuv>
     </tu>
     <tu>
