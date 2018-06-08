@@ -1894,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;i0/&gt;&lt;f1&gt;Download updates automatically&lt;/f1&gt; option is selected, the download starts when you click the icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071917Z" creationid="manuel" creationdate="20180608T071917Z">
+        <seg>Se l'opzione &lt;i0/&gt;&lt;f1&gt;Scarica aggiornamenti automaticamente&lt;/f1&gt; è selezionata, il download inizia quando fate clic sull'icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;i2/&gt;&lt;f3&gt;Check for updates automatically&lt;/f3&gt; option is selected, an icon appears at the right-hand end of the menu bar when an update is available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071831Z" creationid="manuel" creationdate="20180608T071831Z">
@@ -3822,6 +3830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the download destination, click the &lt;f2&gt;Change&lt;/f2&gt; button and select the required folder in the file browser window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071931Z" creationid="manuel" creationdate="20180608T071931Z">
+        <seg>Per cambiare la destinazione del download, fate clic sul pulsante &lt;f2&gt;Cambia&lt;/f2&gt; e selezionate la cartella desiderata nella finestra di esplorazione file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the way that LibreOffice stores the hyperlinks in your file, select &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; and choose if you want URLs saved relatively when referencing the &lt;f1&gt;File System&lt;/f1&gt;, or the &lt;f2&gt;Internet&lt;/f2&gt;, or both.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154804Z" creationid="luke" creationdate="20180514T154804Z">
@@ -4570,6 +4586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070028Z" creationid="manuel" creationdate="20180529T070028Z">
         <seg>opzione stato del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>download updates automatically</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071909Z" creationid="manuel" creationdate="20180608T071909Z">
+        <seg>scarica aggiornamenti automaticamente</seg>
       </tuv>
     </tu>
     <tu>
