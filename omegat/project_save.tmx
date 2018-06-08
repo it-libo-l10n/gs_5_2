@@ -3294,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select this option so that when a document loads, it ignores the stored settings in favor of the settings on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143633Z" creationid="manuel" creationdate="20180608T143633Z">
+        <seg>Selezionando questa opzione, durante il caricamento del documento, esso ignora le impostazioni salvate, in favore di quelle sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select this option to always remove user data from the file properties when saving the file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083936Z" creationid="manuel" creationdate="20180606T083936Z">
@@ -4394,6 +4402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
         <seg>When you are ready to advance to the next slide, mouse click on the display background or press the right arrow or space bar on your keyboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you save a document, these settings are saved with it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143503Z" creationid="manuel" creationdate="20180608T143503Z">
+        <seg>Durante il salvataggio, queste impostazioni vengono salvate con il documento.</seg>
       </tuv>
     </tu>
     <tu>
