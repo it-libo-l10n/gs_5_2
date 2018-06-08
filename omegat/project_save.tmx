@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Edit&lt;/f0&gt;, &lt;f1&gt;Add...&lt;/f1&gt; and &lt;f2&gt;Delete&lt;/f2&gt; buttons to modify the lists entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140813Z" creationid="manuel" creationdate="20180608T140813Z">
+        <seg>Fate clic sui bottoni &lt;f0&gt;Modificare&lt;/f0&gt;, &lt;f1&gt;Aggiungi...&lt;/f1&gt; e &lt;f2&gt;Cancella&lt;/f2&gt; per modificare le voci della lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Expert Configuration&lt;/f0&gt; button to open a new window in which you can fine-tune the LibreOffice installation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T070832Z" creationid="manuel" creationdate="20180608T070832Z">
@@ -1498,6 +1506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: OpenCL options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140854Z" creationid="manuel" creationdate="20180608T140854Z">
+        <seg>Figura &lt;seq0&gt;35&lt;/seq0&gt;: opzioni OpenCL</seg>
       </tuv>
     </tu>
     <tu>
@@ -3738,6 +3754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T075936Z" creationid="manuel" creationdate="20180531T075936Z">
         <seg>I risultati della combinazione di queste selezioni sono mostrati nella &lt;t3&gt;Tabella 15&lt;/t3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The two boxes below list the OpenCL drivers whitelist and blacklist.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140621Z" creationid="manuel" creationdate="20180608T140621Z">
+        <seg>Le due caselle sottostanti elencano la lista bianca e la lista nera dei driver OpenCL.</seg>
       </tuv>
     </tu>
     <tu>
