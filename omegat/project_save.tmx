@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Expert Configuration&lt;/f0&gt; button to open a new window in which you can fine-tune the LibreOffice installation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T070832Z" creationid="manuel" creationdate="20180608T070832Z">
+        <seg>Fate clic su pulsante &lt;f0&gt;Configurazione esperta&lt;/f0&gt; per aprire una nuova finestra in cui è possibile perfezionare l'installazione di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Macro Security&lt;/f0&gt; button to open the &lt;i1/&gt;Macro Security dialog (not shown here), where you can adjust the security level for executing macros and specify trusted sources.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073032Z" creationid="manuel" creationdate="20180606T073032Z">
@@ -2486,6 +2494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most users will have no need to use this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T070652Z" creationid="manuel" creationdate="20180608T070652Z">
+        <seg>La maggior parte degli utenti non avrà bisogno di usarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mouse positioning</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085527Z" creationid="manuel" creationdate="20180530T085527Z">
@@ -3546,6 +3562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084127Z" creationid="manuel" creationdate="20180606T084127Z">
         <seg>Le altre opzioni in questa finestra di dialogo dovrebbero essere autoesplicative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The page offers detailed configuration options for many aspects of LibreOffice’s appearance and performance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T070911Z" creationid="manuel" creationdate="20180608T070911Z">
+        <seg>La pagina offre opzioni di configurazione dettagliate per molti aspetti dell'aspetto e delle prestazioni di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
