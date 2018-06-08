@@ -2510,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want the macro to run automatically when the HTML document is opened, choose &lt;f0&gt;Tools &gt; Customize &gt; Events&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164114Z" creationid="manuel" creationdate="20180608T164114Z">
+        <seg>Se desiderate che le macro vengano eseguite automaticamente quando il documento HTML viene aperto, scegliete &lt;f0&gt;Strumenti &gt; Personalizza &gt; Eventi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to create a custom slide show from the same presentation:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085953Z" creationid="luke" creationdate="20180515T085953Z">
@@ -2850,6 +2858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190443Z" creationid="Marco Marega" creationdate="20180528T190443Z">
         <seg>LibreOffice 5.&lt;f0&gt;2&lt;/f0&gt; richiede uno dei seguenti sistemi operativi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice Basic macros must be located in the header of the HTML document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164039Z" creationid="manuel" creationdate="20180608T164039Z">
+        <seg>Le macro di LibreOffice Basic devono essere situate nell'intestazione del documento HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3346,6 +3362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070119Z" creationid="manuel" creationdate="20180531T070119Z">
         <seg>Nella finestra Seleziona percorso (non riportata; potrebbe anche essere chiamata Modifica Percorsi), aggiungete o eliminate le cartelle secondo necessità, e poi fate clic su &lt;f2&gt;OK&lt;/f2&gt; per tornare alla finestra Opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have created the macro in the LibreOffice Basic IDE, it appears in the source text of the HTML document in the header.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164101Z" creationid="manuel" creationdate="20180608T164101Z">
+        <seg>Una volta creata la macro nell'IDE di LibreOffice Basic, questa apparirà nel sorgente pagina del documento HTML, nell'intestazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,6 +3914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160203Z" creationid="manuel" creationdate="20180608T160203Z">
         <seg>Selezionate questa opzione per fare sì che LibreOffice &lt;i0/&gt;&lt;i1/&gt;ignori tutte le impostazioni delle font nell'importazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option to include LibreOffice Basic macros (scripts) when exporting to HTML format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164025Z" creationid="manuel" creationdate="20180608T164025Z">
+        <seg>Selezionate questa opzione per includere le macro (script) di LibreOffice Basic nell'esportazione al formato HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5474,6 +5506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072903Z" creationid="manuel" creationdate="20180531T072903Z">
         <seg>Potete specificare un carattere diverso da quello scelto dal programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must activate this option &lt;f0&gt;before&lt;/f0&gt; you create the LibreOffice Basic macro; otherwise the script will not be inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164035Z" creationid="manuel" creationdate="20180608T164035Z">
+        <seg>Dovete attivare questa opzione &lt;f0&gt;prima&lt;/f0&gt; di creare la macro di LibreOffice Basic; altrimenti lo script non verrà inserito.</seg>
       </tuv>
     </tu>
     <tu>
