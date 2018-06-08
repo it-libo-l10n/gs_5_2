@@ -2646,6 +2646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only actions relating to document contents are recordable, so changes in Options or customizing menus are not supported.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T070227Z" creationid="manuel" creationdate="20180608T070227Z">
+        <seg>Sono registrabili soltanto le azioni relative al contenuto del documento; non sono quindi supportate modifiche nelle Opzioni o personalizzazioni dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203840Z" creationid="Marco Marega" creationdate="20180607T203840Z">
@@ -2666,6 +2674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060554Z" creationid="manuel" creationdate="20180529T060554Z">
         <seg>Finestre di dialogo Apri/Salva&lt;ie0/&gt; – Utilizza finestre di dialogo LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening a window, switching between windows, and recording in a different window to that in which the recording began, &lt;f0&gt;are&lt;/f0&gt; not supported.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T070221Z" creationid="manuel" creationdate="20180608T070221Z">
+        <seg>Non è possibile aprire una finestra, passare da una finestra a un'altra, e registrare in una finestra diversa da quella in cui è iniziata la registrazione&lt;f0&gt;&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
