@@ -1342,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Decimal separator key</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171757Z" creationid="manuel" creationdate="20180608T171757Z">
+        <seg>Tasto separatore decimale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default file format and ODF settings</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144748Z" creationid="manuel" creationdate="20180608T144748Z">
@@ -5194,6 +5202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T082610Z" creationid="luke" creationdate="20180515T082610Z">
         <seg>Undoing and redoing changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unless you select something else here, the locale of the operating system will be set as default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171706Z" creationid="manuel" creationdate="20180608T171633Z">
+        <seg>A meno che non selezionate qualcos'altro qui, le impostazioni internazionali del sistema operativo saranno impostate come predefinite.</seg>
       </tuv>
     </tu>
     <tu>
