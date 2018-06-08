@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../images/img.jpg</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144714Z" creationid="manuel" creationdate="20180608T144714Z">
+        <seg>../immagini/img.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072735Z" creationid="luke" creationdate="20180515T072735Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185618Z" creationid="Marco Marega" creationdate="20180528T185618Z">
         <seg>&lt;f0&gt;Nessun vincolo esclusivo con il produttore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;ODF format version.&lt;/f0&gt; LibreOffice by default saves documents &lt;i1/&gt;in OpenDocument Format (ODF) version 1.2 Extended.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144841Z" creationid="manuel" creationdate="20180608T144841Z">
+        <seg>&lt;f0&gt;Versione del formato ODF.&lt;/f0&gt; LibreOffice per impostazione predefinita salva i documenti nel &lt;i1/&gt;Formato OpenDocument (ODF) versione 1.2 Esteso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Default file format and ODF settings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144748Z" creationid="manuel" creationdate="20180608T144748Z">
+        <seg>Formato file predefinito e impostazioni ODF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defines the function of the &lt;i0/&gt;middle mouse button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085556Z" creationid="manuel" creationdate="20180530T085556Z">
@@ -1386,6 +1410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144424Z" creationid="manuel" creationdate="20180608T144424Z">
         <seg>Quando LibreOffice crea una copia di backup, quella precedente viene rimpiazzata da quella nuova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Examples</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144612Z" creationid="manuel" creationdate="20180608T144612Z">
+        <seg>Esempi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2158,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you choose to save relatively, the references to embedded graphics or other objects in your document will be saved relative to the location in the file system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144731Z" creationid="manuel" creationdate="20180608T144731Z">
+        <seg>Se scegliete di salvare in modo relativo, i riferimenti a immagini o altri oggetti incorporati nel documento verranno salvati relativamente alla posizione nel file system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you deselect this option, the user’s personal settings do not overrule the settings in the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143811Z" creationid="manuel" creationdate="20180608T143811Z">
@@ -2226,6 +2266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072731Z" creationid="manuel" creationdate="20180531T072731Z">
         <seg>Se caricate una tavolozza in uno dei componenti di LibreOffice, questa sarà attiva solo per quel componente; gli altri componenti manterranno le proprie tavolozze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you prefer absolute saving, all references to other files will also be defined as absolute, based on the respective drive, volume or root directory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144741Z" creationid="manuel" creationdate="20180608T144741Z">
+        <seg>Se preferite salvare in modo assoluto, tutti i riferimenti ad altri file saranno anche definiti come assoluti, basati sulla rispettiva unità, volume o cartella radice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2422,6 +2470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case, it does not matter where the referenced directory structure is recorded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144733Z" creationid="manuel" creationdate="20180608T144733Z">
+        <seg>In questo caso, non ha importanza dove sia registrata la struttura di cartelle a cui si fa riferimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information about automatic updating for links, field functions and charts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143724Z" creationid="manuel" creationdate="20180608T143724Z">
@@ -2490,6 +2546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200548Z" creationid="Marco Marega" creationdate="20180527T200548Z">
         <seg>Dispone, tra l'altro, di oltre 300 funzioni per calcoli finanziari, statistici e matematici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is also recommended to save relatively if you want to create a directory structure on an Internet server.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144739Z" creationid="manuel" creationdate="20180608T144739Z">
+        <seg>Si consiglia anche di salvare relativamente se desiderate creare una struttura di cartelle su un server Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2910,6 +2974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ODF format version, saving</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144750Z" creationid="manuel" creationdate="20180608T144750Z">
+        <seg>salvataggio, versione del formato ODF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On Windows, LibreOffice uses the default Windows location for storing and retrieving certificates.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074506Z" creationid="manuel" creationdate="20180606T074506Z">
@@ -3090,6 +3162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T135900Z" creationid="manuel" creationdate="20180608T135900Z">
         <seg>Opzioni OpenCL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument Format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144751Z" creationid="manuel" creationdate="20180608T144751Z">
+        <seg>Formato OpenDocument </seg>
       </tuv>
     </tu>
     <tu>
@@ -3838,6 +3918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The advantage is that the document containing the references can be moved to other directories or folders, and the references remain valid.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144745Z" creationid="manuel" creationdate="20180608T144745Z">
+        <seg>Il vantaggio è che il documento contenente i riferimenti può essere spostato in altre cartelle, e i riferimenti rimangono validi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The appropriate component of LibreOffice will start and the document will be loaded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202127Z" creationid="Marco Marega" creationdate="20180607T202127Z">
@@ -3934,6 +4022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The files will be found regardless of location, as long as the reference remains on the same drive or volume.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144735Z" creationid="manuel" creationdate="20180608T144735Z">
+        <seg>I file verranno trovati a prescindere dalla posizione, fintantoché il riferimento rimane sulla stessa unità o volume.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following options are on the Security options and warnings dialog (Figure &lt;t0&gt;27&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083855Z" creationid="manuel" creationdate="20180606T083855Z">
@@ -3946,6 +4042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143759Z" creationid="manuel" creationdate="20180608T143759Z">
         <seg>Le seguenti impostazioni sono &lt;f0&gt;sempre&lt;/f0&gt; caricate insieme al documento, anche se questa opzione non è selezionata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following table demonstrates the difference in syntax between relative and absolute referencing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144610Z" creationid="manuel" creationdate="20180608T144610Z">
+        <seg>La tabella seguente mostra la differenza di sintassi tra riferimento relativo e assoluto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4170,6 +4274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065538Z" creationid="manuel" creationdate="20180531T065538Z">
         <seg>Questo formato ha un certo numero di vantaggi rispetto al Postscript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is important if you want to make the document available to other computers that may have a completely different directory structure, drive or volume names.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144737Z" creationid="manuel" creationdate="20180608T144737Z">
+        <seg>Questo è importante se desiderate rendere il documento disponibile ad altri computer che potrebbero avere una struttura di cartelle, una unità o nomi di volume completamente differenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4678,6 +4790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While this allows for improved functionality, there may be backwards compatibility issues.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144846Z" creationid="manuel" creationdate="20180608T144846Z">
+        <seg>Se da un lato ciò permette una funzionalità migliorata, dall'altro lato potrebbero esserci problemi di compatibilità con le versioni precedenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With OpenCL enabled, LibreOffice can benefit from the very fast numerical calculations performed in the GPU, which is especially useful in very large spreadsheets with extensive calculations.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140211Z" creationid="manuel" creationdate="20180608T140211Z">
@@ -4958,6 +5078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>absolute</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144718Z" creationid="manuel" creationdate="20180608T144718Z">
+        <seg>assoluto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>accessibility options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100637Z" creationid="manuel" creationdate="20180606T100637Z">
@@ -5038,6 +5166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>default file format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144747Z" creationid="manuel" creationdate="20180608T144747Z">
+        <seg>formato file predefinito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>document status option</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070028Z" creationid="manuel" creationdate="20180529T070028Z">
@@ -5102,6 +5238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>file:///c|/work/images/img.jpg</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144723Z" creationid="manuel" creationdate="20180608T144723Z">
+        <seg>file:///c|/lavoro/immagini/img.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>font</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062314Z" creationid="manuel" creationdate="20180531T062314Z">
@@ -5122,6 +5266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055935Z" creationid="manuel" creationdate="20180529T055935Z">
         <seg>opzioni generali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://myserver.com/work/images/img.jpg</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144728Z" creationid="manuel" creationdate="20180608T144728Z">
+        <seg>http://mioserver.com/lavoro/immagini/img.jpg</seg>
       </tuv>
     </tu>
     <tu>
@@ -5210,6 +5362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143846Z" creationid="manuel" creationdate="20180608T143846Z">
         <seg>impostazioni della stampante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>relative</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144708Z" creationid="manuel" creationdate="20180608T144708Z">
+        <seg>relativo</seg>
       </tuv>
     </tu>
     <tu>
