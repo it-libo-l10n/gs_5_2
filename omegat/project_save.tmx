@@ -4526,6 +4526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Two notable examples are cross-references to headings and the formatting of numbered lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152522Z" creationid="manuel" creationdate="20180608T152522Z">
+        <seg>Due esempi notevoli sono i riferimenti incrociati alle intestazioni e la formattazione degli elenchi numerati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type a name for this color in the &lt;f2&gt;Name&lt;/f2&gt; box, then click the &lt;f3&gt;Add&lt;/f3&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072711Z" creationid="manuel" creationdate="20180531T072711Z">
@@ -4738,6 +4746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203621Z" creationid="Marco Marega" creationdate="20180607T203621Z">
         <seg>Se Quickstart è attivato, le librerie necessarie vengono caricate all'avvio del computer, permettendo un tempo di caricamento più rapido dei componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a file saved in ODF 1.2 Extended is opened in an editor that uses earlier versions of ODF (1.0/1.1), some of the advanced features may be lost.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152507Z" creationid="manuel" creationdate="20180608T152507Z">
+        <seg>Quando un file salvato in ODF 1.2 Esteso viene aperto con un editor che utilizza versioni precedenti di ODF (1.0/1.1), alcune delle caratteristiche avanzate potrebbero perdersi.</seg>
       </tuv>
     </tu>
     <tu>
