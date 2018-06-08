@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change some &lt;i0/&gt;locale and language settings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170123Z" creationid="manuel" creationdate="20180608T170123Z">
+        <seg>Modifica delle impostazioni &lt;i0/&gt;locali e della lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change some locale and language settings</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170001Z" creationid="manuel" creationdate="20180608T170001Z">
@@ -1818,6 +1826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055823Z" creationid="manuel" creationdate="20180529T055823Z">
         <seg>Compilate il modulo (non visualizzato qui), oppure correggete o cancellate eventuali informazioni sbagliate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow the prompts to select and install the ones you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170118Z" creationid="manuel" creationdate="20180608T170118Z">
+        <seg>Seguite le istruzioni per selezionare e installare quelli che desiderate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3026,6 +3042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085725Z" creationid="luke" creationdate="20180515T085725Z">
         <seg>LibreOffice funziona su sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice will open your default web browser to a page containing links to additional dictionaries that you can install.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170113Z" creationid="manuel" creationdate="20180608T170113Z">
+        <seg>LibreOffice aprirà il vostro browser web predefinito su una pagina contenente collegamenti a dizionari aggiuntivi che potete installare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4854,6 +4878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add other dictionaries, be sure you are connected to the Internet, and then choose &lt;f1&gt;Tools &gt; Language &gt; More Dictionaries Online&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170108Z" creationid="manuel" creationdate="20180608T170108Z">
+        <seg>Per aggiungere altri dizionari, assicuratevi di essere connessi a Internet, poi usate &lt;f1&gt;Strumenti &gt; Lingua &gt; Ulteriori dizionari in linea&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To apply a different display time to each slide in your presentation:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090033Z" creationid="luke" creationdate="20180515T090033Z">
@@ -5478,6 +5510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change some details of the locale and language settings that LibreOffice uses for all documents, or for specific documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170130Z" creationid="manuel" creationdate="20180608T170130Z">
+        <seg>Potete modificare alcuni dettagli delle impostazioni locali e della lingua usate da LibreOffice per tutti i documenti o per documenti specifici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can choose the RGB (Red, Green, Blue) or the CMYK (Cyan, Magenta, Yellow, Black) system to specify your color.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070244Z" creationid="manuel" creationdate="20180531T070244Z">
@@ -5938,6 +5978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153819Z" creationid="manuel" creationdate="20180608T153819Z">
         <seg>carica codice Basic per modifica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>locale settings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170120Z" creationid="manuel" creationdate="20180608T170120Z">
+        <seg>impostazioni locali</seg>
       </tuv>
     </tu>
     <tu>
