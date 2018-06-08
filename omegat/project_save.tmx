@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AutoRecovery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144233Z" creationid="manuel" creationdate="20180608T144233Z">
+        <seg>autoripristino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available only in some operating systems and desktop managers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T065951Z" creationid="manuel" creationdate="20180529T065951Z">
@@ -858,6 +866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154733Z" creationid="luke" creationdate="20180514T154733Z">
         <seg>Choose the shortcut keys you want to assign a style to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose whether to enable AutoRecovery and how often to save the information used by the AutoRecovery process.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144239Z" creationid="manuel" creationdate="20180608T144239Z">
+        <seg>Scegliere se abilitare il Ripristino Automatico e la frequenza con cui vengono salvate le informazioni usate dal processo di Ripristino Automatico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,6 +2006,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If disabled, your standard printer will be used to print this document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144209Z" creationid="manuel" creationdate="20180608T144209Z">
+        <seg>Se disabilitata, per stampare il documento verrà usata la stampante predefinita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If enabled, the printer settings will be loaded with the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144138Z" creationid="manuel" creationdate="20180608T144138Z">
+        <seg>Se abilitata, le impostazioni della stampante verranno caricate con il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;f0&gt;Send OS version &amp; simple hardware info&lt;/f0&gt; option is selected, the information of the computer architecture and operating system will be sent to the server for statistics collection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T135827Z" creationid="manuel" creationdate="20180608T135827Z">
@@ -2554,6 +2586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154751Z" creationid="luke" creationdate="20180514T154751Z">
         <seg>Listing &lt;seq0&gt;6&lt;/seq0&gt;: Append the text “Hello” to the current document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load printer settings with the document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144135Z" creationid="manuel" creationdate="20180608T144135Z">
+        <seg>Carica le impostazioni della stampante insieme al documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -3182,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save AutoRecovery information every __ Minutes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144231Z" creationid="manuel" creationdate="20180608T144231Z">
+        <seg>Salva informazioni di Ripristino Automatico ogni __ Minuti </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Screen only checkbox</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080248Z" creationid="manuel" creationdate="20180531T080248Z">
@@ -3750,6 +3798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The current printer settings will be stored with the document whether or not this option is selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144224Z" creationid="manuel" creationdate="20180608T144224Z">
+        <seg>Le impostazioni della stampante corrente verranno salvate con il documento anche se questa opzione non è selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default behavior in LibreOffice is to &lt;f0&gt;Ctrl+click&lt;/f0&gt; on a hyperlink to open the linked document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084059Z" creationid="manuel" creationdate="20180606T084059Z">
@@ -3994,6 +4050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060858Z" creationid="manuel" creationdate="20180529T060858Z">
         <seg>Questo testo utilizza le finestre di dialogo "Apri" e "Salva" di LibreOffice nelle illustrazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can cause a document to be printed on a distant printer (perhaps in an office setting), if you do not change the printer manually in the Print dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144204Z" creationid="manuel" creationdate="20180608T144204Z">
+        <seg>Ciò potrebbe fare in modo che un documento venga stampato su una stampante distante (magari in una impostazione di ufficio), se non modificate la stampante manualmente nella finestra di dialogo Stampa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5058,6 +5122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072847Z" creationid="manuel" creationdate="20180531T072847Z">
         <seg>sostituzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>save AutoRecovery information</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144228Z" creationid="manuel" creationdate="20180608T144228Z">
+        <seg>salva informazioni di Ripristino Automatico</seg>
       </tuv>
     </tu>
     <tu>
