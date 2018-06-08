@@ -3736,8 +3736,8 @@
       <tuv lang="EN">
         <seg>See &lt;f1&gt;Assistive Tools in LibreOffice&lt;/f1&gt; in the Help for other requirements and information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104401Z" creationid="manuel" creationdate="20180606T104401Z">
-        <seg>Vedete &lt;f1&gt;Funzioni di accesso facilitato in LibreOffice&lt;/f1&gt; nella Guida per altre informazioni e requisiti.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164844Z" creationid="manuel" creationdate="20180606T104401Z">
+        <seg>Si veda &lt;f1&gt;Funzioni di accesso facilitato in LibreOffice&lt;/f1&gt; nella Guida per altre informazioni e requisiti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,6 +3938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T064358Z" creationid="manuel" creationdate="20180531T064358Z">
         <seg>Selezione questa opzione per cambiare il formato di lavoro  della stampa interna da una descrizione del documento in Postscript alla descrizione in PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option to export the print layout of the current document as well.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165126Z" creationid="manuel" creationdate="20180608T165126Z">
+        <seg>Selezionate questa opzione per esportare anche il layout di stampa del documento attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4242,6 +4250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154824Z" creationid="luke" creationdate="20180514T154824Z">
         <seg>The Gallery (Figure &lt;t0&gt;309&lt;/t0&gt;) provides a convenient way to group reusable objects such as graphics and sounds that you can insert into your documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The HTML filter supports CSS2 (Cascading Style Sheets Level 2) for printing documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165130Z" creationid="manuel" creationdate="20180608T165130Z">
+        <seg>Il filtro HTML supporta CSS2 (Fogli di stile a cascata di livello 2) per la stampa dei documenti.</seg>
       </tuv>
     </tu>
     <tu>
