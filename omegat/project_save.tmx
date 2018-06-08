@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the expansion symbol (+ or triangle) to the left of &lt;f1&gt;Load/Save&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142712Z" creationid="manuel" creationdate="20180608T142712Z">
+        <seg>Fate clic sul segno di espansione (+ o triangolo) alla sinistra di &lt;f1&gt;Carica/Salva&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the marker (+ or triangle) by LibreOffice on the left-hand side.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083242Z" creationid="manuel" creationdate="20180528T083242Z">
@@ -1694,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142715Z" creationid="manuel" creationdate="20180608T142715Z">
+        <seg>Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060009Z" creationid="manuel" creationdate="20180529T060009Z">
@@ -1954,6 +1970,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071831Z" creationid="manuel" creationdate="20180608T071831Z">
         <seg>Se l'opzione &lt;i2/&gt;&lt;f3&gt;Controlla aggiornamenti automaticamente&lt;/f3&gt; è selezionata, appare un'icona sul lato destro della barra dei menu quando un aggiornamento è disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Options dialog is not already open, click &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142648Z" creationid="manuel" creationdate="20180608T142648Z">
+        <seg>Se la finestra Opzioni non è aperta, fate clic su &lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4522,6 +4546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070201Z" creationid="manuel" creationdate="20180531T070201Z">
         <seg>Potete selezionare un colore da una tavolozza, modificare un colore già presente e definire nuovi colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can set the options for loading and saving documents to suit the way you work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142535Z" creationid="manuel" creationdate="20180608T142535Z">
+        <seg>Potete impostare le opzioni di salvataggio e caricamento dei documenti secondo le vostre necessità.</seg>
       </tuv>
     </tu>
     <tu>
