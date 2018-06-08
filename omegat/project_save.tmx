@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow use of OpenCL</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140455Z" creationid="manuel" creationdate="20180608T140455Z">
+        <seg>Consentite l'uso di OpenCL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows you to optionally select a Time Stamping Authority (TSA) URL for PDF documents created by LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074705Z" creationid="manuel" creationdate="20180606T074705Z">
@@ -2326,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Let LibreOffice use the video card GPU to perform numerical calculation with great speed gain.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140524Z" creationid="manuel" creationdate="20180608T140524Z">
+        <seg>Lasciate che LibreOffice usi la GPU della scheda video per eseguire calcoli numerici con un grande guadagno di velocità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice 5.&lt;f0&gt;2&lt;/f0&gt; requires one of the following operating systems:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190443Z" creationid="Marco Marega" creationdate="20180528T190443Z">
@@ -2466,6 +2482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084120Z" creationid="manuel" creationdate="20180606T084120Z">
         <seg>Molte persone trovano più facile la creazione e la modifica di documenti se clic involontari sui collegamenti non attivano i collegamenti stessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark this box to emulate OpenCL if your computer video card driver does not support OpenCL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140408Z" creationid="manuel" creationdate="20180608T140408Z">
+        <seg>Contrassegnate questa casella per emulare OpenCL se il driver della scheda video del computer non supporta OpenCL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2802,6 +2826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140139Z" creationid="manuel" creationdate="20180608T140139Z">
         <seg>OpenCL (Open Computing Language) è un'architettura software utilizzata per scrivere programmi eseguiti in processori diversi del computer, come CPU e GPU (graphic processing unit - unità di elaborazione grafica) della scheda video.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenCL Options - Allow use of Software Interpreter (even when OpenCL is not available)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140328Z" creationid="manuel" creationdate="20180608T140328Z">
+        <seg>Opzioni OpenCL - Consente l'uso di Software Interpreter (anche quando OpenCL non è disponibile)</seg>
       </tuv>
     </tu>
     <tu>
