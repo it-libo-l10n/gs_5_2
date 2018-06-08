@@ -1246,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current versions of Microsoft Word can open ODT files, so this may no longer be needed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153658Z" creationid="manuel" creationdate="20180608T153658Z">
+        <seg>Le versioni attuali di Microsoft Word possono aprire file ODT, quindi ciò potrebbe non essere più necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom slide shows</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085952Z" creationid="luke" creationdate="20180515T085952Z">
@@ -3110,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f0&gt;VBA Properties&lt;/f0&gt; page, you can choose whether to keep any macros in Microsoft Office documents that are opened in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153755Z" creationid="manuel" creationdate="20180608T153755Z">
+        <seg>Nella pagina &lt;f0&gt;Proprietà VBA&lt;/f0&gt;, potete stabilire se mantenere le macro nei documenti Microsoft Office aperti da LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Customize dialog, select the menu in the &lt;f1&gt;Menu&lt;/f1&gt; list and click the &lt;f2&gt;Add&lt;/f2&gt; button in the &lt;f3&gt;Menu Content&lt;/f3&gt; section of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154743Z" creationid="luke" creationdate="20180514T154743Z">
@@ -4706,6 +4722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
         <seg>Using Impress Remote control</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VBA Properties</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153702Z" creationid="manuel" creationdate="20180608T153702Z">
+        <seg>Proprietà VBA</seg>
       </tuv>
     </tu>
     <tu>
