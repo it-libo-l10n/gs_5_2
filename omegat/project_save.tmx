@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Em dash; En dash</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T110025Z" creationid="manuel" creationdate="20180609T110025Z">
+        <seg>Trattino lungo (lineetta emme); trattino corto (lineetta enne)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable &lt;i0/&gt;experimental features</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065447Z" creationid="manuel" creationdate="20180608T065447Z">
