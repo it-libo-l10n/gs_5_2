@@ -592,8 +592,8 @@
       <tuv lang="EN">
         <seg>Allows you to optionally select a Time Stamping Authority (TSA) URL for PDF documents created by LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074705Z" creationid="manuel" creationdate="20180606T074705Z">
-        <seg>Vi consente di selezionare facoltativamente un URL TSA (Time Stamping Authority) per i documenti PDF creati da LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T153023Z" creationid="manuel" creationdate="20180606T074705Z">
+        <seg>Vi consente di selezionare facoltativamente un URL TSA (Time Stamping Authority – marcatura temporale) per i documenti PDF creati da LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
