@@ -4142,6 +4142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the languages used for the spelling checker, thesaurus, and hyphenation features of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T064308Z" creationid="manuel" creationdate="20180609T064308Z">
+        <seg>Seleziona le lingue utilizzate per il correttore ortografico, il dizionario e le funzioni di sillabazione di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the number of images per slide in the &lt;f0&gt;Slide layout&lt;/f0&gt; list box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085942Z" creationid="luke" creationdate="20180515T085942Z">
