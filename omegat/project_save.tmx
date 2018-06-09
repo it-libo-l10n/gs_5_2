@@ -1398,6 +1398,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert to metric; Convert to non-metric</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113949Z" creationid="manuel" creationdate="20180609T113949Z">
+        <seg>Converte in metrica; Converte in non metrico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts quantities in a given type of unit to quantities in the other type of unit: metric to imperial or imperial to metric.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T114022Z" creationid="manuel" creationdate="20180609T114022Z">
+        <seg>Converte le quantità in un determinato tipo di unità in quantità nell'altro tipo di unità: da metrica a imperiale o da imperiale a metrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy content</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091959Z" creationid="manuel" creationdate="20180530T091959Z">
@@ -4046,6 +4062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Others</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113839Z" creationid="manuel" creationdate="20180609T113839Z">
+        <seg>Altri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paid support and training</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085659Z" creationid="luke" creationdate="20180515T085659Z">
@@ -4234,6 +4258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080251Z" creationid="manuel" creationdate="20180531T080251Z">
         <seg>Azione di sostituzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replaces a hyphen with the correct minus typographical character.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113832Z" creationid="manuel" creationdate="20180609T113832Z">
+        <seg>Sostituisce un trattino con il carattere meno che è tipograficamente corretto.</seg>
       </tuv>
     </tu>
     <tu>
