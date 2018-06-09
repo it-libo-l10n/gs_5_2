@@ -3415,6 +3415,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice can also check sentences in other languages, notably Hungarian, Russian, and Brazilian Portuguese.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T114350Z" creationid="manuel" creationdate="20180609T114350Z">
+        <seg>LibreOffice può anche controllare le frasi in altre lingue, in particolare in ungherese, russo e portoghese brasiliano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice can also open and save documents in many other formats, including those used by several versions of Microsoft Office.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T195947Z" creationid="Marco Marega" creationdate="20180527T195947Z">
