@@ -3622,6 +3622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minus sign</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113536Z" creationid="manuel" creationdate="20180609T113536Z">
+        <seg>Segno meno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modify the &lt;f0&gt;Name&lt;/f0&gt; as required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070250Z" creationid="manuel" creationdate="20180531T070250Z">
@@ -4234,6 +4242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113209Z" creationid="manuel" creationdate="20180609T113209Z">
         <seg>Sostituisce un apostrofo con il carattere tipografico corretto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replaces three consecutive periods (full stops) with the correct typographical symbol.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113612Z" creationid="manuel" creationdate="20180609T113520Z">
+        <seg>Sostituisce i tre punti di sospensione con il simbolo tipografico corretto.</seg>
       </tuv>
     </tu>
     <tu>
