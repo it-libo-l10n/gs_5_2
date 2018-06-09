@@ -4182,6 +4182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f1&gt;Tools &gt; Extension Manager&lt;/f1&gt;, select the English spelling dictionaries and click the &lt;f2&gt;Options&lt;/f2&gt; button to reveal the menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T100038Z" creationid="manuel" creationdate="20180609T100038Z">
+        <seg>Selezionate &lt;f1&gt;Strumenti &gt; Gestione estensioni&lt;/f1&gt;, selezionate i dizionari di controllo ortografico italiano e fate clic sul pulsante &lt;f2&gt;Opzioni&lt;/f2&gt; per rivelare il menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f2&gt;Screen only&lt;/f2&gt; to replace the screen font only and never replace the font for printing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T075834Z" creationid="manuel" creationdate="20180531T075834Z">
@@ -4378,6 +4386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164025Z" creationid="manuel" creationdate="20180608T164025Z">
         <seg>Selezionate questa opzione per includere le macro (script) di LibreOffice Basic nell'esportazione al formato HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select which of the optional features you wish to check.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T100117Z" creationid="manuel" creationdate="20180609T100117Z">
+        <seg>Selezionate quale delle funzioni opzionali volete controllare.</seg>
       </tuv>
     </tu>
     <tu>
