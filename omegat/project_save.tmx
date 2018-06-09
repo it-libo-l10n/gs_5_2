@@ -2446,6 +2446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is not selected, the keyboard driver defines the character used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T061429Z" creationid="manuel" creationdate="20180609T061429Z">
+        <seg>Se questa opzione non è selezionata, il driver della tastiera definisce il carattere utilizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is selected, numbers will be interpreted as for the English (USA) locale.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160025Z" creationid="manuel" creationdate="20180608T160025Z">
