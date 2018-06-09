@@ -416,8 +416,8 @@
       <tuv lang="EN">
         <seg>A device is blacklisted when it is buggy or may render graphics with poor quality.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062258Z" creationid="manuel" creationdate="20180531T062258Z">
-        <seg>Un apparecchio è nella lista nera quando ha difetti o può rendere la grafica con scarsa qualità.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T144508Z" creationid="manuel" creationdate="20180531T062258Z">
+        <seg>Un dispositivo è nella lista nera quando ha difetti o può rendere la grafica con scarsa qualità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2185,8 +2185,8 @@
       <tuv lang="EN">
         <seg>Font Lists – Show &lt;i0/&gt;preview of fonts</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062408Z" creationid="manuel" creationdate="20180531T062408Z">
-        <seg>Elenchi dei caratteri - Mostra &lt;i0/&gt;anteprima dei caratteri</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T144526Z" creationid="manuel" creationdate="20180531T062408Z">
+        <seg>Elenchi dei caratteri – Mostra &lt;i0/&gt;anteprima dei caratteri</seg>
       </tuv>
     </tu>
     <tu>
