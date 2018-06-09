@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A keyboard layout is normally based on the language used by the operating system but can be changed by the user.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T081428Z" creationid="manuel" creationdate="20180609T081428Z">
+        <seg>Un layout di tastiera è normalmente basato sulla lingua utilizzata dal sistema operativo ma può essere modificato dall'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of pages drops down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083245Z" creationid="manuel" creationdate="20180528T083245Z">
