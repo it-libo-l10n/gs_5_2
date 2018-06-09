@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Default currency</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T061456Z" creationid="manuel" creationdate="20180609T061456Z">
+        <seg>Valuta predefinita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default file format and ODF settings</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144748Z" creationid="manuel" creationdate="20180608T144748Z">
