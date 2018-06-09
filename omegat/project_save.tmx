@@ -2566,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is not selected, and there is a change in keyboard layout, input from the keyboard will be different from what is expected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T082049Z" creationid="manuel" creationdate="20180609T082049Z">
+        <seg>Se questa opzione non è selezionata, e c'è un cambiamento nel layout della tastiera, la digitazione dalla tastiera sarà diverso da quello che ci si aspetta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is not selected, the keyboard driver defines the character used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T061429Z" creationid="manuel" creationdate="20180609T061429Z">
@@ -2946,6 +2954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073810Z" creationid="manuel" creationdate="20180531T073810Z">
         <seg>Nella casella &lt;f0&gt;Sostituisci con&lt;/f0&gt;, scegliete un carattere adatto dal menu a tendina dei caratteri installati sul computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f1&gt;Options&lt;/f1&gt; section of the page (Figure &lt;t2&gt;42&lt;/t2&gt;), choose the settings that are useful for you.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T082245Z" creationid="manuel" creationdate="20180609T082245Z">
+        <seg>Nella sezione &lt;f1&gt;Opzioni&lt;/f1&gt; della pagina (Figura &lt;t2&gt;42&lt;/t2&gt;), scegliete le impostazioni che ritenete utili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4414,6 +4430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some considerations:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T082254Z" creationid="manuel" creationdate="20180609T082254Z">
+        <seg>Alcune considerazioni:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some items of interest are described below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142732Z" creationid="manuel" creationdate="20180608T142732Z">
@@ -5194,6 +5218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154804Z" creationid="luke" creationdate="20180514T154804Z">
         <seg>To change the way that LibreOffice stores the hyperlinks in your file, select &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; and choose if you want URLs saved relatively when referencing the &lt;f1&gt;File System&lt;/f1&gt;, or the &lt;f2&gt;Internet&lt;/f2&gt;, or both.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To choose the options for checking spelling, click &lt;f0&gt;Language Settings &gt; Writing Aids&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T082152Z" creationid="manuel" creationdate="20180609T082152Z">
+        <seg>Per scegliere le opzioni di controllo ortografico, fate clic su &lt;f0&gt;Impostazioni lingua &gt; Linguistica&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6498,6 +6530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090017Z" creationid="luke" creationdate="20180515T090017Z">
         <seg>presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>spelling options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T082145Z" creationid="manuel" creationdate="20180609T082145Z">
+        <seg>opzioni del controllo ortografico</seg>
       </tuv>
     </tu>
     <tu>
