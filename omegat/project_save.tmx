@@ -1534,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enhanced language support – Ignore system input language</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T073120Z" creationid="manuel" creationdate="20180609T073120Z">
+        <seg>Supporto avanzato della lingua - Ignora la lingua di input del sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the new values that define the color.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070214Z" creationid="manuel" creationdate="20180531T070214Z">
@@ -1896,8 +1904,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;40&lt;/seq0&gt;: LibreOffice language options, without and with Asian and CTL options enabled</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170617Z" creationid="manuel" creationdate="20180608T170617Z">
-        <seg>Figura &lt;seq0&gt;40&lt;/seq0&gt;: impostazioni della lingua di LibreOffice, senza e con le opzioni per le lingue asiatiche e CTL abilitate</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T073021Z" creationid="manuel" creationdate="20180608T170617Z">
+        <seg>Figura &lt;seq0&gt;40&lt;/seq0&gt;: impostazioni della lingua di LibreOffice, senza e con le opzioni per le lingue asiatiche e CTL (disposizione testo complessa) abilitate</seg>
       </tuv>
     </tu>
     <tu>
@@ -4978,6 +4986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165848Z" creationid="manuel" creationdate="20180608T165848Z">
         <seg>Queste funzionalità sono effettive solo se viene attivata l'esportazione del layout di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These choices (&lt;f3&gt;Searching in Japanese&lt;/f3&gt;, &lt;f4&gt;Asian Layout&lt;/f4&gt;, and &lt;f5&gt;Complex Text Layout&lt;/f5&gt;) are not discussed here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072915Z" creationid="manuel" creationdate="20180609T072915Z">
+        <seg>Queste opzioni (&lt;f3&gt;Opzioni di ricerca per il giapponese&lt;/f3&gt;, &lt;f4&gt;Layout asiatico&lt;/f4&gt;, e &lt;f5&gt;Disposizione testo complesso&lt;/f5&gt;) non sono descritte in questo testo.</seg>
       </tuv>
     </tu>
     <tu>
