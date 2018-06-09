@@ -1342,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Date acceptance patterns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062846Z" creationid="manuel" creationdate="20180609T062846Z">
+        <seg>I modelli di accettazione delle date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Decimal separator key</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171757Z" creationid="manuel" creationdate="20180608T171757Z">
