@@ -3273,8 +3273,8 @@
       <tuv lang="EN">
         <seg>In the bottom section of the page, you can change the typeface and size of the font used to display source code such as HTML and Basic (in macros).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T075940Z" creationid="manuel" creationdate="20180531T075940Z">
-        <seg>Nella sezione nella parte bassa della pagina, potete cambiare il tipo e la dimensione del carattere usato per visualizzare codice sorgente come HTML e Basic (nelle macro).</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T145911Z" creationid="manuel" creationdate="20180531T075940Z">
+        <seg>Nella sezione bassa della pagina, potete cambiare il tipo e la dimensione del carattere usato per visualizzare codice sorgente come HTML e Basic (nelle macro).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5473,8 +5473,8 @@
       <tuv lang="EN">
         <seg>The results of combining these selections are given in Table &lt;t3&gt;15&lt;/t3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T075936Z" creationid="manuel" creationdate="20180531T075936Z">
-        <seg>I risultati della combinazione di queste selezioni sono mostrati nella &lt;t3&gt;Tabella 15&lt;/t3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T145756Z" creationid="manuel" creationdate="20180531T075936Z">
+        <seg>I risultati della combinazione di queste selezioni sono mostrati nella Tabella &lt;t3&gt;15&lt;/t3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
