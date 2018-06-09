@@ -3729,8 +3729,8 @@
       <tuv lang="EN">
         <seg>Memory options</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081318Z" creationid="manuel" creationdate="20180530T081318Z">
-        <seg>Memoria principale</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T142248Z" creationid="manuel" creationdate="20180530T081318Z">
+        <seg>Opzioni memoria</seg>
       </tuv>
     </tu>
     <tu>
@@ -5441,8 +5441,8 @@
       <tuv lang="EN">
         <seg>The options on the &lt;f0&gt;LibreOffice – Memory&lt;/f0&gt; page control how LibreOffice uses your computer’s memory and how much memory it requires.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081552Z" creationid="manuel" creationdate="20180530T081552Z">
-        <seg>Le opzioni della pagina &lt;f0&gt;LibreOffice – Memoria principale&lt;/f0&gt; controllano l'utilizzo della memoria del computer e la memoria richiesta da parte di LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T142228Z" creationid="manuel" creationdate="20180530T081552Z">
+        <seg>Le opzioni della pagina &lt;f0&gt;LibreOffice – Memoria&lt;/f0&gt; controllano l'utilizzo della memoria del computer e la memoria richiesta da parte di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
