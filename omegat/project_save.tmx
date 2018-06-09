@@ -1566,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>English sentence checking</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091536Z" creationid="manuel" creationdate="20180609T091536Z">
+        <seg>Controllo della frase italiana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enhanced language support – Ignore system input language</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T073631Z" creationid="manuel" creationdate="20180609T073120Z">
@@ -3658,6 +3666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213919Z" creationid="Marco Marega" creationdate="20180531T213919Z">
         <seg>Sui computer con sistema operativo Windows o Linux, nel menu di sistema compare una voce per LibreOffice e per ciascuno dei suoi componenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Language Settings &gt; English sentence checking&lt;/f0&gt; page, you can choose which items are checked for, reported to you, or converted automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091721Z" creationid="manuel" creationdate="20180609T091721Z">
+        <seg>Nella pagina &lt;f0&gt;Impostazioni della lingua&gt; Controllo frase inglese&lt;/f0&gt;, potete scegliere quali articoli vengono controllati, segnalati o convertiti automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
