@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Check special regions&lt;/f0&gt; includes headers, footers, frames, and tables when checking spelling.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091253Z" creationid="manuel" creationdate="20180609T091253Z">
+        <seg>L'opzione &lt;f0&gt;Controlla aree speciali&lt;/f0&gt; riguarda il controllo ortografico di intestazioni, piè di pagina, cornici e tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel,” making them easy to use and master.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212724Z" creationid="Marco Marega" creationdate="20180527T212724Z">
@@ -1446,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries installed by the system cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091435Z" creationid="manuel" creationdate="20180609T091435Z">
+        <seg>I dizionari installati dal sistema non possono essere rimossi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Directly accesses hardware features of the graphical display adapter to improve the screen display.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055319Z" creationid="manuel" creationdate="20180531T055319Z">
@@ -1934,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Choosing languages, dictionaries, and options for checking spelling</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091447Z" creationid="manuel" creationdate="20180609T091447Z">
+        <seg>Figura &lt;seq0&gt;42&lt;/seq0&gt;: impostazioni per le lingue, i dizionari e il controllo ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill in the form (not shown here), or amend or delete any existing information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055823Z" creationid="manuel" creationdate="20180529T055823Z">
@@ -2330,6 +2354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211746Z" creationid="Marco Marega" creationdate="20180527T211746Z">
         <seg>Ecco alcuni dei vantaggi di LibreOffice rispetto ad altre suite per ufficio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you can also &lt;f0&gt;select&lt;/f0&gt; which user-defined (custom) dictionaries are active by default, and add or remove user-installed dictionaries, by clicking the &lt;f1&gt;New&lt;/f1&gt; or &lt;f2&gt;Delete&lt;/f2&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091419Z" creationid="manuel" creationdate="20180609T091419Z">
+        <seg>Qui potete inoltre &lt;f0&gt;controllare&lt;/f0&gt; quali dizionari personalizzati siano attivi come predefiniti, oltre ad aggiungere o rimuovere dizionari installati dall'utente, premendo i pulsanti &lt;f1&gt;Nuovo&lt;/f1&gt; o &lt;f2&gt;Elimina&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2778,6 +2810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144339Z" creationid="manuel" creationdate="20180608T144339Z">
         <seg>Se selezionate questa opzione, la prima volta che salvate un documento (oppure ogni volta che usate &lt;f0&gt;Salva con nome&lt;/f0&gt;) apparirà la finestra Proprietà, a suggerirvi di inserire le informazioni relative al file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you use &lt;i0/&gt;a custom dictionary that includes words in all uppercase and words with numbers (for example, AS/400), select &lt;f1&gt;Check uppercase words&lt;/f1&gt; and &lt;f2&gt;Check words with numbers&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091231Z" creationid="manuel" creationdate="20180609T091231Z">
+        <seg>Se utilizzate &lt;i0/&gt;un dizionario personalizzato che include parole in maiuscolo e parole con numeri (per esempio AS/400), selezionate &lt;f1&gt;Controlla parole maiuscole&lt;/f1&gt; e &lt;f2&gt;Controlla parole con numeri&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
