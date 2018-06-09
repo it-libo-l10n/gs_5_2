@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choosing Internet options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135325Z" creationid="manuel" creationdate="20180609T135325Z">
+        <seg>Opzioni Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choosing Options to Suit the Way You Work</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083204Z" creationid="manuel" creationdate="20180528T083204Z">
@@ -3239,6 +3247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Internet options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135322Z" creationid="manuel" creationdate="20180609T135322Z">
+        <seg>Opzioni Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introducing LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085842Z" creationid="luke" creationdate="20180515T085842Z">
@@ -4975,6 +4991,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Internet options available depend on your operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135408Z" creationid="manuel" creationdate="20180609T135408Z">
+        <seg>Le opzioni Internet dipendono dal vostro sistema operativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The LibreOffice user interface, including spelling, hyphenation, and thesaurus dictionaries, is available in over 100 languages and dialects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212557Z" creationid="Marco Marega" creationdate="20180527T212557Z">
@@ -5351,6 +5375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The set of rules available for these sentence checkers depends on the language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135319Z" creationid="manuel" creationdate="20180609T135319Z">
+        <seg>La lista di regole disponibili per questi controlli dipende dalla lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two boxes below list the OpenCL drivers whitelist and blacklist.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140621Z" creationid="manuel" creationdate="20180608T140621Z">
@@ -5395,6 +5427,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165848Z" creationid="manuel" creationdate="20180608T165848Z">
         <seg>Queste funzionalità sono effettive solo se viene attivata l'esportazione del layout di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These checkers are enabled by default if the language is the computer’s default language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135213Z" creationid="manuel" creationdate="20180609T135213Z">
+        <seg>Questi controlli sono abilitati come predefiniti se la lingua è la lingua predefinita del computer.</seg>
       </tuv>
     </tu>
     <tu>
