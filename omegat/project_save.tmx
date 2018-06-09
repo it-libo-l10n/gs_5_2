@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A MediaWiki publisher is included on Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T140624Z" creationid="manuel" creationdate="20180609T140624Z">
+        <seg>Un MediaWiki publisher è incluso su Windows e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A PowerPoint file (*.ppt or *.pptx) opens in Impress.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202942Z" creationid="Marco Marega" creationdate="20180607T202942Z">
