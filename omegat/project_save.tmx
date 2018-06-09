@@ -1614,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ellipsis</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113358Z" creationid="manuel" creationdate="20180609T113358Z">
+        <seg>Ellissi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Em dash; En dash</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T110025Z" creationid="manuel" creationdate="20180609T110025Z">
@@ -4218,6 +4226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080251Z" creationid="manuel" creationdate="20180531T080251Z">
         <seg>Azione di sostituzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replaces an apostrophe with the correct typographical character.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113209Z" creationid="manuel" creationdate="20180609T113209Z">
+        <seg>Sostituisce un apostrofo con il carattere tipografico corretto.</seg>
       </tuv>
     </tu>
     <tu>
