@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Default language settings depend on the &lt;f0&gt;Locale&lt;/f0&gt; setting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T080044Z" creationid="manuel" creationdate="20180609T080044Z">
+        <seg>Le impostazioni della lingua predefinite dipendono dall'impostazione &lt;f0&gt;locale&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default languages for documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T064122Z" creationid="manuel" creationdate="20180609T064122Z">
