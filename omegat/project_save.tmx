@@ -4142,6 +4142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quotation marks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T110614Z" creationid="manuel" creationdate="20180609T110614Z">
+        <seg>Virgolette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rather than having to create a new presentation, you can use two tools that Impress offers: hiding slides and custom slide shows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
@@ -5314,6 +5322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071621Z" creationid="manuel" creationdate="20180608T071621Z">
         <seg>Queste opzioni sono per i programmatori di macro e non sono discusse qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These options force a non-spaced em dash to replace a spaced en dash, or force a spaced en dash to replace a non-spaced em dash.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T110553Z" creationid="manuel" creationdate="20180609T110553Z">
+        <seg>Queste opzioni impongono un trattino lungo senza spazi per sostituire un trattino corto spaziato, o forzare un trattino corto con spaziatura per sostituire un trattino lungo non distanziato.</seg>
       </tuv>
     </tu>
     <tu>
