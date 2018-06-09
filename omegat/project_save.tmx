@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Date acceptance patterns&lt;/f0&gt; define how LibreOffice recognizes input as dates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T063348Z" creationid="manuel" creationdate="20180609T063348Z">
+        <seg>&lt;f0&gt;Gli schemi di accettazione della data&lt;/f0&gt; definiscono come LibreOffice riconosce la digitazione come date..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Document type.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152729Z" creationid="manuel" creationdate="20180608T152729Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084848Z" creationid="manuel" creationdate="20180530T084848Z">
         <seg>&lt;f1&gt;In questo caso&lt;/f1&gt; l'opzione Automatico usa un tipo di icone compatibile con il vostro sistema operativo e la vostra impostazione del desktop: ad esempio, KDE o Gnome in Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Locale&lt;/f1&gt; also defines the default expression of dates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T063553Z" creationid="manuel" creationdate="20180609T063553Z">
+        <seg>&lt;f1&gt;La localizzazione&lt;/f1&gt; definisce anche l'espressione standard delle date.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1344,8 +1360,8 @@
       <tuv lang="EN">
         <seg>Date acceptance patterns</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062846Z" creationid="manuel" creationdate="20180609T062846Z">
-        <seg>I modelli di accettazione delle date</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T063407Z" creationid="manuel" creationdate="20180609T062846Z">
+        <seg>Schemi di accettazione delle date</seg>
       </tuv>
     </tu>
     <tu>
