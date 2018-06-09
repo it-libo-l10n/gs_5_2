@@ -2817,8 +2817,8 @@
       <tuv lang="EN">
         <seg>If this option is &lt;f0&gt;not&lt;/f0&gt; selected, numbers will be interpreted according to the &lt;f1&gt;Locale setting&lt;/f1&gt; in &lt;f2&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f2&gt; (see page &lt;bf3&gt;57&lt;/bf3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T164138Z" creationid="manuel" creationdate="20180608T160017Z">
-        <seg>Se questa opzione &lt;f0&gt;non&lt;/f0&gt; è selezionata, i numeri saranno interpretati secondo l'&lt;f1&gt;Impostazione locale della lingua&lt;/f1&gt; in &lt;f2&gt;Strumenti &gt; Opzioni &gt; Impostazioni Lingua &gt; Lingue&lt;/f2&gt; (si veda pagina &lt;bf3&gt;57&lt;/bf3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T164623Z" creationid="manuel" creationdate="20180608T160017Z">
+        <seg>Se questa opzione &lt;f0&gt;non&lt;/f0&gt; è selezionata, i numeri saranno interpretati secondo l'&lt;f1&gt;Impostazione locale della lingua&lt;/f1&gt; in &lt;f2&gt;Strumenti &gt; Opzioni &gt; Impostazioni lingua &gt; Lingue&lt;/f2&gt; (si veda pagina &lt;bf3&gt;57&lt;/bf3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
