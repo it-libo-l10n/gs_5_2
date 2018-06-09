@@ -472,16 +472,16 @@
       <tuv lang="EN">
         <seg>Accessibility options</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100639Z" creationid="manuel" creationdate="20180606T100639Z">
-        <seg>Accesso facilitato</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T154454Z" creationid="manuel" creationdate="20180606T100639Z">
+        <seg>Opzioni accessibilità</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Accessibility options include whether to allow animated graphics or text, how long help tips remain visible, some options for high contrast display, and a way to change the font for the &lt;f0&gt;LibreOffice &lt;/f0&gt;user interface.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T103815Z" creationid="manuel" creationdate="20180606T103815Z">
-        <seg>Le opzioni di Accesso facilitato includono la gestione di animazioni grafiche o testuali, della durata di visualizzazione dei suggerimenti, di alcune opzioni per la visualizzazione in alto contrasto e del cambiamento dei caratteri dell'interfaccia utente di &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T154530Z" creationid="manuel" creationdate="20180606T103815Z">
+        <seg>Le opzioni di Accessibilità includono la gestione di animazioni grafiche o testuali, della durata di visualizzazione dei suggerimenti, di alcune opzioni per la visualizzazione in alto contrasto e del cambiamento dei caratteri dell'interfaccia utente di &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5921,8 +5921,8 @@
       <tuv lang="EN">
         <seg>To save your color changes as a &lt;i0/&gt;color scheme, click &lt;f1&gt;Save&lt;/f1&gt;, type a name in the &lt;f2&gt;Scheme&lt;/f2&gt; box, and then click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100603Z" creationid="manuel" creationdate="20180606T100603Z">
-        <seg>Per salvare le modifiche apportate come &lt;i0/&gt;schema colori, fate clic su &lt;f1&gt;Salva&lt;/f1&gt;, digitate un nome nel campo &lt;f2&gt;Nome dello schema colori&lt;/f2&gt;, e poi fate clic su &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;OK&lt;/f9&gt;&lt;/f8&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T154342Z" creationid="manuel" creationdate="20180606T100603Z">
+        <seg>Per salvare le modifiche apportate come &lt;i0/&gt;schema colori, fate clic su &lt;f1&gt;Salva&lt;/f1&gt;, digitate un nome nel campo &lt;f2&gt;Nome dello schema colori&lt;/f2&gt;, e poi fate clic su &lt;f3&gt;OK&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6665,8 +6665,8 @@
       <tuv lang="EN">
         <seg>accessibility options</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100637Z" creationid="manuel" creationdate="20180606T100637Z">
-        <seg>accesso facilitato</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T154437Z" creationid="manuel" creationdate="20180606T100637Z">
+        <seg>opzioni accessibilità</seg>
       </tuv>
     </tu>
     <tu>
