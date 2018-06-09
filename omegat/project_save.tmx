@@ -2686,6 +2686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do not want spelling checked while you type, deselect &lt;f0&gt;Check spelling as you type&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;This option can also be deselected using the &lt;f2&gt;Auto&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;matic &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Spell &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;C&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;heck&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;ing&lt;/f10&gt;&lt;/f9&gt; button on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T090858Z" creationid="manuel" creationdate="20180609T090858Z">
+        <seg>Se non volete il controllo ortografico mentre scrivete, deselezionate &lt;f0&gt;Controllo ortografico durante la digitazione&lt;/f0&gt;.&lt;f1&gt;&lt;/f1&gt;Questa opzione può essere deselezionata usando il pulsante &lt;f2&gt;Controllo ortografico automatico&lt;/f2&gt; sulla barra standard degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not want user data to be part of the document’s properties, clear the box at the bottom.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055931Z" creationid="manuel" creationdate="20180529T055931Z">
