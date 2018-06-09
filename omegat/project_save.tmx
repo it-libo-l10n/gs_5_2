@@ -512,8 +512,8 @@
       <tuv lang="EN">
         <seg>Adding a trusted timestamp to an electronic signature on a PDF provides a digital seal of data integrity and a trusted date and time of when the file was signed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T081821Z" creationid="manuel" creationdate="20180606T081821Z">
-        <seg>L'aggiunta di un timestamp attendibile a una firma elettronica su un PDF fornisce un sigillo digitale di integrità dei dati e una data e un'ora attendibili di quando il file è stato firmato.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T153100Z" creationid="manuel" creationdate="20180606T081821Z">
+        <seg>L'aggiunta di una marcatura temporale attendibile a una firma elettronica su un PDF fornisce un sigillo digitale di integrità dei dati e una data e un'ora attendibili di quando il file è stato firmato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4377,8 +4377,8 @@
       <tuv lang="EN">
         <seg>Recipients of PDF documents with a trusted timestamp can verify when the document was digitally or electronically signed, as well as verify that the document was not altered after the date the timestamp vouches for.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083816Z" creationid="manuel" creationdate="20180606T083816Z">
-        <seg>I destinatari di documenti PDF con un timestamp attendibile possono verificare quando il documento è stato firmato digitalmente o elettronicamente, nonché verificare che il documento non sia stato alterato dopo la data in cui il timestamp è valido.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T153114Z" creationid="manuel" creationdate="20180606T083816Z">
+        <seg>I destinatari di documenti PDF con una marcatura temporale attendibile possono verificare quando il documento è stato firmato digitalmente o elettronicamente, nonché verificare che il documento non sia stato alterato dopo la data in cui il timestamp è valido.</seg>
       </tuv>
     </tu>
     <tu>
