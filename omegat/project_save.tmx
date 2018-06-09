@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documents that were saved with one currency as the default will open using the new currency defaults.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062652Z" creationid="manuel" creationdate="20180609T062652Z">
+        <seg>I documenti che sono stati salvati con una valuta come predefinita si apriranno utilizzando le nuove impostazioni di valuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click on a listed preference to enter a value to configure the preference.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071032Z" creationid="manuel" creationdate="20180608T071032Z">
@@ -2382,6 +2390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;f2&gt;default currency&lt;/f2&gt; is changed, all dialogs involving currency and all currency icons will be changed in all open documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062623Z" creationid="manuel" creationdate="20180609T062623Z">
+        <seg>Se la &lt;f2&gt;valuta predefinita&lt;/f2&gt; è cambiata, tutte le finestre di dialogo che coinvolgono la valuta e tutte le icone di valuta saranno cambiate in tutti i documenti aperti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;f3&gt;Display warning&lt;/f3&gt; option is selected, then when exporting to HTML a warning is shown that LibreOffice Basic macros will be lost.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164348Z" creationid="manuel" creationdate="20180608T164348Z">
@@ -2410,6 +2426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142648Z" creationid="manuel" creationdate="20180608T142648Z">
         <seg>Se la finestra Opzioni non è aperta, fate clic su &lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the locale setting is changed, the default currency changes automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062353Z" creationid="manuel" creationdate="20180609T062353Z">
+        <seg>Se le impostazioni di localizzazione vengono modificate, la valuta predefinita cambia automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
