@@ -1406,6 +1406,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converts a number with five or more significant digits to a common format, that is one which uses the comma as a thousands separator, or to the ISO format which uses a narrow space as a separator&lt;f0&gt;, depending on the locale setting for the document&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T114234Z" creationid="manuel" creationdate="20180609T114234Z">
+        <seg>Converte un numero con cinque o più cifre significative in un formato comune, ovvero uno che utilizza la virgola come separatore di migliaia o nel formato ISO che utilizza uno spazio ristretto come separatore&lt;f0&gt;, in base all'impostazione locale del documento&lt;/f0&gt;.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converts quantities in a given type of unit to quantities in the other type of unit: metric to imperial or imperial to metric.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T114022Z" creationid="manuel" creationdate="20180609T114022Z">
@@ -4062,6 +4071,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other languages sentence checking</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T114307Z" creationid="manuel" creationdate="20180609T114307Z">
+        <seg>Controllo della frase in altre lingue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Others</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113839Z" creationid="manuel" creationdate="20180609T113839Z">
@@ -5514,6 +5531,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083211Z" creationid="manuel" creationdate="20180528T083211Z">
         <seg>Questa sezione tratta alcune delle impostazioni comuni a tutti i componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thousands separation of large numbers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T114106Z" creationid="manuel" creationdate="20180609T114106Z">
+        <seg>Migliaia di separazione di grandi numeri</seg>
       </tuv>
     </tu>
     <tu>
