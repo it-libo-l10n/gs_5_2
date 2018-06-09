@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Asian language support</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072451Z" creationid="manuel" creationdate="20180609T072451Z">
+        <seg>Supporto lingue asiatiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Associating a document with a different template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154636Z" creationid="luke" creationdate="20180514T154636Z">
@@ -2414,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If necessary, select the options to enable support for &lt;i0/&gt;Asian languages (Chinese, Japanese, Korean) and support for &lt;i1/&gt;CTL (complex text layout) languages such as Urdu, Thai, Hebrew, and Arabic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072504Z" creationid="manuel" creationdate="20180609T072504Z">
+        <seg>Se necessario, selezionate le opzioni per abilitare il supporto per le &lt;i0/&gt;lingue asiatiche (cinese, giapponese e coreano) e per le lingue &lt;i1/&gt;CTL - Complex Text Layout (disposizione testo complessa) come urdu, thai, ebraico e arabo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;f0&gt;Decimal separator key&lt;/f0&gt; option is selected, LibreOffice use&lt;f1&gt;s&lt;/f1&gt; the character defined by the default locale.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T060442Z" creationid="manuel" creationdate="20180609T060442Z">
@@ -2506,6 +2522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084104Z" creationid="manuel" creationdate="20180530T084104Z">
         <seg>Se il testo nei file della Guida o nei menu dell'interfaccia utente di LibreOffice è troppo piccolo o troppo grande, è possibile modificarlo specificando un fattore di scala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If these options are only for the current document, select &lt;f0&gt;For the current document only.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072447Z" creationid="manuel" creationdate="20180609T072447Z">
+        <seg>Se queste opzioni sono solo per il documento corrente, selezionare &lt;f0&gt;Solo per il documento corrente.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6034,6 +6058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100255Z" creationid="manuel" creationdate="20180606T100255Z">
         <seg>schema colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>complex text layout (CTL)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072458Z" creationid="manuel" creationdate="20180609T072458Z">
+        <seg>Disposizione testo complesso (CTL)</seg>
       </tuv>
     </tu>
     <tu>
