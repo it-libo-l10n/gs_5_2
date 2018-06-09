@@ -2782,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want grammar to be checked as you type, you must have &lt;f0&gt;Check spelling as you type&lt;/f0&gt; enabled too.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091131Z" creationid="manuel" creationdate="20180609T091131Z">
+        <seg>Se desiderate il controllo grammaticale mentre scrivete, dovete abilitare anche il &lt;f0&gt;Controllo ortografico durante la digitazione&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want the macro to run automatically when the HTML document is opened, choose &lt;f0&gt;Tools &gt; Customize &gt; Events&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164114Z" creationid="manuel" creationdate="20180608T164114Z">
@@ -6154,6 +6162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072458Z" creationid="manuel" creationdate="20180609T072458Z">
         <seg>Disposizione testo complesso (CTL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>custom dictionary</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091135Z" creationid="manuel" creationdate="20180609T091135Z">
+        <seg>dizionario personalizzato &lt;s0/&gt;53</seg>
       </tuv>
     </tu>
     <tu>
