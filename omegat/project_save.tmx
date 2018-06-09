@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Capitalization</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104538Z" creationid="manuel" creationdate="20180609T104538Z">
+        <seg>Iniziale maiuscola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Causes icons as well as words to be visible in menus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062309Z" creationid="manuel" creationdate="20180531T062309Z">
@@ -1010,6 +1018,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T083407Z" creationid="luke" creationdate="20180515T083407Z">
         <seg>Chapter &lt;f0&gt;9&lt;/f0&gt; &lt;s1/&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checks for the capitalization of sentences.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104636Z" creationid="manuel" creationdate="20180609T104636Z">
+        <seg>Controlla che i periodi inizino con una maiuscola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checks for things such as; &lt;f0&gt;with it’s&lt;/f0&gt;, &lt;f1&gt;he don’t&lt;/f1&gt;, &lt;f2&gt;this things&lt;/f2&gt; and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104441Z" creationid="manuel" creationdate="20180609T104441Z">
+        <seg>Controlla cose come; &lt;f0&gt;con il suo&lt;/f0&gt;, &lt;f1&gt;lui non&lt;/f1&gt;, &lt;f2&gt;queste cose&lt;/f2&gt; e così via.</seg>
       </tuv>
     </tu>
     <tu>
