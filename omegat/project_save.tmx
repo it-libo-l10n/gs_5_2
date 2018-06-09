@@ -2606,6 +2606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you choose either of these options, the next time you open this dialog, you will see some extra choices under Language Settings, as shown in Figure &lt;t2&gt;40&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072801Z" creationid="manuel" creationdate="20180609T072801Z">
+        <seg>Se scegliete entrambe le opzioni, alla successiva apertura di questa finestra di dialogo, ci saranno ulteriori opzioni in Impostazioni lingua, come mostrato in Figura &lt;t2&gt;40&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you choose to save relatively, the references to embedded graphics or other objects in your document will be saved relative to the location in the file system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144731Z" creationid="manuel" creationdate="20180608T144731Z">
