@@ -3166,6 +3166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice will always correctly interpret dates entered in ISO 8601 format as Y-M-D and YYYY-MM-DD.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T063845Z" creationid="manuel" creationdate="20180609T063845Z">
+        <seg>LibreOffice interpreterà sempre correttamente le date immesse nel formato ISO 8601 come A-M-G e AAAA-MM-GG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice will open your default web browser to a page containing links to additional dictionaries that you can install.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170113Z" creationid="manuel" creationdate="20180608T170113Z">
@@ -5730,6 +5738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084425Z" creationid="manuel" creationdate="20180606T084425Z">
         <seg>Potete personalizzare complessivamente l'aspetto di LibreOffice con temi di Mozilla Firefox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define additional date patterns, separated by semicolons, using Y, M, &amp; D for Year, Month, and Day.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T063722Z" creationid="manuel" creationdate="20180609T063722Z">
+        <seg>Potete definire uno schema addizionale, separato da punto e virgola, usando A, M e G per Anno, Mese e Giorno.</seg>
       </tuv>
     </tu>
     <tu>
