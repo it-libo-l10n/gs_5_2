@@ -1631,6 +1631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E-mail options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135639Z" creationid="manuel" creationdate="20180609T135626Z">
+        <seg>Opzioni e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E-mailing documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154643Z" creationid="luke" creationdate="20180514T154643Z">
@@ -2099,6 +2107,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104127Z" creationid="manuel" creationdate="20180609T104127Z">
         <seg>Figura &lt;seq0&gt;43&lt;/seq0&gt;: Scelta delle opzioni per il controllo delle frasi in italiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;44&lt;/seq0&gt;: Internet options, showing E-mail page available to Linux users</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135619Z" creationid="manuel" creationdate="20180609T135544Z">
+        <seg>Figura &lt;seq0&gt;44&lt;/seq0&gt;: opzioni Internet, con la pagina E-mail disponibile per gli utenti Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5899,6 +5915,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154722Z" creationid="luke" creationdate="20180514T154722Z">
         <seg>Use the &lt;f1&gt;Down Arrow&lt;/f1&gt; and &lt;f2&gt;Right Arrow&lt;/f2&gt; to select the desired toolbar icon and press &lt;f3&gt;Ctrl+Enter&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the Proxy page (if available) to save proxy settings for use with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135533Z" creationid="manuel" creationdate="20180609T135533Z">
+        <seg>Usate la pagina Proxy (se disponibile) per salvare le impostazioni proxy da usare con LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
