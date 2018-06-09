@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You need to have a document open for this menu item to appear.) In Writer, this dialog has five tabs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141236Z" creationid="manuel" creationdate="20180609T141236Z">
+        <seg>(Per poter visualizzare questo menu è necessario avere un documento aperto). In Writer, questa finestra di dialogo presenta cinque schede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../images/img.jpg</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144714Z" creationid="manuel" creationdate="20180608T144714Z">
@@ -834,6 +842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081601Z" creationid="manuel" creationdate="20180530T081601Z">
         <seg>Prima di modificarle, tenete in considerazione i seguenti fattori:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But if you find unexplained changes appearing in your document, this is a good place to look to find the cause.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141041Z" creationid="manuel" creationdate="20180609T141041Z">
+        <seg>Ma se trovate modifiche inspiegabili nel documento, è possibile che la causa sia proprio da attribuire alla Correzione automatica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3215,6 +3231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other components of LibreOffice, the dialog has only four tabs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141242Z" creationid="manuel" creationdate="20180609T141242Z">
+        <seg>In altri componenti di LibreOffice, la finestra di dialogo ha solo quattro schede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Printer warnings&lt;/f0&gt; section near the bottom of the page, you can choose whether to be warned if the paper size or orientation specified in your document does not match the paper size or orientation available for your printer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065915Z" creationid="manuel" creationdate="20180531T065915Z">
@@ -3671,6 +3695,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many people find some of the AutoCorrect functions quite helpful; if you do, then select the relevant options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141032Z" creationid="manuel" creationdate="20180609T141032Z">
+        <seg>Molti altri trovano utili alcune delle funzioni di Correzione automatica; se è il vostro caso, selezionate le opzioni adatte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark this box to emulate OpenCL if your computer video card driver does not support OpenCL.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140408Z" creationid="manuel" creationdate="20180608T140408Z">
@@ -3755,6 +3787,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072628Z" creationid="manuel" creationdate="20180531T072628Z">
         <seg>Cambiate i componenti del colore secondo necessità e fate clic su &lt;f0&gt;OK&lt;/f0&gt; per uscire dalla finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More details are given in the component guides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141249Z" creationid="manuel" creationdate="20180609T141249Z">
+        <seg>Potete trovare maggiori dettagli nelle guide dei componenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5835,6 +5875,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070210Z" creationid="manuel" creationdate="20180531T070210Z">
         <seg>Per modificare un colore:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To open the AutoCorrect dialog, click &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141127Z" creationid="manuel" creationdate="20180609T141127Z">
+        <seg>Per aprire la finestra di dialogo Correzione automatica, fate clic su &lt;f0&gt;Strumenti &gt; Opzioni di correzione automatica&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
