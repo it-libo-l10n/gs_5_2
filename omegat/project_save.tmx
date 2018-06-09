@@ -1096,8 +1096,8 @@
       <tuv lang="EN">
         <seg>Checks for the capitalization of sentences.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104636Z" creationid="manuel" creationdate="20180609T104636Z">
-        <seg>Controlla che i periodi inizino con una maiuscola.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T165038Z" creationid="manuel" creationdate="20180609T104636Z">
+        <seg>Controlla che le frasi inizino con una maiuscola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1448,8 +1448,8 @@
       <tuv lang="EN">
         <seg>Convert to metric; Convert to non-metric</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113949Z" creationid="manuel" creationdate="20180609T113949Z">
-        <seg>Converte in metrica; Converte in non metrico</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T165146Z" creationid="manuel" creationdate="20180609T113949Z">
+        <seg>Converte in metrica; Converte in non metrica</seg>
       </tuv>
     </tu>
     <tu>
