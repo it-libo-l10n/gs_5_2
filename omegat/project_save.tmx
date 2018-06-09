@@ -1392,8 +1392,8 @@
       <tuv lang="EN">
         <seg>Color options</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070154Z" creationid="manuel" creationdate="20180531T070154Z">
-        <seg>Colori</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T145246Z" creationid="manuel" creationdate="20180531T070154Z">
+        <seg>Opzioni colore</seg>
       </tuv>
     </tu>
     <tu>
@@ -6449,8 +6449,8 @@
       <tuv lang="EN">
         <seg>You can choose the RGB (Red, Green, Blue) or the CMYK (Cyan, Magenta, Yellow, Black) system to specify your color.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070244Z" creationid="manuel" creationdate="20180531T070244Z">
-        <seg>Per indicare il vostro colore potete scegliere il sistema RGB (Red, Green, Blue - Rosso, Verde, Blu) oppure il sistema CMYK (Cyan, Magenta, Yellow, Black - Ciano, Magenta, Giallo Nero).</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T145335Z" creationid="manuel" creationdate="20180531T070244Z">
+        <seg>Per indicare il vostro colore potete scegliere il sistema RGB (Red, Green, Blue - Rosso, Verde, Blu) oppure il sistema CMYK (Cyan, Magenta, Yellow, Black - Ciano, Magenta, Giallo, Nero).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6729,8 +6729,8 @@
       <tuv lang="EN">
         <seg>color options</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070152Z" creationid="manuel" creationdate="20180531T070152Z">
-        <seg>colori</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T145242Z" creationid="manuel" creationdate="20180531T070152Z">
+        <seg>Opzioni colore</seg>
       </tuv>
     </tu>
     <tu>
