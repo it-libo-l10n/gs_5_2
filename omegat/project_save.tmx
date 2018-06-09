@@ -5057,8 +5057,8 @@
       <tuv lang="EN">
         <seg>The Basic IDE Options are available after &lt;f0&gt;Enable experimental features&lt;/f0&gt; has been selected on the Advanced page of the Options dialog and the options have been saved.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071900Z" creationid="manuel" creationdate="20180608T071541Z">
-        <seg>Le opzioni di Basic IDE sono disponibili dopo che &lt;f0&gt;Abilita funzioni sperimentali&lt;/f0&gt; è stato selezionato nella pagina Avanzate della finestra di dialogo Opzioni e le opzioni sono state salvate.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T155933Z" creationid="manuel" creationdate="20180608T071541Z">
+        <seg>Le opzioni di Basic IDE sono disponibili dopo che è stato selezionato &lt;f0&gt;Abilita funzioni sperimentali&lt;/f0&gt; nella pagina Avanzate della finestra di dialogo Opzioni e le opzioni sono state salvate.</seg>
       </tuv>
     </tu>
     <tu>
