@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apostrophe</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113052Z" creationid="manuel" creationdate="20180609T113052Z">
+        <seg>Apostrofo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appendix A &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T084308Z" creationid="luke" creationdate="20180515T084308Z">
@@ -1034,6 +1042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105551Z" creationid="manuel" creationdate="20180609T104848Z">
         <seg>Controlla la duplicazione di tutte le parole, anziché solo le parole predefinite ‘e’, ‘o’, ‘per’ e ‘il’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checks for correct typographical double quotation marks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T112921Z" creationid="manuel" creationdate="20180609T112921Z">
+        <seg>Controlla le virgolette doppie tipografiche corrette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3270,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It replaces an ‘x’ used as a multiplication symbol with the correct typographical symbol.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113044Z" creationid="manuel" creationdate="20180609T113044Z">
+        <seg>Sostituisce una ‘x’ usata come simbolo di moltiplicazione con il simbolo tipografico corretto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It resets the options to the values that were in place when you opened the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055130Z" creationid="manuel" creationdate="20180529T055130Z">
@@ -3666,6 +3690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085527Z" creationid="manuel" creationdate="20180530T085527Z">
         <seg>Posizionamento del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiplication sign</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T112943Z" creationid="manuel" creationdate="20180609T112943Z">
+        <seg>Segno di moltiplicazione</seg>
       </tuv>
     </tu>
     <tu>
