@@ -1022,6 +1022,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checks for all word duplication, rather than just the default words ‘and’, ‘or’, ‘for’, and ‘the’.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104848Z" creationid="manuel" creationdate="20180609T104848Z">
+        <seg>Controlla la duplicazione di tutte le parole, anziché solo le parole predefinite "e", "o", "per" e "il".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checks for pairs of parentheses and quotation marks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104944Z" creationid="manuel" creationdate="20180609T104944Z">
+        <seg>Controlla le coppie di parentesi e le virgolette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checks for the capitalization of sentences.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104636Z" creationid="manuel" creationdate="20180609T104636Z">
@@ -3950,6 +3966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parentheses</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104902Z" creationid="manuel" creationdate="20180609T104902Z">
+        <seg>Parentesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Password protection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T082606Z" creationid="luke" creationdate="20180515T082606Z">
@@ -4058,6 +4082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072758Z" creationid="luke" creationdate="20180515T072758Z">
         <seg>Data di pubblicazione e versione del software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Punctuation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104959Z" creationid="manuel" creationdate="20180609T104959Z">
+        <seg>Punteggiatura</seg>
       </tuv>
     </tu>
     <tu>
@@ -5134,6 +5166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The sentence boundary detection depends on abbreviations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104725Z" creationid="manuel" creationdate="20180609T104725Z">
+        <seg>Il rilevamento della fine della frase dipende dalle abbreviazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two boxes below list the OpenCL drivers whitelist and blacklist.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140621Z" creationid="manuel" creationdate="20180608T140621Z">
@@ -5906,6 +5946,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140211Z" creationid="manuel" creationdate="20180608T140211Z">
         <seg>Con OpenCL abilitato, LibreOffice può beneficiare dei calcoli numerici molto veloci eseguiti nella GPU, che è particolarmente utile in fogli di calcolo molto grandi con calcoli estesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word duplication</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104749Z" creationid="manuel" creationdate="20180609T104749Z">
+        <seg>Parola duplicata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word spacing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105016Z" creationid="manuel" creationdate="20180609T105016Z">
+        <seg>Spaziatura della parola</seg>
       </tuv>
     </tu>
     <tu>
