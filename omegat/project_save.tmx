@@ -1342,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data entered into a Calc spreadsheet or a Writer table must be entered in a format defined by &lt;f0&gt;Locale&lt;/f0&gt; in order to be recognized as dates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T064037Z" creationid="manuel" creationdate="20180609T064037Z">
+        <seg>I dati inseriti in un foglio di calcolo di Calc o in una tabella di Writer devono essere inseriti in un formato definito dalla &lt;f0&gt;localizzazione&lt;/f0&gt; per poter essere riconosciuti come date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data source linked to the document and its view.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143804Z" creationid="manuel" creationdate="20180608T143804Z">
@@ -1386,6 +1394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144748Z" creationid="manuel" creationdate="20180608T144748Z">
         <seg>Formato file predefinito e impostazioni ODF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default languages for documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T064122Z" creationid="manuel" creationdate="20180609T064122Z">
+        <seg>Lingue predefinite per i documenti</seg>
       </tuv>
     </tu>
     <tu>
