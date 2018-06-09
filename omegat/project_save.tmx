@@ -2969,8 +2969,8 @@
       <tuv lang="EN">
         <seg>If you find that objects seem to disappear from a document that &lt;t0/&gt;contains a lot of them, increase the number of objects in the cache.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082043Z" creationid="manuel" creationdate="20180530T082043Z">
-        <seg>Se vi accorgete che in un  documento che &lt;t0/&gt;contiene molti oggetti questi sembrano scomparire, aumentate il numero di oggetti nella cache.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T142420Z" creationid="manuel" creationdate="20180530T082043Z">
+        <seg>Se vi accorgete che in un documento che &lt;t0/&gt;contiene molti oggetti questi sembrano scomparire, aumentate il numero di oggetti nella cache.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6961,8 +6961,8 @@
       <tuv lang="EN">
         <seg>memory options</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081315Z" creationid="manuel" creationdate="20180530T081315Z">
-        <seg>memoria principale</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T142307Z" creationid="manuel" creationdate="20180530T081315Z">
+        <seg>opzioni memoria</seg>
       </tuv>
     </tu>
     <tu>
