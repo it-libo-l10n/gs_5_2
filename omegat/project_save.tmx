@@ -96,8 +96,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;(Not shown in illustration.)&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070022Z" creationid="manuel" creationdate="20180529T070022Z">
-        <seg>&lt;f0&gt;(non è mostrato nell'illustrazione.)&lt;/f0&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141927Z" creationid="manuel" creationdate="20180529T070022Z">
+        <seg>&lt;f0&gt;(Non è mostrato nell'illustrazione.)&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2881,8 +2881,8 @@
       <tuv lang="EN">
         <seg>If you are using a version of LibreOffice other than US English, some field labels may be different from those shown in the illustrations.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055138Z" creationid="manuel" creationdate="20180529T055138Z">
-        <seg>Se state utilizzando una versione di LibreOffice diversa da quella Inglese (US English), alcune etichette dei campi potrebbero essere diverse da quelle mostrate nelle illustrazioni.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141704Z" creationid="manuel" creationdate="20180529T055138Z">
+        <seg>Se state utilizzando una versione di LibreOffice diversa da quella italiana (IT Italiano), alcune etichette dei campi potrebbero essere diverse da quelle mostrate nelle illustrazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4449,8 +4449,8 @@
       <tuv lang="EN">
         <seg>Same as above, but for the Print dialogs.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180529T061406Z" creationid="manuel" creationdate="20180529T061406Z">
-        <seg>Come sopra,ma per le finestre di dialogo di stampa.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141909Z" creationid="manuel" creationdate="20180529T061406Z">
+        <seg>Come sopra, ma per le finestre di dialogo di stampa.</seg>
       </tuv>
     </tu>
     <tu>
