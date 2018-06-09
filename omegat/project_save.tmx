@@ -4734,6 +4734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default locale is based on that of the computer’s operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T080825Z" creationid="manuel" creationdate="20180609T080825Z">
+        <seg>La localizzazione predefinita è basata su quella del sistema operativo del computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The document will be saved without the Microsoft Basic code.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154209Z" creationid="manuel" creationdate="20180608T154209Z">
