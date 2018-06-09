@@ -1974,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;43&lt;/seq0&gt;: Choosing options for checking sentences in English</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104127Z" creationid="manuel" creationdate="20180609T104127Z">
+        <seg>Figura &lt;seq0&gt;43&lt;/seq0&gt;: Scelta delle opzioni per il controllo delle frasi in italiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill in the form (not shown here), or amend or delete any existing information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055823Z" creationid="manuel" creationdate="20180529T055823Z">
@@ -2290,6 +2298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
         <seg>Go to &lt;f0&gt;View &gt; Slide Sorter&lt;/f0&gt; on the Menu bar or click the Slide Sorter tab at the top of the Workspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grammar checking</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104152Z" creationid="manuel" creationdate="20180609T104152Z">
+        <seg>Controllo grammaticale</seg>
       </tuv>
     </tu>
     <tu>
@@ -3954,6 +3970,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084550Z" creationid="manuel" creationdate="20180606T084139Z">
         <seg>Personalizzazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Possible mistakes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104216Z" creationid="manuel" creationdate="20180609T104216Z">
+        <seg>Possibili errori</seg>
       </tuv>
     </tu>
     <tu>
