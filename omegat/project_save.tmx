@@ -3206,6 +3206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It checks for single spaces between words, indicating instances of double or triple spaces, but not of more spaces than that.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105207Z" creationid="manuel" creationdate="20180609T105207Z">
+        <seg>Controlla gli spazi singoli tra le parole, indicando le istanze di spazi doppi o tripli, ma non di più spazi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It includes over 300 functions for financial, statistical, and mathematical operations, among others.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200548Z" creationid="Marco Marega" creationdate="20180527T200548Z">
@@ -5330,6 +5338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082306Z" creationid="manuel" creationdate="20180530T082306Z">
         <seg>Questa opzione è chiamata &lt;f1&gt;Abilita QuickStart nell'area di notifica&lt;/f1&gt; su Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option is selected by default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105138Z" creationid="manuel" creationdate="20180609T105138Z">
+        <seg>Questa opzione è selezionata come predefinita.</seg>
       </tuv>
     </tu>
     <tu>
