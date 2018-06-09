@@ -4374,6 +4374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Default currency&lt;/f0&gt; is that used in the country entered as &lt;f1&gt;Locale&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062209Z" creationid="manuel" creationdate="20180609T062209Z">
+        <seg>La &lt;f0&gt;valuta predefinita&lt;/f0&gt; è quella utilizzata nel Paese inserito come &lt;f1&gt;localizzazione&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Reset&lt;/f0&gt; button, located in the lower right of the full Options dialog, has the same effect on all pages of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055034Z" creationid="manuel" creationdate="20180529T055034Z">
@@ -4586,6 +4594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084059Z" creationid="manuel" creationdate="20180606T084059Z">
         <seg>Il comportamento predefinito in LibreOffice richiede il &lt;f0&gt;Ctrl+clic&lt;/f0&gt; su un collegamento ipertestuale per aprire il documento collegato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default currency determines the proper formatting of fields formatted as currency.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062252Z" creationid="manuel" creationdate="20180609T062252Z">
+        <seg>La valuta predefinita determina la corretta formattazione dei campi formattati come valuta.</seg>
       </tuv>
     </tu>
     <tu>
