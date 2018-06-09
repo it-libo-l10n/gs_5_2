@@ -1024,8 +1024,8 @@
       <tuv lang="EN">
         <seg>Checks for a single space between sentences, indicating when one or two extra spaces are found.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105422Z" creationid="manuel" creationdate="20180609T105422Z">
-        <seg>Controlla uno spazio singolo tra le frasi, indicando quando vengono trovati uno o due spazi extra.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105705Z" creationid="manuel" creationdate="20180609T105422Z">
+        <seg>Controlla uno spazio singolo tra le frasi, indicando quando vengono trovati uno o due spazi in più.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,6 +1058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104441Z" creationid="manuel" creationdate="20180609T104441Z">
         <seg>Controlla cose come; &lt;f0&gt;con il suo&lt;/f0&gt;, &lt;f1&gt;lui non&lt;/f1&gt;, &lt;f2&gt;queste cose&lt;/f2&gt; e così via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checks word and sentence spacing for more than two extra spaces.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105924Z" creationid="manuel" creationdate="20180609T105924Z">
+        <seg>Controlla la spaziatura tra parole e frasi per più di due spazi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3594,6 +3602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081907Z" creationid="manuel" creationdate="20180530T081907Z">
         <seg>Una memoria maggiore può rendere LibreOffice più comodo e veloce (ad esempio, ricordare più livelli per la funzione Annulla richiede più memoria); per contro, meno memoria &lt;f0&gt;è &lt;/f0&gt;disponibile per altre applicazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More spaces</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105717Z" creationid="manuel" creationdate="20180609T105717Z">
+        <seg>Più spazi</seg>
       </tuv>
     </tu>
     <tu>
