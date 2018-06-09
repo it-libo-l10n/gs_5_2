@@ -1022,10 +1022,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checks for a single space between sentences, indicating when one or two extra spaces are found.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105422Z" creationid="manuel" creationdate="20180609T105422Z">
+        <seg>Controlla uno spazio singolo tra le frasi, indicando quando vengono trovati uno o due spazi extra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checks for all word duplication, rather than just the default words ‘and’, ‘or’, ‘for’, and ‘the’.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104848Z" creationid="manuel" creationdate="20180609T104848Z">
-        <seg>Controlla la duplicazione di tutte le parole, anziché solo le parole predefinite "e", "o", "per" e "il".</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105551Z" creationid="manuel" creationdate="20180609T104848Z">
+        <seg>Controlla la duplicazione di tutte le parole, anziché solo le parole predefinite ‘e’, ‘o’, ‘per’ e ‘il’.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4530,6 +4538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081042Z" creationid="manuel" creationdate="20180530T081042Z">
         <seg>Inviate i dati di utilizzo per aiutare The Document Foundation a migliorare l'usabilità del software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sentence spacing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105330Z" creationid="manuel" creationdate="20180609T105330Z">
+        <seg>Spaziatura delle frasi</seg>
       </tuv>
     </tu>
     <tu>
