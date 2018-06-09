@@ -2358,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;f0&gt;Decimal separator key&lt;/f0&gt; option is selected, LibreOffice use&lt;f1&gt;s&lt;/f1&gt; the character defined by the default locale.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T060442Z" creationid="manuel" creationdate="20180609T060442Z">
+        <seg>Se l'opzione &lt;f0&gt;del tasto separatore decimale&lt;/f0&gt; è selezionato, LibreOffice usa&lt;f1&gt;&lt;/f1&gt; il carattere definito dalla localizzazione standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;f0&gt;Send OS version &amp; simple hardware info&lt;/f0&gt; option is selected, the information of the computer architecture and operating system will be sent to the server for statistics collection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T135827Z" creationid="manuel" creationdate="20180608T135827Z">
