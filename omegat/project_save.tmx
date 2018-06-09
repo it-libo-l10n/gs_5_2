@@ -1272,8 +1272,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Expert Configuration&lt;/f0&gt; button to open a new window in which you can fine-tune the LibreOffice installation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T070832Z" creationid="manuel" creationdate="20180608T070832Z">
-        <seg>Fate clic su pulsante &lt;f0&gt;Configurazione esperta&lt;/f0&gt; per aprire una nuova finestra in cui è possibile perfezionare l'installazione di LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T155747Z" creationid="manuel" creationdate="20180608T070832Z">
+        <seg>Fate clic su pulsante &lt;f0&gt;Configurazione avanzata&lt;/f0&gt; per aprire una nuova finestra in cui è possibile perfezionare l'installazione di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1809,8 +1809,8 @@
       <tuv lang="EN">
         <seg>Expert Configuration</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T070619Z" creationid="manuel" creationdate="20180608T070619Z">
-        <seg>Configurazione esperta</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T155729Z" creationid="manuel" creationdate="20180608T070619Z">
+        <seg>Configurazione avanzata</seg>
       </tuv>
     </tu>
     <tu>
@@ -5081,8 +5081,8 @@
       <tuv lang="EN">
         <seg>The Expert Configuration dialog lets you access, edit, and save configuration preferences that can turn the user profile of LibreOffice unstable, inconsistent, or even unusable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071209Z" creationid="manuel" creationdate="20180608T071131Z">
-        <seg>La finestra di dialogo Configurazione esperta consente di accedere, modificare e salvare le preferenze di configurazione che possono trasformare il profilo utente di LibreOffice instabile, incoerente o persino inutilizzabile.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T155809Z" creationid="manuel" creationdate="20180608T071131Z">
+        <seg>La finestra di dialogo Configurazione avanzata consente di accedere, modificare e salvare le preferenze di configurazione che possono trasformare il profilo utente di LibreOffice instabile, incoerente o persino inutilizzabile.</seg>
       </tuv>
     </tu>
     <tu>
