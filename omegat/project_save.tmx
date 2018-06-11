@@ -224,8 +224,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Getting Started&lt;/f0&gt; Guide</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T082726Z" creationid="luke" creationdate="20180515T082726Z">
-        <seg>&lt;f0&gt;Getting Started&lt;/f0&gt; Guide</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T111943Z" creationid="luke" creationdate="20180515T082726Z">
+        <seg>&lt;f0&gt;Guida introduttiva&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072616Z" creationid="luke" creationdate="20180515T072616Z">
         <seg>&lt;t0&gt;Guida introduttiva a LibreOffice 5.2&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;i0/&gt;&lt;f1&gt;template&lt;/f1&gt; is a model document that you use to create other documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112155Z" creationid="manuel" creationdate="20180611T112155Z">
+        <seg>Un &lt;i0/&gt;&lt;f1&gt;modello&lt;/f1&gt; è un documento che si usa per creare altri documenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1048,8 +1056,8 @@
       <tuv lang="EN">
         <seg>Chapter &lt;f0&gt;3&lt;/f0&gt; &lt;s1/&gt;&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T082644Z" creationid="luke" creationdate="20180515T082644Z">
-        <seg>Chapter &lt;f0&gt;3&lt;/f0&gt; &lt;s1/&gt;&lt;br2/&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112013Z" creationid="luke" creationdate="20180515T082644Z">
+        <seg>Capitolo &lt;f0&gt;3&lt;/f0&gt; &lt;s1/&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6143,6 +6151,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Styles and Templates</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112020Z" creationid="manuel" creationdate="20180611T112020Z">
+        <seg>Uso di Stili e Modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VBA Properties</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153702Z" creationid="manuel" creationdate="20180608T153702Z">
@@ -6203,6 +6219,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085847Z" creationid="luke" creationdate="20180515T085847Z">
         <seg>Cos'è LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is a template?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112124Z" creationid="manuel" creationdate="20180611T112124Z">
+        <seg>Cos'è un modello?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6767,6 +6791,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>description</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112126Z" creationid="manuel" creationdate="20180611T112126Z">
+        <seg>descrizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>dictionaries, installing</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170007Z" creationid="manuel" creationdate="20180608T170007Z">
@@ -7147,6 +7179,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T082145Z" creationid="manuel" creationdate="20180609T082145Z">
         <seg>opzioni del controllo ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112132Z" creationid="manuel" creationdate="20180611T112132Z">
+        <seg>modello</seg>
       </tuv>
     </tu>
     <tu>
