@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apply Style List</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155825Z" creationid="manuel" creationdate="20180611T155806Z">
+        <seg>elenco Applica stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applying special effects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154641Z" creationid="luke" creationdate="20180514T154641Z">
@@ -2303,6 +2311,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fill Format Mode</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155757Z" creationid="manuel" creationdate="20180611T155757Z">
+        <seg>Modo riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill in the form (not shown here), or amend or delete any existing information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055823Z" creationid="manuel" creationdate="20180529T055823Z">
@@ -3699,6 +3715,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072640Z" creationid="luke" creationdate="20180515T072640Z">
         <seg>Jean Hollis Weber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155830Z" creationid="manuel" creationdate="20180611T155830Z">
+        <seg>Scorciatoie da tastiera</seg>
       </tuv>
     </tu>
     <tu>
@@ -5327,6 +5351,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Styles and Formatting window (floating, or in Sidebar)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155814Z" creationid="manuel" creationdate="20180611T155748Z">
+        <seg>finestra Stili e formattazione (mobile o nella barra laterale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Styles are &lt;f0&gt;logical&lt;/f0&gt; attributes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143450Z" creationid="manuel" creationdate="20180611T143450Z">
@@ -5523,6 +5555,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090029Z" creationid="luke" creationdate="20180515T090029Z">
         <seg>The Slide Transition section has a very useful choice: Automatic preview.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Styles menu in Writer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155607Z" creationid="manuel" creationdate="20180611T155607Z">
+        <seg>Il menu Stili in Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -6563,6 +6603,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143611Z" creationid="manuel" creationdate="20180611T143611Z">
         <seg>Grazie agli stili, non è più necessario selezionare, ad esempio, “Dimensione dei caratteri 14pt, Times New Roman, Grassetto, Centrato”, ma sarà sufficiente scegliere lo stile “Titolo”, precedentemente impostato con le caratteristiche desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Styles menu in Writer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155850Z" creationid="manuel" creationdate="20180611T155850Z">
+        <seg>Usare il menu Stili in Writer</seg>
       </tuv>
     </tu>
     <tu>
