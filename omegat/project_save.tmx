@@ -6455,6 +6455,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use it for applying styles:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160912Z" creationid="manuel" creationdate="20180611T160912Z">
+        <seg>Per usarlo per applicare gli stili:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use the standard Open and Save dialogs for your operating system, deselect th&lt;f0&gt;is&lt;/f0&gt; option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060755Z" creationid="manuel" creationdate="20180529T060755Z">
