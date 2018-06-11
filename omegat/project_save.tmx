@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Cell styles&lt;/f0&gt; include fonts, alignment, borders, background, number formats (for example, currency, date, number), and cell protection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144601Z" creationid="manuel" creationdate="20180611T144601Z">
+        <seg>Gli &lt;f0&gt;Stili di cella&lt;/f0&gt; contengono tipo di carattere, allineamento, bordi, sfondo, formati dei numeri (ad esempio, valuta, data o numero) e protezione delle celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Character styles&lt;/f0&gt; affect selected text within a paragraph, such as the font and size of text, or bold and italic formats.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144229Z" creationid="manuel" creationdate="20180611T144229Z">
@@ -254,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Graphics styles&lt;/f0&gt; in drawings and presentations include line, area, shadowing, transparency, font, connectors, dimensioning, and other attributes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144618Z" creationid="manuel" creationdate="20180611T144618Z">
+        <seg>Gli &lt;f0&gt;Stili grafici&lt;/f0&gt; nei disegni e nelle presentazioni consentono di impostare linee, riempimento, ombreggiatura, trasparenza, tipo di carattere, connettori, quotatura, ed altri attributi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If&lt;/f0&gt; you se&lt;f1&gt;lec&lt;/f1&gt;t&lt;f2&gt;ed&lt;/f2&gt; &lt;f3&gt;Add caption to each slide&lt;/f3&gt;, &lt;f4&gt;t&lt;/f4&gt;here will be a placeholder for the image caption &lt;f5&gt;(title) on each slide.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085946Z" creationid="luke" creationdate="20180515T085946Z">
@@ -274,6 +290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090141Z" creationid="luke" creationdate="20180515T090141Z">
         <seg>&lt;f0&gt;LibreOffice Draw&lt;/f0&gt; is &lt;i1/&gt;a vector graphics drawing program, although it can also perform some operations on raster graphics (pixels).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;List styles&lt;/f0&gt; allow you to select, format, and position numbers or bullets in lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144543Z" creationid="manuel" creationdate="20180611T144543Z">
+        <seg>&lt;f0&gt;Elenca stili&lt;/f0&gt; consente di selezionare, formattare e posizionare numeri o punti elenco negli elenchi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T090928Z" creationid="manuel" creationdate="20180530T090928Z">
         <seg>&lt;f0&gt;Incolla Appunti&lt;/f0&gt; – la pressione del pulsante centrale del mouse inserisce il contenuto degli “&lt;i1/&gt;Appunti di selezione” alla posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Presentation styles&lt;/f0&gt; include attributes for font, indents, spacing, alignment, and tabs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144627Z" creationid="manuel" creationdate="20180611T144627Z">
+        <seg>Gli &lt;f0&gt;Stili di presentazione&lt;/f0&gt; contengono le caratteristiche dei caratteri, rientri di testo, spaziatura, allineamento e tabulazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1675,6 +1707,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091435Z" creationid="manuel" creationdate="20180609T091435Z">
         <seg>I dizionari installati dal sistema non possono essere rimossi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Different styles are available in the various components of LibreOffice, as listed in Table &lt;t0&gt;46&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144721Z" creationid="manuel" creationdate="20180611T144721Z">
+        <seg>Nei vari componenti di LibreOffice sono disponibili stili differenti, come elencati nella &lt;t0&gt;Tabella46&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3675,6 +3715,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T195947Z" creationid="Marco Marega" creationdate="20180527T195947Z">
         <seg>LibreOffice è anche in grado di aprire e salvare documenti in molti altri formati, compresi quelli utilizzati da varie versioni di Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice comes with many predefined styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144741Z" creationid="manuel" creationdate="20180611T144741Z">
+        <seg>LibreOffice viene fornito con numerosi stili predefiniti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6891,6 +6939,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070125Z" creationid="manuel" creationdate="20180531T070125Z">
         <seg>Potete utilizzare le voci nella pagina &lt;f0&gt;LibreOffice – Percorsi&lt;/f0&gt; per compilare un elenco di file, ad esempio quelli contenenti il Testo automatico, che dovete salvare o copiare su un altro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use the styles as provided, modify them, or create new styles, as described in this chapter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144747Z" creationid="manuel" creationdate="20180611T144747Z">
+        <seg>È possibile usare gli stili disponibili, modificarli, o crearne di nuovi, come descritto in questo capitolo.</seg>
       </tuv>
     </tu>
     <tu>
