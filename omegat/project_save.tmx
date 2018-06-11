@@ -4919,6 +4919,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;View &gt; Styles and Formatting&lt;/f0&gt; or &lt;f1&gt;Styles &gt; Styles and Formatting&lt;/f1&gt; from the Menu bar, or press &lt;f2&gt;F11&lt;/f2&gt; (&lt;f3&gt;⌘+T &lt;/f3&gt;on a Mac), or click the Styles and Formatting tab in the Sidebar (&lt;f4&gt;View &gt; Sidebar&lt;/f4&gt; to open it).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161301Z" creationid="manuel" creationdate="20180611T161301Z">
+        <seg>Selezionate &lt;f0&gt;Vista &gt; Stili e formattazione&lt;/f0&gt; o &lt;f1&gt;Stili &gt; Stili e formattazione&lt;/f1&gt; dalla barra del menu, o premete &lt;f2&gt;F11&lt;/f2&gt; (&lt;f3&gt;⌘+T &lt;/f3&gt;su un Mac), o fate clic sulla linguetta Stili e formattazione della barra laterale (&lt;f4&gt;Vista &gt; Barra laterlae&lt;/f4&gt; per aprirla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f1&gt;Tools &gt; Extension Manager&lt;/f1&gt;, select the English spelling dictionaries and click the &lt;f2&gt;Options&lt;/f2&gt; button to reveal the menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T100038Z" creationid="manuel" creationdate="20180609T100038Z">
@@ -5587,6 +5595,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160755Z" creationid="manuel" creationdate="20180611T160755Z">
         <seg>La finestra Stili e formattazione include il set più completo di strumenti per gli stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Styles and Formatting window shows previews of the styles available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161324Z" creationid="manuel" creationdate="20180611T161324Z">
+        <seg>La finestra Stili e formattazione mostra le anteprime degli stili disponibili.</seg>
       </tuv>
     </tu>
     <tu>
