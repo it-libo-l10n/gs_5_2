@@ -5575,6 +5575,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Styles menu does not have styles for frames, pages, and lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160340Z" creationid="manuel" creationdate="20180611T160340Z">
+        <seg>Il menu Stili non ha stili per cornici, pagine ed elenchi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Styles menu in Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155607Z" creationid="manuel" creationdate="20180611T155607Z">
@@ -6203,6 +6211,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090033Z" creationid="luke" creationdate="20180515T090033Z">
         <seg>To apply a different display time to each slide in your presentation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To apply a paragraph style, position the insertion point in the paragraph, and then select one of the &lt;s0/&gt;paragraph styles in the &lt;f1&gt;Style&lt;/f1&gt; menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160453Z" creationid="manuel" creationdate="20180611T160453Z">
+        <seg>Per applicare uno stile di paragrafo, posizionate il punto di inserimento nel paragrafo, quindi selezionate uno degli stili di paragrafo &lt;s0/&gt;nel menu &lt;f1&gt;Stile&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
