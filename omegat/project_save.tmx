@@ -2975,6 +2975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do not specify a template when you start a new document, then the document is based on the default template for that type of document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114009Z" creationid="manuel" creationdate="20180611T114009Z">
+        <seg>Se non specificate un modello in fase di creazione di un nuovo documento, questo si baserà sul modello predefinito per quel tipo di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not want spelling checked while you type, deselect &lt;f0&gt;Check spelling as you type&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;This option can also be deselected using the &lt;f2&gt;Auto&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;matic &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Spell &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;C&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;heck&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;ing&lt;/f10&gt;&lt;/f9&gt; button on the Standard toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T090858Z" creationid="manuel" creationdate="20180609T090858Z">
@@ -6523,6 +6531,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090027Z" creationid="luke" creationdate="20180515T090027Z">
         <seg>You can configure the slide transition from the Slide Transition section in the Tasks Pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a specific template for any document type (text, spreadsheet, drawing, presentation).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T113956Z" creationid="manuel" creationdate="20180611T113956Z">
+        <seg>Potete creare un modello specifico per qualsiasi tipo di documento (testo, foglio elettronico, disegno, presentazione).</seg>
       </tuv>
     </tu>
     <tu>
