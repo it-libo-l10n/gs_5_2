@@ -2311,6 +2311,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161453Z" creationid="manuel" creationdate="20180611T161453Z">
+        <seg>La figura &lt;t0&gt;46&lt;/t0&gt; mostra la finestra Stili e Formattazione di Writer, in cui sono visibili gli Stili di paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill Format Mode</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155757Z" creationid="manuel" creationdate="20180611T155757Z">
@@ -4967,6 +4975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select one of the buttons at the top left of the Styles and Formatting window to display a list of styles in that category.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161517Z" creationid="manuel" creationdate="20180611T161517Z">
+        <seg>Selezionate uno dei pulsanti in alto a sinistra nella finestra Stili e formattazione per visualizzare un elenco di stili in quella categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select or deselect the options as required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104411Z" creationid="manuel" creationdate="20180606T104411Z">
@@ -6239,6 +6255,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To apply a character style to more than one word, select the characters first.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161738Z" creationid="manuel" creationdate="20180611T161738Z">
+        <seg>Per applicare uno stile di carattere a più di una parola, selezionate prima i caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To apply a character style to several characters or more than one word, select the characters first and apply the character style from the menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160532Z" creationid="manuel" creationdate="20180611T160532Z">
@@ -6259,6 +6283,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160453Z" creationid="manuel" creationdate="20180611T160453Z">
         <seg>Per applicare uno stile di paragrafo, posizionate il punto di inserimento nel paragrafo, quindi selezionate uno degli stili di paragrafo &lt;s0/&gt;nel menu &lt;f1&gt;Stile&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To apply an existing style, position the insertion point in the paragraph, frame, page, or word, and then double-click the name of the style in one of these lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161555Z" creationid="manuel" creationdate="20180611T161555Z">
+        <seg>Per applicare uno stile esistente, posizionate il punto di inserimento nel paragrafo, nella cornice, nella pagina o nella parola, quindi fate doppio clic sul nome dello stile in uno di questi elenchi.</seg>
       </tuv>
     </tu>
     <tu>
