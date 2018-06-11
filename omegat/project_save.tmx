@@ -5367,6 +5367,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Styles and Formatting window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160619Z" creationid="manuel" creationdate="20180611T160619Z">
+        <seg>finestra Stili e formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Styles and Formatting window (floating, or in Sidebar)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155814Z" creationid="manuel" creationdate="20180611T155748Z">
@@ -5571,6 +5579,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090029Z" creationid="luke" creationdate="20180515T090029Z">
         <seg>The Slide Transition section has a very useful choice: Automatic preview.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Styles and Formatting window includes the most complete set of tools for styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160755Z" creationid="manuel" creationdate="20180611T160755Z">
+        <seg>La finestra Stili e formattazione include il set più completo di strumenti per gli stili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6207,6 +6223,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To apply a character style to several characters or more than one word, select the characters first and apply the character style from the menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160532Z" creationid="manuel" creationdate="20180611T160532Z">
+        <seg>Per applicare uno stile di carattere a più caratteri o più di una parola, selezionate prima i caratteri e applicate lo stile di carattere dal menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To apply a different display time to each slide in your presentation:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090033Z" creationid="luke" creationdate="20180515T090033Z">
@@ -6611,6 +6635,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073154Z" creationid="manuel" creationdate="20180606T073154Z">
         <seg>Gli utenti possono firmare digitalmente i documenti usando LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using &lt;i0/&gt;the Styles and Formatting window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160635Z" creationid="manuel" creationdate="20180611T160635Z">
+        <seg>Uso &lt;i0/&gt;della finestra Stili e Formattazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -7147,6 +7179,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144747Z" creationid="manuel" creationdate="20180611T144747Z">
         <seg>È possibile usare gli stili disponibili, modificarli, o crearne di nuovi, come descritto in questo capitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot add custom styles to the Styles menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160609Z" creationid="manuel" creationdate="20180611T160609Z">
+        <seg>Non potete aggiungere stili personalizzati al menu Stili.</seg>
       </tuv>
     </tu>
     <tu>
