@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Character styles&lt;/f0&gt; affect selected text within a paragraph, such as the font and size of text, or bold and italic formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144229Z" creationid="manuel" creationdate="20180611T144229Z">
+        <seg>Gli &lt;f0&gt;Stili di carattere&lt;/f0&gt; si applicano al testo selezionato all'interno di un paragrafo, modificando il tipo di carattere e la dimensione del testo, o i formati grassetto e corsivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Check special regions&lt;/f0&gt; includes headers, footers, frames, and tables when checking spelling.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091253Z" creationid="manuel" creationdate="20180609T091253Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185448Z" creationid="Marco Marega" creationdate="20180528T185108Z">
         <seg>&lt;f0&gt;Compatibilità dei file.&lt;/f0&gt; Oltre ai propri formati nativi OpenDocument, LibreOffice include il supporto per aprire e salvare i file in molti formati comuni tra i quali: Microsoft Office, HTML, XML, WordPerfect e Lotus 1-2-3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Frame styles&lt;/f0&gt; are used to format graphic and text frames, including text wrap, borders, backgrounds, and columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144454Z" creationid="manuel" creationdate="20180611T144454Z">
+        <seg>Gli &lt;f0&gt;Stili di cornice&lt;/f0&gt; vengono utilizzati per formattare cornici grafiche o di testo, inclusi il testo a capo, i bordi, gli sfondi e le colonne.</seg>
       </tuv>
     </tu>
     <tu>
