@@ -310,6 +310,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Page styles&lt;/f0&gt; include margins, headers and footers, borders and backgrounds.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144158Z" creationid="manuel" creationdate="20180611T144158Z">
+        <seg>Gli &lt;f0&gt;Stili di pagina&lt;/f0&gt; includono margini, intestazioni e piè di pagina, bordi e sfondi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Paragraph styles&lt;/f0&gt; control all aspects of a paragraph’s appearance, such as text alignment, tab stops, line spacing, and borders, and can include character formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144220Z" creationid="manuel" creationdate="20180611T144220Z">
+        <seg>Gli &lt;f0&gt;Stili di paragrafo&lt;/f0&gt; controllano tutte le caratteristiche dell'aspetto del paragrafo, come l'allineamento del testo, le tabulazioni, la spaziatura delle linee e i bordi, e possono includere la formattazione dei caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Paste clipboard&lt;/f0&gt; – pressing the middle mouse button inserts the contents of the “&lt;i1/&gt;Selection clipboard” at the cursor position.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T090928Z" creationid="manuel" creationdate="20180530T090928Z">
@@ -874,6 +890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141041Z" creationid="manuel" creationdate="20180609T141041Z">
         <seg>Ma se trovate modifiche inspiegabili nel documento, è possibile che la causa sia proprio da attribuire alla Correzione automatica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, when you use styles, you only need to make a single change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143932Z" creationid="manuel" creationdate="20180611T143932Z">
+        <seg>Al contrario, quando si usano gli stili, è sufficiente apportare una sola modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2311,6 +2335,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143958Z" creationid="manuel" creationdate="20180611T143958Z">
+        <seg>Ad esempio, gli stili dei titoli (o altri stili specificati) consentono a Writer di compilare gli indici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if the two-digit year is set to 1930, and you enter a date of 1/1/30 or later into your document, the date is interpreted as 1/1/1930 or later.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070244Z" creationid="manuel" creationdate="20180529T070244Z">
@@ -3263,10 +3295,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Calc, page styles also include the sequence for printing sheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144204Z" creationid="manuel" creationdate="20180611T144204Z">
+        <seg>In Calc, gli stili di pagina includono anche la sequenza di stampa dei fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a Windows system, for example, you might want to store documents by default somewhere other than My Documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070039Z" creationid="manuel" creationdate="20180531T070039Z">
         <seg>Ad esempio, in Windows potreste voler salvare in maniera predefinita i documenti in una cartella diversa da Documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, styles are used by LibreOffice for many processes, even if you are not aware of them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143950Z" creationid="manuel" creationdate="20180611T143950Z">
+        <seg>Inoltre, gli stili vengono utilizzati da LibreOffice per eseguire numerose procedure che non risultano visibili agli utenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3659,6 +3707,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085725Z" creationid="luke" creationdate="20180515T085725Z">
         <seg>LibreOffice funziona su sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice supports the following types of styles:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144148Z" creationid="manuel" creationdate="20180611T144148Z">
+        <seg>LibreOffice supporta i seguenti stili:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5019,6 +5075,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190618Z" creationid="Marco Marega" creationdate="20180528T190618Z">
         <seg>Alcune funzionalità di LibreOffice (le procedure guidate e il motore di database HSQLDB) richiedono che Java Runtime Environment (JRE) sia installato sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some common examples of style use are given in “&lt;f0&gt;&lt;rf1&gt;Examples of style use&lt;/rf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;rf3&gt;79&lt;/rf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144129Z" creationid="manuel" creationdate="20180611T144129Z">
+        <seg>Alcuni esempi comuni di utilizzo dello stile sono forniti in “&lt;f0&gt;&lt;rf1&gt;Esempi di utilizzo dello stile&lt;/rf1&gt;&lt;/f0&gt;” a pagina &lt;f2&gt;&lt;rf3&gt;79&lt;/rf3&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
