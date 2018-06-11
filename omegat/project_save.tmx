@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;style&lt;/f0&gt; is a set of formats that you can apply to selected pages, text, frames, and other elements in your document to quickly change their appearance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114511Z" creationid="manuel" creationdate="20180611T114511Z">
+        <seg>Uno &lt;f0&gt;stile&lt;/f0&gt;è un insieme di formati che si possono applicare a pagine, testi, cornici, e altri elementi selezionati in un documento per modificare rapidamente il loro aspetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;i0/&gt;&lt;f1&gt;template&lt;/f1&gt; is a model document that you use to create other documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112155Z" creationid="manuel" creationdate="20180611T112155Z">
@@ -4919,6 +4927,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since LibreOffice version 4.4, you can create templates for Master Documents as well as for ordinary documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114422Z" creationid="manuel" creationdate="20180611T114422Z">
+        <seg>Dalla versione 4.4 di LibreOffice, potete creare modelli per documenti master e per documenti ordinari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Slide advance</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z" creationid="luke" creationdate="20180515T090031Z">
@@ -6271,6 +6287,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What are &lt;i0/&gt;&lt;i1/&gt;styles?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114444Z" creationid="manuel" creationdate="20180611T114444Z">
+        <seg>Definizione di &lt;i0/&gt;&lt;i1/&gt;stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What is Draw?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090123Z" creationid="luke" creationdate="20180515T090123Z">
@@ -7255,6 +7279,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114426Z" creationid="manuel" creationdate="20180611T114426Z">
+        <seg>stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112132Z" creationid="manuel" creationdate="20180611T112132Z">
@@ -7283,6 +7315,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070115Z" creationid="manuel" creationdate="20180529T070115Z">
         <seg>anni espressi con due cifre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>types supported</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114428Z" creationid="manuel" creationdate="20180611T114428Z">
+        <seg>tipi supportati</seg>
       </tuv>
     </tu>
     <tu>
