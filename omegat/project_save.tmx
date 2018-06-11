@@ -3615,6 +3615,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also has entries for style management in the bottom.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160105Z" creationid="manuel" creationdate="20180611T160105Z">
+        <seg>Ha anche voci per la gestione dello stile in basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also use dBASE, Microsoft Access, MySQL, or Oracle, or any ODBC compliant or JDBC compliant database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211226Z" creationid="Marco Marega" creationdate="20180527T211226Z">
@@ -3731,6 +3739,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140524Z" creationid="manuel" creationdate="20180608T140524Z">
         <seg>Lasciate che LibreOffice usi la GPU della scheda video per eseguire calcoli numerici con un grande guadagno di velocità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice 5.1 added a new menu to ease the use of styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155913Z" creationid="manuel" creationdate="20180611T155913Z">
+        <seg>LibreOffice 5.1 ha aggiunto un nuovo menu per facilitare l'uso degli stili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5819,6 +5835,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171609Z" creationid="manuel" creationdate="20180608T171609Z">
         <seg>L'impostazione locale è la base per molte altre impostazioni di LibreOffice, ad esempio i valori predefiniti per la numerazione, la valuta e le unità di misura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The menu has the most important paragraph and character styles for almost every text document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160045Z" creationid="manuel" creationdate="20180611T160045Z">
+        <seg>Il menu per gli stili di paragrafo e carattere è il più importante per quasi tutti i documenti di testo.</seg>
       </tuv>
     </tu>
     <tu>
