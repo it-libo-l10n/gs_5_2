@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(included in Frame styles)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145815Z" creationid="manuel" creationdate="20180611T145815Z">
+        <seg>(compreso negli stili di cornice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../images/img.jpg</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144714Z" creationid="manuel" creationdate="20180608T144714Z">
@@ -802,6 +810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154641Z" creationid="luke" creationdate="20180514T154641Z">
         <seg>Applying special effects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Applying styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145819Z" creationid="manuel" creationdate="20180611T145819Z">
+        <seg>Applicare gli stili</seg>
       </tuv>
     </tu>
     <tu>
@@ -2659,6 +2675,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104152Z" creationid="manuel" creationdate="20180609T104152Z">
         <seg>Controllo grammaticale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Graphics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145810Z" creationid="manuel" creationdate="20180611T145810Z">
+        <seg>Grafico</seg>
       </tuv>
     </tu>
     <tu>
@@ -4555,6 +4579,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104216Z" creationid="manuel" creationdate="20180609T104216Z">
         <seg>Possibili errori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Presentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145754Z" creationid="manuel" creationdate="20180611T145754Z">
+        <seg>Presentazione</seg>
       </tuv>
     </tu>
     <tu>
