@@ -2335,6 +2335,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you might specify the font family, font size, and any formatting such as bold or italic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143440Z" creationid="manuel" creationdate="20180611T143440Z">
+        <seg>Ad esempio, potreste specificare tipo e dimensione dei caratteri e ogni formattazione come grassetto o corsivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, your choice (in the options for LibreOffice Writer) of how to update links is affected by the Load user-specific settings option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143838Z" creationid="manuel" creationdate="20180608T143838Z">
@@ -3751,6 +3759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many people manually format paragraphs, words, tables, page layouts, and other parts of their documents without paying any attention to styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143416Z" creationid="manuel" creationdate="20180611T143416Z">
+        <seg>Molti formattano manualmente i paragrafi, le parole, le tabelle, i layout di pagina e altre parti dei loro documenti ignorando gli stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark this box to emulate OpenCL if your computer video card driver does not support OpenCL.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140408Z" creationid="manuel" creationdate="20180608T140408Z">
@@ -3995,6 +4011,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144750Z" creationid="manuel" creationdate="20180608T144750Z">
         <seg>salvataggio, versione del formato ODF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often applying a style means applying a whole group of formats at the same time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143400Z" creationid="manuel" creationdate="20180611T143400Z">
+        <seg>Spesso applicare uno stile significa applicare un intero gruppo di formati allo stesso tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5055,6 +5079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Styles are &lt;f0&gt;logical&lt;/f0&gt; attributes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143450Z" creationid="manuel" creationdate="20180611T143450Z">
+        <seg>Gli stili sono attributi &lt;f0&gt;logici&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TSAs - Time Stamp&lt;f0&gt;ing&lt;/f0&gt; Authorities</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074618Z" creationid="manuel" creationdate="20180606T074618Z">
@@ -5683,6 +5715,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T110553Z" creationid="manuel" creationdate="20180609T110553Z">
         <seg>Queste opzioni impongono un trattino lungo senza spazi per sostituire un trattino corto spaziato, o forzare un trattino corto con spaziatura per sostituire un trattino lungo non distanziato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are used to writing documents according to &lt;f0&gt;physical&lt;/f0&gt; attributes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143431Z" creationid="manuel" creationdate="20180611T143431Z">
+        <seg>Questi utenti sono abituati a redigere documenti considerandone le caratteristiche &lt;f0&gt;fisiche&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
