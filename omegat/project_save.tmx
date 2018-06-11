@@ -3815,6 +3815,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice provides several ways for you to select styles to apply:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155519Z" creationid="manuel" creationdate="20180611T155519Z">
+        <seg>Gli stili di formato possono essere selezionati in vari modi in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice runs on Windows, Linux, and Mac OS X operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085725Z" creationid="luke" creationdate="20180515T085725Z">
