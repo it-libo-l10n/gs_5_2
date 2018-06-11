@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the bottom of the Styles and Formatting window is a drop-down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161747Z" creationid="manuel" creationdate="20180611T161747Z">
+        <seg>Nella parte inferiore della finestra Stili e Formattazione vi è un elenco a scomparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Authors whose work may be very lengthy should always consider using this option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144455Z" creationid="manuel" creationdate="20180608T144455Z">
