@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All documents in LibreOffice are based on templates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112315Z" creationid="manuel" creationdate="20180611T112315Z">
+        <seg>Tutti i documenti in LibreOffice sono basati su modelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All the components share a common spelling checker and other tools, which are used consistently across the suite.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184724Z" creationid="Marco Marega" creationdate="20180528T184724Z">
@@ -2303,6 +2311,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you can create a template for business reports that has your company’s logo on the first page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112236Z" creationid="manuel" creationdate="20180611T112236Z">
+        <seg>Per esempio, potete creare un modello per rapporti di affari che presenti il logo della vostra ditta nella prima pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can open a Draw file from Writer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184836Z" creationid="Marco Marega" creationdate="20180528T184836Z">
@@ -3887,6 +3903,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New documents created from this template will all have your company’s logo on the first page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112242Z" creationid="manuel" creationdate="20180611T112242Z">
+        <seg>I nuovi documenti creati da questo modello avranno tutti il logo della ditta nella prima pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No effect on the clipboard contents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055311Z" creationid="manuel" creationdate="20180531T055311Z">
@@ -5003,6 +5027,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080028Z" creationid="manuel" creationdate="20180531T080028Z">
         <seg>Tabella &lt;seq0&gt;2&lt;/seq0&gt;: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Templates can contain anything that regular documents can contain, such as text, graphics, a set of styles, and user-specific setup information such as measurement units, language, the default printer, and toolbar and menu customization.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112311Z" creationid="manuel" creationdate="20180611T112311Z">
+        <seg>I modelli possono contenere qualsiasi cosa si possa trovare nei normali documenti, come testo, grafici, stili, informazioni di configurazione specifiche definite dall'utente come unità di misura, lingua, stampante predefinita, barre degli strumenti e menu personalizzati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6139,6 +6171,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073154Z" creationid="manuel" creationdate="20180606T073154Z">
         <seg>Gli utenti possono firmare digitalmente i documenti usando LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Consistent Formatting in Your Documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112224Z" creationid="manuel" creationdate="20180611T112224Z">
+        <seg>Utilizzo della formattazione coerente nei documenti</seg>
       </tuv>
     </tu>
     <tu>
