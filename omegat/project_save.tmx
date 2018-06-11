@@ -2287,6 +2287,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a long document, this simple task can require making individual changes in dozens of places.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143906Z" creationid="manuel" creationdate="20180611T143906Z">
+        <seg>Per un lungo documento, questo semplice compito può richiedere modifiche individuali in dozzine di posti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a more detailed listing of requirements, see the LibreOffice website, &lt;a0&gt;http://www.libreoffice.org/get-help/system-requirements/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190828Z" creationid="Marco Marega" creationdate="20180528T190828Z">
@@ -2331,6 +2339,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184836Z" creationid="Marco Marega" creationdate="20180528T184836Z">
         <seg>A titolo di esempio, potete aprire un file Draw da Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you may decide to change the indentation of all paragraphs, or change the font of all titles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143754Z" creationid="manuel" creationdate="20180611T143754Z">
+        <seg>È possibile, ad esempio, cambiare il rientro di tutti i paragrafi o modificare il tipo di carattere utilizzato per tutti i titoli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3291,6 +3307,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141242Z" creationid="manuel" creationdate="20180609T141242Z">
         <seg>In altri componenti di LibreOffice, la finestra di dialogo ha solo quattro schede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In other words, using styles means that you shift the emphasis from what the text (or page, or other element) looks like, to what the text &lt;f1&gt;is&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143732Z" creationid="manuel" creationdate="20180611T143732Z">
+        <seg>In altre parole, l'utilizzo degli stili sposta l'enfasi dall'aspetto esteriore del testo (o della pagina, o di qualsiasi altro elemento) a ciò che il testo stesso &lt;f1&gt;rappresenta&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5087,6 +5111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Styles help improve consistency in a document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143738Z" creationid="manuel" creationdate="20180611T143738Z">
+        <seg>Gli stili consentono di migliorare la coerenza nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TSAs - Time Stamp&lt;f0&gt;ing&lt;/f0&gt; Authorities</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074618Z" creationid="manuel" creationdate="20180606T074618Z">
@@ -5719,6 +5751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They also make major formatting changes easy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143741Z" creationid="manuel" creationdate="20180611T143741Z">
+        <seg>Inoltre, rendono più agevole l'esecuzione di modifiche globali della formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are used to writing documents according to &lt;f0&gt;physical&lt;/f0&gt; attributes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143431Z" creationid="manuel" creationdate="20180611T143431Z">
@@ -6275,6 +6315,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112020Z" creationid="manuel" creationdate="20180611T112020Z">
         <seg>Uso di Stili e Modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using styles means that you stop saying “font size 14pt, Times New Roman, bold, centered” and you start saying “Title” because you have defined the “Title” style to have those characteristics.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143611Z" creationid="manuel" creationdate="20180611T143611Z">
+        <seg>Grazie agli stili, non è più necessario selezionare, ad esempio, “Dimensione dei caratteri 14pt, Times New Roman, Grassetto, Centrato”, ma sarà sufficiente scegliere lo stile “Titolo”, precedentemente impostato con le caratteristiche desiderate.</seg>
       </tuv>
     </tu>
     <tu>
