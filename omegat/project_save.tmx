@@ -2399,6 +2399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;48&lt;/seq0&gt;: Updating a style from a selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162208Z" creationid="manuel" creationdate="20180612T162208Z">
+        <seg>Figura &lt;seq0&gt;48&lt;/seq0&gt;: aggiornamento di uno stile da una selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140320Z" creationid="manuel" creationdate="20180611T161453Z">
@@ -3643,6 +3651,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170419Z" creationid="manuel" creationdate="20180608T170419Z">
         <seg>Nella finestra di dialogo Opzioni, fate clic sul simbolo di espansione (segno + o triangolo) &lt;f0&gt;da&lt;/f0&gt; &lt;f1&gt;Impostazioni lingua &gt; Lingue&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Styles and Formatting window, select the style to update, then click on the arrow next to the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon and click &lt;f1&gt;Update Style&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162130Z" creationid="manuel" creationdate="20180612T162130Z">
+        <seg>Nella finestra Stili e Formattazione, selezionate lo stile da aggiornare con un solo clic del mouse, fate clic sulla freccia accanto all'icona &lt;f0&gt;Nuovo stile dalla selezione&lt;/f0&gt; e scegliete &lt;f1&gt;Aggiorna stile&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7387,6 +7403,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191200Z" creationid="Marco Marega" creationdate="20180528T191200Z">
         <seg>Dallo stesso indirizzo è anche possibile scaricare il software utilizzando un programma Peer-to-Peer, come ad esempio BitTorrent, .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also modify styles using the submenu on each style in the Apply Style list on the Formatting toolbar (see Figure &lt;t0&gt;49&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162315Z" creationid="manuel" creationdate="20180612T162315Z">
+        <seg>Potete anche modificare gli stili usando il sottomenu su ogni stile nell'elenco Applica stile sulla barra degli strumenti Formattazione (si veda Figura&lt;t0&gt;49&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
