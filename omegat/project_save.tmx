@@ -2359,6 +2359,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;47&lt;/seq0&gt;: The Apply Style list on the Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154013Z" creationid="manuel" creationdate="20180612T154013Z">
+        <seg>Figura &lt;seq0&gt;47&lt;/seq0&gt;: l'elenco Applica stile sulla barra di Formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140320Z" creationid="manuel" creationdate="20180611T161453Z">
@@ -2515,6 +2523,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070244Z" creationid="manuel" creationdate="20180529T070244Z">
         <seg>Ad esempio, se il valore è impostato su 1930, inserendo nel documento la data 01/01/30 o posteriore, questa viene interpretata come 01/01/1930 o posteriore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, in Writer &lt;f0&gt;Ctrl+0&lt;/f0&gt; applies the &lt;f1&gt;Text body&lt;/f1&gt; style, &lt;f2&gt;Ctrl+1&lt;/f2&gt; applies the &lt;f3&gt;Heading 1&lt;/f3&gt; style, and &lt;f4&gt;Ctrl+2&lt;/f4&gt; applies the &lt;f5&gt;Heading 2&lt;/f5&gt; style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154128Z" creationid="manuel" creationdate="20180612T154128Z">
+        <seg>Per esempio, in Writer &lt;f0&gt;Ctrl+0&lt;/f0&gt; applica lo stile &lt;f1&gt;Corpo del testo&lt;/f1&gt;, &lt;f2&gt;Ctrl+1&lt;/f2&gt; applica lo stile &lt;f3&gt;Intestazione 1&lt;/f3&gt;, e &lt;f4&gt;Ctrl+2&lt;/f4&gt; applica lo stile &lt;f5&gt;Intestazione 2&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4047,6 +4063,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manual formatting (also called &lt;f0&gt;direct formatting&lt;/f0&gt;) overrides styles, and you cannot get rid of the manual formatting by applying a style to it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154227Z" creationid="manuel" creationdate="20180612T154227Z">
+        <seg>La formattazione manuale (anche detta &lt;f0&gt;formattazione diretta&lt;/f0&gt;) ha precedenza sugli stili, e non è possibile eliminare la formattazione manuale applicando ad essa uno stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Many features that are available as extra cost add-ins in other office suites (like PDF export) are free with LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212034Z" creationid="Marco Marega" creationdate="20180527T212034Z">
@@ -5411,6 +5435,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142732Z" creationid="manuel" creationdate="20180608T142732Z">
         <seg>Di seguito sono descritti alcuni elementi di particolare interesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some keyboard shortcuts for applying styles are predefined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154020Z" creationid="manuel" creationdate="20180612T154020Z">
+        <seg>Alcuni tasti di scelta rapida per applicare gli stili sono predefiniti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6879,6 +6911,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154017Z" creationid="manuel" creationdate="20180612T154017Z">
+        <seg>Uso dei tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using styles means that you stop saying “font size 14pt, Times New Roman, bold, centered” and you start saying “Title” because you have defined the “Title” style to have those characteristics.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143611Z" creationid="manuel" creationdate="20180611T143611Z">
@@ -7307,6 +7347,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190103Z" creationid="Marco Marega" creationdate="20180528T190103Z">
         <seg>Anche voi potete entrare a far parte della comunità e contribuire allo sviluppo del prodotto che utilizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify these shortcuts and create your own; see Chapter 14, Customizing LibreOffice, for instructions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154157Z" creationid="manuel" creationdate="20180612T154157Z">
+        <seg>Potete modificare i tasti assegnati e crearne di nuovi; vedere il Capitolo 14 (Personalizzazione di LibreOffice) per istruzioni.</seg>
       </tuv>
     </tu>
     <tu>
