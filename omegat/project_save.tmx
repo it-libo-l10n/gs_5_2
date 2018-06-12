@@ -918,6 +918,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AutoUpdate</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162416Z" creationid="manuel" creationdate="20180612T162416Z">
+        <seg>aggiornamento automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>AutoUpdate applies to paragraph and frame styles only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162443Z" creationid="manuel" creationdate="20180612T162443Z">
+        <seg>L'Aggiornamento Automatico si applica solo agli stili di paragrafo e cornice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>AutoUpdate styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162423Z" creationid="manuel" creationdate="20180612T162423Z">
+        <seg>Aggiornamento Automatico degli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available only in some operating systems and desktop managers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T065951Z" creationid="manuel" creationdate="20180529T065951Z">
@@ -2403,6 +2427,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162208Z" creationid="manuel" creationdate="20180612T162208Z">
         <seg>Figura &lt;seq0&gt;48&lt;/seq0&gt;: aggiornamento di uno stile da una selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;49&lt;/seq0&gt;: Modifying a style from the Apply Style list</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162408Z" creationid="manuel" creationdate="20180612T162408Z">
+        <seg>Figura &lt;seq0&gt;49&lt;/seq0&gt;: modifica uno stile dalla lista Applica stile</seg>
       </tuv>
     </tu>
     <tu>
@@ -7043,6 +7075,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T152232Z" creationid="manuel" creationdate="20180612T152232Z">
         <seg>Uso &lt;i0/&gt;&lt;i1/&gt;dell'elenco Applica stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using &lt;i0/&gt;AutoUpdate</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162437Z" creationid="manuel" creationdate="20180612T162437Z">
+        <seg>&lt;i0/&gt;Aggiornamento Automatico</seg>
       </tuv>
     </tu>
     <tu>
