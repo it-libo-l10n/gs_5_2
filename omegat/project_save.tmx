@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you have used a paragraph style at least once in a document, the style name appears on the Apply Style list near the left-hand end of the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T152426Z" creationid="manuel" creationdate="20180612T152426Z">
+        <seg>Se avete utilizzato uno stile almeno una volta, il suo nome apparirà nell'elenco Applica stile situato a sinistra sulla barra di Formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All documents in LibreOffice are based on templates.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112315Z" creationid="manuel" creationdate="20180611T112315Z">
@@ -6811,6 +6819,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073154Z" creationid="manuel" creationdate="20180606T073154Z">
         <seg>Gli utenti possono firmare digitalmente i documenti usando LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using &lt;i0/&gt;&lt;i1/&gt;the Apply Style list</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T152232Z" creationid="manuel" creationdate="20180612T152232Z">
+        <seg>Uso &lt;i0/&gt;&lt;i1/&gt;dell'elenco Applica stile</seg>
       </tuv>
     </tu>
     <tu>
