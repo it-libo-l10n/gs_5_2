@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking a word applies the character style for that word.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150429Z" creationid="manuel" creationdate="20180612T150429Z">
+        <seg>Premendo il pulsante sinistro del mouse su di una parola si applica lo stile di carattere per quella parola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking on the LibreOffice menu entry, desktop icon, or tile opens the LibreOffice Start Center (Figure &lt;t0&gt;2&lt;/t0&gt;) from where you can select the individual components of LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T214616Z" creationid="Marco Marega" creationdate="20180531T214616Z">
@@ -4799,6 +4807,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repeat step 3 until you have made all the changes for that style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150435Z" creationid="manuel" creationdate="20180612T150435Z">
+        <seg>Ripetete il passo 3 fino ad aver effettuato tutte le modifiche per quello stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replacement action</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080251Z" creationid="manuel" creationdate="20180531T080251Z">
@@ -6515,6 +6531,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160222Z" creationid="manuel" creationdate="20180608T160222Z">
         <seg>Per ottimizzare l'esportazione &lt;i0/&gt;HTML&lt;i1/&gt;, selezionate un browser oppure lo standard HTML dal riquadro &lt;f2&gt;Esporta&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To quit Fill Format mode, click the &lt;f0&gt;Fill Format Mode&lt;/f0&gt; button again or press the &lt;f1&gt;Esc&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150532Z" creationid="manuel" creationdate="20180612T150532Z">
+        <seg>Per disattivare Applica lo stile paragrafo, fate di nuovo clic sul pulsante &lt;f0&gt;Applica lo stile paragrafo&lt;/f0&gt; oppure premete il tasto &lt;f1&gt;Esc&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
