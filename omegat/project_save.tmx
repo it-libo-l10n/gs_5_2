@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apply Style list</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T151048Z" creationid="manuel" creationdate="20180612T151048Z">
+        <seg>Elenco Applica stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applying special effects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154641Z" creationid="luke" creationdate="20180514T154641Z">
@@ -946,6 +954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071721Z" creationid="manuel" creationdate="20180608T071232Z">
         <seg>Opzioni di Basic IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be careful not to accidentally right-click and undo actions you want to keep.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T151012Z" creationid="manuel" creationdate="20180612T151012Z">
+        <seg>Prestate attenzione a non premere accidentalmente il pulsante destro del mouse per evitare di annullare operazioni corrette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7001,8 +7017,8 @@
       <tuv lang="EN">
         <seg>When this mode is active, a right-click anywhere in the document undoes the last Fill Format action.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150913Z" creationid="manuel" creationdate="20180612T150913Z">
-        <seg>Se Applica lo stile paragrafo è attivo, è sufficiente fare clic con il pulsante destro del mouse in un punto qualsiasi del documento per annullare l'ultima operazione di riempimento eseguita.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150947Z" creationid="manuel" creationdate="20180612T150913Z">
+        <seg>Se Applica lo stile paragrafo è attivo, è sufficiente fare clic con il pulsante destro del mouse in un punto qualsiasi del documento per annullare l'ultima operazione di appplicazione di stile eseguita.</seg>
       </tuv>
     </tu>
     <tu>
