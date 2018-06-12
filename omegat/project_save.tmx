@@ -5159,6 +5159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See “&lt;bf0&gt;Copying styles from a template or document&lt;/bf0&gt;” on page &lt;bf1&gt;70&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T163412Z" creationid="manuel" creationdate="20180612T163412Z">
+        <seg>Si veda “&lt;bf0&gt;Copia di stili da un modello o documento&lt;/bf0&gt;” a pagina &lt;bf1&gt;70&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See “&lt;bf2&gt;Security options and warnings&lt;/bf2&gt;” on page &lt;bf3&gt;46&lt;/bf3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164809Z" creationid="manuel" creationdate="20180531T080959Z">
@@ -7695,6 +7703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can update styles by copying (loading) them from a template or another document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T163317Z" creationid="manuel" creationdate="20180612T163317Z">
+        <seg>Potete aggiornare gli stili copiandoli (caricandoli) da un modello o da un altro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can use Draw to create drawings for use in any of the LibreOffice components, and you can create your own clip art and then add it to the Gallery.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210921Z" creationid="Marco Marega" creationdate="20180527T210921Z">
@@ -7883,6 +7899,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072458Z" creationid="manuel" creationdate="20180609T072458Z">
         <seg>Disposizione testo complesso (CTL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>creating new</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T163531Z" creationid="manuel" creationdate="20180612T163531Z">
+        <seg>creare nuovi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>custom</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T163536Z" creationid="manuel" creationdate="20180612T163536Z">
+        <seg>personalizzati &lt;s0/&gt;62</seg>
       </tuv>
     </tu>
     <tu>
