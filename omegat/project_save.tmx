@@ -7247,6 +7247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When updating a paragraph style, make sure that the selected paragraph contains unique properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160923Z" creationid="manuel" creationdate="20180612T160923Z">
+        <seg>Quando aggiornate uno stile di paragrafo, assicuratevi che il paragrafo selezionato contenga proprietà uniche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When using CMIS servers, the service will ask you for the necessary credentials for file access.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202507Z" creationid="Marco Marega" creationdate="20180607T202439Z">
