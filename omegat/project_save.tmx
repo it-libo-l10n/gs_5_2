@@ -4503,6 +4503,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Styles and Formatting window and select the style you want to apply.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150023Z" creationid="manuel" creationdate="20180612T150023Z">
+        <seg>Aprite la finestra Stili e Formattazione e selezionate lo stile che desiderate applicare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open/Save Dialogs&lt;ie0/&gt; – Use LibreOffice dialogs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060554Z" creationid="manuel" creationdate="20180529T060554Z">
@@ -5043,6 +5051,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073805Z" creationid="manuel" creationdate="20180531T073805Z">
         <seg>Selezionate l'opzione &lt;f0&gt;Applica &lt;/f0&gt;&lt;i1/&gt;&lt;i2/&gt;&lt;f3&gt;tabella di sostituzione&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f0&gt;Fill Format Mode&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150147Z" creationid="manuel" creationdate="20180612T150147Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Applica lo stile paragrafo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6207,6 +6223,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This method is quite useful when you need to format many scattered paragraphs, cells, or other items with the same style:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150018Z" creationid="manuel" creationdate="20180612T150018Z">
+        <seg>Questo metodo è particolarmente utile quando dovete formattare con lo stesso stile più paragrafi non consecutivi oppure varie celle o altri elementi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option enables macro recording, with some limitations.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065855Z" creationid="manuel" creationdate="20180608T065855Z">
@@ -6303,6 +6327,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To apply a character style, hold down the mouse button while selecting the characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150214Z" creationid="manuel" creationdate="20180612T150214Z">
+        <seg>Per applicare uno stile di carattere tenete premuto il pulsante sinistro del mouse durante la selezione dei caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To apply a different display time to each slide in your presentation:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090033Z" creationid="luke" creationdate="20180515T090033Z">
@@ -6315,6 +6347,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160453Z" creationid="manuel" creationdate="20180611T160453Z">
         <seg>Per applicare uno stile di paragrafo, posizionate il punto di inserimento nel paragrafo, quindi selezionate uno degli stili di paragrafo &lt;s0/&gt;nel menu &lt;f1&gt;Stile&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To apply a paragraph, page, or frame style, hover the mouse over the paragraph, page, or frame and click.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150204Z" creationid="manuel" creationdate="20180612T150204Z">
+        <seg>Per applicare uno stile di paragrafo, pagina o cornice, passate il mouse sul paragrafo, pagina o cornice e fate clic.</seg>
       </tuv>
     </tu>
     <tu>
