@@ -6817,8 +6817,8 @@
       <tuv lang="EN">
         <seg>Using Fill Format Mode</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T144701Z" creationid="manuel" creationdate="20180612T134556Z">
-        <seg>Uso del modo Applica lo stile paragrafo</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150832Z" creationid="manuel" creationdate="20180612T134556Z">
+        <seg>Uso di Applica lo stile paragrafo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6995,6 +6995,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
         <seg>When the sequence of images is ready, click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert Slides&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this mode is active, a right-click anywhere in the document undoes the last Fill Format action.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150913Z" creationid="manuel" creationdate="20180612T150913Z">
+        <seg>Se Applica lo stile paragrafo è attivo, è sufficiente fare clic con il pulsante destro del mouse in un punto qualsiasi del documento per annullare l'ultima operazione di riempimento eseguita.</seg>
       </tuv>
     </tu>
     <tu>
