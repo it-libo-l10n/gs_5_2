@@ -1895,6 +1895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each Style dialog has several tabs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160558Z" creationid="manuel" creationdate="20180612T160558Z">
+        <seg>Ogni finestra di dialogo Stile è infatti composta da più schede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit document properties before saving</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144321Z" creationid="manuel" creationdate="20180608T144321Z">
@@ -3639,6 +3647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the document, select an item that has the format you want to adopt as a style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160643Z" creationid="manuel" creationdate="20180612T160643Z">
+        <seg>All'interno del documento corrente, selezionate l'elemento il cui formato verrà utilizzato come stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the example, English (USA) has been chosen for all the appropriate settings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171136Z" creationid="manuel" creationdate="20180608T171136Z">
@@ -4615,6 +4631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Styles and Formatting window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160630Z" creationid="manuel" creationdate="20180612T160630Z">
+        <seg>Aprite la finestra Stili e formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open/Save Dialogs&lt;ie0/&gt; – Use LibreOffice dialogs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060554Z" creationid="manuel" creationdate="20180529T060554Z">
@@ -5051,6 +5075,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164316Z" creationid="manuel" creationdate="20180608T164316Z">
         <seg>Si veda il Capitolo 13 (Introduzione alle Macro) per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the chapters on styles in the user guides for details.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160601Z" creationid="manuel" creationdate="20180612T160601Z">
+        <seg>Per ulteriori dettagli, potete consultare i capitoli dedicati agli stili nelle guide utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5791,6 +5823,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Style dialog displayed depends on the type of style selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160556Z" creationid="manuel" creationdate="20180612T160556Z">
+        <seg>Il contenuto della finestra visualizzata dipende dal tipo di stile selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Styles and Formatting window includes the most complete set of tools for styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160755Z" creationid="manuel" creationdate="20180611T160755Z">
@@ -6503,6 +6543,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change an existing style using &lt;i0/&gt;the Style dialog, right-click on the required style in the Styles and Formatting window and select &lt;f1&gt;Modify&lt;/f1&gt; from the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160553Z" creationid="manuel" creationdate="20180612T160553Z">
+        <seg>Per modificare uno stile esistente utilizzando la &lt;i0/&gt;finestra di dialogo Stile, fate clic con il pulsante destro del mouse sullo stile desiderato nella finestra Stili e formattazione e selezionate &lt;f1&gt;Modifica&lt;/f1&gt; dal menu a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change styles in more than one document, you need to change the template or copy the styles into the other documents as described on page &lt;bf0&gt;68&lt;/bf0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155931Z" creationid="manuel" creationdate="20180612T155931Z">
@@ -6735,6 +6783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To update a style from a selection:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160620Z" creationid="manuel" creationdate="20180612T160620Z">
+        <seg>Per aggiornare uno stile a partire da una selezione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use it for applying styles:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160912Z" creationid="manuel" creationdate="20180611T160912Z">
@@ -6803,6 +6859,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155840Z" creationid="manuel" creationdate="20180612T155840Z">
         <seg>Aggiornamento di uno stile da una selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updating a style from a selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160613Z" creationid="manuel" creationdate="20180612T160613Z">
+        <seg>Aggiornamento di uno stile da una selezione</seg>
       </tuv>
     </tu>
     <tu>
@@ -8179,6 +8243,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114428Z" creationid="manuel" creationdate="20180611T114428Z">
         <seg>tipi supportati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>updating from a selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160606Z" creationid="manuel" creationdate="20180612T160606Z">
+        <seg>aggiornamento da una selezione</seg>
       </tuv>
     </tu>
     <tu>
