@@ -2321,8 +2321,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161453Z" creationid="manuel" creationdate="20180611T161453Z">
-        <seg>La figura &lt;t0&gt;46&lt;/t0&gt; mostra la finestra Stili e Formattazione di Writer, in cui sono visibili gli Stili di paragrafo.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T134239Z" creationid="manuel" creationdate="20180611T161453Z">
+        <seg>La Figura &lt;t0&gt;46&lt;/t0&gt; mostra la finestra Stili e Formattazione di Writer, in cui sono visibili gli Stili di paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3435,6 +3435,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144204Z" creationid="manuel" creationdate="20180611T144204Z">
         <seg>In Calc, gli stili di pagina includono anche la sequenza di stampa dei fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Figure &lt;t0&gt;46&lt;/t0&gt; the window shows &lt;f1&gt;Applied Styles&lt;/f1&gt;, meaning the list includes only the styles used in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T134232Z" creationid="manuel" creationdate="20180612T134232Z">
+        <seg>In Figura &lt;t0&gt;46&lt;/t0&gt; the window shows &lt;f1&gt;Applied Styles&lt;/f1&gt;, meaning the list includes only the styles used in the document.</seg>
       </tuv>
     </tu>
     <tu>
