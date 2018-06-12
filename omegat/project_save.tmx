@@ -3015,6 +3015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it mixes font sizes or font styles, those mixed properties will remain the same as before.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T161153Z" creationid="manuel" creationdate="20180612T161153Z">
+        <seg>Se mischia le dimensioni dei caratteri o gli stili dei caratteri, quelle proprietà miste rimarranno le stesse di prima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If more than one language has been installed for LibreOffice, you can select which language will be used for menus, dialogs, and help files.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171527Z" creationid="manuel" creationdate="20180608T171527Z">
