@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any changes you make to a style are effective only in the current document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155906Z" creationid="manuel" creationdate="20180612T155906Z">
+        <seg>Ogni modifica apportata ad uno stile avrà effetto solo sul documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apostrophe</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113052Z" creationid="manuel" creationdate="20180609T113052Z">
@@ -1114,6 +1122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170001Z" creationid="manuel" creationdate="20180608T170001Z">
         <seg>Cambiare le impostazioni locali e della lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing a style using the Style dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155939Z" creationid="manuel" creationdate="20180612T155939Z">
+        <seg>Modifica di uno stile tramite la finestra di dialogo Stile</seg>
       </tuv>
     </tu>
     <tu>
@@ -4023,6 +4039,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Load or copy styles from another document or template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155901Z" creationid="manuel" creationdate="20180612T155901Z">
+        <seg>Caricamento o copia di stili da un altro documento o modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Load printer settings with the document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144135Z" creationid="manuel" creationdate="20180608T144135Z">
@@ -5543,6 +5567,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Style dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155957Z" creationid="manuel" creationdate="20180612T155957Z">
+        <seg>finestra di dialogo Stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Styles and Formatting window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160619Z" creationid="manuel" creationdate="20180611T160619Z">
@@ -6471,6 +6503,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change styles in more than one document, you need to change the template or copy the styles into the other documents as described on page &lt;bf0&gt;68&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155931Z" creationid="manuel" creationdate="20180612T155931Z">
+        <seg>Per cambiare gli stili in più documenti, è necessario modificare il modello, oppure copiare gli stili negli altri documenti, come descritto a pagina &lt;bf0&gt;68&lt;/bf0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the default colors for items, click the down-arrow in the &lt;f0&gt;Color Setting&lt;/f0&gt; column by the name of the item and select a color from the list box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T094148Z" creationid="manuel" creationdate="20180606T094148Z">
@@ -6771,6 +6811,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080341Z" creationid="manuel" creationdate="20180531T080341Z">
         <seg>Nella pagina &lt;i0/&gt;&lt;f1&gt;LibreOffice – Sicurezza&lt;/f1&gt; potete stabilire le opzioni di sicurezza per il salvataggio dei documenti e il caricamento di quei documenti che contengono macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use AutoUpdate (paragraph and frame styles only)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155847Z" creationid="manuel" creationdate="20180612T155847Z">
+        <seg>Uso dell'Aggiornamento Automatico (solo per gli stili di paragrafo e cornice)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7611,6 +7659,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T150104Z" creationid="manuel" creationdate="20180531T080256Z">
         <seg>vuota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>changing using Style dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155934Z" creationid="manuel" creationdate="20180612T155934Z">
+        <seg>modifica tramite la finestra di dialogo Stile</seg>
       </tuv>
     </tu>
     <tu>
