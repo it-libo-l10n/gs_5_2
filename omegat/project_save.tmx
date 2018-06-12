@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change a style using the Style dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155834Z" creationid="manuel" creationdate="20180612T155834Z">
+        <seg>Modifica di uno stile tramite la finestra di dialogo Stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change some &lt;i0/&gt;locale and language settings</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170123Z" creationid="manuel" creationdate="20180608T170123Z">
@@ -3907,6 +3915,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074051Z" creationid="manuel" creationdate="20180606T074051Z">
         <seg>LibreOffice non fornisce un metodo sicuro per l'archiviazione di questi certificati, ma può accedere ai certificati che sono stati salvati utilizzando altri programmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice includes predefined styles, but you can also create custom styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155729Z" creationid="manuel" creationdate="20180612T155729Z">
+        <seg>LibreOffice include stili predefiniti, ma potete anche creare degli stili personalizzati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6743,6 +6759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Update a style from a selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155840Z" creationid="manuel" creationdate="20180612T155840Z">
+        <seg>Aggiornamento di uno stile da una selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;i0/&gt;the &lt;f1&gt;LibreOffice – Security&lt;/f1&gt; page to choose security options for saving documents and for opening documents that contain macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080341Z" creationid="manuel" creationdate="20180531T080341Z">
@@ -7363,6 +7387,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190103Z" creationid="Marco Marega" creationdate="20180528T190103Z">
         <seg>Anche voi potete entrare a far parte della comunità e contribuire allo sviluppo del prodotto che utilizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify both types of styles in several ways:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155815Z" creationid="manuel" creationdate="20180612T155815Z">
+        <seg>Potete modificare entrambi i tipi di stili in diversi modi:</seg>
       </tuv>
     </tu>
     <tu>
