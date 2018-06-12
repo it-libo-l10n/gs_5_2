@@ -4191,6 +4191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modifying styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154358Z" creationid="manuel" creationdate="20180612T154358Z">
+        <seg>Modificare gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More details are given in the component guides.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141249Z" creationid="manuel" creationdate="20180609T141249Z">
@@ -6615,6 +6623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remove manual formatting, select the text, right-click, and choose &lt;f0&gt;Clear Direct Formatting&lt;/f0&gt; from the context menu, or select the text and press &lt;f1&gt;Ctrl+M&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154345Z" creationid="manuel" creationdate="20180612T154345Z">
+        <seg>Per rimuovere la formattazione manuale, selezionate il testo, fate clic con il pulsante destro, e scegliete &lt;f0&gt;Cancella la formattazione diretta&lt;/f0&gt; dal menu contestuale, oppure selezionate il testo e premete &lt;f1&gt;Ctrl+M&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To restart a slide show automatically after the last slide has been displayed:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
@@ -7843,6 +7859,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085533Z" creationid="manuel" creationdate="20180530T085533Z">
         <seg>funzione del tasto medio del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>modifying</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154349Z" creationid="manuel" creationdate="20180612T154349Z">
+        <seg>modifica</seg>
       </tuv>
     </tu>
     <tu>
