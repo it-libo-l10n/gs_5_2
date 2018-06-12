@@ -3127,6 +3127,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the AutoUpdate option is selected on the Organizer page of the Paragraph Style or Frame Style dialog, applying direct formatting to a paragraph or frame using this style in your document automatically updates the style itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162855Z" creationid="manuel" creationdate="20180612T162855Z">
+        <seg>Se l'opzione Aggiorna automaticamente è selezionata nella scheda Gestione, all'interno delle finestre di dialogo dello stile di paragrafo o dello stile di cornice, lo stile si aggiornerà automaticamente se si applica una formattazione diretta a un paragrafo o a una cornice usando tale stile nel vostro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Options dialog is not already open, click &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142648Z" creationid="manuel" creationdate="20180608T142648Z">
@@ -3235,6 +3243,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154059Z" creationid="manuel" creationdate="20180608T154059Z">
         <seg>Se state importando un file di Microsoft Word o Excel contenente codice VBA, potete selezionare l'opzione &lt;f0&gt;Codice eseguibile&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are in the habit of manually overriding styles in your document, be sure that AutoUpdate is &lt;f0&gt;not &lt;/f0&gt;enabled.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162903Z" creationid="manuel" creationdate="20180612T162903Z">
+        <seg>Se siete abituati a modificare manualmente gli stili nei vostri documenti, assicuratevi che l'Aggiornamento Automatico &lt;f0&gt;non&lt;/f0&gt; sia abilitato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6923,6 +6939,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160613Z" creationid="manuel" creationdate="20180612T160613Z">
         <seg>Aggiornamento di uno stile da una selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updating styles from a document or template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162926Z" creationid="manuel" creationdate="20180612T162926Z">
+        <seg>Aggiornamento di uno stile da un documento o da un modello</seg>
       </tuv>
     </tu>
     <tu>
