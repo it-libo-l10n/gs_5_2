@@ -5007,6 +5007,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;More&lt;/f0&gt; at the bottom of the Apply Style list to open the Styles and Formatting window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T153950Z" creationid="manuel" creationdate="20180612T153950Z">
+        <seg>Selezionate &lt;f0&gt;Altri stili...&lt;/f0&gt; nella parte bassa dell'elenco Applica Stile per aprire la finestra Stili e formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;View &gt; Styles and Formatting&lt;/f0&gt; or &lt;f1&gt;Styles &gt; Styles and Formatting&lt;/f1&gt; from the Menu bar, or press &lt;f2&gt;F11&lt;/f2&gt; (&lt;f3&gt;⌘+T &lt;/f3&gt;on a Mac), or click the Styles and Formatting tab in the Sidebar (&lt;f4&gt;View &gt; Sidebar&lt;/f4&gt; to open it).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161301Z" creationid="manuel" creationdate="20180611T161301Z">
