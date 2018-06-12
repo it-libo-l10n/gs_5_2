@@ -2319,10 +2319,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;46&lt;/seq0&gt;: The Styles and Formatting window for Writer, showing paragraph styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T134552Z" creationid="manuel" creationdate="20180612T134552Z">
+        <seg>Figura &lt;seq0&gt;46&lt;/seq0&gt;: la finestra Stili e Formattazione di Writer con gli stili di paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T134239Z" creationid="manuel" creationdate="20180611T161453Z">
         <seg>La Figura &lt;t0&gt;46&lt;/t0&gt; mostra la finestra Stili e Formattazione di Writer, in cui sono visibili gli Stili di paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fill Format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T134641Z" creationid="manuel" creationdate="20180612T134616Z">
+        <seg>Formato riempimento</seg>
       </tuv>
     </tu>
     <tu>
@@ -3441,8 +3457,8 @@
       <tuv lang="EN">
         <seg>In Figure &lt;t0&gt;46&lt;/t0&gt; the window shows &lt;f1&gt;Applied Styles&lt;/f1&gt;, meaning the list includes only the styles used in the document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T134232Z" creationid="manuel" creationdate="20180612T134232Z">
-        <seg>In Figura &lt;t0&gt;46&lt;/t0&gt; the window shows &lt;f1&gt;Applied Styles&lt;/f1&gt;, meaning the list includes only the styles used in the document.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T134444Z" creationid="manuel" creationdate="20180612T134232Z">
+        <seg>In Figura &lt;t0&gt;46&lt;/t0&gt; la finestra mostra &lt;f1&gt;Stili applicati&lt;/f1&gt;, signifca che la lista include solo gli stili usati nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6727,6 +6743,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Fill Format Mode</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T134556Z" creationid="manuel" creationdate="20180612T134556Z">
+        <seg>Uso del modo Riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Impress Remote control</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
@@ -7083,6 +7107,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T145335Z" creationid="manuel" creationdate="20180531T070244Z">
         <seg>Per indicare il vostro colore potete scegliere il sistema RGB (Red, Green, Blue - Rosso, Verde, Blu) oppure il sistema CMYK (Cyan, Magenta, Yellow, Black - Ciano, Magenta, Giallo, Nero).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can choose to show all styles or other groups of styles, for example only custom styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T134507Z" creationid="manuel" creationdate="20180612T134507Z">
+        <seg>È possibile visualizzare tutti gli stili oppure soltanto alcuni gruppi, ad esempio gli stili personalizzati (Stili utente).</seg>
       </tuv>
     </tu>
     <tu>
