@@ -7783,6 +7783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may want to add some new styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T173954Z" creationid="manuel" creationdate="20180612T173954Z">
+        <seg>Potete aggiungere nuovi stili a quelli esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You might prefer to specify a different font from the one that the program chooses.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072903Z" creationid="manuel" creationdate="20180531T072903Z">
