@@ -6801,8 +6801,8 @@
       <tuv lang="EN">
         <seg>To quit Fill Format mode, click the &lt;f0&gt;Fill Format Mode&lt;/f0&gt; button again or press the &lt;f1&gt;Esc&lt;/f1&gt; key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150532Z" creationid="manuel" creationdate="20180612T150532Z">
-        <seg>Per disattivare Applica lo stile paragrafo, fate di nuovo clic sul pulsante &lt;f0&gt;Applica lo stile paragrafo&lt;/f0&gt; oppure premete il tasto &lt;f1&gt;Esc&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173053Z" creationid="manuel" creationdate="20180612T150532Z">
+        <seg>Per disattivare Modo riempimento, fate di nuovo clic sul pulsante &lt;f0&gt;Modo riempimento&lt;/f0&gt; oppure premete il tasto &lt;f1&gt;Esc&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7337,8 +7337,8 @@
       <tuv lang="EN">
         <seg>When this mode is active, a right-click anywhere in the document undoes the last Fill Format action.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150947Z" creationid="manuel" creationdate="20180612T150913Z">
-        <seg>Se Applica lo stile paragrafo è attivo, è sufficiente fare clic con il pulsante destro del mouse in un punto qualsiasi del documento per annullare l'ultima operazione di appplicazione di stile eseguita.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173119Z" creationid="manuel" creationdate="20180612T150913Z">
+        <seg>Se il Modo riempimento è attivo, è sufficiente fare clic con il pulsante destro del mouse in un punto qualsiasi del documento per annullare l'ultima operazione di appplicazione di stile eseguita.</seg>
       </tuv>
     </tu>
     <tu>
