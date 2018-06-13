@@ -1719,6 +1719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a new style using the Style dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173510Z" creationid="manuel" creationdate="20180613T173510Z">
+        <seg>Creazione di un nuovo stile tramite la finestra di dialogo Stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl-click required to follow hyperlinks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084031Z" creationid="manuel" creationdate="20180606T084031Z">
@@ -7591,6 +7599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can do this by using either the Style dialog or the New Style from Selection tool.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173444Z" creationid="manuel" creationdate="20180613T173444Z">
+        <seg>Potete farlo usando entrambe o la finestra di dialogo Stili oppure dalla selezione strumenti Nuovo stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can enter a master password to enable easy access to websites that require a user name and password.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T071148Z" creationid="manuel" creationdate="20180606T071148Z">
@@ -7923,6 +7939,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T163531Z" creationid="manuel" creationdate="20180612T163531Z">
         <seg>creare nuovi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>creating using Style dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173447Z" creationid="manuel" creationdate="20180613T173447Z">
+        <seg>Creazione tramite la finestra di dialogo Stile</seg>
       </tuv>
     </tu>
     <tu>
