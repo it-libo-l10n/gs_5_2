@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2457,8 +2457,8 @@
       <tuv lang="EN">
         <seg>Fill Format</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T144642Z" creationid="manuel" creationdate="20180612T134616Z">
-        <seg>Applica lo stile paragrafo</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180613T172935Z" creationid="manuel" creationdate="20180612T134616Z">
+        <seg>Formato riempimento</seg>
       </tuv>
     </tu>
     <tu>
@@ -5297,8 +5297,8 @@
       <tuv lang="EN">
         <seg>Select the &lt;f0&gt;Fill Format Mode&lt;/f0&gt; button.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150147Z" creationid="manuel" creationdate="20180612T150147Z">
-        <seg>Fate clic sul pulsante &lt;f0&gt;Applica lo stile paragrafo&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173016Z" creationid="manuel" creationdate="20180612T150147Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Modo riempimento&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6985,8 +6985,8 @@
       <tuv lang="EN">
         <seg>Use Fill Format to apply a style to many different areas quickly without having to go back to the Styles and Formatting window and double-click every time.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T145956Z" creationid="manuel" creationdate="20180612T135946Z">
-        <seg>Potete utilizzare Applica lo stile paragrafo per applicare uno stile a più aree differenti velocemente senza dover ritornare alla finestra Stili e Formattazione e fare doppio clic ogni volta.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180613T172929Z" creationid="manuel" creationdate="20180612T135946Z">
+        <seg>Potete utilizzare Formato riempimento per applicare uno stile a più aree differenti velocemente senza dover ritornare alla finestra Stili e Formattazione e fare doppio clic ogni volta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7145,8 +7145,8 @@
       <tuv lang="EN">
         <seg>Using Fill Format Mode</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150832Z" creationid="manuel" creationdate="20180612T134556Z">
-        <seg>Uso di Applica lo stile paragrafo</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180613T172834Z" creationid="manuel" creationdate="20180612T134556Z">
+        <seg>Uso del modo Riempimento</seg>
       </tuv>
     </tu>
     <tu>
