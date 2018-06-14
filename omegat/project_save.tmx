@@ -2999,6 +2999,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Memory&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Load LibreOffice during system start-up&lt;/f1&gt; (if using Windows) or select &lt;f2&gt;Enable systray Quickstarter&lt;/f2&gt; (if using Linux).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T205447Z" creationid="Marco Marega" creationdate="20180614T205447Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Memoria&lt;/f0&gt; e selezionate &lt;f1&gt;Carica LibreOffice durante l'avvio del sistema&lt;/f1&gt; (se usate Windows) oppure selezionate &lt;f2&gt;Abilita Quickstart&lt;/f2&gt; (se usate Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;View &gt; Slide Sorter&lt;/f0&gt; on the Menu bar or click the Slide Sorter tab at the top of the Workspace.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
