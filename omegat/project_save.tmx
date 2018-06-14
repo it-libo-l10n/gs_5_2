@@ -1719,6 +1719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a new style from a selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064726Z" creationid="manuel" creationdate="20180614T064726Z">
+        <seg>Creazione di un nuovo stile da una selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a new style using the Style dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173510Z" creationid="manuel" creationdate="20180613T173510Z">
@@ -2659,6 +2667,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143754Z" creationid="manuel" creationdate="20180611T143754Z">
         <seg>È possibile, ad esempio, cambiare il rientro di tutti i paragrafi o modificare il tipo di carattere utilizzato per tutti i titoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you might name a modified Heading 1 style for an annual report &lt;f0&gt;AR Heading 1&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064651Z" creationid="manuel" creationdate="20180614T064651Z">
+        <seg>Ad esempio, potresti nominare uno stile Titolo 1 modificato per un rapporto annuale &lt;f0&gt; Titolo 1 AR &lt;/ f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6567,6 +6583,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This new style applies only to this document; it will not be saved in the template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064757Z" creationid="manuel" creationdate="20180614T064757Z">
+        <seg>Il nuovo stile viene applicato soltanto al documento attuale e non viene salvato nel modello di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option enables macro recording, with some limitations.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065855Z" creationid="manuel" creationdate="20180608T065855Z">
@@ -7639,6 +7663,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can create a new style by copying an existing manual format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064753Z" creationid="manuel" creationdate="20180614T064753Z">
+        <seg>È possibile creare un nuovo stile copiando un formato manuale esistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create a specific template for any document type (text, spreadsheet, drawing, presentation).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T113956Z" creationid="manuel" creationdate="20180611T113956Z">
@@ -8003,6 +8035,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072458Z" creationid="manuel" creationdate="20180609T072458Z">
         <seg>Disposizione testo complesso (CTL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>creating from selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064719Z" creationid="manuel" creationdate="20180614T064719Z">
+        <seg>creazione da una selezione</seg>
       </tuv>
     </tu>
     <tu>
