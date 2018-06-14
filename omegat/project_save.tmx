@@ -3767,6 +3767,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Styles and Formatting window, select on the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065059Z" creationid="manuel" creationdate="20180614T065059Z">
+        <seg>Nella finestra Stili e Formattazione, selezionate l'icona &lt;f0&gt;Nuovo stile dalla selezione&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Styles and Formatting window, select the style to update, then click on the arrow next to the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon and click &lt;f1&gt;Update Style&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162130Z" creationid="manuel" creationdate="20180612T162130Z">
@@ -3787,6 +3795,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160643Z" creationid="manuel" creationdate="20180612T160643Z">
         <seg>All'interno del documento corrente, selezionate l'elemento il cui formato verrà utilizzato come stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the document, select the item you want to save as a style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064845Z" creationid="manuel" creationdate="20180614T064845Z">
+        <seg>All'interno del documento corrente, selezionate l'elemento che volete salvare come stile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4763,6 +4779,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154730Z" creationid="luke" creationdate="20180514T154730Z">
         <seg>Open the Styles and Formatting window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Styles and Formatting window and choose the type of style you want to create.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064840Z" creationid="manuel" creationdate="20180614T064840Z">
+        <seg>Aprite la finestra Stili e Formattazione e scegliete lo stile che desiderate creare.</seg>
       </tuv>
     </tu>
     <tu>
