@@ -4401,8 +4401,8 @@
       <tuv lang="EN">
         <seg>Linux users will also find LibreOffice included in many of the latest Linux distributions; Ubuntu is just one example.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191244Z" creationid="Marco Marega" creationdate="20180528T191244Z">
-        <seg>Gli utenti Linux troveranno LibreOffice compreso in molte delle più recenti distribuzioni Linux; Ubuntu è solo un esempio.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204517Z" creationid="Marco Marega" creationdate="20180528T191244Z">
+        <seg>Gli utenti Linux troveranno LibreOffice compreso in molte delle più recenti distribuzioni; Ubuntu è solo un esempio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5873,8 +5873,8 @@
       <tuv lang="EN">
         <seg>Several extensions are installed with the program and you can get others from the official extensions repository, &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213426Z" creationid="Marco Marega" creationdate="20180531T213426Z">
-        <seg>Numerose estensioni vengono installate con il programma e altre sono disponibili nell'archivio ufficiale delle estensioni, &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204616Z" creationid="Marco Marega" creationdate="20180531T213426Z">
+        <seg>Numerose estensioni vengono installate con il programma e potete ottenerne delle altre dall'archivio ufficiale delle estensioni, &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
