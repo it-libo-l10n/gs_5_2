@@ -2575,6 +2575,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;52&lt;/seq0&gt;: Template&lt;f1&gt;s&lt;/f1&gt; dialog, showing a selected template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T112904Z" creationid="manuel" creationdate="20180614T112904Z">
+        <seg>Figura &lt;seq0&gt;52&lt;/seq0&gt;: finestra di dialogo &lt;f1&gt;dei&lt;/f1&gt; Modelli di documento, che mostra un modello selezionato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140320Z" creationid="manuel" creationdate="20180611T161453Z">
