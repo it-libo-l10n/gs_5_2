@@ -1919,6 +1919,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag a cell selection to the Styles and Formatting window to create a cell style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070544Z" creationid="manuel" creationdate="20180614T070544Z">
+        <seg>Trascinate nella finestra Stili e Formattazione la cella selezionata per creare uno stile di cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dragging and dropping to create a style</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065211Z" creationid="manuel" creationdate="20180614T065211Z">
@@ -3079,6 +3087,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Character Styles are active, the character style will be added to the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070445Z" creationid="manuel" creationdate="20180614T070445Z">
+        <seg>Se è attiva l'opzione Stili di carattere, lo stile dei caratteri compresi nella selezione verrà aggiunto all'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If LibreOffice Writer is selected, specific LibreOffice Writer instructions are exported.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160227Z" creationid="manuel" creationdate="20180608T160227Z">
@@ -3091,6 +3107,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105912Z" creationid="manuel" creationdate="20180606T105912Z">
         <seg>Se LibreOffice trova uno o più JRE, li mostrerà nella pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Paragraph Styles are active, the paragraph style will be added to the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070441Z" creationid="manuel" creationdate="20180614T070441Z">
+        <seg>Se è attiva l'opzione Stili di paragrafo, lo stile del paragrafo prescelto verrà aggiunto all'elenco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5399,6 +5423,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select some text and drag it to the Styles and Formatting window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070431Z" creationid="manuel" creationdate="20180614T070431Z">
+        <seg>Selezionate una porzione di testo e trascinatela nella finestra Stili e Formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select text, table, or object.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055200Z" creationid="manuel" creationdate="20180531T055200Z">
@@ -6219,6 +6251,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154209Z" creationid="manuel" creationdate="20180608T154209Z">
         <seg>Il documento verrà salvato senza il codice Microsoft Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The element to drag depends upon the LibreOffice application.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070417Z" creationid="manuel" creationdate="20180614T070417Z">
+        <seg>L'elemento da trascinare dipende dall'applicazione LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7771,6 +7811,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173444Z" creationid="manuel" creationdate="20180613T173444Z">
         <seg>Potete farlo usando entrambe o la finestra di dialogo Stili oppure dalla selezione strumenti Nuovo stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can drag and drop a selection into the Styles and Formatting window to create a new style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070357Z" creationid="manuel" creationdate="20180614T070357Z">
+        <seg>Potete trascinare una selezione nella finestra Stili e formattazione per creare un nuovo stile..</seg>
       </tuv>
     </tu>
     <tu>
