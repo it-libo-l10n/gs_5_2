@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3255,6 +3255,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you &lt;i0/&gt;link styles, then when you change the base style (for example, by changing the font from Times to Helvetica), all the linked styles will change as well.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063449Z" creationid="manuel" creationdate="20180614T063449Z">
+        <seg>Se &lt;i0/&gt;due stili sono collegati tra loro e si modifica lo stile di base (cambiando, ad esempio, il tipo di carattere da Times a Helvetica), verranno modificati anche tutti gli stili associati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are a system administrator, programmer, or other person who customizes JRE installations, you can use the Parameters and Class Path pages (reached from the Java page) to specify this information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105835Z" creationid="manuel" creationdate="20180606T105835Z">
@@ -3507,6 +3515,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085934Z" creationid="luke" creationdate="20180515T085934Z">
         <seg>If you want to edit this field in your slide, see the &lt;f1&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f1&gt; for more information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want your new style to be linked with an existing style, first select that style and then right-click and select &lt;f0&gt;New&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063429Z" creationid="manuel" creationdate="20180614T063429Z">
+        <seg>Se desiderate collegare il nuovo stile a uno esistente, selezionate quest'ultimo e quindi fate clic con il pulsante destro del mouse e scegliete la voce &lt;f0&gt;Nuovo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3899,6 +3915,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082405Z" creationid="manuel" creationdate="20180530T082405Z">
         <seg>Essa non è disponibile su Mac OS X o su sistemi dove il modulo Quickstarter non è installato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It pays to plan ahead.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063537Z" creationid="manuel" creationdate="20180614T063537Z">
+        <seg>È consigliabile valutare preventivamente l'opportunità di collegare gli stili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5663,6 +5687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes this is exactly what you want; other times you do not want the changes to apply to all the linked styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063530Z" creationid="manuel" creationdate="20180614T063530Z">
+        <seg>Alcune volte questo è esattamente quello che si desidera, ma è possibile che questo tipo di modifica non corrisponda sempre alle vostre intenzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spacing options for paragraphs before text tables</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143719Z" creationid="manuel" creationdate="20180608T143719Z">
@@ -5739,6 +5771,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145707Z" creationid="manuel" creationdate="20180611T145707Z">
         <seg>stili disponibili nei componenti di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063328Z" creationid="manuel" creationdate="20180614T063328Z">
+        <seg>finestra di dialogo Stile</seg>
       </tuv>
     </tu>
     <tu>
@@ -6083,6 +6123,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T080825Z" creationid="manuel" creationdate="20180609T080825Z">
         <seg>La localizzazione predefinita è basata su quella del sistema operativo del computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialogs and choices are the same for defining new styles and for modifying existing styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063548Z" creationid="manuel" creationdate="20180614T063548Z">
+        <seg>Le finestre di dialogo e le opzioni disponibili sono le medesime utilizzate per definire i nuovi stili e modificare quelli esistenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6707,6 +6755,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085920Z" creationid="luke" creationdate="20180515T085920Z">
         <seg>To create a header, you can use a text box as explained in “&lt;bf0&gt;Text&lt;/bf0&gt;” on page &lt;bf1&gt;181&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a new style using &lt;i0/&gt;the Style dialog, right-click in the Styles and Formatting window and select &lt;f1&gt;New&lt;/f1&gt; from the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063414Z" creationid="manuel" creationdate="20180614T063414Z">
+        <seg>Per creare un nuovo stile utilizzando la &lt;i0/&gt;finestra di dialogo Stile, fate clic con il pulsante destro del mouse all'interno della finestra Stili e Formattazione e quindi selezionate &lt;f1&gt;Nuovo&lt;/f1&gt; dal menu a comparsa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8147,6 +8203,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165947Z" creationid="manuel" creationdate="20180608T165947Z">
         <seg>impostazioni della lingua &lt;s0/&gt;51</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>linking</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063438Z" creationid="manuel" creationdate="20180614T063438Z">
+        <seg>collegamento</seg>
       </tuv>
     </tu>
     <tu>
