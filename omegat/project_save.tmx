@@ -160,8 +160,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel,” making them easy to use and master.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212724Z" creationid="Marco Marega" creationdate="20180527T212724Z">
-        <seg>&lt;f0&gt;Interfaccia utente condivisa.&lt;/f0&gt; L'interfaccia utente semplice ed intuitiva comune a tutti i componenti rende il loro utilizzo semplice da apprendere e padroneggiare.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203823Z" creationid="Marco Marega" creationdate="20180527T212724Z">
+        <seg>&lt;f0&gt;Interfaccia utente condivisa.&lt;/f0&gt; Tutti i componenti hanno uno stile dell'interfaccia simile, che li rende facili da usare e padroneggiare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -368,8 +368,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Open source.&lt;/f0&gt; You can distribute, copy, and modify the software as much as you wish, in accordance with the LibreOffice Open Source licenses.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212159Z" creationid="Marco Marega" creationdate="20180527T212159Z">
-        <seg>&lt;f0&gt;Open source.&lt;/f0&gt;Grazie alle licenze Open Source di LibreOffice è possibile distribuire, copiare e modificare il software come si desidera.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203514Z" creationid="Marco Marega" creationdate="20180527T212159Z">
+        <seg>&lt;f0&gt;Open source.&lt;/f0&gt; Nel rispetto delle licenze Open Source di LibreOffice potete distribuire, copiare e modificare il software come desiderate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4265,8 +4265,8 @@
       <tuv lang="EN">
         <seg>LibreOffice also provides support for both Complex Text Layout (CTL) and Right to Left (RTL) layout languages (such as Urdu, Hebrew, and Arabic).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212633Z" creationid="Marco Marega" creationdate="20180527T212633Z">
-        <seg>LibreOffice offre anche supporto sia per le lingue con disposizione di testo complesso (CTL) sia per lingue con scrittura da destra a sinistra (RTL), quali Urdu, Ebraico e Arabo.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203646Z" creationid="Marco Marega" creationdate="20180527T212633Z">
+        <seg>LibreOffice inoltre offre supporto sia per le lingue con disposizione di testo complesso (CTL), che per le lingue con scrittura da destra a sinistra (RTL), quali Urdu, Ebraico e Arabo.</seg>
       </tuv>
     </tu>
     <tu>
