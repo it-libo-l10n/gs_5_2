@@ -1751,6 +1751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a document from the Template&lt;f0&gt;s&lt;/f0&gt; dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090505Z" creationid="manuel" creationdate="20180614T090505Z">
+        <seg>Creazione di un documento dalla finestra di dialogo &lt;f0&gt;Modello&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a new style from a selection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064726Z" creationid="manuel" creationdate="20180614T064726Z">
@@ -1883,6 +1891,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085556Z" creationid="manuel" creationdate="20180530T085556Z">
         <seg>Definisce la funzione del &lt;i0/&gt;tasto medio del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084746Z" creationid="manuel" creationdate="20180614T084746Z">
+        <seg>Eliminare gli stili</seg>
       </tuv>
     </tu>
     <tu>
@@ -2523,6 +2539,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065200Z" creationid="manuel" creationdate="20180614T065200Z">
         <seg>Figura &lt;seq0&gt;50&lt;/seq0&gt;: assegnazione di un nome ad un nuovo stile creato da una selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;51&lt;/seq0&gt;: Copying styles from a template into the open document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084337Z" creationid="manuel" creationdate="20180614T084337Z">
+        <seg>Figura &lt;seq0&gt;51&lt;/seq0&gt;: Copiare stili da un modello in un documento aperto</seg>
       </tuv>
     </tu>
     <tu>
@@ -3295,6 +3319,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the style is in use, you receive a warning message asking you to confirm deletion.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T085732Z" creationid="manuel" creationdate="20180614T085410Z">
+        <seg>Se lo stile selezionato è attualmente in uso, apparirà un messaggio che vi chiede conferma di eliminazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the style is not in use, it is deleted immediately without confirmation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T085426Z" creationid="manuel" creationdate="20180614T085339Z">
+        <seg>Se lo stile selezionato non è in uso, verrà eliminato immediatamente senza chiedere conferma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the text in the help files or on the menus of the LibreOffice user interface is too small or too large, you can change it by specifying a scaling factor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084104Z" creationid="manuel" creationdate="20180530T084104Z">
@@ -3435,6 +3475,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144731Z" creationid="manuel" creationdate="20180608T144731Z">
         <seg>Se scegliete di salvare in modo relativo, i riferimenti a immagini o altri oggetti incorporati nel documento verranno salvati relativamente alla posizione nel file system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you delete a style that is in use, all objects with that style will return to the default style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T085858Z" creationid="manuel" creationdate="20180614T085858Z">
+        <seg>Se elimini uno stile che è in uso, tutti gli oggetti con quello stile torneranno allo stile predefinito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3627,6 +3675,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063429Z" creationid="manuel" creationdate="20180614T063429Z">
         <seg>Se desiderate collegare il nuovo stile a uno esistente, selezionate quest'ultimo e quindi fate clic con il pulsante destro del mouse e scegliete la voce &lt;f0&gt;Nuovo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your document has a table of contents, and if you have used custom styles for headings, the heading levels associated with outline levels in &lt;f0&gt;Tools &gt; Outline Numbering&lt;/f0&gt; will revert to the defaults of Heading 1, Heading 2, and so on when you load Text Styles from a file that does not use the same custom styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084731Z" creationid="manuel" creationdate="20180614T084731Z">
+        <seg>Se il vostro documento ha un indice, e se avete utilizzato stili personalizzati per le intestazioni, i livelli di intestazione associati con livelli struttura (in &lt;f0&gt;Strumenti &gt; Numerazione capitolo&lt;/f0&gt;) torneranno alle impostazioni predefinite dell'Intestazione 1, Intestazione 2, e così via quando caricate stili di testo da un file che non usa la stessa personalizzazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6991,6 +7047,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To delete any unwanted styles, in the Styles and Formatting window select each one to be deleted (hold &lt;f0&gt;Ctrl&lt;/f0&gt; while selecting multiple styles), and then right-click on a selected style and select &lt;f1&gt;Delete&lt;/f1&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T085233Z" creationid="manuel" creationdate="20180614T085233Z">
+        <seg>Per eliminare gli stili indesiderati, nella finestra Stili e formattazione selezionate tutti quelli da eliminare (tenete premuto &lt;f0&gt;Ctrl&lt;/f0&gt; mentre selezionate più stili), quindi fate clic con il pulsante destro del mouse su uno stile selezionato e selezionate &lt;f1&gt;Elimina&lt;/f1&gt; nel menu di scelta rapida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To display or hide toolbars, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, then click on the name of a toolbar from the drop-down list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T082602Z" creationid="luke" creationdate="20180515T082602Z">
@@ -7163,6 +7227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160620Z" creationid="manuel" creationdate="20180612T160620Z">
         <seg>Per aggiornare uno stile a partire da una selezione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use a template to create a document:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090516Z" creationid="manuel" creationdate="20180614T090516Z">
+        <seg>Usare un modello per creare un documento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7451,6 +7523,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112020Z" creationid="manuel" creationdate="20180611T112020Z">
         <seg>Uso di Stili e Modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using a template to &lt;i0/&gt;&lt;i1/&gt;create a &lt;i2/&gt;document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090154Z" creationid="manuel" creationdate="20180614T090154Z">
+        <seg>Usare un modello per &lt;i0/&gt;&lt;i1/&gt;creare un &lt;i2/&gt;documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -7975,6 +8055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can remove any user-defined (custom) styles; but before you do, you should make sure the styles are not in use in the current document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084946Z" creationid="manuel" creationdate="20180614T084946Z">
+        <seg>Potete eliminare gli stili personalizzati; ma prima di farlo, occorre verificare che lo stile da rimuovere non sia in uso nel documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can retrieve the passwords from the list after you enter the master password.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T072840Z" creationid="manuel" creationdate="20180606T072840Z">
@@ -8079,6 +8167,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You cannot remove (delete) any of LibreOffice’s predefined styles from a document or template, even if they are not in use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T085002Z" creationid="manuel" creationdate="20180614T084824Z">
+        <seg>Non potete rimuovere da un documento o da un modello nessuno degli stili di formattazione predefiniti di LibreOffice, nemmeno se inutilizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You do not need to know which application was used to create a particular file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184821Z" creationid="Marco Marega" creationdate="20180528T184821Z">
@@ -8131,6 +8227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154707Z" creationid="luke" creationdate="20180514T154707Z">
         <seg>You should be able to download &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;o&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;ther&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt; icon set&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;s&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt; from the software repository for your Linux &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;distribution &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;if you wish to use them&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;.&lt;/f32&gt;&lt;/f31&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will need to change these back to your custom heading styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084739Z" creationid="manuel" creationdate="20180614T084739Z">
+        <seg>Dovrete modificarli nuovamente per ritornare ai vostri stili di intestazione personalizzati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8239,6 +8343,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>create document from</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090044Z" creationid="manuel" creationdate="20180614T090044Z">
+        <seg>creazione di un documento a partire da un</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>create document from template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090054Z" creationid="manuel" creationdate="20180614T090054Z">
+        <seg>Creazione di un documento a partire da un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>create from template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090146Z" creationid="manuel" creationdate="20180614T090146Z">
+        <seg>Creazione da modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>creating by dragging and dropping</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065203Z" creationid="manuel" creationdate="20180614T065203Z">
@@ -8295,6 +8423,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>deleting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084742Z" creationid="manuel" creationdate="20180614T084742Z">
+        <seg>eliminare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>description</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112126Z" creationid="manuel" creationdate="20180611T112126Z">
@@ -8307,6 +8443,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170007Z" creationid="manuel" creationdate="20180608T170007Z">
         <seg>dizionari, installazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090148Z" creationid="manuel" creationdate="20180614T090148Z">
+        <seg>documento</seg>
       </tuv>
     </tu>
     <tu>
