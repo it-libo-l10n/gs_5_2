@@ -1711,6 +1711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copying styles from a template or document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070824Z" creationid="manuel" creationdate="20180614T070824Z">
+        <seg>Copia di stili da un modello o documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072735Z" creationid="luke" creationdate="20180515T072735Z">
@@ -4863,6 +4871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the document you want to copy styles into.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070940Z" creationid="manuel" creationdate="20180614T070940Z">
+        <seg>Aprite il documento in cui desiderate copiare gli stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open/Save Dialogs&lt;ie0/&gt; – Use LibreOffice dialogs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060554Z" creationid="manuel" creationdate="20180529T060554Z">
@@ -5379,6 +5395,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072456Z" creationid="luke" creationdate="20180515T072456Z">
         <seg>Select an object with a single click.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select and drag a drawing object to the Styles and Formatting window to create a graphic style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070800Z" creationid="manuel" creationdate="20180614T070800Z">
+        <seg>Selezionate l'oggetto grafico desiderato e trascinatelo sulla finestra Stili e Formattazione per creare un nuovo stile grafico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7763,6 +7787,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090027Z" creationid="luke" creationdate="20180515T090027Z">
         <seg>You can configure the slide transition from the Slide Transition section in the Tasks Pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can copy styles into a document by loading them from a template or from another document:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070935Z" creationid="manuel" creationdate="20180614T070935Z">
+        <seg>Potete copiare gli stili di formattazione caricandoli da un modello o da un altro documento:</seg>
       </tuv>
     </tu>
     <tu>
