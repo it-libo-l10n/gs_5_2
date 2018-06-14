@@ -5295,6 +5295,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quickstarter is then available at all times, whether LibreOffice is open or not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T210017Z" creationid="Marco Marega" creationdate="20180614T210017Z">
+        <seg>Quindi Quickstart è sempre disponibile, sia che LibreOffice risulti aperto oppure no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quotation marks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T110614Z" creationid="manuel" creationdate="20180609T110614Z">
@@ -5379,6 +5387,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
         <seg>Right-click anywhere on the screen to open a context menu where you can navigate through the slides and set other options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click the &lt;f0&gt;Quickstarter&lt;/f0&gt; icon in the system tray to open a pop-up menu (Figure &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T210305Z" creationid="Marco Marega" creationdate="20180614T210305Z">
+        <seg>Fare clic con il pulsante destro del mouse sull'icona di &lt;f0&gt;Quickstart&lt;/f0&gt; nell'area di notifica in modo da aprire il menu a comparsa (Figura &lt;t1&gt;3&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7315,6 +7331,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T094108Z" creationid="manuel" creationdate="20180606T094108Z">
         <seg>Per mostrare o nascondere elementi come &lt;i0/&gt;i margini di testo, selezionate o deselezionate le opzioni vicine ai nomi degli elementi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start a LibreOffice component directly by using Quickstarter:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T210102Z" creationid="Marco Marega" creationdate="20180614T210102Z">
+        <seg>Per avviare direttamente un componente di LibreOffice usando Quickstart:</seg>
       </tuv>
     </tu>
     <tu>
