@@ -2855,6 +2855,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the &lt;f0&gt;listbox&lt;/f0&gt; at the top of the dialog, select the category of template you want to use.All the templates contained in that folder are listed on the page (as shown in Figure &lt;t1&gt;52&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T091259Z" creationid="manuel" creationdate="20180614T091259Z">
+        <seg>Dalla &lt;f0&gt;casella di riepilogo&lt;/f0&gt; nella parte superiore della finestra di dialogo, selezionate la categoria di modello che desiderate utilizzare. Tutti i modelli contenuti in quella cartella sono elencati nella pagina (come mostrato nella Figura &lt;t1&gt;52&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From the Menu bar, choose &lt;f0&gt;File &gt; New &gt; Templates&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090643Z" creationid="manuel" creationdate="20180614T090643Z">
@@ -5659,6 +5667,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085942Z" creationid="luke" creationdate="20180515T085942Z">
         <seg>Select the number of images per slide in the &lt;f0&gt;Slide layout&lt;/f0&gt; list box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the required template &lt;f0&gt;and click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, or double-click on the selected template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T091446Z" creationid="manuel" creationdate="20180614T091446Z">
+        <seg>Selezionate il modello richiesto &lt;f0&gt;e fate clic su&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, o fate doppio clic sul modello selezionato.</seg>
       </tuv>
     </tu>
     <tu>
