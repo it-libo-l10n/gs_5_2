@@ -1414,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the new style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065155Z" creationid="manuel" creationdate="20180614T065155Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvare il nuovo stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; when you have finished.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090035Z" creationid="luke" creationdate="20180515T090035Z">
@@ -1907,6 +1915,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071032Z" creationid="manuel" creationdate="20180608T071032Z">
         <seg>Fate doppio clic su una preferenza elencata per inserire un valore per configurare la preferenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dragging and dropping to create a style</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065211Z" creationid="manuel" creationdate="20180614T065211Z">
+        <seg>Creazione di uno stile mediante trascinamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -2467,6 +2483,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162408Z" creationid="manuel" creationdate="20180612T162408Z">
         <seg>Figura &lt;seq0&gt;49&lt;/seq0&gt;: modifica uno stile dalla lista Applica stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;50&lt;/seq0&gt;: Naming a new style created from a selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065200Z" creationid="manuel" creationdate="20180614T065200Z">
+        <seg>Figura &lt;seq0&gt;50&lt;/seq0&gt;: assegnazione di un nome ad un nuovo stile creato da una selezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3755,6 +3779,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T082245Z" creationid="manuel" creationdate="20180609T082245Z">
         <seg>Nella sezione &lt;f1&gt;Opzioni&lt;/f1&gt; della pagina (Figura &lt;t2&gt;42&lt;/t2&gt;), scegliete le impostazioni che ritenete utili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Create Style dialog, type a name for the new style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065144Z" creationid="manuel" creationdate="20180614T065144Z">
+        <seg>Nella finestra di dialogo Crea stile, digitate un nome per il nuovo stile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6311,6 +6343,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The list shows the names of existing custom styles of the selected type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065149Z" creationid="manuel" creationdate="20180614T065149Z">
+        <seg>L'elenco mostra i nomi degli stili personalizzati esistenti per la tipologia selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The local setting is the basis for many other settings within LibreOffice, for example defaults for numbering, currency, and units of measure.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171609Z" creationid="manuel" creationdate="20180608T171609Z">
@@ -8059,6 +8099,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072458Z" creationid="manuel" creationdate="20180609T072458Z">
         <seg>Disposizione testo complesso (CTL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>creating by dragging and dropping</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065203Z" creationid="manuel" creationdate="20180614T065203Z">
+        <seg>creazione tramite trascinamento</seg>
       </tuv>
     </tu>
     <tu>
