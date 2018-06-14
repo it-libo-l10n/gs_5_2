@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f7&gt;The Template&lt;f8&gt;s&lt;/f8&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T091010Z" creationid="manuel" creationdate="20180614T091010Z">
+        <seg>&lt;/f7&gt;Si apre la finestra&lt;f8&gt;&lt;/f8&gt; di dialogo Modelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;(Not shown in illustration.)&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141927Z" creationid="manuel" creationdate="20180529T070022Z">
@@ -426,6 +434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T063553Z" creationid="manuel" creationdate="20180609T063553Z">
         <seg>&lt;f1&gt;La localizzazione&lt;/f1&gt; definisce anche l'espressione standard delle date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;You can also click on the small arrow next to the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;New&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; icon and select &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Templates&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090913Z" creationid="manuel" creationdate="20180614T090913Z">
+        <seg>&lt;f1&gt;Potete anche fare clic sulla piccola freccia accanto all'icona &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Nuovo&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; e selezionate &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Modelli&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
