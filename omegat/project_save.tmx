@@ -1616,8 +1616,8 @@
       <tuv lang="EN">
         <seg>Clicking on the LibreOffice menu entry, desktop icon, or tile opens the LibreOffice Start Center (Figure &lt;t0&gt;2&lt;/t0&gt;) from where you can select the individual components of LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T214616Z" creationid="Marco Marega" creationdate="20180531T214616Z">
-        <seg>Nel menu, facendo clic sulla voce LibreOffice, sull'icona sul desktop, si apre il Centro di Avvio di LibreOffice (Figura &lt;t0&gt;2&lt;/t0&gt;), da dove è possibile selezionare i singoli componenti di LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204736Z" creationid="Marco Marega" creationdate="20180531T214616Z">
+        <seg>Nel menu, facendo clic sulla voce LibreOffice, sull'icona sul desktop, si apre il Centro di Avvio di LibreOffice (Figura &lt;t0&gt;2&lt;/t0&gt;), da dove potete selezionare i singoli componenti di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5073,8 +5073,8 @@
       <tuv lang="EN">
         <seg>Opening an existing document before starting LibreOffice</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T214752Z" creationid="Marco Marega" creationdate="20180531T214752Z">
-        <seg>Apertura di un documento esistente prima di avviare LibreOffice</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204800Z" creationid="Marco Marega" creationdate="20180531T214752Z">
+        <seg>Aprire un documento esistente prima di avviare LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -7961,8 +7961,8 @@
       <tuv lang="EN">
         <seg>You can also select to open an existing file or use a template.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T214716Z" creationid="Marco Marega" creationdate="20180531T214716Z">
-        <seg>Inoltre è possibile aprire un documento esistente o usare un modello di documento.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204750Z" creationid="Marco Marega" creationdate="20180531T214716Z">
+        <seg>Inoltre potete aprire un documento esistente o usare un modello di documento.</seg>
       </tuv>
     </tu>
     <tu>
