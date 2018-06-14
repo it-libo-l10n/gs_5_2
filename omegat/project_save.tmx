@@ -656,8 +656,8 @@
       <tuv lang="EN">
         <seg>Advantages of LibreOffice</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211728Z" creationid="Marco Marega" creationdate="20180527T211728Z">
-        <seg>Vantaggi di LibreOffice 19</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203232Z" creationid="Marco Marega" creationdate="20180527T211728Z">
+        <seg>Vantaggi di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -4489,8 +4489,8 @@
       <tuv lang="EN">
         <seg>Many features that are available as extra cost add-ins in other office suites (like PDF export) are free with LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212034Z" creationid="Marco Marega" creationdate="20180527T212034Z">
-        <seg>Molte caratteristiche, che in altre suite per ufficio sono disponibili come pacchetti aggiuntivi a pagamento (come l'esportazione in formato PDF), in LibreOffice sono invece disponibili gratuitamente.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203407Z" creationid="Marco Marega" creationdate="20180527T212034Z">
+        <seg>Molte caratteristiche, che in altre suite per ufficio sono disponibili come pacchetti aggiuntivi a pagamento (come l'esportazione in formato PDF), in LibreOffice sono liberamente disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8145,8 +8145,8 @@
       <tuv lang="EN">
         <seg>You can save formulas in the standard Mathematical Markup Language (MathML) format for inclusion in web pages and other documents not created by LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211712Z" creationid="Marco Marega" creationdate="20180527T211712Z">
-        <seg>Con Math è possibile salvare le formule nel formato standard Mathematical Markup Language (MathML) e inserirle in pagine web e altri documenti non creati da LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203215Z" creationid="Marco Marega" creationdate="20180527T211712Z">
+        <seg>Con Math potete salvare le formule nel formato standard Mathematical Markup Language (MathML) per inserirle in pagine web e altri documenti non creati da LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
