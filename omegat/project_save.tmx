@@ -1096,8 +1096,8 @@
       <tuv lang="EN">
         <seg>Calc has all of the advanced analysis, charting, and decision making features expected from a high-end spreadsheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200527Z" creationid="Marco Marega" creationdate="20180527T200527Z">
-        <seg>Calc dispone di tutte le funzionalità avanzate per l'analisi, la creazione di diagrammi e di supporto a scelte decisionali che ci si attende da un programma di calcolo di alto livello.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201808Z" creationid="Marco Marega" creationdate="20180527T200527Z">
+        <seg>Calc dispone di tutte le funzionalità avanzate di analisi, di creazione di diagrammi e di supporto decisionale che ci si attende da foglio elettronico di alto livello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4089,8 +4089,8 @@
       <tuv lang="EN">
         <seg>It also connects to your email client.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200322Z" creationid="Marco Marega" creationdate="20180527T200322Z">
-        <seg>Permette inoltre di collegarsi al vostro client di posta elettronica.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201505Z" creationid="Marco Marega" creationdate="20180527T200322Z">
+        <seg>Può inoltre di collegarsi al vostro client di posta elettronica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7881,8 +7881,8 @@
       <tuv lang="EN">
         <seg>Writer can export files to HTML, XHTML, XML, Adobe Portable Document Format (PDF), and several versions of Microsoft Word files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200309Z" creationid="Marco Marega" creationdate="20180527T200309Z">
-        <seg>Con Writer è possibile esportare file nei formati HTML, XHTML, XML, Adobe Portable Document Format (PDF) e Microsoft Word di diverse versioni.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201439Z" creationid="Marco Marega" creationdate="20180527T200309Z">
+        <seg>Writer può esportare file nei formati HTML, XHTML, XML, Adobe Portable Document Format (PDF) e in diverse versioni di file di Microsoft Word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8081,8 +8081,8 @@
       <tuv lang="EN">
         <seg>You can insert graphics and objects from other components into Writer documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200137Z" creationid="Marco Marega" creationdate="20180527T200137Z">
-        <seg>Nei documenti di Writer è possibile inserire grafici e oggetti provenienti da altri componenti.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201335Z" creationid="Marco Marega" creationdate="20180527T200137Z">
+        <seg>Nei documenti di Writer potete inserire grafici e oggetti provenienti da altri componenti.</seg>
       </tuv>
     </tu>
     <tu>
