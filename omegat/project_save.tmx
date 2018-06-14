@@ -6383,6 +6383,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The connection between the template and the document remains until the template is modified and, the next time that the document is opened, you choose not to update it to match the template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T112625Z" creationid="manuel" creationdate="20180614T112625Z">
+        <seg>La connessione tra il modello e il documento rimane fino a quando il modello non viene modificato e, la prossima volta che si apre il documento, scegliete di non aggiornarlo per far corrispondere il modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The connection between your mobile device and the computer running your presentation is made through a Bluetooth pairing or a local network connection between the two.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090042Z" creationid="luke" creationdate="20180515T090042Z">
@@ -6683,6 +6691,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135319Z" creationid="manuel" creationdate="20180609T135319Z">
         <seg>La lista di regole disponibili per questi controlli dipende dalla lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The template the document is based upon is listed in &lt;f0&gt;File &gt; Properties &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T112524Z" creationid="manuel" creationdate="20180614T112524Z">
+        <seg>Il modello su cui si basa il documento è elencato in &lt;f0&gt;File&gt; Proprietà&gt; Generale&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
