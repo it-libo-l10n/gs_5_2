@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4193,8 +4193,8 @@
       <tuv lang="EN">
         <seg>Its native file format is Open Document Format (ODF), an open standard format that is being adopted by governments worldwide as a required file format for publishing and accepting documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T195848Z" creationid="Marco Marega" creationdate="20180527T195848Z">
-        <seg>Il suo formato file nativo è OpenDocument (ODF), un formato standard aperto che è in corso di adozione da parte di autorità governative di tutto il mondo come formato di file richiesto per la pubblicazione e accettazione dei documenti.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201201Z" creationid="Marco Marega" creationdate="20180527T195848Z">
+        <seg>Il suo formato file nativo è l'Open Document (ODF), uno standard aperto adottato da numerose autorità governative di tutto il mondo come formato di file richiesto per la pubblicazione e l'accettazione dei documenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4329,8 +4329,8 @@
       <tuv lang="EN">
         <seg>LibreOffice is a freely available, fully-featured office productivity suite.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T195643Z" creationid="luke" creationdate="20180515T085911Z">
-        <seg>LibreOffice è una suite gratuita di produttività per ufficio, completa di tutte le funzioni.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T200832Z" creationid="luke" creationdate="20180515T085911Z">
+        <seg>LibreOffice è una suite di produttività per ufficio libera e completa di tutte le funzioni.</seg>
       </tuv>
     </tu>
     <tu>
