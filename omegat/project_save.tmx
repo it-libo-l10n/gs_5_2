@@ -2839,6 +2839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the Menu bar, choose &lt;f0&gt;File &gt; New &gt; Templates&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090643Z" creationid="manuel" creationdate="20180614T090643Z">
+        <seg>Dalla barra dei menu, selezionate &lt;f0&gt;File&gt; Nuovo&gt; Modelli&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Function</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091954Z" creationid="manuel" creationdate="20180530T091954Z">
