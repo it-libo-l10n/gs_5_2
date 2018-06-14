@@ -3055,6 +3055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a document needs custom styles derived from base styles, consider prefixing the name of the custom styles with a few characters to highlight them among other styles in the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064454Z" creationid="manuel" creationdate="20180614T064454Z">
+        <seg>Se un documento richiede stili personalizzati derivati da stili di base, prendere in considerazione il prefisso del nome degli stili personalizzati con alcuni caratteri per evidenziarli tra gli altri stili nell'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If both options are selected and you edit the disabled code in LibreOffice, the original Microsoft Basic code will be saved when saving in a Microsoft Office format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154154Z" creationid="manuel" creationdate="20180608T154154Z">
