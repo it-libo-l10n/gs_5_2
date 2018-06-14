@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close and restart LibreOffice to have Quickstarter appear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T205521Z" creationid="Marco Marega" creationdate="20180614T205521Z">
+        <seg>Chiudete e riavviate LibreOffice per far apparire Quickstart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Closes the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154724Z" creationid="luke" creationdate="20180514T154724Z">
@@ -7595,6 +7603,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
         <seg>Using Impress Remote control</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Quickstarter on Windows or Linux</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T205539Z" creationid="Marco Marega" creationdate="20180614T205539Z">
+        <seg>Usare Quickstart su Windows o Linux</seg>
       </tuv>
     </tu>
     <tu>
