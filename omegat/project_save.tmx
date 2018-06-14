@@ -1534,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f1&gt;From File&lt;/f1&gt; button to open a window from which to select the required document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071425Z" creationid="manuel" creationdate="20180614T071425Z">
+        <seg>Fate clic sul pulsante &lt;f1&gt;Da file&lt;/f1&gt; per aprire una finestra dalla quale selezionare il documento richiesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the expansion symbol (+ or triangle) to the left of &lt;f1&gt;Load/Save&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142712Z" creationid="manuel" creationdate="20180608T142712Z">
@@ -4791,6 +4799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Load Styles dialog (Figure &lt;t0&gt;51&lt;/t0&gt;), find either a template or an ordinary document from which to copy styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071336Z" creationid="manuel" creationdate="20180614T071336Z">
+        <seg>Nella finestra di dialogo Carica stili (Figura &lt;t0&gt;51&lt;/t0&gt;), trovate un modello o un documento ordinario da cui copiare gli stili di formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Select Path dialog (not shown; may also be titled Edit Paths), add or delete folders as required, and then click &lt;f2&gt;OK&lt;/f2&gt; to return to the Options dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070119Z" creationid="manuel" creationdate="20180531T070119Z">
@@ -5555,6 +5571,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085954Z" creationid="luke" creationdate="20180515T085954Z">
         <seg>Select the slides you want to use in your custom slide show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the types of styles to copy from the checkboxes at the bottom of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071518Z" creationid="manuel" creationdate="20180614T071518Z">
+        <seg>Selezionate i tipi di stili da copiare dalle caselle di controllo nella parte inferiore della finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
