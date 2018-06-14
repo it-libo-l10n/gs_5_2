@@ -7833,8 +7833,8 @@
       <tuv lang="EN">
         <seg>While it is most commonly used &lt;t0/&gt;to create formulas in other documents, such as Writer and Impress files, Math can also work as a standalone tool.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211644Z" creationid="Marco Marega" creationdate="20180527T211452Z">
-        <seg>Nonostante normalmente venga usato &lt;t0/&gt;per creare formule in altri documenti, come file di Writer e Impress, Math è utilizzabile anche come strumento indipendente.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203140Z" creationid="Marco Marega" creationdate="20180527T211452Z">
+        <seg>Nonostante di solito venga usato &lt;t0/&gt;per creare formule in altri documenti, come nei file di Writer e Impress, Math è utilizzabile anche come strumento indipendente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8209,8 +8209,8 @@
       <tuv lang="EN">
         <seg>You can use it to create complex equations that include symbols or characters not available in standard font sets.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211320Z" creationid="Marco Marega" creationdate="20180527T211320Z">
-        <seg>Può essere usato per creare equazioni complesse contenenti simboli o caratteri non disponibili nelle serie di caratteri standard.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T202956Z" creationid="Marco Marega" creationdate="20180527T211320Z">
+        <seg>Potete usarlo per creare equazioni complesse contenenti simboli o caratteri non disponibili nell'insieme di caratteri standard.</seg>
       </tuv>
     </tu>
     <tu>
