@@ -2159,6 +2159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displaying different headers on right and left pages</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171412Z" creationid="manuel" creationdate="20180615T171412Z">
+        <seg>Visualizzare intestazioni differenti nelle pagine destre e sinistre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Document elements like the date, subject line (business fax), salutation, and complimentary close</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121221Z" creationid="manuel" creationdate="20180615T121221Z">
@@ -3899,6 +3907,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141704Z" creationid="manuel" creationdate="20180529T055138Z">
         <seg>Se state utilizzando una versione di LibreOffice diversa da quella italiana (IT Italiano), alcune etichette dei campi potrebbero essere diverse da quelle mostrate nelle illustrazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you choose &lt;f0&gt;Keep Old Styles&lt;/f0&gt;, the document is no longer connected to the template, even though the template is still listed under &lt;f1&gt;File &gt; Properties &gt; General.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171618Z" creationid="manuel" creationdate="20180615T171618Z">
+        <seg>Se selezionate &lt;f0&gt;Mantieni i vecchi stili&lt;/f0&gt;, il documento non è più connesso al modello, anche se il modello è ancora elencato in &lt;f1&gt;File&gt; Proprietà&gt; Generale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5683,6 +5699,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145732Z" creationid="manuel" creationdate="20180611T145732Z">
         <seg>Pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page styles can be set up to have the facing left and right pages &lt;f0&gt;mirrored&lt;/f0&gt; or only right (first pages of chapters are often defined to be right-page only) or only left.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171339Z" creationid="manuel" creationdate="20180615T171339Z">
+        <seg>Gli stili di pagina possono essere impostati in modo da avere le pagine rivolte a destra e sinistra &lt;f0&gt;rispecchiate&lt;/f0&gt; oppure rivolte solo a destra (le prime pagine dei capitoli sono spesso definite come pagine destre solamente) oppure rivolte solo a sinistra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9631,6 +9655,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>different on right and left pages</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171421Z" creationid="manuel" creationdate="20180615T171421Z">
+        <seg>differenze nelle pagine destre e sinistre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090148Z" creationid="manuel" creationdate="20180614T090148Z">
@@ -9755,6 +9787,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055935Z" creationid="manuel" creationdate="20180529T055935Z">
         <seg>opzioni generali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>header</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171415Z" creationid="manuel" creationdate="20180615T171415Z">
+        <seg>intestazione</seg>
       </tuv>
     </tu>
     <tu>
