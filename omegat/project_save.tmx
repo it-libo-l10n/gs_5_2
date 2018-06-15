@@ -6303,6 +6303,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f4&gt;Save as Template dialog&lt;/f4&gt; (Figure &lt;t5&gt;53&lt;/t5&gt;) opens, displaying the &lt;f6&gt;existing categories and a textbox to enter a name for the new template.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104908Z" creationid="manuel" creationdate="20180615T104908Z">
+        <seg>Si apre la finestra &lt;f4&gt;Salva come modello&lt;/f4&gt; (Figura &lt;t5&gt;53&lt;/t5&gt;), che mostra le &lt;f6&gt;categorie esistenti e una casella di testo per inserire un nome per il nuovo modello.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;i0/&gt;“Selection clipboard” is independent of the normal clipboard that you use by &lt;f1&gt;Edit &gt; Copy/Cut/Paste&lt;/f1&gt; or their respective keyboard shortcuts.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091845Z" creationid="manuel" creationdate="20180530T091845Z">
