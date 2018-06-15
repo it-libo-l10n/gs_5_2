@@ -7495,6 +7495,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To edit a template:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154208Z" creationid="manuel" creationdate="20180615T154208Z">
+        <seg>Per modificare un modello:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To enable it, select MediaWiki in the Internet options, then click the &lt;f0&gt;Add&lt;/f0&gt; button to open the dialog shown in Figure &lt;t1&gt;45&lt;/t1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T140807Z" creationid="manuel" creationdate="20180609T140807Z">
@@ -8481,8 +8489,8 @@
       <tuv lang="EN">
         <seg>You can edit a template’s styles and content, and then, if you wish, you can reapply the template’s styles to documents that were created from that template.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T153851Z" creationid="manuel" creationdate="20180615T153851Z">
-        <seg>Potete modificare il contenuto e gli stili di un modello, e poi, se volete, riapplicare gli stili del modello ai documenti creati a partire da quel modello.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154058Z" creationid="manuel" creationdate="20180615T153851Z">
+        <seg>Potete modificare il contenuto e gli stili di un modello, e poi, se volete, potete riapplicare gli stili del modello ai documenti creati a partire da quel modello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8667,6 +8675,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160609Z" creationid="manuel" creationdate="20180611T160609Z">
         <seg>Non potete aggiungere stili personalizzati al menu Stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot reapply content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154128Z" creationid="manuel" creationdate="20180615T154128Z">
+        <seg>Non potete riapplicare il contenuto.</seg>
       </tuv>
     </tu>
     <tu>
