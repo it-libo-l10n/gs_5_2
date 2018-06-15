@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding templates obtained from other sources</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160134Z" creationid="manuel" creationdate="20180615T160134Z">
+        <seg>Aggiunta di modelli ottenuti da altre sorgenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Administrator rights are needed for the installation process.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190556Z" creationid="Marco Marega" creationdate="20180528T190556Z">
@@ -5803,6 +5811,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090035Z" creationid="luke" creationdate="20180515T090035Z">
         <seg>Select &lt;f0&gt;Auto&lt;/f0&gt; and the timing of the pause between slide shows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Keep Old Styles&lt;/f0&gt; if you do not want to apply the changed styles in the template to the document (but see the Caution notice below).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160054Z" creationid="manuel" creationdate="20180615T160054Z">
+        <seg>Selezionate &lt;f0&gt;Mantieni i vecchi stili&lt;/f0&gt; se non volete applicare al documento gli stili del modello modificato (leggete però l'avviso sotto riportato).</seg>
       </tuv>
     </tu>
     <tu>
