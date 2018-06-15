@@ -8103,6 +8103,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also save menu and toolbar customizations in templates; see &lt;f0&gt;Chapter 14, Customizing LibreOffice&lt;/f0&gt;, for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103940Z" creationid="manuel" creationdate="20180615T103940Z">
+        <seg>Nei modelli è anche possibile salvare le personalizzazioni del menu e della barra degli strumenti; vedere &lt;f0&gt;il Capitolo 14 (Personalizzazione di LibreOffice&lt;/f0&gt;) per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also select to open an existing file or use a template.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204750Z" creationid="Marco Marega" creationdate="20180531T214716Z">
