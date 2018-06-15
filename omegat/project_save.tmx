@@ -2775,6 +2775,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, a letter template may contain your name, address, and salutation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103424Z" creationid="manuel" creationdate="20180615T103424Z">
+        <seg>Per esempio, un modello di lettera potrebbe contenere il vostro nome, indirizzo e formula di saluto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if the two-digit year is set to 1930, and you enter a date of 1/1/30 or later into your document, the date is interpreted as 1/1/1930 or later.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070244Z" creationid="manuel" creationdate="20180529T070244Z">
@@ -2795,6 +2803,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184751Z" creationid="Marco Marega" creationdate="20180528T184751Z">
         <seg>Ad esempio, gli strumenti di disegno disponibili in Writer sono gli stessi presenti in Calc e, con funzionalità simili ma più avanzate, in Impress e Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you can also save printer settings, and general behaviors set from &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;, such as &lt;f1&gt;Paths&lt;/f1&gt; and &lt;f2&gt;Colors&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103353Z" creationid="manuel" creationdate="20180615T103353Z">
+        <seg>Ad esempio, potete anche salvare le impostazioni della stampante e i comportamenti generali impostati da &lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt;, come &lt;f1&gt;Percorsi&lt;/f1&gt; e &lt;f2&gt;Colori&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6187,6 +6203,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145650Z" creationid="manuel" creationdate="20180611T145650Z">
         <seg>Tabella &lt;seq0&gt;3&lt;/seq0&gt;: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Templates can also contain predefined text, saving you from having to type it every time you create a new document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103412Z" creationid="manuel" creationdate="20180615T103412Z">
+        <seg>I modelli possono anche contenere testo predefinito, evitandovi di doverlo digitare ogni volta che create un nuovo documento.</seg>
       </tuv>
     </tu>
     <tu>
