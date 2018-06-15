@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click&lt;/f0&gt; &lt;f1&gt;Save&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T105546Z" creationid="manuel" creationdate="20180615T105546Z">
+        <seg>&lt;f0&gt;Fate clic su&lt;/f0&gt; &lt;f1&gt;Salva&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel,” making them easy to use and master.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203823Z" creationid="Marco Marega" creationdate="20180527T212724Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090913Z" creationid="manuel" creationdate="20180614T090913Z">
         <seg>&lt;f1&gt;Potete anche fare clic sulla piccola freccia accanto all'icona &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Nuovo&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; e selezionate &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Modelli&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;The template is saved and the dialog closes.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T105621Z" creationid="manuel" creationdate="20180615T105621Z">
+        <seg>&lt;f2&gt;Il modello è salvato e la finestra di dialogo si chiude.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5747,6 +5763,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173016Z" creationid="manuel" creationdate="20180612T150147Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;Modo riempimento&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the My Templates folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T105509Z" creationid="manuel" creationdate="20180615T105509Z">
+        <seg>Selezionate la cartella Modelli.</seg>
       </tuv>
     </tu>
     <tu>
