@@ -1823,6 +1823,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T102953Z" creationid="manuel" creationdate="20180615T102953Z">
+        <seg>Creare un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a template from a document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103053Z" creationid="manuel" creationdate="20180615T103053Z">
+        <seg>Creare un modello da un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating hyperlinks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180613T214105Z" creationid="luke" creationdate="20180613T214105Z">
@@ -3891,6 +3907,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070039Z" creationid="manuel" creationdate="20180531T070039Z">
         <seg>Ad esempio, in Windows potreste voler salvare in maniera predefinita i documenti in una cartella diversa da Documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to formatting, any settings that can be added to or modified in a document can be saved within a template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103133Z" creationid="manuel" creationdate="20180615T103133Z">
+        <seg>Oltre alla formattazione, qualsiasi impostazione che può essere aggiunta o modificata in un documento può essere salvata all'interno di un modello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6215,6 +6239,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f4&gt;&lt;f5&gt;Manage T&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;emplates&lt;/f6&gt; option o&lt;f7&gt;n&lt;/f7&gt; the list opens the Template dialog (Figure &lt;t8&gt;52&lt;/t8&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T102951Z" creationid="manuel" creationdate="20180615T102951Z">
+        <seg>L'opzione &lt;f4&gt;&lt;f5&gt;Gestisci&lt;/f5&gt;&lt;/f4&gt; &lt;f6&gt;modelli&lt;/f6&gt; &lt;f7&gt;nell'elenco&lt;/f7&gt; apre la finestra di dialogo Modello (Figura &lt;t8&gt;52&lt;/t8&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;i0/&gt;“Selection clipboard” is independent of the normal clipboard that you use by &lt;f1&gt;Edit &gt; Copy/Cut/Paste&lt;/f1&gt; or their respective keyboard shortcuts.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091845Z" creationid="manuel" creationdate="20180530T091845Z">
@@ -8119,6 +8151,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can create templates in two ways: by saving a document as a template or by using a wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103044Z" creationid="manuel" creationdate="20180615T103044Z">
+        <seg>Potete creare modelli in due modi: salvando un documento come modello o utilizzando una procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can customize the overall appearance of LibreOffice with themes designed for Mozilla Firefox.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084425Z" creationid="manuel" creationdate="20180606T084425Z">
@@ -8523,6 +8563,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090054Z" creationid="manuel" creationdate="20180614T090054Z">
         <seg>Creazione di un documento a partire da un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>create from document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103048Z" creationid="manuel" creationdate="20180615T103048Z">
+        <seg>creazione da documento</seg>
       </tuv>
     </tu>
     <tu>
