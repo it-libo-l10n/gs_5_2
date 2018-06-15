@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;You can still import styles manually from the template, but to reconnect it to the template, you will have to copy it into an empty document based on the template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171752Z" creationid="manuel" creationdate="20180615T171752Z">
+        <seg>&lt;/f1&gt;Potete comunque importare manualmente gli stili dal modello, ma per ricollegarlo al modello, dovrete copiarlo in un documento vuoto basato sul modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f3&gt;A new document based on the template opens in LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T091547Z" creationid="manuel" creationdate="20180614T091547Z">
@@ -4883,6 +4891,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155519Z" creationid="manuel" creationdate="20180611T155519Z">
         <seg>Gli stili di formato possono essere selezionati in vari modi in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice refers to sources for templates as repositories.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171923Z" creationid="manuel" creationdate="20180615T171923Z">
+        <seg>LibreOffice fa riferimento alle fonti per i modelli come deposito.</seg>
       </tuv>
     </tu>
     <tu>
