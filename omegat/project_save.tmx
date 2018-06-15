@@ -2719,6 +2719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow the instructions on the pages of the wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121419Z" creationid="manuel" creationdate="20180615T121419Z">
+        <seg>Seguite le istruzioni sulle pagine della procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Follow the prompts to select and install the ones you want.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170118Z" creationid="manuel" creationdate="20180608T170118Z">
@@ -3019,6 +3027,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104736Z" creationid="manuel" creationdate="20180615T104736Z">
         <seg>Dalla barra dei menu, scegliete &lt;f0&gt;File &gt; Modelli &gt; Salva &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;come&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; modello&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Wizards &gt; [type of template required]&lt;/f0&gt; (see Figure &lt;t1&gt;54&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121416Z" creationid="manuel" creationdate="20180615T121416Z">
+        <seg>Dalla barra dei menu, scegliete &lt;f0&gt;File &gt; Procedure guidate &gt; [tipo di modello desiderato]&lt;/f0&gt; (vedere Figura &lt;t1&gt;54&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4163,6 +4179,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171136Z" creationid="manuel" creationdate="20180608T171136Z">
         <seg>Nell'esempio, l'Italiano (Italia) è stato scelto per tutte le impostazioni a disposizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the last section of the wizard, you can specify the template name which will show in the Template&lt;f0&gt;s dialog&lt;/f0&gt;, and also the name and location for saving the template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121443Z" creationid="manuel" creationdate="20180615T121443Z">
+        <seg>Nell'ultima sezione della procedura guidata, potete specificare il nome e la posizione di salvataggio del modello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7163,6 +7187,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105138Z" creationid="manuel" creationdate="20180609T105138Z">
         <seg>Questa opzione è selezionata come predefinita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This process is slightly different for each type of template, but the format is very similar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121421Z" creationid="manuel" creationdate="20180615T121421Z">
+        <seg>Questa procedura è leggermente diversa per ciascun tipo di modello, ma il formato è molto simile.</seg>
       </tuv>
     </tu>
     <tu>
