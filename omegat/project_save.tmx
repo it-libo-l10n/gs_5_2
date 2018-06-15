@@ -5855,6 +5855,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Chapter 14, Customizing LibreOffice, for more about the Extension Manager.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160632Z" creationid="manuel" creationdate="20180615T160632Z">
+        <seg>Consultate il Capitolo 14 (Personalizzazione di LibreOffice) per maggiori informazioni riguardo al Gestore Estensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the chapters on styles in the user guides for details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160601Z" creationid="manuel" creationdate="20180612T160601Z">
@@ -6251,6 +6259,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083902Z" creationid="manuel" creationdate="20180530T083902Z">
         <seg>Potete impostarle come preferite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting &lt;i0/&gt;a default template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160650Z" creationid="manuel" creationdate="20180615T160650Z">
+        <seg>Definire &lt;i0/&gt;un modello standard</seg>
       </tuv>
     </tu>
     <tu>
@@ -8407,6 +8423,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the package installation is complete, restart LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160602Z" creationid="manuel" creationdate="20180615T160602Z">
+        <seg>Quando l'installazione del pacchetto è completa, riavviate LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the sequence of images is ready, click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert Slides&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
@@ -8951,6 +8975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may be asked to accept a license agreement.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160520Z" creationid="manuel" creationdate="20180615T160520Z">
+        <seg>È possibile che vi venga richiesto di accettare un contratto di licenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a4&gt;http://www.gnu.org/licenses/gpl.html&lt;/a4&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a5&gt;&lt;f6&gt;http://creativecommons.org/licenses/by/4.0/&lt;/f6&gt;&lt;/a5&gt;), version &lt;f7&gt;4&lt;/f7&gt;.0 or later.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154634Z" creationid="luke" creationdate="20180514T154634Z">
@@ -9211,6 +9243,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144747Z" creationid="manuel" creationdate="20180608T144747Z">
         <seg>formato file predefinito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>default template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160638Z" creationid="manuel" creationdate="20180615T160638Z">
+        <seg>modello predefinito</seg>
       </tuv>
     </tu>
     <tu>
