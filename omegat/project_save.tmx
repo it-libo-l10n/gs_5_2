@@ -1790,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compiling an automatic table of contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165615Z" creationid="manuel" creationdate="20180615T165615Z">
+        <seg>Compilazione automatica indice dei contenuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Computers with a Mac operating system do not have a Quickstarter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203649Z" creationid="Marco Marega" creationdate="20180607T203649Z">
