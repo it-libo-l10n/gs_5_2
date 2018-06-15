@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A typical use is for chapter titles to always start on a new right-hand (odd-numbered) page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170815Z" creationid="manuel" creationdate="20180615T170815Z">
+        <seg>Un utilizzo tipico è per i titoli di capitolo che desiderate inizino sempre su una nuova pagina di destra (numerata dispari).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accessibility options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T154454Z" creationid="manuel" creationdate="20180606T100639Z">
@@ -1138,6 +1146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143932Z" creationid="manuel" creationdate="20180611T143932Z">
         <seg>Al contrario, quando si usano gli stili, è sufficiente apportare una sola modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, tables of contents use Heading styles, but you can use whatever combination of styles you prefer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170715Z" creationid="manuel" creationdate="20180615T170715Z">
+        <seg>Per impostazione predefinita, gli indici usano gli stili di intestazione, ma potete usare qualsiasi combinazione di stili che preferite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1792,8 +1808,8 @@
       <tuv lang="EN">
         <seg>Compiling an automatic table of contents</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165615Z" creationid="manuel" creationdate="20180615T165615Z">
-        <seg>Compilazione automatica indice dei contenuti</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170807Z" creationid="manuel" creationdate="20180615T165615Z">
+        <seg>Compilazione automatica dell'indice</seg>
       </tuv>
     </tu>
     <tu>
@@ -1834,6 +1850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154651Z" creationid="luke" creationdate="20180514T154651Z">
         <seg>Controlling dialogs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Controlling page breaks automatically</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171010Z" creationid="manuel" creationdate="20180615T171010Z">
+        <seg>Controllare le interruzioni di pagina in modo automatico</seg>
       </tuv>
     </tu>
     <tu>
@@ -3079,6 +3103,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you can require a paragraph to start on a new page or column and specify the style of the new page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170946Z" creationid="manuel" creationdate="20180615T170834Z">
+        <seg>Per esempio, potete fare in modo che un paragrafo inizi su una nuova pagina o colonna e specificare lo stile della nuova pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you could define a &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Heading 1&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; paragraph to be followed by a &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Text Body&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; paragraph.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164837Z" creationid="manuel" creationdate="20180615T164837Z">
@@ -3931,6 +3963,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202901Z" creationid="Marco Marega" creationdate="20180607T202824Z">
         <seg>Se sul vostro computer non è installato Microsoft Office, o se è installato ma avete associato a LibreOffice i tipi di file di Microsoft Office, allora, quando farete doppio clic sui seguenti tipi di file, questi si apriranno in LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not like the default settings, you can change them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170957Z" creationid="manuel" creationdate="20180615T170957Z">
+        <seg>Se non vi aggradano le impostazioni predefinite, potete modificarle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8795,6 +8835,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201255Z" creationid="Marco Marega" creationdate="20180527T200013Z">
         <seg>Writer (elaboratore di testi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer automatically flows text from one page to the next.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171003Z" creationid="manuel" creationdate="20180615T171003Z">
+        <seg>Writer fa scorrere automaticamente il testo da una pagina a quella successiva.</seg>
       </tuv>
     </tu>
     <tu>
