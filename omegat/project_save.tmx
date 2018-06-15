@@ -7879,6 +7879,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To re-enable LibreOffice’s original default template for a document type as the default for that type:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161822Z" creationid="manuel" creationdate="20180615T161822Z">
+        <seg>Per ripristinare il modello predefinito originale di LibreOffice per un tipo di documento come predefinito per quel tipo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remove any possible macro viruses from the Microsoft Office document, deselect &lt;f0&gt;Save original Basic code&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154205Z" creationid="manuel" creationdate="20180608T154205Z">
