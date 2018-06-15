@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A more complex example would be: &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Title&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; followed by &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Author&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; followed by &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Abstract&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; followed by &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Heading 1&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; followed by &lt;/f21&gt;&lt;f22&gt;&lt;f23&gt;Text Body&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164801Z" creationid="manuel" creationdate="20180615T164801Z">
+        <seg>Un esempio più complesso potrebbe essere: &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;Titolo&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt; seguito da &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;Autore&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt; seguito da &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;Estratto&lt;/f17&gt;&lt;f18&gt;&lt;f19&gt; seguito da &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;Intestazione 1&lt;/f20&gt;&lt;f21&gt;&lt;f22&gt; seguito da &lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;Corpo del testo&lt;/f23&gt;&lt;f24&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A relative address always starts from the directory in which the current document is located.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144530Z" creationid="manuel" creationdate="20180608T144530Z">
@@ -2791,6 +2799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;57&lt;/seq0&gt;: Creating &lt;f1&gt;a &lt;/f1&gt;new category</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164653Z" creationid="manuel" creationdate="20180615T164628Z">
+        <seg>Figura &lt;seq0&gt;57&lt;/seq0&gt;: creare &lt;f1&gt;una &lt;/f1&gt;nuova categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140320Z" creationid="manuel" creationdate="20180611T161453Z">
@@ -3035,6 +3051,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184836Z" creationid="Marco Marega" creationdate="20180528T184836Z">
         <seg>A titolo di esempio, potete aprire un file Draw da Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you could define a &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Heading 1&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; paragraph to be followed by a &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Text Body&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; paragraph.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164837Z" creationid="manuel" creationdate="20180615T164837Z">
+        <seg>Per esempio, potreste definire un paragrafo &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Intestazione 1&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; in modo che sia seguito da un paragrafo &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;Corpo del testo&lt;/f8&gt;&lt;f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4387,6 +4411,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121822Z" creationid="manuel" creationdate="20180615T121443Z">
         <seg>Nell'ultima sezione della procedura guidata, potete specificare il nome del modello che verrà mostrato nella &lt;f0&gt;finestra di dialogo&lt;/f0&gt; Modello, nonché il nome e la posizione per il salvataggio del modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the pop-up dialog, type a name for the new &lt;f0&gt;category&lt;/f0&gt; and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164614Z" creationid="manuel" creationdate="20180615T164614Z">
+        <seg>Nella finestra che compare digitate un nome per il &lt;f0&gt;categoria&lt;/f0&gt; e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
