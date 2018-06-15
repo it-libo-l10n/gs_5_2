@@ -2167,6 +2167,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit the template as you would &lt;f0&gt;edit &lt;/f0&gt;any other document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155321Z" creationid="manuel" creationdate="20180615T155321Z">
+        <seg>Modificate il modello nello stesso modo in cui &lt;f0&gt;modificate&lt;/f0&gt; un qualsiasi altro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editing a template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T153841Z" creationid="manuel" creationdate="20180615T153841Z">
@@ -7679,6 +7687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To save your changes, choose &lt;f1&gt;File &gt; Save &lt;/f1&gt;from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155359Z" creationid="manuel" creationdate="20180615T155359Z">
+        <seg>Per salvare le modifiche, scegliete &lt;f1&gt;File &gt; Salva&lt;/f1&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To save your color changes as a &lt;i0/&gt;color scheme, click &lt;f1&gt;Save&lt;/f1&gt;, type a name in the &lt;f2&gt;Scheme&lt;/f2&gt; box, and then click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T154342Z" creationid="manuel" creationdate="20180606T100603Z">
@@ -7819,6 +7835,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155840Z" creationid="manuel" creationdate="20180612T155840Z">
         <seg>Aggiornamento di uno stile da una selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updating a document from a changed template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155402Z" creationid="manuel" creationdate="20180615T155402Z">
+        <seg>Aggiornare un documento a partire da un modello modificato</seg>
       </tuv>
     </tu>
     <tu>
