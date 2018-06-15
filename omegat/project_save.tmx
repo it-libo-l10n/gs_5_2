@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add any content that you want to appear in any document you create from the new template, for example company logo, copyright statement, and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104443Z" creationid="manuel" creationdate="20180615T104443Z">
+        <seg>Aggiungete qualsiasi contenuto che desiderate venga visualizzato in qualsiasi documento creato dal nuovo modello, ad esempio logo aziendale, dichiarazione di copyright e così via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding a trusted timestamp to an electronic signature on a PDF provides a digital seal of data integrity and a trusted date and time of when the file was signed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T153100Z" creationid="manuel" creationdate="20180606T081821Z">
@@ -1783,6 +1791,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create or modify any styles that you want to use in the new template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104526Z" creationid="manuel" creationdate="20180615T104526Z">
+        <seg>Creare o modificare qualsiasi stile che desiderate utilizzare nel nuovo modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating &lt;i0/&gt;new (custom) styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T173925Z" creationid="manuel" creationdate="20180612T173925Z">
@@ -2939,6 +2955,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090643Z" creationid="manuel" creationdate="20180614T090643Z">
         <seg>Dalla barra dei menu, selezionate &lt;f0&gt;File&gt; Nuovo&gt; Modelli&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Templates &gt; Save &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;s Template&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104736Z" creationid="manuel" creationdate="20180615T104736Z">
+        <seg>Dalla barra dei menu, scegliete &lt;f0&gt;File &gt; Modelli &gt; Salva &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;come&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; modello&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
