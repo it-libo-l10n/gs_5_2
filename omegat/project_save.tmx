@@ -7601,8 +7601,8 @@
       <tuv lang="EN">
         <seg>To set the file name or change the directory, select the&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Path&lt;/f1&gt; button (the three dots to the right of the location).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T134952Z" creationid="manuel" creationdate="20180615T134952Z">
-        <seg>Per impostare il nome del file o cambiare la directory, selezionare il pulsante &lt;f0&gt; &lt;/ f0&gt; &lt;f1&gt; Percorso &lt;/ f1&gt; (i tre punti a destra della posizione).</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T135247Z" creationid="manuel" creationdate="20180615T134952Z">
+        <seg>Per impostare il nome del file o cambiare la cartella, selezionare il pulsante &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Percorso&lt;/f1&gt; (i tre punti a destra della posizione).</seg>
       </tuv>
     </tu>
     <tu>
