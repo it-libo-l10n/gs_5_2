@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the old file without saving.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162514Z" creationid="manuel" creationdate="20180615T162514Z">
+        <seg>Chiudete il vecchio file senza salvarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Closes the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154724Z" creationid="luke" creationdate="20180514T154724Z">
@@ -3227,6 +3235,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
         <seg>Go to &lt;f0&gt;Advance slide&lt;/f0&gt; and select the &lt;f1&gt;Automatically after&lt;/f1&gt; option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;File &gt; Save As&lt;/f0&gt; to save the new file with the name of the file from which content was taken.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162642Z" creationid="manuel" creationdate="20180615T162622Z">
+        <seg>Andate a &lt;f0&gt;File &gt; Salva come&lt;/f0&gt; per salvare il nuovo file con il nome del file da cui è stato preso il contenuto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5411,6 +5427,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160630Z" creationid="manuel" creationdate="20180612T160630Z">
         <seg>Aprite la finestra Stili e formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the document you want to change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162423Z" creationid="manuel" creationdate="20180615T162423Z">
+        <seg>Aprite il documento che volete modificare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7663,6 +7687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To associate a document with another template:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162410Z" creationid="manuel" creationdate="20180615T162410Z">
+        <seg>Associare un documento con un altro modello:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change an existing style using &lt;i0/&gt;the Style dialog, right-click on the required style in the Styles and Formatting window and select &lt;f1&gt;Modify&lt;/f1&gt; from the pop-up menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160553Z" creationid="manuel" creationdate="20180612T160553Z">
@@ -8099,6 +8131,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155840Z" creationid="manuel" creationdate="20180612T155840Z">
         <seg>Aggiornamento di uno stile da una selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update the table of contents, if there is one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162447Z" creationid="manuel" creationdate="20180615T162447Z">
+        <seg>Aggiornate l'indice, se esistente.</seg>
       </tuv>
     </tu>
     <tu>
