@@ -4647,6 +4647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice does not have a similar default template file; the “factory defaults” are embedded within the software.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161315Z" creationid="manuel" creationdate="20180615T161315Z">
+        <seg>LibreOffice non fa uso di un simile file come modello predefinito; le “impostazioni di fabbrica” sono inserite all'interno del software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice does not provide a secure method of storing these certificates, but it can access certificates that have been saved using other programs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074051Z" creationid="manuel" creationdate="20180606T074051Z">
@@ -6283,6 +6291,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160650Z" creationid="manuel" creationdate="20180615T160650Z">
         <seg>Definire &lt;i0/&gt;un modello standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting a template as the default</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161339Z" creationid="manuel" creationdate="20180615T161339Z">
+        <seg>Impostare un modello come predefinito</seg>
       </tuv>
     </tu>
     <tu>
@@ -9011,6 +9027,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154814Z" creationid="luke" creationdate="20180514T154814Z">
         <seg>You may get better results by passing scanned material into a graphics program and cleaning it up there before inserting the resulting image into LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may know that Microsoft Word employs a &lt;f0&gt;normal.dot&lt;/f0&gt; or &lt;f1&gt;normal.dotx&lt;/f1&gt; file for its default template and how to regenerate it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161253Z" creationid="manuel" creationdate="20180615T161253Z">
+        <seg>Forse saprete che Microsoft Word utilizza il file &lt;f0&gt;normal.dot&lt;/f0&gt; oppure &lt;f1&gt;normal.dotx&lt;/f1&gt; come modello predefinito, e saprete anche come rigenerarlo.</seg>
       </tuv>
     </tu>
     <tu>
