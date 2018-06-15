@@ -3799,6 +3799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you create a document by choosing &lt;f0&gt;File &gt; New &gt; Text Document&lt;/f0&gt; (or &lt;f1&gt;Spreadsheet&lt;/f1&gt;, &lt;f2&gt;Presentation&lt;/f2&gt;, or &lt;f3&gt;Drawing&lt;/f3&gt;) from the Menu bar, LibreOffice creates the document from the default template for that type of document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161028Z" creationid="manuel" creationdate="20180615T161028Z">
+        <seg>Se create un documento scegliendo &lt;f0&gt;File &gt; Nuovo &gt; Documento di testo&lt;/f0&gt; (oppure &lt;f1&gt;Foglio elettronico&lt;/f1&gt;, &lt;f2&gt;Presentazione&lt;/f2&gt;, o &lt;f3&gt;Disegno&lt;/f3&gt;) dal menu principale, LibreOffice crea il documento dal modello predefinito per quel tipo di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you delete a style that is in use, all objects with that style will return to the default style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T085858Z" creationid="manuel" creationdate="20180614T085858Z">
@@ -5091,6 +5099,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085915Z" creationid="luke" creationdate="20180515T085915Z">
         <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note for Microsoft Word users</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161109Z" creationid="manuel" creationdate="20180615T161109Z">
+        <seg>Nota per gli utenti Microsoft Word</seg>
       </tuv>
     </tu>
     <tu>
