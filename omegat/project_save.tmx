@@ -2687,6 +2687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;54&lt;/seq0&gt;: Creating a template using a wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T135524Z" creationid="manuel" creationdate="20180615T135524Z">
+        <seg>Figura &lt;seq0&gt;54&lt;/seq0&gt;: creazione di un modello usando una procedura guidata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140320Z" creationid="manuel" creationdate="20180611T161453Z">
@@ -4655,6 +4663,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make your selections and click &lt;f3&gt;Save&lt;/f3&gt; to close the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T135455Z" creationid="manuel" creationdate="20180615T135455Z">
+        <seg>Fate le vostre selezioni e fate clic su &lt;f3&gt;Salva&lt;/f3&gt; per chiudere la finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manual formatting (also called &lt;f0&gt;direct formatting&lt;/f0&gt;) overrides styles, and you cannot get rid of the manual formatting by applying a style to it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154227Z" creationid="manuel" creationdate="20180612T154227Z">
@@ -6395,6 +6411,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104155Z" creationid="manuel" creationdate="20180606T104155Z">
         <seg>L'opzione &lt;f0&gt;Strumenti per il supporto con tecnologia assistiva&lt;/f0&gt; non viene mostrata in tutte le installazioni di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f2&gt;Save As&lt;/f2&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T135354Z" creationid="manuel" creationdate="20180615T135354Z">
+        <seg>Si apre la finestra di dialogo &lt;f2&gt;Salva come&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
