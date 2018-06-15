@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although the &lt;f0&gt;Save as Template dialog&lt;/f0&gt; shows &lt;f1&gt;no document type &lt;/f1&gt;when saving a new template of any type, the template will appear on the correct tab (Documents, Spreadsheets, Presentations, Drawings) when you return to t&lt;f2&gt;he Templates&lt;/f2&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121113Z" creationid="manuel" creationdate="20180615T121113Z">
+        <seg>Sebbene la &lt;f0&gt;finestra di dialogo Salva come modello&lt;/f0&gt; non mostri alcun &lt;f1&gt;tipo di documento&lt;/f1&gt; quando si salva un nuovo modello di qualsiasi tipo, il modello verrà visualizzato nella scheda corretta (Documenti, Fogli di lavoro, Presentazioni, Disegni) quando si ritorna alla finestra di dialogo &lt;f2&gt;Modelli&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always checkbox</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080245Z" creationid="manuel" creationdate="20180531T080245Z">
@@ -1871,6 +1879,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a template using a wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121124Z" creationid="manuel" creationdate="20180615T121124Z">
+        <seg>creare un modello usando una procedura guidata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating hyperlinks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180613T214105Z" creationid="luke" creationdate="20180613T214105Z">
@@ -2027,6 +2043,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055319Z" creationid="manuel" creationdate="20180531T055319Z">
         <seg>Accesso diretto alle funzionalità hardware della scheda video per migliorare la visualizzazione a schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Document elements like the date, subject line (business fax), salutation, and complimentary close</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121221Z" creationid="manuel" creationdate="20180615T121221Z">
+        <seg>Elementi del documento come la data, l'oggetto (per i fax commerciali), i saluti e la formula di chiusura</seg>
       </tuv>
     </tu>
     <tu>
@@ -2835,6 +2859,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154128Z" creationid="manuel" creationdate="20180612T154128Z">
         <seg>Per esempio, in Writer &lt;f0&gt;Ctrl+0&lt;/f0&gt; applica lo stile &lt;f1&gt;Corpo del testo&lt;/f1&gt;, &lt;f2&gt;Ctrl+1&lt;/f2&gt; applica lo stile &lt;f3&gt;Intestazione 1&lt;/f3&gt;, e &lt;f4&gt;Ctrl+2&lt;/f4&gt; applica lo stile &lt;f5&gt;Intestazione 2&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the Fax Wizard guides you through the following choices:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121206Z" creationid="manuel" creationdate="20180615T121206Z">
+        <seg>Ad esempio, la procedura guidata Fax vi guida attraverso le seguenti scelte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5215,6 +5247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options for sender and recipient information (business fax)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121228Z" creationid="manuel" creationdate="20180615T121228Z">
+        <seg>Opzioni per le informazioni sul mittente e sul destinatario (fax commerciali)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other languages sentence checking</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T114307Z" creationid="manuel" creationdate="20180609T114307Z">
@@ -6287,6 +6327,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text to include in the footer (business fax)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121242Z" creationid="manuel" creationdate="20180615T121242Z">
+        <seg>Testo da includere nel piè di pagina (fax commerciali)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Th&lt;f0&gt;is &lt;/f0&gt;box specifies the display size of toolbar icons (Automatic, Small, or Large).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084410Z" creationid="manuel" creationdate="20180530T084410Z">
@@ -7311,6 +7359,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a template using a wizard:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121247Z" creationid="manuel" creationdate="20180615T121247Z">
+        <seg>Per creare un modello usando una procedura guidata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To customize the language settings in LibreOffice, you can do any of the following:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165955Z" creationid="manuel" creationdate="20180608T165955Z">
@@ -7563,6 +7619,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T090846Z" creationid="manuel" creationdate="20180606T090846Z">
         <seg>Digitate un termine di ricerca, fate clic su &lt;f3&gt;Cerca&lt;/f3&gt;, e attendete il caricamento delle miniature del tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type of fax (business or personal)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121210Z" creationid="manuel" creationdate="20180615T121210Z">
+        <seg>Tipo di fax (commerciale o personale)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8479,6 +8543,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can use wizards to create templates for letters, faxes, and agendas, and to create presentations and Web pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121159Z" creationid="manuel" creationdate="20180615T121159Z">
+        <seg>Potete usare le procedure guidate per creare modelli di lettere, fax, agende, presentazioni e pagine Web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You cannot add custom styles to the Styles menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160609Z" creationid="manuel" creationdate="20180611T160609Z">
@@ -8691,6 +8763,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090146Z" creationid="manuel" creationdate="20180614T090146Z">
         <seg>Creazione da modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>create using wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121117Z" creationid="manuel" creationdate="20180615T121117Z">
+        <seg>creazione tramite procedura guidata</seg>
       </tuv>
     </tu>
     <tu>
