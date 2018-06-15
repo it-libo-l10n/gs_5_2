@@ -5759,6 +5759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resetting the default template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161610Z" creationid="manuel" creationdate="20180615T161610Z">
+        <seg>Ripristinare il modello predefinito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click anywhere on the screen to open a context menu where you can navigate through the slides and set other options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
@@ -7171,6 +7179,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072701Z" creationid="manuel" creationdate="20180531T072701Z">
         <seg>Il colore appena definito ora appare nel più basso dei riquadri di anteprima del colore mostrati in &lt;t1&gt;Figura 22&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The next time that you create a document of that type by choosing &lt;f0&gt;File &gt; New,&lt;/f0&gt; the document will be created from this template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161605Z" creationid="manuel" creationdate="20180615T161605Z">
+        <seg>La prossima volta che create un documento di questo tipo da &lt;f0&gt;File &gt; Nuovo,&lt;/f0&gt; il documento verrà creato a partire da questo modello.</seg>
       </tuv>
     </tu>
     <tu>
