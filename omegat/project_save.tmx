@@ -2151,6 +2151,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing a template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T153841Z" creationid="manuel" creationdate="20180615T153841Z">
+        <seg>Modificare un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ellipsis</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113358Z" creationid="manuel" creationdate="20180609T113358Z">
@@ -8471,6 +8479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can edit a template’s styles and content, and then, if you wish, you can reapply the template’s styles to documents that were created from that template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T153851Z" creationid="manuel" creationdate="20180615T153851Z">
+        <seg>Potete modificare il contenuto e gli stili di un modello, e poi, se volete, riapplicare gli stili del modello ai documenti creati a partire da quel modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can enter a master password to enable easy access to websites that require a user name and password.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T071148Z" creationid="manuel" creationdate="20180606T071148Z">
@@ -8987,6 +9003,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144315Z" creationid="manuel" creationdate="20180608T144315Z">
         <seg>modifica le proprietà prima di salvare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T153837Z" creationid="manuel" creationdate="20180615T153837Z">
+        <seg>modificare</seg>
       </tuv>
     </tu>
     <tu>
