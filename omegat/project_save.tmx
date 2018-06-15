@@ -8687,6 +8687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may need to open the Template&lt;f0&gt;s dialog&lt;/f0&gt; and click &lt;f1&gt;Refresh&lt;/f1&gt; on the &lt;f2&gt;Action&lt;/f2&gt; menu to have any new templates appear in the listings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T152125Z" creationid="manuel" creationdate="20180615T152125Z">
+        <seg>Potreste aver bisogno di aprire la &lt;f0&gt;finestra di dialogo&lt;/f0&gt; Modello, quindi fate clic su &lt;f1&gt;Aggiorna&lt;/f1&gt; dal menu &lt;f2&gt;Azione&lt;/f2&gt; per visualizzare i nuovi modelli nella lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may want to add some new styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T173954Z" creationid="manuel" creationdate="20180612T173954Z">
