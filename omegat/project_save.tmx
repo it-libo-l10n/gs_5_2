@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Update Styles&lt;/f0&gt; to apply the changed styles in the template to the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155841Z" creationid="manuel" creationdate="20180615T155841Z">
+        <seg>Fate clic su &lt;f0&gt;Aggiorna gli stili&lt;/f0&gt; per applicare al documento gli stili del modello modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on a file name to display it in the Preview area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085942Z" creationid="luke" creationdate="20180515T085942Z">
@@ -3851,6 +3859,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072731Z" creationid="manuel" creationdate="20180531T072731Z">
         <seg>Se caricate una tavolozza in uno dei componenti di LibreOffice, questa sarà attiva solo per quel componente; gli altri componenti manterranno le proprie tavolozze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you make any changes to a template and its styles, the next time you open a document that was created from the template before the changes, a confirmation message is displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155800Z" creationid="manuel" creationdate="20180615T155800Z">
+        <seg>Se apportate modifiche a un modello e ai relativi stili, la prossima volta che aprite un documento creato dal modello prima delle modifiche, viene visualizzato un messaggio di conferma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7747,6 +7763,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160620Z" creationid="manuel" creationdate="20180612T160620Z">
         <seg>Per aggiornare uno stile a partire da una selezione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To update the document:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155824Z" creationid="manuel" creationdate="20180615T155824Z">
+        <seg>Aggiornare il documento:</seg>
       </tuv>
     </tu>
     <tu>
