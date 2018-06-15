@@ -3103,6 +3103,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you can put the page number on the left-hand edge of the left pages and on the right-hand edge of the right pages, put the document title on the right-hand page only, or make other changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171026Z" creationid="manuel" creationdate="20180615T171026Z">
+        <seg>Per esempio, potete inserire il numero di pagina sul bordo di sinistra delle pagine sinistre e sul bordo di destra delle pagine destre, il titolo del documento solo sulla pagina di destra, o fare altri cambiamenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can require a paragraph to start on a new page or column and specify the style of the new page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170946Z" creationid="manuel" creationdate="20180615T170834Z">
@@ -8771,6 +8779,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
         <seg>When you are ready to advance to the next slide, mouse click on the display background or press the right arrow or space bar on your keyboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you insert a header on a page style set up for mirrored pages or right-and-left pages, you can have the contents of the header be the same on all pages or be different on the right and left pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171058Z" creationid="manuel" creationdate="20180615T171058Z">
+        <seg>Quando inserite una intestazione su uno stile di pagina impostato per pagine rispecchiate o per pagine destre-e-sinistre, potete fare in modo che i contenuti dell'intestazione siano i medesimi su tutte le pagine o siano diversi sulle pagine destre e sinistre.</seg>
       </tuv>
     </tu>
     <tu>
