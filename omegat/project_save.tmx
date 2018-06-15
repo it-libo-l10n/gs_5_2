@@ -952,8 +952,8 @@
       <tuv lang="EN">
         <seg>Associating a document with a different template</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154636Z" creationid="luke" creationdate="20180514T154636Z">
-        <seg>Associating a document with a different template</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162232Z" creationid="luke" creationdate="20180514T154636Z">
+        <seg>Associazione di un documento a un modello differente</seg>
       </tuv>
     </tu>
     <tu>
@@ -2755,6 +2755,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T135524Z" creationid="manuel" creationdate="20180615T135524Z">
         <seg>Figura &lt;seq0&gt;54&lt;/seq0&gt;: creazione di un modello usando una procedura guidata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;56&lt;/seq0&gt;: Resetting the default template for text documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162220Z" creationid="manuel" creationdate="20180615T162220Z">
+        <seg>Figura &lt;seq0&gt;56&lt;/seq0&gt;: ripristinare il modello predefinito per i documenti di testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5863,6 +5871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;f2&gt;Chapter 4, Getting Started with Writer,&lt;/f2&gt; for more about replacing styles using Find &amp; Replace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162335Z" creationid="manuel" creationdate="20180615T162335Z">
+        <seg>Consultate &lt;f2&gt;il Capitolo 4 (Guida introduttiva a Writer)&lt;/f2&gt; per maggiori informazioni riguardo alla sostituzione degli stili utilizzando Trova e sostituisci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;f2&gt;HTML documents; importing/exporting&lt;/f2&gt; in the Help for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155331Z" creationid="manuel" creationdate="20180608T155331Z">
@@ -7179,6 +7195,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072701Z" creationid="manuel" creationdate="20180531T072701Z">
         <seg>Il colore appena definito ora appare nel più basso dei riquadri di anteprima del colore mostrati in &lt;t1&gt;Figura 22&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The next time that you create a document by choosing &lt;f0&gt;File &gt; New&lt;/f0&gt;, the document will be created from the original default template for the document type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162136Z" creationid="manuel" creationdate="20180615T162136Z">
+        <seg>La prossima volta che create un documento da &lt;f0&gt;File &gt; Nuovo&lt;/f0&gt;, il documento verrà creato dal modello predefinito per quel tipo di documento.</seg>
       </tuv>
     </tu>
     <tu>
