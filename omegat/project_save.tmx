@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click once on it to activate the file handling controls (see Figure &lt;t0&gt;52&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154738Z" creationid="manuel" creationdate="20180615T154738Z">
+        <seg>Fate clic una volta su di esso per attivare i controlli di gestione dei file (vedere Figura &lt;t0&gt;52&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Certificate&lt;/f0&gt; button and select which certificate store to use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074345Z" creationid="manuel" creationdate="20180606T074345Z">
