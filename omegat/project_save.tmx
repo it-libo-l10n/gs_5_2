@@ -4671,6 +4671,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice can use only those templates that are in its template folders &lt;f0&gt;or categories&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T163444Z" creationid="manuel" creationdate="20180615T163444Z">
+        <seg>LibreOffice può usare solo quei modelli che sono nelle sue cartelle dei modelli &lt;f0&gt;o categorie&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice comes with many predefined styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144741Z" creationid="manuel" creationdate="20180611T144741Z">
