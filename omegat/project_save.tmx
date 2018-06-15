@@ -7271,6 +7271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To open the Template&lt;f0&gt;s&lt;/f0&gt; &lt;f1&gt;dialog&lt;/f1&gt; from the Start Center, click on the &lt;f2&gt;Templates&lt;/f2&gt; button in the left pane.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T102355Z" creationid="manuel" creationdate="20180615T102355Z">
+        <seg>Per aprire la finestra di dialogo &lt;f0&gt;dei&lt;/f0&gt; &lt;f1&gt;Modelli&lt;/f1&gt; dal Centro di avvio, fate clic sul pulsante &lt;f2&gt;Modelli&lt;/f2&gt; nel riquadro sinistro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To optimize the &lt;i0/&gt;HTML&lt;i1/&gt; export, select a browser or HTML standard from the &lt;f2&gt;Export&lt;/f2&gt; box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160222Z" creationid="manuel" creationdate="20180608T160222Z">
