@@ -7855,6 +7855,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To compile an automatic table of contents, first apply styles to the headings you want to appear in the contents list, then use &lt;f0&gt;Tools &gt; Outline Numbering&lt;/f0&gt; to tell Writer which styles go with which level in the table of contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165429Z" creationid="manuel" creationdate="20180615T165429Z">
+        <seg>Per compilare un indice automatico, applicate prima gli stili alle intestazioni che desiderate compaiano nell'elenco dell'indice, quindi utilizzate &lt;f0&gt;Strumenti &gt; Numerazione capitolo&lt;/f0&gt; per impostare in Writer l'associazione corretta tra stili e livelli nell'indice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create a header, you can use a text box as explained in “&lt;bf0&gt;Text&lt;/bf0&gt;” on page &lt;bf1&gt;181&lt;/bf1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085920Z" creationid="luke" creationdate="20180515T085920Z">
