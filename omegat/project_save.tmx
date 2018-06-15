@@ -1793,8 +1793,8 @@
       <tuv lang="EN">
         <seg>Creating a document from a template in the Start Center</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T101321Z" creationid="manuel" creationdate="20180615T101321Z">
-        <seg>Creazione di un documento da un modello nel Centro iniziale</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T101814Z" creationid="manuel" creationdate="20180615T101321Z">
+        <seg>Creazione di un documento da un modello nel Centro di avvio</seg>
       </tuv>
     </tu>
     <tu>
@@ -6319,6 +6319,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Start Center is visible when no other document is open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T101927Z" creationid="manuel" creationdate="20180615T101927Z">
+        <seg>Il Centro di avvio è visibile quando nessun altro documento è aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Style dialog displayed depends on the type of style selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160556Z" creationid="manuel" creationdate="20180612T160556Z">
@@ -8073,8 +8081,8 @@
       <tuv lang="EN">
         <seg>You can create a document from the template view of the Start Center.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T101505Z" creationid="manuel" creationdate="20180615T101505Z">
-        <seg>Potete creare un documento dalla vista modello del Centro iniziale.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T101827Z" creationid="manuel" creationdate="20180615T101505Z">
+        <seg>Potete creare un documento dalla vista modello del Centro di avvio.</seg>
       </tuv>
     </tu>
     <tu>
