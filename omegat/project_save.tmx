@@ -2111,6 +2111,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the extension package (OXT file) and save it anywhere on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160444Z" creationid="manuel" creationdate="20180615T160444Z">
+        <seg>Scaricate il pacchetto contenente l'estensione (file OXT) e salvatelo sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download the template and save it anywhere on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160251Z" creationid="manuel" creationdate="20180615T160251Z">
+        <seg>Scaricate il modello e salvatelo sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drag a cell selection to the Styles and Formatting window to create a cell style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070544Z" creationid="manuel" creationdate="20180614T070544Z">
@@ -2783,6 +2799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Find and select the package of templates you want to install and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160507Z" creationid="manuel" creationdate="20180615T160507Z">
+        <seg>Trovate e selezionate il pacchetto di modelli che volete installare e fate clic su &lt;f0&gt;Apri&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Follow the instructions on the pages of the wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121419Z" creationid="manuel" creationdate="20180615T121419Z">
@@ -2795,6 +2819,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170118Z" creationid="manuel" creationdate="20180608T170118Z">
         <seg>Seguite le istruzioni per selezionare e installare quelli che desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow these steps:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160425Z" creationid="manuel" creationdate="20180615T160425Z">
+        <seg>Seguite questi passaggi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4007,6 +4039,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Import the template into a template folder by following the instructions in “&lt;bf0&gt;Importing a template&lt;/bf0&gt;” on page &lt;bf1&gt;78&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160317Z" creationid="manuel" creationdate="20180615T160317Z">
+        <seg>Importate il modello in una cartella dei modelli seguendo le istruzioni nella sezione “&lt;bf0&gt;Importare un modello&lt;/bf0&gt;” a pagina &lt;bf1&gt;78&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Import – Ignore font settings</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160146Z" creationid="manuel" creationdate="20180608T160146Z">
@@ -4099,6 +4139,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T134444Z" creationid="manuel" creationdate="20180612T134232Z">
         <seg>In Figura &lt;t0&gt;46&lt;/t0&gt; la finestra mostra &lt;f1&gt;Stili applicati&lt;/f1&gt;, signifca che la lista include solo gli stili usati nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In LibreOffice, select &lt;f0&gt;Tools &gt; Extension Manager&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160450Z" creationid="manuel" creationdate="20180615T160450Z">
+        <seg>In LibreOffice, selezionate &lt;f0&gt;Strumenti &gt; Gestione Estensioni&lt;/f0&gt; dalla barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4203,6 +4251,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065144Z" creationid="manuel" creationdate="20180614T065144Z">
         <seg>Nella finestra di dialogo Crea stile, digitate un nome per il nuovo stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Extension Manager dialog, click &lt;f1&gt;Add&lt;/f1&gt; to open a file browser window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160505Z" creationid="manuel" creationdate="20180615T160505Z">
+        <seg>Nella finestra di dialogo Gestione estensioni, fate clic su &lt;f1&gt;Aggiungi&lt;/f1&gt; per aprire una finestra di esplorazione file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4323,6 +4379,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165958Z" creationid="manuel" creationdate="20180608T165958Z">
         <seg>Installare i dizionari necessari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing collections of templates</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160409Z" creationid="manuel" creationdate="20180615T160409Z">
+        <seg>Installare collezioni di modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing individual templates</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160241Z" creationid="manuel" creationdate="20180615T160241Z">
+        <seg>Installare singoli modelli</seg>
       </tuv>
     </tu>
     <tu>
@@ -5099,6 +5171,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213919Z" creationid="Marco Marega" creationdate="20180531T213919Z">
         <seg>Sui computer con sistema operativo Windows o Linux, nel menu di sistema compare una voce per LibreOffice e per ciascuno dei suoi componenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On other websites you may find collections of templates that have been packaged into extension (OXT) files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160211Z" creationid="manuel" creationdate="20180615T160211Z">
+        <seg>Su altri siti web potreste trovare collezioni di modelli pacchettizzate in file con estensione (OXT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6583,6 +6663,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Extension Manager provides an easy way to install collections of templates that have been packaged as extensions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160412Z" creationid="manuel" creationdate="20180615T160412Z">
+        <seg>Il Gestore Estensioni offre un modo semplice per installare collezioni di modelli che sono stati pacchettizzati come estensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Gallery (Figure &lt;t0&gt;309&lt;/t0&gt;) provides a convenient way to group reusable objects such as graphics and sounds that you can insert into your documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154824Z" creationid="luke" creationdate="20180514T154824Z">
@@ -6999,6 +7087,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location varies with your computer’s operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160404Z" creationid="manuel" creationdate="20180615T160340Z">
+        <seg>La posizione varia a seconda del sistema operativo presente sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The menu has the most important paragraph and character styles for almost every text document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160045Z" creationid="manuel" creationdate="20180611T160045Z">
@@ -7067,6 +7163,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084127Z" creationid="manuel" creationdate="20180606T084127Z">
         <seg>Le altre opzioni in questa finestra di dialogo dovrebbero essere autoesplicative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The package begins installing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160510Z" creationid="manuel" creationdate="20180615T160510Z">
+        <seg>Si avvia l'installazione del pacchetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7163,6 +7267,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085738Z" creationid="luke" creationdate="20180515T085738Z">
         <seg>Alcune immagini, pertanto, non saranno esattamente uguali a quelle che vedete sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are installed a little differently, as described below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160225Z" creationid="manuel" creationdate="20180615T160225Z">
+        <seg>Questi vengono installati in modo leggermente diverso, come descritto sotto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7619,6 +7731,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154737Z" creationid="luke" creationdate="20180514T154737Z">
         <seg>To have the shortcut key assignment available only with one component (for example, Writer), select that component’s name in the upper right corner of the page; otherwise select &lt;f0&gt;LibreOffice&lt;/f0&gt; to make it available to every component.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install individual templates:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160246Z" creationid="manuel" creationdate="20180615T160246Z">
+        <seg>Per installare singoli modelli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To learn where the template folders are stored on your computer, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160355Z" creationid="manuel" creationdate="20180615T160355Z">
+        <seg>Per sapere dove vengono salvate le cartelle dei modelli sul vostro computer, vedete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Percorsi&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
