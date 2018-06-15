@@ -2967,6 +2967,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For future documents, you can re-use the template created by the wizard, just like any other template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T140113Z" creationid="manuel" creationdate="20180615T140113Z">
+        <seg>Per i futuri documenti, potete riutilizzare il modello creato con la procedura guidata, nello stesso modo degli altri modelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For information on settings not discussed here, see the Help.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083224Z" creationid="manuel" creationdate="20180528T083224Z">
