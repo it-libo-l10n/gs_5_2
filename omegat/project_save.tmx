@@ -8071,6 +8071,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can create a document from the template view of the Start Center.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T101505Z" creationid="manuel" creationdate="20180615T101505Z">
+        <seg>Potete creare un documento dalla vista modello del Centro iniziale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create a new style by copying an existing manual format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064753Z" creationid="manuel" creationdate="20180614T064753Z">
