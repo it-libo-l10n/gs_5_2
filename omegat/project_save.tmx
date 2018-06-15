@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A repository can be local (a directory on your computer to which you have downloaded templates) or remote (a URL from which you can download templates).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T172038Z" creationid="manuel" creationdate="20180615T172038Z">
+        <seg>Un deposito può essere locale (una cartella sul vostro computer in cui sono stati scaricati i modelli) o remoto (un URL dal quale potete scaricare i modelli).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A row of information now appears in the larger box below the input boxes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073833Z" creationid="manuel" creationdate="20180531T073833Z">
