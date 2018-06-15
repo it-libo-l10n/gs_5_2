@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can set up one paragraph style so that when you press &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Enter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; at the end of that paragraph, the following paragraph automatically has the style you wish applied to it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164941Z" creationid="manuel" creationdate="20180615T164941Z">
+        <seg>&lt;f0&gt;Potete impostare uno stile di paragrafo in modo che premendo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Invio&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; alla fine di quel paragrafo, il paragrafo successivo abbia automaticamente lo stile che desiderate sia applicato a quel paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You have a voice.&lt;/f0&gt; Enhancements, software fixes, and release dates are community-driven.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204340Z" creationid="Marco Marega" creationdate="20180528T190036Z">
@@ -2067,6 +2075,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085556Z" creationid="manuel" creationdate="20180530T085556Z">
         <seg>Definisce la funzione del &lt;i0/&gt;tasto medio del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defining a sequence of paragraph styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165000Z" creationid="manuel" creationdate="20180615T165000Z">
+        <seg>Definire una sequenza di stili di paragrafo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6007,6 +6023,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Chapter 4 for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165014Z" creationid="manuel" creationdate="20180615T165014Z">
+        <seg>Vedete il Capitolo 4 per maggiori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the chapters on styles in the user guides for details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160601Z" creationid="manuel" creationdate="20180612T160601Z">
@@ -9495,6 +9519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>defining a sequence</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165010Z" creationid="manuel" creationdate="20180615T165010Z">
+        <seg>definire una sequenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>deleting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084742Z" creationid="manuel" creationdate="20180614T084742Z">
@@ -9899,6 +9931,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T090931Z" creationid="manuel" creationdate="20180530T090931Z">
         <seg>appunti di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sequence of styles, automatic</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165005Z" creationid="manuel" creationdate="20180615T165005Z">
+        <seg>sequenza di stili automatica</seg>
       </tuv>
     </tu>
     <tu>
