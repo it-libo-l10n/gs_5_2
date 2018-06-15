@@ -5055,6 +5055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open a new or existing document of the type you want to make into a template (text document, spreadsheet, drawing, or presentation).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104351Z" creationid="manuel" creationdate="20180615T104351Z">
+        <seg>Aprite un documento, nuovo o già esistente, del tipo per cui volete creare un modello (testo, foglio elettronico, disegno, presentazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Styles and Formatting window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154730Z" creationid="luke" creationdate="20180514T154730Z">
@@ -7227,6 +7235,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063414Z" creationid="manuel" creationdate="20180614T063414Z">
         <seg>Per creare un nuovo stile utilizzando la &lt;i0/&gt;finestra di dialogo Stile, fate clic con il pulsante destro del mouse all'interno della finestra Stili e Formattazione e quindi selezionate &lt;f1&gt;Nuovo&lt;/f1&gt; dal menu a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a template from a document and save it to My Templates:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104325Z" creationid="manuel" creationdate="20180615T104325Z">
+        <seg>Per creare un modello da un documento e salvarlo in Modelli personali:</seg>
       </tuv>
     </tu>
     <tu>
