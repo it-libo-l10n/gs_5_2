@@ -6391,6 +6391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The button is also a drop-down list to select the templat&lt;f3&gt;es &lt;/f3&gt;of a given type of document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T102729Z" creationid="manuel" creationdate="20180615T102729Z">
+        <seg>Il pulsante è anche un elenco a comparsa per selezionare i &lt;f3&gt;modelli&lt;/f3&gt; di un determinato tipo di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The changed code is saved in an ODF document but is not retained if you save into a Microsoft Office format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153945Z" creationid="manuel" creationdate="20180608T153945Z">
