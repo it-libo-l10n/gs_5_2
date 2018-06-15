@@ -3055,6 +3055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Templates &gt; Manage &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Templates&lt;/f2&gt;&lt;/f1&gt; or press &lt;f3&gt;Ctrl+Shift+N&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154335Z" creationid="manuel" creationdate="20180615T154335Z">
+        <seg>Dalla barra dei menu, scegliete &lt;f0&gt;File &gt; Modelli &gt; Gestione &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Modelli&lt;/f2&gt;&lt;/f1&gt; o premete &lt;f3&gt;Ctrl+Shift+N&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Templates &gt; Save &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;s Template&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104736Z" creationid="manuel" creationdate="20180615T104736Z">
@@ -4919,6 +4927,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigate to the template that you want to edit.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154637Z" creationid="manuel" creationdate="20180615T154637Z">
+        <seg>Passate al modello che desiderate modificare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New documents created from this template will all have your company’s logo on the first page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112242Z" creationid="manuel" creationdate="20180611T112242Z">
@@ -6611,6 +6627,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155607Z" creationid="manuel" creationdate="20180611T155607Z">
         <seg>Il menu Stili in Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Template&lt;f4&gt;s&lt;/f4&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154411Z" creationid="manuel" creationdate="20180615T154411Z">
+        <seg>Si apre la finestra di dialogo &lt;f4&gt;Modelli&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8347,6 +8371,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202356Z" creationid="Marco Marega" creationdate="20180607T202356Z">
         <seg>Potete anche aprire dei file memorizzati su dei server remoti che utilizzano Content Management Interoperability Services (CMIS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also open the Template&lt;f5&gt;s dialog&lt;/f5&gt; from the Start Center.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154558Z" creationid="manuel" creationdate="20180615T154558Z">
+        <seg>Potete aprire la finestra di dialogo &lt;f5&gt;Modelli&lt;/f5&gt; anche dal Centro di avvio.</seg>
       </tuv>
     </tu>
     <tu>
