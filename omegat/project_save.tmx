@@ -4185,8 +4185,8 @@
       <tuv lang="EN">
         <seg>In the last section of the wizard, you can specify the template name which will show in the Template&lt;f0&gt;s dialog&lt;/f0&gt;, and also the name and location for saving the template.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121443Z" creationid="manuel" creationdate="20180615T121443Z">
-        <seg>Nell'ultima sezione della procedura guidata, potete specificare il nome e la posizione di salvataggio del modello.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121822Z" creationid="manuel" creationdate="20180615T121443Z">
+        <seg>Nell'ultima sezione della procedura guidata, potete specificare il nome del modello che verrà mostrato nella &lt;f0&gt;finestra di dialogo&lt;/f0&gt; Modello, nonché il nome e la posizione per il salvataggio del modello.</seg>
       </tuv>
     </tu>
     <tu>
