@@ -6703,6 +6703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default location is your user templates directory, but you can choose a different location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T134905Z" creationid="manuel" creationdate="20180615T134905Z">
+        <seg>La posizione predefinita è la cartella dei modelli personali, ma potete scegliere una posizione diversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The dialogs and choices are the same for defining new styles and for modifying existing styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063548Z" creationid="manuel" creationdate="20180614T063548Z">
@@ -6979,6 +6987,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140621Z" creationid="manuel" creationdate="20180608T140621Z">
         <seg>Le due caselle sottostanti elencano la lista bianca e la lista nera dei driver OpenCL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The two names can be different but this may later cause confusion.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T134824Z" creationid="manuel" creationdate="20180615T134824Z">
+        <seg>I due nomi possono essere diversi ma ciò potrebbe causare confusione in seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7579,6 +7595,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084124Z" creationid="manuel" creationdate="20180606T084124Z">
         <seg>Per fare in modo che LibreOffice attivi i collegamenti ipertestuali con un semplice clic, deselezionate questa opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To set the file name or change the directory, select the&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Path&lt;/f1&gt; button (the three dots to the right of the location).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T134952Z" creationid="manuel" creationdate="20180615T134952Z">
+        <seg>Per impostare il nome del file o cambiare la directory, selezionare il pulsante &lt;f0&gt; &lt;/ f0&gt; &lt;f1&gt; Percorso &lt;/ f1&gt; (i tre punti a destra della posizione).</seg>
       </tuv>
     </tu>
     <tu>
