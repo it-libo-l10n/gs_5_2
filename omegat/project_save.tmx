@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any changes recorded (tracked) in the document will be lost during this process.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162842Z" creationid="manuel" creationdate="20180615T162842Z">
+        <seg>Ogni cambiamento registrato (tracciato) nel documento verrà perso durante questo processo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any changes you make to a style are effective only in the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155906Z" creationid="manuel" creationdate="20180612T155906Z">
@@ -5519,6 +5527,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Organizing templates</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162851Z" creationid="manuel" creationdate="20180615T162851Z">
+        <seg>Gestire i modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other languages sentence checking</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T114307Z" creationid="manuel" creationdate="20180609T114307Z">
@@ -8523,6 +8539,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152507Z" creationid="manuel" creationdate="20180608T152507Z">
         <seg>Quando un file salvato in ODF 1.2 Esteso viene aperto con un editor che utilizza versioni precedenti di ODF (1.0/1.1), alcune delle caratteristiche avanzate potrebbero perdersi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When asked, confirm that you want to overwrite the old file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162723Z" creationid="manuel" creationdate="20180615T162723Z">
+        <seg>Quando richiesto, confermare che volete sovrascrivere il vecchio file.</seg>
       </tuv>
     </tu>
     <tu>
