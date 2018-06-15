@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Right-click to open the context menu c&lt;/f1&gt;lick &lt;f2&gt;Edit&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155153Z" creationid="manuel" creationdate="20180615T155153Z">
+        <seg>&lt;f1&gt;Fate clic con il pulsante destro del mouse per aprire il menu contestuale, fate clic&lt;/f1&gt; su &lt;f2&gt;Modifica&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;You can also click on the small arrow next to the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;New&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; icon and select &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Templates&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090913Z" creationid="manuel" creationdate="20180614T090913Z">
@@ -7051,6 +7059,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135319Z" creationid="manuel" creationdate="20180609T135319Z">
         <seg>La lista di regole disponibili per questi controlli dipende dalla lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The template opens in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155228Z" creationid="manuel" creationdate="20180615T155228Z">
+        <seg>Il modello si apre in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
