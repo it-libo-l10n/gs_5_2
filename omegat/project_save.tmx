@@ -2727,6 +2727,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, you can choose whether to create a new document from the template immediately, or manually change the template, and then click &lt;f0&gt;Finish&lt;/f0&gt; to save the template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T135749Z" creationid="manuel" creationdate="20180615T135749Z">
+        <seg>Infine, potete scegliere se creare immediatamente un nuovo documento dal modello o modificare manualmente il modello, quindi fate clic su &lt;f0&gt;Fine&lt;/f0&gt; per salvare il modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Follow the instructions on the pages of the wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121419Z" creationid="manuel" creationdate="20180615T121419Z">
