@@ -3039,6 +3039,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you might have one template &lt;f2&gt;category&lt;/f2&gt; for report templates and another for letter templates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T163842Z" creationid="manuel" creationdate="20180615T163842Z">
+        <seg>Per esempio, è possibile avere una &lt;f2&gt;categoria&lt;/f2&gt; per i modelli di rapporti e un'altra per i modelli di lettere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you might name a modified Heading 1 style for an annual report &lt;f0&gt;AR Heading 1&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064651Z" creationid="manuel" creationdate="20180614T064651Z">
@@ -8743,6 +8751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also import and export templates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T163850Z" creationid="manuel" creationdate="20180615T163850Z">
+        <seg>Potete inoltre importare ed esportare i modelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also modify styles using the submenu on each style in the Apply Style list on the Formatting toolbar (see Figure &lt;t0&gt;49&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162315Z" creationid="manuel" creationdate="20180612T162315Z">
@@ -8859,6 +8875,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T113956Z" creationid="manuel" creationdate="20180611T113956Z">
         <seg>Potete creare un modello specifico per qualsiasi tipo di documento (testo, foglio elettronico, disegno, presentazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create new template &lt;f1&gt;categories&lt;/f1&gt; and use them to organize your templates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T163748Z" creationid="manuel" creationdate="20180615T163748Z">
+        <seg>Potete creare nuove &lt;f1&gt;categorie&lt;/f1&gt; di modelli e usarle per organizzare i vostri modelli.</seg>
       </tuv>
     </tu>
     <tu>
