@@ -9159,6 +9159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can get to the official template repository by using the &lt;f0&gt;Get more templates for LibreOffice&lt;/f0&gt; button at the right-hand end of the Template&lt;f1&gt;s&lt;/f1&gt; dialog, as shown in Figure &lt;t2&gt;55&lt;/t2&gt;, or by typing &lt;a3&gt;http://templates.libreoffice.org/template-center&lt;/a3&gt; in your browser’s address bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T172349Z" creationid="manuel" creationdate="20180615T172349Z">
+        <seg>Potete accedere al depositi ufficiali dei modelli utilizzando il pulsante &lt;f0&gt;Ottieni altri modelli per LibreOffice&lt;/f0&gt; all'estremità destra della finestra di dialogo &lt;f1&gt;Modello&lt;/f1&gt;, come mostrato nella figura &lt;t2&gt;55&lt;/t2&gt;, o digitando &lt;a3&gt;http://templates.libreoffice.org/template-center&lt;/a3&gt; nella barra degli indirizzi del browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can have as many slide shows as you want from a single presentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085956Z" creationid="luke" creationdate="20180515T085956Z">
