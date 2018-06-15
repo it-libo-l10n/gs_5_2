@@ -1919,6 +1919,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a template &lt;i0/&gt;&lt;f1&gt;category&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164443Z" creationid="manuel" creationdate="20180615T164443Z">
+        <seg>Creare una &lt;i0/&gt;&lt;f1&gt;categoria&lt;/f1&gt; di modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a template from a document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103053Z" creationid="manuel" creationdate="20180615T103053Z">
@@ -7727,6 +7735,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To begin, choose &lt;f0&gt;File &gt; Templates &gt; Manage &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Templates&lt;/f2&gt;&lt;/f1&gt; to open the Template&lt;f3&gt;s&lt;/f3&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164408Z" creationid="manuel" creationdate="20180615T164408Z">
+        <seg>Per cominciare, scegliete &lt;f0&gt;File &gt; Modelli &gt; Gestione &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;modelli&lt;/f2&gt;&lt;/f1&gt; per aprire la finestra di dialogo &lt;f3&gt;Modelli&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change an existing style using &lt;i0/&gt;the Style dialog, right-click on the required style in the Styles and Formatting window and select &lt;f1&gt;Modify&lt;/f1&gt; from the pop-up menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160553Z" creationid="manuel" creationdate="20180612T160553Z">
@@ -7795,6 +7811,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063414Z" creationid="manuel" creationdate="20180614T063414Z">
         <seg>Per creare un nuovo stile utilizzando la &lt;i0/&gt;finestra di dialogo Stile, fate clic con il pulsante destro del mouse all'interno della finestra Stili e Formattazione e quindi selezionate &lt;f1&gt;Nuovo&lt;/f1&gt; dal menu a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a template &lt;f0&gt;category&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164513Z" creationid="manuel" creationdate="20180615T164513Z">
+        <seg>Per creare una&lt;f0&gt;categoria&lt;/f0&gt; di modelli:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9555,6 +9579,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144723Z" creationid="manuel" creationdate="20180608T144723Z">
         <seg>file:///c|/lavoro/immagini/img.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>folders</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164411Z" creationid="manuel" creationdate="20180615T164411Z">
+        <seg>cartelle</seg>
       </tuv>
     </tu>
     <tu>
