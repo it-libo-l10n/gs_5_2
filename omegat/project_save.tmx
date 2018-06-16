@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;The Select Category dialog appears.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142917Z" creationid="manuel" creationdate="20180616T142917Z">
+        <seg>&lt;f4&gt;La finestra di dialogo Seleziona categoria appare.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f6&gt;In the popup dialog, select the required category and click &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;OK&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T110844Z" creationid="manuel" creationdate="20180616T110844Z">
@@ -4724,6 +4732,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162130Z" creationid="manuel" creationdate="20180612T162130Z">
         <seg>Nella finestra Stili e Formattazione, selezionate lo stile da aggiornare con un solo clic del mouse, fate clic sulla freccia accanto all'icona &lt;f0&gt;Nuovo stile dalla selezione&lt;/f0&gt; e scegliete &lt;f1&gt;Aggiorna stile&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Template&lt;f0&gt;s&lt;/f0&gt; dialog, &lt;f1&gt;c&lt;/f1&gt;lick the &lt;f2&gt;Import&lt;/f2&gt; button &lt;f3&gt;on the bottom right&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142819Z" creationid="manuel" creationdate="20180616T142819Z">
+        <seg>Nella finestra di dialogo &lt;f0&gt;Modelli&lt;/f0&gt;, &lt;f1&gt;fate clic&lt;/f1&gt; sul pulsante &lt;f2&gt;Importa&lt;/f2&gt; &lt;f3&gt;in basso a destra&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
