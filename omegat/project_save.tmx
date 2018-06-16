@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Right-click to open the context menu of the template and click &lt;/f0&gt;&lt;f1&gt;Delete&lt;/f1&gt; &lt;f2&gt;(Figure &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;52&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;)&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142213Z" creationid="manuel" creationdate="20180616T142213Z">
+        <seg>&lt;f0&gt;Fate clic con il pulsante destro del mouse per aprire il menu contestuale del modello e fate clic su &lt;/f0&gt;&lt;f1&gt;Elimina&lt;/f1&gt; &lt;f2&gt;(Figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;52&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;)&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Save original Basic code&lt;/f0&gt; takes precedence over &lt;f1&gt;Load Basic code&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154136Z" creationid="manuel" creationdate="20180608T154136Z">
@@ -634,6 +642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083245Z" creationid="manuel" creationdate="20180528T083245Z">
         <seg>Appare un elenco di pagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A message box appears and asks you to confirm the deletion.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142242Z" creationid="manuel" creationdate="20180616T142242Z">
+        <seg>Appare una finestra di dialogo in cui vi chiede conferma dell'eliminazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1683,6 +1699,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155841Z" creationid="manuel" creationdate="20180615T155841Z">
         <seg>Fate clic su &lt;f0&gt;Aggiorna gli stili&lt;/f0&gt; per applicare al documento gli stili del modello modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f6&gt;Yes&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142301Z" creationid="manuel" creationdate="20180616T142301Z">
+        <seg>Fate clic su &lt;f6&gt;Sì&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4460,6 +4484,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T164022Z" creationid="manuel" creationdate="20180608T155752Z">
         <seg>Importa – Usa 'Inglese (USA)' locale per i numeri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Importing a template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142305Z" creationid="manuel" creationdate="20180616T142305Z">
+        <seg>Importare un modello</seg>
       </tuv>
     </tu>
     <tu>
