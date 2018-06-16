@@ -4096,6 +4096,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, when the computer is restarted, Quickstarter will be loaded again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212140Z" creationid="Marco Marega" creationdate="20180616T212140Z">
+        <seg>In ogni caso, quando riavvierete il computer, Quickstart verrà caricato di nuovo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you can &lt;f0&gt;delete&lt;/f0&gt; a &lt;f1&gt;category&lt;/f1&gt; that you created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T105013Z" creationid="manuel" creationdate="20180616T105013Z">
@@ -9029,6 +9037,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160222Z" creationid="manuel" creationdate="20180608T160222Z">
         <seg>Per ottimizzare l'esportazione &lt;i0/&gt;HTML&lt;i1/&gt;, selezionate un browser oppure lo standard HTML dal riquadro &lt;f2&gt;Esporta&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To prevent the Quickstarter from loading during system startup, do one of the following:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212258Z" creationid="Marco Marega" creationdate="20180616T212258Z">
+        <seg>Per evitare che Quickstart venga caricato all'avvio del sistema, scegliete una della seguenti alternative:</seg>
       </tuv>
     </tu>
     <tu>
