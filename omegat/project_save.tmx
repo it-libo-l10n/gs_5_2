@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Help&lt;/f0&gt; – contains links to the LibreOffice Help file, What’s This?, and information about the program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215429Z" creationid="Marco Marega" creationdate="20180616T215429Z">
+        <seg>&lt;f0&gt;Aiuto&lt;/f0&gt; contiene collegamenti alla Guida di LibreOffice, Cos'è questo?, e informazioni sul programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If&lt;/f0&gt; you se&lt;f1&gt;lec&lt;/f1&gt;t&lt;f2&gt;ed&lt;/f2&gt; &lt;f3&gt;Add caption to each slide&lt;/f3&gt;, &lt;f4&gt;t&lt;/f4&gt;here will be a placeholder for the image caption &lt;f5&gt;(title) on each slide.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085946Z" creationid="luke" creationdate="20180515T085946Z">
@@ -526,10 +534,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Tools&lt;/f0&gt; – contains functions such as Spelling and Grammar, AutoCorrect, Customize, and Options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215316Z" creationid="Marco Marega" creationdate="20180616T215316Z">
+        <seg>&lt;f0&gt;Strumenti&lt;/f0&gt; comprende funzioni come Ortografia e Grammatica, Correzione Automatica e Opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for controlling the display of the document such as Zoom and Web Layout.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214755Z" creationid="Marco Marega" creationdate="20180616T214755Z">
         <seg>&lt;f0&gt;Visualizza&lt;/f0&gt; include comandi che agiscono sulla visualizzazione del documento, quali lo Zoom e Layout web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Window&lt;/f0&gt; – contains commands for the display window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215352Z" creationid="Marco Marega" creationdate="20180616T215352Z">
+        <seg>&lt;f0&gt;Finestra&lt;/f0&gt; contiene i comandi che agiscono sul contenuto dello schermo.</seg>
       </tuv>
     </tu>
     <tu>
