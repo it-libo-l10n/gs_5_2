@@ -3496,6 +3496,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you restarted page numbering at 1 on the third page, its page number is 1 and its sequence number is 3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T162501Z" creationid="manuel" creationdate="20180616T162501Z">
+        <seg>Ad esempio, se avete reimpostato la numerazione assegnando il numero 1 alla terza pagina, il suo numero di pagina sarà 1 mentre il suo numero sequenziale sarà 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in Writer &lt;f0&gt;Ctrl+0&lt;/f0&gt; applies the &lt;f1&gt;Text body&lt;/f1&gt; style, &lt;f2&gt;Ctrl+1&lt;/f2&gt; applies the &lt;f3&gt;Heading 1&lt;/f3&gt; style, and &lt;f4&gt;Ctrl+2&lt;/f4&gt; applies the &lt;f5&gt;Heading 2&lt;/f5&gt; style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154128Z" creationid="manuel" creationdate="20180612T154128Z">
