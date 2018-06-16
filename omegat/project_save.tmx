@@ -6296,6 +6296,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Edit &gt; Copy&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+C&lt;/f1&gt;, to copy the contents of the document to the clipboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101113Z" creationid="manuel" creationdate="20180616T101113Z">
+        <seg>Selezionate &lt;f0&gt;Modifica &gt; Copia&lt;/f0&gt;, o premete &lt;f1&gt;Ctrl+C&lt;/f1&gt;, per copiare il contenuto del documento negli appunti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Edit &gt; Select All&lt;/f0&gt; or press &lt;f1&gt;Ctrl+A&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T100831Z" creationid="manuel" creationdate="20180616T100831Z">
+        <seg>Selezionate &lt;f0&gt;Modifica &gt; Seleziona tutto&lt;/f0&gt; o premete &lt;f1&gt;Ctrl+A&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Keep Old Styles&lt;/f0&gt; if you do not want to apply the changed styles in the template to the document (but see the Caution notice below).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160054Z" creationid="manuel" creationdate="20180615T160054Z">
