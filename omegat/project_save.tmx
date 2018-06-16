@@ -8224,6 +8224,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main window is similar for each component of LibreOffice, although some details vary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214007Z" creationid="Marco Marega" creationdate="20180616T214007Z">
+        <seg>La finestra principale, a parte qualche dettaglio, è simile per tutti i componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The menu has the most important paragraph and character styles for almost every text document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160045Z" creationid="manuel" creationdate="20180611T160045Z">
