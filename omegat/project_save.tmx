@@ -7559,6 +7559,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The templates are available for use through &lt;f0&gt;File &gt; Templates &gt; Manage &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Templates&lt;/f2&gt;&lt;/f1&gt; and &lt;f3&gt;File &gt; New &gt; Templates&lt;/f3&gt; and the extension is listed in the Extension Manager.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T074819Z" creationid="manuel" creationdate="20180616T074819Z">
+        <seg>I modelli sono disponibili per l'uso attraverso &lt;f0&gt;File &gt; Modelli &gt; Gestisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;modelli&lt;/f2&gt;&lt;/f1&gt; e &lt;f3&gt;File &gt; Nuovo &gt; Modelli&lt;/f3&gt; e le estensioni sono elencati in Gestione estensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two boxes below list the OpenCL drivers whitelist and blacklist.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140621Z" creationid="manuel" creationdate="20180608T140621Z">
