@@ -1030,6 +1030,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the time of writing this chapter, LibreOffice has no direct method of changing the template that a document uses; the Template Changer extension has not been updated for this version of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T095821Z" creationid="manuel" creationdate="20180616T095821Z">
+        <seg>Al momento della stesura di questo capitolo, LibreOffice non ha alcun metodo diretto per modificare il modello utilizzato da un documento; l'estensione Modifica modello non è stata aggiornata per questa versione di LibreOffice.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Authors whose work may be very lengthy should always consider using this option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144455Z" creationid="manuel" creationdate="20180608T144455Z">
@@ -3647,6 +3656,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you can copy the contents of a document into an empty document that uses a different template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T095845Z" creationid="manuel" creationdate="20180616T095845Z">
+        <seg>Tuttavia, è possibile copiare il contenuto di un documento in un documento vuoto che utilizza un modello diverso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Character Styles are active, the character style will be added to the list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070445Z" creationid="manuel" creationdate="20180614T070445Z">
@@ -5871,6 +5888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Point to &lt;f0&gt;Reset Default Template&lt;/f0&gt; on the drop-down menu, and click &lt;f1&gt;Text Document&lt;/f1&gt; (or other template type).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T095623Z" creationid="manuel" creationdate="20180616T095623Z">
+        <seg>Puntate su &lt;f0&gt;Ripristina modello predefinito&lt;/f0&gt; nel menu a discesa e fate clic su &lt;f1&gt;Documento di testo&lt;/f1&gt; (o altro tipo di modello).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Possible mistakes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104216Z" creationid="manuel" creationdate="20180609T104216Z">
@@ -7691,6 +7716,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073229Z" creationid="manuel" creationdate="20180531T073229Z">
         <seg>Queste scelte &lt;f0&gt;non&lt;/f0&gt; influiscono sul carattere standard per i vostri documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These choices do not appear unless a custom template has been set as the default, as described in the previous section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T095655Z" creationid="manuel" creationdate="20180616T095655Z">
+        <seg>Queste scelte non appaiono a meno che un modello personalizzato non sia stato impostato come predefinito, come descritto nella sezione precedente.</seg>
       </tuv>
     </tu>
     <tu>
