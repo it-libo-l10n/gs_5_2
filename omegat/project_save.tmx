@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A new document opens, containing any text or graphics that were in the template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T100715Z" creationid="manuel" creationdate="20180616T100542Z">
+        <seg>Un nuovo documento viene aperto, contenente testo e immagini presenti nel modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A relative address always starts from the directory in which the current document is located.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144530Z" creationid="manuel" creationdate="20180608T144530Z">
@@ -2156,6 +2164,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165000Z" creationid="manuel" creationdate="20180615T165000Z">
         <seg>Definire una sequenza di stili di paragrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete any unwanted text or graphics from this new document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T100745Z" creationid="manuel" creationdate="20180616T100705Z">
+        <seg>Cancellate testo e immagini non desiderate in questo nuovo documento.</seg>
       </tuv>
     </tu>
     <tu>
