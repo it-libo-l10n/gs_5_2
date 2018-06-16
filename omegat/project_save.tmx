@@ -3303,6 +3303,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Templates &gt; Manage &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Templates&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T075456Z" creationid="manuel" creationdate="20180616T075456Z">
+        <seg>Dalla barra dei menu, scegliete &lt;f0&gt;File &gt; Modelli &gt; Gestisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;modelli&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Templates &gt; Save &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;s Template&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104736Z" creationid="manuel" creationdate="20180615T104736Z">
@@ -9307,6 +9315,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070201Z" creationid="manuel" creationdate="20180531T070201Z">
         <seg>Potete selezionare un colore da una tavolozza, modificare un colore già presente e definire nuovi colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can set any template displayed in the Template&lt;f0&gt;s&lt;/f0&gt; dialog to be the default for that document type:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T075359Z" creationid="manuel" creationdate="20180616T075359Z">
+        <seg>Potete impostare qualsiasi modello visualizzato nella finestra di dialogo &lt;f0&gt;Modello&lt;/f0&gt; come predefinito per quel tipo di documento:</seg>
       </tuv>
     </tu>
     <tu>
