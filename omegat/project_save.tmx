@@ -2448,6 +2448,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disabling Quickstarter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T211842Z" creationid="Marco Marega" creationdate="20180616T211842Z">
+        <seg>Disattivare Quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displaying different headers on right and left pages</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171412Z" creationid="manuel" creationdate="20180615T171412Z">
@@ -3068,6 +3076,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155503Z" creationid="manuel" creationdate="20180608T155503Z">
         <seg>Figura &lt;seq0&gt;39&lt;/seq0&gt;: scelta delle opzioni Compatibilità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Quickstarter menu in Windows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T211826Z" creationid="Marco Marega" creationdate="20180616T211826Z">
+        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: il menu di Quickstart in Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -9117,6 +9133,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T210102Z" creationid="Marco Marega" creationdate="20180614T210102Z">
         <seg>Per avviare direttamente un componente di LibreOffice usando Quickstart:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To temporarily close Quickstarter on a computer using a Windows operating system, right-click on the &lt;f0&gt;Quickstarter&lt;/f0&gt; icon in the system tray and select &lt;f1&gt;Exit Quickstarter&lt;/f1&gt; in the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212052Z" creationid="Marco Marega" creationdate="20180616T212052Z">
+        <seg>Per chiudere temporaneamente Quickstart su di un computer con sistema operativo Windows, fate clic con il tasto destro del mouse sull'icona di &lt;f0&gt;Quickstart&lt;/f0&gt; nell'area di notifica e nel menu a comparsa selezionate &lt;f1&gt;Termina Quickstart&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
