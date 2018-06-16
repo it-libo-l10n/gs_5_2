@@ -4688,6 +4688,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Template&lt;f0&gt;s&lt;/f0&gt; dialog, &lt;f1&gt;select the category&lt;/f1&gt; that contains the template you want to delete.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T141930Z" creationid="manuel" creationdate="20180616T141930Z">
+        <seg>Nella finestra di dialogo &lt;f0&gt;Modello&lt;/f0&gt;, &lt;f1&gt;selezionate la categoria &lt;/ f1&gt; che contiene il modello che desiderate eliminare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Template&lt;f0&gt;s&lt;/f0&gt; dialog, click the &lt;f1&gt;Action Menu&lt;/f1&gt; icon on the &lt;f2&gt;bottom left&lt;/f2&gt; &lt;f3&gt;(Figure &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;56&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T094907Z" creationid="manuel" creationdate="20180616T094907Z">
@@ -6676,6 +6684,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085954Z" creationid="luke" creationdate="20180515T085954Z">
         <seg>Select the slides you want to use in your custom slide show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the template to delete.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T141946Z" creationid="manuel" creationdate="20180616T141946Z">
+        <seg>Selezionate il modello che volete eliminare.</seg>
       </tuv>
     </tu>
     <tu>
