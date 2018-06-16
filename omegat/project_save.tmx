@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And many more</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160956Z" creationid="manuel" creationdate="20180616T160956Z">
+        <seg>E molto altro ancora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Another way to define or alter colors is through the Colors page of the Area dialog, where you can also save and load palettes, a feature that is not possible here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072723Z" creationid="manuel" creationdate="20180531T072723Z">
@@ -1303,6 +1311,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Built-in drawing tools</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160720Z" creationid="manuel" creationdate="20180616T160720Z">
+        <seg>Strumenti di disegno integrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But if you find unexplained changes appearing in your document, this is a good place to look to find the cause.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141041Z" creationid="manuel" creationdate="20180609T141041Z">
@@ -1443,6 +1459,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170001Z" creationid="manuel" creationdate="20180608T170001Z">
         <seg>Cambiare le impostazioni locali e della lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change tracking during revisions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160801Z" creationid="manuel" creationdate="20180616T160801Z">
+        <seg>Annotazione delle modifiche durante le revisioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -2264,6 +2288,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Database integration, including a bibliography database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160806Z" creationid="manuel" creationdate="20180616T160806Z">
+        <seg>Integrazione con database, incluso database bibliografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date (fixed)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085937Z" creationid="luke" creationdate="20180515T085937Z">
@@ -2432,6 +2464,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Document digital signature</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160835Z" creationid="manuel" creationdate="20180616T160835Z">
+        <seg>Firma digitale del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Document elements like the date, subject line (business fax), salutation, and complimentary close</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121221Z" creationid="manuel" creationdate="20180615T121221Z">
@@ -2592,6 +2632,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Embedding or linking of graphics, spreadsheets, and other objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160716Z" creationid="manuel" creationdate="20180616T160716Z">
+        <seg>Incorporamento o collegamento di immagini, fogli elettronici e altri oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable &lt;i0/&gt;experimental features</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065447Z" creationid="manuel" creationdate="20180608T065447Z">
@@ -2708,6 +2756,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160211Z" creationid="manuel" creationdate="20180608T160211Z">
         <seg>Esporta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export to PDF, including bookmarks (see Chapter 10)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160815Z" creationid="manuel" creationdate="20180616T160815Z">
+        <seg>Esportazione in formato PDF, inclusi i segnalibri (vedi Capitolo 10)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3596,6 +3652,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T061432Z" creationid="manuel" creationdate="20180531T061432Z">
         <seg>Forza l'uso di OpenGL anche se il dispositivo grafico è nella lista nera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Form design and filling</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160941Z" creationid="manuel" creationdate="20180616T160941Z">
+        <seg>Strutta e riempimento del formulario</seg>
       </tuv>
     </tu>
     <tu>
@@ -5512,6 +5576,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mail merge</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160809Z" creationid="manuel" creationdate="20180616T160809Z">
+        <seg>Stampa in serie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make your selections and click &lt;f3&gt;Save&lt;/f3&gt; to close the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T135455Z" creationid="manuel" creationdate="20180615T135455Z">
@@ -5572,6 +5644,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140408Z" creationid="manuel" creationdate="20180608T140408Z">
         <seg>Contrassegnate questa casella per emulare OpenCL se il driver della scheda video del computer non supporta OpenCL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master documents—to group a collection of documents into a single document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160758Z" creationid="manuel" creationdate="20180616T160758Z">
+        <seg>Documenti master—per unire un insieme di documenti in un solo documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -7664,6 +7744,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Writer interface</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161004Z" creationid="manuel" creationdate="20180616T161004Z">
+        <seg>L'interfaccia di Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The advantage is that the document containing the references can be moved to other directories or folders, and the references remain valid.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144745Z" creationid="manuel" creationdate="20180608T144745Z">
@@ -8252,6 +8340,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070207Z" creationid="manuel" creationdate="20180531T070207Z">
         <seg>Questi colori sono salvati nella vostra tavola dei colori e sono quindi disponibili in tutti i componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These features are covered in detail in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161002Z" creationid="manuel" creationdate="20180616T161002Z">
+        <seg>Queste funzioni sono illustrate in dettaglio nella &lt;f0&gt;Guida a Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
