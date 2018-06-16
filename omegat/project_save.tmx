@@ -3888,6 +3888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they are not, use &lt;f0&gt;Edit &gt; Find &amp;&lt;/f0&gt; &lt;f1&gt;Replace&lt;/f1&gt; to replace old styles with new ones.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T100221Z" creationid="manuel" creationdate="20180616T100221Z">
+        <seg>Se non lo sono, usate &lt;f0&gt;Modifica &gt; Trova e &lt;/f0&gt; &lt;f1&gt;sostituisci&lt;/f1&gt; per sostiuire vecchi stili con quelli nuovi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this box is not selected, you will only copy styles whose names are not used in the original document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071723Z" creationid="manuel" creationdate="20180614T071723Z">
@@ -8508,6 +8516,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162926Z" creationid="manuel" creationdate="20180612T162926Z">
         <seg>Aggiornamento di uno stile da un documento o da un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;File &gt; Templates &gt; Manage &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Templates&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;to open the Template&lt;f4&gt;s&lt;/f4&gt; dialog, and select the template you want to use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T100422Z" creationid="manuel" creationdate="20180616T100422Z">
+        <seg>Usate &lt;f0&gt;File &gt; Modelli &gt; Gestisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;modelli&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;per aprire la finestra di dialogo &lt;f4&gt;Modelli&lt;/f4&gt;, e selezionate il modello desiderato.</seg>
       </tuv>
     </tu>
     <tu>
