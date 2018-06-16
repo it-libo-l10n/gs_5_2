@@ -1615,6 +1615,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;New &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;category&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; on the context menu&lt;/f3&gt; (see Figure &lt;t4&gt;57&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T103655Z" creationid="manuel" creationdate="20180616T103655Z">
+        <seg>Fate clic sul menu contestuale &lt;f0&gt;Nuova &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;categoria&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt; (vedere Figura &lt;t4&gt;57&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to copy the styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071739Z" creationid="manuel" creationdate="20180614T071739Z">
@@ -2212,6 +2220,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T100745Z" creationid="manuel" creationdate="20180616T100705Z">
         <seg>Cancellate testo e immagini non desiderate in questo nuovo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting a template &lt;f0&gt;category&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T103905Z" creationid="manuel" creationdate="20180616T103843Z">
+        <seg>Eliminare una &lt;f0&gt;categoria&lt;/f0&gt; di modelli</seg>
       </tuv>
     </tu>
     <tu>
@@ -9596,6 +9612,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160609Z" creationid="manuel" creationdate="20180611T160609Z">
         <seg>Non potete aggiungere stili personalizzati al menu Stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot create a &lt;f0&gt;sub-category&lt;/f0&gt; inside a template &lt;f1&gt;category&lt;/f1&gt; in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T103820Z" creationid="manuel" creationdate="20180616T103820Z">
+        <seg>Non potete creare una &lt;f0&gt;sotto categoria&lt;/f0&gt; all'interno di una &lt;f1&gt;categoria&lt;/f1&gt; di mdoelli in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot delete template &lt;f0&gt;categories&lt;/f0&gt; supplied with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T103858Z" creationid="manuel" creationdate="20180616T103858Z">
+        <seg>Non potete cancellaYou cannot delete template &lt;f0&gt;categories&lt;/f0&gt; supplied with LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
