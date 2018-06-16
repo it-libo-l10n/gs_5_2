@@ -5223,6 +5223,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most default settings, such as page size and page margins, can be changed in &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;, but those changes apply only to the document you are working on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T075210Z" creationid="manuel" creationdate="20180616T075210Z">
+        <seg>La maggior parte delle impostazioni predefinite, come la dimensione della pagina e i margini della pagina, possono essere modificate in &lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt;, ma tali modifiche si applicano solo al documento su cui state lavorando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of the choices on the &lt;f0&gt;Load/Save – General&lt;/f0&gt; page are familiar to users of other office suites.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T160356Z" creationid="manuel" creationdate="20180608T142727Z">
@@ -8143,6 +8151,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make those changes the default settings for that document type, you need to replace the default template with a new one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T075249Z" creationid="manuel" creationdate="20180616T075249Z">
+        <seg>Per apportare tali modifiche alle impostazioni predefinite per quel tipo di documento, è necessario sostituire il modello predefinito con uno nuovo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To manually remove personal information from specific documents, deselect this option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084024Z" creationid="manuel" creationdate="20180606T084024Z">
@@ -9371,6 +9387,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121159Z" creationid="manuel" creationdate="20180615T121159Z">
         <seg>Potete usare le procedure guidate per creare modelli di lettere, fax, agende, presentazioni e pagine Web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can, however, change the default whenever you choose.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T075040Z" creationid="manuel" creationdate="20180616T075040Z">
+        <seg>Tuttavia, potete modificare l'impostazione predefinita ogni volta che scegliete.</seg>
       </tuv>
     </tu>
     <tu>
