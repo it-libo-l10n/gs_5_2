@@ -784,8 +784,8 @@
       <tuv lang="EN">
         <seg>Activating Quickstarter</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203659Z" creationid="Marco Marega" creationdate="20180607T203659Z">
-        <seg>Attivazione di Quickstart</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212735Z" creationid="Marco Marega" creationdate="20180607T203659Z">
+        <seg>Attivare Quickstart</seg>
       </tuv>
     </tu>
     <tu>
@@ -3904,6 +3904,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Memory&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;Load LibreOffice during system start-up&lt;/f1&gt; (on Windows) or deselect &lt;f2&gt;Enable systray Quickstarter&lt;/f2&gt; on Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212654Z" creationid="Marco Marega" creationdate="20180616T212654Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Memoria&lt;/f0&gt; e selezionate &lt;f1&gt;Apri LibreOffice durante l'avvio del sistema&lt;/f1&gt; (su Windows) oppure deselezionate &lt;f2&gt;Abilita Quickstart&lt;/f2&gt; (su Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Memory&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Load LibreOffice during system start-up&lt;/f1&gt; (if using Windows) or select &lt;f2&gt;Enable systray Quickstarter&lt;/f2&gt; (if using Linux).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T205447Z" creationid="Marco Marega" creationdate="20180614T205447Z">
@@ -4156,6 +4164,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070441Z" creationid="manuel" creationdate="20180614T070441Z">
         <seg>Se è attiva l'opzione Stili di paragrafo, lo stile del paragrafo prescelto verrà aggiunto all'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Quickstarter has been disabled, you can reactivate it by using the instructions given in “&lt;bf0&gt;Activating Quickstarter&lt;/bf0&gt;” above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212848Z" creationid="Marco Marega" creationdate="20180616T212848Z">
+        <seg>Se Quickstart è stato disattivato, potete riattivarlo seguendo le istruzioni fornite sopra per “&lt;bf0&gt;Attivare Quickstart&lt;/bf0&gt;”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6596,6 +6612,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
         <seg>Rather than having to create a new presentation, you can use two tools that Impress offers: hiding slides and custom slide shows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reactivating Quickstarter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212727Z" creationid="Marco Marega" creationdate="20180616T212727Z">
+        <seg>Riattivare Quickstart</seg>
       </tuv>
     </tu>
     <tu>
