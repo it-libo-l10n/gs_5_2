@@ -2360,6 +2360,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Details are in Chapter 4, Formatting Pages, in the &lt;f4&gt;Writer Guide&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144312Z" creationid="manuel" creationdate="20180616T144312Z">
+        <seg>Potete trovare dettagli al riguardo nel Capitolo 4 (Formattazione delle pagine) nella &lt;f4&gt;Guida a Writer&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionaries installed by the system cannot be deleted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091435Z" creationid="manuel" creationdate="20180609T091435Z">
@@ -2388,6 +2396,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171412Z" creationid="manuel" creationdate="20180615T171412Z">
         <seg>Visualizzare intestazioni differenti nelle pagine destre e sinistre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dividing a document into chapters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144338Z" creationid="manuel" creationdate="20180616T144338Z">
+        <seg>Dividere un documento in capitoli</seg>
       </tuv>
     </tu>
     <tu>
@@ -3120,6 +3136,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;59&lt;/seq0&gt;: Flow of page styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144335Z" creationid="manuel" creationdate="20180616T144335Z">
+        <seg>Figura &lt;seq0&gt;59&lt;/seq0&gt;: flusso di stili di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;60&lt;/seq0&gt;: Dividing a document into chapters using page styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102516Z" creationid="manuel" creationdate="20180616T102516Z">
@@ -3132,6 +3156,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140320Z" creationid="manuel" creationdate="20180611T161453Z">
         <seg>La Figura &lt;t0&gt;46&lt;/t0&gt; mostra la finestra Stili e formattazione di Writer, in cui sono visibili gli Stili di paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t2&gt;59&lt;/t2&gt; shows what we want to happen: the first page is to be followed by the default page, and all the following pages are to be in the &lt;f3&gt;Default&lt;/f3&gt; page style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144249Z" creationid="manuel" creationdate="20180616T144249Z">
+        <seg>La Figura &lt;t2&gt;59&lt;/t2&gt; mostra quello che si vuole ottenere: la prima pagina deve essere seguita dalla pagina predefinita e tutte le pagine successive devono avere lo stile di pagina &lt;f3&gt;Predefinito&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4684,6 +4716,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070039Z" creationid="manuel" creationdate="20180531T070039Z">
         <seg>Ad esempio, in Windows potreste voler salvare in maniera predefinita i documenti in una cartella diversa da Documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a similar way, you can &lt;i0/&gt;divide a document into chapters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144342Z" creationid="manuel" creationdate="20180616T144342Z">
+        <seg>In modo simile, potete &lt;i0/&gt;dividere un documento in capitoli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10317,6 +10357,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171421Z" creationid="manuel" creationdate="20180615T171421Z">
         <seg>differenze nelle pagine destre e sinistre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>divide document into chapters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144340Z" creationid="manuel" creationdate="20180616T144340Z">
+        <seg>dividere un documento in capitoli</seg>
       </tuv>
     </tu>
     <tu>
