@@ -8400,6 +8400,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To move a template from one template &lt;f0&gt;category&lt;/f0&gt; to another, select it in the Template&lt;f1&gt;s&lt;/f1&gt; dialog, and click the &lt;f2&gt;Move&lt;/f2&gt; button &lt;f3&gt;in the bottom center&lt;/f3&gt; &lt;f4&gt;of the dialog&lt;/f4&gt; (see Figure &lt;t5&gt;58&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T110039Z" creationid="manuel" creationdate="20180616T110039Z">
+        <seg>Per spostare un modello da una &lt;f0&gt;categoria&lt;/f0&gt; di modelli a un altra, selezionatelo nella finestra di dialogo Modello &lt;f1&gt;&lt;/f1&gt; e fate clic sul pulsante &lt;f2&gt;Sposta&lt;/f2&gt; &lt;f3&gt;nel centro in basso&lt;/f3&gt; &lt;f4&gt;della finestra di dialogo&lt;/f4&gt; (vedere Figura &lt;t5&gt;58&lt;/t5&gt;).
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To open the AutoCorrect dialog, click &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141127Z" creationid="manuel" creationdate="20180609T141127Z">
