@@ -8672,6 +8672,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To go back to the portrait page style, insert another page break and select the default portrait page style of your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T151813Z" creationid="manuel" creationdate="20180616T151813Z">
+        <seg>Per tornare allo stile della pagina verticale, inserite un'altra interruzione di pagina e selezionate lo stile predefinito della pagina verticale del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To have the shortcut key assignment available only with one component (for example, Writer), select that component’s name in the upper right corner of the page; otherwise select &lt;f0&gt;LibreOffice&lt;/f0&gt; to make it available to every component.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154737Z" creationid="luke" creationdate="20180514T154737Z">
@@ -10085,6 +10093,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154814Z" creationid="luke" creationdate="20180514T154814Z">
         <seg>You may get better results by passing scanned material into a graphics program and cleaning it up there before inserting the resulting image into LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may have to adjust the other page properties such as headers, footers, and page numbering of the landscape style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T151740Z" creationid="manuel" creationdate="20180616T151740Z">
+        <seg>Potreste dover regolare le altre proprietà della pagina come intestazioni, piè di pagina e numerazione delle pagine dello stile orizzontale.</seg>
       </tuv>
     </tu>
     <tu>
