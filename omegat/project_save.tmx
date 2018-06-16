@@ -8480,6 +8480,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To export a template from a template &lt;f0&gt;category&lt;/f0&gt; to another location &lt;f1&gt;in your computer or network&lt;/f1&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143434Z" creationid="manuel" creationdate="20180616T143434Z">
+        <seg>Per esportare un modello da una &lt;f0&gt;categoria&lt;/f0&gt; di modelli in un'altra posizione&lt;f1&gt; nel vostro computer o in rete&lt;/f1&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To get the software, access your mobile device application store, either Google Play Store for Android devices or Apple Store for IOs devices.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090048Z" creationid="luke" creationdate="20180515T090048Z">
