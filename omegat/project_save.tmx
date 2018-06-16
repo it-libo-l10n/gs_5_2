@@ -5448,6 +5448,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving a template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T105417Z" creationid="manuel" creationdate="20180616T105417Z">
+        <seg>Spostare un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiplication sign</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T112943Z" creationid="manuel" creationdate="20180609T112943Z">
@@ -9020,6 +9028,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152507Z" creationid="manuel" creationdate="20180608T152507Z">
         <seg>Quando un file salvato in ODF 1.2 Esteso viene aperto con un editor che utilizza versioni precedenti di ODF (1.0/1.1), alcune delle caratteristiche avanzate potrebbero perdersi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a message box appears asking you to confirm the deletion, click &lt;f4&gt;Yes&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T105413Z" creationid="manuel" creationdate="20180616T105413Z">
+        <seg>Quando appare una finsetra di dialogo in cui vi chiede conferma dell'eliminazione, fate clic &lt;f4&gt;Sì&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
