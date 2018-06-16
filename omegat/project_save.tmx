@@ -1231,6 +1231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before you can use a template in LibreOffice, it must be in one of the folders listed for the Template path in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142705Z" creationid="manuel" creationdate="20180616T142705Z">
+        <seg>Prima che possiate usare un modello in LibreOffice, esso deve trovarsi in una delle cartelle elencate per il percorso Modello in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Percorsi&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But if you find unexplained changes appearing in your document, this is a good place to look to find the cause.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141041Z" creationid="manuel" creationdate="20180609T141041Z">
