@@ -3240,6 +3240,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;61&lt;/seq0&gt;: The main Writer workspace</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161215Z" creationid="manuel" creationdate="20180616T161215Z">
+        <seg>Figura &lt;seq0&gt;61&lt;/seq0&gt;: l'area di lavoro principale di Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140320Z" creationid="manuel" creationdate="20180611T161453Z">
@@ -7320,6 +7328,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some other features of the Writer interface are covered in this chapter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161140Z" creationid="manuel" creationdate="20180616T161140Z">
+        <seg>In questo capitolo sono trattate anche altre funzionalità dell'interfaccia di Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some people find some or all of the items in LibreOffice’s AutoCorrect function annoying because they change what you type when you do not want it changed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141018Z" creationid="manuel" creationdate="20180609T141018Z">
@@ -7380,6 +7396,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213528Z" creationid="Marco Marega" creationdate="20180531T213528Z">
         <seg>Avviare LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Status Bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161217Z" creationid="manuel" creationdate="20180616T161217Z">
+        <seg>Barra di stato</seg>
       </tuv>
     </tu>
     <tu>
@@ -7744,6 +7768,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Writer &lt;i0/&gt;Status Bar provides information about the document and convenient ways to change some document features quickly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161306Z" creationid="manuel" creationdate="20180616T161306Z">
+        <seg>La &lt;i0/&gt;barra di stato di Writer fornisce informazioni sul documento e comodi strumenti per cambiarne alcune caratteristiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Writer interface</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161004Z" creationid="manuel" creationdate="20180616T161004Z">
@@ -8072,10 +8104,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main Writer workspace is shown in Figure &lt;t0&gt;61&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161127Z" creationid="manuel" creationdate="20180616T161127Z">
+        <seg>L'area di lavoro principale di Writer è mostrata in Figura &lt;t0&gt;61&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The menu has the most important paragraph and character styles for almost every text document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160045Z" creationid="manuel" creationdate="20180611T160045Z">
         <seg>Il menu per gli stili di paragrafo e carattere è il più importante per quasi tutti i documenti di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The menus and toolbars are described in Chapter 1, Introducing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161133Z" creationid="manuel" creationdate="20180616T161133Z">
+        <seg>Menu e barre degli strumenti sono descritti nel Capitolo 1 (Introduzione a LibreOffice).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11077,6 +11125,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T082145Z" creationid="manuel" creationdate="20180609T082145Z">
         <seg>opzioni del controllo ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>status bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161225Z" creationid="manuel" creationdate="20180616T161225Z">
+        <seg>barra di stato</seg>
       </tuv>
     </tu>
     <tu>
