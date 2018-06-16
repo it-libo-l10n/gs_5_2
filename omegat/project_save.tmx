@@ -1823,6 +1823,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Export&lt;/f0&gt; button &lt;f1&gt;in the bottom right of the dialog&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143848Z" creationid="manuel" creationdate="20180616T143848Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Esporta&lt;/f0&gt; &lt;f1&gt;in basso a destra della finestra di dialogo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Macro Security&lt;/f0&gt; button to open the &lt;i1/&gt;Macro Security dialog (not shown here), where you can adjust the security level for executing macros and specify trusted sources.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073032Z" creationid="manuel" creationdate="20180606T073032Z">
@@ -2616,6 +2624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Examples of style use</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143909Z" creationid="manuel" creationdate="20180616T143909Z">
+        <seg>Esempi di utilizzo dello stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Expert Configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T155729Z" creationid="manuel" creationdate="20180608T070619Z">
@@ -3148,6 +3164,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160507Z" creationid="manuel" creationdate="20180615T160507Z">
         <seg>Trovate e selezionate il pacchetto di modelli che volete installare e fate clic su &lt;f0&gt;Apri&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find the folder into which you want to export the template and select &lt;f0&gt;Save&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143904Z" creationid="manuel" creationdate="20180616T143904Z">
+        <seg>Trovate la cartella in cui volete esportare il modello e fate clic su &lt;f0&gt;Salva&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4772,6 +4796,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162130Z" creationid="manuel" creationdate="20180612T162130Z">
         <seg>Nella finestra Stili e Formattazione, selezionate lo stile da aggiornare con un solo clic del mouse, fate clic sulla freccia accanto all'icona &lt;f0&gt;Nuovo stile dalla selezione&lt;/f0&gt; e scegliete &lt;f1&gt;Aggiorna stile&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Templat&lt;f0&gt;es&lt;/f0&gt; dialog, &lt;f1&gt;locate&lt;/f1&gt; &lt;f2&gt;the category &lt;/f2&gt;that contains the template to export.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143633Z" creationid="manuel" creationdate="20180616T143633Z">
+        <seg>Nella finestra di dialogo &lt;f0&gt;Modelli&lt;/f0&gt;, &lt;f1&gt;individuate&lt;/f1&gt; &lt;f2&gt;la categoria&lt;/f2&gt; che contiene il modello da esportare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6784,6 +6816,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the template that you want to export.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143635Z" creationid="manuel" creationdate="20180616T143635Z">
+        <seg>Selezionate il modello che volete esportare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the template to delete.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T141946Z" creationid="manuel" creationdate="20180616T141946Z">
@@ -7400,6 +7440,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Save As window opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143852Z" creationid="manuel" creationdate="20180616T143852Z">
+        <seg>Si aprirà la finestra Salva con nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Scenario Manager provides “what if” analysis.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200605Z" creationid="Marco Marega" creationdate="20180527T200605Z">
@@ -7668,6 +7716,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144735Z" creationid="manuel" creationdate="20180608T144735Z">
         <seg>I file verranno trovati a prescindere dalla posizione, fintantoché il riferimento rimane sulla stessa unità o volume.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following examples of common use of page and paragraph styles are taken from Writer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143918Z" creationid="manuel" creationdate="20180616T143918Z">
+        <seg>I seguenti esempi di utilizzo comune di stili di pagina e paragrafo sono presi da Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7972,6 +8028,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090040Z" creationid="luke" creationdate="20180515T090040Z">
         <seg>The view you see on your computer display includes the current slide, the upcoming slide, any slide notes, and a presentation timer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are many other ways to use styles; see the guides for the various components for details.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143925Z" creationid="manuel" creationdate="20180616T143925Z">
+        <seg>Vi sono molti altri modi di usare gli stili; consultate le guide dei vari componenti per dettagli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10197,6 +10261,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170007Z" creationid="manuel" creationdate="20180608T170007Z">
         <seg>dizionari, installazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>different first page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143929Z" creationid="manuel" creationdate="20180616T143929Z">
+        <seg>prima pagina diversa &lt;s0/&gt;76</seg>
       </tuv>
     </tu>
     <tu>
