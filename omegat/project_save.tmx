@@ -1207,6 +1207,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automated tables of contents and indexes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160658Z" creationid="manuel" creationdate="20180616T160658Z">
+        <seg>Aggiungere indice generale, bibliografia e indice analitico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available only in some operating systems and desktop managers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T065951Z" creationid="manuel" creationdate="20180529T065951Z">
@@ -1513,8 +1521,8 @@
       <tuv lang="EN">
         <seg>Chapter 4 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T082829Z" creationid="luke" creationdate="20180515T082829Z">
-        <seg>Chapter 4 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160419Z" creationid="luke" creationdate="20180515T082829Z">
+        <seg>Capitolo 4 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3712,6 +3720,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Getting Started with Writer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160421Z" creationid="manuel" creationdate="20180616T160421Z">
+        <seg>Guida introduttiva a Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Advance slide&lt;/f0&gt; and select the &lt;f1&gt;Automatically after&lt;/f1&gt; option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
@@ -4756,6 +4772,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103133Z" creationid="manuel" creationdate="20180615T103133Z">
         <seg>Oltre alla formattazione, qualsiasi impostazione che può essere aggiunta o modificata in un documento può essere salvata all'interno di un modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to the usual features of a word processor (spelling check, thesaurus, hyphenation, autocorrect, find and replace, automatic generation of tables of contents and indexes, mail merge and others), Writer provides these &lt;i0/&gt;important features&lt;i1/&gt;&lt;i2/&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160633Z" creationid="manuel" creationdate="20180616T160633Z">
+        <seg>Oltre a tutte le tradizionali funzionalità degli elaboratori di testi (controllo ortografico, sinonimi, sillabazione, correzione automatica, funzione "trova e sostituisci", generazione automatica di indici e indici analitici, stampa in serie e altre), Writer offre queste &lt;i0/&gt;importanti funzionalità&lt;i1/&gt;&lt;i2/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6224,6 +6248,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page layout methods, including frames, columns, and tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160650Z" creationid="manuel" creationdate="20180616T160650Z">
+        <seg>Modalità di layout di pagina, incluse cornici, colonne e tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page styles can be set up to have the facing left and right pages &lt;f0&gt;mirrored&lt;/f0&gt; or only right (first pages of chapters are often defined to be right-page only) or only left.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171339Z" creationid="manuel" creationdate="20180615T171339Z">
@@ -7356,6 +7388,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145650Z" creationid="manuel" creationdate="20180611T145650Z">
         <seg>Tabella &lt;seq0&gt;3&lt;/seq0&gt;: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Templates and styles (see Chapter 3)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160643Z" creationid="manuel" creationdate="20180616T160643Z">
+        <seg>Modelli e stili (vedere Capitolo 3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9345,6 +9385,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What is Writer?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160427Z" creationid="manuel" creationdate="20180616T160427Z">
+        <seg>Introduzione a Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What is a template?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112124Z" creationid="manuel" creationdate="20180611T112124Z">
@@ -9537,6 +9585,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Word Processing with LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160424Z" creationid="manuel" creationdate="20180616T160424Z">
+        <seg>Elaborazione di testi con LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Word duplication</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104749Z" creationid="manuel" creationdate="20180609T104749Z">
@@ -9581,6 +9637,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201312Z" creationid="Marco Marega" creationdate="20180527T200041Z">
         <seg>Writer è uno strumento ricco di funzioni per la creazione di lettere, libri, relazioni, bollettini, dépliant e altri documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer is the word processor component of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160525Z" creationid="manuel" creationdate="20180616T160525Z">
+        <seg>Writer è l'elaboratore di testi di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10513,6 +10577,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>features</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160429Z" creationid="manuel" creationdate="20180616T160429Z">
+        <seg>caratteristiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>file locations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070031Z" creationid="manuel" creationdate="20180531T070031Z">
@@ -11005,6 +11077,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T143318Z" creationid="manuel" creationdate="20180530T082511Z">
         <seg>Opzioni di vista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>workspace</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160433Z" creationid="manuel" creationdate="20180616T160433Z">
+        <seg>area di lavoro</seg>
       </tuv>
     </tu>
     <tu>
