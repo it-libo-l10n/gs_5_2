@@ -2047,6 +2047,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Common features include the Menu bar, standard toolbar, and formatting toolbar at the top of the window and the status bar at the bottom.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214334Z" creationid="Marco Marega" creationdate="20180616T214334Z">
+        <seg>Le caratteristiche comuni comprendono, nella parte superiore della finestra: la barra dei menu, la barra strumenti standard, la barra degli strumenti di formattazione e, nella parte inferiore, la barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compiling an automatic table of contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170807Z" creationid="manuel" creationdate="20180615T165615Z">
@@ -6860,6 +6868,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160601Z" creationid="manuel" creationdate="20180612T160601Z">
         <seg>Per ulteriori dettagli, potete consultare i capitoli dedicati agli stili nelle guide utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the relevant chapters in this guide about Writer, Calc, Draw, and Impress for descriptions of those details.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214113Z" creationid="Marco Marega" creationdate="20180616T214113Z">
+        <seg>Vi rimandiamo ai capitoli di questo guida relativi a Writer, Calc, Draw e Impress per le descrizioni di questi dettagli.</seg>
       </tuv>
     </tu>
     <tu>
