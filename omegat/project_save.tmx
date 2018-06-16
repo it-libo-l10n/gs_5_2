@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Format&lt;/f0&gt; – contains commands for formatting the layout of your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214923Z" creationid="Marco Marega" creationdate="20180616T214923Z">
+        <seg>&lt;f0&gt;Formato&lt;/f0&gt; contiene comandi per formattare l'aspetto del vostro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Frame styles&lt;/f0&gt; are used to format graphic and text frames, including text wrap, borders, backgrounds, and columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144454Z" creationid="manuel" creationdate="20180611T144454Z">
@@ -354,6 +362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085946Z" creationid="luke" creationdate="20180515T085946Z">
         <seg>&lt;f0&gt;If&lt;/f0&gt; you se&lt;f1&gt;lec&lt;/f1&gt;t&lt;f2&gt;ed&lt;/f2&gt; &lt;f3&gt;Add caption to each slide&lt;/f3&gt;, &lt;f4&gt;t&lt;/f4&gt;here will be a placeholder for the image caption &lt;f5&gt;(title) on each slide.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Insert&lt;/f0&gt; – contains commands for inserting elements into your document such as Header, Footer, and Image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214842Z" creationid="Marco Marega" creationdate="20180616T214842Z">
+        <seg>&lt;f0&gt;Inserisci&lt;/f0&gt; comprende comandi per inserire elementi nel vostro documento, quali la Riga di intestazione, il Piè di pagina e le Immagini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for controlling the display of the document such as Zoom and Web Layout.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214755Z" creationid="Marco Marega" creationdate="20180616T214755Z">
+        <seg>&lt;f0&gt;Visualizza&lt;/f0&gt; include comandi che agiscono sulla visualizzazione del documento, quali lo Zoom e Layout web.</seg>
       </tuv>
     </tu>
     <tu>
