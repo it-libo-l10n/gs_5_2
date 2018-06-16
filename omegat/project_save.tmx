@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As an example, we can use the &lt;f0&gt;First Page&lt;/f0&gt; and &lt;f1&gt;Default&lt;/f1&gt; page styles that come with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144202Z" creationid="manuel" creationdate="20180616T144202Z">
+        <seg>Come esempio, è possibile utilizzare gli stili di pagina &lt;f0&gt;Prima pagina&lt;/f0&gt; e &lt;f1&gt;Standard&lt;/f1&gt; che sono forniti con LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As mentioned in “&lt;bf0&gt;Modifying the slide show&lt;/bf0&gt;” on page &lt;bf1&gt;168&lt;/bf1&gt;, Impress allocates reasonable default settings for slide shows, while at the same time allowing for customizing many aspects of the slide show experience.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
@@ -2296,6 +2304,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defining &lt;i0/&gt;a different first page for a document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143951Z" creationid="manuel" creationdate="20180616T143951Z">
+        <seg>Definire una &lt;i0/&gt;prima pagina differente per un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defining a sequence of paragraph styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165000Z" creationid="manuel" creationdate="20180615T165000Z">
@@ -3356,6 +3372,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184751Z" creationid="Marco Marega" creationdate="20180528T184751Z">
         <seg>Ad esempio, gli strumenti di disegno disponibili in Writer sono gli stessi presenti in Calc e, con funzionalità simili ma più avanzate, in Impress e Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the first page of a letterhead typically has a different header, or the first page of a report might have no header or footer, while the other pages do.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144019Z" creationid="manuel" creationdate="20180616T144019Z">
+        <seg>Per esempio, la prima pagina di una carta intestata tipicamente presenta una intestazione differente, oppure la prima pagina di un rapporto potrebbe non avere  intestazione o piè di pagina, mentre le altre pagine potrebbero averli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5404,6 +5428,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154227Z" creationid="manuel" creationdate="20180612T154227Z">
         <seg>La formattazione manuale (anche detta &lt;f0&gt;formattazione diretta&lt;/f0&gt;) ha precedenza sugli stili, e non è possibile eliminare la formattazione manuale applicando ad essa uno stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many documents, such as letters and reports, have a first page that is different from the other pages in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144001Z" creationid="manuel" creationdate="20180616T144001Z">
+        <seg>Diversi documenti, come lettere e rapporti, hanno una prima pagina che è differente dalle altre pagine nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9389,6 +9421,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144846Z" creationid="manuel" creationdate="20180608T144846Z">
         <seg>Se da un lato ciò permette una funzionalità migliorata, dall'altro lato potrebbero esserci problemi di compatibilità con le versioni precedenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With LibreOffice, you can define the &lt;f0&gt;page style&lt;/f0&gt; for the first page and specify the style for the following pages to be applied automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144134Z" creationid="manuel" creationdate="20180616T144134Z">
+        <seg>Con LibreOffice, potete definire lo &lt;f0&gt;stile di pagina&lt;/f0&gt; per la prima pagina e specificare lo stile, da applicare automaticamente, per le pagine successive.</seg>
       </tuv>
     </tu>
     <tu>
