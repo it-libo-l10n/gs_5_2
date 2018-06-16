@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f6&gt;In the popup dialog, select the required category and click &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;OK&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T110844Z" creationid="manuel" creationdate="20180616T110844Z">
+        <seg>&lt;f6&gt;nella finestra che compare, selezionate la categoria richiesta e fate clic su &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;OK&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;390&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Getting Started with LibreOffice 5.2&lt;/t3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072535Z" creationid="luke" creationdate="20180515T072535Z">
@@ -2232,6 +2240,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleting a template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T110929Z" creationid="manuel" creationdate="20180616T110929Z">
+        <seg>Eliminare un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deleting a template &lt;f0&gt;category&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T103905Z" creationid="manuel" creationdate="20180616T103843Z">
@@ -2988,6 +3004,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164653Z" creationid="manuel" creationdate="20180615T164628Z">
         <seg>Figura &lt;seq0&gt;57&lt;/seq0&gt;: creare &lt;f1&gt;una &lt;/f1&gt;nuova categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;58&lt;/seq0&gt;: Moving templates to another category</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T110923Z" creationid="manuel" creationdate="20180616T110923Z">
+        <seg>Figura &lt;seq0&gt;58&lt;/seq0&gt;: spostare modelli in altra categoria</seg>
       </tuv>
     </tu>
     <tu>
@@ -9677,6 +9701,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T103959Z" creationid="manuel" creationdate="20180616T103858Z">
         <seg>Non potete eliminare le &lt;f0&gt;categorie&lt;/f0&gt; di modelli forniti con LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot delete templates supplied with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T110950Z" creationid="manuel" creationdate="20180616T110950Z">
+        <seg>Non potete eliminare i modelli forniti con LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
