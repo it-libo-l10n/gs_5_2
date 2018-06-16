@@ -3088,6 +3088,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For best results, the names of styles should be the same in the existing document and the new template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T095925Z" creationid="manuel" creationdate="20180616T095925Z">
+        <seg>Per ottenere i migliori risultati, i nomi degli stili dovrebbero essere gli stessi nel documento esistente e nel nuovo modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143958Z" creationid="manuel" creationdate="20180611T143958Z">
