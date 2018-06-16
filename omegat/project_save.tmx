@@ -7648,6 +7648,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The resulting document will contain only the changed text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101452Z" creationid="manuel" creationdate="20180616T101452Z">
+        <seg>Il documento risultante conterrà solo il testo modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The results of combining these selections are given in Table &lt;t3&gt;15&lt;/t3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T145756Z" creationid="manuel" creationdate="20180531T075936Z">
@@ -8066,8 +8074,8 @@
       <tuv lang="EN">
         <seg>To begin, choose &lt;f0&gt;File &gt; Templates &gt; Manage &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Templates&lt;/f2&gt;&lt;/f1&gt; to open the Template&lt;f3&gt;s&lt;/f3&gt; dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164408Z" creationid="manuel" creationdate="20180615T164408Z">
-        <seg>Per cominciare, scegliete &lt;f0&gt;File &gt; Modelli &gt; Gestione &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;modelli&lt;/f2&gt;&lt;/f1&gt; per aprire la finestra di dialogo &lt;f3&gt;Modelli&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101529Z" creationid="manuel" creationdate="20180615T164408Z">
+        <seg>Per cominciare, scegliete &lt;f0&gt;File &gt; Modelli &gt; Gestisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;modelli&lt;/f2&gt;&lt;/f1&gt; per aprire la finestra di dialogo &lt;f3&gt;Modelli&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
