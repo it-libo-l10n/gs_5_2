@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Right-click on the selected template and c&lt;/f0&gt;lick the &lt;f1&gt;Set as default&lt;/f1&gt; button (see Figure &lt;t2&gt;52&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T084047Z" creationid="manuel" creationdate="20180616T084047Z">
+        <seg>&lt;f0&gt;Fate clic con il tasto destro del mouse sul modello selezionato e fate clic&lt;/f0&gt; il pulsante &lt;f1&gt;Imposta come predefinito&lt;/f1&gt; (vedere Figura &lt;t2&gt;52&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Save original Basic code&lt;/f0&gt; takes precedence over &lt;f1&gt;Load Basic code&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154136Z" creationid="manuel" creationdate="20180608T154136Z">
