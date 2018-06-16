@@ -1631,6 +1631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click inside the blank document created in step 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101159Z" creationid="manuel" creationdate="20180616T101159Z">
+        <seg>Fate clic all'interno del documento vuoto creato nella fase 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on a file name to display it in the Preview area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085942Z" creationid="luke" creationdate="20180515T085942Z">
@@ -3436,6 +3444,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
         <seg>Go to &lt;f0&gt;Advance slide&lt;/f0&gt; and select the &lt;f1&gt;Automatically after&lt;/f1&gt; option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Edit &gt; Paste&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+V&lt;/f1&gt;, to paste the contents from the old document into the new one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101304Z" creationid="manuel" creationdate="20180616T101304Z">
+        <seg>Andate in &lt;f0&gt;Modifica &gt; Incolla&lt;/f0&gt;, o premete &lt;f1&gt;Ctrl+V&lt;/f1&gt;, per incollare i contenuti dal vecchio al nuovo documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6298,8 +6314,8 @@
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Edit &gt; Copy&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+C&lt;/f1&gt;, to copy the contents of the document to the clipboard.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101113Z" creationid="manuel" creationdate="20180616T101113Z">
-        <seg>Selezionate &lt;f0&gt;Modifica &gt; Copia&lt;/f0&gt;, o premete &lt;f1&gt;Ctrl+C&lt;/f1&gt;, per copiare il contenuto del documento negli appunti.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101319Z" creationid="manuel" creationdate="20180616T101113Z">
+        <seg>Selezionate &lt;f0&gt;Modifica &gt; Copia&lt;/f0&gt;, o premete &lt;f1&gt;Ctrl+C&lt;/f1&gt;, per copiare i contenuti del documento negli appunti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8922,8 +8938,8 @@
       <tuv lang="EN">
         <seg>When asked, confirm that you want to overwrite the old file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162723Z" creationid="manuel" creationdate="20180615T162723Z">
-        <seg>Quando richiesto, confermare che volete sovrascrivere il vecchio file.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101346Z" creationid="manuel" creationdate="20180615T162723Z">
+        <seg>Quando richiesto, confermate che volete sovrascrivere il vecchio file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9596,6 +9612,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T152125Z" creationid="manuel" creationdate="20180615T152125Z">
         <seg>Potreste aver bisogno di aprire la &lt;f0&gt;finestra di dialogo&lt;/f0&gt; Modello, quindi fate clic su &lt;f1&gt;Aggiorna&lt;/f1&gt; dal menu &lt;f2&gt;Azione&lt;/f2&gt; per visualizzare i nuovi modelli nella lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may prefer to save the new file under a new name and preserve the old file under its original name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101425Z" creationid="manuel" creationdate="20180616T101425Z">
+        <seg>Potreste preferire salvare il nuovo file con un nuovo nome e conservare il vecchio file con il suo nome originale.</seg>
       </tuv>
     </tu>
     <tu>
