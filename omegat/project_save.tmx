@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Select it&lt;/f2&gt; and click the &lt;f3&gt;Delete&lt;/f3&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T105056Z" creationid="manuel" creationdate="20180616T105056Z">
+        <seg>&lt;f2&gt;Selezionatela&lt;/f2&gt; e fate clic su pulsante &lt;f3&gt;Elimina&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;The template is saved and the dialog closes.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T105621Z" creationid="manuel" creationdate="20180615T105621Z">
@@ -3748,6 +3756,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084112Z" creationid="manuel" creationdate="20180530T084112Z">
         <seg>Comunque, non ha alcun effetto sulle dimensioni dei caratteri del testo nei vostri documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you can &lt;f0&gt;delete&lt;/f0&gt; a &lt;f1&gt;category&lt;/f1&gt; that you created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T105013Z" creationid="manuel" creationdate="20180616T105013Z">
+        <seg>Invece, potete &lt;f0&gt;eliminare&lt;/f0&gt; una &lt;f1&gt;categoria&lt;/f1&gt; che avete creato.</seg>
       </tuv>
     </tu>
     <tu>
