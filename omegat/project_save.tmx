@@ -5288,6 +5288,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice default landscape page style is Landscape.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T150331Z" creationid="manuel" creationdate="20180616T150331Z">
+        <seg>Lo stile della pagina orizzontale predefinita di LibreOffice è orizzontale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice does not have a similar default template file; the “factory defaults” are embedded within the software.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161315Z" creationid="manuel" creationdate="20180615T161315Z">
