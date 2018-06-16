@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Writer document can contain pages in more than one orientation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102346Z" creationid="manuel" creationdate="20180616T102346Z">
+        <seg>Un documento di Writer può contenere pagine orientate diversamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A device is blacklisted when it is buggy or may render graphics with poor quality.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T144508Z" creationid="manuel" creationdate="20180531T062258Z">
@@ -1323,6 +1331,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170001Z" creationid="manuel" creationdate="20180608T170001Z">
         <seg>Cambiare le impostazioni locali e della lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing &lt;i0/&gt;page &lt;i1/&gt;orientation within a document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102437Z" creationid="manuel" creationdate="20180616T102437Z">
+        <seg>Modifica dell'&lt;i0/&gt;&lt;i1/&gt;orientamento della pagina all'interno di un documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -2940,6 +2956,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164653Z" creationid="manuel" creationdate="20180615T164628Z">
         <seg>Figura &lt;seq0&gt;57&lt;/seq0&gt;: creare &lt;f1&gt;una &lt;/f1&gt;nuova categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;60&lt;/seq0&gt;: Dividing a document into chapters using page styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102516Z" creationid="manuel" creationdate="20180616T102516Z">
+        <seg>Figura &lt;seq0&gt;60&lt;/seq0&gt;: dividere un documento in capitoli utilizzando stili di pagina</seg>
       </tuv>
     </tu>
     <tu>
@@ -10104,6 +10128,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>landscape page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102400Z" creationid="manuel" creationdate="20180616T102400Z">
+        <seg>pagina orizzontale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>landscape pages</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102350Z" creationid="manuel" creationdate="20180616T102350Z">
+        <seg>pagine orizzontali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>language settings</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165947Z" creationid="manuel" creationdate="20180608T165947Z">
@@ -10188,6 +10228,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072827Z" creationid="manuel" creationdate="20180531T072827Z">
         <seg>opzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>orientation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102451Z" creationid="manuel" creationdate="20180616T102451Z">
+        <seg>orientamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>orientation of page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102441Z" creationid="manuel" creationdate="20180616T102441Z">
+        <seg>orientamento della pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page layout</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102354Z" creationid="manuel" creationdate="20180616T102354Z">
+        <seg>layout di pagina</seg>
       </tuv>
     </tu>
     <tu>
