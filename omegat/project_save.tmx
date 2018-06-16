@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit&lt;/f0&gt; – contains commands for editing the document such as Undo, Find &amp; Replace, Cut, Copy, and Paste.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214712Z" creationid="Marco Marega" creationdate="20180616T214712Z">
+        <seg>&lt;f0&gt;Modifica&lt;/f0&gt; contiene comandi per modificare il documento come Annulla, Trova e Sostituisci, Taglia, Copia e Incolla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Extensive language support&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212241Z" creationid="Marco Marega" creationdate="20180527T212241Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185448Z" creationid="Marco Marega" creationdate="20180528T185108Z">
         <seg>&lt;f0&gt;Compatibilità dei file.&lt;/f0&gt; Oltre ai propri formati nativi OpenDocument, LibreOffice include il supporto per aprire e salvare i file in molti formati comuni tra i quali: Microsoft Office, HTML, XML, WordPerfect e Lotus 1-2-3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;File&lt;/f0&gt; – contains commands that apply to the entire document such as Open, Save, and Export as PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214558Z" creationid="Marco Marega" creationdate="20180616T214558Z">
+        <seg>&lt;f0&gt;File&lt;/f0&gt; contiene comandi applicabili a tutto il documento, quali Apri, Salva e Esporta in formato PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5760,6 +5776,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Menu bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214352Z" creationid="Marco Marega" creationdate="20180616T214352Z">
+        <seg>La barra dei menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Menu – &lt;is0/&gt;icons in menus</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062304Z" creationid="manuel" creationdate="20180531T062304Z">
@@ -7676,6 +7700,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062209Z" creationid="manuel" creationdate="20180609T062209Z">
         <seg>La &lt;f0&gt;valuta predefinita&lt;/f0&gt; è quella utilizzata nel Paese inserito come &lt;f1&gt;localizzazione&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Menu bar&lt;/f0&gt; is located across the top of the LibreOffice window, just below the title bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214427Z" creationid="Marco Marega" creationdate="20180616T214427Z">
+        <seg>La &lt;f0&gt;barra dei menu&lt;/f0&gt; si trova nella parte superiore della finestra di LibreOffice , appena al di sotto della barra del Titolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9837,6 +9869,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143503Z" creationid="manuel" creationdate="20180608T143503Z">
         <seg>Durante il salvataggio, queste impostazioni vengono salvate con il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you select one of the menus listed below, a sub-menu drops down to show commands.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214514Z" creationid="Marco Marega" creationdate="20180616T214514Z">
+        <seg>Quando selezionate uno dei menu elencati di seguito, viene visualizzato un sottomenu con ulteriori opzioni.</seg>
       </tuv>
     </tu>
     <tu>
