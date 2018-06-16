@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As this is an experimental feature, it may not work reliably.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T074132Z" creationid="manuel" creationdate="20180616T074132Z">
+        <seg>Poiché si tratta di una funzionalità sperimentale, potrebbe non funzionare in modo affidabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Asian language support</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072451Z" creationid="manuel" creationdate="20180609T072451Z">
@@ -2859,6 +2867,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T135524Z" creationid="manuel" creationdate="20180615T135524Z">
         <seg>Figura &lt;seq0&gt;54&lt;/seq0&gt;: creazione di un modello usando una procedura guidata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;55&lt;/seq0&gt;: Getting more templates for LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T074211Z" creationid="manuel" creationdate="20180616T074211Z">
+        <seg>Figura &lt;seq0&gt;55&lt;/seq0&gt;: ottenere più modelli per LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -9195,6 +9211,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190103Z" creationid="Marco Marega" creationdate="20180528T190103Z">
         <seg>Anche voi potete entrare a far parte della comunità e contribuire allo sviluppo del prodotto che utilizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can manually copy new templates into the template folders.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T074302Z" creationid="manuel" creationdate="20180616T074302Z">
+        <seg>Potete copiare manualmente nuovi modelli nelle cartelle dei modelli.</seg>
       </tuv>
     </tu>
     <tu>
