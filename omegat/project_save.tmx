@@ -4511,6 +4511,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Template&lt;f0&gt;s&lt;/f0&gt; dialog, open the &lt;f1&gt;category&lt;/f1&gt; containing the template that you want to set as the default, then select the template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T082430Z" creationid="manuel" creationdate="20180616T082430Z">
+        <seg>Nella finestra di dialogo &lt;f0&gt;Modello&lt;/f0&gt;, aprite la &lt;f1&gt;categoria&lt;/f1&gt; contenente il modello che desiderate impostare come predefinito, quindi selezionate il modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the bottom section of the page, you can change the typeface and size of the font used to display source code such as HTML and Basic (in macros).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T145911Z" creationid="manuel" creationdate="20180531T075940Z">
