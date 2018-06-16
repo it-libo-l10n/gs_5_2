@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;The file browser window closes and the template appears in the selected &lt;f4&gt;category&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143248Z" creationid="manuel" creationdate="20180616T143248Z">
+        <seg>&lt;/f3&gt;La finestra di esplorazione file si chiude e il modello appare nella &lt;f4&gt;categoria&lt;/f4&gt; selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f7&gt;The Template&lt;f8&gt;s&lt;/f8&gt; dialog opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T091010Z" creationid="manuel" creationdate="20180614T091010Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185448Z" creationid="Marco Marega" creationdate="20180528T185108Z">
         <seg>&lt;f0&gt;Compatibilità dei file.&lt;/f0&gt; Oltre ai propri formati nativi OpenDocument, LibreOffice include il supporto per aprire e salvare i file in molti formati comuni tra i quali: Microsoft Office, HTML, XML, WordPerfect e Lotus 1-2-3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Find and select the template that you want to import and click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Open&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143203Z" creationid="manuel" creationdate="20180616T143203Z">
+        <seg>&lt;f0&gt;Trovate e selezionate il modello che volete importare e fate clic su &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Apri&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T105621Z" creationid="manuel" creationdate="20180615T105621Z">
         <seg>&lt;f2&gt;Il modello è salvato e la finestra di dialogo si chiude.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;A standard file browser window opens.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143051Z" creationid="manuel" creationdate="20180616T143051Z">
+        <seg>&lt;f4&gt;Si apre una finestra standard di esplorazione file.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2648,6 +2672,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exporting a template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143254Z" creationid="manuel" creationdate="20180616T143254Z">
+        <seg>Esportare un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extensions and add-ons</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191641Z" creationid="Marco Marega" creationdate="20180528T191641Z">
@@ -3100,6 +3132,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T135749Z" creationid="manuel" creationdate="20180615T135749Z">
         <seg>Infine, potete scegliere se creare immediatamente un nuovo documento dal modello o modificare manualmente il modello, quindi fate clic su &lt;f0&gt;Fine&lt;/f0&gt; per salvare il modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find and select the &lt;f0&gt;category where you want to import the &lt;/f0&gt;template and click &lt;f1&gt;O&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;K&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143026Z" creationid="manuel" creationdate="20180616T143026Z">
+        <seg>Trovate e selezionate la &lt;f0&gt;categoria dove volete importare il &lt;/f0&gt;modello e fate clic su &lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10221,6 +10261,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160215Z" creationid="manuel" creationdate="20180608T160215Z">
         <seg>esporta HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>exporting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143251Z" creationid="manuel" creationdate="20180616T143251Z">
+        <seg>esportare</seg>
       </tuv>
     </tu>
     <tu>
