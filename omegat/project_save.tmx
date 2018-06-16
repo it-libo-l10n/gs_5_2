@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Styles&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; – contains commands for quickly applying common styles; for editing, loading, and creating new styles; and for accessing the Styles and Formatting section of the Sidebar.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215106Z" creationid="Marco Marega" creationdate="20180616T215106Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Stili&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; – contiene comandi per applicare rapidamente gli stili più comuni; per modificare, caricare e creare nuovi stili e per accedere alla sezione Stili e formattazione della Barra laterale.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Automatic scrolling&lt;/f0&gt; – dragging while pressing the middle mouse button shifts the view.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T143748Z" creationid="manuel" creationdate="20180530T085617Z">
@@ -506,6 +514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Table&lt;/f0&gt; – contains commands to insert and edit a table in a text document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215210Z" creationid="Marco Marega" creationdate="20180616T215210Z">
+        <seg>&lt;f0&gt;Tabella&lt;/f0&gt; visualizza i comandi per inserire e modificare una tabella in un documento di testo.</seg>
       </tuv>
     </tu>
     <tu>
