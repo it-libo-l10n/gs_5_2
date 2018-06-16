@@ -3800,6 +3800,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you can delete templates that you have created or imported:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T111232Z" creationid="manuel" creationdate="20180616T111232Z">
+        <seg>Invece, potete eliminare i modelli che avete creato o importato:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Character Styles are active, the character style will be added to the list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070445Z" creationid="manuel" creationdate="20180614T070445Z">
@@ -5522,8 +5530,16 @@
       <tuv lang="EN">
         <seg>Nor can you delete any &lt;f1&gt;categories&lt;/f1&gt; added by the Extension Manager unless you first delete the extension that installed them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T104814Z" creationid="manuel" creationdate="20180616T104814Z">
-        <seg>Non potete eliminare alcuna &lt;f1&gt;categoria&lt;/f1&gt; aggiunta con Gestione estensione a meno che non eliminate prima l'estensione che l'ha installata.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T111039Z" creationid="manuel" creationdate="20180616T104814Z">
+        <seg>Non potete eliminare le &lt;f1&gt;categorie&lt;/f1&gt; aggiunte con Gestione estensione a meno che non eliminate prima l'estensione che le ha installate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nor can you delete any templates installed by the Extension Manager except by deleting the extension that installed them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T111127Z" creationid="manuel" creationdate="20180616T111127Z">
+        <seg>Non potete eliminare i modelli installati con Gestione estensione a meno che non eliminate prima l'estensione che li ha installati.</seg>
       </tuv>
     </tu>
     <tu>
