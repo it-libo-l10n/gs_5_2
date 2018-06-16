@@ -3248,6 +3248,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;62&lt;/seq0&gt;: Left end of Status Bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161348Z" creationid="manuel" creationdate="20180616T161348Z">
+        <seg>Figura &lt;seq0&gt;62&lt;/seq0&gt;: parte sinistra della barra di stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;63&lt;/seq0&gt;: Right end of Status Bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161356Z" creationid="manuel" creationdate="20180616T161356Z">
+        <seg>Figura &lt;seq0&gt;63&lt;/seq0&gt;: parte destra della barra di stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140320Z" creationid="manuel" creationdate="20180611T161453Z">
@@ -6344,6 +6360,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page number</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161358Z" creationid="manuel" creationdate="20180616T161358Z">
+        <seg>Numero di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page styles can be set up to have the facing left and right pages &lt;f0&gt;mirrored&lt;/f0&gt; or only right (first pages of chapters are often defined to be right-page only) or only left.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171339Z" creationid="manuel" creationdate="20180615T171339Z">
@@ -7236,6 +7260,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204616Z" creationid="Marco Marega" creationdate="20180531T213426Z">
         <seg>Numerose estensioni vengono installate con il programma e potete ottenerne delle altre dall'archivio ufficiale delle estensioni, &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the current page number, the sequence number of the current page (if different), and the total number of pages in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161403Z" creationid="manuel" creationdate="20180616T161403Z">
+        <seg>Mostra il numero della pagina corrente, il numero sequenziale della pagina corrente (se diverso) e il numero totale di pagine del documento.</seg>
       </tuv>
     </tu>
     <tu>
