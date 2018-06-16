@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A common scenario is to have &lt;i0/&gt;a &lt;i1/&gt;landscape page in the middle of a document, whereas the other pages are in a portrait orientation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144738Z" creationid="manuel" creationdate="20180616T144738Z">
+        <seg>Una situazione comune è quella di avere &lt;i0/&gt;una &lt;i1/&gt;pagina orizzontale nel mezzo del documento, mentre le altre pagine hanno orientamento verticale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A device is blacklisted when it is buggy or may render graphics with poor quality.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T144508Z" creationid="manuel" creationdate="20180531T062258Z">
@@ -1122,6 +1130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140334Z" creationid="manuel" creationdate="20180611T161747Z">
         <seg>Nella parte inferiore della finestra Stili e formattazione vi è un elenco a scomparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the end of the chapter, insert a manual page break and specify the next page to have the &lt;f3&gt;First Page&lt;/f3&gt; style to start the next chapter, as shown in Figure &lt;t4&gt;60&lt;/t4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144618Z" creationid="manuel" creationdate="20180616T144618Z">
+        <seg>Alla fine del capitolo, inserite una interruzione di pagina manuale e specificate che la pagina successiva deve avere lo stile &lt;f3&gt;Prima pagina&lt;/f3&gt; per iniziare il capitolo successivo, come mostrato in &lt;t4&gt;Figura 60&lt;/t4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2516,6 +2532,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160558Z" creationid="manuel" creationdate="20180612T160558Z">
         <seg>Ogni finestra di dialogo Stile è infatti composta da più schede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each chapter might start with the &lt;f1&gt;First Page&lt;/f1&gt; style, with the following pages using the&lt;f2&gt; Default&lt;/f2&gt; page style, as above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144557Z" creationid="manuel" creationdate="20180616T144557Z">
+        <seg>Ciascun capitolo potrebbe iniziare con lo stile &lt;f1&gt;Prima pagina&lt;/f1&gt;, le pagine successive potrebbero utilizzare lo stile di pagina &lt;f2&gt; Standard&lt;/f2&gt;, come sopra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8344,6 +8368,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This setup can also be created with page breaks and page styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144811Z" creationid="manuel" creationdate="20180616T144811Z">
+        <seg>Questa configurazione può anche essere creata con interruzioni di pagina e stili di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thousands separation of large numbers</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T114106Z" creationid="manuel" creationdate="20180609T114106Z">
@@ -8636,6 +8668,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154737Z" creationid="luke" creationdate="20180514T154737Z">
         <seg>To have the shortcut key assignment available only with one component (for example, Writer), select that component’s name in the upper right corner of the page; otherwise select &lt;f0&gt;LibreOffice&lt;/f0&gt; to make it available to every component.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To insert a landscape page in the middle of your document, insert a page break and select a page style with the landscape orientation on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144854Z" creationid="manuel" creationdate="20180616T144854Z">
+        <seg>Per inserire una pagina orizzontale nel mezzo del vostro documento, inserite un'interruzione di pagina e selezionate uno stile di pagina con l'orientamento orizzontale attivo.</seg>
       </tuv>
     </tu>
     <tu>
