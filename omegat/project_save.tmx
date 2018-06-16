@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Action&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button of&lt;/f3&gt; the Template&lt;f4&gt;s&lt;/f4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T103432Z" creationid="manuel" creationdate="20180616T103432Z">
+        <seg>&lt;f0&gt;Fate clic sul pulsante &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Azione&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; della &lt;/f3&gt;finestra di dialogo&lt;f4&gt; &lt;/f4&gt; Modelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; &lt;f1&gt;Save&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T105546Z" creationid="manuel" creationdate="20180615T105546Z">
