@@ -1207,6 +1207,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By setting up these sequences, you can usually avoid having to apply styles manually.&lt;/f24&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102311Z" creationid="manuel" creationdate="20180616T102311Z">
+        <seg>Impostando queste sequenze, potete evitare di applicare gli stili manualmente.&lt;/f24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CMIS, like OpenDocument Format, is an OASIS standard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202422Z" creationid="Marco Marega" creationdate="20180607T202422Z">
