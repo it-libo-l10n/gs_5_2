@@ -6680,6 +6680,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the &lt;f0&gt;Quickstarter&lt;/f0&gt; icon and deselect &lt;f1&gt;Load LibreOffice during system start-up&lt;/f1&gt; on the pop-up menu (on Windows) or select &lt;f2&gt;Disable systray Quickstarter&lt;/f2&gt; (on Linux).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212514Z" creationid="Marco Marega" creationdate="20180616T212514Z">
+        <seg>Fate clic con il tasto destro del mouse sull'icona &lt;f0&gt;Quickstart&lt;/f0&gt; e nel menu a comparsa deselezionate &lt;f1&gt;Apri LibreOffice all'avvio del sistema&lt;/f1&gt; (su Windows) o selezionate &lt;f2&gt;Disabilita Quickstart&lt;/f2&gt; (su Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click the &lt;f0&gt;Quickstarter&lt;/f0&gt; icon in the system tray to open a pop-up menu (Figure &lt;t1&gt;3&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T204906Z" creationid="Marco Marega" creationdate="20180614T210305Z">
