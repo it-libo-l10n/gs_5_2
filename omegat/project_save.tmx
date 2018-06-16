@@ -4519,6 +4519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Template&lt;f0&gt;s&lt;/f0&gt; dialog, click the &lt;f1&gt;Action Menu&lt;/f1&gt; icon on the &lt;f2&gt;bottom left&lt;/f2&gt; &lt;f3&gt;(Figure &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;56&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T094907Z" creationid="manuel" creationdate="20180616T094907Z">
+        <seg>Nel finestra di dialogo &lt;f0&gt;Modelli&lt;/f0&gt;, fate clic sull'icona &lt;f1&gt;menu Azione&lt;/f1&gt;  in &lt;f2&gt;basso a sinistra&lt;/f2&gt; &lt;f3&gt;(Figura &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;56&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Template&lt;f0&gt;s&lt;/f0&gt; dialog, open the &lt;f1&gt;category&lt;/f1&gt; containing the template that you want to set as the default, then select the template.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T082430Z" creationid="manuel" creationdate="20180616T082430Z">
