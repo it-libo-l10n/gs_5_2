@@ -4520,6 +4520,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If necessary, select &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;View &gt; Sidebar&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from the Menu bar to display it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T074938Z" creationid="manuel" creationdate="20180618T074938Z">
+        <seg>Se necessario, selezionate &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Visualizza &gt; Sidebar&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from the Menu bar to display it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If necessary, select the options to enable support for &lt;i0/&gt;Asian languages (Chinese, Japanese, Korean) and support for &lt;i1/&gt;CTL (complex text layout) languages such as Urdu, Thai, Hebrew, and Arabic.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072504Z" creationid="manuel" creationdate="20180609T072504Z">
