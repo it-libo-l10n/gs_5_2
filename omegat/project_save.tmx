@@ -2071,6 +2071,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click to open a menu where you can choose another language for the selected text or for the paragraph where the cursor is located.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T061039Z" creationid="manuel" creationdate="20180618T061039Z">
+        <seg>Fate clic per aprire un menu dove è possibile scegliere una lingua diversa per il testo selezionato o per il paragrafo in cui si trova il cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking a word applies the character style for that word.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150429Z" creationid="manuel" creationdate="20180612T150429Z">
@@ -7508,6 +7516,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161403Z" creationid="manuel" creationdate="20180616T161403Z">
         <seg>Mostra il numero della pagina corrente, il numero sequenziale della pagina corrente (se diverso) e il numero totale di pagine del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the language at the cursor position, or for the selected text, that is used for checking spelling and for hyphenation and thesaurus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T061028Z" creationid="manuel" creationdate="20180618T061028Z">
+        <seg>Mostra la lingua nella posizione del cursore o per il testo selezionato, utilizzato per il controllo ortografico e per la sillabazione e i sinonimi.</seg>
       </tuv>
     </tu>
     <tu>
