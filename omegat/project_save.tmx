@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Position:&lt;/f0&gt; Modifications to width and height.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T143556Z" creationid="manuel" creationdate="20180618T143556Z">
+        <seg>&lt;f0&gt;Posizione:&lt;/f0&gt; modifica in larghezza e altezza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Presentation styles&lt;/f0&gt; include attributes for font, indents, spacing, alignment, and tabs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144627Z" creationid="manuel" creationdate="20180611T144627Z">
@@ -626,6 +634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215352Z" creationid="Marco Marega" creationdate="20180616T215352Z">
         <seg>&lt;f0&gt;Finestra&lt;/f0&gt; contiene i comandi che agiscono sul contenuto dello schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Wrap:&lt;/f0&gt; Permits wrap modifications where these are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T143630Z" creationid="manuel" creationdate="20180618T143630Z">
+        <seg>&lt;f0&gt;A capo:&lt;/f0&gt; consente di modificare le modifiche quando sono disponibili.</seg>
       </tuv>
     </tu>
     <tu>
