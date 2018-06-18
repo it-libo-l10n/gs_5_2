@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;lick to change to &lt;f1&gt;Overwrite&lt;/f1&gt; mode; click &lt;f2&gt;again&lt;/f2&gt; to return to Insert mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064919Z" creationid="manuel" creationdate="20180618T064919Z">
+        <seg>&lt;f0&gt;Fate clic&lt;/f0&gt; per passare alla modalità &lt;f1&gt;Sovrascrittura&lt;/f1&gt;; fate clic &lt;f2&gt;ancora&lt;/f2&gt; per ritornare alla modalità Inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Cell styles&lt;/f0&gt; include fonts, alignment, borders, background, number formats (for example, currency, date, number), and cell protection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144601Z" creationid="manuel" creationdate="20180611T144601Z">
@@ -1122,6 +1130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155906Z" creationid="manuel" creationdate="20180612T155906Z">
         <seg>Ogni modifica apportata ad uno stile avrà effetto solo sul documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any directly formatted language settings can be reset to the default language from this menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064637Z" creationid="manuel" creationdate="20180618T064637Z">
+        <seg>Tutte le impostazioni della lingua formattate direttamente possono essere ripristinate alla lingua predefinita da questo menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5304,6 +5320,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert mode</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064640Z" creationid="manuel" creationdate="20180618T064640Z">
+        <seg>Modalità di inserimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Install the required &lt;i0/&gt;dictionaries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170022Z" creationid="manuel" creationdate="20180608T170022Z">
@@ -8780,6 +8804,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143431Z" creationid="manuel" creationdate="20180611T143431Z">
         <seg>Questi utenti sono abituati a redigere documenti considerandone le caratteristiche &lt;f0&gt;fisiche&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This area is blank when in Insert mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064654Z" creationid="manuel" creationdate="20180618T064654Z">
+        <seg>Questa area rimane vuota quando il programma si trova in modalità Inserimento.</seg>
       </tuv>
     </tu>
     <tu>
