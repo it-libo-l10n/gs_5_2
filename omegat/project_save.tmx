@@ -3544,6 +3544,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;64&lt;/seq0&gt;: View layouts: single, side-by-side, book.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071530Z" creationid="manuel" creationdate="20180618T071530Z">
+        <seg>Figura &lt;seq0&gt;64&lt;/seq0&gt;: layout di visualizzazione: pagina singola, fianco a fianco, libro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140320Z" creationid="manuel" creationdate="20180611T161453Z">
@@ -7208,6 +7216,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Figure &lt;t0&gt;64&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071436Z" creationid="manuel" creationdate="20180618T071436Z">
+        <seg>Vedere la Figura&lt;t0&gt;64&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the chapters on styles in the user guides for details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160601Z" creationid="manuel" creationdate="20180612T160601Z">
@@ -7732,6 +7748,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060246Z" creationid="manuel" creationdate="20180618T060246Z">
         <seg>Mostra lo stile della pagina corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sidebar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071613Z" creationid="manuel" creationdate="20180618T071613Z">
+        <seg>Barra laterale</seg>
       </tuv>
     </tu>
     <tu>
@@ -9316,6 +9340,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060253Z" creationid="manuel" creationdate="20180618T060253Z">
         <seg>Per applicare uno stile diverso alla pagina, fate clic con il tasto destro su questo campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the view magnification, drag the Zoom slider, or click on the + and – signs, or right-click on the zoom level percent to pop up a list of magnification values from which to choose.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071505Z" creationid="manuel" creationdate="20180618T071505Z">
+        <seg>Per modificare l'ingrandimento della visualizzazione, trascinate il cursore dello Zoom, o cliccate sui segni + e – , o con il pulsante destro del mouse sul livello percentuale di zoom per fare apparire un elenco di valori fra i quali scegliere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11085,6 +11117,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084739Z" creationid="manuel" creationdate="20180614T084739Z">
         <seg>Dovrete modificarli nuovamente per ritornare ai vostri stili di intestazione personalizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zoom interacts with the selected view layout to determine how many pages are visible in the document window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071512Z" creationid="manuel" creationdate="20180618T071512Z">
+        <seg>Il numero di pagine visibili nella finestra del documento è influenzato sia dal layout di visualizzazione scelto, sia dal livello di zoom.</seg>
       </tuv>
     </tu>
     <tu>
