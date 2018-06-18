@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Area:&lt;/f0&gt; Fill and transparency edits are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T143805Z" creationid="manuel" creationdate="20180618T143805Z">
+        <seg>&lt;f0&gt; Area:&lt;/f0&gt; sono disponibili le modifiche di riempimento e trasparenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Area:&lt;/f0&gt; Modify the graphic background area fill mode and transparency.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T141944Z" creationid="manuel" creationdate="20180618T141944Z">
@@ -4588,6 +4596,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064454Z" creationid="manuel" creationdate="20180614T064454Z">
         <seg>Se un documento richiede stili personalizzati derivati da stili di base, prendere in considerazione il prefisso del nome degli stili personalizzati con alcuni caratteri per evidenziarli tra gli altri stili nell'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a drawing object is selected, then the following panels are available:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T143701Z" creationid="manuel" creationdate="20180618T143701Z">
+        <seg>Se è selezionato un oggetto di disegno, sono disponibili i seguenti pannelli:</seg>
       </tuv>
     </tu>
     <tu>
