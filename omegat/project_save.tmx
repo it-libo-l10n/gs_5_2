@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Area:&lt;/f0&gt; Modify the graphic background area fill mode and transparency.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T141944Z" creationid="manuel" creationdate="20180618T141944Z">
+        <seg>&lt;f0&gt;Area:&lt;/f0&gt; modifica la modalità di riempimento dell'area grafica e la trasparenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Automatic scrolling&lt;/f0&gt; – dragging while pressing the middle mouse button shifts the view.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T143748Z" creationid="manuel" creationdate="20180530T085617Z">
@@ -370,6 +378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184853Z" creationid="Marco Marega" creationdate="20180528T184853Z">
         <seg>&lt;f0&gt;Granularità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Graphic:&lt;/f0&gt; Modify the graphic’s brightness, contrast, color mode and transparency.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T142027Z" creationid="manuel" creationdate="20180618T142027Z">
+        <seg>&lt;f0&gt;Grafica:&lt;/f0&gt; modifica la luminosità, il contrasto, la modalità colore e la trasparenza del grafico.</seg>
       </tuv>
     </tu>
     <tu>
