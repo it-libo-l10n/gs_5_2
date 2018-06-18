@@ -2015,6 +2015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the unsaved changes icon to save the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T070404Z" creationid="manuel" creationdate="20180618T070348Z">
+        <seg>Fate clic sull'icona delle modifiche non salvate per salvare il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on this check mark.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073814Z" creationid="manuel" creationdate="20180531T073814Z">
@@ -2644,6 +2652,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144721Z" creationid="manuel" creationdate="20180611T144721Z">
         <seg>Nei vari componenti di LibreOffice sono disponibili stili differenti, come elencati nella &lt;t0&gt;Tabella46&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Digital signature</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T070407Z" creationid="manuel" creationdate="20180618T070407Z">
+        <seg>Firma digitale</seg>
       </tuv>
     </tu>
     <tu>
