@@ -8128,6 +8128,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Writer S&lt;/f0&gt;idebar con&lt;f1&gt;tains&lt;/f1&gt; four decks &lt;f2&gt;by default&lt;/f2&gt;: &lt;f3&gt;Properties&lt;/f3&gt;, &lt;f4&gt;Styles and Formatting&lt;/f4&gt;, &lt;f5&gt;Gallery&lt;/f5&gt;, and &lt;f6&gt;Navigator&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T104139Z" creationid="manuel" creationdate="20180618T104139Z">
+        <seg>La &lt;f0&gt;barra laterale di Writer&lt;/f0&gt; &lt;f1&gt;contiene&lt;/f1&gt; quattro pulsanti &lt;f2&gt;predefiniti&lt;/f2&gt;: &lt;f3&gt;Proprietà&lt;/f3&gt;, &lt;f4&gt;Stili e formattazione&lt;/f4&gt;, &lt;f5&gt;Galleria&lt;/f5&gt; e &lt;f6&gt;Navigatore&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f2&gt;Save As&lt;/f2&gt; dialog opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T135354Z" creationid="manuel" creationdate="20180615T135354Z">
