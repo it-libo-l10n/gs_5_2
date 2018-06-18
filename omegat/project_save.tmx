@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can also see the number of words and characters (and other information including the number of pages, tables, and graphics) in the entire document in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Properties &gt; Statistics&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060239Z" creationid="manuel" creationdate="20180618T060239Z">
+        <seg>Potete inoltre vedere il numero di parole e caratteri (e altre informazioni, &lt;f0&gt;inclusi il numero di pagine, tabelle e immagini&lt;/f0&gt;) dell'intero documento in &lt;f1&gt;File &gt; Proprietà &gt; Statistiche&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can set up one paragraph style so that when you press &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Enter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; at the end of that paragraph, the following paragraph automatically has the style you wish applied to it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164941Z" creationid="manuel" creationdate="20180615T164941Z">
@@ -754,6 +762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T081428Z" creationid="manuel" creationdate="20180609T081428Z">
         <seg>Un layout di tastiera è normalmente basato sulla lingua utilizzata dal sistema operativo ma può essere modificato dall'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A list of page styles pops up; choose a different style by clicking on it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060301Z" creationid="manuel" creationdate="20180618T060301Z">
+        <seg>Verrà mostrato un elenco di stili di pagina; fate clic su quello desiderato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6536,6 +6552,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page style</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060242Z" creationid="manuel" creationdate="20180618T060242Z">
+        <seg>Stile della pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page styles can be set up to have the facing left and right pages &lt;f0&gt;mirrored&lt;/f0&gt; or only right (first pages of chapters are often defined to be right-page only) or only left.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171339Z" creationid="manuel" creationdate="20180615T171339Z">
@@ -7480,6 +7504,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shows the style of the current page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060246Z" creationid="manuel" creationdate="20180618T060246Z">
+        <seg>Mostra lo stile della pagina corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since LibreOffice version 4.4, you can create templates for Master Documents as well as for ordinary documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114422Z" creationid="manuel" creationdate="20180611T114422Z">
@@ -7932,6 +7964,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055505Z" creationid="manuel" creationdate="20180618T055505Z">
         <seg>Si aprirà la finestra del Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Page Style dialog opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060323Z" creationid="manuel" creationdate="20180618T060323Z">
+        <seg>Verrà mostrata la finestra di dialogo Stile di pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8984,6 +9024,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the page style, right-click on this field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060253Z" creationid="manuel" creationdate="20180618T060253Z">
+        <seg>Per applicare uno stile diverso alla pagina, fate clic con il tasto destro su questo campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the way that LibreOffice stores the hyperlinks in your file, select &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; and choose if you want URLs saved relatively when referencing the &lt;f1&gt;File System&lt;/f1&gt;, or the &lt;f2&gt;Internet&lt;/f2&gt;, or both.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154804Z" creationid="luke" creationdate="20180514T154804Z">
@@ -9072,6 +9120,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To display extended statistics such as character counts excluding spaces, double-click the word count in the Status Bar, or choose &lt;f0&gt;Tools &gt; Word Count&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060149Z" creationid="manuel" creationdate="20180618T060149Z">
+        <seg>Per visualizzare statistiche estese come il conteggio dei caratteri escludendo gli spazi, fate doppio clic sul conteggio delle parole nella barra di stato o scegliete &lt;f0&gt;Strumenti &gt; Conteggio parole&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To display or hide toolbars, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, then click on the name of a toolbar from the drop-down list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T082602Z" creationid="luke" creationdate="20180515T082602Z">
@@ -9092,6 +9148,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154208Z" creationid="manuel" creationdate="20180615T154208Z">
         <seg>Per modificare un modello:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit the current page style, double-click on this field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060318Z" creationid="manuel" creationdate="20180618T060318Z">
+        <seg>Per modificare lo stile di pagina corrente, fate doppio clic su questo campo.</seg>
       </tuv>
     </tu>
     <tu>
