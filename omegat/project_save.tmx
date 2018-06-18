@@ -7522,8 +7522,8 @@
       <tuv lang="EN">
         <seg>Shows the language at the cursor position, or for the selected text, that is used for checking spelling and for hyphenation and thesaurus.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T061028Z" creationid="manuel" creationdate="20180618T061028Z">
-        <seg>Mostra la lingua nella posizione del cursore o per il testo selezionato, utilizzato per il controllo ortografico e per la sillabazione e i sinonimi.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T063000Z" creationid="manuel" creationdate="20180618T061028Z">
+        <seg>Mostra la lingua nella posizione del cursore o per il testo selezionato, utilizzata per il controllo ortografico e per la sillabazione e i sinonimi.</seg>
       </tuv>
     </tu>
     <tu>
