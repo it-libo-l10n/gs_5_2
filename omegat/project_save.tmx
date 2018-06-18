@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The Sidebar (Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;65&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;) is normally open by default on the right side of the Writer window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T074757Z" creationid="manuel" creationdate="20180618T074757Z">
+        <seg>&lt;f0&gt;La barra laterale (Figura &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;65&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;) è normalmente aperta come predefinita sul lato destro della finestra di Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Tools&lt;/f0&gt; – contains functions such as Spelling and Grammar, AutoCorrect, Customize, and Options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215316Z" creationid="Marco Marega" creationdate="20180616T215316Z">
