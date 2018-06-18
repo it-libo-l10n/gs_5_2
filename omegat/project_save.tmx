@@ -2087,6 +2087,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click to choose different selection modes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065438Z" creationid="manuel" creationdate="20180618T065438Z">
+        <seg>Fate clic per scegliere differenti modalità di selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click to open a menu where you can choose another language for the selected text or for the paragraph where the cursor is located.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T061039Z" creationid="manuel" creationdate="20180618T061039Z">
@@ -2764,6 +2772,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T153841Z" creationid="manuel" creationdate="20180615T153841Z">
         <seg>Modificare un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065548Z" creationid="manuel" creationdate="20180618T065548Z">
+        <seg>Effetto</seg>
       </tuv>
     </tu>
     <tu>
@@ -5976,6 +5992,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mode</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065546Z" creationid="manuel" creationdate="20180618T065546Z">
+        <seg>Modalità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modify the &lt;f0&gt;Name&lt;/f0&gt; as required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070250Z" creationid="manuel" creationdate="20180531T070250Z">
@@ -7472,6 +7496,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selection mode</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065434Z" creationid="manuel" creationdate="20180618T065434Z">
+        <seg>Modalità di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Send usage data to help The Document Foundation improve usability of the software.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081042Z" creationid="manuel" creationdate="20180530T081042Z">
@@ -8380,6 +8412,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062554Z" creationid="manuel" creationdate="20180531T062554Z">
         <seg>I caratteri elencati sono quelli installati sul vostro sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The icon does not change, but when you hover the mouse pointer over this field, a tooltip indicates which mode is active.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065538Z" creationid="manuel" creationdate="20180618T065538Z">
+        <seg>L'icona non cambia, ma quando passate il puntatore del mouse su questo campo un suggerimento indica la modalità attiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10101,6 +10141,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
         <seg>When you are ready to advance to the next slide, mouse click on the display background or press the right arrow or space bar on your keyboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you click in the field, a context menu displays the available options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065543Z" creationid="manuel" creationdate="20180618T065543Z">
+        <seg>Facendo clic sul campo un menu contestuale mostra le opzioni disponibili.</seg>
       </tuv>
     </tu>
     <tu>
