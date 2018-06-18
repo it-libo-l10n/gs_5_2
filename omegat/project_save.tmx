@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A block of text can be selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065723Z" creationid="manuel" creationdate="20180618T065723Z">
+        <seg>Può essere selezionato un blocco di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A common scenario is to have &lt;i0/&gt;a &lt;i1/&gt;landscape page in the middle of a document, whereas the other pages are in a portrait orientation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144738Z" creationid="manuel" creationdate="20180616T144738Z">
@@ -810,6 +818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T100715Z" creationid="manuel" creationdate="20180616T100542Z">
         <seg>Un nuovo documento viene aperto, contenente testo e immagini presenti nel modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A new selection is added to an existing selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065714Z" creationid="manuel" creationdate="20180618T065714Z">
+        <seg>Alla selezione esistente viene aggiunta una nuova selezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -906,6 +922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T153100Z" creationid="manuel" creationdate="20180606T081821Z">
         <seg>L'aggiunta di una marcatura temporale attendibile a una firma elettronica su un PDF fornisce un sigillo digitale di integrità dei dati e una data e un'ora attendibili di quando il file è stato firmato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding selection &lt;f0&gt;(Shift+F8)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065707Z" creationid="manuel" creationdate="20180618T065707Z">
+        <seg>Selezione Aggiunta &lt;f0&gt;(Maiusc+F8)&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064637Z" creationid="manuel" creationdate="20180618T064637Z">
         <seg>Tutte le impostazioni della lingua formattate direttamente possono essere ripristinate alla lingua predefinita da questo menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any other selection is deselected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065641Z" creationid="manuel" creationdate="20180618T065641Z">
+        <seg>Qualsiasi altra selezione viene rimossa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1427,6 +1459,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142705Z" creationid="manuel" creationdate="20180616T142705Z">
         <seg>Prima che possiate usare un modello in LibreOffice, esso deve trovarsi in una delle cartelle elencate per il percorso Modello in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Percorsi&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Block selection &lt;f0&gt;(Ctrl+Shift+F8)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065718Z" creationid="manuel" creationdate="20180618T065718Z">
+        <seg>Selezione Blocco &lt;f0&gt;(Ctrl+Maiusc+F8)&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1935,6 +1975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click in the text where you want to position the cursor; click in a cell to make it the active cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065606Z" creationid="manuel" creationdate="20180618T065606Z">
+        <seg>Fate clic sul testo nel punto in cui desiderate posizionare il cursore;  fate clic su una cella per farla diventare attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click inside the blank document created in step 1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101159Z" creationid="manuel" creationdate="20180616T101159Z">
@@ -2107,6 +2155,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150429Z" creationid="manuel" creationdate="20180612T150429Z">
         <seg>Premendo il pulsante sinistro del mouse su di una parola si applica lo stile di carattere per quella parola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking in the text extends or crops the current selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065651Z" creationid="manuel" creationdate="20180618T065651Z">
+        <seg>Facendo clic nel testo potete estendere o ridurre la selezione corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2624,6 +2680,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Document changes status</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065842Z" creationid="manuel" creationdate="20180618T065842Z">
+        <seg>Stato del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Document digital signature</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160835Z" creationid="manuel" creationdate="20180616T160835Z">
@@ -2980,6 +3044,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143254Z" creationid="manuel" creationdate="20180616T143254Z">
         <seg>Esportare un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extending selection (&lt;f0&gt;F8&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065645Z" creationid="manuel" creationdate="20180618T065645Z">
+        <seg>Selezione Estesa (&lt;f0&gt;F8&lt;/f0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6248,6 +6320,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On Windows systems, you can hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while dragging to select a block of text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065736Z" creationid="manuel" creationdate="20180618T065736Z">
+        <seg>Su sistemi Windows, potete tenere premuto il tasto &lt;f0&gt;Alt&lt;/f0&gt; mentre trascinate per selezionare un blocco di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On Windows, LibreOffice uses the default Windows location for storing and retrieving certificates.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074506Z" creationid="manuel" creationdate="20180606T074506Z">
@@ -7752,6 +7832,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065551Z" creationid="manuel" creationdate="20180618T065551Z">
+        <seg>Selezione Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Starting LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213528Z" creationid="Marco Marega" creationdate="20180531T213528Z">
@@ -8620,6 +8708,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T070911Z" creationid="manuel" creationdate="20180608T070911Z">
         <seg>La pagina offre opzioni di configurazione dettagliate per molti aspetti dell'aspetto e delle prestazioni di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is a multiple selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065716Z" creationid="manuel" creationdate="20180618T065716Z">
+        <seg>Il risultato è una selezione multipla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10777,6 +10873,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You do not need to enter the block selection mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065834Z" creationid="manuel" creationdate="20180618T065834Z">
+        <seg>Non dovete passare alla modalità di selezione blocco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You do not need to know which application was used to create a particular file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184821Z" creationid="Marco Marega" creationdate="20180528T184821Z">
@@ -11685,6 +11789,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114428Z" creationid="manuel" creationdate="20180611T114428Z">
         <seg>tipi supportati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unsaved changes flag</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065838Z" creationid="manuel" creationdate="20180618T065838Z">
+        <seg>indicatore delle modifiche non salvate</seg>
       </tuv>
     </tu>
     <tu>
