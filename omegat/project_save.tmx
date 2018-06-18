@@ -1110,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any text selected in the document will be counted and this count will replace the displayed count.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055838Z" creationid="manuel" creationdate="20180618T055838Z">
+        <seg>Ogni testo selezionato nel documento verrà conteggiato e questo conteggio sostituirà il conteggio visualizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apostrophe</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113052Z" creationid="manuel" creationdate="20180609T113052Z">
