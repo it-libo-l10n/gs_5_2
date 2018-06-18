@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Character&lt;/f0&gt;: Modify text by the font type, size, color, weight, style and spacing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T140722Z" creationid="manuel" creationdate="20180618T140722Z">
+        <seg>&lt;f0&gt;Carattere&lt;/f0&gt;: modifica il testo in base al tipo di carattere, dimensione, colore, peso, stile e spaziatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Check special regions&lt;/f0&gt; includes headers, footers, frames, and tables when checking spelling.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091253Z" creationid="manuel" creationdate="20180609T091253Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144220Z" creationid="manuel" creationdate="20180611T144220Z">
         <seg>Gli &lt;f0&gt;Stili di paragrafo&lt;/f0&gt; controllano tutte le caratteristiche dell'aspetto del paragrafo, come l'allineamento del testo, le tabulazioni, la spaziatura delle linee e i bordi, e possono includere la formattazione dei caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Paragraph&lt;/f0&gt;: Style the paragraph by alignment, lists or bullets, background color, indent, and spacing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T140853Z" creationid="manuel" creationdate="20180618T140853Z">
+        <seg>&lt;f0&gt;Paragrafo&lt;/f0&gt;: organizza il paragrafo per allineamento, elenchi o punti elenco, colore di sfondo, rientro e spaziatura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2420,6 +2436,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T105343Z" creationid="manuel" creationdate="20180615T104526Z">
         <seg>Create o modificate qualsiasi stile che desiderate utilizzare nel nuovo modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create or update a style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T140641Z" creationid="manuel" creationdate="20180618T140641Z">
+        <seg>Create o aggiornate uno stile.</seg>
       </tuv>
     </tu>
     <tu>
