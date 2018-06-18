@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Line:&lt;/f0&gt; Permits edits to the line style, width, color, arrows, corners, and cap styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T145340Z" creationid="manuel" creationdate="20180618T145340Z">
+        <seg>&lt;f0&gt;Linea:&lt;/f0&gt; consente di modificare lo stile, la larghezza, il colore, le frecce, gli angoli e gli stili del cappuccio della linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;List styles&lt;/f0&gt; allow you to select, format, and position numbers or bullets in lists.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144543Z" creationid="manuel" creationdate="20180611T144543Z">
