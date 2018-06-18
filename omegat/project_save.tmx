@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1883,6 +1883,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142301Z" creationid="manuel" creationdate="20180616T142301Z">
         <seg>Fate clic su &lt;f6&gt;Sì&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the Page Number field and type the &lt;f0&gt;sequence&lt;/f0&gt; number of the required page and press &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055558Z" creationid="manuel" creationdate="20180618T055558Z">
+        <seg>Fate clic sul campo del Numero di Pagina, digitate il numero &lt;f0&gt;sequenziale&lt;/f0&gt; della pagina desiderata, e premete &lt;f1&gt;Invio&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4268,6 +4276,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064454Z" creationid="manuel" creationdate="20180614T064454Z">
         <seg>Se un documento richiede stili personalizzati derivati da stili di base, prendere in considerazione il prefisso del nome degli stili personalizzati con alcuni caratteri per evidenziarli tra gli altri stili nell'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If any bookmarks have been defined in the document, a right-click on this field pops up a list of bookmarks; click on the required one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055451Z" creationid="manuel" creationdate="20180618T055451Z">
+        <seg>Se è stato definito qualche segnalibro nel documento, facendo clic con il tasto destro su questo campo verrà mostrato un elenco dei segnalibri; fate clic su quello desiderato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7904,6 +7920,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Navigator opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055505Z" creationid="manuel" creationdate="20180618T055505Z">
+        <seg>Si aprirà la finestra del Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Presenter Console (Figure &lt;t0&gt;158&lt;/t0&gt;) provides extra control over slide shows by using different views on your computer display and on the display &lt;t1/&gt;that the audience sees.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090040Z" creationid="luke" creationdate="20180515T090040Z">
@@ -8544,6 +8568,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The word and character count of the document is shown in the Status Bar, and is kept up to date as you edit.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055643Z" creationid="manuel" creationdate="20180618T055643Z">
+        <seg>Il conteggio delle parole e dei caratteri viene mostrato nella barra di stato, e viene aggiornato durante la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are many other ways to use styles; see the guides for the various components for details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143925Z" creationid="manuel" creationdate="20180616T143925Z">
@@ -9116,6 +9148,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160246Z" creationid="manuel" creationdate="20180615T160246Z">
         <seg>Per installare singoli modelli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To jump to a specific page in the document, double-click on this field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055500Z" creationid="manuel" creationdate="20180618T055500Z">
+        <seg>Per spostarsi ad una specifica pagina nel documento, fate doppio clic su questo campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9989,6 +10029,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160424Z" creationid="manuel" creationdate="20180616T160424Z">
         <seg>Elaborazione di testi con LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word and character count</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055617Z" creationid="manuel" creationdate="20180618T055607Z">
+        <seg>Conteggio parole e caratteri</seg>
       </tuv>
     </tu>
     <tu>
