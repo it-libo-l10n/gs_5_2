@@ -1967,6 +1967,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click an icon to change between single page, side-by-side, and book layout views.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071347Z" creationid="manuel" creationdate="20180618T071347Z">
+        <seg>Fate clic sulle icone per impostare il layout di visualizzazione pagina singola, fianco a fianco e libro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in the Page Number field and type the &lt;f0&gt;sequence&lt;/f0&gt; number of the required page and press &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055558Z" creationid="manuel" creationdate="20180618T055558Z">
@@ -2740,6 +2748,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071032Z" creationid="manuel" creationdate="20180608T071032Z">
         <seg>Fate doppio clic su una preferenza elencata per inserire un valore per configurare la preferenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-clicking in this area opens a relevant dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071309Z" creationid="manuel" creationdate="20180618T071309Z">
+        <seg>Il doppio clic in quest'area apre una finestra di dialogo relativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3732,6 +3748,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T095925Z" creationid="manuel" creationdate="20180616T095925Z">
         <seg>Per ottenere i migliori risultati, i nomi degli stili dovrebbero essere gli stessi nel documento esistente e nel nuovo modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For details, consult the Help or the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071332Z" creationid="manuel" creationdate="20180618T071332Z">
+        <seg>Per maggiori dettagli, consultate la guida in linea o la &lt;f0&gt;Guida a Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7096,6 +7120,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Section or object information</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071225Z" creationid="manuel" creationdate="20180618T071225Z">
+        <seg>Informazioni sulla sezione o sull'oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Security options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T150617Z" creationid="manuel" creationdate="20180531T080334Z">
@@ -8440,6 +8472,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The effect varies with the combination of window width and zoom factor in use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071408Z" creationid="manuel" creationdate="20180618T071408Z">
+        <seg>L'effetto cambia a seconda della larghezza della finestra e del fattore di zoom in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The element to drag depends upon the LibreOffice application.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070417Z" creationid="manuel" creationdate="20180614T070417Z">
@@ -9132,6 +9172,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085940Z" creationid="luke" creationdate="20180515T085940Z">
         <seg>Suggerimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;f2&gt;sign the document, or to &lt;/f2&gt;view the certificate, click the icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071222Z" creationid="manuel" creationdate="20180618T071222Z">
+        <seg>Per &lt;f2&gt;firmare il documento o&lt;/f2&gt; visualizzare il certificato, fate clic sull'icona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10097,6 +10145,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>View layout</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071336Z" creationid="manuel" creationdate="20180618T071336Z">
+        <seg>Layout di visualizzazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T143327Z" creationid="manuel" creationdate="20180530T082536Z">
@@ -10213,6 +10269,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164336Z" creationid="manuel" creationdate="20180608T164336Z">
         <seg>Quando l'opzione &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; (si veda sopra) &lt;f1&gt;non&lt;/f1&gt; è selezionata, l'opzione &lt;f2&gt;Mostra avviso&lt;/f2&gt; diviene disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the cursor is on a section, heading, or list item, or when an object (such as a picture or table) is selected, information about that item appears in this field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071247Z" creationid="manuel" creationdate="20180618T071247Z">
+        <seg>Quando il cursore si trova su una sezione, intestazione, sulla voce di un elenco, o quando un oggetto (come un'immagine o una tabella) è selezionato, in questo campo compaiono le informazioni corrispondenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10645,6 +10709,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154058Z" creationid="manuel" creationdate="20180615T153851Z">
         <seg>Potete modificare il contenuto e gli stili di un modello, e poi, se volete, potete riapplicare gli stili del modello ai documenti creati a partire da quel modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can edit the document in any view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071411Z" creationid="manuel" creationdate="20180618T071411Z">
+        <seg>Il documento può essere modificato in qualsiasi layout di visualizzazione.</seg>
       </tuv>
     </tu>
     <tu>
