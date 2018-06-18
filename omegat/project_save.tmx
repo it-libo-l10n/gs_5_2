@@ -4522,8 +4522,8 @@
       <tuv lang="EN">
         <seg>If necessary, select &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;View &gt; Sidebar&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from the Menu bar to display it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T074938Z" creationid="manuel" creationdate="20180618T074938Z">
-        <seg>Se necessario, selezionate &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Visualizza &gt; Sidebar&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from the Menu bar to display it.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T102229Z" creationid="manuel" creationdate="20180618T074938Z">
+        <seg>Se necessario, selezionate &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Visualizza &gt; Barra laterale&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; dalla barra dei menu per renderla visibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8268,6 +8268,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200605Z" creationid="Marco Marega" creationdate="20180527T200605Z">
         <seg>Il Gestore di scenari fornisce analisi del tipo "what if" (cosa succede se).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Sidebar also has a Hide/Show button.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T102315Z" creationid="manuel" creationdate="20180618T102315Z">
+        <seg>La barra laterale ha anche un pulsante nascondi/mostra.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
