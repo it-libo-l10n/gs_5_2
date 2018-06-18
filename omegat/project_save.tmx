@@ -4560,6 +4560,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a graphic is selected, then the following panels open:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T141755Z" creationid="manuel" creationdate="20180618T141755Z">
+        <seg>Se è selezionato un elemento grafico, si aprono i seguenti pannelli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If any bookmarks have been defined in the document, a right-click on this field pops up a list of bookmarks; click on the required one.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055451Z" creationid="manuel" creationdate="20180618T055451Z">
