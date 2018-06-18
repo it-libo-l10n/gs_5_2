@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Properties&lt;/f0&gt;: Contains tools for direct formatting within the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T140352Z" creationid="manuel" creationdate="20180618T140352Z">
+        <seg>&lt;f0&gt;Proprietà &lt;/f0&gt;: contiene gli strumenti per la formattazione diretta all'interno del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Right-click on the selected template and c&lt;/f0&gt;lick the &lt;f1&gt;Set as default&lt;/f1&gt; button (see Figure &lt;t2&gt;52&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T084047Z" creationid="manuel" creationdate="20180616T084047Z">
@@ -530,6 +538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Styles: &lt;/f0&gt;&lt;f1&gt;A&lt;/f1&gt;pply a paragraph style at the cursor position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T140558Z" creationid="manuel" creationdate="20180618T140558Z">
+        <seg>&lt;f0&gt;Stili:&lt;/f0&gt;&lt;f1&gt;applica&lt;/f1&gt; uno stile di paragrafo nella posizione del cursore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155153Z" creationid="manuel" creationdate="20180615T155153Z">
         <seg>&lt;f1&gt;Fate clic con il pulsante destro del mouse per aprire il menu contestuale, fate clic&lt;/f1&gt; su &lt;f2&gt;Modifica&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;T&lt;/f1&gt;he tools are separated into four panels for text editing:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T140430Z" creationid="manuel" creationdate="20180618T140430Z">
+        <seg>&lt;f1&gt;Gli&lt;/f1&gt; strumenti sono separati in quattro pannelli per la modifica del testo:</seg>
       </tuv>
     </tu>
     <tu>
