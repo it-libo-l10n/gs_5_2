@@ -5032,6 +5032,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Insert mode, any text after the cursor position moves forward to make room for the text you type; in Overwrite mode, text after the cursor position is replaced by the text you type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064938Z" creationid="manuel" creationdate="20180618T064938Z">
+        <seg>Nella modalità Inserimento, il testo dopo la posizione del cursore si sposta in avanti per creare spazio al testo che digitate; nella modalità Sovrascrittura, il testo dopo la posizione del cursore è sostituito dal testo che digitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In LibreOffice, select &lt;f0&gt;Tools &gt; Extension Manager&lt;/f0&gt; from the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160450Z" creationid="manuel" creationdate="20180615T160450Z">
@@ -8828,6 +8836,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144204Z" creationid="manuel" creationdate="20180608T144204Z">
         <seg>Ciò potrebbe fare in modo che un documento venga stampato su una stampante distante (magari in una impostazione di ufficio), se non modificate la stampante manualmente nella finestra di dialogo Stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This feature is disabled when in &lt;f3&gt;Record &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Changes&lt;/f5&gt;&lt;/f4&gt; mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065123Z" creationid="manuel" creationdate="20180618T065123Z">
+        <seg>Questa funzionalità è disabilitata quando è attiva la &lt;f3&gt;registrazione &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;delle modifiche&lt;/f5&gt;&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
