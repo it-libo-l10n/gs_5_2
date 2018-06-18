@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Page&lt;/f0&gt;: Format the page by orientation, margin, size, and number of columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T140938Z" creationid="manuel" creationdate="20180618T140938Z">
+        <seg>&lt;f0&gt;Pagina&lt;/f0&gt;: formatta la pagina per orientamento, margine, dimensione e numero di colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Paragraph styles&lt;/f0&gt; control all aspects of a paragraph’s appearance, such as text alignment, tab stops, line spacing, and borders, and can include character formatting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144220Z" creationid="manuel" creationdate="20180611T144220Z">
