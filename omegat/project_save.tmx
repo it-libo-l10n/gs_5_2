@@ -2864,6 +2864,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each deck consists of a title bar and one or more content panels.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T105802Z" creationid="manuel" creationdate="20180618T105802Z">
+        <seg>Ogni ponte è costituito da una barra del titolo e uno o più pannelli di contenuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit document properties before saving</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144321Z" creationid="manuel" creationdate="20180608T144321Z">
@@ -3836,6 +3844,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121206Z" creationid="manuel" creationdate="20180615T121206Z">
         <seg>Ad esempio, la procedura guidata Fax vi guida attraverso le seguenti scelte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the buttons for making text bold or italic exist in both the Formatting toolbar and the Character panel of the Properties deck.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T105905Z" creationid="manuel" creationdate="20180618T105905Z">
+        <seg>Ad esempio, i pulsanti per rendere il testo in grassetto o corsivo esistono sia nella barra degli strumenti Formattazione sia nel pannello Carattere del ponte Proprietà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9845,6 +9861,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060755Z" creationid="manuel" creationdate="20180529T060755Z">
         <seg>Per utilizzare le finestre standard Apri e Salva del vostro sistema operativo , deselezionate &lt;f0&gt;questa&lt;/f0&gt; opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbars and sidebar panels share many functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T105830Z" creationid="manuel" creationdate="20180618T105830Z">
+        <seg>Le barre degli strumenti e i pannelli della barra laterale condividono molte funzioni.</seg>
       </tuv>
     </tu>
     <tu>
