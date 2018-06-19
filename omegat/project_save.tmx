@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In some cases it is convenient to reduce the number of toolbars displayed and get more space for the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212609Z" creationid="Marco Marega" creationdate="20180619T212609Z">
+        <seg>&lt;f0&gt;In alcune situazioni, può essere utile ridurre il numero delle barre degli strumenti visualizzate per ottenere uno spazioand get more space for the document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Insert&lt;/f0&gt; – contains commands for inserting elements into your document such as Header, Footer, and Image.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214842Z" creationid="Marco Marega" creationdate="20180616T214842Z">
@@ -3980,6 +3988,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144019Z" creationid="manuel" creationdate="20180616T144019Z">
         <seg>Per esempio, la prima pagina di una carta intestata tipicamente presenta una intestazione differente, oppure la prima pagina di un rapporto potrebbe non avere  intestazione o piè di pagina, mentre le altre pagine potrebbero averli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, when the cursor is on a graphic, the Formatting bar provides tools for formatting graphics; when the cursor is in text, the tools are for formatting text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212500Z" creationid="Marco Marega" creationdate="20180619T212500Z">
+        <seg>Per esempio, se il cursore si trova su di un'immagine, la barra di Formattazione fornirà strumenti per modificare oggetti grafici; se il cursore è posizionato su del testo, gli strumenti proposti saranno quelli per la formattazione del testo.</seg>
       </tuv>
     </tu>
     <tu>
