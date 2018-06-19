@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An active toolbar shows a check-mark beside its name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T213254Z" creationid="Marco Marega" creationdate="20180619T213254Z">
+        <seg>Una barra degli strumenti attiva ha un segno di spunta vicino al suo nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example is shown in Figure &lt;t5&gt;29&lt;/t5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093050Z" creationid="manuel" creationdate="20180606T093050Z">
@@ -10117,6 +10125,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T105830Z" creationid="manuel" creationdate="20180618T105830Z">
         <seg>Le barre degli strumenti e i pannelli della barra laterale condividono molte funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbars created from tool palettes are not listed in the View menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T213610Z" creationid="Marco Marega" creationdate="20180619T213610Z">
+        <seg>Le barre degli strumenti create da un insieme di strumenti non sono elencate nel Menu visualizza.</seg>
       </tuv>
     </tu>
     <tu>
