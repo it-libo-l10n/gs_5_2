@@ -2824,6 +2824,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Docked toolbars can be moved to different locations or made to float, and floating toolbars can be docked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T211821Z" creationid="Marco Marega" creationdate="20180619T211821Z">
+        <seg>Le barre strumenti agganciate possono essere spostate sui diversi lati dello schermo o trasformate in barre mobili; allo stesso modo è possibile agganciare le barre mobili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Document changes status</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065842Z" creationid="manuel" creationdate="20180618T065842Z">
@@ -5364,6 +5372,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070039Z" creationid="manuel" creationdate="20180531T070039Z">
         <seg>Ad esempio, in Windows potreste voler salvare in maniera predefinita i documenti in una cartella diversa da Documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a default LibreOffice installation, the top docked toolbar, just under the Menu bar, is called the &lt;f0&gt;Standard&lt;/f0&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212004Z" creationid="Marco Marega" creationdate="20180619T212004Z">
+        <seg>In un'installazione standard di LibreOffice, la barra degli strumenti agganciata in alto, subito sotto alla barra del Menu, viene chiamata barra degli strumenti &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
