@@ -424,8 +424,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In some cases it is convenient to reduce the number of toolbars displayed and get more space for the document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212609Z" creationid="Marco Marega" creationdate="20180619T212609Z">
-        <seg>&lt;f0&gt;In alcune situazioni, può essere utile ridurre il numero delle barre degli strumenti visualizzate per ottenere uno spazioand get more space for the document.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212629Z" creationid="Marco Marega" creationdate="20180619T212609Z">
+        <seg>&lt;f0&gt;In alcune situazioni, può essere utile ridurre il numero delle barre degli strumenti visualizzate per ottenere maggiore spazio per il documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6108,6 +6108,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T072807Z" creationid="manuel" creationdate="20180606T072807Z">
         <seg>LibreOffice memorizzerà in modo sicuro tutte le password che utilizzerete per accedere ai file dai server web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice&lt;/f0&gt; provides a single-toolbar alternative to the default double-toolbar setup.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212831Z" creationid="Marco Marega" creationdate="20180619T212613Z">
+        <seg> LibreOffice&lt;/f0&gt; fornisce una singola barra degli strumenti alternativa all'impostazione predefinita con una doppia barra degli strumenti.</seg>
       </tuv>
     </tu>
     <tu>
