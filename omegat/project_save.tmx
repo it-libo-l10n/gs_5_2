@@ -5776,6 +5776,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is consistent across the LibreOffice applications.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212049Z" creationid="Marco Marega" creationdate="20180619T212049Z">
+        <seg>Questa è identica per tutte le applicazioni di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is context-sensitive; that is, it shows the tools relevant to the current position of the cursor or the object selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212306Z" creationid="Marco Marega" creationdate="20180619T212306Z">
+        <seg>E' sensibile al contesto; mostra cioè gli strumenti appropriati in base alla posizione del cursore o dell'oggetto selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is integrated with the advanced graphics capabilities of LibreOffice Draw and Math components.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T205227Z" creationid="Marco Marega" creationdate="20180527T205117Z">
@@ -9068,6 +9084,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T145756Z" creationid="manuel" creationdate="20180531T075936Z">
         <seg>I risultati della combinazione di queste selezioni sono mostrati nella Tabella &lt;t3&gt;15&lt;/t3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second toolbar at the top, in a default LibreOffice installation, is the &lt;f0&gt;Formatting&lt;/f0&gt; bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212144Z" creationid="Marco Marega" creationdate="20180619T212144Z">
+        <seg>La seconda barra degli strumenti in alto, in un'installazione standard di LibreOffice, è la barra di &lt;f0&gt;Formattazione&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
