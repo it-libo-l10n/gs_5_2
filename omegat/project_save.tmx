@@ -198,6 +198,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>32</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174522Z" creationid="Elisabetta Manuele" creationdate="20180620T174522Z">
+        <seg>32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>33</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175332Z" creationid="Elisabetta Manuele" creationdate="20180620T175332Z">
+        <seg>33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>9</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173403Z" creationid="Elisabetta Manuele" creationdate="20180620T173403Z">
@@ -10611,8 +10627,8 @@
       <tuv lang="EN">
         <seg>Undoing and redoing changes</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T082610Z" creationid="luke" creationdate="20180515T082610Z">
-        <seg>Undoing and redoing changes</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174532Z" creationid="luke" creationdate="20180515T082610Z">
+        <seg>Annullamento e ripristino delle modifiche</seg>
       </tuv>
     </tu>
     <tu>
