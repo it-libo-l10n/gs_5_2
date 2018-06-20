@@ -5456,6 +5456,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Floating (undocking) or docking the Sidebar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222903Z" creationid="Marco Marega" creationdate="20180620T222903Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Rendere mobile o agganciare la Barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140320Z" creationid="manuel" creationdate="20180611T161453Z">
@@ -6084,6 +6092,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121416Z" creationid="manuel" creationdate="20180615T121416Z">
         <seg>Dalla barra dei menu, scegliete &lt;f0&gt;File &gt; Procedure guidate &gt; [tipo di modello desiderato]&lt;/f0&gt; (vedere Figura &lt;t1&gt;54&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From the same list you can choose which items to include in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222835Z" creationid="Marco Marega" creationdate="20180620T222835Z">
+        <seg>Dalla stessa lista potete scegliere quali elementi includere nella Barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
