@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4536,6 +4536,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Toolbar handles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T182131Z" creationid="Marco Marega" creationdate="20180620T182131Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: maniglie della Barra degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;60&lt;/seq0&gt;: Dividing a document into chapters using page styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102516Z" creationid="manuel" creationdate="20180616T102516Z">
@@ -8360,6 +8368,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Release the mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181957Z" creationid="Marco Marega" creationdate="20180620T181957Z">
+        <seg>Rilasciate il pulsante del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reloading a document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175358Z" creationid="Elisabetta Manuele" creationdate="20180620T175358Z">
@@ -10416,6 +10432,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The toolbar can be docked in a new position at the top, sides or bottom of the main window, or left as a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181950Z" creationid="Marco Marega" creationdate="20180620T181950Z">
+        <seg>La barra degli strumenti può essere agganciata in una nuova posizione in cima, ai lati o in fondo alla finestra principale, oppure essere lasciata come barra degli strumenti mobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two boxes below list the OpenCL drivers whitelist and blacklist.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140621Z" creationid="manuel" creationdate="20180608T140621Z">
@@ -11172,6 +11196,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070210Z" creationid="manuel" creationdate="20180531T070210Z">
         <seg>Per modificare un colore:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move a floating toolbar, click on its title bar and drag it to a new floating location or dock the toolbar at the top or bottom of the main window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T182110Z" creationid="Marco Marega" creationdate="20180620T182110Z">
+        <seg>Per spostare una barra strumenti mobile, fate clic sulla sua barra del titolo e trascinatela in una nuova posizione oppure agganciatela in cima o in fondo alla finestra principale.</seg>
       </tuv>
     </tu>
     <tu>
