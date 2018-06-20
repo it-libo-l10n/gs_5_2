@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -670,10 +670,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>261</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185114Z" creationid="Elisabetta Manuele" creationdate="20180620T185114Z">
+        <seg>261</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>262</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185202Z" creationid="Elisabetta Manuele" creationdate="20180620T185202Z">
+        <seg>262</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>267</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185302Z" creationid="Elisabetta Manuele" creationdate="20180620T185302Z">
+        <seg>267</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>268</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185306Z" creationid="Elisabetta Manuele" creationdate="20180620T185306Z">
+        <seg>268</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>27</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174012Z" creationid="Elisabetta Manuele" creationdate="20180620T174012Z">
         <seg>27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>270</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185328Z" creationid="Elisabetta Manuele" creationdate="20180620T185328Z">
+        <seg>270</seg>
       </tuv>
     </tu>
     <tu>
@@ -2943,6 +2983,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 9 Getting Started with Math</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185258Z" creationid="Elisabetta Manuele" creationdate="20180620T185258Z">
+        <seg>Capitolo 9 Guida introduttiva a Math</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter &lt;f0&gt;3&lt;/f0&gt; &lt;s1/&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112013Z" creationid="luke" creationdate="20180515T082644Z">
@@ -3808,6 +3856,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating formulas</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185324Z" creationid="Elisabetta Manuele" creationdate="20180620T185324Z">
+        <seg>Creazione di formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating hyperlinks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180613T214105Z" creationid="luke" creationdate="20180613T214105Z">
@@ -4340,6 +4396,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181748Z" creationid="Elisabetta Manuele" creationdate="20180620T181748Z">
         <seg>Modifica dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing formulas</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185358Z" creationid="Elisabetta Manuele" creationdate="20180620T185358Z">
+        <seg>Modifica delle formule</seg>
       </tuv>
     </tu>
     <tu>
@@ -5732,6 +5796,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160421Z" creationid="manuel" creationdate="20180616T160421Z">
         <seg>Guida introduttiva a Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting started</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185307Z" creationid="Elisabetta Manuele" creationdate="20180620T185307Z">
+        <seg>Introduzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -12421,6 +12493,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181829Z" creationid="Elisabetta Manuele" creationdate="20180620T181829Z">
         <seg>Uso della formattazione condizionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using data sources in LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185155Z" creationid="Elisabetta Manuele" creationdate="20180620T185155Z">
+        <seg>Utilizzo delle fonti di dati in LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
