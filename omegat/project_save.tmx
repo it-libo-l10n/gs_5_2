@@ -182,6 +182,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>30</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174128Z" creationid="Elisabetta Manuele" creationdate="20180620T174128Z">
+        <seg>30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>31</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174134Z" creationid="Elisabetta Manuele" creationdate="20180620T174134Z">
+        <seg>31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>9</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173403Z" creationid="Elisabetta Manuele" creationdate="20180620T173403Z">
@@ -2195,6 +2211,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135325Z" creationid="manuel" creationdate="20180609T135325Z">
         <seg>Opzioni Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing Open and Save As dialogs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174153Z" creationid="Elisabetta Manuele" creationdate="20180620T174153Z">
+        <seg>Finestre di dialogo Apri e Salva come</seg>
       </tuv>
     </tu>
     <tu>
@@ -7616,6 +7640,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Renaming and deleting files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174131Z" creationid="Elisabetta Manuele" creationdate="20180620T174131Z">
+        <seg>Rinominare ed eliminare file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repeat step 3 until you have made all the changes for that style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150435Z" creationid="manuel" creationdate="20180612T150435Z">
@@ -10877,6 +10909,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143611Z" creationid="manuel" creationdate="20180611T143611Z">
         <seg>Grazie agli stili, non è più necessario selezionare, ad esempio, “Dimensione dei caratteri 14pt, Times New Roman, Grassetto, Centrato”, ma sarà sufficiente scegliere lo stile “Titolo”, precedentemente impostato con le caratteristiche desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Navigator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174518Z" creationid="Elisabetta Manuele" creationdate="20180620T174518Z">
+        <seg>Uso del Navigatore</seg>
       </tuv>
     </tu>
     <tu>
