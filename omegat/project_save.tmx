@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8960,6 +8960,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sub-menus and tool palettes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T180509Z" creationid="Marco Marega" creationdate="20180620T180509Z">
+        <seg>Sottomenu e insiemi di strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TSAs - Time Stamp&lt;f0&gt;ing&lt;/f0&gt; Authorities</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074618Z" creationid="manuel" creationdate="20180606T074618Z">
@@ -10418,8 +10426,8 @@
       <tuv lang="EN">
         <seg>To close a toolbar go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and deselect the toolbar, or right-click in an empty space between the icons on a toolbar and select &lt;f1&gt;Close toolbar&lt;/f1&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T175752Z" creationid="Marco Marega" creationdate="20180620T175752Z">
-        <seg>Per chiudere una barra degli strumenti, nella barra del menu andate in &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt; e deselezionatela, oppure fate clic con il pulsante destro del mouse su di uno spazio vuoto tra le icone di una barra degli strumenti e dal menu contestuale selezionate &lt;f1&gt;Chiudi barra strumenti&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T180407Z" creationid="Marco Marega" creationdate="20180620T175752Z">
+        <seg>Per chiudere una barra degli strumenti, nella barra del menu andate in &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt; e deselezionatela, oppure fate clic con il pulsante destro del mouse su di uno spazio vuoto tra le icone di una barra degli strumenti e dal menu contestuale selezionate &lt;f1&gt;Chiudi barra degli strumenti&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10837,6 +10845,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060755Z" creationid="manuel" creationdate="20180529T060755Z">
         <seg>Per utilizzare le finestre standard Apri e Salva del vostro sistema operativo , deselezionate &lt;f0&gt;questa&lt;/f0&gt; opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbar icons with a small triangle to the right will display &lt;f0&gt;sub-menus&lt;/f0&gt;, &lt;f1&gt;tool palettes&lt;/f1&gt;, and alternative methods of selecting items, depending on the icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T180807Z" creationid="Marco Marega" creationdate="20180620T180807Z">
+        <seg>Le icone delle barre degli strumenti con un piccolo triangolo alla loro destra, attivano, a seconda dell'icona: &lt;f0&gt;sottomenu&lt;/f0&gt;, &lt;f1&gt;insiemi di strumenti&lt;/f1&gt; o modi alternativi per selezionare elementi.</seg>
       </tuv>
     </tu>
     <tu>
