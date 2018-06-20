@@ -12457,6 +12457,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also add icons and create new toolbars, as described in &lt;f0&gt;Chapter 14 Customizing LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T184338Z" creationid="Marco Marega" creationdate="20180620T184338Z">
+        <seg>Potete anche aggiungere icone e creare nuove barre degli strumenti, così come descritto nel &lt;f0&gt;Capitolo 14 Personalizzare LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also choose &lt;f0&gt;None (Do not check spelling)&lt;/f0&gt; to exclude the text from a spelling check or choose &lt;f1&gt;More&lt;/f1&gt; to open the Character dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T062241Z" creationid="manuel" creationdate="20180618T062241Z">
