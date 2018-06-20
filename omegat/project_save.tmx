@@ -1567,6 +1567,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be aware that by changing the options on the Page panel, you will change the page style in use, modifying not only the current page but all pages using the same page style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180620T151102Z" creationid="manuel" creationdate="20180620T151102Z">
+        <seg>Tenete presente che modificando le opzioni nel pannello Pagina, cambierete lo stile di pagina in uso, modificando non solo la pagina corrente ma tutte le pagine che utilizzano lo stesso stile di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Be careful not to accidentally right-click and undo actions you want to keep.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T151012Z" creationid="manuel" creationdate="20180612T151012Z">
