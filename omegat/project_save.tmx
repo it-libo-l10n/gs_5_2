@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>112</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181411Z" creationid="Elisabetta Manuele" creationdate="20180620T181411Z">
+        <seg>112</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>12</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173522Z" creationid="Elisabetta Manuele" creationdate="20180620T173522Z">
@@ -2355,6 +2363,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T083113Z" creationid="luke" creationdate="20180515T083113Z">
         <seg>Chapter 5 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 5 Getting Started with Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181407Z" creationid="Elisabetta Manuele" creationdate="20180620T181407Z">
+        <seg>Capitolo 5 Guida introduttiva a Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -11497,6 +11513,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181343Z" creationid="Elisabetta Manuele" creationdate="20180620T181343Z">
+        <seg>Inoltre, richiediamo che condividiate con il progetto parte dei profitti che ottenete dalla vendita delle Guide, in considerazione di tutto il lavoro svolto per produrle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What are &lt;i0/&gt;&lt;i1/&gt;styles?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114444Z" creationid="manuel" creationdate="20180611T114444Z">
@@ -11517,6 +11541,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175646Z" creationid="Elisabetta Manuele" creationdate="20180620T175646Z">
         <seg>Definizione di stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is Calc?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181414Z" creationid="Elisabetta Manuele" creationdate="20180620T181414Z">
+        <seg>Introduzione a Calc</seg>
       </tuv>
     </tu>
     <tu>
