@@ -2006,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A tab bar on the right side of the sidebar allows you to switch between different decks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221602Z" creationid="Marco Marega" creationdate="20180620T221602Z">
+        <seg>Una barra a schede sulla destra della barra laterale permette di spostarsi tra le diverse sezioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A typical use is for chapter titles to always start on a new right-hand (odd-numbered) page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170815Z" creationid="manuel" creationdate="20180615T170815Z">
