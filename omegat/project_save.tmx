@@ -2008,8 +2008,8 @@
       <tuv lang="EN">
         <seg>A tab bar on the right side of the sidebar allows you to switch between different decks.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221602Z" creationid="Marco Marega" creationdate="20180620T221602Z">
-        <seg>Una barra a schede sulla destra della barra laterale permette di spostarsi tra le diverse sezioni.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221800Z" creationid="Marco Marega" creationdate="20180620T221602Z">
+        <seg>Una barra a schede sulla destra della barra laterale permette di spostarsi tra i diversi piani.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2202,6 +2202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T152426Z" creationid="manuel" creationdate="20180612T152426Z">
         <seg>Se avete utilizzato uno stile almeno una volta, il suo nome apparirà nell'elenco Applica stile situato a sinistra sulla barra di Formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All components contain the Properties, Styles and Formatting, Gallery, and Navigator decks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221748Z" creationid="Marco Marega" creationdate="20180620T221748Z">
+        <seg>Tutti i componenti contengono i piani Proprietà, Stili e formattazione, Galleria e Navigatore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5420,6 +5428,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191045Z" creationid="Marco Marega" creationdate="20180620T191045Z">
         <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Esempio della barra di stato in Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Properties panel of Sidebar in Writer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221658Z" creationid="Marco Marega" creationdate="20180620T221658Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Pannello del Proprietà nella Barra laterale di Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -9122,8 +9138,8 @@
       <tuv lang="EN">
         <seg>Panels are organized into decks.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221438Z" creationid="Marco Marega" creationdate="20180620T221438Z">
-        <seg>I pannelli sono organizzati in Panels are organized into decks.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221804Z" creationid="Marco Marega" creationdate="20180620T221438Z">
+        <seg>I pannelli sono organizzati in piani.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10396,6 +10412,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144129Z" creationid="manuel" creationdate="20180611T144129Z">
         <seg>Alcuni esempi comuni di utilizzo dello stile sono forniti in “&lt;f0&gt;&lt;rf1&gt;Esempi di utilizzo dello stile&lt;/rf1&gt;&lt;/f0&gt;” a pagina &lt;f2&gt;&lt;rf3&gt;79&lt;/rf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some components have additional decks, such as Master Pages, Custom Animation, and Slide Transition for Impress; Manage Changes for Writer; and Functions for Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222024Z" creationid="Marco Marega" creationdate="20180620T222024Z">
+        <seg>Alcuni componenti hanno dei piani aggiuntivi, come le Pagine schema, Animazioni personalizzate e Cambio diapositiva in Impress; Gestisci le modifiche in Writer e Funzioni in Calc.</seg>
       </tuv>
     </tu>
     <tu>
