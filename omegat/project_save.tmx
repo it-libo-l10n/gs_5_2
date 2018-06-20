@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -554,6 +554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T090928Z" creationid="manuel" creationdate="20180530T090928Z">
         <seg>&lt;f0&gt;Incolla Appunti&lt;/f0&gt; – la pressione del pulsante centrale del mouse inserisce il contenuto degli “&lt;i1/&gt;Appunti di selezione” alla posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Position and Size:&lt;/f0&gt; Enables edits to width, height, rotation, and flip attributes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180620T150714Z" creationid="manuel" creationdate="20180620T150714Z">
+        <seg>&lt;f0&gt;Posizione e dimensione:&lt;/f0&gt; abilita le modifiche agli attributi larghezza, altezza, rotazione e capovolgimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4652,6 +4660,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T143701Z" creationid="manuel" creationdate="20180618T143701Z">
         <seg>Se è selezionato un oggetto di disegno, sono disponibili i seguenti pannelli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a frame is selected, then the wrap panel opens but may be grayed-out if frame wrap is not available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180620T150907Z" creationid="manuel" creationdate="20180620T150907Z">
+        <seg>Se è selezionato una cornice, il pannello di scorrimento si apre ma potrebbe essere disattivato se lo scorrimento della cornice non è disponibile.</seg>
       </tuv>
     </tu>
     <tu>
