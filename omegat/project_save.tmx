@@ -3519,6 +3519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the same button to show the Sidebar again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222613Z" creationid="Marco Marega" creationdate="20180620T222613Z">
+        <seg>Fate clic sullo stesso pulsante per visualizzare nuovamente la Barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the unsaved changes icon to save the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T070404Z" creationid="manuel" creationdate="20180618T070348Z">
@@ -12408,6 +12416,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To hide the Sidebar, click on the gray &lt;f0&gt;Hide&lt;/f0&gt; button on the left.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222550Z" creationid="Marco Marega" creationdate="20180620T222550Z">
+        <seg>Per nascondere la Barra laterale, fate clic sul pulsante grigio &lt;f0&gt;Nascondi&lt;/f0&gt; alla sua sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To insert a landscape page in the middle of your document, insert a page break and select a page style with the landscape orientation on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144854Z" creationid="manuel" creationdate="20180616T144854Z">
@@ -12645,6 +12661,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212052Z" creationid="Marco Marega" creationdate="20180616T212052Z">
         <seg>Per chiudere temporaneamente Quickstart su di un computer con sistema operativo Windows, fate clic con il tasto destro del mouse sull'icona di &lt;f0&gt;Quickstart&lt;/f0&gt; nell'area di notifica e nel menu a comparsa selezionate &lt;f1&gt;Termina Quickstart&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To undock the Sidebar and make it floating, and to dock a floating Sidebar, use the drop-down list at the top of the tab bar (see Figure &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222742Z" creationid="Marco Marega" creationdate="20180620T222742Z">
+        <seg>Per sganciare la Barra laterale e renderla mobile e per agganciare una Barra laterale mobile, usate l'elenco a comparsa in cima alla barra a schede (vedete la Figura &lt;t0&gt;9&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
