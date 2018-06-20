@@ -272,8 +272,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072618Z" creationid="luke" creationdate="20180515T072618Z">
-        <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T163826Z" creationid="luke" creationdate="20180515T072618Z">
+        <seg>&lt;f0&gt;La documentazione per LibreOffice è disponibile all'indirizzo &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;https://it.libreoffice.org/supporto/documentazione/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,8 +792,8 @@
       <tuv lang="EN">
         <seg>&lt;t0&gt;390&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Getting Started with LibreOffice 5.2&lt;/t3&gt;&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072535Z" creationid="luke" creationdate="20180515T072535Z">
-        <seg>&lt;t0&gt;390&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Getting Started with LibreOffice 5.2&lt;/t3&gt;&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T163640Z" creationid="luke" creationdate="20180515T072535Z">
+        <seg>&lt;t0&gt;390&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Guida introduttiva a LibreOffice 5.2&lt;/t3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
