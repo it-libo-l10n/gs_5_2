@@ -4240,6 +4240,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;4&lt;/t0&gt; shows an example of a tool palette from the Drawing toolbar made into a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181036Z" creationid="Marco Marega" creationdate="20180620T181036Z">
+        <seg>La Figura &lt;t0&gt;4&lt;/t0&gt;mostra un esempio di un insieme di strumenti della barra degli strumenti di Disegno trasformato in una barre degli strumenti mobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t2&gt;59&lt;/t2&gt; shows what we want to happen: the first page is to be followed by the default page, and all the following pages are to be in the &lt;f3&gt;Default&lt;/f3&gt; page style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144249Z" creationid="manuel" creationdate="20180616T144249Z">
@@ -10845,6 +10853,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060755Z" creationid="manuel" creationdate="20180529T060755Z">
         <seg>Per utilizzare le finestre standard Apri e Salva del vostro sistema operativo , deselezionate &lt;f0&gt;questa&lt;/f0&gt; opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tool palettes can be made into a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T180900Z" creationid="Marco Marega" creationdate="20180620T180900Z">
+        <seg>Gli insiemi di strumenti possono essere commutati in una barra degli strumenti mobile.</seg>
       </tuv>
     </tu>
     <tu>
