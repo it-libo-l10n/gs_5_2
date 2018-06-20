@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -718,6 +718,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>273</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185401Z" creationid="Elisabetta Manuele" creationdate="20180620T185401Z">
+        <seg>273</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>274</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185406Z" creationid="Elisabetta Manuele" creationdate="20180620T185406Z">
+        <seg>274</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>279</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185438Z" creationid="Elisabetta Manuele" creationdate="20180620T185438Z">
+        <seg>279</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>285</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185504Z" creationid="Elisabetta Manuele" creationdate="20180620T185504Z">
+        <seg>285</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>29</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174032Z" creationid="Elisabetta Manuele" creationdate="20180620T174032Z">
@@ -726,10 +758,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>290</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185537Z" creationid="Elisabetta Manuele" creationdate="20180620T185537Z">
+        <seg>290</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>292</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185556Z" creationid="Elisabetta Manuele" creationdate="20180620T185556Z">
+        <seg>292</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>293</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185610Z" creationid="Elisabetta Manuele" creationdate="20180620T185610Z">
+        <seg>293</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>30</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174128Z" creationid="Elisabetta Manuele" creationdate="20180620T174128Z">
         <seg>30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>301</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185626Z" creationid="Elisabetta Manuele" creationdate="20180620T185626Z">
+        <seg>301</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>308</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185631Z" creationid="Elisabetta Manuele" creationdate="20180620T185631Z">
+        <seg>308</seg>
       </tuv>
     </tu>
     <tu>
@@ -2823,6 +2895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing formula appearance</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185434Z" creationid="Elisabetta Manuele" creationdate="20180620T185434Z">
+        <seg>Modifica dell'aspetto di una formula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085837Z" creationid="luke" creationdate="20180515T082559Z">
@@ -2843,6 +2923,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T083520Z" creationid="luke" creationdate="20180515T083520Z">
         <seg>Chapter 10 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 10 Printing, Exporting, E‑mailing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185553Z" creationid="Elisabetta Manuele" creationdate="20180620T185553Z">
+        <seg>Capitolo 10 Stampa, esportazione e invio di e-mail</seg>
       </tuv>
     </tu>
     <tu>
@@ -3663,6 +3751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Controlling printing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185615Z" creationid="Elisabetta Manuele" creationdate="20180620T185615Z">
+        <seg>Controllo della stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert to metric; Convert to non-metric</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T165146Z" creationid="manuel" creationdate="20180609T113949Z">
@@ -4346,8 +4442,8 @@
       <tuv lang="EN">
         <seg>E-mailing documents</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154643Z" creationid="luke" creationdate="20180514T154643Z">
-        <seg>E-mailing documents</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185731Z" creationid="luke" creationdate="20180514T154643Z">
+        <seg>Invio di documenti tramite posta elettronica</seg>
       </tuv>
     </tu>
     <tu>
@@ -4644,6 +4740,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184642Z" creationid="Elisabetta Manuele" creationdate="20180620T184642Z">
         <seg>Esportare oggetti grafici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exporting to PDF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185622Z" creationid="Elisabetta Manuele" creationdate="20180620T185622Z">
+        <seg>Esportazione in PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exporting to other formats</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185628Z" creationid="Elisabetta Manuele" creationdate="20180620T185628Z">
+        <seg>Esportazione in altri formati</seg>
       </tuv>
     </tu>
     <tu>
@@ -5668,6 +5780,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180218Z" creationid="Elisabetta Manuele" creationdate="20180620T180218Z">
         <seg>Formattazione del testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formula layout</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185404Z" creationid="Elisabetta Manuele" creationdate="20180620T185404Z">
+        <seg>Layout delle formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formulas in Calc, Draw, and Impress</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185535Z" creationid="Elisabetta Manuele" creationdate="20180620T185535Z">
+        <seg>Le formule in Calc, Draw e Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formulas in Writer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185500Z" creationid="Elisabetta Manuele" creationdate="20180620T185500Z">
+        <seg>Le formule in Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -8956,6 +9092,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104959Z" creationid="manuel" creationdate="20180609T104959Z">
         <seg>Punteggiatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quick printing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185607Z" creationid="Elisabetta Manuele" creationdate="20180620T185607Z">
+        <seg>Stampa rapida</seg>
       </tuv>
     </tu>
     <tu>
