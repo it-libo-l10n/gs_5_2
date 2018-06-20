@@ -118,10 +118,66 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>16</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173857Z" creationid="Elisabetta Manuele" creationdate="20180620T173857Z">
+        <seg>16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>17</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173903Z" creationid="Elisabetta Manuele" creationdate="20180620T173903Z">
+        <seg>17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>18</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173936Z" creationid="Elisabetta Manuele" creationdate="20180620T173936Z">
+        <seg>18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072735Z" creationid="luke" creationdate="20180515T072735Z">
         <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>21</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173958Z" creationid="Elisabetta Manuele" creationdate="20180620T173958Z">
+        <seg>21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>26</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174006Z" creationid="Elisabetta Manuele" creationdate="20180620T174006Z">
+        <seg>26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>27</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174012Z" creationid="Elisabetta Manuele" creationdate="20180620T174012Z">
+        <seg>27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>29</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174032Z" creationid="Elisabetta Manuele" creationdate="20180620T174032Z">
+        <seg>29</seg>
       </tuv>
     </tu>
     <tu>
@@ -7200,6 +7256,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening and saving files on remote servers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174124Z" creationid="Elisabetta Manuele" creationdate="20180620T174124Z">
+        <seg>Apertura e salvataggio di file su server remoti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening existing documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174009Z" creationid="Elisabetta Manuele" creationdate="20180620T174009Z">
+        <seg>Apertura di un documento esistente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Optional (unstable) options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065108Z" creationid="manuel" creationdate="20180608T065108Z">
@@ -7314,8 +7386,8 @@
       <tuv lang="EN">
         <seg>Password protection</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T082606Z" creationid="luke" creationdate="20180515T082606Z">
-        <seg>Password protection</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174028Z" creationid="luke" creationdate="20180515T082606Z">
+        <seg>Protezione con password</seg>
       </tuv>
     </tu>
     <tu>
@@ -7660,6 +7732,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144414Z" creationid="manuel" creationdate="20180608T144414Z">
         <seg>Salva la versione precedente di un documento come copia di backup quando salvate un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174016Z" creationid="Elisabetta Manuele" creationdate="20180620T174016Z">
+        <seg>Salvare un documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -8476,6 +8556,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213528Z" creationid="Marco Marega" creationdate="20180531T213528Z">
         <seg>Avviare LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Starting new documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174003Z" creationid="Elisabetta Manuele" creationdate="20180620T174003Z">
+        <seg>Apertura di un nuovo documento</seg>
       </tuv>
     </tu>
     <tu>
