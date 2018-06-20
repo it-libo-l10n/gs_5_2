@@ -1974,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A panel is like a combination of a toolbar and a dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222058Z" creationid="Marco Marega" creationdate="20180620T222058Z">
+        <seg>Un pannello è una specie di combinazione di una barre degli strumenti ed una finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A relative address always starts from the directory in which the current document is located.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144530Z" creationid="manuel" creationdate="20180608T144530Z">
@@ -5772,6 +5780,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112236Z" creationid="manuel" creationdate="20180611T112236Z">
         <seg>Per esempio, potete creare un modello per rapporti di affari che presenti il logo della vostra ditta nella prima pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you can freely mix working in the main edit window to enter text and use the Properties panel in the sidebar to change text attributes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222234Z" creationid="Marco Marega" creationdate="20180620T222234Z">
+        <seg>Ad esempio, potete liberamente mescolare il lavoro nella finestra principale per inserire del testo ed usare il pannello delle Proprietà nella Barra laterale per modificare gli attributi del testo.</seg>
       </tuv>
     </tu>
     <tu>
