@@ -4472,6 +4472,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-clicking on this percentage figure opens the &lt;f0&gt;Zoom &amp; View Layout&lt;/f0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T193024Z" creationid="Marco Marega" creationdate="20180620T193024Z">
+        <seg>Se fate un doppio clic su questa percentuale, si apre la finestra di dialogo &lt;f0&gt;Zoom e Layout visualizzazione&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the extension package (OXT file) and save it anywhere on your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160444Z" creationid="manuel" creationdate="20180615T160444Z">
@@ -4492,6 +4500,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070544Z" creationid="manuel" creationdate="20180614T070544Z">
         <seg>Trascinate nella finestra Stili e Formattazione la cella selezionata per creare uno stile di cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drag the Zoom slider, or click on the &lt;f0&gt;+&lt;/f0&gt; and &lt;f1&gt;–&lt;/f1&gt; signs to change the view magnification of your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192731Z" creationid="Marco Marega" creationdate="20180620T192731Z">
+        <seg>Trascinate il cursore dello Zoom, o fate clic sui segni &lt;f0&gt;+&lt;/f0&gt; e &lt;f1&gt;–&lt;/f1&gt; per modificare l'ingrandimento del vostro documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7496,6 +7512,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Indicates the magnification level of the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192757Z" creationid="Marco Marega" creationdate="20180620T192757Z">
+        <seg>Indica il livello di ingrandimento del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information about automatic updating for links, field functions and charts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143724Z" creationid="manuel" creationdate="20180608T143724Z">
@@ -9460,6 +9484,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212514Z" creationid="Marco Marega" creationdate="20180616T212514Z">
         <seg>Fate clic con il tasto destro del mouse sull'icona &lt;f0&gt;Quickstart&lt;/f0&gt; e nel menu a comparsa deselezionate &lt;f1&gt;Apri LibreOffice all'avvio del sistema&lt;/f1&gt; (su Windows) o selezionate &lt;f2&gt;Disabilita Quickstart&lt;/f2&gt; (su Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on the percentage figure to open a list of magnification values from which to choose.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192914Z" creationid="Marco Marega" creationdate="20180620T192914Z">
+        <seg>Fate clic sulla percentuale con il pulsante destro del mouse per aprire un elenco di valori di ingrandimento tra i quali scegliere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14293,6 +14325,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071512Z" creationid="manuel" creationdate="20180618T071512Z">
         <seg>Il numero di pagine visibili nella finestra del documento è influenzato sia dal layout di visualizzazione scelto, sia dal livello di zoom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zoom percentage</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192739Z" creationid="Marco Marega" creationdate="20180620T192739Z">
+        <seg>Percentuale dello Zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zoom slider</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192634Z" creationid="Marco Marega" creationdate="20180620T192634Z">
+        <seg>Cursore dello zoom</seg>
       </tuv>
     </tu>
     <tu>
