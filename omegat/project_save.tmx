@@ -12425,6 +12425,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also dock a floating toolbar by holding down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and double-clicking in the title bar of the toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T182523Z" creationid="Marco Marega" creationdate="20180620T182523Z">
+        <seg>Potete anche agganciare una barra degli strumenti mobile tenendo premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; mentre fate doppio clic sulla sua barra del titolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also download the software by using a Peer-to-Peer client, such as BitTorrent, at the same address.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191200Z" creationid="Marco Marega" creationdate="20180528T191200Z">
