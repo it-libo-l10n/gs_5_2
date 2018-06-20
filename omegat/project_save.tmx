@@ -70,10 +70,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>10</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173409Z" creationid="Elisabetta Manuele" creationdate="20180620T173409Z">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072735Z" creationid="luke" creationdate="20180515T072735Z">
         <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>9</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173403Z" creationid="Elisabetta Manuele" creationdate="20180620T173403Z">
+        <seg>9</seg>
       </tuv>
     </tu>
     <tu>
@@ -1587,6 +1603,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211004Z" creationid="Marco Marega" creationdate="20180527T211004Z">
         <seg>Base offre tutti gli strumenti necessari per lavorare con i database tramite un'interfaccia utente semplice ed intuitiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Based on LibreOffice &lt;/f4&gt;&lt;f5&gt;5.&lt;/f5&gt;&lt;f6&gt;2&lt;/f6&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173318Z" creationid="Elisabetta Manuele" creationdate="20180620T173318Z">
+        <seg>Basato su LibreOffice &lt;/f4&gt;&lt;f5&gt;5.&lt;/f5&gt;&lt;f6&gt;2&lt;/f6&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7304,6 +7328,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preface</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173338Z" creationid="Elisabetta Manuele" creationdate="20180620T173338Z">
+        <seg>Prefazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Presentation</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145754Z" creationid="manuel" creationdate="20180611T145754Z">
@@ -10795,8 +10827,16 @@
       <tuv lang="EN">
         <seg>What you see may be different</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085712Z" creationid="luke" creationdate="20180515T085712Z">
-        <seg>Differenze nelle immagini presenti nel libro</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173459Z" creationid="luke" creationdate="20180515T085712Z">
+        <seg>Differenze nelle immagini presenti nella guida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What’s in this book?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173411Z" creationid="Elisabetta Manuele" creationdate="20180620T173411Z">
+        <seg>Contenuto del libro</seg>
       </tuv>
     </tu>
     <tu>
@@ -10961,6 +11001,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Where to get more help</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173440Z" creationid="Elisabetta Manuele" creationdate="20180620T173440Z">
+        <seg>Per ottenere assistenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whereas normally the code is preserved but rendered inactive (if you inspect it with the StarBasic IDE you will notice that it is all commented), with this option the code is ready to be executed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154115Z" creationid="manuel" creationdate="20180608T154115Z">
@@ -10981,6 +11029,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144846Z" creationid="manuel" creationdate="20180608T144846Z">
         <seg>Se da un lato ciò permette una funzionalità migliorata, dall'altro lato potrebbero esserci problemi di compatibilità con le versioni precedenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Who is this book for?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173406Z" creationid="Elisabetta Manuele" creationdate="20180620T173406Z">
+        <seg>Destinatari del libro</seg>
       </tuv>
     </tu>
     <tu>
