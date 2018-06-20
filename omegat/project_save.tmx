@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -142,6 +142,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>113</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181417Z" creationid="Elisabetta Manuele" creationdate="20180620T181417Z">
+        <seg>113</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>117</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181443Z" creationid="Elisabetta Manuele" creationdate="20180620T181443Z">
+        <seg>117</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>119</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181512Z" creationid="Elisabetta Manuele" creationdate="20180620T181512Z">
+        <seg>119</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>12</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173522Z" creationid="Elisabetta Manuele" creationdate="20180620T173522Z">
@@ -150,10 +174,74 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>121</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181518Z" creationid="Elisabetta Manuele" creationdate="20180620T181518Z">
+        <seg>121</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>124</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181557Z" creationid="Elisabetta Manuele" creationdate="20180620T181557Z">
+        <seg>124</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>126</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181603Z" creationid="Elisabetta Manuele" creationdate="20180620T181603Z">
+        <seg>126</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>128</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181613Z" creationid="Elisabetta Manuele" creationdate="20180620T181613Z">
+        <seg>128</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>13</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173544Z" creationid="Elisabetta Manuele" creationdate="20180620T173544Z">
         <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>130</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181619Z" creationid="Elisabetta Manuele" creationdate="20180620T181619Z">
+        <seg>130</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>132</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181627Z" creationid="Elisabetta Manuele" creationdate="20180620T181627Z">
+        <seg>132</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>136</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181633Z" creationid="Elisabetta Manuele" creationdate="20180620T181633Z">
+        <seg>136</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>139</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181642Z" creationid="Elisabetta Manuele" creationdate="20180620T181642Z">
+        <seg>139</seg>
       </tuv>
     </tu>
     <tu>
@@ -2155,6 +2243,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201808Z" creationid="Marco Marega" creationdate="20180527T200527Z">
         <seg>Calc dispone di tutte le funzionalità avanzate di analisi, di creazione di diagrammi e di supporto decisionale che ci si attende da foglio elettronico di alto livello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc main window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181436Z" creationid="Elisabetta Manuele" creationdate="20180620T181436Z">
+        <seg>Finestra principale di Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -7288,6 +7384,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigating within spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181516Z" creationid="Elisabetta Manuele" creationdate="20180620T181516Z">
+        <seg>Navigare nei fogli elettronici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New documents created from this template will all have your company’s logo on the first page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112242Z" creationid="manuel" creationdate="20180611T112242Z">
@@ -7708,6 +7812,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144751Z" creationid="manuel" creationdate="20180608T144751Z">
         <seg>Formato OpenDocument </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening a CSV file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181440Z" creationid="Elisabetta Manuele" creationdate="20180620T181440Z">
+        <seg>Apertura di un file CSV</seg>
       </tuv>
     </tu>
     <tu>
@@ -8240,6 +8352,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181508Z" creationid="Elisabetta Manuele" creationdate="20180620T181508Z">
+        <seg>Salvare il foglio elettronico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Screen only checkbox</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080248Z" creationid="manuel" creationdate="20180531T080248Z">
@@ -8760,6 +8880,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting items in a spreadsheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181553Z" creationid="Elisabetta Manuele" creationdate="20180620T181553Z">
+        <seg>Selezionare elementi in un foglio elettronico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting this option enables features that are not yet complete or contain known bugs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065548Z" creationid="manuel" creationdate="20180608T065548Z">
@@ -8860,6 +8988,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204616Z" creationid="Marco Marega" creationdate="20180531T213426Z">
         <seg>Numerose estensioni vengono installate con il programma e potete ottenerne delle altre dall'archivio ufficiale delle estensioni, &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sharing content between sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181639Z" creationid="Elisabetta Manuele" creationdate="20180620T181639Z">
+        <seg>Condivisione di contenuti tra fogli</seg>
       </tuv>
     </tu>
     <tu>
@@ -9052,6 +9188,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085528Z" creationid="manuel" creationdate="20180530T085528Z">
         <seg>Specifica se e come il puntatore del mouse verrà posizionato nelle nuove finestre di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Speeding up data entry</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181631Z" creationid="Elisabetta Manuele" creationdate="20180620T181631Z">
+        <seg>Velocizzare l'inserimento dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spreadsheets, sheets, and cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181427Z" creationid="Elisabetta Manuele" creationdate="20180620T181427Z">
+        <seg>Fogli elettronici, fogli e celle</seg>
       </tuv>
     </tu>
     <tu>
@@ -11489,6 +11641,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the keyboard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181624Z" creationid="Elisabetta Manuele" creationdate="20180620T181624Z">
+        <seg>Usare la tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VBA Properties</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153702Z" creationid="manuel" creationdate="20180608T153702Z">
@@ -11507,8 +11667,8 @@
       <tuv lang="EN">
         <seg>Validating cell contents</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154639Z" creationid="luke" creationdate="20180514T154639Z">
-        <seg>Validating cell contents</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181743Z" creationid="luke" creationdate="20180514T154639Z">
+        <seg>Validazione del contenuto di una cella</seg>
       </tuv>
     </tu>
     <tu>
@@ -11541,6 +11701,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T143327Z" creationid="manuel" creationdate="20180530T082536Z">
         <seg>Opzioni di Vista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Viewing Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181616Z" creationid="Elisabetta Manuele" creationdate="20180620T181616Z">
+        <seg>Viste di Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -11897,6 +12065,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Working with columns and rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181600Z" creationid="Elisabetta Manuele" creationdate="20180620T181600Z">
+        <seg>Lavorare con colonne e righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Working with documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180112Z" creationid="Elisabetta Manuele" creationdate="20180620T180112Z">
@@ -11909,6 +12085,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180320Z" creationid="Elisabetta Manuele" creationdate="20180620T180320Z">
         <seg>Lavorare con oggetti grafici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working with sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181611Z" creationid="Elisabetta Manuele" creationdate="20180620T181611Z">
+        <seg>Lavorare con i fogli</seg>
       </tuv>
     </tu>
     <tu>
