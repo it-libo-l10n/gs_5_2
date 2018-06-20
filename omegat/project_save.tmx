@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2599,6 +2599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, a toolbar will dock at the top of the workspace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T185238Z" creationid="Marco Marega" creationdate="20180620T185238Z">
+        <seg>Per impostazione predefinita, le barre degli strumenti vengono agganciate in cima allo spazio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, tables of contents use Heading styles, but you can use whatever combination of styles you prefer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170715Z" creationid="manuel" creationdate="20180615T170715Z">
@@ -3123,6 +3131,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090028Z" creationid="luke" creationdate="20180515T090028Z">
         <seg>Click &lt;f0&gt;Apply to All Slides&lt;/f0&gt; to apply the transition for all of your presentation or continue selecting transitions to place between each slide in your presentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Customize Toolbar&lt;/f0&gt; to open the Customize dialog; See &lt;f1&gt;Chapter 14 Customizing LibreOffice&lt;/f1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T185042Z" creationid="Marco Marega" creationdate="20180620T185042Z">
+        <seg>Fate clic su &lt;f0&gt;Personalizza barra degli strumenti&lt;/f0&gt; per aprire la finestra di dialogo di Personalizzazione; per maggiori informazioni vedete il &lt;f1&gt;Capitolo 14 Personalizzare LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Dock Toolbar&lt;/f0&gt; to dock the selected floating toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T185151Z" creationid="Marco Marega" creationdate="20180620T185151Z">
+        <seg>Fate clic su &lt;f0&gt;Aggancia Barra degli strumenti&lt;/f0&gt; per ancorare la barra degli strumenti mobile selezionata.</seg>
       </tuv>
     </tu>
     <tu>
