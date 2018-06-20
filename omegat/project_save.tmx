@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11024,6 +11024,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To access the customization options for a toolbar, right-click in an empty space between the icons on a toolbar to open a context menu as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T184510Z" creationid="Marco Marega" creationdate="20180620T184510Z">
+        <seg>Per accedere alle opzioni di personalizzazione di una barra strumenti, fate clic con il pulsante destro del mouse su di uno spazio vuoto tra le icone della barra strumenti, in modo da aprire un menu contestuale cose segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To activate it, enable&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;View &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt; Toolbars &gt; Standard (Single Mode)&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;and disable&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;View &gt; Toolbars &gt; Standard&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;and&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;View &gt; Toolbars &gt; Formatting&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;.&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T213007Z" creationid="Marco Marega" creationdate="20180619T213007Z">
@@ -11565,6 +11573,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T135247Z" creationid="manuel" creationdate="20180615T134952Z">
         <seg>Per impostare il nome del file o cambiare la cartella, selezionare il pulsante &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Percorso&lt;/f1&gt; (i tre punti a destra della posizione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To show or hide icons defined for the selected toolbar, click &lt;f0&gt;Visible Buttons&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T184619Z" creationid="Marco Marega" creationdate="20180620T184619Z">
+        <seg>Per mostrare o nascondere le icone predefinite per la barra strumenti selezionata, fate clic su &lt;f0&gt;Pulsanti Visibili&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
