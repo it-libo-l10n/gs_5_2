@@ -3625,8 +3625,8 @@
       <tuv lang="EN">
         <seg>Click to choose different selection modes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065438Z" creationid="manuel" creationdate="20180618T065438Z">
-        <seg>Fate clic per scegliere differenti modalità di selezione.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192128Z" creationid="manuel" creationdate="20180618T065438Z">
+        <seg>Fate clic per scegliere un modo di selezione differente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6604,6 +6604,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142648Z" creationid="manuel" creationdate="20180608T142648Z">
         <seg>Se la finestra Opzioni non è aperta, fate clic su &lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the document has been digitally signed, an icon shows here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192319Z" creationid="Marco Marega" creationdate="20180620T192319Z">
+        <seg>Se il documento è stato firmato digitalmente, qui viene visualizzata un'icona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11216,6 +11224,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The icon shown here is different when changes to the document have not been saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192258Z" creationid="Marco Marega" creationdate="20180620T192258Z">
+        <seg>L'icona visualizzata in questo punto è diversa quando le modifiche apportate al documento non sono state salvate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The icon that is displayed here changes from this one (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;) if the document has no unsaved changes, to this one (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) if it has been edited and the changes have not been saved.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T070008Z" creationid="manuel" creationdate="20180618T070008Z">
@@ -12625,6 +12641,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unsaved changes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192155Z" creationid="Marco Marega" creationdate="20180620T192155Z">
+        <seg>Modifiche non salvate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Update a style from a selection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155840Z" creationid="manuel" creationdate="20180612T155840Z">
@@ -13717,6 +13741,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140027Z" creationid="manuel" creationdate="20180612T134507Z">
         <seg>È possibile visualizzare tutti gli stili oppure soltanto alcuni gruppi, ad esempio gli stili personali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can click the icon to sign the document, or to view the existing certificate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192357Z" creationid="Marco Marega" creationdate="20180620T192357Z">
+        <seg>Potete fare doppio clic sull'icona per firmare il documento o per visualizzare il certificato esistente.</seg>
       </tuv>
     </tu>
     <tu>
