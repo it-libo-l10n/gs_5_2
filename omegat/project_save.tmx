@@ -4584,6 +4584,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each time the &lt;f0&gt;Ins&lt;/f0&gt; key is pressed, or this field is clicked, the mode toggles between Insert and Overwrite.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192104Z" creationid="Marco Marega" creationdate="20180620T192104Z">
+        <seg>Ogni volta che viene premuto il tasto &lt;f0&gt;Ins&lt;/f0&gt;, o fate clic su questo campo, il modo passa da Inserimento a Sovrascrittura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit document properties before saving</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144321Z" creationid="manuel" creationdate="20180608T144321Z">
@@ -10232,6 +10240,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shows the type of insert mode the program is in.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191935Z" creationid="Marco Marega" creationdate="20180620T191935Z">
+        <seg>Visualizza il tipo di modalità di inserimento in cui si trova il programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sidebar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071613Z" creationid="manuel" creationdate="20180618T071613Z">
@@ -11724,6 +11740,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065123Z" creationid="manuel" creationdate="20180618T065123Z">
         <seg>Questa funzionalità è disabilitata quando è attiva la &lt;f3&gt;registrazione &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;delle modifiche&lt;/f5&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This field is blank if the program is in Insert mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191951Z" creationid="Marco Marega" creationdate="20180620T191951Z">
+        <seg>Questa area rimane vuota quando il programma si trova in modalità Inserimento.</seg>
       </tuv>
     </tu>
     <tu>
