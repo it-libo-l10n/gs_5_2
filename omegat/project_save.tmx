@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5000,6 +5000,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Selection of visible toolbar icons</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T184851Z" creationid="Marco Marega" creationdate="20180620T184851Z">
+        <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: selezione delle icone visibili della barra strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140320Z" creationid="manuel" creationdate="20180611T161453Z">
@@ -9304,6 +9312,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select or deselect icons to hide or show them on the toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T184831Z" creationid="Marco Marega" creationdate="20180620T184831Z">
+        <seg>Selezionate o deselezionate le icone per nasconderle o visualizzarle nella barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select or deselect the options as required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104411Z" creationid="manuel" creationdate="20180606T104411Z">
@@ -12485,6 +12501,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181616Z" creationid="Elisabetta Manuele" creationdate="20180620T181616Z">
         <seg>Viste di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Visible icons on a toolbar are indicated by an outline around the icon ( Figure &lt;t1&gt;6&lt;/t1&gt;) or by a check mark beside the icon, depending on your operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T184752Z" creationid="Marco Marega" creationdate="20180620T184752Z">
+        <seg>Le icone visibili sulla barre degli strumenti sono indicate da una linea di contorno (Figura &lt;t1&gt;6&lt;/t1&gt;) o, a seconda del sistema operativo, da un segno di spunta a fianco all'icona.</seg>
       </tuv>
     </tu>
     <tu>
