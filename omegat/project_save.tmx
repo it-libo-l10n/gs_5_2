@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -78,10 +78,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>102</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180257Z" creationid="Elisabetta Manuele" creationdate="20180620T180257Z">
+        <seg>102</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>106</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180304Z" creationid="Elisabetta Manuele" creationdate="20180620T180304Z">
+        <seg>106</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>107</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180312Z" creationid="Elisabetta Manuele" creationdate="20180620T180312Z">
+        <seg>107</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>108</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180324Z" creationid="Elisabetta Manuele" creationdate="20180620T180324Z">
+        <seg>108</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>109</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180343Z" creationid="Elisabetta Manuele" creationdate="20180620T180343Z">
+        <seg>109</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>11</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173504Z" creationid="Elisabetta Manuele" creationdate="20180620T173504Z">
         <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>111</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180948Z" creationid="Elisabetta Manuele" creationdate="20180620T180948Z">
+        <seg>111</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,10 +438,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>89</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180216Z" creationid="Elisabetta Manuele" creationdate="20180620T180216Z">
+        <seg>89</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>9</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173403Z" creationid="Elisabetta Manuele" creationdate="20180620T173403Z">
         <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>97</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180220Z" creationid="Elisabetta Manuele" creationdate="20180620T180220Z">
+        <seg>97</seg>
       </tuv>
     </tu>
     <tu>
@@ -1402,6 +1466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T153100Z" creationid="manuel" creationdate="20180606T081821Z">
         <seg>L'aggiunta di una marcatura temporale attendibile a una firma elettronica su un PDF fornisce un sigillo digitale di integrità dei dati e una data e un'ora attendibili di quando il file è stato firmato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding comments to a document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180301Z" creationid="Elisabetta Manuele" creationdate="20180620T180301Z">
+        <seg>Aggiunta di commenti a un documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -2479,6 +2551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Classifying document contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181029Z" creationid="Elisabetta Manuele" creationdate="20180620T181029Z">
+        <seg>Classificazione del contenuto dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Apply to All Slides&lt;/f0&gt; to apply the transition for all of your presentation or continue selecting transitions to place between each slide in your presentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090028Z" creationid="luke" creationdate="20180515T090028Z">
@@ -3048,6 +3128,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a table of contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180309Z" creationid="Elisabetta Manuele" creationdate="20180620T180309Z">
+        <seg>Creazione di un indice generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T102953Z" creationid="manuel" creationdate="20180615T102953Z">
@@ -3080,10 +3168,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating fill-in forms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181305Z" creationid="Elisabetta Manuele" creationdate="20180620T181305Z">
+        <seg>Creazione di formulari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating hyperlinks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180613T214105Z" creationid="luke" creationdate="20180613T214105Z">
         <seg>Creazione di collegamenti ipertestuali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating indexes and bibliographies</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180316Z" creationid="Elisabetta Manuele" creationdate="20180620T180316Z">
+        <seg>Creazione di indici analitici e bibliografie</seg>
       </tuv>
     </tu>
     <tu>
@@ -4692,6 +4796,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160941Z" creationid="manuel" creationdate="20180616T160941Z">
         <seg>Strutta e riempimento del formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatting pages</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180251Z" creationid="Elisabetta Manuele" creationdate="20180620T180251Z">
+        <seg>Formattazione delle pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatting text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180218Z" creationid="Elisabetta Manuele" creationdate="20180620T180218Z">
+        <seg>Formattazione del testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6720,6 +6840,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linking and cross-referencing within a document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180940Z" creationid="Elisabetta Manuele" creationdate="20180620T180940Z">
+        <seg>Collegamenti e riferimenti incrociati all'interno di un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux users will also find LibreOffice included in many of the latest Linux distributions; Ubuntu is just one example.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204517Z" creationid="Marco Marega" creationdate="20180528T191244Z">
@@ -7828,6 +7956,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062657Z" creationid="manuel" creationdate="20180531T062657Z">
         <seg>Opzioni stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180322Z" creationid="Elisabetta Manuele" creationdate="20180620T180322Z">
+        <seg>Stampa</seg>
       </tuv>
     </tu>
     <tu>
@@ -10897,6 +11033,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tracking changes to a document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180338Z" creationid="Elisabetta Manuele" creationdate="20180620T180338Z">
+        <seg>Memorizzare le modifiche in un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Two notable examples are cross-references to headings and the formatting of numbered lists.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152522Z" creationid="manuel" creationdate="20180608T152522Z">
@@ -11241,10 +11385,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180340Z" creationid="Elisabetta Manuele" creationdate="20180620T180340Z">
+        <seg>Uso dei campi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using keyboard shortcuts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154017Z" creationid="manuel" creationdate="20180612T154017Z">
         <seg>Uso dei tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using mail merge</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180326Z" creationid="Elisabetta Manuele" creationdate="20180620T180326Z">
+        <seg>Uso della stampa in serie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using master documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180944Z" creationid="Elisabetta Manuele" creationdate="20180620T180944Z">
+        <seg>Uso di documenti master</seg>
       </tuv>
     </tu>
     <tu>
@@ -11669,6 +11837,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180112Z" creationid="Elisabetta Manuele" creationdate="20180620T180112Z">
         <seg>Lavorare con i documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working with graphics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180320Z" creationid="Elisabetta Manuele" creationdate="20180620T180320Z">
+        <seg>Lavorare con oggetti grafici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working with text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180214Z" creationid="Elisabetta Manuele" creationdate="20180620T180214Z">
+        <seg>Lavorare con il testo</seg>
       </tuv>
     </tu>
     <tu>
