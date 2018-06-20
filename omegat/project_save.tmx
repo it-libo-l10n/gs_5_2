@@ -3319,6 +3319,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Close Toolbar&lt;/f0&gt; to close the selected toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190407Z" creationid="Marco Marega" creationdate="20180620T190407Z">
+        <seg>Fate clic su &lt;f0&gt;Chiudi barra degli strumenti&lt;/f0&gt; per chiudere la barra selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Customize Toolbar&lt;/f0&gt; to open the Customize dialog; See &lt;f1&gt;Chapter 14 Customizing LibreOffice&lt;/f1&gt; for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190002Z" creationid="Marco Marega" creationdate="20180620T185042Z">
@@ -3339,6 +3347,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T185151Z" creationid="Marco Marega" creationdate="20180620T185151Z">
         <seg>Fate clic su &lt;f0&gt;Aggancia Barra degli strumenti&lt;/f0&gt; per ancorare la barra degli strumenti mobile selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Lock Toolbar Position&lt;/f0&gt; to lock a docked toolbar into its docked position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190323Z" creationid="Marco Marega" creationdate="20180620T190323Z">
+        <seg>Fate clic su &lt;f0&gt;Blocca posizione della barra degli strumenti&lt;/f0&gt; per bloccare una barra nella posizione in cui è agganciata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3755,6 +3771,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072730Z" creationid="luke" creationdate="20180515T072730Z">
         <seg>Indice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Context menus</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190433Z" creationid="Marco Marega" creationdate="20180620T190433Z">
+        <seg>Menu contestuali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Context menus provide quick access to many menu functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190521Z" creationid="Marco Marega" creationdate="20180620T190521Z">
+        <seg>I menu contestuali forniscono un accesso rapido a molte funzioni del menu.</seg>
       </tuv>
     </tu>
     <tu>
