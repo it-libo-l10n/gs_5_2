@@ -1894,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A context menu can be the easiest way to reach a function, especially if you are not sure where the function is located in the menus or toolbars.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190802Z" creationid="Marco Marega" creationdate="20180620T190802Z">
+        <seg>Un menu contestuale può essere il modo più semplice per raggiungere una funzione, specialmente se non siete sicuri di dove questa si trovi nei menu o nelle barre degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A device is blacklisted when it is buggy or may render graphics with poor quality.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T144508Z" creationid="manuel" creationdate="20180531T062258Z">
@@ -11544,6 +11552,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are opened by right-clicking on a paragraph, graphic, or other object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190558Z" creationid="Marco Marega" creationdate="20180620T190558Z">
+        <seg>Questi si aprono facendo un clic con il pulsante destro del mouse su di un paragrafo, un'immagine o un altro oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are used to writing documents according to &lt;f0&gt;physical&lt;/f0&gt; attributes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143431Z" creationid="manuel" creationdate="20180611T143431Z">
@@ -13045,6 +13061,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203621Z" creationid="Marco Marega" creationdate="20180607T203621Z">
         <seg>Se Quickstart è attivato, le librerie necessarie vengono caricate all'avvio del computer, permettendo un tempo di caricamento più rapido dei componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a context menu opens, the functions or options available will depend on the object that has been selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190636Z" creationid="Marco Marega" creationdate="20180620T190636Z">
+        <seg>Quando si apre un menu contestuale, le funzioni o le opzioni disponibili dipendono dall'oggetto selezionato.</seg>
       </tuv>
     </tu>
     <tu>
