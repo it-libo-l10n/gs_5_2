@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -254,10 +254,90 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>140</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181746Z" creationid="Elisabetta Manuele" creationdate="20180620T181746Z">
+        <seg>140</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>141</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181754Z" creationid="Elisabetta Manuele" creationdate="20180620T181754Z">
+        <seg>141</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>144</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181811Z" creationid="Elisabetta Manuele" creationdate="20180620T181811Z">
+        <seg>144</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>145</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181827Z" creationid="Elisabetta Manuele" creationdate="20180620T181827Z">
+        <seg>145</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>146</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181832Z" creationid="Elisabetta Manuele" creationdate="20180620T181832Z">
+        <seg>146</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>148</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181859Z" creationid="Elisabetta Manuele" creationdate="20180620T181859Z">
+        <seg>148</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>149</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181904Z" creationid="Elisabetta Manuele" creationdate="20180620T181904Z">
+        <seg>149</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>15</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173655Z" creationid="Elisabetta Manuele" creationdate="20180620T173655Z">
         <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>153</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181926Z" creationid="Elisabetta Manuele" creationdate="20180620T181926Z">
+        <seg>153</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>154</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181930Z" creationid="Elisabetta Manuele" creationdate="20180620T181930Z">
+        <seg>154</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>158</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181956Z" creationid="Elisabetta Manuele" creationdate="20180620T181956Z">
+        <seg>158</seg>
       </tuv>
     </tu>
     <tu>
@@ -1782,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Analyzing data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181906Z" creationid="Elisabetta Manuele" creationdate="20180620T181906Z">
+        <seg>Analisi dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And many more</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160956Z" creationid="manuel" creationdate="20180616T160956Z">
@@ -1987,6 +2075,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T140955Z" creationid="manuel" creationdate="20180609T140955Z">
         <seg>Correzione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>AutoFormatting of cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181808Z" creationid="Elisabetta Manuele" creationdate="20180620T181808Z">
+        <seg>Formattazione automatica delle celle</seg>
       </tuv>
     </tu>
     <tu>
@@ -2475,6 +2571,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T083117Z" creationid="luke" creationdate="20180515T083117Z">
         <seg>Chapter 6 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 6 Getting Started with Impress</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181923Z" creationid="Elisabetta Manuele" creationdate="20180620T181923Z">
+        <seg>Capitolo 6 Guida introduttiva a Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -3224,6 +3328,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a new presentation using the Presentation Wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182053Z" creationid="Elisabetta Manuele" creationdate="20180620T182053Z">
+        <seg>Creazione di una nuova presentazione tramite la Presentazione guidata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a new style from a selection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064726Z" creationid="manuel" creationdate="20180614T064726Z">
@@ -3764,6 +3876,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T153841Z" creationid="manuel" creationdate="20180615T153841Z">
         <seg>Modificare un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181748Z" creationid="Elisabetta Manuele" creationdate="20180620T181748Z">
+        <seg>Modifica dei dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -4928,6 +5048,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181751Z" creationid="Elisabetta Manuele" creationdate="20180620T181751Z">
+        <seg>Formattazione dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting pages</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180251Z" creationid="Elisabetta Manuele" creationdate="20180620T180251Z">
@@ -5300,6 +5428,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085952Z" creationid="luke" creationdate="20180515T085952Z">
         <seg>Hidden slides are marked by a diagonal bars across the slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hiding and showing data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181844Z" creationid="Elisabetta Manuele" creationdate="20180620T181844Z">
+        <seg>Nascondere e visualizzare i dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -7068,6 +7204,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160809Z" creationid="manuel" creationdate="20180616T160809Z">
         <seg>Stampa in serie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Main Impress window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181945Z" creationid="Elisabetta Manuele" creationdate="20180620T181945Z">
+        <seg>Finestra principale di Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -9184,6 +9328,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sorting records</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181857Z" creationid="Elisabetta Manuele" creationdate="20180620T181857Z">
+        <seg>Ordinare i record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spacing options for paragraphs before text tables</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143719Z" creationid="manuel" creationdate="20180608T143719Z">
@@ -9228,6 +9380,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065551Z" creationid="manuel" creationdate="20180618T065551Z">
         <seg>Selezione Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Starting Impress</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181931Z" creationid="Elisabetta Manuele" creationdate="20180620T181931Z">
+        <seg>Avviare Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -11601,10 +11761,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using conditional formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181829Z" creationid="Elisabetta Manuele" creationdate="20180620T181829Z">
+        <seg>Uso della formattazione condizionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using fields</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180340Z" creationid="Elisabetta Manuele" creationdate="20180620T180340Z">
         <seg>Uso dei campi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using formulas and functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181902Z" creationid="Elisabetta Manuele" creationdate="20180620T181902Z">
+        <seg>Uso di formule e funzioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -11661,6 +11837,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181624Z" creationid="Elisabetta Manuele" creationdate="20180620T181624Z">
         <seg>Usare la tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using themes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181823Z" creationid="Elisabetta Manuele" creationdate="20180620T181823Z">
+        <seg>Uso dei temi</seg>
       </tuv>
     </tu>
     <tu>
@@ -11773,6 +11957,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090123Z" creationid="luke" creationdate="20180515T090123Z">
         <seg>Introduzione a Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is Impress?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181927Z" creationid="Elisabetta Manuele" creationdate="20180620T181927Z">
+        <seg>Introduzione a Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -12117,6 +12309,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180214Z" creationid="Elisabetta Manuele" creationdate="20180620T180214Z">
         <seg>Lavorare con il testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Workspace views</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181951Z" creationid="Elisabetta Manuele" creationdate="20180620T181951Z">
+        <seg>Vista Area di lavoro</seg>
       </tuv>
     </tu>
     <tu>
