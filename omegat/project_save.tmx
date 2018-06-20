@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10244,6 +10244,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T082612Z" creationid="luke" creationdate="20180515T082612Z">
         <seg>To close LibreOffice completely, go to &lt;f0&gt;File &gt; Exit&lt;/f0&gt; on the Menu bar in Windows and Linux operating systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To close a toolbar go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and deselect the toolbar, or right-click in an empty space between the icons on a toolbar and select &lt;f1&gt;Close toolbar&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T175752Z" creationid="Marco Marega" creationdate="20180620T175752Z">
+        <seg>Per chiudere una barra degli strumenti, nella barra del menu andate in &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt; e deselezionatela, oppure fate clic con il pulsante destro del mouse su di uno spazio vuoto tra le icone di una barra degli strumenti e dal menu contestuale selezionate &lt;f1&gt;Chiudi barra strumenti&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
