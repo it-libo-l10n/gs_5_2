@@ -7538,8 +7538,8 @@
       <tuv lang="EN">
         <seg>Moving toolbars</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181420Z" creationid="Marco Marega" creationdate="20180620T181420Z">
-        <seg>Spostamento delle barre di strumenti</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T183509Z" creationid="Marco Marega" creationdate="20180620T181420Z">
+        <seg>Spostare le barre di strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -9300,6 +9300,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154020Z" creationid="manuel" creationdate="20180612T154020Z">
         <seg>Alcuni tasti di scelta rapida per applicare gli stili sono predefiniti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some of these additional toolbars are context sensitive and will automatically appear depending on the position of the cursor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T183649Z" creationid="Marco Marega" creationdate="20180620T183649Z">
+        <seg>Alcune di queste barre degli strumenti aggiuntive sono sensibili al contesto ed appaiono in automatico a seconda della posizione del cursore.</seg>
       </tuv>
     </tu>
     <tu>
