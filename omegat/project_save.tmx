@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3488,6 +3488,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Docked toolbars can be undocked and moved to a new docked position or left as a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181612Z" creationid="Marco Marega" creationdate="20180620T181612Z">
+        <seg>Le barre strumenti agganciate possono essere sganciate e spostate in una nuova posizione, oppure essere lasciate come barre mobili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Document changes status</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065842Z" creationid="manuel" creationdate="20180618T065842Z">
@@ -4220,6 +4228,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162408Z" creationid="manuel" creationdate="20180612T162408Z">
         <seg>Figura &lt;seq0&gt;49&lt;/seq0&gt;: modifica uno stile dalla lista Applica stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of tearing off a tool palette</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181345Z" creationid="Marco Marega" creationdate="20180620T181345Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Esempio di separazione di un insieme di strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -7240,6 +7256,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving toolbars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181420Z" creationid="Marco Marega" creationdate="20180620T181420Z">
+        <seg>Spostamento delle barre di strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiplication sign</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T112943Z" creationid="manuel" creationdate="20180609T112943Z">
@@ -8340,6 +8364,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T163412Z" creationid="manuel" creationdate="20180612T163412Z">
         <seg>Si veda “&lt;bf0&gt;Copia di stili da un modello o documento&lt;/bf0&gt;” a pagina &lt;bf1&gt;70&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See “&lt;bf1&gt;Moving toolbars&lt;/bf1&gt;” and “&lt;bf2&gt;Floating toolbars&lt;/bf2&gt;” below for more information on moving and floating these toolbars created from tool palettes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181310Z" creationid="Marco Marega" creationdate="20180620T181310Z">
+        <seg>Vedete “&lt;bf1&gt;Spostare le barre degli strumenti&lt;/bf1&gt;” e “&lt;bf2&gt;Barre degli strumenti mobili&lt;/bf2&gt;” per avere maggiori informazioni sullo spostamento e sulla trasformazione in barre degli strumenti mobili di questi insiemi di strumenti.</seg>
       </tuv>
     </tu>
     <tu>
