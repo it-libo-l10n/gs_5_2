@@ -4376,6 +4376,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays information relevant to the position of the cursor or the selected element of the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192445Z" creationid="Marco Marega" creationdate="20180620T192445Z">
+        <seg>Visualizza le informazioni relative alla posizione del cursore o all'elemento selezionato nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dividing a document into chapters</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144338Z" creationid="manuel" creationdate="20180616T144338Z">
@@ -8592,6 +8600,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Object information</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192401Z" creationid="Marco Marega" creationdate="20180620T192401Z">
+        <seg>Informazioni sull'oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often applying a style means applying a whole group of formats at the same time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143400Z" creationid="manuel" creationdate="20180611T143400Z">
@@ -9772,6 +9788,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070800Z" creationid="manuel" creationdate="20180614T070800Z">
         <seg>Selezionate l'oggetto grafico desiderato e trascinatelo sulla finestra Stili e Formattazione per creare un nuovo stile grafico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select between Single-page view, Multiple-page view, and Book view to change how your document is displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192626Z" creationid="Marco Marega" creationdate="20180620T192626Z">
+        <seg>Selezionate tra Vista a pagina singola, Vista a più pagine e Vista a libro per modificare il modo in cui viene visualizzato il vostro documento.</seg>
       </tuv>
     </tu>
     <tu>
