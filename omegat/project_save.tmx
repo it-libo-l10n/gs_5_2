@@ -12633,6 +12633,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can dock these toolbars to the top or bottom of the main window, or reposition them on your computer display (see “&lt;rf0&gt;Moving toolbars&lt;/rf0&gt;” above).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T183502Z" creationid="Marco Marega" creationdate="20180620T183502Z">
+        <seg>Potete agganciare queste barre degli strumenti in cima o in fondo alla finestra principale, oppure riposizionarle sullo schermo del vostro computer (vedete “&lt;rf0&gt;Spostare le barre degli strumenti&lt;/rf0&gt;” qui sopra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can drag and drop a selection into the Styles and Formatting window to create a new style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070357Z" creationid="manuel" creationdate="20180614T070357Z">
