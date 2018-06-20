@@ -4448,6 +4448,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on this field to open the Navigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191306Z" creationid="Marco Marega" creationdate="20180620T191306Z">
+        <seg>Fate doppio clic in questo campo per aprire il Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-clicking in this area opens a relevant dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071309Z" creationid="manuel" creationdate="20180618T071309Z">
@@ -8960,6 +8968,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other uses of this field depend on the LibreOffice component.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191324Z" creationid="Marco Marega" creationdate="20180620T191324Z">
+        <seg>Altri usi di questo campo dipendono dal componente di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Others</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113839Z" creationid="manuel" creationdate="20180609T113839Z">
@@ -9004,6 +9020,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171339Z" creationid="manuel" creationdate="20180615T171339Z">
         <seg>Gli stili di pagina possono essere impostati in modo da avere le pagine rivolte a destra e sinistra &lt;f0&gt;rispecchiate&lt;/f0&gt; oppure rivolte solo a destra (le prime pagine dei capitoli sono spesso definite come pagine destre solamente) oppure rivolte solo a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page, sheet, or slide number and page count</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191156Z" creationid="Marco Marega" creationdate="20180620T191156Z">
+        <seg>Pagina, foglio o numero di diapositiva e conteggio pagine</seg>
       </tuv>
     </tu>
     <tu>
@@ -10148,6 +10172,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161403Z" creationid="manuel" creationdate="20180616T161403Z">
         <seg>Mostra il numero della pagina corrente, il numero sequenziale della pagina corrente (se diverso) e il numero totale di pagine del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the current page, sheet, or slide number and the total number of pages, sheets, or slides in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191300Z" creationid="Marco Marega" creationdate="20180620T191300Z">
+        <seg>Visualizza il numero della pagina, del foglio, della diapositiva corrente ed il numero totale delle pagine, fogli o diapositive presenti nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13349,6 +13381,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105016Z" creationid="manuel" creationdate="20180609T105016Z">
         <seg>Spaziatura della parola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Words and characters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191352Z" creationid="Marco Marega" creationdate="20180620T191352Z">
+        <seg>Parole e caratteri</seg>
       </tuv>
     </tu>
     <tu>
