@@ -4672,6 +4672,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Floating toolbars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T182535Z" creationid="Marco Marega" creationdate="20180620T182535Z">
+        <seg>Barre strumenti mobili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Follow the instructions on the pages of the wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121419Z" creationid="manuel" creationdate="20180615T121419Z">
@@ -7020,6 +7028,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155729Z" creationid="manuel" creationdate="20180612T155729Z">
         <seg>LibreOffice include stili predefiniti, ma potete anche creare degli stili personalizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice includes several additional toolbars, whose default setting appear as floating toolbars in response to the current position of the cursor or selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T183116Z" creationid="Marco Marega" creationdate="20180620T183116Z">
+        <seg>LibreOffice comprende diverse altre barre strumenti, che vengono visualizzate in modo predefinito come barre mobili in base alla posizione del cursore o alla selezione.</seg>
       </tuv>
     </tu>
     <tu>
