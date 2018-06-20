@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Published &lt;/f0&gt;&lt;f1&gt;16 February&lt;/f1&gt;&lt;f2&gt; 201&lt;/f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173241Z" creationid="Elisabetta Manuele" creationdate="20180620T173241Z">
+        <seg>&lt;f0&gt;Pubblicato &lt;/f0&gt;&lt;f1&gt;il 16 febbraio&lt;/f1&gt;&lt;f2&gt; 201&lt;/f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Right-click on the selected template and c&lt;/f0&gt;lick the &lt;f1&gt;Set as default&lt;/f1&gt; button (see Figure &lt;t2&gt;52&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T084047Z" creationid="manuel" creationdate="20180616T084047Z">
@@ -8914,8 +8922,8 @@
       <tuv lang="EN">
         <seg>The contributors to that book are listed on page &lt;bf1&gt;13&lt;/bf1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173016Z" creationid="Elisabetta Manuele" creationdate="20180620T173016Z">
-        <seg>I collaboratori sono elencati a pagina &lt;bf1&gt;13&lt;/bf1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173046Z" creationid="Elisabetta Manuele" creationdate="20180620T173016Z">
+        <seg>i cui collaboratori sono elencati a pagina &lt;bf1&gt;13&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9562,8 +9570,8 @@
       <tuv lang="EN">
         <seg>This book is adapted and updated from &lt;f0&gt;Getting Started with OpenOffice.org 3.3&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T172835Z" creationid="Elisabetta Manuele" creationdate="20180620T172835Z">
-        <seg>La presente guida costituisce un adattamento e un aggiornamento della &lt;f0&gt;Guida introduttiva a OpenOffice.org 3.3&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173031Z" creationid="Elisabetta Manuele" creationdate="20180620T172835Z">
+        <seg>La presente guida costituisce un adattamento e un aggiornamento della &lt;f0&gt;Guida introduttiva a OpenOffice.org 3.3&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
