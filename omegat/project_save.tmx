@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -210,6 +210,54 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175332Z" creationid="Elisabetta Manuele" creationdate="20180620T175332Z">
         <seg>33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>35</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175432Z" creationid="Elisabetta Manuele" creationdate="20180620T175432Z">
+        <seg>35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>36</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175441Z" creationid="Elisabetta Manuele" creationdate="20180620T175441Z">
+        <seg>36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>51</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175458Z" creationid="Elisabetta Manuele" creationdate="20180620T175458Z">
+        <seg>51</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>56</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175502Z" creationid="Elisabetta Manuele" creationdate="20180620T175502Z">
+        <seg>56</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>61</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175507Z" creationid="Elisabetta Manuele" creationdate="20180620T175507Z">
+        <seg>61</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>62</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175546Z" creationid="Elisabetta Manuele" creationdate="20180620T175546Z">
+        <seg>62</seg>
       </tuv>
     </tu>
     <tu>
@@ -2063,6 +2111,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 2 Setting up LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175428Z" creationid="Elisabetta Manuele" creationdate="20180620T175428Z">
+        <seg>Capitolo 2 Configurare LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 3 Using Styles and Templates</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175540Z" creationid="Elisabetta Manuele" creationdate="20180620T175540Z">
+        <seg>Capitolo 3 Uso di Stili e Modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 4 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160419Z" creationid="luke" creationdate="20180515T082829Z">
@@ -2251,6 +2315,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165949Z" creationid="manuel" creationdate="20180608T165949Z">
         <seg>Impostazioni della lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing options for all of LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175437Z" creationid="Elisabetta Manuele" creationdate="20180620T175437Z">
+        <seg>Opzioni comuni a tutti i componenti di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -2607,6 +2679,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Closing LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175408Z" creationid="Elisabetta Manuele" creationdate="20180620T175408Z">
+        <seg>Chiusura di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Closing a document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175402Z" creationid="Elisabetta Manuele" creationdate="20180620T175402Z">
+        <seg>Chiusura di un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Color Picker</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072055Z" creationid="manuel" creationdate="20180531T070444Z">
@@ -2675,6 +2763,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141015Z" creationid="manuel" creationdate="20180609T141015Z">
         <seg>Controllo delle funzioni di &lt;i0/&gt;Correzione automatica di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Controlling LibreOffice’s AutoCorrect functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175525Z" creationid="Elisabetta Manuele" creationdate="20180620T175525Z">
+        <seg>Controllo delle funzioni di correzione automatica di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -7648,6 +7744,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reloading a document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175358Z" creationid="Elisabetta Manuele" creationdate="20180620T175358Z">
+        <seg>Ricaricare un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove personal information on saving</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083926Z" creationid="manuel" creationdate="20180606T083926Z">
@@ -11043,8 +11147,8 @@
       <tuv lang="EN">
         <seg>What is a template?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112124Z" creationid="manuel" creationdate="20180611T112124Z">
-        <seg>Cos'è un modello?</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175634Z" creationid="manuel" creationdate="20180611T112124Z">
+        <seg>Che cos'è un modello?</seg>
       </tuv>
     </tu>
     <tu>
