@@ -3448,6 +3448,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customizing toolbars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T183912Z" creationid="Marco Marega" creationdate="20180620T183912Z">
+        <seg>Personalizzare le barre degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dan Lewis</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170051Z" creationid="Elisabetta Manuele" creationdate="20180620T170051Z">
@@ -4892,6 +4900,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144019Z" creationid="manuel" creationdate="20180616T144019Z">
         <seg>Per esempio, la prima pagina di una carta intestata tipicamente presenta una intestazione differente, oppure la prima pagina di un rapporto potrebbe non avere  intestazione o piè di pagina, mentre le altre pagine potrebbero averli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, when the cursor is in a table, a &lt;f0&gt;Table&lt;/f0&gt; toolbar appears, and when the cursor is in a numbered or bullet list, the &lt;f1&gt;Bullets and Numbering&lt;/f1&gt; toolbar appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T183856Z" creationid="Marco Marega" creationdate="20180620T183856Z">
+        <seg>Ad esempio, quando il cursore è in una tabella, viene visualizzata una barra degli strumenti &lt;f0&gt;Tabella&lt;/f0&gt;, mentre quando il cursore è in un elenco numerato o puntato, appare la barra strumenti &lt;f1&gt;Elenchi Puntati e Numerati&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12613,6 +12629,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084425Z" creationid="manuel" creationdate="20180606T084425Z">
         <seg>Potete personalizzare complessivamente l'aspetto di LibreOffice con temi di Mozilla Firefox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can customize toolbars in several ways, including choosing which icons are visible and locking the position of a docked toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T184050Z" creationid="Marco Marega" creationdate="20180620T184050Z">
+        <seg>Potete personalizzare le barre degli strumenti in diversi modi, come scegliere le icone da visualizzare e bloccare il posizionamento di una barra degli strumenti ancorata.</seg>
       </tuv>
     </tu>
     <tu>
