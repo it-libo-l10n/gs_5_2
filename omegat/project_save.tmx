@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -350,6 +350,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>162</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182058Z" creationid="Elisabetta Manuele" creationdate="20180620T182058Z">
+        <seg>162</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>165</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182102Z" creationid="Elisabetta Manuele" creationdate="20180620T182102Z">
+        <seg>165</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>169</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182109Z" creationid="Elisabetta Manuele" creationdate="20180620T182109Z">
+        <seg>169</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>17</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173903Z" creationid="Elisabetta Manuele" creationdate="20180620T173903Z">
@@ -358,10 +382,98 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>174</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182123Z" creationid="Elisabetta Manuele" creationdate="20180620T182123Z">
+        <seg>174</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>176</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182153Z" creationid="Elisabetta Manuele" creationdate="20180620T182153Z">
+        <seg>176</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>18</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173936Z" creationid="Elisabetta Manuele" creationdate="20180620T173936Z">
         <seg>18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>183</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182158Z" creationid="Elisabetta Manuele" creationdate="20180620T182158Z">
+        <seg>183</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>184</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182226Z" creationid="Elisabetta Manuele" creationdate="20180620T182226Z">
+        <seg>184</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>185</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182258Z" creationid="Elisabetta Manuele" creationdate="20180620T182258Z">
+        <seg>185</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>187</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184242Z" creationid="Elisabetta Manuele" creationdate="20180620T184242Z">
+        <seg>187</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>190</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184257Z" creationid="Elisabetta Manuele" creationdate="20180620T184257Z">
+        <seg>190</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>191</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184301Z" creationid="Elisabetta Manuele" creationdate="20180620T184301Z">
+        <seg>191</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>195</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184353Z" creationid="Elisabetta Manuele" creationdate="20180620T184353Z">
+        <seg>195</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>196</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184359Z" creationid="Elisabetta Manuele" creationdate="20180620T184359Z">
+        <seg>196</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>197</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184414Z" creationid="Elisabetta Manuele" creationdate="20180620T184414Z">
+        <seg>197</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,10 +1758,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding and formatting text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182104Z" creationid="Elisabetta Manuele" creationdate="20180620T182104Z">
+        <seg>Aggiungere e formattare il testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding comments to a document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180301Z" creationid="Elisabetta Manuele" creationdate="20180620T180301Z">
         <seg>Aggiunta di commenti a un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding comments to a presentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182156Z" creationid="Elisabetta Manuele" creationdate="20180620T182156Z">
+        <seg>Aggiunta di commenti a una presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding pictures, tables, charts, and media</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182121Z" creationid="Elisabetta Manuele" creationdate="20180620T182121Z">
+        <seg>Aggiungere immagini, tabelle, grafici e contenuti multimediali</seg>
       </tuv>
     </tu>
     <tu>
@@ -2591,6 +2727,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 7 Getting Started with Draw</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184254Z" creationid="Elisabetta Manuele" creationdate="20180620T184254Z">
+        <seg>Capitolo 7 Guida introduttiva a Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 8 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T083404Z" creationid="luke" creationdate="20180515T083404Z">
@@ -2739,6 +2883,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083204Z" creationid="manuel" creationdate="20180528T083204Z">
         <seg>Scegliere le opzioni adatte al vostro lavoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing and defining colors</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184356Z" creationid="Elisabetta Manuele" creationdate="20180620T184356Z">
+        <seg>Scelta e definizione dei colori</seg>
       </tuv>
     </tu>
     <tu>
@@ -3352,6 +3504,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a photo album</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182223Z" creationid="Elisabetta Manuele" creationdate="20180620T182223Z">
+        <seg>Creazione di un album fotografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a table of contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180309Z" creationid="Elisabetta Manuele" creationdate="20180620T180309Z">
@@ -3820,6 +3980,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210837Z" creationid="Marco Marega" creationdate="20180527T210837Z">
         <seg>Draw è uno strumento per il disegno vettoriale in grado di creare qualsiasi cosa, da semplici grafici o diagrammi di flusso fino alla grafica 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Draw main window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184311Z" creationid="Elisabetta Manuele" creationdate="20180620T184311Z">
+        <seg>Finestra principale di Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drawing basic shapes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184412Z" creationid="Elisabetta Manuele" creationdate="20180620T184412Z">
+        <seg>Disegnare forme base</seg>
       </tuv>
     </tu>
     <tu>
@@ -5080,6 +5256,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting a presentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182059Z" creationid="Elisabetta Manuele" creationdate="20180620T182059Z">
+        <seg>Formattazione di una presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181751Z" creationid="Elisabetta Manuele" creationdate="20180620T181751Z">
@@ -5236,6 +5420,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160421Z" creationid="manuel" creationdate="20180616T160421Z">
         <seg>Guida introduttiva a Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glue points and connectors</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184442Z" creationid="Elisabetta Manuele" creationdate="20180620T184442Z">
+        <seg>Punti di incollaggio e connettori</seg>
       </tuv>
     </tu>
     <tu>
@@ -9178,8 +9370,8 @@
       <tuv lang="EN">
         <seg>Setting up a slide show</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
-        <seg>Setting up a slide show</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182256Z" creationid="luke" creationdate="20180515T085948Z">
+        <seg>Impostare una presentazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -11779,8 +11971,8 @@
       <tuv lang="EN">
         <seg>Using Impress Remote control</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
-        <seg>Using Impress Remote control</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184238Z" creationid="luke" creationdate="20180515T090041Z">
+        <seg>Uso dell'applicazione di controllo Impress Remote</seg>
       </tuv>
     </tu>
     <tu>
@@ -12369,10 +12561,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Working with layers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184350Z" creationid="Elisabetta Manuele" creationdate="20180620T184350Z">
+        <seg>Lavorare con i livelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Working with sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181611Z" creationid="Elisabetta Manuele" creationdate="20180620T181611Z">
         <seg>Lavorare con i fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working with slide masters and styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182151Z" creationid="Elisabetta Manuele" creationdate="20180620T182151Z">
+        <seg>Lavorare con i master di diapositiva e relativi stili</seg>
       </tuv>
     </tu>
     <tu>
