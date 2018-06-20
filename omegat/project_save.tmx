@@ -7664,6 +7664,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It contains one or more panels, based on the current document context.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221205Z" creationid="Marco Marega" creationdate="20180620T221205Z">
+        <seg>Contiene uno o più pannelli, a seconda del contesto del documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It contains the most-used commands.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212850Z" creationid="Marco Marega" creationdate="20180619T212850Z">
@@ -9100,6 +9108,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085659Z" creationid="luke" creationdate="20180515T085659Z">
         <seg>Supporto e formazione a pagamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Panels are organized into decks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221438Z" creationid="Marco Marega" creationdate="20180620T221438Z">
+        <seg>I pannelli sono organizzati in Panels are organized into decks.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10904,6 +10920,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Sidebar (Figure &lt;t1&gt;8&lt;/t1&gt;) is located on the right side of the edit views of Writer, Calc, Impress, and Draw.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221125Z" creationid="Marco Marega" creationdate="20180620T221125Z">
+        <seg>La Barra laterale (Figura &lt;t1&gt;8&lt;/t1&gt;) si trova sul lato destro della finestra di lavoro di Writer, Calc, Impress e Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Sidebar also has a Hide/Show button.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T102315Z" creationid="manuel" creationdate="20180618T102315Z">
@@ -11972,6 +11996,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203823Z" creationid="Marco Marega" creationdate="20180607T203823Z">
         <seg>Per attivarlo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To activate the Sidebar, select &lt;f0&gt;View &gt; Sidebar&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221012Z" creationid="Marco Marega" creationdate="20180620T221012Z">
+        <seg>Per attivare la Barra laterale, selezionate&lt;f0&gt;Visualizza &gt; Barra laterale&lt;/f0&gt; nella barra del Menu.</seg>
       </tuv>
     </tu>
     <tu>
