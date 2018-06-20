@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2759,6 +2759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, toolbars will dock at the top of the workspace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190126Z" creationid="Marco Marega" creationdate="20180620T190126Z">
+        <seg>Per impostazione predefinita, la barra degli strumenti viene agganciata in cima allo spazio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By setting up these sequences, you can usually avoid having to apply styles manually.&lt;/f24&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102311Z" creationid="manuel" creationdate="20180616T102311Z">
@@ -3313,16 +3321,16 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Customize Toolbar&lt;/f0&gt; to open the Customize dialog; See &lt;f1&gt;Chapter 14 Customizing LibreOffice&lt;/f1&gt; for more information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T185042Z" creationid="Marco Marega" creationdate="20180620T185042Z">
-        <seg>Fate clic su &lt;f0&gt;Personalizza barra degli strumenti&lt;/f0&gt; per aprire la finestra di dialogo di Personalizzazione; per maggiori informazioni vedete il &lt;f1&gt;Capitolo 14 Personalizzare LibreOffice&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190002Z" creationid="Marco Marega" creationdate="20180620T185042Z">
+        <seg>Fate clic su &lt;f0&gt;Personalizza barra degli strumenti&lt;/f0&gt; per aprire la finestra di dialogo di Personalizza; per maggiori informazioni vedete il &lt;f1&gt;Capitolo 14 Personalizzare LibreOffice&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Dock All Toolbars&lt;/f0&gt; to dock all floating toolbars.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T185443Z" creationid="Marco Marega" creationdate="20180620T185443Z">
-        <seg>Fate clic su &lt;f0&gt;Aggancia tutte le barre degli strumenti&lt;/f0&gt; per agganciare tutte le barre degli strumenti.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190106Z" creationid="Marco Marega" creationdate="20180620T185443Z">
+        <seg>Fate clic su &lt;f0&gt;Ancora tutte le barre degli strumenti&lt;/f0&gt; per agganciare tutte le barre degli strumenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13716,6 +13724,14 @@
         <seg>You can reposition the toolbar to a different docked position.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T185350Z" creationid="Marco Marega" creationdate="20180620T185246Z">
+        <seg>Potete riposizionare la barra degli strumenti agganciandola in una diversa posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can reposition the toolbars to different docked positions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190139Z" creationid="Marco Marega" creationdate="20180620T190139Z">
         <seg>Potete riposizionare la barra degli strumenti agganciandola in una diversa posizione.</seg>
       </tuv>
     </tu>
