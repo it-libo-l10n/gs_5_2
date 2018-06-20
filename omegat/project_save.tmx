@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -634,6 +634,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184726Z" creationid="Elisabetta Manuele" creationdate="20180620T184726Z">
         <seg>234</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>247</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184732Z" creationid="Elisabetta Manuele" creationdate="20180620T184732Z">
+        <seg>247</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>250</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184819Z" creationid="Elisabetta Manuele" creationdate="20180620T184819Z">
+        <seg>250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>258</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184851Z" creationid="Elisabetta Manuele" creationdate="20180620T184851Z">
+        <seg>258</seg>
       </tuv>
     </tu>
     <tu>
@@ -1858,6 +1882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104109Z" creationid="manuel" creationdate="20180606T104109Z">
         <seg>Il supporto per l'accesso facilitato si appoggia a Java Runtime Environment per le comunicazioni con strumenti di tecnologia assistiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Accessing other data sources</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185109Z" creationid="Elisabetta Manuele" creationdate="20180620T185109Z">
+        <seg>Accesso ad altre fonti dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -3772,6 +3804,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175802Z" creationid="Elisabetta Manuele" creationdate="20180620T175802Z">
         <seg>Creare stili personalizzati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating queries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184815Z" creationid="Elisabetta Manuele" creationdate="20180620T184815Z">
+        <seg>Creazione di query</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating reports</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184849Z" creationid="Elisabetta Manuele" creationdate="20180620T184849Z">
+        <seg>Creazione di report</seg>
       </tuv>
     </tu>
     <tu>
