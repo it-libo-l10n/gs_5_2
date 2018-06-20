@@ -318,6 +318,78 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>74</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175920Z" creationid="Elisabetta Manuele" creationdate="20180620T175920Z">
+        <seg>74</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>75</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175945Z" creationid="Elisabetta Manuele" creationdate="20180620T175945Z">
+        <seg>75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>76</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175956Z" creationid="Elisabetta Manuele" creationdate="20180620T175956Z">
+        <seg>76</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>77</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180003Z" creationid="Elisabetta Manuele" creationdate="20180620T180003Z">
+        <seg>77</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>79</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180013Z" creationid="Elisabetta Manuele" creationdate="20180620T180013Z">
+        <seg>79</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>81</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180027Z" creationid="Elisabetta Manuele" creationdate="20180620T180027Z">
+        <seg>81</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>82</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180049Z" creationid="Elisabetta Manuele" creationdate="20180620T180049Z">
+        <seg>82</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>87</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180103Z" creationid="Elisabetta Manuele" creationdate="20180620T180103Z">
+        <seg>87</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>88</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180114Z" creationid="Elisabetta Manuele" creationdate="20180620T180114Z">
+        <seg>88</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>9</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173403Z" creationid="Elisabetta Manuele" creationdate="20180620T173403Z">
@@ -1344,8 +1416,8 @@
       <tuv lang="EN">
         <seg>Adding templates obtained from other sources</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160134Z" creationid="manuel" creationdate="20180615T160134Z">
-        <seg>Aggiunta di modelli ottenuti da altre sorgenti</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175937Z" creationid="manuel" creationdate="20180615T160134Z">
+        <seg>Aggiunta di modelli ottenuti da altre fonti</seg>
       </tuv>
     </tu>
     <tu>
@@ -2103,6 +2175,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing document views</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180101Z" creationid="Elisabetta Manuele" creationdate="20180620T180101Z">
+        <seg>Cambiare modalità di visualizzazione dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085837Z" creationid="luke" creationdate="20180515T082559Z">
@@ -2187,6 +2267,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160419Z" creationid="luke" creationdate="20180515T082829Z">
         <seg>Capitolo 4 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 4 Getting Started with Writer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180024Z" creationid="Elisabetta Manuele" creationdate="20180620T180024Z">
+        <seg>Capitolo 4 Guida introduttiva a Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -6992,6 +7080,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving quickly through a document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180107Z" creationid="Elisabetta Manuele" creationdate="20180620T180107Z">
+        <seg>Spostarsi rapidamente all'interno di un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiplication sign</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T112943Z" creationid="manuel" creationdate="20180609T112943Z">
@@ -8524,6 +8620,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160650Z" creationid="manuel" creationdate="20180615T160650Z">
         <seg>Definire &lt;i0/&gt;un modello standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting a default template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175942Z" creationid="Elisabetta Manuele" creationdate="20180620T175942Z">
+        <seg>Definire un modello standard</seg>
       </tuv>
     </tu>
     <tu>
@@ -11097,6 +11201,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using built-in language tools</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180204Z" creationid="Elisabetta Manuele" creationdate="20180620T180204Z">
+        <seg>Utilizzo degli strumenti per la lingua integrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using keyboard shortcuts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154017Z" creationid="manuel" creationdate="20180612T154017Z">
@@ -11517,6 +11629,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105016Z" creationid="manuel" creationdate="20180609T105016Z">
         <seg>Spaziatura della parola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working with documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180112Z" creationid="Elisabetta Manuele" creationdate="20180620T180112Z">
+        <seg>Lavorare con i documenti</seg>
       </tuv>
     </tu>
     <tu>
