@@ -7778,8 +7778,8 @@
       <tuv lang="EN">
         <seg>Language</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060412Z" creationid="manuel" creationdate="20180618T060412Z">
-        <seg>Linguaggio</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191650Z" creationid="manuel" creationdate="20180618T060412Z">
+        <seg>Lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -9016,6 +9016,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page style or slide design</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191432Z" creationid="Marco Marega" creationdate="20180620T191432Z">
+        <seg>Stile pagina o modello di diapositiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page styles can be set up to have the facing left and right pages &lt;f0&gt;mirrored&lt;/f0&gt; or only right (first pages of chapters are often defined to be right-page only) or only left.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171339Z" creationid="manuel" creationdate="20180615T171339Z">
@@ -10168,10 +10176,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shows the current language of the text at the current cursor position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191747Z" creationid="Marco Marega" creationdate="20180620T191747Z">
+        <seg>Visualizza la lingua attiva per il testo nella posizione in cui si trova il cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shows the current page number, the sequence number of the current page (if different), and the total number of pages in the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161403Z" creationid="manuel" creationdate="20180616T161403Z">
         <seg>Mostra il numero della pagina corrente, il numero sequenziale della pagina corrente (se diverso) e il numero totale di pagine del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the current page style or slide design.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191446Z" creationid="Marco Marega" creationdate="20180620T191446Z">
+        <seg>Mostra lo stile della pagina corrente o il modello della diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10196,6 +10220,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060246Z" creationid="manuel" creationdate="20180618T060246Z">
         <seg>Mostra lo stile della pagina corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the total number of words and characters in the document or in the selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191425Z" creationid="Marco Marega" creationdate="20180620T191425Z">
+        <seg>Visualizza il numero totale di parole e caratteri presenti in un documento o nella selezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11992,6 +12024,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To choose a different page style or slide design, right-click on this field and select from the list that pops up.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191633Z" creationid="Marco Marega" creationdate="20180620T191633Z">
+        <seg>Per scegliere un diverso stile di pagina o modello di diapositiva, fate clic su questo campo con il pulsante destro del mouse e selezionatene uno dall'elenco che compare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To choose the options for checking spelling, click &lt;f0&gt;Language Settings &gt; Writing Aids&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T082152Z" creationid="manuel" creationdate="20180609T082152Z">
@@ -12108,6 +12148,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154208Z" creationid="manuel" creationdate="20180615T154208Z">
         <seg>Per modificare un modello:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit the current page style or slide design, double-click on this field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191500Z" creationid="Marco Marega" creationdate="20180620T191500Z">
+        <seg>Per modificare lo stile della pagina o il modello della diapositiva corrente, fate doppio clic su questo campo.</seg>
       </tuv>
     </tu>
     <tu>
