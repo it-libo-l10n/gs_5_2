@@ -2318,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example of the Writer status bar is shown in Figure &lt;t0&gt;7&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191030Z" creationid="Marco Marega" creationdate="20180620T191030Z">
+        <seg>Nella Figura &lt;t0&gt;7&lt;/t0&gt; è mostrato un esempio della barra di stato di Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An “earlier” date is interpreted as being in the following century; that is, 1/1/20 is interpreted as 1/1/2020.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070247Z" creationid="manuel" creationdate="20180529T070247Z">
@@ -5360,6 +5368,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Example status bar from Writer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191045Z" creationid="Marco Marega" creationdate="20180620T191045Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Esempio della barra di stato in Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140320Z" creationid="manuel" creationdate="20180611T161453Z">
@@ -7648,10 +7664,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is similar in Writer, Calc, Impress, and Draw, but each LibreOffice component includes some component-specific items.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191000Z" creationid="Marco Marega" creationdate="20180620T191000Z">
+        <seg>È simile in Writer, Calc, Impress e Draw, anche se ogni componente di LibreOffice include alcuni elementi specifici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It pays to plan ahead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063537Z" creationid="manuel" creationdate="20180614T063537Z">
         <seg>È consigliabile valutare preventivamente l'opportunità di collegare gli stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It provides information about the document and convenient ways to change some features quickly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190923Z" creationid="Marco Marega" creationdate="20180620T190923Z">
+        <seg>Fornisce informazioni sul documento e modi efficaci per modificarne rapidamente alcune caratteristiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10376,6 +10408,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Status bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190808Z" creationid="Marco Marega" creationdate="20180620T190808Z">
+        <seg>Barra di stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Style Type</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145709Z" creationid="manuel" creationdate="20180611T145709Z">
@@ -11348,6 +11388,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135319Z" creationid="manuel" creationdate="20180609T135319Z">
         <seg>La lista di regole disponibili per questi controlli dipende dalla lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The status bar is located at the bottom of the workspace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190821Z" creationid="Marco Marega" creationdate="20180620T190821Z">
+        <seg>La barra di stato è posizionata nella parte inferiore dello spazio di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
