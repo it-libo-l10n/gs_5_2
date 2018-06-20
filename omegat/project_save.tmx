@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -486,10 +486,154 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>203</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184445Z" creationid="Elisabetta Manuele" creationdate="20180620T184445Z">
+        <seg>203</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>204</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184449Z" creationid="Elisabetta Manuele" creationdate="20180620T184449Z">
+        <seg>204</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>206</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184454Z" creationid="Elisabetta Manuele" creationdate="20180620T184454Z">
+        <seg>206</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>207</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184500Z" creationid="Elisabetta Manuele" creationdate="20180620T184500Z">
+        <seg>207</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>208</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184505Z" creationid="Elisabetta Manuele" creationdate="20180620T184505Z">
+        <seg>208</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>21</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173958Z" creationid="Elisabetta Manuele" creationdate="20180620T173958Z">
         <seg>21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>210</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184509Z" creationid="Elisabetta Manuele" creationdate="20180620T184509Z">
+        <seg>210</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>213</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184544Z" creationid="Elisabetta Manuele" creationdate="20180620T184544Z">
+        <seg>213</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>214</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184550Z" creationid="Elisabetta Manuele" creationdate="20180620T184550Z">
+        <seg>214</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>215</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184616Z" creationid="Elisabetta Manuele" creationdate="20180620T184616Z">
+        <seg>215</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>218</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184621Z" creationid="Elisabetta Manuele" creationdate="20180620T184621Z">
+        <seg>218</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>219</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184631Z" creationid="Elisabetta Manuele" creationdate="20180620T184631Z">
+        <seg>219</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>220</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184640Z" creationid="Elisabetta Manuele" creationdate="20180620T184640Z">
+        <seg>220</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>222</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184702Z" creationid="Elisabetta Manuele" creationdate="20180620T184702Z">
+        <seg>222</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>223</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184710Z" creationid="Elisabetta Manuele" creationdate="20180620T184710Z">
+        <seg>223</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>224</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184714Z" creationid="Elisabetta Manuele" creationdate="20180620T184714Z">
+        <seg>224</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>225</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184718Z" creationid="Elisabetta Manuele" creationdate="20180620T184718Z">
+        <seg>225</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>226</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184722Z" creationid="Elisabetta Manuele" creationdate="20180620T184722Z">
+        <seg>226</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>234</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184726Z" creationid="Elisabetta Manuele" creationdate="20180620T184726Z">
+        <seg>234</seg>
       </tuv>
     </tu>
     <tu>
@@ -2120,8 +2264,8 @@
       <tuv lang="EN">
         <seg>Applying special effects</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154641Z" creationid="luke" creationdate="20180514T154641Z">
-        <seg>Applying special effects</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184613Z" creationid="luke" creationdate="20180514T154641Z">
+        <seg>Applicazione di effetti speciali</seg>
       </tuv>
     </tu>
     <tu>
@@ -2130,6 +2274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145819Z" creationid="manuel" creationdate="20180611T145819Z">
         <seg>Applicare gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arranging, aligning, and distributing objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184624Z" creationid="Elisabetta Manuele" creationdate="20180620T184624Z">
+        <seg>Disporre, allineare e distribuire gli oggetti</seg>
       </tuv>
     </tu>
     <tu>
@@ -2743,6 +2895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 8 Getting Started with Base</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184658Z" creationid="Elisabetta Manuele" creationdate="20180620T184658Z">
+        <seg>Capitolo 8 Guida introduttiva a Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter &lt;f0&gt;3&lt;/f0&gt; &lt;s1/&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112013Z" creationid="luke" creationdate="20180515T082644Z">
@@ -3311,6 +3471,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Combining multiple objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184618Z" creationid="Elisabetta Manuele" creationdate="20180620T184618Z">
+        <seg>Combinare oggetti multipli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Common features include the Menu bar, standard toolbar, and formatting toolbar at the top of the window and the status bar at the bottom.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214334Z" creationid="Marco Marega" creationdate="20180616T214334Z">
@@ -3464,6 +3632,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a database form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184724Z" creationid="Elisabetta Manuele" creationdate="20180620T184724Z">
+        <seg>Creazione di un formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a document from a template in the Start Center</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T101814Z" creationid="manuel" creationdate="20180615T101321Z">
@@ -3476,6 +3652,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090505Z" creationid="manuel" creationdate="20180614T090505Z">
         <seg>Creazione di un documento dalla finestra di dialogo &lt;f0&gt;Modello&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a new database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184716Z" creationid="Elisabetta Manuele" creationdate="20180620T184716Z">
+        <seg>Creazione di un nuovo database</seg>
       </tuv>
     </tu>
     <tu>
@@ -3548,6 +3732,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121124Z" creationid="manuel" creationdate="20180615T121124Z">
         <seg>creare un modello usando una procedura guidata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating database tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184720Z" creationid="Elisabetta Manuele" creationdate="20180620T184720Z">
+        <seg>Creazione delle tabelle di un database</seg>
       </tuv>
     </tu>
     <tu>
@@ -4000,6 +4192,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drawing geometric shapes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184447Z" creationid="Elisabetta Manuele" creationdate="20180620T184447Z">
+        <seg>Disegnare forme geometriche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E-mail options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135639Z" creationid="manuel" creationdate="20180609T135626Z">
@@ -4068,6 +4268,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181748Z" creationid="Elisabetta Manuele" creationdate="20180620T181748Z">
         <seg>Modifica dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184507Z" creationid="Elisabetta Manuele" creationdate="20180620T184507Z">
+        <seg>Modificare gli oggetti</seg>
       </tuv>
     </tu>
     <tu>
@@ -4176,6 +4384,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entering data in a form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184730Z" creationid="Elisabetta Manuele" creationdate="20180620T184730Z">
+        <seg>Inserimento dei dati tramite formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even if you do not select this option, some settings are taken from your LibreOffice installation:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143708Z" creationid="manuel" creationdate="20180608T143708Z">
@@ -4276,6 +4492,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143254Z" creationid="manuel" creationdate="20180616T143254Z">
         <seg>Esportare un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exporting graphics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184642Z" creationid="Elisabetta Manuele" creationdate="20180620T184642Z">
+        <seg>Esportare oggetti grafici</seg>
       </tuv>
     </tu>
     <tu>
@@ -5260,6 +5484,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182059Z" creationid="Elisabetta Manuele" creationdate="20180620T182059Z">
         <seg>Formattazione di una presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatting area fill</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184541Z" creationid="Elisabetta Manuele" creationdate="20180620T184541Z">
+        <seg>Formattazione del riempimento di un'area</seg>
       </tuv>
     </tu>
     <tu>
@@ -6856,6 +7088,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inserting and editing pictures</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184634Z" creationid="Elisabetta Manuele" creationdate="20180620T184634Z">
+        <seg>Inserire e modificare le immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserting comments in a drawing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184646Z" creationid="Elisabetta Manuele" creationdate="20180620T184646Z">
+        <seg>Inserire commenti in un disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Install the required &lt;i0/&gt;dictionaries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170022Z" creationid="manuel" creationdate="20180608T170022Z">
@@ -6906,8 +7154,8 @@
       <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154645Z" creationid="luke" creationdate="20180514T154645Z">
-        <seg>Introduction</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184707Z" creationid="luke" creationdate="20180514T154645Z">
+        <seg>Introduzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -7736,6 +7984,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving and adjusting object size</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184458Z" creationid="Elisabetta Manuele" creationdate="20180620T184458Z">
+        <seg>Spostare e modificare le dimensioni di un oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving quickly through a document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180107Z" creationid="Elisabetta Manuele" creationdate="20180620T180107Z">
@@ -8416,6 +8672,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Planning a database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184711Z" creationid="Elisabetta Manuele" creationdate="20180620T184711Z">
+        <seg>Pianificare un database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please direct any comments or suggestions about this document to &lt;f0&gt;the Documentation Team’s mailing list&lt;/f0&gt;: &lt;a1&gt;documentation@global.libreoffice.org&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T172553Z" creationid="Elisabetta Manuele" creationdate="20180620T172553Z">
@@ -8428,6 +8692,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T095623Z" creationid="manuel" creationdate="20180616T095623Z">
         <seg>Puntate su &lt;f0&gt;Ripristina modello predefinito&lt;/f0&gt; nel menu a discesa e fate clic su &lt;f1&gt;Documento di testo&lt;/f1&gt; (o altro tipo di modello).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Positioning objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184548Z" creationid="Elisabetta Manuele" creationdate="20180620T184548Z">
+        <seg>Posizionamento degli oggetti</seg>
       </tuv>
     </tu>
     <tu>
@@ -8700,6 +8972,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170114Z" creationid="Elisabetta Manuele" creationdate="20180620T170114Z">
         <seg>Ron Faile Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rotating and slanting an object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184502Z" creationid="Elisabetta Manuele" creationdate="20180620T184502Z">
+        <seg>Ruotare e inclinare un oggetto</seg>
       </tuv>
     </tu>
     <tu>
@@ -9284,6 +9564,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181553Z" creationid="Elisabetta Manuele" creationdate="20180620T181553Z">
         <seg>Selezionare elementi in un foglio elettronico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184451Z" creationid="Elisabetta Manuele" creationdate="20180620T184451Z">
+        <seg>Selezionare gli oggetti</seg>
       </tuv>
     </tu>
     <tu>
@@ -12089,6 +12377,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184546Z" creationid="Elisabetta Manuele" creationdate="20180620T184546Z">
+        <seg>Uso degli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using styles means that you stop saying “font size 14pt, Times New Roman, bold, centered” and you start saying “Title” because you have defined the “Title” style to have those characteristics.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143611Z" creationid="manuel" creationdate="20180611T143611Z">
@@ -12549,6 +12845,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105016Z" creationid="manuel" creationdate="20180609T105016Z">
         <seg>Spaziatura della parola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working with 3D objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184637Z" creationid="Elisabetta Manuele" creationdate="20180620T184637Z">
+        <seg>Lavorare con oggetti tridimensionali (3D)</seg>
       </tuv>
     </tu>
     <tu>
