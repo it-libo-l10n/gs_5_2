@@ -5736,6 +5736,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, the buttons for making text bold or italic exist in both the Formatting toolbar and the Properties panel.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222341Z" creationid="Marco Marega" creationdate="20180620T222341Z">
+        <seg>Ad esempio, i pulsanti per rendere il testo in grassetto o corsivo esistono sia nella barra degli strumenti Formattazione che nel pannello Proprietà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, the drawing tools available in Writer are also found in Calc, with similar but enhanced versions in Impress and Draw.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184751Z" creationid="Marco Marega" creationdate="20180528T184751Z">
@@ -5892,6 +5900,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T070411Z" creationid="manuel" creationdate="20180608T070411Z">
         <seg>Per maggiori informazioni su registrare macro, consultate il Capitolo 13 Introduzione alle macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more detail, see the Sidebar explanation in the relevant LibreOffice component’s user guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222507Z" creationid="Marco Marega" creationdate="20180620T222507Z">
+        <seg>Per ulteriori dettagli, vedete la spiegazione della Barra laterale nel manuale utente dei rispettivi Componenti di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12669,6 +12685,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060755Z" creationid="manuel" creationdate="20180529T060755Z">
         <seg>Per utilizzare le finestre standard Apri e Salva del vostro sistema operativo , deselezionate &lt;f0&gt;questa&lt;/f0&gt; opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tool bars and Sidebar panels share many functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222247Z" creationid="Marco Marega" creationdate="20180620T222247Z">
+        <seg>Le barre degli strumenti e i pannelli della barra laterale condividono molte funzioni.</seg>
       </tuv>
     </tu>
     <tu>
