@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -258,6 +258,62 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175546Z" creationid="Elisabetta Manuele" creationdate="20180620T175546Z">
         <seg>62</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>63</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175638Z" creationid="Elisabetta Manuele" creationdate="20180620T175638Z">
+        <seg>63</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>64</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175740Z" creationid="Elisabetta Manuele" creationdate="20180620T175740Z">
+        <seg>64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>67</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175749Z" creationid="Elisabetta Manuele" creationdate="20180620T175749Z">
+        <seg>67</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>68</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175804Z" creationid="Elisabetta Manuele" creationdate="20180620T175804Z">
+        <seg>68</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>70</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175825Z" creationid="Elisabetta Manuele" creationdate="20180620T175825Z">
+        <seg>70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>71</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175838Z" creationid="Elisabetta Manuele" creationdate="20180620T175838Z">
+        <seg>71</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>72</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175844Z" creationid="Elisabetta Manuele" creationdate="20180620T175844Z">
+        <seg>72</seg>
       </tuv>
     </tu>
     <tu>
@@ -2826,8 +2882,8 @@
       <tuv lang="EN">
         <seg>Copying styles from a template or document</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070824Z" creationid="manuel" creationdate="20180614T070824Z">
-        <seg>Copia di stili da un modello o documento</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175822Z" creationid="manuel" creationdate="20180614T070824Z">
+        <seg>Copia di stili da un modello o da un documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -2940,6 +2996,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180613T214105Z" creationid="luke" creationdate="20180613T214105Z">
         <seg>Creazione di collegamenti ipertestuali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating new (custom) styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175802Z" creationid="Elisabetta Manuele" creationdate="20180620T175802Z">
+        <seg>Creare stili personalizzati</seg>
       </tuv>
     </tu>
     <tu>
@@ -11025,6 +11089,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using a template to create a document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175836Z" creationid="Elisabetta Manuele" creationdate="20180620T175836Z">
+        <seg>Usare un modello per creare un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using keyboard shortcuts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154017Z" creationid="manuel" creationdate="20180612T154017Z">
@@ -11129,6 +11201,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What are styles?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175646Z" creationid="Elisabetta Manuele" creationdate="20180620T175646Z">
+        <seg>Definizione di stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What is Draw?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090123Z" creationid="luke" creationdate="20180515T090123Z">
@@ -11155,8 +11235,8 @@
       <tuv lang="EN">
         <seg>What is a template?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175634Z" creationid="manuel" creationdate="20180611T112124Z">
-        <seg>Che cos'è un modello?</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175714Z" creationid="manuel" creationdate="20180611T112124Z">
+        <seg>Definizione di modello</seg>
       </tuv>
     </tu>
     <tu>
