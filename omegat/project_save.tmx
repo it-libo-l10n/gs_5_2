@@ -6056,6 +6056,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more uses of the Navigator in Writer, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T140956Z" creationid="manuel" creationdate="20180621T140956Z">
+        <seg>Per ulteriori utilizzi del Navigatore in Writer, consultate la &lt;/f0&gt;Guida a Writer&lt;f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Forces the use of OpenGL even if the graphics device is blacklisted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T061432Z" creationid="manuel" creationdate="20180531T061432Z">
@@ -11761,6 +11769,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The names of the buttons (shown in the tooltips) change to match the selected category; for example, &lt;f6&gt;Next Graphic&lt;/f6&gt;, &lt;f7&gt;Next Bookmark&lt;/f7&gt;, or &lt;f8&gt;Continue search forward&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T140910Z" creationid="manuel" creationdate="20180621T140910Z">
+        <seg>I nomi dei pulsanti (mostrati nei suggerimenti) cambiano in relazione alla categoria selezionata; per esempio, &lt;f6&gt;Immagine successiva&lt;/f6&gt;, &lt;f7&gt;Segnalibro successivo&lt;/f7&gt;, o &lt;f8&gt;Continua a cercare in avanti&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The newly defined color is now listed in the Color table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070256Z" creationid="manuel" creationdate="20180531T070256Z">
@@ -12221,6 +12237,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144737Z" creationid="manuel" creationdate="20180608T144737Z">
         <seg>Questo è importante se desiderate rendere il documento disponibile ad altri computer che potrebbero avere una struttura di cartelle, una unità o nomi di volume completamente differenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is particularly helpful for finding items like index entries, which can be difficult to see in the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T140757Z" creationid="manuel" creationdate="20180621T140757Z">
+        <seg>Ciò è particolarmente utile per trovare elementi che possono essere difficili da individuare nel testo, come ad esempio le voci di un indice.</seg>
       </tuv>
     </tu>
     <tu>
