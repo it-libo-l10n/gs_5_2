@@ -3544,6 +3544,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Save.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143144Z" creationid="manuel" creationdate="20180621T143144Z">
+        <seg>Fate clic su &lt;f0&gt;Salva.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Slide Show &gt; Start from first Slide&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z" creationid="luke" creationdate="20180515T090036Z">
@@ -9141,6 +9149,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071336Z" creationid="manuel" creationdate="20180614T071336Z">
         <seg>Nella finestra di dialogo Carica stili (Figura &lt;t0&gt;51&lt;/t0&gt;), trovate un modello o un documento ordinario da cui copiare gli stili di formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Save As dialog, in the &lt;f0&gt;File type&lt;/f0&gt; (or &lt;f1&gt;Save as type&lt;/f1&gt;) drop-down menu, select the type of Word format you need.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143123Z" creationid="manuel" creationdate="20180621T143123Z">
+        <seg>Nella finestra di dialogo Salva con nome, nel menu a comparsa &lt;f0&gt;Tipo file&lt;/f0&gt; (o &lt;f1&gt;Salva come tipo&lt;/f1&gt;), selezionate il tipo di formato Word desiderato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14895,6 +14911,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184821Z" creationid="Marco Marega" creationdate="20180528T184821Z">
         <seg>Non è necessario sapere quale applicazione è stata utilizzata per creare un determinato file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may also choose to change the file name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143126Z" creationid="manuel" creationdate="20180621T143126Z">
+        <seg>Potreste anche scegliere di cambiare il nome del file.</seg>
       </tuv>
     </tu>
     <tu>
