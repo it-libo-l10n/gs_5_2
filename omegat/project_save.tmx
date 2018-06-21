@@ -13226,6 +13226,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+O&lt;/f0&gt; to reach the Open dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124657Z" creationid="Marco Marega" creationdate="20180621T124657Z">
+        <seg>Usate la combinazione di tasti &lt;f0&gt;Ctrl+O&lt;/f0&gt; per arrivare alla finestra di dialogo Apri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the slide sorter &lt;f0&gt;(see page&lt;/f0&gt; &lt;bf1&gt;160&lt;/bf1&gt;&lt;f2&gt;) &lt;/f2&gt;to reorder your photo album.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085947Z" creationid="luke" creationdate="20180515T085947Z">
