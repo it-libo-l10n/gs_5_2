@@ -3535,6 +3535,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click a button to select that object type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T135612Z" creationid="manuel" creationdate="20180621T135612Z">
+        <seg>&lt;f0&gt;Fate clic su un pulsante per selezionare la tipologia di oggetto corrispondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click an icon to change between single page, side-by-side, and book layout views.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071347Z" creationid="manuel" creationdate="20180618T071347Z">
@@ -5508,6 +5516,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T102357Z" creationid="manuel" creationdate="20180618T102357Z">
         <seg>Figura &lt;seq0&gt;65&lt;/seq0&gt;: &lt;f1&gt;panello&lt;/f1&gt; proprietà della barra laterale in Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;66&lt;/seq0&gt;: Navigation toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T135551Z" creationid="manuel" creationdate="20180621T135551Z">
+        <seg>Figura &lt;seq0&gt;66&lt;/seq0&gt;: barra di Navigazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -11165,6 +11181,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212557Z" creationid="Marco Marega" creationdate="20180527T212557Z">
         <seg>L'interfaccia utente di LibreOffice, il dizionario ortografico, di sillabazione, ed il glossario, sono disponibili in più di 100 lingue e dialetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Navigation toolbar (Figure &lt;t0&gt;66&lt;/t0&gt;) shows buttons for all the object types shown in the Navigator, plus some extras (for example, the &lt;f1&gt;Find&lt;/f1&gt; command).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T135540Z" creationid="manuel" creationdate="20180621T135540Z">
+        <seg>La barra degli strumenti di navigazione (Figura &lt;t0&gt;66&lt;/t0&gt;) mostra i bottoni corrispondenti a tutte le tipologie di oggetti presenti nel Navigatore, più alcune altre (ad esempio, il comando &lt;f1&gt;Trova&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
