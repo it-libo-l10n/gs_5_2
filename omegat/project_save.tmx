@@ -1686,10 +1686,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Save All&lt;/f0&gt; - use to save all the open files open in your current session.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T193956Z" creationid="Marco Marega" creationdate="20180621T193956Z">
+        <seg>&lt;f0&gt;Salva tutto&lt;/f0&gt; - usatelo per salvare tutti i file aperti nella sessione corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Save As&lt;/f0&gt; – use if you want to create a new document, or change the filename and/or file format, or save the file in a different location on your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T193822Z" creationid="Marco Marega" creationdate="20180621T193822Z">
         <seg>&lt;f0&gt;Salva con nome&lt;/f0&gt; – usatelo se volete creare un nuovo documento, modificare il nome o formato del file, oppure salvare il file in un'altra posizione su vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Save a copy&lt;/f0&gt; - use if you want to save a copy of your current document and keep it open for more editing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T193918Z" creationid="Marco Marega" creationdate="20180621T193918Z">
+        <seg>&lt;f0&gt;Salva una copia&lt;/f0&gt; - usatelo se volete salvare una copia del documento corrente e conservarne una per ulteriori modifiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10277,6 +10293,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144500Z" creationid="manuel" creationdate="20180608T144500Z">
         <seg>Salvare URL relativi al file system / internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save command</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194026Z" creationid="Marco Marega" creationdate="20180621T194026Z">
+        <seg>Comando Salva</seg>
       </tuv>
     </tu>
     <tu>
