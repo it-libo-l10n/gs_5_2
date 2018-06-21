@@ -5601,6 +5601,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;67&lt;/seq0&gt;: Selecting items that are not next to each other</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152444Z" creationid="manuel" creationdate="20180621T152444Z">
+        <seg>Figura &lt;seq0&gt;67&lt;/seq0&gt;: selezionare elementi non consecutivi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Selection of visible toolbar icons</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T184851Z" creationid="Marco Marega" creationdate="20180620T184851Z">
@@ -6637,6 +6645,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151950Z" creationid="manuel" creationdate="20180621T151950Z">
         <seg>Tenete premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; e selezionate il pezzo di testo successivo con il mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and select the next piece of text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152356Z" creationid="manuel" creationdate="20180621T152356Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; e selezionate la successiva porzione di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9033,6 +9049,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now you can work with the selected text (copy it, delete it, change the style, &lt;f0&gt;and so on&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152424Z" creationid="manuel" creationdate="20180621T152424Z">
+        <seg>Ora potete lavorare con il testo selezionato (copiarlo, cancellarlo, cambiarne lo stile, e così via).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Numbering</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145748Z" creationid="manuel" creationdate="20180611T145748Z">
@@ -9705,6 +9729,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Esc&lt;/f0&gt; to exit from this mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152429Z" creationid="manuel" creationdate="20180621T152429Z">
+        <seg>Premete &lt;f0&gt;Esc&lt;/f0&gt; per uscire da questa modalità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;f0&gt;F5&lt;/f0&gt; on the keyboard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090037Z" creationid="luke" creationdate="20180515T090037Z">
@@ -9892,6 +9924,14 @@
         <seg>Repeat as often as needed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151955Z" creationid="manuel" creationdate="20180621T151955Z">
+        <seg>Ripetete la procedura tutte le volte che serve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeat as often as required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152359Z" creationid="manuel" creationdate="20180621T152359Z">
         <seg>Ripetete la procedura tutte le volte che serve.</seg>
       </tuv>
     </tu>
@@ -12570,6 +12610,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This puts Writer in “Adding selection” mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152250Z" creationid="manuel" creationdate="20180621T152250Z">
+        <seg>In questo modo Writer passa in modalità di “Selezione con aggiunta”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This section covers only some aspects; more advanced techniques are explained in the &lt;f2&gt;Impress Guide Chapter 9 Slide Shows&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
@@ -13591,6 +13639,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090037Z" creationid="luke" creationdate="20180515T090037Z">
         <seg>Use the arrow keys on the keyboard to go to the next slide or to go back to the previous one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the arrow keys to move to the start of the next piece of text to be selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152305Z" creationid="manuel" creationdate="20180621T152305Z">
+        <seg>Usate i tasti freccia per spostarvi all'inizio della successiva porzione di testo da selezionare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16159,6 +16215,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090133Z" creationid="luke" creationdate="20180515T090133Z">
         <seg>grafica vettoriale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vertical block of text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152457Z" creationid="manuel" creationdate="20180621T152457Z">
+        <seg>blocco verticale di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vertical block of text, select</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152502Z" creationid="manuel" creationdate="20180621T152502Z">
+        <seg>blocco verticale di testo, selezione</seg>
       </tuv>
     </tu>
     <tu>
