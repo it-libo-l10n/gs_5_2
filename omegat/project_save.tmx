@@ -5681,6 +5681,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;70&lt;/seq0&gt;: Paste Special menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165311Z" creationid="manuel" creationdate="20180621T165311Z">
+        <seg>Figura &lt;seq0&gt;70&lt;/seq0&gt;: menu Incolla speciale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Example status bar from Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191045Z" creationid="Marco Marega" creationdate="20180620T191045Z">
@@ -5781,6 +5789,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143904Z" creationid="manuel" creationdate="20180616T143904Z">
         <seg>Trovate la cartella in cui volete esportare il modello e fate clic su &lt;f0&gt;Salva&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finding and replacing text and formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165313Z" creationid="manuel" creationdate="20180621T165313Z">
+        <seg>Ricerca, sostituzione e formattazione di testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10305,6 +10321,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Figure &lt;t0&gt;70&lt;/t0&gt; for an example with text on the clipboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165255Z" creationid="manuel" creationdate="20180621T165255Z">
+        <seg>Vedere Figura &lt;t0&gt;70&lt;/t0&gt; per un esempio con appunti contenenti del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the chapters on styles in the user guides for details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160601Z" creationid="manuel" creationdate="20180612T160601Z">
@@ -14703,6 +14727,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T104358Z" creationid="manuel" creationdate="20180621T104358Z">
         <seg>Writer dispone di &lt;f0&gt;tre&lt;/f0&gt; diverse modalità di visualizzazione di un documento: &lt;f1&gt;Normale&lt;/f1&gt;, Web e Schermo intero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer has two ways to find text within a document: the Find toolbar for fast searching and the Find &amp; Replace dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165325Z" creationid="manuel" creationdate="20180621T165325Z">
+        <seg>In Writer esistono due modi per trovare del testo in un documento: la barra degli strumenti Cerca per la ricerca veloce e la finestra di dialogo Cerca e sostituisci.</seg>
       </tuv>
     </tu>
     <tu>
