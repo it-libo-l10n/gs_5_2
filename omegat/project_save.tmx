@@ -3400,6 +3400,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Edit &gt; Paste Special&lt;/f0&gt;, or</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T162705Z" creationid="manuel" creationdate="20180621T162705Z">
+        <seg>Scegliete &lt;f0&gt;Modifica &gt; Incolla speciale&lt;/f0&gt;, oppure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose spelling options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170004Z" creationid="manuel" creationdate="20180608T170004Z">
@@ -13270,6 +13278,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070112Z" creationid="manuel" creationdate="20180531T070112Z">
         <seg>Per apportare modifiche, scegliete una voce dall'elenco visualizzato in Figura &lt;t0&gt;21&lt;/t0&gt; e fate clic su &lt;f1&gt;Modifica&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make the pasted text inherit the paragraph style at the insertion point:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T162537Z" creationid="manuel" creationdate="20180621T162537Z">
+        <seg>Per rendere fare in modo che al testo incollato si appplicato lo stile di paragrafo nel punto di inserimento:</seg>
       </tuv>
     </tu>
     <tu>
