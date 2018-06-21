@@ -6593,6 +6593,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194806Z" creationid="Marco Marega" creationdate="20180621T194806Z">
+        <seg>Nella barra del Menu andate in &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;File &gt; Save As&lt;/f0&gt; to save the new file with the name of the file from which content was taken.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162642Z" creationid="manuel" creationdate="20180615T162622Z">
@@ -14067,6 +14075,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194736Z" creationid="Marco Marega" creationdate="20180621T194736Z">
+        <seg>Usate la combinazione di tasti&lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the slide sorter &lt;f0&gt;(see page&lt;/f0&gt; &lt;bf1&gt;160&lt;/bf1&gt;&lt;f2&gt;) &lt;/f2&gt;to reorder your photo album.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085947Z" creationid="luke" creationdate="20180515T085947Z">
@@ -14647,6 +14663,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164336Z" creationid="manuel" creationdate="20180608T164336Z">
         <seg>Quando l'opzione &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; (si veda sopra) &lt;f1&gt;non&lt;/f1&gt; è selezionata, l'opzione &lt;f2&gt;Mostra avviso&lt;/f2&gt; diviene disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the &lt;f0&gt;Save As&lt;/f0&gt; dialog (Figure &lt;t1&gt;10&lt;/t1&gt;) or &lt;f2&gt;Save&lt;/f2&gt; dialog opens, enter the file name, change the file type (if applicable), navigate to a new location (if applicable), and click &lt;f3&gt;Save&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T195023Z" creationid="Marco Marega" creationdate="20180621T195023Z">
+        <seg>Quando vengono visualizzate le finestre di dialogo &lt;f0&gt;Salva con nome&lt;/f0&gt; (Figura &lt;t1&gt;10&lt;/t1&gt;) o &lt;f2&gt;Salva&lt;/f2&gt;, inserite il nome del file, modificate il tipo di file (se necessario), navigate per raggiungere una nuova posizione (se necessario) e fate clic su &lt;f3&gt;Salva&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
