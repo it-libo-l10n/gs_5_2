@@ -14459,6 +14459,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When no document is open, double-click on a thumbnail of recently opened documents displayed in the Start Center.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T191747Z" creationid="Marco Marega" creationdate="20180621T191747Z">
+        <seg>Quando non c'è alcun documento aperto, fate doppio clic sulla miniatura di uno dei documenti aperti di recente visualizzati nel Centro di Avvio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; option (see above) is &lt;f1&gt;not&lt;/f1&gt; selected, the &lt;f2&gt;Display warning&lt;/f2&gt; option becomes available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164336Z" creationid="manuel" creationdate="20180608T164336Z">
@@ -15295,6 +15303,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203215Z" creationid="Marco Marega" creationdate="20180527T211712Z">
         <seg>Con Math potete salvare le formule nel formato standard Mathematical Markup Language (MathML) per inserirle in pagine web e altri documenti non creati da LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can scroll up or down in the Start Center to locate a recently opened document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T191920Z" creationid="Marco Marega" creationdate="20180621T191920Z">
+        <seg>Nel Centro di avvio potete scorrere verso il basso per cercare tra i documenti aperti di recente.</seg>
       </tuv>
     </tu>
     <tu>
