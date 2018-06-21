@@ -7504,6 +7504,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the navigation features of the Status Bar (described above), you can use the Navigator window and the Navigation toolbar, either from the Standard toolbar or from the Sidebar, as described in Chapter 1, Introducing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T134849Z" creationid="manuel" creationdate="20180621T134849Z">
+        <seg>Oltre alle funzionalità di navigazione della Barra di stato (descritte sopra), è possibile utilizzare la finestra di dialogo Navigatore e la barra degli strumenti di navigazione, dalla barra degli strumenti standard oppure dalla barra laterale come descritto nel Capitolo 1 (Introduzione a LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the usual features of a word processor (spelling check, thesaurus, hyphenation, autocorrect, find and replace, automatic generation of tables of contents and indexes, mail merge and others), Writer provides these &lt;i0/&gt;important features&lt;i1/&gt;&lt;i2/&gt;:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160633Z" creationid="manuel" creationdate="20180616T160633Z">
