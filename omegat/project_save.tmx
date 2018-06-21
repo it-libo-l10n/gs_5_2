@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(For more information about keyboard selection of text, see the topic “Navigating and selecting with the keyboard” in the &lt;f0&gt;LibreOffice &lt;/f0&gt;Help &lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;F1&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152217Z" creationid="manuel" creationdate="20180621T152217Z">
+        <seg>Per avere maggiori informazioni sull'uso della tastiera per la selezione del testo, consultate il paragrafo “Navigazione e selezione con la Tastiera” nella Guida in linea di &lt;f0&gt;LibreOffice&lt;/f0&gt; &lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;F1&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you do not have this font on your system, it will not appear in the drop-down list in this box, so you need to type it in.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073809Z" creationid="manuel" creationdate="20180531T073809Z">
@@ -6625,6 +6633,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and use the mouse to select the next piece of text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151950Z" creationid="manuel" creationdate="20180621T151950Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; e selezionate il pezzo di testo successivo con il mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hold down the left mouse button and drag the toolbar to the new location.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181831Z" creationid="Marco Marega" creationdate="20180620T181831Z">
@@ -9705,6 +9721,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Shift+F8&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152222Z" creationid="manuel" creationdate="20180621T152222Z">
+        <seg>Premete &lt;f0&gt;Maiusc+F8&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press the spacebar on the keyboard to advance to the next slide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
@@ -9861,6 +9885,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174131Z" creationid="Elisabetta Manuele" creationdate="20180620T174131Z">
         <seg>Rinominare ed eliminare file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeat as often as needed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151955Z" creationid="manuel" creationdate="20180621T151955Z">
+        <seg>Ripetete la procedura tutte le volte che serve.</seg>
       </tuv>
     </tu>
     <tu>
