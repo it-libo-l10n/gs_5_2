@@ -13890,6 +13890,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writer has &lt;f0&gt;three&lt;/f0&gt; ways to view a document: &lt;f1&gt;Normal&lt;/f1&gt;, Web, and Full Screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T104358Z" creationid="manuel" creationdate="20180621T104358Z">
+        <seg>Writer dispone di &lt;f0&gt;tre&lt;/f0&gt; diverse modalità di visualizzazione di un documento: &lt;f1&gt;Normale&lt;/f1&gt;, Web e Schermo intero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writer is a feature-rich tool for creating letters, books, reports, newsletters, brochures, and other documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201312Z" creationid="Marco Marega" creationdate="20180527T200041Z">
