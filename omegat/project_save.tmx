@@ -12402,6 +12402,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then select &lt;f0&gt;Unformatted text&lt;/f0&gt; from the resulting menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T163110Z" creationid="manuel" creationdate="20180621T163110Z">
+        <seg>Selezionate quindi &lt;f0&gt;Testo non formattato&lt;/f0&gt; dal menu che appare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are many other ways to use styles; see the guides for the various components for details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143925Z" creationid="manuel" creationdate="20180616T143925Z">
@@ -13300,8 +13308,8 @@
       <tuv lang="EN">
         <seg>To make the pasted text inherit the paragraph style at the insertion point:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T162537Z" creationid="manuel" creationdate="20180621T162537Z">
-        <seg>Per rendere fare in modo che al testo incollato si appplicato lo stile di paragrafo nel punto di inserimento:</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T163125Z" creationid="manuel" creationdate="20180621T162537Z">
+        <seg>Per fare in modo che al testo incollato si appplicato lo stile di paragrafo nel punto di inserimento:</seg>
       </tuv>
     </tu>
     <tu>
