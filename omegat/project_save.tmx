@@ -1534,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Normal&lt;/f0&gt; &lt;f1&gt;(previously called Print Layout) &lt;/f1&gt;is the default view in Writer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T105046Z" creationid="manuel" creationdate="20180621T105046Z">
+        <seg>&lt;f0&gt;Normale&lt;/f0&gt; &lt;f1&gt;(precedentemente chiamata Layout di stampa) &lt;/f1&gt; è la visualizzazione predefinita in Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Note: &lt;/f0&gt;&lt;f1&gt;Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T172640Z" creationid="Elisabetta Manuele" creationdate="20180620T172640Z">
@@ -7368,6 +7376,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Full Screen view, the document is displayed using the zoom and layout settings previously selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T105349Z" creationid="manuel" creationdate="20180621T105349Z">
+        <seg>In visualizzazione Schermo intero il documento viene mostrato con le impostazioni di zoom e layout precedentemente selezionate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Insert mode, any text after the cursor position moves forward to make room for the text you type; in Overwrite mode, text after the cursor position is replaced by the text you type.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064938Z" creationid="manuel" creationdate="20180618T064938Z">
@@ -7380,6 +7396,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160450Z" creationid="manuel" creationdate="20180615T160450Z">
         <seg>In LibreOffice, selezionate &lt;f0&gt;Strumenti &gt; Gestione Estensioni&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Web Layout view, you can use only the Zoom slider; the View Layout buttons on the Status bar are disabled, and most of the choices on the Zoom &amp; View Layout dialog are not available.&lt;f0&gt; In Web layout there is no visual indication of page boundaries.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T105340Z" creationid="manuel" creationdate="20180621T105340Z">
+        <seg>In visualizzazione Layout Web potete utilizzare soltanto il cursore dello Zoom; i pulsanti di Visualizzazione del Layout sulla barra di stato sono disabilitati, e la maggior parte delle opzioni nella finestra di dialogo Zoom e layout visualizzazione non sono disponibili.&lt;f0&gt;Nel layout Web non vi è alcuna indicazione visiva dei limiti della pagina.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7644,6 +7668,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144733Z" creationid="manuel" creationdate="20180608T144733Z">
         <seg>In questo caso, non ha importanza dove sia registrata la struttura di cartelle a cui si fa riferimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this view, you can use the Zoom slider and the View Layout icons on the Status bar to change the magnification.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T105054Z" creationid="manuel" creationdate="20180621T105054Z">
+        <seg>In questa visualizzazione, è possibile utilizzare il cursore dello Zoom e le icone di layout di visualizzazione sulla barra di stato per cambiare l'ingrandimento.</seg>
       </tuv>
     </tu>
     <tu>
