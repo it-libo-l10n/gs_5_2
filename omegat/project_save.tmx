@@ -1438,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Important&lt;/f0&gt;—First save your document in the file format used by LibreOffice Writer (.ODT).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142151Z" creationid="manuel" creationdate="20180621T142151Z">
+        <seg>&lt;f0&gt;Importante&lt;/f0&gt;—Salvate prima il vostro documento nel formato file usato da LibreOffice Writer (.ODT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In Normal view, you can hide or show the headers and footers and the gap between pages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T134440Z" creationid="manuel" creationdate="20180621T134440Z">
@@ -7201,6 +7209,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do not, any changes you made since the last time you saved will appear only in the Microsoft Word version of the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142210Z" creationid="manuel" creationdate="20180621T142210Z">
+        <seg>Altrimenti qualunque modifica sia stata fatta dopo l'ultimo salvataggio, sarà salvata solamente nella versione Microsoft Word del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you find that objects seem to disappear from a document that &lt;t0/&gt;contains a lot of them, increase the number of objects in the cache.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T142420Z" creationid="manuel" creationdate="20180530T082043Z">
@@ -12050,6 +12066,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then choose &lt;f0&gt;File &gt; Save As&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142314Z" creationid="manuel" creationdate="20180621T142314Z">
+        <seg>Quindi scegliete &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are many other ways to use styles; see the guides for the various components for details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143925Z" creationid="manuel" creationdate="20180616T143925Z">
@@ -12726,6 +12750,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T134611Z" creationid="manuel" creationdate="20180621T134611Z">
         <seg>Per fare ciò, scegliete &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Visualizza &gt; Nascondi  spazi bianchi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; dalla barra menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do this:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142131Z" creationid="manuel" creationdate="20180621T142131Z">
+        <seg>Per eseguire questa operazione:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14295,6 +14327,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T104939Z" creationid="manuel" creationdate="20180621T104939Z">
         <seg>Potete anche selezionare &lt;f0&gt;Visualizza &gt; Zoom &gt; Zoom &lt;/f0&gt; dalla barra dei menu per aprire la finestra di dialogo &lt;i1/&gt;&lt;i2/&gt;Zoom e Layout visualizzazione, in cui potete impostare le opzioni analogamente alla Barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also create and edit .ODT files and then save them as .DOC or .DOCX files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142114Z" creationid="manuel" creationdate="20180621T142114Z">
+        <seg>Potete anche creare  e modficare file .ODT e salvarli come file .DOC o .DOCX.</seg>
       </tuv>
     </tu>
     <tu>
