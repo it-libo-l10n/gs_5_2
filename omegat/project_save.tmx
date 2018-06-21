@@ -1686,10 +1686,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Save As&lt;/f0&gt; – use if you want to create a new document, or change the filename and/or file format, or save the file in a different location on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T193822Z" creationid="Marco Marega" creationdate="20180621T193822Z">
+        <seg>&lt;f0&gt;Salva con nome&lt;/f0&gt; – usatelo se volete creare un nuovo documento, modificare il nome o formato del file, oppure salvare il file in un'altra posizione su vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Save original Basic code&lt;/f0&gt; takes precedence over &lt;f1&gt;Load Basic code&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154136Z" creationid="manuel" creationdate="20180608T154136Z">
         <seg>&lt;f0&gt;Salva codice Basic originale&lt;/f0&gt; ha precedenza su &lt;f1&gt;Carica codice Basic&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Save to Remote Server&lt;/f0&gt; - use if your document is already stored in a remote server or will be stored in a remote server.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T193649Z" creationid="Marco Marega" creationdate="20180621T193649Z">
+        <seg>&lt;f0&gt;Salva nel server remoto&lt;/f0&gt; - usatelo se il vostro documento è già memorizzato o volete memorizzarlo su di un server remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Save&lt;/f0&gt; command – use if you are keeping the document, its current filename and location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T193517Z" creationid="Marco Marega" creationdate="20180621T193517Z">
+        <seg>Con il comando &lt;f0&gt;Salva&lt;/f0&gt; – usatelo se volete che il documento mantenga il suo nome e posizione attuale.</seg>
       </tuv>
     </tu>
     <tu>
