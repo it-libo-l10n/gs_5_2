@@ -11850,6 +11850,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main advantage of changing the language for a text selection is that you can then use the correct dictionaries to check spelling and apply the localized versions of Autocorrect replacement tables, thesaurus, grammar, and hyphenation rules.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T144948Z" creationid="manuel" creationdate="20180621T144948Z">
+        <seg>Il vantaggio principale di modificare la lingua per un testo selezionato è che potete utilizzare il dizionario appropriato per il controllo ortografico e applicare le versioni localizzate delle tabelle di sostituzione, del dizionario, della grammatica e della sillabazione della Correzione automatica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main window is similar for each component of LibreOffice, although some details vary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214007Z" creationid="Marco Marega" creationdate="20180616T214007Z">
@@ -12414,6 +12422,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082306Z" creationid="manuel" creationdate="20180530T082306Z">
         <seg>Questa opzione è chiamata &lt;f1&gt;Abilita QuickStart nell'area di notifica&lt;/f1&gt; su Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option is especially useful when you insert text such as web addresses or programming language snippets that you do not want to check for spelling.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T145046Z" creationid="manuel" creationdate="20180621T145046Z">
+        <seg>Questa opzione è particolarmente utile se inserite del testo come indirizzi web o parti di un linguaggio di programmazione che non desiderate controllare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14487,6 +14503,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204750Z" creationid="Marco Marega" creationdate="20180531T214716Z">
         <seg>Inoltre potete aprire un documento esistente o usare un modello di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also set the language for a paragraph or a group of characters as &lt;f0&gt;None (Do not check spelling)&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T145036Z" creationid="manuel" creationdate="20180621T145015Z">
+        <seg>Potete anche impostare a &lt;f0&gt;Nessuna (Non eseguire il controllo ortografico)&lt;/f0&gt; la lingua di un paragrafo o di un gruppo di caratteri.</seg>
       </tuv>
     </tu>
     <tu>
