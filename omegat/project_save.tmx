@@ -6680,6 +6680,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If all documents are closed without closing LibreOffice, then the Start Center will be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124252Z" creationid="Marco Marega" creationdate="20180621T124252Z">
+        <seg>Se chiudete tutti i documenti, senza però chiudere LibreOffice, verrà visualizzato il Centro di avvio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If any bookmarks have been defined in the document, a right-click on this field pops up a list of bookmarks; click on the required one.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055451Z" creationid="manuel" creationdate="20180618T055451Z">
@@ -8856,6 +8864,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On Windows or Linux, use the Quickstarter feature included with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124142Z" creationid="Marco Marega" creationdate="20180621T124142Z">
+        <seg>In Windows o Linux, potete usare le caratteristiche di Quickstarter installato con LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On Windows systems, you can hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while dragging to select a block of text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065736Z" creationid="manuel" creationdate="20180618T065736Z">
@@ -9916,6 +9932,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T163412Z" creationid="manuel" creationdate="20180612T163412Z">
         <seg>Si veda “&lt;bf0&gt;Copia di stili da un modello o documento&lt;/bf0&gt;” a pagina &lt;bf1&gt;70&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See “&lt;bf0&gt;Quickstarter&lt;/bf0&gt;” on page &lt;bf1&gt;19&lt;/bf1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124207Z" creationid="Marco Marega" creationdate="20180621T124207Z">
+        <seg>Per maggiori informazioni vedete “&lt;bf0&gt;Quickstart&lt;/bf0&gt;” a pagina&lt;bf1&gt;19&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
