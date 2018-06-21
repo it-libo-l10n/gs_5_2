@@ -14339,6 +14339,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writer provides some tools that make your work easier if you mix multiple languages within the same document or if you write documents in various languages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143912Z" creationid="manuel" creationdate="20180621T143912Z">
+        <seg>Writer dispone di strumenti che possono facilitare il lavoro nel caso di utilizzo di più lingue nello stesso documento o di creazione di documenti in lingue diverse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writing, editing, and (especially) page layout are often easier when you can see the page margins (text boundaries), the boundaries of tables and sections (in Writer documents), page breaks in Calc, grid lines in Draw or Writer, and other features.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093757Z" creationid="manuel" creationdate="20180606T093757Z">
