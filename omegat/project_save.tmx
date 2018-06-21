@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3840,6 +3840,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the small triangle to the right of the &lt;f0&gt;Open&lt;/f0&gt; icon and select from a list of recently opened documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T191629Z" creationid="Marco Marega" creationdate="20180621T191629Z">
+        <seg>Fate clic sul piccolo triangolo a destra dell'icona &lt;f0&gt;Apri&lt;/f0&gt; per selezionare uno dei documenti dalla lista di quelli aperti di recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click this icon to open a dialog where you can choose to download the update.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071837Z" creationid="manuel" creationdate="20180608T071837Z">
@@ -6901,6 +6909,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123841Z" creationid="Marco Marega" creationdate="20180621T123841Z">
         <seg>Se c'è già un documento aperto in LibreOffice, fate clic sull'icona &lt;f0&gt;Nuovo&lt;/f0&gt; nella barre degli strumenti Standard e verrà creato un nuovo documento dello stesso tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a document is already open, click the &lt;f0&gt;Open&lt;/f0&gt; icon on the Standard toolbar and select from a list of available documents from the Open dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T191519Z" creationid="Marco Marega" creationdate="20180621T191519Z">
+        <seg>Se c'è già un documento aperto, fate clic sull'icona &lt;f0&gt;Apri&lt;/f0&gt; nella barre degli strumenti Standard e selezionate uno dei documenti disponibili dalla lista nella finestra di dialogo Apri.</seg>
       </tuv>
     </tu>
     <tu>
