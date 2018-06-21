@@ -14098,6 +14098,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also use &lt;f4&gt;Ctrl+Shift+J&lt;/f4&gt; to enter or exit Full Screen view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T110130Z" creationid="manuel" creationdate="20180621T110130Z">
+        <seg>Per entrare o uscire dalla visualizzazione Schermo intero potete anche utilizzare la combinazione di tasti &lt;f4&gt;Ctrl+Maiusc+J&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change some details of the locale and language settings that LibreOffice uses for all documents, or for specific documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170130Z" creationid="manuel" creationdate="20180608T170130Z">
