@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Design&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Provides quick access to themes (fonts and colors) and style presets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T103708Z" creationid="manuel" creationdate="20180621T103621Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Struttura&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: fornisce un rapido accesso ai temi (caratteri e colori) e ai stili predefiniti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Styles&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; – contains commands for quickly applying common styles; for editing, loading, and creating new styles; and for accessing the Styles and Formatting section of the Sidebar.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215106Z" creationid="Marco Marega" creationdate="20180616T215106Z">
@@ -1480,8 +1488,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Manage Changes&lt;/f0&gt;: Lists all changes done in the document since the Track Changes mode was activated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T101951Z" creationid="manuel" creationdate="20180621T083551Z">
-        <seg>&lt;f0&gt;Gestisci le modifiche&lt;/f0&gt;: elenca tutte le modifiche apportate nel documento poiché è stata attivata la modalità traccia cambiamenti.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T103641Z" creationid="manuel" creationdate="20180621T083551Z">
+        <seg>&lt;f0&gt;Gestisci le modifiche&lt;/f0&gt;: elenca tutte le modifiche apportate nel documento poiché è stata attivata la modalità traccia le modifiche.</seg>
       </tuv>
     </tu>
     <tu>
