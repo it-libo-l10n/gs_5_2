@@ -7217,6 +7217,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do not see the symbol next to your preferred language, you can install the additional dictionary using &lt;f2&gt;Tools &gt; Language &gt; More Dictionaries Online&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151734Z" creationid="manuel" creationdate="20180621T151712Z">
+        <seg>Se il simbolo non compare a fianco della lingua desiderata, potete installare il dizionario aggiuntivo scegliendo &lt;f2&gt;Strumenti &gt; Lingua &gt; Altri dizionari in linea&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not specify a template when you start a new document, then the document is based on the default template for that type of document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114009Z" creationid="manuel" creationdate="20180611T114009Z">
@@ -8261,6 +8269,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090040Z" creationid="luke" creationdate="20180515T090040Z">
         <seg>LibreOffice Impress has a Presenter Console function that can be used when an extra display for presentation has been connected to your computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice also has some convenient ways to select items that are not next to each other, select a vertical block of text, and paste unformatted text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151808Z" creationid="manuel" creationdate="20180621T151808Z">
+        <seg>LibreOffice dispone anche di alcuni modi utili per selezionare elementi che non sono tra loro vicini, selezionare una porzione verticale di testo e incollare testo senza formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10433,6 +10449,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the first piece of text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151928Z" creationid="manuel" creationdate="20180621T151928Z">
+        <seg>Selezionate la prima porzione di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the languages used for the spelling checker, thesaurus, and hyphenation features of LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T064308Z" creationid="manuel" creationdate="20180609T064308Z">
@@ -10589,6 +10613,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181553Z" creationid="Elisabetta Manuele" creationdate="20180620T181553Z">
         <seg>Selezionare elementi in un foglio elettronico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting items that are not &lt;be0/&gt;consecutive</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151817Z" creationid="manuel" creationdate="20180621T151817Z">
+        <seg>Selezione di elementi non &lt;be0/&gt;consecutivi</seg>
       </tuv>
     </tu>
     <tu>
@@ -11834,6 +11866,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The language used for checking spelling is also shown in the Status Bar, next to the page style in use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151740Z" creationid="manuel" creationdate="20180621T151740Z">
+        <seg>La barra di stato mostra la lingua associata al controllo ortografico vicino allo stile di pagina in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The last marked selection is the content of the selection clipboard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055313Z" creationid="manuel" creationdate="20180531T055313Z">
@@ -12558,6 +12598,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071222Z" creationid="manuel" creationdate="20180618T071222Z">
         <seg>Per &lt;f2&gt;firmare il documento o&lt;/f2&gt; visualizzare il certificato, fate clic sull'icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;i0/&gt;select &lt;i1/&gt;nonconsecutive items (as shown in Figure &lt;t2&gt;67&lt;/t2&gt;) using the mouse:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151923Z" creationid="manuel" creationdate="20180621T151923Z">
+        <seg>Per &lt;i0/&gt;selezionare&lt;i1/&gt; elementi non consecutivi usando il mouse (come mostrato in Figura&lt;t2&gt;67&lt;/t2&gt;):</seg>
       </tuv>
     </tu>
     <tu>
@@ -14347,6 +14395,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Working with text (selecting, copying, pasting, moving) in Writer is similar to working with text in any other program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151752Z" creationid="manuel" creationdate="20180621T151752Z">
+        <seg>In Writer, il modo di lavorare con il testo (selezionare, copiare, incollare, spostare) è simile ad altri programmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Workspace views</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181951Z" creationid="Elisabetta Manuele" creationdate="20180620T181951Z">
@@ -15747,6 +15803,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>nonconsecutive items</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151825Z" creationid="manuel" creationdate="20180621T151825Z">
+        <seg>elementi non consecutivi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nonconsecutive items, selecting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151839Z" creationid="manuel" creationdate="20180621T151839Z">
+        <seg>elementi non consecutivi, selezione di</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072827Z" creationid="manuel" creationdate="20180531T072827Z">
@@ -15895,6 +15967,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T150612Z" creationid="manuel" creationdate="20180531T080331Z">
         <seg>Opzioni di sicurezza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>selecting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151829Z" creationid="manuel" creationdate="20180621T151829Z">
+        <seg>selezionare</seg>
       </tuv>
     </tu>
     <tu>
