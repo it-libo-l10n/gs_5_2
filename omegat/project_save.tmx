@@ -3600,6 +3600,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and the dialog closes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200103Z" creationid="Marco Marega" creationdate="20180621T200103Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; e la finestra di dialogo si chiuderà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to copy the styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071739Z" creationid="manuel" creationdate="20180614T071739Z">
@@ -7209,6 +7217,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the passwords match, the document is saved password-protected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200150Z" creationid="Marco Marega" creationdate="20180621T200150Z">
+        <seg>Se le passwords corrispondono, il documento salvato sarà protetto da password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the selected icon normally demands a consecutive mouse action, such as inserting a rectangle, then pressing the &lt;f1&gt;Enter&lt;/f1&gt; key is not sufficient: in these cases press &lt;f2&gt;Ctrl+Enter&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154727Z" creationid="luke" creationdate="20180514T154727Z">
@@ -7813,6 +7829,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T195841Z" creationid="Marco Marega" creationdate="20180621T195841Z">
         <seg>In &lt;f0&gt;Password di cifratura del file&lt;/f0&gt; inserite una password per l'apertura del documento e poi inserite la stessa password per confermare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;f0&gt;File Sharing Password&lt;/f0&gt;, select &lt;f1&gt;Open file read-only&lt;/f1&gt;, enter a password to allow editing, and then enter the same password as confirmation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200044Z" creationid="Marco Marega" creationdate="20180621T200044Z">
+        <seg>In &lt;f0&gt;Password di condivisione del file&lt;/f0&gt;, selezionate &lt;f1&gt;Apri il file in sola lettura&lt;/f1&gt;, inserite una password per l'accesso in modifica e poi inserite la stessa password per conferma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13679,6 +13703,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
         <seg>To restart a slide show automatically after the last slide has been displayed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To restrict who can edit the document, click &lt;f0&gt;Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T195920Z" creationid="Marco Marega" creationdate="20180621T195920Z">
+        <seg>Per limitare la modifica del documento, fate clic su &lt;f0&gt;Opzioni&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
