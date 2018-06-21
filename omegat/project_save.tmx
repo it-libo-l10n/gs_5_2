@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3603,6 +3603,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154738Z" creationid="manuel" creationdate="20180615T154738Z">
         <seg>Fate clic una volta su di esso per attivare i controlli di gestione dei file (vedere Figura &lt;t0&gt;52&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click one of the icons to open a new document of that type, or click the &lt;f2&gt;Templates&lt;/f2&gt; icon to start a new document using a template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123353Z" creationid="Marco Marega" creationdate="20180621T123353Z">
+        <seg>Fate clic sulle icone per aprire un nuovo documento di tipo corrispondente, oppure fate clic sull'icona &lt;f2&gt;Modelli&lt;/f2&gt; per creare un nuovo documento sulla base di un modello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13594,6 +13602,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When LibreOffice is running but no document is open, the Start Center (Figure &lt;t0&gt;2&lt;/t0&gt; on page &lt;t1&gt;19&lt;/t1&gt;) is shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123234Z" creationid="Marco Marega" creationdate="20180621T123234Z">
+        <seg>Quando LibreOffice è in esecuzione ma non c'è nessun documento aperto, viene visualizzato il Centro di avvio (Figura &lt;t0&gt;2&lt;/t0&gt; a pagina &lt;t1&gt;19&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When Quickstarter is activated, the necessary library files are loaded when the computer system is started, resulting in a shorter startup time for LibreOffice components.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203621Z" creationid="Marco Marega" creationdate="20180607T203621Z">
@@ -14422,6 +14438,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202031Z" creationid="Marco Marega" creationdate="20180607T202031Z">
         <seg>Potete avviare LibreOffice facendo doppio clic sul nome del file di un documento ODF sul desktop o in un file manager come Windows Explorer o Finder su Mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can start a new, blank document in LibreOffice in several ways.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123059Z" creationid="Marco Marega" creationdate="20180621T123059Z">
+        <seg>In LibreOffice potete aprire un nuovo documento in vari modi.</seg>
       </tuv>
     </tu>
     <tu>
