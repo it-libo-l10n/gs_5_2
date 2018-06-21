@@ -2374,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, use the buttons on the &lt;f3&gt;Standard&lt;/f3&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161525Z" creationid="manuel" creationdate="20180621T161525Z">
+        <seg>Alternativamente, usate i pulsanti sulla barra degli strumenti &lt;f3&gt;Standard&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although LibreOffice will work without Java support, some features will not be available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190658Z" creationid="Marco Marega" creationdate="20180528T190658Z">
@@ -7225,6 +7233,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you click on the &lt;f1&gt;Paste&lt;/f1&gt; button, any formatting the text has (such as bold or italics) is retained.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161626Z" creationid="manuel" creationdate="20180621T161626Z">
+        <seg>Se fate clic sul pulsante &lt;f1&gt;Incolla&lt;/f1&gt;, viene mantenuta qualsiasi formattazione del testo (come grassetto o corsivo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you create a document by choosing &lt;f0&gt;File &gt; New &gt; Text Document&lt;/f0&gt; (or &lt;f1&gt;Spreadsheet&lt;/f1&gt;, &lt;f2&gt;Presentation&lt;/f2&gt;, or &lt;f3&gt;Drawing&lt;/f3&gt;) from the Menu bar, LibreOffice creates the document from the default template for that type of document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161028Z" creationid="manuel" creationdate="20180615T161028Z">
@@ -7269,6 +7285,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170957Z" creationid="manuel" creationdate="20180615T170957Z">
         <seg>Se non vi aggradano le impostazioni predefinite, potete modificarle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not like the results, click the &lt;f2&gt;Undo&lt;/f2&gt; button or press &lt;f3&gt;Ctrl+Z&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161736Z" creationid="manuel" creationdate="20180621T161736Z">
+        <seg>Se non gradite i risultati, fate clic sul pulsante &lt;f2&gt;Annulla&lt;/f2&gt; oppure premete &lt;f3&gt;Ctrl+Z&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11321,6 +11345,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text pasted from Web sites and other sources may also be placed into frames or tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161628Z" creationid="manuel" creationdate="20180621T161628Z">
+        <seg>Il testo incollato da siti Web e altre fonti potrebbe anche essere posizionato in cornici o tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text to include in the footer (business fax)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121242Z" creationid="manuel" creationdate="20180615T121242Z">
@@ -14355,6 +14387,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you &lt;i0/&gt;paste text, the result depends on the source of the text and how you paste it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161554Z" creationid="manuel" creationdate="20180621T161554Z">
+        <seg>Quando &lt;i0/&gt;incollate del testo, il risultato dipende dalla sorgente del testo e da come lo incollate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you are ready to advance to the next slide, mouse click on the display background or press the right arrow or space bar on your keyboard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
@@ -16063,6 +16103,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102354Z" creationid="manuel" creationdate="20180616T102354Z">
         <seg>layout di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>paste text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161528Z" creationid="manuel" creationdate="20180621T161528Z">
+        <seg>incollare testo</seg>
       </tuv>
     </tu>
     <tu>
