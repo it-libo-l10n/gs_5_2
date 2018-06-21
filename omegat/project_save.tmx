@@ -7841,6 +7841,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the section named &lt;f1&gt;Default file format and ODF settings&lt;/f1&gt;, under &lt;f2&gt;Document type&lt;/f2&gt;, select &lt;f3&gt;Text document,&lt;/f3&gt; then under &lt;f4&gt;Always save as&lt;/f4&gt;, select your preferred file format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143855Z" creationid="manuel" creationdate="20180621T143855Z">
+        <seg>Nella sezione chiamata &lt;f1&gt;Formato file predefinito e impostazioni ODF&lt;/f1&gt;, sotto &lt;f2&gt;Tipo documento&lt;/f2&gt;, selezionate &lt;f3&gt;Documento di testo,&lt;/f3&gt; quindi sotto &lt;f4&gt;Salva sempre come&lt;/f4&gt;, selezionate il vostro formato file preferito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case, it does not matter where the referenced directory structure is recorded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144733Z" creationid="manuel" creationdate="20180608T144733Z">
