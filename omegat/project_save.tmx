@@ -6913,6 +6913,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a document is already open in LibreOffice, the second document opens in a new window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192146Z" creationid="Marco Marega" creationdate="20180621T192146Z">
+        <seg>Se in LibreOffice è già aperto un documento, il secondo si aprirà in una nuova finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a document is already open, click the &lt;f0&gt;Open&lt;/f0&gt; icon on the Standard toolbar and select from a list of available documents from the Open dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T191519Z" creationid="Marco Marega" creationdate="20180621T191519Z">
@@ -14527,6 +14535,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202507Z" creationid="Marco Marega" creationdate="20180607T202439Z">
         <seg>Quando si utilizzano dei server CMIS, il servizio vi richiederà le credenziali necessarie per l'accesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using the Open dialog, navigate to the folder you want and select the file you want, and then click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192107Z" creationid="Marco Marega" creationdate="20180621T192107Z">
+        <seg>Quando usate la finestra di dialogo Apri, navigate fino alla cartella di vostro interesse e selezionate il file desiderato, quindi fate clic su &lt;f0&gt;Apri&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
