@@ -5769,6 +5769,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Find and replace paragraph styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165823Z" creationid="manuel" creationdate="20180621T165823Z">
+        <seg>Cercare e sostituire stili di paragrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find and replace specific attributes or formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165819Z" creationid="manuel" creationdate="20180621T165819Z">
+        <seg>Cercare e sostituire attributi o formattazioni specifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find and replace words and phrases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165550Z" creationid="manuel" creationdate="20180621T165550Z">
+        <seg>Cercare e sostituire parole e frasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Find and select the &lt;f0&gt;category where you want to import the &lt;/f0&gt;template and click &lt;f1&gt;O&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;K&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143026Z" creationid="manuel" creationdate="20180616T143026Z">
@@ -7957,6 +7981,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T145911Z" creationid="manuel" creationdate="20180531T075940Z">
         <seg>Nella sezione bassa della pagina, potete cambiare il tipo e la dimensione del carattere usato per visualizzare codice sorgente come HTML e Basic (nelle macro).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the dialog, you can:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165545Z" creationid="manuel" creationdate="20180621T165545Z">
+        <seg>Nella finestra di dialogo potete:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13883,6 +13915,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use wildcards &lt;i0/&gt;and regular expressions to fine-tune a search</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165753Z" creationid="manuel" creationdate="20180621T165753Z">
+        <seg>Usare caratteri jolly&lt;i0/&gt; e espressioni regolari per una ricerca più accurata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User Data options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055150Z" creationid="manuel" creationdate="20180529T055150Z">
@@ -14103,6 +14143,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143611Z" creationid="manuel" creationdate="20180611T143611Z">
         <seg>Grazie agli stili, non è più necessario selezionare, ad esempio, “Dimensione dei caratteri 14pt, Times New Roman, Grassetto, Centrato”, ma sarà sufficiente scegliere lo stile “Titolo”, precedentemente impostato con le caratteristiche desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Find toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165826Z" creationid="manuel" creationdate="20180621T165826Z">
+        <seg>Uso della barra degli strumenti Cerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -16227,6 +16275,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>regular expressions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165554Z" creationid="manuel" creationdate="20180621T165554Z">
+        <seg>espressioni regolari &lt;s0/&gt;87</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>relative</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144708Z" creationid="manuel" creationdate="20180608T144708Z">
@@ -16495,6 +16551,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T143318Z" creationid="manuel" creationdate="20180530T082511Z">
         <seg>Opzioni di vista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wildcards</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165553Z" creationid="manuel" creationdate="20180621T165553Z">
+        <seg>caratteri jolly &lt;s0/&gt;87</seg>
       </tuv>
     </tu>
     <tu>
