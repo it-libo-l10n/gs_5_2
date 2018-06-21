@@ -12274,6 +12274,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text retains the formatting it had before dragging.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T154030Z" creationid="manuel" creationdate="20180621T154030Z">
+        <seg>Il testo mantiene la formattazione precedente al trascinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The toolbar can be docked in a new position at the top, sides or bottom of the main window, or left as a floating toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181950Z" creationid="Marco Marega" creationdate="20180620T181950Z">
@@ -12710,6 +12718,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085940Z" creationid="luke" creationdate="20180515T085940Z">
         <seg>Suggerimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;f0&gt;move&lt;/f0&gt; (drag and drop) selected text using the mouse, drag it to the new location and release it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T154008Z" creationid="manuel" creationdate="20180621T154008Z">
+        <seg>Per &lt;f0&gt;spostare&lt;/f0&gt; (trascinare e rilasciare) il testo selezionato usando il mouse, trascinatelo nella nuova posizione e rilasciatelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;f1&gt;copy&lt;/f1&gt; selected text, hold down the &lt;f2&gt;Ctrl&lt;/f2&gt; key while dragging.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T154027Z" creationid="manuel" creationdate="20180621T154027Z">
+        <seg>Per &lt;f1&gt;copiare&lt;/f1&gt; il testo selezionato, tenete premuto il tasto &lt;f2&gt;Ctrl&lt;/f2&gt; mentre trascinate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14659,6 +14683,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also copy text from other sources such as Web pages and paste it into a Writer document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153929Z" creationid="manuel" creationdate="20180621T153929Z">
+        <seg>Potete anche copiare testo da altre fonti come pagine Web e incollarlo in un documento di Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also create and edit .ODT files and then save them as .DOC or .DOCX files.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142114Z" creationid="manuel" creationdate="20180621T142114Z">
@@ -14823,6 +14855,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090027Z" creationid="luke" creationdate="20180515T090027Z">
         <seg>You can configure the slide transition from the Slide Transition section in the Tasks Pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can copy or move text within a document, or between documents, by dragging or by using menu selections, toolbar buttons, or keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153916Z" creationid="manuel" creationdate="20180621T153916Z">
+        <seg>Potete copiare o spostare testo in un documento, o tra documenti, trascinando o usando le selezioni tramite i menu, i pulsanti della barra strumenti, o i tasti di scelta rapida.</seg>
       </tuv>
     </tu>
     <tu>
