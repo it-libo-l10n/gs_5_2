@@ -3632,6 +3632,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Save&lt;/f0&gt; and the &lt;f1&gt;Set Password&lt;/f1&gt; dialog opens (Figure &lt;t2&gt;11&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T195732Z" creationid="Marco Marega" creationdate="20180621T195732Z">
+        <seg>Fate clic su &lt;f0&gt;Sala&lt;/f0&gt; e si aprirà la finestra di dialogo &lt;f1&gt;Imposta Password&lt;/f1&gt; (Figura &lt;t2&gt;11&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Slide Show &gt; Start from first Slide&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z" creationid="luke" creationdate="20180515T090036Z">
@@ -7797,6 +7805,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
         <seg>Impress will memorize the timings for each slide and will advance to the next slide automatically using these timings when you run the slide show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;f0&gt;File Encryption Password&lt;/f0&gt;, enter a password to open the document and then enter the same password as confirmation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T195841Z" creationid="Marco Marega" creationdate="20180621T195841Z">
+        <seg>In &lt;f0&gt;Password di cifratura del file&lt;/f0&gt; inserite una password per l'apertura del documento e poi inserite la stessa password per confermare.</seg>
       </tuv>
     </tu>
     <tu>
