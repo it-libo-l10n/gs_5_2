@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6632,6 +6632,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a document is already open in LibreOffice, click on the small triangle to the right of the &lt;f0&gt;New&lt;/f0&gt; icon on the Standard toolbar and select the type of document from the context menu that opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124053Z" creationid="Marco Marega" creationdate="20180621T124053Z">
+        <seg>Se c'è già un documento aperto in LibreOffice, fate clic sul piccolo triangolo alla destra dell'icona &lt;f0&gt;Nuovo&lt;/f0&gt; nella barre degli strumenti Standard e selezionate il tipo di documento dal menu contestuale che si attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a document is already open in LibreOffice, click the &lt;f0&gt;New&lt;/f0&gt; icon on the Standard toolbar and a new document of the same type is created in a new window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123841Z" creationid="Marco Marega" creationdate="20180621T123841Z">
+        <seg>Se c'è già un documento aperto in LibreOffice, fate clic sull'icona &lt;f0&gt;Nuovo&lt;/f0&gt; nella barre degli strumenti Standard e verrà creato un nuovo documento dello stesso tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a document needs custom styles derived from base styles, consider prefixing the name of the custom styles with a few characters to highlight them among other styles in the list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064454Z" creationid="manuel" creationdate="20180614T064454Z">
@@ -11097,6 +11113,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The New icon changes depending on which component of LibreOffice is open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123921Z" creationid="Marco Marega" creationdate="20180621T123921Z">
+        <seg>L'icona Nuovo varia a seconda di quale componente di LibreOffice è aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Page Style dialog opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060409Z" creationid="manuel" creationdate="20180618T060323Z">
@@ -13086,6 +13110,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T100422Z" creationid="manuel" creationdate="20180616T100422Z">
         <seg>Usate &lt;f0&gt;File &gt; Modelli &gt; Gestisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;modelli&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;per aprire la finestra di dialogo &lt;f4&gt;Modelli&lt;/f4&gt;, e selezionate il modello desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;File &gt; Wizards&lt;/f0&gt; on the Menu bar and select the type of document from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123717Z" creationid="Marco Marega" creationdate="20180621T123717Z">
+        <seg>Usando &lt;f0&gt;File &gt; Procedure guidate&lt;/f0&gt; nella barra del Menu e selezionando il tipo di documento dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
