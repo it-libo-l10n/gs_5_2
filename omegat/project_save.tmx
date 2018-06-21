@@ -6585,6 +6585,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;File &gt; Save&lt;/f0&gt;, &lt;f1&gt;File &gt; Save to Remote Server&lt;/f1&gt;, &lt;f2&gt;File &gt; Save a Copy&lt;/f2&gt;, or &lt;f3&gt;File &gt; Save All&lt;/f3&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194325Z" creationid="Marco Marega" creationdate="20180621T194325Z">
+        <seg>Nella barra del Menu andante in &lt;f0&gt;File &gt; Salva&lt;/f0&gt;, &lt;f1&gt;File &gt; Salva sul server remoto&lt;/f1&gt;, &lt;f2&gt;File &gt; Salva una copia&lt;/f2&gt;, o &lt;f3&gt;File &gt; Salva tutto&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Slide &gt; Hide Slide&lt;/f0&gt; on the Menu bar or right-click on the slide thumbnail and select &lt;f1&gt;Hide Slide&lt;/f1&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085951Z" creationid="luke" creationdate="20180515T085951Z">
@@ -12756,8 +12764,8 @@
       <tuv lang="EN">
         <seg>This book uses the LibreOffice dialogs in illustrations.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T193132Z" creationid="Marco Marega" creationdate="20180621T193132Z">
-        <seg>Le illustrazioni di questo libro usando le finestre di dialogo di LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194042Z" creationid="Marco Marega" creationdate="20180621T193132Z">
+        <seg>Le illustrazioni di questo libro usano le finestre di dialogo di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13619,6 +13627,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To save a document if you are keeping the document’s current filename and location, do one of the following:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194216Z" creationid="Marco Marega" creationdate="20180621T194216Z">
+        <seg>Per salvare un documento, se volete mantenere lo stesso nome e la stessa posizione attuale, scegliere uno dei seguenti modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To save your changes, choose &lt;f1&gt;File &gt; Save &lt;/f1&gt;from the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155359Z" creationid="manuel" creationdate="20180615T155359Z">
@@ -14007,6 +14023,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124657Z" creationid="Marco Marega" creationdate="20180621T124657Z">
         <seg>Usate la combinazione di tasti &lt;f0&gt;Ctrl+O&lt;/f0&gt; per arrivare alla finestra di dialogo Apri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+S&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194232Z" creationid="Marco Marega" creationdate="20180621T194232Z">
+        <seg>Usate la combinazione di tasti &lt;f0&gt;Ctrl+S&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
