@@ -3642,8 +3642,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Save&lt;/f0&gt; and the &lt;f1&gt;Set Password&lt;/f1&gt; dialog opens (Figure &lt;t2&gt;11&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T195732Z" creationid="Marco Marega" creationdate="20180621T195732Z">
-        <seg>Fate clic su &lt;f0&gt;Sala&lt;/f0&gt; e si aprirà la finestra di dialogo &lt;f1&gt;Imposta Password&lt;/f1&gt; (Figura &lt;t2&gt;11&lt;/t2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200253Z" creationid="Marco Marega" creationdate="20180621T195732Z">
+        <seg>Fate clic su &lt;f0&gt;Sala&lt;/f0&gt; e si aprirà la finestra di dialogo &lt;f1&gt;Imposta la Password&lt;/f1&gt; (Figura &lt;t2&gt;11&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5261,6 +5261,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194542Z" creationid="Marco Marega" creationdate="20180621T194542Z">
         <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: Esempio di finestra di dialogo Salva con nome di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Set Password dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200249Z" creationid="Marco Marega" creationdate="20180621T200249Z">
+        <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Finestra di dialogo Imposta la Password</seg>
       </tuv>
     </tu>
     <tu>
@@ -7217,10 +7225,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the passwords do not match, you receive an error message.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200214Z" creationid="Marco Marega" creationdate="20180621T200214Z">
+        <seg>Se le password non corrispondono, riceverete un messaggio di errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the passwords match, the document is saved password-protected.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200150Z" creationid="Marco Marega" creationdate="20180621T200150Z">
-        <seg>Se le passwords corrispondono, il documento salvato sarà protetto da password.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200217Z" creationid="Marco Marega" creationdate="20180621T200150Z">
+        <seg>Se le password corrispondono, il documento salvato sarà protetto da password.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8757,6 +8773,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144148Z" creationid="manuel" creationdate="20180611T144148Z">
         <seg>LibreOffice supporta i seguenti stili:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice uses a very strong encryption mechanism that makes it almost impossible to recover the contents of a document if you lose or forget the password.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200722Z" creationid="Marco Marega" creationdate="20180621T200722Z">
+        <seg>LibreOffice usa un meccanismo di crittografia molto forte che, , nel caso in cui smarriate o dimentichiate la password, rende quasi impossibile recuperare i contenuti di un documento.</seg>
       </tuv>
     </tu>
     <tu>
