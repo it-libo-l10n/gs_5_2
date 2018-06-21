@@ -3080,6 +3080,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing the Language on the Font tab of the Paragraph Styles dialog, will change the language for all paragraphs that use that paragraph style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T150528Z" creationid="manuel" creationdate="20180621T150528Z">
+        <seg>Cambiando la lingua nella scheda Carattere della finestra di dialogo Stili di paragrafo, cambierà la lingua per tutti i paragrafi che usano quello stile di paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085837Z" creationid="luke" creationdate="20180515T082559Z">
