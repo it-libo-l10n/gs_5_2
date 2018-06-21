@@ -12706,6 +12706,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This book uses the LibreOffice dialogs in illustrations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T193132Z" creationid="Marco Marega" creationdate="20180621T193132Z">
+        <seg>Le illustrazioni di questo libro usando le finestre di dialogo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can cause a document to be printed on a distant printer (perhaps in an office setting), if you do not change the printer manually in the Print dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144204Z" creationid="manuel" creationdate="20180608T144204Z">
@@ -14515,6 +14523,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When opening files stored in a remote server, you may be asked to enter your user name and password to log in the server.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T193319Z" creationid="Marco Marega" creationdate="20180621T193319Z">
+        <seg>Quando aprite dei file memorizzata su di un server remoto, potrebbe esservi richiesto di inserire il vostro nome utente e la password per accedere al server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; option (see above) is &lt;f1&gt;not&lt;/f1&gt; selected, the &lt;f2&gt;Display warning&lt;/f2&gt; option becomes available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164336Z" creationid="manuel" creationdate="20180608T164336Z">
@@ -15367,6 +15383,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T072840Z" creationid="manuel" creationdate="20180606T072840Z">
         <seg>È possibile recuperare le password dall'elenco dopo aver inserito la password principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can save documents as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T193419Z" creationid="Marco Marega" creationdate="20180621T193419Z">
+        <seg>Potete salvare i documenti come segue:</seg>
       </tuv>
     </tu>
     <tu>
