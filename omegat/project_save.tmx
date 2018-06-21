@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(When in Full Screen view, press the &lt;f4&gt;Esc&lt;/f4&gt; key to return to either &lt;f5&gt;Normal&lt;/f5&gt; or Web view.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T104712Z" creationid="manuel" creationdate="20180621T104712Z">
+        <seg>(Nella modalità Schermo intero, premte il tasto &lt;f4&gt;Esc&lt;/f4&gt; per tornare alla vista &lt;f5&gt;Normale&lt;/f5&gt; o Web.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(You can change the sequence and remove or insert images later, as you can with any slides.)&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
@@ -12149,6 +12157,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085940Z" creationid="luke" creationdate="20180515T085940Z">
         <seg>Suggerimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;f2&gt;change the view&lt;/f2&gt;, go to the &lt;f3&gt;View&lt;/f3&gt; menu and click on the required view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T104433Z" creationid="manuel" creationdate="20180621T104433Z">
+        <seg>Per &lt;f2&gt;cambiare la visualizzazione&lt;/f2&gt;, andate sul menu &lt;f3&gt;Visualizza&lt;/f3&gt; e fate clic sulla modalità di visualizzazione desiderata.</seg>
       </tuv>
     </tu>
     <tu>
