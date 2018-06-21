@@ -3537,8 +3537,8 @@
       <tuv lang="EN">
         <seg>Click a button to select that object type.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T135612Z" creationid="manuel" creationdate="20180621T135612Z">
-        <seg>&lt;f0&gt;Fate clic su un pulsante per selezionare la tipologia di oggetto corrispondente.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T140010Z" creationid="manuel" creationdate="20180621T135612Z">
+        <seg>Fate clic su un pulsante per selezionare la tipologia di oggetto corrispondente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8868,6 +8868,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100252Z" creationid="manuel" creationdate="20180606T100252Z">
         <seg>Notate che è possibile&lt;f2&gt; &lt;/f2&gt;modificare l'elenco dei colori disponibili seguendo quanto descritto in “&lt;bf1&gt;Opzioni del colore&lt;/bf1&gt;” a pagina &lt;bf2&gt;42&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now the &lt;f0&gt;Previous&lt;/f0&gt; and &lt;f1&gt;Next&lt;/f1&gt; button&lt;f2&gt;s&lt;/f2&gt; (in the Navigator itself, in the Navigation Toolbar, and on the &lt;f3&gt;Find&lt;/f3&gt; &lt;f4&gt;tool&lt;/f4&gt;bar) will jump to the &lt;f5&gt;previous or &lt;/f5&gt;next object of the selected type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T140005Z" creationid="manuel" creationdate="20180621T140005Z">
+        <seg>In questo modo i pulsanti Precedente&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; e &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Successivo&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; (nel Navigatore, nella barra degli strumenti di navigazione e nella barra di scorrimento) porteranno all'oggetto precedente o successivo della tipologia selezionata.</seg>
       </tuv>
     </tu>
     <tu>
