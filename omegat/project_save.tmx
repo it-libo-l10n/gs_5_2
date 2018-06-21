@@ -5776,6 +5776,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if Calc is open and active, a new spreadsheet is created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123633Z" creationid="Marco Marega" creationdate="20180621T123633Z">
+        <seg>Ad esempio, se è aperto ed attivo Calc, verrà creato un nuovo foglio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if the two-digit year is set to 1930, and you enter a date of 1/1/30 or later into your document, the date is interpreted as 1/1/1930 or later.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070244Z" creationid="manuel" creationdate="20180529T070244Z">
@@ -11825,6 +11833,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The type of document created depends on which LibreOffice component is open and active.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123603Z" creationid="Marco Marega" creationdate="20180621T123603Z">
+        <seg>Il tipo di documento dipende dal componente di LibreOffice aperto ed attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The usage data is sent anonymously and carries no document contents, only the commands used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081310Z" creationid="manuel" creationdate="20180530T081310Z">
@@ -13058,6 +13074,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;f0&gt;File &gt; New&lt;/f0&gt; on the Menu bar and select the type of document from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123459Z" creationid="Marco Marega" creationdate="20180621T123459Z">
+        <seg>Usando &lt;f0&gt;File &gt; Nuovo&lt;/f0&gt; nella barra del Menu e selezionando il tipo di documento dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f0&gt;File &gt; Templates &gt; Manage &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Templates&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;to open the Template&lt;f4&gt;s&lt;/f4&gt; dialog, and select the template you want to use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T100422Z" creationid="manuel" creationdate="20180616T100422Z">
@@ -13126,6 +13150,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090037Z" creationid="luke" creationdate="20180515T090037Z">
         <seg>Use the arrow keys on the keyboard to go to the next slide or to go back to the previous one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+N&lt;/f0&gt; to create a new document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123532Z" creationid="Marco Marega" creationdate="20180621T123532Z">
+        <seg>Usando la combinazione di tasti &lt;f0&gt;Ctrl+N&lt;/f0&gt; per creare un nuovo documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14110,6 +14142,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204750Z" creationid="Marco Marega" creationdate="20180531T214716Z">
         <seg>Inoltre potete aprire un documento esistente o usare un modello di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also start a new document in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123413Z" creationid="Marco Marega" creationdate="20180621T123413Z">
+        <seg>Potete anche creare un nuovo documento in uno dei modi seguenti:</seg>
       </tuv>
     </tu>
     <tu>
