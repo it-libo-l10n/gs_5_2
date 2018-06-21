@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6276,6 +6276,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101304Z" creationid="manuel" creationdate="20180616T101304Z">
         <seg>Andate in &lt;f0&gt;Modifica &gt; Incolla&lt;/f0&gt;, o premete &lt;f1&gt;Ctrl+V&lt;/f1&gt;, per incollare i contenuti dal vecchio al nuovo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;File &gt; Open&lt;/f0&gt; or &lt;f1&gt;File &gt; Open Remote File...&lt;/f1&gt; on the Menu bar the reach the Open dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124617Z" creationid="Marco Marega" creationdate="20180621T124617Z">
+        <seg>Andate in &lt;f0&gt;File &gt; Apri&lt;/f0&gt; o &lt;f1&gt;File &gt; Apri file remoti...&lt;/f1&gt; nella barra del Menu per attivare la finestra di dialogo Apri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13746,6 +13754,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When no document is open, click &lt;f0&gt;Open File&lt;/f0&gt; or &lt;f1&gt;Remote files&lt;/f1&gt; in the Start Center to reach the Open dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124521Z" creationid="Marco Marega" creationdate="20180621T124521Z">
+        <seg>Quando nessun documento è aperto, nel Centro di avvio fate clic su &lt;f0&gt;Apri File&lt;/f0&gt; o &lt;f1&gt;File remoti&lt;/f1&gt; in modo da aprire la finestra di dialogo Apri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; option (see above) is &lt;f1&gt;not&lt;/f1&gt; selected, the &lt;f2&gt;Display warning&lt;/f2&gt; option becomes available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164336Z" creationid="manuel" creationdate="20180608T164336Z">
@@ -14150,6 +14166,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162315Z" creationid="manuel" creationdate="20180612T162315Z">
         <seg>Potete anche modificare gli stili usando il sottomenu su ogni stile nell'elenco Applica stile sulla barra degli strumenti Formattazione (si veda Figura&lt;t0&gt;49&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also open an existing document in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124402Z" creationid="Marco Marega" creationdate="20180621T124402Z">
+        <seg>Un documento esistente può essere aperto anche in uno dei modi seguenti:</seg>
       </tuv>
     </tu>
     <tu>
