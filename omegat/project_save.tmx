@@ -10673,6 +10673,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting &lt;i0/&gt;a &lt;i1/&gt;vertical block of text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152627Z" creationid="manuel" creationdate="20180621T152627Z">
+        <seg>Selezione di &lt;i0/&gt;una&lt;i1/&gt;porzione verticale di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting an item in the list causes the right-hand side of the dialog to display the relevant page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083300Z" creationid="manuel" creationdate="20180528T083300Z">
@@ -15015,6 +15023,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070201Z" creationid="manuel" creationdate="20180531T070201Z">
         <seg>Potete selezionare un colore da una tavolozza, modificare un colore già presente e definire nuovi colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select a vertical block or “column” of text that is separated by spaces or tabs (as you might see in text pasted from e-mails, program listings, or other sources), using LibreOffice’s block selection mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152709Z" creationid="manuel" creationdate="20180621T152709Z">
+        <seg>Utilizzando la modalità di selezione a blocchi, potete selezionare una porzione verticale, o "colonna", di testo che sia separato da spazi o tabulazioni (ad esempio testo incollato da e-mail, listati di programmi, etc.).</seg>
       </tuv>
     </tu>
     <tu>
