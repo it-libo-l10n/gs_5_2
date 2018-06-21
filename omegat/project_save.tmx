@@ -2855,6 +2855,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, LibreOffice loads and saves files in the OpenDocument file format (ODF), a standardized file format (ISO-IEC 26300) used by many software applications.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T141347Z" creationid="manuel" creationdate="20180621T141347Z">
+        <seg>Per impostazione predefinita, LibreOffice carica e salva i file nel formato di file OpenDocument (ODF), un formato di file standardizzato (ISO-IEC 26300) utilizzato da molte applicazioni software.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, a toolbar will dock at the top of the workspace.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T185257Z" creationid="Marco Marega" creationdate="20180620T185238Z">
@@ -3071,6 +3080,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 1, Introducing LibreOffice, includes instructions on starting new documents, opening existing documents, saving documents, &lt;f0&gt;accessing remote servers, &lt;/f0&gt;and password-protecting documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T141228Z" creationid="manuel" creationdate="20180621T141228Z">
+        <seg>Il Capitolo 1 (Introduzione a LibreOffice) contiene istruzioni su come creare nuovi documenti, aprire documenti esistenti, salvare documenti, accedere a server remoti, e proteggere documenti con password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 10 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T083520Z" creationid="luke" creationdate="20180515T083520Z">
@@ -3147,6 +3164,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175540Z" creationid="Elisabetta Manuele" creationdate="20180620T175540Z">
         <seg>Capitolo 3 Uso di Stili e Modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 3, Using Styles and Templates, covers how to create a document from a template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T141235Z" creationid="manuel" creationdate="20180621T141235Z">
+        <seg>Il Capitolo 3 (Uso di Stili e Modelli) illustra come creare un documento da un modello.</seg>
       </tuv>
     </tu>
     <tu>
