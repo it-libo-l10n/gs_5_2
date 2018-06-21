@@ -8553,6 +8553,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice has to be associated with file types that are not ODF files for the appropriate LibreOffice component to open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192919Z" creationid="Marco Marega" creationdate="20180621T192919Z">
+        <seg>Affinché LibreOffice apra il componente appropriato è necessario che i file di tipo diverso dall'ODF vengano associati a LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice has two types of toolbars: docked (fixed in place) and floating.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T211703Z" creationid="Marco Marega" creationdate="20180619T211703Z">
@@ -14967,6 +14975,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124402Z" creationid="Marco Marega" creationdate="20180621T124402Z">
         <seg>Un documento esistente può essere aperto anche in uno dei modi seguenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also open an existing document that is in a format that LibreOffice recognizes by double-clicking on the file icon on the desktop or in a file manager such as Windows Explorer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192726Z" creationid="Marco Marega" creationdate="20180621T192726Z">
+        <seg>Se un documento esistente è in un formato riconosciuto da LibreOffice potete aprirlo anche facendo un doppio clic sull'icona del file presente sul desktop o in un gestore di file come Windows Explorer.</seg>
       </tuv>
     </tu>
     <tu>
