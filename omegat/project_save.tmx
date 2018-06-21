@@ -1630,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Styles and Formatting&lt;/f0&gt;: Manage the styles used in the document, apply existing styles, create new ones or modify them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T082421Z" creationid="manuel" creationdate="20180621T082421Z">
+        <seg>&lt;f0&gt;Stili e formattazione&lt;/f0&gt;: gestisce gli stili utilizzati nel documento, applica stili esistenti, ne crea di nuovi o li modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Styles: &lt;/f0&gt;&lt;f1&gt;A&lt;/f1&gt;pply a paragraph style at the cursor position.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T140558Z" creationid="manuel" creationdate="20180618T140558Z">
