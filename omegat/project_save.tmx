@@ -6265,6 +6265,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From this point on, &lt;f0&gt;all changes you make to the document will occur only in the new document&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143241Z" creationid="manuel" creationdate="20180621T143241Z">
+        <seg>Da questo punto in poi, &lt;f0&gt;tutte le modifiche attuate nel documento verranno salvate solo nel nuovo documento&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Function</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091954Z" creationid="manuel" creationdate="20180530T091954Z">
@@ -7373,6 +7381,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085934Z" creationid="luke" creationdate="20180515T085934Z">
         <seg>If you want to edit this field in your slide, see the &lt;f1&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f1&gt; for more information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to go back to working with the ODT version of your document, you must open it again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143335Z" creationid="manuel" creationdate="20180621T143335Z">
+        <seg>Se volete ritornare alla versione ODT del vostro documento, dovrete aprirlo nuovamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9949,6 +9965,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174016Z" creationid="Elisabetta Manuele" creationdate="20180620T174016Z">
         <seg>Salvare un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving in ODF format gives you the option to redo the document if the recipient of your document experiences trouble with the Microsoft format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143504Z" creationid="manuel" creationdate="20180621T143504Z">
+        <seg>Il salvataggio in formato ODF vi offre la possibilità di ripetere il documento se il destinatario del documento presenta problemi con il formato Microsoft.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12850,6 +12874,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To have Writer save documents by default in the Microsoft Word file format, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143515Z" creationid="manuel" creationdate="20180621T143515Z">
+        <seg>Per fare in modo che Writer salvi in modo predefinito i documenti nel formato Microsoft Word utilizzate &lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To have the shortcut key assignment available only with one component (for example, Writer), select that component’s name in the upper right corner of the page; otherwise select &lt;f0&gt;LibreOffice&lt;/f0&gt; to make it available to every component.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154737Z" creationid="luke" creationdate="20180514T154737Z">
@@ -14911,6 +14943,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184821Z" creationid="Marco Marega" creationdate="20180528T184821Z">
         <seg>Non è necessario sapere quale applicazione è stata utilizzata per creare un determinato file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have changed the name and file type of your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143257Z" creationid="manuel" creationdate="20180621T143257Z">
+        <seg>Infatti, modificando il nome ed il tipo di file, avete creato un nuovo documento.</seg>
       </tuv>
     </tu>
     <tu>
