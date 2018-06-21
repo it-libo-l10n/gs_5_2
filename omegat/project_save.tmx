@@ -14843,6 +14843,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can set certain paragraphs &lt;f0&gt;to &lt;/f0&gt;be checked in a language that is different from the language of the rest of the document by putting the cursor in the paragraph and changing the language on the Status Bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151154Z" creationid="manuel" creationdate="20180621T151154Z">
+        <seg>Potete impostare alcuni paragrafi &lt;f0&gt;da&lt;/f0&gt; verificare in una lingua diversa dalla lingua del resto del documento mettendo il cursore nel paragrafo e cambiando la lingua sulla barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can set the options for loading and saving documents to suit the way you work.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142535Z" creationid="manuel" creationdate="20180608T142535Z">
