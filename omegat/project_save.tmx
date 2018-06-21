@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Writer documents have the extension .ODT.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T141416Z" creationid="manuel" creationdate="20180621T141416Z">
+        <seg>&lt;f0&gt;I documenti di Writer hanno l'estensione .ODT.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can also see the number of words and characters (and other information including the number of pages, tables, and graphics) in the entire document in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Properties &gt; Statistics&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060239Z" creationid="manuel" creationdate="20180618T060239Z">
@@ -9889,6 +9897,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving as a Microsoft Word file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T141516Z" creationid="manuel" creationdate="20180621T141516Z">
+        <seg>Salvataggio di file nel formato Microsoft Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174016Z" creationid="Elisabetta Manuele" creationdate="20180620T174016Z">
@@ -14007,6 +14023,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154115Z" creationid="manuel" creationdate="20180608T154115Z">
         <seg>Dal momento che normalmente il codice viene mantenuto ma reso inattivo (se lo controllate con l'IDE StarBasic noterete che è tutto commentato), con questa opzione il codice è pronto per essere eseguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wherever choice of the document file format is possible, choose the default ODF format when working with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T141503Z" creationid="manuel" creationdate="20180621T141503Z">
+        <seg>Ovunque sia possibile scegliere il formato del documento, scegliete il formato ODF predefinito quando lavorate con LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
