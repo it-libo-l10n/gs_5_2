@@ -3832,6 +3832,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Save icon&lt;/f0&gt; on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194357Z" creationid="Marco Marega" creationdate="20180621T194357Z">
+        <seg>Nella barre degli strumenti Standard fate clic sull'icona &lt;f0&gt;Salva&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Start from first Slide&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Presentation toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z" creationid="luke" creationdate="20180515T090036Z">
@@ -5229,6 +5237,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085929Z" creationid="luke" creationdate="20180515T085929Z">
         <seg>Fields</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Example of LibreOffice Save As dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194542Z" creationid="Marco Marega" creationdate="20180621T194542Z">
+        <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: Esempio di finestra di dialogo Salva con nome di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -10289,6 +10305,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save As command</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194523Z" creationid="Marco Marega" creationdate="20180621T194523Z">
+        <seg>Comando Salva con nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save AutoRecovery information every __ Minutes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144231Z" creationid="manuel" creationdate="20180608T144231Z">
@@ -13635,6 +13659,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To save a document if you want to create a new document, or change the filename and/or file format, or save the file in a different location on your computer:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194719Z" creationid="Marco Marega" creationdate="20180621T194719Z">
+        <seg>Per salvare un documento creandone uno nuovo, cambiandogli il nome o il formato file, o per per salvarlo in una diversa posizione nel vostro computer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To save your changes, choose &lt;f1&gt;File &gt; Save &lt;/f1&gt;from the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155359Z" creationid="manuel" creationdate="20180615T155359Z">
@@ -14303,6 +14335,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174518Z" creationid="Elisabetta Manuele" creationdate="20180620T174518Z">
         <seg>Uso del Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Save command will overwrite the last saved version of the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194512Z" creationid="Marco Marega" creationdate="20180621T194512Z">
+        <seg>Con l'uso del comando Salva verrà sovrascritta l'ultima versione del file memorizzata.</seg>
       </tuv>
     </tu>
     <tu>
