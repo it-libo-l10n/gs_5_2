@@ -11985,6 +11985,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This deck is available only when Experimental Features is enabled in &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; and when the deck is selected in &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Sidebar Settings &gt; Customization&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T104010Z" creationid="manuel" creationdate="20180621T104010Z">
+        <seg>Questo piano è disponibile solo quando Funzionalità sperimentali è abilitato in &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; Strumenti &gt; Opzioni&gt; LibreOffice&gt; Avanzate&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; e quando il piano è selezionato in &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; Impostazioni della barra laterale &gt; Personalizzazione&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This deck is similar to the floating toolbar that can be opened from &lt;f1&gt;View &gt; Navigator&lt;/f1&gt; on the Menu bar or the &lt;f2&gt;Navigator&lt;/f2&gt; button on the Standard Toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T083252Z" creationid="manuel" creationdate="20180621T083252Z">
@@ -14862,6 +14870,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070028Z" creationid="manuel" creationdate="20180529T070028Z">
         <seg>opzione stato del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>document views</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T104023Z" creationid="manuel" creationdate="20180621T104023Z">
+        <seg>modalità di visualizzazione dei documenti</seg>
       </tuv>
     </tu>
     <tu>
