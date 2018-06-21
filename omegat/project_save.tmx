@@ -1480,8 +1480,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Manage Changes&lt;/f0&gt;: Lists all changes done in the document since the Track Changes mode was activated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T083551Z" creationid="manuel" creationdate="20180621T083551Z">
-        <seg>&lt;f0&gt;Gestisci modifiche&lt;/f0&gt;: elenca tutte le modifiche apportate nel documento poiché è stata attivata la modalità traccia cambiamenti.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T101951Z" creationid="manuel" creationdate="20180621T083551Z">
+        <seg>&lt;f0&gt;Gestisci le modifiche&lt;/f0&gt;: elenca tutte le modifiche apportate nel documento poiché è stata attivata la modalità traccia cambiamenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6514,8 +6514,8 @@
       <tuv lang="EN">
         <seg>However, the Sidebar Navigator does not contain a &lt;f3&gt;List Box On/Off&lt;/f3&gt; button.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T083350Z" creationid="manuel" creationdate="20180621T083350Z">
-        <seg>Tuttavia, il Navigatore della barra laterale non contiene un pulsante &lt;f3&gt;Attivazione/disattivazione della casella di riepilogo&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T102044Z" creationid="manuel" creationdate="20180621T083350Z">
+        <seg>Tuttavia, il Navigatore della barra laterale non contiene un pulsante &lt;f3&gt;on/off della casella di riepilogo&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
