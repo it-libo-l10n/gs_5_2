@@ -13667,6 +13667,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To restrict who can open and read a document, or open and edit the document, use password protection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T195438Z" creationid="Marco Marega" creationdate="20180621T195438Z">
+        <seg>Per decidere chi può aprire e leggere un documento, oppure aprire e modificare il documento, potete usare la protezione con password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To run a slide show, do one of the following:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z" creationid="luke" creationdate="20180515T090036Z">
@@ -14367,6 +14375,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174518Z" creationid="Elisabetta Manuele" creationdate="20180620T174518Z">
         <seg>Uso del Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Save As command above, select the &lt;f0&gt;Save with password&lt;/f0&gt; option in the Save As dialog or Save dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T195554Z" creationid="Marco Marega" creationdate="20180621T195554Z">
+        <seg>Quando usate il comando Salva con nome illustrato sopra, selezionate l'opzione &lt;f0&gt;Salva con password&lt;/f0&gt; presente nelle finestre di dialogo Salva con nome o Salva.</seg>
       </tuv>
     </tu>
     <tu>
