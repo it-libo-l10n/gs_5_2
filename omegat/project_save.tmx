@@ -3152,6 +3152,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing the password</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200736Z" creationid="Marco Marega" creationdate="20180621T200736Z">
+        <seg>Modificare la password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085837Z" creationid="luke" creationdate="20180515T082559Z">
@@ -14703,6 +14711,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190636Z" creationid="Marco Marega" creationdate="20180620T190636Z">
         <seg>Quando si apre un menu contestuale, le funzioni o le opzioni disponibili dipendono dall'oggetto selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a document is password-protected, you can change the password while the document is open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200830Z" creationid="Marco Marega" creationdate="20180621T200830Z">
+        <seg>Quando un documento è protetto da password, potete modificarne la password mentre il documento è aperto.</seg>
       </tuv>
     </tu>
     <tu>
