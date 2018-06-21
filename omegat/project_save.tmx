@@ -12722,6 +12722,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;f0&gt;move&lt;/f0&gt; (cut and paste) selected text, use &lt;f1&gt;Ctrl+X&lt;/f1&gt; to cut the text, insert the cursor at the paste-in point and use &lt;f2&gt;Ctrl+V&lt;/f2&gt; to paste.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161408Z" creationid="manuel" creationdate="20180621T161408Z">
+        <seg>Per &lt;f0&gt;spostare&lt;/f0&gt; (tagliare e incollare) il testo selezionato, usate &lt;f1&gt;Ctrl+X&lt;/f1&gt; per tagliare il testo, inserite il cursore nella posizione in cui volete incollare e usate &lt;f2&gt;Ctrl+V&lt;/f2&gt; per incollare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To &lt;f0&gt;move&lt;/f0&gt; (drag and drop) selected text using the mouse, drag it to the new location and release it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T154008Z" creationid="manuel" creationdate="20180621T154008Z">
