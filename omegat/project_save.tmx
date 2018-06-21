@@ -10545,6 +10545,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See “&lt;bf1&gt;Choosing Open and Save As dialogs&lt;/bf1&gt;” on page &lt;bf2&gt;31&lt;/bf2&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T195251Z" creationid="Marco Marega" creationdate="20180621T195251Z">
+        <seg>Per maggiori informazioni vedete “&lt;bf1&gt;Segliere le finestre di dialogo Apri e Salva come&lt;/bf1&gt;” a pagina &lt;bf2&gt;31&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See “&lt;bf1&gt;Moving toolbars&lt;/bf1&gt;” and “&lt;bf2&gt;Floating toolbars&lt;/bf2&gt;” below for more information on moving and floating these toolbars created from tool palettes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181310Z" creationid="Marco Marega" creationdate="20180620T181310Z">
@@ -12086,6 +12094,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T111227Z" creationid="manuel" creationdate="20180618T111227Z">
         <seg>La finestra di dialogo che si apre blocca il documento per la modifica fino alla chiusura della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog that opens when using the &lt;f0&gt;Save As&lt;/f0&gt; command depends on the options that have been set in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T195115Z" creationid="Marco Marega" creationdate="20180621T195115Z">
+        <seg>La finestra di dialogo che si aprirà quando usate il comando &lt;f0&gt;Salva con nome&lt;/f0&gt; dipende dalle opzioni che avete impostato in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
