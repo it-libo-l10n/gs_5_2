@@ -12113,6 +12113,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This tab is available only when &lt;f2&gt;Enable experimental features&lt;/f2&gt; has been selected in &lt;f3&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T103155Z" creationid="manuel" creationdate="20180621T103155Z">
+        <seg>Questa scheda è disponibile solo quando &lt;f2&gt;Abilita funzioni sperimentali&lt;/f2&gt; è stato selezionato in &lt;f3&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thousands separation of large numbers</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T114106Z" creationid="manuel" creationdate="20180609T114106Z">
