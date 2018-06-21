@@ -13970,6 +13970,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also choose &lt;f0&gt;View &gt; Zoom &gt; Zoom&lt;/f0&gt; from the menu bar to display the &lt;i1/&gt;&lt;i2/&gt;Zoom &amp; View Layout dialog, where you can set the same options as on the Status Bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T104939Z" creationid="manuel" creationdate="20180621T104939Z">
+        <seg>Potete anche selezionare &lt;f0&gt;Visualizza &gt; Zoom &gt; Zoom &lt;/f0&gt; dalla barra dei menu per aprire la finestra di dialogo &lt;i1/&gt;&lt;i2/&gt;Zoom e Layout visualizzazione, in cui potete impostare le opzioni analogamente alla Barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also dock a floating toolbar by holding down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and double-clicking in the title bar of the toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T182523Z" creationid="Marco Marega" creationdate="20180620T182523Z">
