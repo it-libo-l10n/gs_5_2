@@ -6017,6 +6017,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you choose &lt;f0&gt;Text documents&lt;/f0&gt; as the file type, you will only see documents Writer can open (including &lt;f1&gt;.odt&lt;/f1&gt;, &lt;f2&gt;.doc&lt;/f2&gt;, &lt;f3&gt;.txt&lt;/f3&gt;); if you choose &lt;f4&gt;Spreadsheets&lt;/f4&gt;, you will see &lt;f5&gt;.ods&lt;/f5&gt;, &lt;f6&gt;.xls&lt;/f6&gt;, and other files that Calc opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192446Z" creationid="Marco Marega" creationdate="20180621T192446Z">
+        <seg>Ad esempio, se come tipo di file scegliete &lt;f0&gt;Documenti di testo&lt;/f0&gt;, vedrete solo i documenti che possono essere aperti da Writer (che comprendono &lt;f1&gt;.odt&lt;/f1&gt;, &lt;f2&gt;.doc&lt;/f2&gt;, &lt;f3&gt;.txt&lt;/f3&gt;); se scegliete &lt;f4&gt;Foglio elettronico&lt;/f4&gt;, vedrete i file &lt;f5&gt;.ods&lt;/f5&gt;, &lt;f6&gt;.xls&lt;/f6&gt;, ed altri che Calc è in grado di aprire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you restarted page numbering at 1 on the third page, its page number is 1 and its sequence number is 3.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T162501Z" creationid="manuel" creationdate="20180616T162501Z">
@@ -7925,6 +7933,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160505Z" creationid="manuel" creationdate="20180615T160505Z">
         <seg>Nella finestra di dialogo Gestione estensioni, fate clic su &lt;f1&gt;Aggiungi&lt;/f1&gt; per aprire una finestra di esplorazione file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Open dialog, you can reduce the list of files by selecting the type of file you are looking for.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192232Z" creationid="Marco Marega" creationdate="20180621T192232Z">
+        <seg>Nella finestra di dialogo Apri, potete restringere l'elenco dei file scegliendo il tipo di file che state cercando.</seg>
       </tuv>
     </tu>
     <tu>
