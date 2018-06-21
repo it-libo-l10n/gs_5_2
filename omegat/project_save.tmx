@@ -1950,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A checkmark will appear next to the option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T134630Z" creationid="manuel" creationdate="20180621T134630Z">
+        <seg>Un segno di spunta apparirà accanto all'opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A common scenario is to have &lt;i0/&gt;a &lt;i1/&gt;landscape page in the middle of a document, whereas the other pages are in a portrait orientation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144738Z" creationid="manuel" creationdate="20180616T144738Z">
@@ -9056,6 +9064,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once this option is activated, white space is also hidden in Full Screen view.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T134706Z" creationid="manuel" creationdate="20180621T134706Z">
+        <seg>Una volta attivata questa opzione, lo spazio bianco è nascosto anche nella visualizzazione Schermo intero.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have created the macro in the LibreOffice Basic IDE, it appears in the source text of the HTML document in the header.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164101Z" creationid="manuel" creationdate="20180608T164101Z">
@@ -12589,6 +12605,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073444Z" creationid="manuel" creationdate="20180531T073444Z">
         <seg>Per fare ciò, è necessario modificare il modello predefinito per i documenti, come descritto nel Capitolo 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do this, choose &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;View &gt; Hide Whitespace&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T134611Z" creationid="manuel" creationdate="20180621T134611Z">
+        <seg>Per fare ciò, scegliete &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Visualizza &gt; Nascondi  spazi bianchi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; dalla barra menu.</seg>
       </tuv>
     </tu>
     <tu>
