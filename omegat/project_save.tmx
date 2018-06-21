@@ -6625,6 +6625,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;File &gt; Properties &gt; General&lt;/f0&gt; on the Menu bar and click the &lt;f1&gt;Change Password&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200924Z" creationid="Marco Marega" creationdate="20180621T200924Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;File &gt; Proprietà &gt; Generale&lt;/f0&gt; e fate clic sul pulsante &lt;f1&gt;Modifica Password&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194806Z" creationid="Marco Marega" creationdate="20180621T194806Z">
@@ -10441,6 +10449,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving documents automatically</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T201043Z" creationid="Marco Marega" creationdate="20180621T201043Z">
+        <seg>Salvare automaticamente i documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving in ODF format gives you the option to redo the document if the recipient of your document experiences trouble with the Microsoft format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143504Z" creationid="manuel" creationdate="20180621T143504Z">
@@ -12998,6 +13014,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064757Z" creationid="manuel" creationdate="20180614T064757Z">
         <seg>Il nuovo stile viene applicato soltanto al documento attuale e non viene salvato nel modello di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This opens the Set Password dialog where you can enter a new password.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T201005Z" creationid="Marco Marega" creationdate="20180621T201005Z">
+        <seg>In questo modo si aprirà la finestra di dialogo Imposta la Password nella quale potrete inserire una nuova password.</seg>
       </tuv>
     </tu>
     <tu>
