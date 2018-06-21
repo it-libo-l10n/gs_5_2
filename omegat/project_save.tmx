@@ -10937,6 +10937,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specifying the language in character and paragraph styles can be problematic unless you use a particular style for a different language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T145136Z" creationid="manuel" creationdate="20180621T145136Z">
+        <seg>Specificare la lingua negli stili di carattere e paragrafo può essere problematico a meno che non utilizziate uno stile particolare per una lingua diversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Speeding up data entry</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181631Z" creationid="Elisabetta Manuele" creationdate="20180620T181631Z">
