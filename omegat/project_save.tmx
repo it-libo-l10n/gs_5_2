@@ -12537,6 +12537,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To exit Full Screen view and return to either &lt;f0&gt;Normal&lt;/f0&gt; or Web view, press the &lt;f1&gt;Esc&lt;/f1&gt; key or &lt;f2&gt;toggle&lt;/f2&gt; the Full Screen &lt;f3&gt;button on the floating toolbar&lt;/f3&gt; in the top left-hand corner.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T105636Z" creationid="manuel" creationdate="20180621T105636Z">
+        <seg>Per uscire dalla visualizzazione Schermo intero e ritornare alla visualizzazione &lt;f0&gt;Normale&lt;/f0&gt; o Web premete il tasto &lt;f1&gt;Esc&lt;/f1&gt; oppure &lt;f2&gt;fate&lt;/f2&gt; clic sul pulsante Schermo intero della barra strumenti mobili nell'angolo in alto a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To exit the slide show at any time including when the slide show has ended, press the &lt;f0&gt;Esc&lt;/f0&gt; key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090039Z" creationid="luke" creationdate="20180515T090039Z">
