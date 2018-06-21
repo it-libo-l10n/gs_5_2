@@ -3784,6 +3784,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Paste&lt;/f0&gt; button without releasing the left mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T163027Z" creationid="manuel" creationdate="20180621T163027Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Incolla&lt;/f0&gt; senza rilasciare il tasto sinistro del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Start from first Slide&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Presentation toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z" creationid="luke" creationdate="20180515T090036Z">
@@ -3796,6 +3804,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071425Z" creationid="manuel" creationdate="20180614T071425Z">
         <seg>Fate clic sul pulsante &lt;f1&gt;Da file&lt;/f1&gt; per aprire una finestra dalla quale selezionare il documento richiesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the arrow button of the combination &lt;f0&gt;Paste&lt;/f0&gt; button, or</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T162830Z" creationid="manuel" creationdate="20180621T162830Z">
+        <seg>Fate clic sul pulsante freccia del pulsante combinato &lt;f0&gt;Incolla&lt;/f0&gt;, o</seg>
       </tuv>
     </tu>
     <tu>
