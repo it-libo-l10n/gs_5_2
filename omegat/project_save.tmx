@@ -4329,6 +4329,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cutting and &lt;i0/&gt;copying text in Writer is similar to cutting and copying text in other applications.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153811Z" creationid="manuel" creationdate="20180621T153811Z">
+        <seg>Il modo in cui si taglia e &lt;i0/&gt;copia testo con Writer è simile a quello usato in altre applicazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cutting, copying, and pasting text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153755Z" creationid="manuel" creationdate="20180621T153755Z">
+        <seg>Tagliare, copiare e incollare testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dan Lewis</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170051Z" creationid="Elisabetta Manuele" creationdate="20180620T170051Z">
@@ -5605,6 +5621,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152444Z" creationid="manuel" creationdate="20180621T152444Z">
         <seg>Figura &lt;seq0&gt;67&lt;/seq0&gt;: selezionare elementi non consecutivi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;68&lt;/seq0&gt;: Selection icon</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153732Z" creationid="manuel" creationdate="20180621T153732Z">
+        <seg>Figura &lt;seq0&gt;68&lt;/seq0&gt;: icona di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;69&lt;/seq0&gt;: Selecting a vertical block of text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153750Z" creationid="manuel" creationdate="20180621T153750Z">
+        <seg>Figura &lt;seq0&gt;69&lt;/seq0&gt;: selezione di una porzione verticale di testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -9037,6 +9069,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100252Z" creationid="manuel" creationdate="20180606T100252Z">
         <seg>Notate che è possibile&lt;f2&gt; &lt;/f2&gt;modificare l'elenco dei colori disponibili seguendo quanto descritto in “&lt;bf1&gt;Opzioni del colore&lt;/bf1&gt;” a pagina &lt;bf2&gt;42&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now highlight the selection, using mouse or keyboard, as shown below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153738Z" creationid="manuel" creationdate="20180621T153738Z">
+        <seg>Ora è possibile evidenziare la selezione, utilizzando il mouse o la tastiera, come mostrato sotto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12874,6 +12914,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change to block selection mode, use &lt;f0&gt;Edit &gt; Selection Mode &gt; Block Area&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+F8&lt;/f1&gt;, or click on the &lt;f2&gt;Selection&lt;/f2&gt; icon in the Status Bar and select &lt;f3&gt;Block selection&lt;/f3&gt; from the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153643Z" creationid="manuel" creationdate="20180621T153643Z">
+        <seg>Per passare alla modalità di selezione a blocchi, usate &lt;f0&gt;Modifica &gt; Modo selezione &gt; Area blocco&lt;/f0&gt;, oppure premete &lt;f1&gt;Ctrl+F8&lt;/f1&gt;, oppure ancora fate clic sull'icona &lt;f2&gt;Selezione&lt;/f2&gt; nella barra di stato e scegliete &lt;f3&gt;Selezione a blocchi&lt;/f3&gt; dall'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To choose a different page style or slide design, right-click on this field and select from the list that pops up.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191633Z" creationid="Marco Marega" creationdate="20180620T191633Z">
@@ -15123,6 +15171,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can use the mouse or the keyboard for these operations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153816Z" creationid="manuel" creationdate="20180621T153816Z">
+        <seg>Per queste operazioni potete usare il mouse o la tastiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can use the styles as provided, modify them, or create new styles, as described in this chapter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144747Z" creationid="manuel" creationdate="20180611T144747Z">
@@ -15447,6 +15503,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072458Z" creationid="manuel" creationdate="20180609T072458Z">
         <seg>Disposizione testo complesso (CTL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>copy and paste</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153757Z" creationid="manuel" creationdate="20180621T153757Z">
+        <seg>copiare e incollare</seg>
       </tuv>
     </tu>
     <tu>
