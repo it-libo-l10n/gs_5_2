@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Gallery&lt;/f0&gt;: Add images and diagrams included in the Gallery themes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T082559Z" creationid="manuel" creationdate="20180621T082559Z">
+        <seg>&lt;f0&gt;Galleria&lt;/f0&gt;: aggiunge immagini e diagrammi inclusi nei temi della Galleria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Getting Started&lt;/f0&gt; Guide</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T111943Z" creationid="luke" creationdate="20180515T082726Z">
