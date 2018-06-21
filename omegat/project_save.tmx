@@ -6504,6 +6504,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, the Sidebar Navigator does not contain a &lt;f3&gt;List Box On/Off&lt;/f3&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T083350Z" creationid="manuel" creationdate="20180621T083350Z">
+        <seg>Tuttavia, il Navigatore della barra laterale non contiene un pulsante &lt;f3&gt;Attivazione/disattivazione della casella di riepilogo&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, when the computer is restarted, Quickstarter will be loaded again.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212140Z" creationid="Marco Marega" creationdate="20180616T212140Z">
@@ -11949,6 +11957,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144204Z" creationid="manuel" creationdate="20180608T144204Z">
         <seg>Ciò potrebbe fare in modo che un documento venga stampato su una stampante distante (magari in una impostazione di ufficio), se non modificate la stampante manualmente nella finestra di dialogo Stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This deck is similar to the floating toolbar that can be opened from &lt;f1&gt;View &gt; Navigator&lt;/f1&gt; on the Menu bar or the &lt;f2&gt;Navigator&lt;/f2&gt; button on the Standard Toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T083252Z" creationid="manuel" creationdate="20180621T083252Z">
+        <seg>Questo piano è simile alla barra degli strumenti mobile che può essere aperta da &lt;f1&gt;Visualizza &gt; Navigatore&lt;/f1&gt; nella barra dei menu o dal pulsante &lt;f2&gt;Navigatore&lt;/f2&gt; nella barra degli strumenti standard.</seg>
       </tuv>
     </tu>
     <tu>
