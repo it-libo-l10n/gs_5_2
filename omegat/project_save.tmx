@@ -11969,6 +11969,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This deck is an alternate view of the Manage Changes dialog that can be opened from &lt;f1&gt;Edit &gt; Track Changes &gt; Manage Changes&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T101800Z" creationid="manuel" creationdate="20180621T101800Z">
+        <seg>Questo piano è una vista alternativa della finestra di dialogo Gestisci le modifiche che può essere aperta da &lt;f1&gt;Modifica &gt; Traccia le modifiche&gt; Gestisci le modifiche &lt;/ f1&gt; nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This deck is similar to the floating toolbar that can be opened from &lt;f1&gt;View &gt; Navigator&lt;/f1&gt; on the Menu bar or the &lt;f2&gt;Navigator&lt;/f2&gt; button on the Standard Toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T083252Z" creationid="manuel" creationdate="20180621T083252Z">
