@@ -3841,6 +3841,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Find All&lt;/f0&gt; button to select all instances of the search term within the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T095223Z" creationid="manuel" creationdate="20180622T095201Z">
+        <seg>Fate clic su pulsante &lt;f0&gt;Cerca tutto&lt;/f0&gt; per selezionare tutte le occorrenze del termine inserito all'interno del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Macro Security&lt;/f0&gt; button to open the &lt;i1/&gt;Macro Security dialog (not shown here), where you can adjust the security level for executing macros and specify trusted sources.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073032Z" creationid="manuel" creationdate="20180606T073032Z">
