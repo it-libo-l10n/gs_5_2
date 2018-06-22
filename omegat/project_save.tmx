@@ -10778,6 +10778,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f1&gt;Match Case&lt;/f1&gt; to find only the instances that exactly match the search term.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T095356Z" creationid="manuel" creationdate="20180622T095356Z">
+        <seg>Selezionate &lt;f1&gt;Ricerca esatta&lt;/f1&gt; per trovare solo le istanze che corrispondono esattamente al termine di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f1&gt;Tools &gt; Extension Manager&lt;/f1&gt;, select the English spelling dictionaries and click the &lt;f2&gt;Options&lt;/f2&gt; button to reveal the menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T100038Z" creationid="manuel" creationdate="20180609T100038Z">
