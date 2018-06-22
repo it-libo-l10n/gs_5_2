@@ -3513,6 +3513,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Insert &gt; Special Character&lt;/f0&gt; or click on the Special Character icon in the main toolbar to open the Special Characters dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105555Z" creationid="manuel" creationdate="20180622T105555Z">
+        <seg>Scegliete &lt;f0&gt;Inserisci &gt; Carattere speciale&lt;/f0&gt; oppure fate clic sull'icona Carattere speciale nella barra degli strumenti principale per aprire la finestra di dialogo Caratteri speciali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose spelling options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170004Z" creationid="manuel" creationdate="20180608T170004Z">
