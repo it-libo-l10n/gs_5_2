@@ -10954,6 +10954,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the button to the right of Match Case (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) to open the Find &amp; Replace dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T100851Z" creationid="manuel" creationdate="20180622T100851Z">
+        <seg>Seleziona il pulsante a destra di Maiuscole / minuscole (&lt;df2&gt; &lt;di3 /&gt; &lt;/ df2&gt;) per aprire la finestra di dialogo Trova e sostituisci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the color to modify from the list or the color table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070212Z" creationid="manuel" creationdate="20180531T070212Z">
