@@ -3601,6 +3601,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choosing &lt;bs0/&gt;Open and Save As dialogs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203619Z" creationid="Marco Marega" creationdate="20180622T203619Z">
+        <seg>Scegliere le finestre di dialogo &lt;bs0/&gt;Apri e Salva con nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choosing &lt;i0/&gt;options for all of LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083208Z" creationid="manuel" creationdate="20180528T083208Z">
@@ -7999,6 +8007,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091231Z" creationid="manuel" creationdate="20180609T091231Z">
         <seg>Se utilizzate &lt;i0/&gt;un dizionario personalizzato che include parole in maiuscolo e parole con numeri (per esempio AS/400), selezionate &lt;f1&gt;Controlla parole maiuscole&lt;/f1&gt; e &lt;f2&gt;Controlla parole con numeri&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you use your computer system’s dialogs, you can move files only to and from &lt;bk0/&gt;mounted file systems on the local computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203915Z" creationid="Marco Marega" creationdate="20180622T203915Z">
+        <seg>Se usate le finestre di dialogo del sistema del vostro computer, potete spostare i file solo verso e da &lt;bk0/&gt;file system montati sul computer locale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16145,6 +16161,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140027Z" creationid="manuel" creationdate="20180612T134507Z">
         <seg>È possibile visualizzare tutti gli stili oppure soltanto alcuni gruppi, ad esempio gli stili personali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can choose whether to use the LibreOffice Open and Save As dialogs or the ones provided by your operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203717Z" creationid="Marco Marega" creationdate="20180622T203717Z">
+        <seg>Potete scegliere se usare le finestre di dialogo Apri e Salva con nome di LibreOffice, oppure quelle fornite dal vostro sistema operativo.</seg>
       </tuv>
     </tu>
     <tu>
