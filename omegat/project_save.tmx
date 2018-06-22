@@ -7571,6 +7571,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you click &lt;f0&gt;Find All&lt;/f0&gt;, LibreOffice selects all instances of the search text in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103754Z" creationid="manuel" creationdate="20180622T103754Z">
+        <seg>Se fate clic su &lt;f0&gt;Trova tutto&lt;/f0&gt;, LibreOffice selezionerà tutte le occorrenze della ricerca nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you click on the &lt;f1&gt;Paste&lt;/f1&gt; button, any formatting the text has (such as bold or italics) is retained.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161626Z" creationid="manuel" creationdate="20180621T161626Z">
@@ -11415,6 +11423,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071613Z" creationid="manuel" creationdate="20180618T071613Z">
         <seg>Barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, if you click &lt;f1&gt;Replace All&lt;/f1&gt;, LibreOffice replaces all matches, &lt;f2&gt;without stopping for you to accept each instance&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103914Z" creationid="manuel" creationdate="20180622T103914Z">
+        <seg>Allo stesso modo, se fate clic su &lt;f1&gt;Sostituisci tutto&lt;/f1&gt;, LibreOffice sostituirà tutte le occorrenze,&lt;f2&gt; senza chiedere conferma per ogni sostituzione&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
