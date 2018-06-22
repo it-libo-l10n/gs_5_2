@@ -1831,6 +1831,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Up One Level&lt;/f0&gt; – moves up one folder in the folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204829Z" creationid="Marco Marega" creationdate="20180622T204829Z">
+        <seg>&lt;f0&gt;Sali di un Livello&lt;/f0&gt; – si sposta alla cartella superiore nella gerarchia delle cartelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for controlling the display of the document such as Zoom and Web Layout.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214755Z" creationid="Marco Marega" creationdate="20180616T214755Z">
@@ -3853,6 +3861,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071347Z" creationid="manuel" creationdate="20180618T071347Z">
         <seg>Fate clic sulle icone per impostare il layout di visualizzazione pagina singola, fianco a fianco e libro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click and hold the mouse button on this icon to display a drop down a list of higher level folders.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T205008Z" creationid="Marco Marega" creationdate="20180622T205008Z">
+        <seg>Fate clic su quest'icona e tenete premuto il pulsante del mouse per visualizzare una lista a comparsa delle cartelle superiori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9631,6 +9647,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085527Z" creationid="manuel" creationdate="20180530T085527Z">
         <seg>Posizionamento del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the cursor over a higher level folder and release the mouse button to navigate to that folder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T205124Z" creationid="Marco Marega" creationdate="20180622T205124Z">
+        <seg>Portate il cursore sopra ad una cartella di livello superiore e rilasciate il pulsante del mouse per spostarvi in quella cartella</seg>
       </tuv>
     </tu>
     <tu>
