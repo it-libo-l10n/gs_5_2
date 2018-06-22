@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13528,6 +13528,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151923Z" creationid="manuel" creationdate="20180621T151923Z">
         <seg>Per &lt;i0/&gt;selezionare&lt;i1/&gt; elementi non consecutivi usando il mouse (come mostrato in Figura&lt;t2&gt;67&lt;/t2&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access remote servers, you must use LibreOffice Open and Save dialogs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T124318Z" creationid="Marco Marega" creationdate="20180622T124318Z">
+        <seg>Per accedere ai server remoti, dovete usare le finestre di dialogo Apri e Salva di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
