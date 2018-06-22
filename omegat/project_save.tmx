@@ -5908,16 +5908,16 @@
       <tuv lang="EN">
         <seg>Find and replace paragraph styles</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165823Z" creationid="manuel" creationdate="20180621T165823Z">
-        <seg>Cercare e sostituire stili di paragrafo</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101128Z" creationid="manuel" creationdate="20180621T165823Z">
+        <seg>Trovare e sostituire stili di paragrafo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Find and replace specific attributes or formatting</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165819Z" creationid="manuel" creationdate="20180621T165819Z">
-        <seg>Cercare e sostituire attributi o formattazioni specifiche</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101121Z" creationid="manuel" creationdate="20180621T165819Z">
+        <seg>Trovare e sostituire attributi o formattazioni specifiche</seg>
       </tuv>
     </tu>
     <tu>
@@ -14542,8 +14542,8 @@
       <tuv lang="EN">
         <seg>Using the Find toolbar</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165826Z" creationid="manuel" creationdate="20180621T165826Z">
-        <seg>Uso della barra degli strumenti Cerca</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101143Z" creationid="manuel" creationdate="20180621T165826Z">
+        <seg>Uso della barra degli strumenti Trova</seg>
       </tuv>
     </tu>
     <tu>
@@ -15230,8 +15230,8 @@
       <tuv lang="EN">
         <seg>Writer has two ways to find text within a document: the Find toolbar for fast searching and the Find &amp; Replace dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165325Z" creationid="manuel" creationdate="20180621T165325Z">
-        <seg>In Writer esistono due modi per trovare del testo in un documento: la barra degli strumenti Cerca per la ricerca veloce e la finestra di dialogo Cerca e sostituisci.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101106Z" creationid="manuel" creationdate="20180621T165325Z">
+        <seg>In Writer esistono due modi per trovare del testo in un documento: la barra degli strumenti di Trova per la ricerca veloce e la finestra di dialogo Trova e sostituisci.</seg>
       </tuv>
     </tu>
     <tu>
