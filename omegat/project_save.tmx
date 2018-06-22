@@ -2471,6 +2471,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also provided is a grammar checker, which can be used separately or in combination with the spelling checker.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134704Z" creationid="manuel" creationdate="20180622T134704Z">
+        <seg>È anche disponibile un correttore grammaticale, che può essere usato separatamente o in combinazione con il correttore ortografico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085801Z" creationid="luke" creationdate="20180515T085801Z">
@@ -15809,6 +15817,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160525Z" creationid="manuel" creationdate="20180616T160525Z">
         <seg>Writer è l'elaboratore di testi di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer provides &lt;i0/&gt;a spelling checker, which checks to see if each word in the document is in the installed dictionar&lt;f1&gt;y&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134633Z" creationid="manuel" creationdate="20180622T134633Z">
+        <seg>Writer dispone &lt;i0/&gt;di un correttore ortografico, che verifica se ciascuna parola nel documento è presente nel dizionario installato&lt;f1&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
