@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3721,6 +3721,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122832Z" creationid="Marco Marega" creationdate="20180622T122832Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Save.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143144Z" creationid="manuel" creationdate="20180621T143144Z">
@@ -6379,6 +6387,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you can work on a document in the office during the day and edit it at home for last-minute changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123130Z" creationid="Marco Marega" creationdate="20180622T123130Z">
+        <seg>Ad esempio, durante il giorno potete lavorare su di un documento in ufficio e poi modificarlo da casa per modifiche dell'ultimo momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you could define a &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Heading 1&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; paragraph to be followed by a &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Text Body&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; paragraph.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164837Z" creationid="manuel" creationdate="20180615T164837Z">
@@ -8763,6 +8779,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keeping files on remote servers allows you to work with the documents using different computers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123011Z" creationid="Marco Marega" creationdate="20180622T123011Z">
+        <seg>Conservare i file su server remoti vi consente di lavorare con i documenti usando diversi computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyboard shortcuts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155830Z" creationid="manuel" creationdate="20180611T155830Z">
@@ -8807,6 +8831,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155913Z" creationid="manuel" creationdate="20180611T155913Z">
         <seg>LibreOffice 5.1 ha aggiunto un nuovo menu per facilitare l'uso degli stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice 5.&lt;f0&gt;2&lt;/f0&gt; can open and save files stored on remote servers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122911Z" creationid="Marco Marega" creationdate="20180622T122911Z">
+        <seg>LibreOffice 5.&lt;f0&gt;2&lt;/f0&gt; può aprire e salvare file memorizzati su server remoti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10955,6 +10987,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Save AutoRecovery information every&lt;/f0&gt; and set the time interval.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122826Z" creationid="Marco Marega" creationdate="20180622T122826Z">
+        <seg>Selezionate &lt;f0&gt;Salva impostazioni di ripristino automatico ogni&lt;/f0&gt; e impostate l'intervallo di tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;View &gt; Styles and Formatting&lt;/f0&gt; or &lt;f1&gt;Styles &gt; Styles and Formatting&lt;/f1&gt; from the Menu bar, or press &lt;f2&gt;F11&lt;/f2&gt; (&lt;f3&gt;⌘+T &lt;/f3&gt;on a Mac), or click the Styles and Formatting tab in the Sidebar (&lt;f4&gt;View &gt; Sidebar&lt;/f4&gt; to open it).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161301Z" creationid="manuel" creationdate="20180611T161301Z">
@@ -11683,6 +11723,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some servers are also able to check-in and check-out files, thus controlling their usage and access.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123611Z" creationid="Marco Marega" creationdate="20180622T123611Z">
+        <seg>Alcuni server sono anche in grado di controllare il caricamento e lo scaricamento dei file, controllandone di conseguenza il loro uso e l'accesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes a change here can have unexpected results, depending on the screen fonts available on your system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084107Z" creationid="manuel" creationdate="20180530T084107Z">
@@ -11807,6 +11855,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190808Z" creationid="Marco Marega" creationdate="20180620T190808Z">
         <seg>Barra di stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Storing files on a remote server also backs up documents from computer loss or hard disk failure.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123306Z" creationid="Marco Marega" creationdate="20180622T123306Z">
+        <seg>Salvare i file su di un server remoto crea anche copie di back up dei documenti utili in caso di perdita del computer o di guasto del disco rigido.</seg>
       </tuv>
     </tu>
     <tu>
