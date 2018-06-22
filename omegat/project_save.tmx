@@ -1775,6 +1775,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Server&lt;/f0&gt; – the File Services dialog opens, where you can connect to a network server if the file you want is not located on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204702Z" creationid="Marco Marega" creationdate="20180622T204702Z">
+        <seg>&lt;f0&gt;Server&lt;/f0&gt; – apre la finestra di dialogo Servizi di file, attraverso la quale, nel caso in cui il file desiderato non si trovi sul vostro computer, potete collegarvi ad un server in rete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Styles and Formatting&lt;/f0&gt;: Manage the styles used in the document, apply existing styles, create new ones or modify them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T082421Z" creationid="manuel" creationdate="20180621T082421Z">
@@ -2571,6 +2579,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093050Z" creationid="manuel" creationdate="20180606T093050Z">
         <seg>È possibile vedere un esempio nella Figura &lt;t5&gt;29&lt;/t5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An example of a LibreOffice dialog is shown in Figure &lt;t0&gt;10&lt;/t0&gt; on page &lt;t1&gt;28&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204305Z" creationid="Marco Marega" creationdate="20180622T204305Z">
+        <seg>Un esempio di una finestra di dialogo di LibreOffice è mostrato nella Figura &lt;t0&gt;10&lt;/t0&gt; a pagina &lt;t1&gt;28&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7007,6 +7023,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
         <seg>Go to &lt;f0&gt;View &gt; Slide Sorter&lt;/f0&gt; on the Menu bar or click the Slide Sorter tab at the top of the Workspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f3&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f3&gt; and select or deselect the option &lt;f4&gt;Use LibreOffice dialogs&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204228Z" creationid="Marco Marega" creationdate="20180622T204228Z">
+        <seg>Andate in &lt;f3&gt;Strumenti &gt; Opzioni&gt; LibreOffice &gt; Generale&lt;/f3&gt; e selezionate o deselezionate l'opzione &lt;f4&gt;Utilizza finestre di dialogo LibreOffice&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13240,6 +13264,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T154030Z" creationid="manuel" creationdate="20180621T154030Z">
         <seg>Il testo mantiene la formattazione precedente al trascinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The three icons in the top right of these dialogs are as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204401Z" creationid="Marco Marega" creationdate="20180622T204401Z">
+        <seg>Le tre icone in alto a destra di queste finestre di dialogo sono le seguenti:</seg>
       </tuv>
     </tu>
     <tu>
