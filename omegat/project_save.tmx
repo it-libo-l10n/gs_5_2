@@ -7275,6 +7275,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Find toolbar is open, click the Find &lt;f2&gt;&amp;&lt;/f2&gt; Replace button (&lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;) on the toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T102725Z" creationid="manuel" creationdate="20180622T102725Z">
+        <seg>Se la barra degli strumenti Trova è aperta, fate clic sul pulsante Trova &lt;f2&gt;e&lt;/f2&gt; sostituisci (&lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;) sulla barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Options dialog is not already open, click &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142648Z" creationid="manuel" creationdate="20180608T142648Z">
@@ -13552,6 +13560,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T213231Z" creationid="luke" creationdate="20180515T082602Z">
         <seg>Per visualizzare o nascondere le barre degli strumenti, nella barra del Menu andate in &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt;, quindi fate clic sul nome di una delle barre degli strumenti presenti nell'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To display the Find &amp; Replace dialog, use the keyboard shortcut &lt;f0&gt;Ctrl+H&lt;/f0&gt; or choose &lt;f1&gt;Edit &gt; Find &amp; Replace&lt;/f1&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T102541Z" creationid="manuel" creationdate="20180622T102541Z">
+        <seg>Per visualizzare la finestra di dialogo Trova e sostituisci, usate i tasti di scelta rapida &lt;f0&gt;Ctrl+H&lt;/f0&gt; oppure scegliete &lt;f1&gt;Modifica &gt; Trova e sostituisci&lt;/f1&gt; dalla barra menu.</seg>
       </tuv>
     </tu>
     <tu>
