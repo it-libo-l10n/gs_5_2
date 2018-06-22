@@ -3865,6 +3865,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Navigate by&lt;/f0&gt; button to open the Navigator and the Navigation toolbar, which are described in “&lt;bf1&gt;Moving quickly through a document&lt;/bf1&gt;” &lt;f2&gt;on page &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;87&lt;/bf4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101803Z" creationid="manuel" creationdate="20180622T101803Z">
+        <seg>Fai clic sul pulsante &lt;f0&gt;Naviga da&lt;/f0&gt; per aprire il Navigatore e la barra di navigazione, descritti in "&lt;bf1&gt;Spostamento rapido lungo un documento&lt;/bf1&gt;" &lt;f2&gt;a pagina &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;87&lt;/bf4&gt;&lt;/f3&gt;.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Options&lt;/f0&gt; button to open a separate dialog with specific choices (Figure &lt;t1&gt;27&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080411Z" creationid="manuel" creationdate="20180531T080411Z">
