@@ -2127,6 +2127,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A mistake with &lt;f2&gt;Replace All&lt;/f2&gt; might require a manual, word-by-word, search to fix.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T104338Z" creationid="manuel" creationdate="20180622T104338Z">
+        <seg>Potrebbe essere necessaria una ricerca manuale, parola per parola, per eliminare un errore commesso con &lt;f2&gt;Sostituisci tutto&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A more complex example would be: &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Title&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; followed by &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Author&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; followed by &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Abstract&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; followed by &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Heading 1&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; followed by &lt;/f21&gt;&lt;f22&gt;&lt;f23&gt;Text Body&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164801Z" creationid="manuel" creationdate="20180615T164801Z">
@@ -8419,6 +8427,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inserting special characters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T104340Z" creationid="manuel" creationdate="20180622T104340Z">
+        <seg>Inserimento di caratteri speciali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Install the required &lt;i0/&gt;dictionaries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170022Z" creationid="manuel" creationdate="20180608T170022Z">
@@ -14309,6 +14325,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;f0&gt;Replace All&lt;/f0&gt; with caution; otherwise, you may end up with some highly embarrassing &lt;f1&gt;(and often hilarious&lt;/f1&gt;) mistakes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T104302Z" creationid="manuel" creationdate="20180622T104302Z">
+        <seg>La funzione &lt;f0&gt;Sostituisci tutto&lt;/f0&gt; deve essere utilizzata con cautela; altrimenti, si possono verificare errori altamente imbarazzanti &lt;f1&gt;( e spesso divertenti&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;i0/&gt;the &lt;f1&gt;LibreOffice – Security&lt;/f1&gt; page to choose security options for saving documents and for opening documents that contain macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080341Z" creationid="manuel" creationdate="20180531T080341Z">
@@ -17049,6 +17073,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090017Z" creationid="luke" creationdate="20180515T090017Z">
         <seg>presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>special characters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T104345Z" creationid="manuel" creationdate="20180622T104345Z">
+        <seg>caratteri speciali</seg>
       </tuv>
     </tu>
     <tu>
