@@ -1775,6 +1775,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;o&lt;/f1&gt;ther &lt;f2&gt;o&lt;/f2&gt;ptions include searching only in selected text, searching from the current cursor position backwards toward the beginning of the file, searching for similar words, &lt;f3&gt;and searching in comments&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103457Z" creationid="manuel" creationdate="20180622T103457Z">
+        <seg>&lt;f0&gt;Le&lt;/f0&gt; &lt;f1&gt;altre&lt;/f1&gt; &lt;f2&gt;opzioni&lt;/f2&gt; includono la ricerca solo nel testo selezionato, la ricerca dalla posizione corrente del cursore all'indietro verso l'inizio del file, la ricerca di parole simili, &lt;f3&gt;e la ricerca nei commenti&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Table&lt;/f0&gt; – contains commands to insert and edit a table in a text document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215210Z" creationid="Marco Marega" creationdate="20180616T215210Z">
@@ -6423,6 +6431,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203218Z" creationid="Marco Marega" creationdate="20180607T203218Z">
         <seg>Per maggiori informazioni sull'apertura dei file, vedete “&lt;bf0&gt;Apertura di documenti esistenti&lt;/bf0&gt;” a pagina &lt;bf1&gt;27&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on using Find &amp; Replace, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103726Z" creationid="manuel" creationdate="20180622T103726Z">
+        <seg>Per maggiori informazioni sull'utilizzo di Trova e sostituisci, vedere la &lt;/f0&gt;Guida a Writer&lt;f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13885,6 +13901,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To replace the found text, click &lt;f3&gt;Replace.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103639Z" creationid="manuel" creationdate="20180622T103639Z">
+        <seg>Per sostituire il testo trovato, fate clic su &lt;f3&gt;Sostituisci&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To replace the text with different text, type the new text in the &lt;f0&gt;Replace&lt;/f0&gt; box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103232Z" creationid="manuel" creationdate="20180622T103232Z">
@@ -15073,6 +15097,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065543Z" creationid="manuel" creationdate="20180618T065543Z">
         <seg>Facendo clic sul campo un menu contestuale mostra le opzioni disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have set up your search, click &lt;f0&gt;Find &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Next&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103611Z" creationid="manuel" creationdate="20180622T103611Z">
+        <seg>Quando i parametri di ricerca sono stati impostati, fate clic su &lt;f0&gt;Trova &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;successivo&lt;/f2&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
