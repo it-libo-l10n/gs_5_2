@@ -14389,6 +14389,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To provide &lt;bk1/&gt;additional opportunities such as working with &lt;bk2/&gt;cloud or remote servers, and searching by versions, switch to using LibreOffice dialogs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204122Z" creationid="Marco Marega" creationdate="20180622T204122Z">
+        <seg>Per ottenere &lt;bk1/&gt;opportunità aggiuntive, come poter lavorare in &lt;bk2/&gt;cloud o su server remoti e cercare in base alle versioni, passate all'utilizzo delle finestre di dialogo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To quit Fill Format mode, click the &lt;f0&gt;Fill Format Mode&lt;/f0&gt; button again or press the &lt;f1&gt;Esc&lt;/f1&gt; key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173053Z" creationid="manuel" creationdate="20180612T150532Z">
