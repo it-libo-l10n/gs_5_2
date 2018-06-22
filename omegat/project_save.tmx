@@ -13228,6 +13228,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This inserts a non-breaking space.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T110123Z" creationid="manuel" creationdate="20180622T110123Z">
+        <seg>Questo inserisce uno spazio senza interruzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is important if you want to make the document available to other computers that may have a completely different directory structure, drive or volume names.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144737Z" creationid="manuel" creationdate="20180608T144737Z">
@@ -13993,6 +14001,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212258Z" creationid="Marco Marega" creationdate="20180616T212258Z">
         <seg>Per evitare che Quickstart venga caricato all'avvio del sistema, scegliete una della seguenti alternative:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To prevent two words from being separated at the end of a line, press &lt;f0&gt;Ctrl+Shift&lt;/f0&gt; when you type the space between the two words.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T110025Z" creationid="manuel" creationdate="20180622T110025Z">
+        <seg>Per evitare che due parole vengano separate alla fine di una linea, premete &lt;f0&gt;Ctrl+Maiusc&lt;/f0&gt; mentre digitate lo spazio tra le due parole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16937,6 +16953,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085525Z" creationid="manuel" creationdate="20180530T085525Z">
         <seg>posizionamento del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>non-breaking hyphen</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T110132Z" creationid="manuel" creationdate="20180622T110132Z">
+        <seg>Trattino non divisibile (tratto d'unione)</seg>
       </tuv>
     </tu>
     <tu>
