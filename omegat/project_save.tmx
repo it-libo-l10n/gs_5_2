@@ -8251,6 +8251,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In cases where you do not want the hyphen to appear at the end of a line, for example in a number such as 123‑4567, you can press &lt;f0&gt;Shift+Ctrl+minus sign&lt;/f0&gt; to insert &lt;i1/&gt;a non-breaking hyphen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T133700Z" creationid="manuel" creationdate="20180622T133700Z">
+        <seg>Nei casi in cui non desiderate che il trattino (tratto d'unione) appaia alla fine di una linea, ad esempio in un numero come 123‑4567, potete premere &lt;f0&gt;Maiusc+Ctrl+segno meno&lt;/f0&gt; per inserire un trattino (tratto d'unione) non divisibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In contrast, absolute addressing always starts from a root directory.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144532Z" creationid="manuel" creationdate="20180608T144532Z">
@@ -13492,6 +13500,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option replaces two hyphens, under certain conditions, with the corresponding dash.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T133844Z" creationid="manuel" creationdate="20180622T133844Z">
+        <seg>Questa opzione sostituisce due trattini (tratti d'unione), in certe condizioni, con il corrispondente trattino (lineetta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This process is slightly different for each type of template, but the format is very similar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121421Z" creationid="manuel" creationdate="20180615T121421Z">
@@ -13976,6 +13992,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T140807Z" creationid="manuel" creationdate="20180609T140807Z">
         <seg>Per ablitarlo, selezionate MediaWiki in opzioni Internet, fate clic sul pulsante &lt;f0&gt;Aggiungi&lt;/f0&gt; per aprire la finestra di dialogo mostrata in Figura &lt;t1&gt;45&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To enter en and &lt;i0/&gt;em dashes, you can use the &lt;f1&gt;Replace dashes&lt;/f1&gt; option on the Options tab under &lt;f2&gt;Tools &gt; AutoCorrect Options&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T133815Z" creationid="manuel" creationdate="20180622T133815Z">
+        <seg>Per inserire trattini (o lineette) enne e &lt;i0/&gt;emme, potete usare l'opzione &lt;f1&gt;Sostituisci trattini&lt;/f1&gt; sulla scheda Opzioni sotto &lt;f2&gt;Strumenti &gt; Opzioni di correzione automatica&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14513,6 +14537,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T090846Z" creationid="manuel" creationdate="20180606T090846Z">
         <seg>Digitate un termine di ricerca, fate clic su &lt;f3&gt;Cerca&lt;/f3&gt;, e attendete il caricamento delle miniature del tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type at least one character, a space, one or two hyphens, another space, and at least one more letter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T133911Z" creationid="manuel" creationdate="20180622T133911Z">
+        <seg>Digitate almeno un carattere, uno spazio, uno o due trattini (tratti d'unione), un altro spazio, e almeno un'altra lettera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16781,6 +16813,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>dashes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T133706Z" creationid="manuel" creationdate="20180622T133706Z">
+        <seg>trattini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>default file format</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144747Z" creationid="manuel" creationdate="20180608T144747Z">
@@ -16897,6 +16937,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T153837Z" creationid="manuel" creationdate="20180615T153837Z">
         <seg>modificare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en-dash and em-dash</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T133850Z" creationid="manuel" creationdate="20180622T133850Z">
+        <seg>trattino corto (lineetta enne) e trattino lungo (lineetta emme)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17049,6 +17097,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155807Z" creationid="manuel" creationdate="20180608T155807Z">
         <seg>importazione numeri da una pagina HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is an &lt;i0/&gt;en-dash; that is, a dash the width of the letter “n” in the font you are using.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T133902Z" creationid="manuel" creationdate="20180622T133902Z">
+        <seg>è un &lt;i0/&gt;trattino corto (lineetta enne); cioè, un trattino della larghezza della lettera “n” nel carattere che state usando.</seg>
       </tuv>
     </tu>
     <tu>
