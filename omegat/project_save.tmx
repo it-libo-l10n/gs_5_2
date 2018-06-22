@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1595,6 +1595,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144841Z" creationid="manuel" creationdate="20180608T144841Z">
         <seg>&lt;f0&gt;Versione del formato ODF.&lt;/f0&gt; LibreOffice per impostazione predefinita salva i documenti nel &lt;i1/&gt;Formato OpenDocument (ODF) versione 1.2 Esteso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;On the Remote Files dialog (Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;13&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;), &lt;/f3&gt;click on the &lt;f4&gt;Add Service&lt;/f4&gt; button in the &lt;f5&gt;upper right&lt;/f5&gt; to open the File Service&lt;f6&gt;s&lt;/f6&gt; dialog&lt;f7&gt; (Figure &lt;/f7&gt;&lt;f8&gt;&lt;t9&gt;12&lt;/t9&gt;&lt;/f8&gt;&lt;f10&gt;)&lt;/f10&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125041Z" creationid="Marco Marega" creationdate="20180622T125041Z">
+        <seg>&lt;f0&gt;Nella finestra di dialogo File remoti (Figura &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;13&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;), &lt;/f3&gt;fate clic sul pulsante &lt;f4&gt;Aggiungi servizio&lt;/f4&gt; in &lt;f5&gt;alto a destra&lt;/f5&gt; in modo da aprire la finestra di dialogo Servizi di file&lt;f6&gt;&lt;/f6&gt; &lt;f7&gt; (Figura &lt;/f7&gt;&lt;f8&gt;&lt;t9&gt;12&lt;/t9&gt;&lt;/f8&gt;&lt;f10&gt;)&lt;/f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3829,6 +3837,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090033Z" creationid="luke" creationdate="20180515T090033Z">
         <seg>Click on the &lt;f0&gt;Apply to All Slides&lt;/f0&gt; button to apply the same display time to all slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Remote Files&lt;/f0&gt; button in the Start Center</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T124624Z" creationid="Marco Marega" creationdate="20180622T124624Z">
+        <seg>Nel Centro di avvio fate clic sul pulsante &lt;f0&gt;File remoti&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10983,6 +10999,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T100831Z" creationid="manuel" creationdate="20180616T100831Z">
         <seg>Selezionate &lt;f0&gt;Modifica &gt; Seleziona tutto&lt;/f0&gt; o premete &lt;f1&gt;Ctrl+A&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;File &gt; Open Remote File...&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T124742Z" creationid="Marco Marega" creationdate="20180622T124639Z">
+        <seg>Selezionate &lt;f0&gt;File &gt; Apri file remoto...&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;File &gt; Save to Remote Server...&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T124734Z" creationid="Marco Marega" creationdate="20180622T124734Z">
+        <seg>Selezionate &lt;f0&gt;File &gt; Salva nel server remoto...&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
