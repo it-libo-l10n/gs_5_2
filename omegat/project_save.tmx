@@ -6093,8 +6093,8 @@
       <tuv lang="EN">
         <seg>Find and replace words and phrases</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165550Z" creationid="manuel" creationdate="20180621T165550Z">
-        <seg>Cercare e sostituire parole e frasi</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141335Z" creationid="manuel" creationdate="20180621T165550Z">
+        <seg>Trovare e sostituire parole e frasi</seg>
       </tuv>
     </tu>
     <tu>
@@ -17391,8 +17391,8 @@
       <tuv lang="EN">
         <seg>regular expressions</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165554Z" creationid="manuel" creationdate="20180621T165554Z">
-        <seg>espressioni regolari &lt;s0/&gt;87</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141348Z" creationid="manuel" creationdate="20180621T165554Z">
+        <seg>espressioni regolari</seg>
       </tuv>
     </tu>
     <tu>
@@ -17687,8 +17687,8 @@
       <tuv lang="EN">
         <seg>wildcards</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165553Z" creationid="manuel" creationdate="20180621T165553Z">
-        <seg>caratteri jolly &lt;s0/&gt;87</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141342Z" creationid="manuel" creationdate="20180621T165553Z">
+        <seg>caratteri jolly</seg>
       </tuv>
     </tu>
     <tu>
