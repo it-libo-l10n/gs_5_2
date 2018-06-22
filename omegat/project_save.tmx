@@ -2856,6 +2856,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic saving, like manual saving, overwrites the last saved state of the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122637Z" creationid="Marco Marega" creationdate="20180622T122637Z">
+        <seg>Il salvataggio automatico, così come quello manuale, sovrascrive l'ultima versione salvata del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available only in some operating systems and desktop managers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T065951Z" creationid="manuel" creationdate="20180529T065951Z">
@@ -6871,6 +6879,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T205447Z" creationid="Marco Marega" creationdate="20180614T205447Z">
         <seg>Nella barra del menu andate in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Memoria&lt;/f0&gt; e selezionate &lt;f1&gt;Carica LibreOffice durante l'avvio del sistema&lt;/f1&gt; (se usate Windows) oppure selezionate &lt;f2&gt;Abilita Quickstart&lt;/f2&gt; (se usate Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122743Z" creationid="Marco Marega" creationdate="20180622T122743Z">
+        <seg>Nella barra del Menu andate in &lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14153,6 +14169,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T135247Z" creationid="manuel" creationdate="20180615T134952Z">
         <seg>Per impostare il nome del file o cambiare la cartella, selezionare il pulsante &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Percorso&lt;/f1&gt; (i tre punti a destra della posizione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To set up automatic file saving:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122653Z" creationid="Marco Marega" creationdate="20180622T122653Z">
+        <seg>Per impostare il salvataggio automatico dei file:</seg>
       </tuv>
     </tu>
     <tu>
