@@ -8445,8 +8445,8 @@
       <tuv lang="EN">
         <seg>In the Template&lt;f0&gt;s&lt;/f0&gt; dialog, click the &lt;f1&gt;Action Menu&lt;/f1&gt; icon on the &lt;f2&gt;bottom left&lt;/f2&gt; &lt;f3&gt;(Figure &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;56&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T094907Z" creationid="manuel" creationdate="20180616T094907Z">
-        <seg>Nel finestra di dialogo &lt;f0&gt;Modelli&lt;/f0&gt;, fate clic sull'icona &lt;f1&gt;menu Azione&lt;/f1&gt;  in &lt;f2&gt;basso a sinistra&lt;/f2&gt; &lt;f3&gt;(Figura &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;56&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T140846Z" creationid="manuel" creationdate="20180616T094907Z">
+        <seg>Nel finestra di dialogo &lt;f0&gt;Modelli&lt;/f0&gt;, fate clic sull'icona &lt;f1&gt;Menu azioni&lt;/f1&gt;  in &lt;f2&gt;basso a sinistra&lt;/f2&gt; &lt;f3&gt;(Figura &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;56&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11781,8 +11781,8 @@
       <tuv lang="EN">
         <seg>Some components have additional decks, such as Master Pages, Custom Animation, and Slide Transition for Impress; Manage Changes for Writer; and Functions for Calc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222024Z" creationid="Marco Marega" creationdate="20180620T222024Z">
-        <seg>Alcuni componenti hanno dei piani aggiuntivi, come le Pagine schema, Animazioni personalizzate e Cambio diapositiva in Impress; Gestisci le modifiche in Writer e Funzioni in Calc.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T140917Z" creationid="Marco Marega" creationdate="20180620T222024Z">
+        <seg>Alcuni componenti hanno dei pannelli aggiuntivi, come le Pagine schema, Animazioni personalizzate e Cambio diapositiva in Impress; Gestisci le modifiche in Writer e Funzioni in Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12197,8 +12197,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Writer S&lt;/f0&gt;idebar con&lt;f1&gt;tains&lt;/f1&gt; four decks &lt;f2&gt;by default&lt;/f2&gt;: &lt;f3&gt;Properties&lt;/f3&gt;, &lt;f4&gt;Styles and Formatting&lt;/f4&gt;, &lt;f5&gt;Gallery&lt;/f5&gt;, and &lt;f6&gt;Navigator&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T110809Z" creationid="manuel" creationdate="20180618T104139Z">
-        <seg>La &lt;f0&gt;barra laterale di Writer&lt;/f0&gt; &lt;f1&gt;contiene&lt;/f1&gt; quattro piani &lt;f2&gt;predefiniti&lt;/f2&gt;: &lt;f3&gt;Proprietà&lt;/f3&gt;, &lt;f4&gt;Stili e formattazione&lt;/f4&gt;, &lt;f5&gt;Galleria&lt;/f5&gt; e &lt;f6&gt;Navigatore&lt;/f6&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T140952Z" creationid="manuel" creationdate="20180618T104139Z">
+        <seg>La &lt;f0&gt;barra laterale di Writer&lt;/f0&gt; &lt;f1&gt;contiene&lt;/f1&gt; quattro pannelli &lt;f2&gt;predefiniti&lt;/f2&gt;: &lt;f3&gt;Proprietà&lt;/f3&gt;, &lt;f4&gt;Stili e formattazione&lt;/f4&gt;, &lt;f5&gt;Galleria&lt;/f5&gt; e &lt;f6&gt;Navigatore&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
