@@ -11691,6 +11691,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>T&lt;f0&gt;o close t&lt;/f0&gt;he Find toolbar, click the X button on the left, or press &lt;f1&gt;Esc&lt;/f1&gt; on the keyboard when the text cursor is in the search box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T102109Z" creationid="manuel" creationdate="20180622T102109Z">
+        <seg>Per &lt;f0&gt;chiudere&lt;/f0&gt; la barra degli strumenti di Trova, fate clic sul pulsante X a sinistra oppure premete &lt;f1&gt;Esc&lt;/f1&gt; sulla tastiera quando il cursore del testo si trova nella casella di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TSAs - Time Stamp&lt;f0&gt;ing&lt;/f0&gt; Authorities</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074618Z" creationid="manuel" creationdate="20180606T074618Z">
