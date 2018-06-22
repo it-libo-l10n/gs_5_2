@@ -9979,6 +9979,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the left is the folder structure of the user space in the server.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T202849Z" creationid="Marco Marega" creationdate="20180622T202849Z">
+        <seg>Sul lato sinistro si trova l'albero delle cartelle presenti nello spazio dell'utente sul server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the right-hand side of the &lt;f0&gt;Language Settings – Languages&lt;/f0&gt; page, change the &lt;f1&gt;User interface&lt;/f1&gt;, &lt;f2&gt;Locale setting&lt;/f2&gt;, &lt;f3&gt;Default currency&lt;/f3&gt;, and &lt;f4&gt;Default languages for documents&lt;/f4&gt; as required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171133Z" creationid="manuel" creationdate="20180608T171133Z">
