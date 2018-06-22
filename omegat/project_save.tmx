@@ -2735,6 +2735,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As you select a character, it is shown on the right, along with its numerical code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105833Z" creationid="manuel" creationdate="20180622T105833Z">
+        <seg>Come selezionate un carattere, questo viene mostrato a destra, insieme al suo codice numerico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Asian language support</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072451Z" creationid="manuel" creationdate="20180609T072451Z">
@@ -4739,6 +4747,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Different fonts include different special characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105844Z" creationid="manuel" creationdate="20180622T105844Z">
+        <seg>Tipi di carattere diversi includono differenti caratteri speciali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Different styles are available in the various components of LibreOffice, as listed in Table &lt;t0&gt;46&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144721Z" creationid="manuel" creationdate="20180611T144721Z">
@@ -5895,6 +5911,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103000Z" creationid="manuel" creationdate="20180622T103000Z">
         <seg>Figura &lt;seq0&gt;72&lt;/seq0&gt;: finestra di dialogo Trova e sostituisci ampliata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;73&lt;/seq0&gt;: The Special Characters dialog, where you can insert special characters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105908Z" creationid="manuel" creationdate="20180622T105908Z">
+        <seg>Figura &lt;seq0&gt;73&lt;/seq0&gt;: finestra di dialogo Caratteri speciali, dove potete inserire caratteri speciali</seg>
       </tuv>
     </tu>
     <tu>
@@ -7651,6 +7675,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do not find a particular special character, try changing the &lt;f0&gt;Font&lt;/f0&gt; selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105853Z" creationid="manuel" creationdate="20180622T105853Z">
+        <seg>Se non trovate un particolare carattere speciale, provate a selezionare un tipo di &lt;f0&gt;Carattere&lt;/f0&gt; diverso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not have Microsoft Office installed on your computer, or if Microsoft Office is installed but you have associated Microsoft Office file types with LibreOffice, then when you double-click on the following files, they open in LibreOffice:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202901Z" creationid="Marco Marega" creationdate="20180607T202824Z">
@@ -8447,6 +8479,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184646Z" creationid="Elisabetta Manuele" creationdate="20180620T184646Z">
         <seg>Inserire commenti in un disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserting dashes and &lt;i0/&gt;non-breaking spaces and hyphens</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105932Z" creationid="manuel" creationdate="20180622T105932Z">
+        <seg>Inserire trattini (dashes - in italiano detti anche lineette), &lt;i0/&gt;spazi non divisibili e trattini (hyphens - in italiano detti anche tratti d'unione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11083,6 +11123,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the characters (from any font or mixture of fonts) you wish to insert, in order, then click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105644Z" creationid="manuel" creationdate="20180622T105644Z">
+        <seg>Selezionate i caratteri che volete inserire (da qualsiasi tipo di carattere o insieme parziale di caratteri), nel giusto ordine, poi fate clic su &lt;/f0&gt;OK&lt;f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the color to modify from the list or the color table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070212Z" creationid="manuel" creationdate="20180531T070212Z">
@@ -12264,6 +12312,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070247Z" creationid="manuel" creationdate="20180531T070247Z">
         <seg>I colori modificati appaiono nel più basso tra i due riquadri di anteprima del colore, nella parte alta della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The characters selected for insertion are shown in the lower left of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105715Z" creationid="manuel" creationdate="20180622T105715Z">
+        <seg>I caratteri selezionati per l'inserimento sono mostrati in basso a sinistra nella finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16881,6 +16937,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085525Z" creationid="manuel" creationdate="20180530T085525Z">
         <seg>posizionamento del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>non-breaking spaces</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105915Z" creationid="manuel" creationdate="20180622T105915Z">
+        <seg>spazi non divisibili</seg>
       </tuv>
     </tu>
     <tu>
