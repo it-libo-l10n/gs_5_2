@@ -1335,6 +1335,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Exception: if the characters are numbers, as in a date or time range, the two hyphens are replaced by an en-dash.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134312Z" creationid="manuel" creationdate="20180622T134312Z">
+        <seg>&lt;f0&gt;Eccezione: se i caratteri sono numeri, come in una data o intervallo di tempo, i due trattini vengono sostituiti da un trattino.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Extensive language support&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212241Z" creationid="Marco Marega" creationdate="20180527T212241Z">
@@ -3461,6 +3469,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145739Z" creationid="manuel" creationdate="20180611T145739Z">
         <seg>Carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checking spelling and grammar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134509Z" creationid="manuel" creationdate="20180622T134509Z">
+        <seg>Controllo ortografico e grammaticale</seg>
       </tuv>
     </tu>
     <tu>
@@ -6567,6 +6583,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T140956Z" creationid="manuel" creationdate="20180621T140956Z">
         <seg>Per ulteriori utilizzi del Navigatore in Writer, consultate la &lt;/f0&gt;Guida a Writer&lt;f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For other methods of inserting dashes, see Chapter 3, Working with Text: &lt;f0&gt;Basics&lt;/f0&gt; in the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134506Z" creationid="manuel" creationdate="20180622T134506Z">
+        <seg>Per ulteriori metodi di inserimento dei trattini, consultare Capitolo 3 (Lavorare col testo: le basi) &lt;f0&gt;della Guida a Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10931,6 +10955,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the Help for more details.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134317Z" creationid="manuel" creationdate="20180622T134317Z">
+        <seg>Vedere l'Aiuto per maggiori dettagli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the chapters on styles in the user guides for details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160601Z" creationid="manuel" creationdate="20180612T160601Z">
@@ -13112,6 +13144,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140621Z" creationid="manuel" creationdate="20180608T140621Z">
         <seg>Le due caselle sottostanti elencano la lista bianca e la lista nera dei driver OpenCL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The two hyphens will be replaced by an em-dash.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134232Z" creationid="manuel" creationdate="20180622T134232Z">
+        <seg>I due trattini (tratti d'unione) verranno sostituiti da un trattino lungo (lineetta emme).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17481,6 +17521,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T104345Z" creationid="manuel" creationdate="20180622T104345Z">
         <seg>caratteri speciali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>spelling checker</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134514Z" creationid="manuel" creationdate="20180622T134514Z">
+        <seg>correttore ortografico</seg>
       </tuv>
     </tu>
     <tu>
