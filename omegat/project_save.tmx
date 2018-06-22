@@ -10515,6 +10515,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proceed entering your credentials.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T202320Z" creationid="Marco Marega" creationdate="20180622T202320Z">
+        <seg>Proseguite inserendo le vostre credenziali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Publication date and software version</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072758Z" creationid="luke" creationdate="20180515T072758Z">
@@ -12372,6 +12380,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Remote Files dialog (Figure &lt;t0&gt;13&lt;/t0&gt;) which then appears has many parts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T202419Z" creationid="Marco Marega" creationdate="20180622T202419Z">
+        <seg>La finestra di dialogo File remoti (Figura &lt;t0&gt;13&lt;/t0&gt;) che compare è composta da varie parti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Save As window opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143852Z" creationid="manuel" creationdate="20180616T143852Z">
@@ -12852,6 +12868,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The line below the list box shows the path to access the folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T202601Z" creationid="Marco Marega" creationdate="20180622T202601Z">
+        <seg>La riga sotto alla casella di riepilogo visualizza il percorso di accesso alla cartella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The list in the left-hand box of the Options – LibreOffice dialog varies depending on which component of LibreOffice is open.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083231Z" creationid="manuel" creationdate="20180528T083231Z">
@@ -13184,6 +13208,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123603Z" creationid="Marco Marega" creationdate="20180621T123603Z">
         <seg>Il tipo di documento dipende dal componente di LibreOffice aperto ed attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The upper list box contains the list of remote servers you have previously defined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T202516Z" creationid="Marco Marega" creationdate="20180622T202516Z">
+        <seg>La casella di riepilogo in alto contiene l'elenco dei server remoti che avete già definito in precedenza.</seg>
       </tuv>
     </tu>
     <tu>
