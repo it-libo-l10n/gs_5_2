@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;If the Find toolbar is not visible, you can display it by choosing &lt;f5&gt;View &gt; Toolbars &gt; Find&lt;/f5&gt; from the Menu bar or by pressing &lt;f6&gt;Ctrl+F&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T094836Z" creationid="manuel" creationdate="20180622T094744Z">
+        <seg>&lt;/f4&gt;Se la barra degli strumenti Cerca non è visibile, potete renderla visibile scegliendo &lt;f5&gt;Visualizza &gt; Barre degli strumenti &gt; Cerca&lt;/f5&gt; dalla barra menu o premendo &lt;f6&gt;Ctrl+F&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f7&gt;The Template&lt;f8&gt;s&lt;/f8&gt; dialog opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T091010Z" creationid="manuel" creationdate="20180614T091010Z">
@@ -1186,6 +1194,15 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T143748Z" creationid="manuel" creationdate="20180530T085617Z">
         <seg>&lt;f0&gt;Scorrimento automatico&lt;/f0&gt; – il trascinamento, mentre si preme il pulsante centrale del mouse, fa scorrere la visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;By default, t&lt;/f0&gt;he Find toolbar is shown docked at the bottom of the LibreOffice window (just above the Status Bar) in &lt;f1&gt;Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;71&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;, but you can float it or dock it in another location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T094753Z" creationid="manuel" creationdate="20180622T094720Z">
+        <seg>&lt;f0&gt;Per impostazione predefinita,&lt;/f0&gt; Cerca della barra degli strumenti è mostrata nella parte inferiore della finestra di LibreOffice (appena sopra la barra di stato) in &lt;f1&gt;Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;71&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;, ma potete spostarlo o caricarlo in un'altra posizione.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3872,6 +3889,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f1&gt;Find Next&lt;/f1&gt; or &lt;f2&gt;Find Previous&lt;/f2&gt; buttons as needed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T094959Z" creationid="manuel" creationdate="20180622T094959Z">
+        <seg>Fate clic sui pulsanti &lt;f1&gt;Trova successivo&lt;/f1&gt; o &lt;f2&gt;Trova precedente&lt;/f2&gt; secondo necessità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f1&gt;From File&lt;/f1&gt; button to open a window from which to select the required document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071425Z" creationid="manuel" creationdate="20180614T071425Z">
@@ -5785,6 +5810,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;71&lt;/seq0&gt;: Docked position of Find toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T094900Z" creationid="manuel" creationdate="20180622T094900Z">
+        <seg>Figura &lt;seq0&gt;71&lt;/seq0&gt;: barra degli strumenti Cerca in posizione agganciata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Example status bar from Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191045Z" creationid="Marco Marega" creationdate="20180620T191045Z">
@@ -6325,6 +6358,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
         <seg>For more information and details about using the Presenter Console, see the &lt;f0&gt;Impress Guide Chapter 9 Slide Shows&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on floating and docking toolbars, see Chapter 1, Introducing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T094846Z" creationid="manuel" creationdate="20180622T094846Z">
+        <seg>Per maggiori informazioni sulle barre mobili e agganciate, vedere il Capitolo 1 (Introduzione a LibreOffice).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13911,6 +13952,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160912Z" creationid="manuel" creationdate="20180611T160912Z">
         <seg>Per usarlo per applicare gli stili:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use the Find toolbar, click in the box and type your search text, then press &lt;f0&gt;Enter&lt;/f0&gt; to find the next occurrence of that term from the current cursor position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T094954Z" creationid="manuel" creationdate="20180622T094954Z">
+        <seg>Per utilizzare la barra degli strumenti Cerca, fate clic nella casella e digitate il testo da cercare, quindi premete &lt;f0&gt;Invio&lt;/f0&gt; per trovare l'occorrenza successiva del termine inserito.</seg>
       </tuv>
     </tu>
     <tu>
