@@ -4755,6 +4755,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on the type of file service you choose in the &lt;f0&gt;Type&lt;/f0&gt; listbox, different parameters are necessary to fully qualify the connection to the remote server.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125235Z" creationid="Marco Marega" creationdate="20180622T125235Z">
+        <seg>A seconda del tipo di servizio di file da voi scelto nell'elenco &lt;f0&gt;Tipo&lt;/f0&gt;, saranno necessari dei parametri diversi per ottenere una connessione valida al server remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deselecting this option reverts to the Postscript document workflow system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065849Z" creationid="manuel" creationdate="20180531T065849Z">
