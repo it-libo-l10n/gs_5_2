@@ -12932,6 +12932,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The one or two hyphens will be replaced by an en-dash.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134206Z" creationid="manuel" creationdate="20180622T134206Z">
+        <seg>Il trattino o i trattini (tratti d'unione) verranno sostituiti dal trattino corto (lineetta enne).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The option &lt;f0&gt;PDF as Standard Print Job Format&lt;/f0&gt; is not available on Windows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T064053Z" creationid="manuel" creationdate="20180531T064053Z">
@@ -14545,6 +14553,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T133911Z" creationid="manuel" creationdate="20180622T133911Z">
         <seg>Digitate almeno un carattere, uno spazio, uno o due trattini (tratti d'unione), un altro spazio, e almeno un'altra lettera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type at least one character, two hyphens, and at least one more character.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134227Z" creationid="manuel" creationdate="20180622T134227Z">
+        <seg>Digitate almeno un carattere, due trattini (tratti d'unione), e almeno un altro carattere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17105,6 +17121,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T133902Z" creationid="manuel" creationdate="20180622T133902Z">
         <seg>è un &lt;i0/&gt;trattino corto (lineetta enne); cioè, un trattino della larghezza della lettera “n” nel carattere che state usando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is an em-dash; that is, a dash the width of the letter “m” in the font you are using.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134223Z" creationid="manuel" creationdate="20180622T134223Z">
+        <seg>è un trattino lungo (lineetta emme); cioè, un trattino della larghezza della lettera “m” nel carattere che state usando.</seg>
       </tuv>
     </tu>
     <tu>
