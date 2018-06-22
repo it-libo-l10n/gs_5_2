@@ -7259,6 +7259,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you cannot copy or paste files within the dialogs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203523Z" creationid="Marco Marega" creationdate="20180622T203523Z">
+        <seg>Ciononostante, non potete copiare o incollare file all'interno delle finestre di dialogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Character Styles are active, the character style will be added to the list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070445Z" creationid="manuel" creationdate="20180614T070445Z">
@@ -11195,6 +11203,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a file and then right click to open a context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203400Z" creationid="Marco Marega" creationdate="20180622T203400Z">
+        <seg>Selezionate un file e poi fate clic con il pulsante destro del mouse per aprire un menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select an object with a single click.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072456Z" creationid="luke" creationdate="20180515T072456Z">
@@ -11215,6 +11231,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192626Z" creationid="Marco Marega" creationdate="20180620T192626Z">
         <seg>Selezionate tra Vista a pagina singola, Vista a più pagine e Vista a libro per modificare il modo in cui viene visualizzato il vostro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select either &lt;f0&gt;Delete&lt;/f0&gt; or &lt;f1&gt;Rename&lt;/f1&gt;, as appropriate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203451Z" creationid="Marco Marega" creationdate="20180622T203451Z">
+        <seg>Selezionate il comando appropriato tra &lt;f0&gt;Elimina&lt;/f0&gt; o &lt;f1&gt;Rinomina&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
