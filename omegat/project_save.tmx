@@ -1977,8 +1977,8 @@
       <tuv lang="EN">
         <seg>&lt;f7&gt;If you have selected &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Enable experimental features&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; in &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;, a fifth deck (&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Manage Changes&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;) will appear, and a sixth (&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Design&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;) can be selected in &lt;/f19&gt;&lt;t20/&gt;&lt;f21&gt;&lt;f22&gt;Sidebar Settings &gt; Customization&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.&lt;/f23&gt; Each deck has a corresponding icon on the &lt;i24/&gt;Tab &lt;f25&gt;bar&lt;/f25&gt; to the right of the sidebar, allowing you to switch between them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T103027Z" creationid="manuel" creationdate="20180618T105139Z">
-        <seg>&lt;f7&gt;Se avete selezionato &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Abilta caratteristiche sperimentali&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; in &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;, apparirà un quinto piano ( (&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Gestisci le modifiche&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;), e un sesto (&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Struttura&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;) può essere selezionato in &lt;/f19&gt;&lt;t20/&gt;&lt;f21&gt;&lt;f22&gt;Configurazione barra laterale &gt; Personalizza&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.&lt;/f23&gt; Ciascun ponte ha una icona corrispondente sulla barra delle linguette a destra dela barra laterale, consentendovi di passare da una all'altra.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141018Z" creationid="manuel" creationdate="20180618T105139Z">
+        <seg>&lt;f7&gt;Se avete selezionato &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Abilta caratteristiche sperimentali&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; in &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;, apparirà un quinto pannello ( (&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Gestisci le modifiche&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;), e un sesto (&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Struttura&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;) può essere selezionato in &lt;/f19&gt;&lt;t20/&gt;&lt;f21&gt;&lt;f22&gt;Configurazione barra laterale &gt; Personalizza&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.&lt;/f23&gt; Ciascun ponte ha una icona corrispondente sulla barra delle linguette a destra dela barra laterale, consentendovi di passare da una all'altra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5101,8 +5101,8 @@
       <tuv lang="EN">
         <seg>Each deck consists of a title bar and one or more content panels.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T110833Z" creationid="manuel" creationdate="20180618T105802Z">
-        <seg>Ogni piano è costituito da una barra del titolo e uno o più pannelli di contenuti.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141038Z" creationid="manuel" creationdate="20180618T105802Z">
+        <seg>Ogni pannello è costituito da una barra del titolo e uno o più pannelli di contenuti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6349,8 +6349,8 @@
       <tuv lang="EN">
         <seg>For example, the buttons for making text bold or italic exist in both the Formatting toolbar and the Character panel of the Properties deck.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T110852Z" creationid="manuel" creationdate="20180618T105905Z">
-        <seg>Ad esempio, i pulsanti per rendere il testo in grassetto o corsivo esistono sia nella barra degli strumenti Formattazione sia nel pannello Carattere del piano Proprietà.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141102Z" creationid="manuel" creationdate="20180618T105905Z">
+        <seg>Ad esempio, i pulsanti per rendere il testo in grassetto o corsivo esistono sia nella barra degli strumenti Formattazione sia nel pannello Carattere del pannello Proprietà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12606,8 +12606,8 @@
       <tuv lang="EN">
         <seg>The decks are described below.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T111254Z" creationid="manuel" creationdate="20180618T111254Z">
-        <seg>I piani sono descritti di seguito.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141121Z" creationid="manuel" creationdate="20180618T111254Z">
+        <seg>I pannelli sono descritti di seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13406,16 +13406,16 @@
       <tuv lang="EN">
         <seg>This deck is an alternate view of the Manage Changes dialog that can be opened from &lt;f1&gt;Edit &gt; Track Changes &gt; Manage Changes&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T101800Z" creationid="manuel" creationdate="20180621T101800Z">
-        <seg>Questo piano è una vista alternativa della finestra di dialogo Gestisci le modifiche che può essere aperta da &lt;f1&gt;Modifica &gt; Traccia le modifiche&gt; Gestisci le modifiche &lt;/ f1&gt; nella barra dei menu.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141136Z" creationid="manuel" creationdate="20180621T101800Z">
+        <seg>Questo pannello è una vista alternativa della finestra di dialogo Gestisci le modifiche che può essere aperta da &lt;f1&gt;Modifica &gt; Traccia le modifiche&gt; Gestisci le modifiche &lt;/ f1&gt; nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This deck is available only when Experimental Features is enabled in &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; and when the deck is selected in &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Sidebar Settings &gt; Customization&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T104010Z" creationid="manuel" creationdate="20180621T104010Z">
-        <seg>Questo piano è disponibile solo quando Funzionalità sperimentali è abilitato in &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; Strumenti &gt; Opzioni&gt; LibreOffice&gt; Avanzate&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; e quando il piano è selezionato in &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; Impostazioni della barra laterale &gt; Personalizzazione&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141153Z" creationid="manuel" creationdate="20180621T104010Z">
+        <seg>Questo pannello è disponibile solo quando Funzionalità sperimentali è abilitato in &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; Strumenti &gt; Opzioni&gt; LibreOffice&gt; Avanzate&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; e quando il piano è selezionato in &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; Impostazioni della barra laterale &gt; Personalizzazione&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
