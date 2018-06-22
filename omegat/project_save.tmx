@@ -4042,6 +4042,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f1&gt;Open&lt;/f1&gt; or &lt;f2&gt;Save&lt;/f2&gt; button to proceed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203046Z" creationid="Marco Marega" creationdate="20180622T203046Z">
+        <seg>Per procedere fate clic sul pulsante &lt;f1&gt;Apri&lt;/f1&gt; o &lt;f2&gt;Salva&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the arrow button of the combination &lt;f0&gt;Paste&lt;/f0&gt; button, or</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T162830Z" creationid="manuel" creationdate="20180621T162830Z">
@@ -5471,6 +5479,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125254Z" creationid="Marco Marega" creationdate="20180622T125254Z">
         <seg>Figura &lt;seq0&gt;12&lt;/seq0&gt;: configurazione di un Server remoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Remote Files dialog when connected to a server</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203115Z" creationid="Marco Marega" creationdate="20180622T203115Z">
+        <seg>Figura &lt;seq0&gt;13&lt;/seq0&gt;: la finestra di dialogo File remoti quando si è collegati ad un server</seg>
       </tuv>
     </tu>
     <tu>
@@ -12940,6 +12956,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main pane displays the files in the remote folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203002Z" creationid="Marco Marega" creationdate="20180622T203002Z">
+        <seg>Il riquadro principale visualizza i file presenti nella cartella remota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main window is similar for each component of LibreOffice, although some details vary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214007Z" creationid="Marco Marega" creationdate="20180616T214007Z">
@@ -16337,6 +16361,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084946Z" creationid="manuel" creationdate="20180614T084946Z">
         <seg>Potete eliminare gli stili personalizzati; ma prima di farlo, occorre verificare che lo stile da rimuovere non sia in uso nel documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can rename or delete files within the LibreOffice dialogs, just as you can in a file manager.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203314Z" creationid="Marco Marega" creationdate="20180622T203314Z">
+        <seg>All'interno delle finestre di dialogo di LibreOffice potere rinominare o cancellare file, come se vi trovaste in un file manager.</seg>
       </tuv>
     </tu>
     <tu>
