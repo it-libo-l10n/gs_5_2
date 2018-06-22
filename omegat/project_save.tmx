@@ -6387,6 +6387,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, © ¾ æ ç ñ ö ø ¢ are &lt;i2/&gt;all special characters &lt;f3&gt;not available on an English keyboard&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T104846Z" creationid="manuel" creationdate="20180622T104838Z">
+        <seg>Per esempio, © ¾ æ ñ ö ø ¢ sono &lt;i2/&gt;tutti caratteri speciali &lt;f3&gt;non disponibli sulla tastiera italiana&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For full details about themes, visit the Mozilla website: &lt;a6&gt;http&lt;/a6&gt;&lt;a7&gt;s&lt;/a7&gt;&lt;a8&gt;://www.&lt;/a8&gt;&lt;a9&gt;https://addons.mozilla.org/en-US/firefox/themes/&lt;/a9&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093458Z" creationid="manuel" creationdate="20180606T093458Z">
@@ -10155,6 +10163,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place the cursor where you want the character to appear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T104904Z" creationid="manuel" creationdate="20180622T104904Z">
+        <seg>Posizionate il cursore nel punto in cui volete inserire il carattere speciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Planning a database</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184711Z" creationid="Elisabetta Manuele" creationdate="20180620T184711Z">
@@ -13776,6 +13792,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144854Z" creationid="manuel" creationdate="20180616T144854Z">
         <seg>Per inserire una pagina orizzontale nel mezzo del vostro documento, inserite un'interruzione di pagina e selezionate uno stile di pagina con l'orientamento orizzontale attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To insert a special character:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T104849Z" creationid="manuel" creationdate="20180622T104849Z">
+        <seg>Per inserire un carattere speciale:</seg>
       </tuv>
     </tu>
     <tu>
