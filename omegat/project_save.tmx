@@ -1128,8 +1128,8 @@
       <tuv lang="EN">
         <seg>&lt;/f4&gt;If the Find toolbar is not visible, you can display it by choosing &lt;f5&gt;View &gt; Toolbars &gt; Find&lt;/f5&gt; from the Menu bar or by pressing &lt;f6&gt;Ctrl+F&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T094836Z" creationid="manuel" creationdate="20180622T094744Z">
-        <seg>&lt;/f4&gt;Se la barra degli strumenti Cerca non è visibile, potete renderla visibile scegliendo &lt;f5&gt;Visualizza &gt; Barre degli strumenti &gt; Cerca&lt;/f5&gt; dalla barra menu o premendo &lt;f6&gt;Ctrl+F&lt;/f6&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101307Z" creationid="manuel" creationdate="20180622T094744Z">
+        <seg>&lt;/f4&gt;Se la barra degli strumenti di Trova non è visibile, potete renderla visibile scegliendo &lt;f5&gt;Visualizza &gt; Barre degli strumenti &gt; Trova&lt;/f5&gt; dalla barra menu o premendo &lt;f6&gt;Ctrl+F&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1200,8 +1200,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;By default, t&lt;/f0&gt;he Find toolbar is shown docked at the bottom of the LibreOffice window (just above the Status Bar) in &lt;f1&gt;Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;71&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;, but you can float it or dock it in another location.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T094753Z" creationid="manuel" creationdate="20180622T094720Z">
-        <seg>&lt;f0&gt;Per impostazione predefinita,&lt;/f0&gt; Cerca della barra degli strumenti è mostrata nella parte inferiore della finestra di LibreOffice (appena sopra la barra di stato) in &lt;f1&gt;Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;71&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;, ma potete spostarlo o caricarlo in un'altra posizione.
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101229Z" creationid="manuel" creationdate="20180622T094720Z">
+        <seg>&lt;f0&gt;Per impostazione predefinita,&lt;/f0&gt; la barra degli strumenti di Trova è mostrata nella parte inferiore della finestra di LibreOffice (appena sopra la barra di stato) in &lt;f1&gt;Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;71&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;, ma potete spostarla o caricarla in un'altra posizione.
 </seg>
       </tuv>
     </tu>
@@ -3843,8 +3843,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Find All&lt;/f0&gt; button to select all instances of the search term within the document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T095223Z" creationid="manuel" creationdate="20180622T095201Z">
-        <seg>Fate clic su pulsante &lt;f0&gt;Cerca tutto&lt;/f0&gt; per selezionare tutte le occorrenze del termine inserito all'interno del documento.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101345Z" creationid="manuel" creationdate="20180622T095201Z">
+        <seg>Fate clic su pulsante &lt;f0&gt;Trova tutto&lt;/f0&gt; per selezionare tutte le occorrenze del termine inserito all'interno del documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5820,8 +5820,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;71&lt;/seq0&gt;: Docked position of Find toolbar</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T094900Z" creationid="manuel" creationdate="20180622T094900Z">
-        <seg>Figura &lt;seq0&gt;71&lt;/seq0&gt;: barra degli strumenti Cerca in posizione agganciata</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101322Z" creationid="manuel" creationdate="20180622T094900Z">
+        <seg>Figura &lt;seq0&gt;71&lt;/seq0&gt;: barra degli strumenti di Trova in posizione agganciata</seg>
       </tuv>
     </tu>
     <tu>
@@ -10780,8 +10780,8 @@
       <tuv lang="EN">
         <seg>Select &lt;f1&gt;Match Case&lt;/f1&gt; to find only the instances that exactly match the search term.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T095356Z" creationid="manuel" creationdate="20180622T095356Z">
-        <seg>Selezionate &lt;f1&gt;Ricerca esatta&lt;/f1&gt; per trovare solo le istanze che corrispondono esattamente al termine di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101411Z" creationid="manuel" creationdate="20180622T095356Z">
+        <seg>Selezionate &lt;f1&gt;Maiuscole/minuscole&lt;/f1&gt; per trovare solo le istanze che corrispondono esattamente al termine di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10956,8 +10956,8 @@
       <tuv lang="EN">
         <seg>Select the button to the right of Match Case (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) to open the Find &amp; Replace dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T100851Z" creationid="manuel" creationdate="20180622T100851Z">
-        <seg>Seleziona il pulsante a destra di Maiuscole / minuscole (&lt;df2&gt; &lt;di3 /&gt; &lt;/ df2&gt;) per aprire la finestra di dialogo Trova e sostituisci.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101426Z" creationid="manuel" creationdate="20180622T100851Z">
+        <seg>Seleziona il pulsante a destra di Maiuscole/minuscole (&lt;df2&gt; &lt;di3 /&gt; &lt;/ df2&gt;) per aprire la finestra di dialogo Trova e sostituisci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13982,8 +13982,8 @@
       <tuv lang="EN">
         <seg>To use the Find toolbar, click in the box and type your search text, then press &lt;f0&gt;Enter&lt;/f0&gt; to find the next occurrence of that term from the current cursor position.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T094954Z" creationid="manuel" creationdate="20180622T094954Z">
-        <seg>Per utilizzare la barra degli strumenti Cerca, fate clic nella casella e digitate il testo da cercare, quindi premete &lt;f0&gt;Invio&lt;/f0&gt; per trovare l'occorrenza successiva del termine inserito.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101333Z" creationid="manuel" creationdate="20180622T094954Z">
+        <seg>Per utilizzare la barra degli strumenti di Trova, fate clic nella casella e digitate il testo da cercare, quindi premete &lt;f0&gt;Invio&lt;/f0&gt; per trovare l'occorrenza successiva del termine inserito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14542,8 +14542,8 @@
       <tuv lang="EN">
         <seg>Using the Find toolbar</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101143Z" creationid="manuel" creationdate="20180621T165826Z">
-        <seg>Uso della barra degli strumenti Trova</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101242Z" creationid="manuel" creationdate="20180621T165826Z">
+        <seg>Uso della barra degli strumenti di Trova</seg>
       </tuv>
     </tu>
     <tu>
