@@ -13885,6 +13885,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To replace the text with different text, type the new text in the &lt;f0&gt;Replace&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103232Z" creationid="manuel" creationdate="20180622T103232Z">
+        <seg>Per sostituire il testo trovato con uno diverso, digitate il nuovo testo nella casella &lt;f0&gt;Sostituisci&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To restart a slide show automatically after the last slide has been displayed:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
@@ -15865,6 +15873,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152709Z" creationid="manuel" creationdate="20180621T152709Z">
         <seg>Utilizzando la modalità di selezione a blocchi, potete selezionare una porzione verticale, o "colonna", di testo che sia separato da spazi o tabulazioni (ad esempio testo incollato da e-mail, listati di programmi, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select various options such as matching the case, matching whole words only, or doing a search for similar words.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103308Z" creationid="manuel" creationdate="20180622T103308Z">
+        <seg>Potete selezionare varie opzioni come la corrispondenza esatta, solo parole intere, o la ricerca di parole simili.</seg>
       </tuv>
     </tu>
     <tu>
