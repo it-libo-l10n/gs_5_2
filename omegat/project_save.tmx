@@ -5435,6 +5435,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Remote server configuration</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125254Z" creationid="Marco Marega" creationdate="20180622T125254Z">
+        <seg>Figura &lt;seq0&gt;12&lt;/seq0&gt;: configurazione di un Server remoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;154&lt;/seq0&gt;: Example master view</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085921Z" creationid="luke" creationdate="20180515T085921Z">
@@ -9931,6 +9939,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the connection is defined, click &lt;f0&gt;OK&lt;/f0&gt; to connect.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125343Z" creationid="Marco Marega" creationdate="20180622T125343Z">
+        <seg>Una volta che il collegamento è stato definita, fate clic su &lt;f0&gt;OK&lt;/f0&gt; per connettervi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once this option is activated, white space is also hidden in Full Screen view.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T134706Z" creationid="manuel" creationdate="20180621T134706Z">
@@ -12592,6 +12608,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T195115Z" creationid="Marco Marega" creationdate="20180621T195115Z">
         <seg>La finestra di dialogo che si aprirà quando usate il comando &lt;f0&gt;Salva con nome&lt;/f0&gt; dipende dalle opzioni che avete impostato in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog will dim until the connection is established with the server.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125604Z" creationid="Marco Marega" creationdate="20180622T125604Z">
+        <seg>La finestra di dialogo resterà disabilitata finché non verrà stabilito il collegamento con il server.</seg>
       </tuv>
     </tu>
     <tu>
