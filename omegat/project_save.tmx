@@ -8603,6 +8603,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also supports popular services like Google Drive and Microsoft OneNote, as well as commercial and open source servers that implement the OASIS CMIS standard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123929Z" creationid="Marco Marega" creationdate="20180622T123929Z">
+        <seg>Supporta anche servizi di uso comune come Google Drive e Microsoft OneNote, così come server sia commerciali che open source che implementano lo standard OASIS CMIS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also use dBASE, Microsoft Access, MySQL, or Oracle, or any ODBC compliant or JDBC compliant database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211226Z" creationid="Marco Marega" creationdate="20180527T211226Z">
@@ -8847,6 +8855,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190443Z" creationid="Marco Marega" creationdate="20180528T190443Z">
         <seg>LibreOffice 5.&lt;f0&gt;2&lt;/f0&gt; richiede uno dei seguenti sistemi operativi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice 5.&lt;f0&gt;2&lt;/f0&gt; supports many document servers that use well known network protocols such as FTP, WebDav, Windows share, and SSH.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123812Z" creationid="Marco Marega" creationdate="20180622T123812Z">
+        <seg>LibreOffice 5.&lt;f0&gt;2&lt;/f0&gt; supporta molti tipi di server di documenti che utilizzano dei ben noti protocolli di rete come FTP, WebDav, Windows share , e SSH.</seg>
       </tuv>
     </tu>
     <tu>
