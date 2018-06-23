@@ -1271,6 +1271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Create New Folder&lt;/f0&gt; – creates a new sub-folder in the folder that is displayed in the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123131Z" creationid="Marco Marega" creationdate="20180623T123131Z">
+        <seg>&lt;f0&gt;Crea nuova cartella&lt;/f0&gt; – crea una nuova sottocartella all'interno di quella mostrata nella finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Create the required sequence by removing images or moving them up or down in the list of images.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
