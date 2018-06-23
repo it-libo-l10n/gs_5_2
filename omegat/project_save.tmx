@@ -12315,6 +12315,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Read-only&lt;/f0&gt; option on the Open dialog opens the file for reading and printing only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123342Z" creationid="Marco Marega" creationdate="20180623T123342Z">
+        <seg>L'opzione di &lt;f0&gt;sola lettura&lt;/f0&gt; nella finestra di dialogo "Apri" apre il file in modalità di sola lettura e stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Reset&lt;/f0&gt; button, located in the lower right of the full Options dialog, has the same effect on all pages of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055034Z" creationid="manuel" creationdate="20180529T055034Z">
@@ -14953,6 +14961,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085947Z" creationid="luke" creationdate="20180515T085947Z">
         <seg>Use slide transitions &lt;f3&gt;(page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;185&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;) &lt;/f6&gt;to go smoothly to &lt;s7/&gt;the following photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;File type&lt;/f0&gt; field to specify the type of file to be opened or the format of the file to be saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123217Z" creationid="Marco Marega" creationdate="20180623T123217Z">
+        <seg>Usate il campo &lt;f0&gt;Tipo file&lt;/f0&gt; per specificare il tipo di file da aprire o il formato del file da salvare.</seg>
       </tuv>
     </tu>
     <tu>
