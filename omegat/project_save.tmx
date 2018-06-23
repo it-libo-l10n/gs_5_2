@@ -3010,8 +3010,8 @@
       <tuv lang="EN">
         <seg>Be aware that asking LibreOffice to remember more changes consumes more computer memory.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131538Z" creationid="Marco Marega" creationdate="20180623T131538Z">
-        <seg>Ricordate che richiedere a LibreOffice di ricordare più modifiche comporta il consumo di più memoria.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131550Z" creationid="Marco Marega" creationdate="20180623T131538Z">
+        <seg>Ricordate che richiedere a LibreOffice di ricordare più modifiche comporta un maggior consumo di memoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14270,8 +14270,8 @@
       <tuv lang="EN">
         <seg>To close LibreOffice completely, go to &lt;f0&gt;File &gt; Exit&lt;/f0&gt; on the Menu bar in Windows and Linux operating systems.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T082612Z" creationid="luke" creationdate="20180515T082612Z">
-        <seg>To close LibreOffice completely, go to &lt;f0&gt;File &gt; Exit&lt;/f0&gt; on the Menu bar in Windows and Linux operating systems.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131607Z" creationid="luke" creationdate="20180515T082612Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -17105,6 +17105,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T173954Z" creationid="manuel" creationdate="20180612T173954Z">
         <seg>Potete aggiungere nuovi stili a quelli esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may want to discard all the changes made in an editing session after the last document save.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131857Z" creationid="Marco Marega" creationdate="20180623T131857Z">
+        <seg>Potrebbe capitarvi di voler annullare tutte le modifiche apportate nella sessione di lavoro dopo l'ultima volta che il documento è stato salvato.</seg>
       </tuv>
     </tu>
     <tu>
