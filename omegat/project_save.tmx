@@ -9619,6 +9619,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of the icons and most menu options are disabled on the toolbars.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123451Z" creationid="Marco Marega" creationdate="20180623T123451Z">
+        <seg>Nelle barre degli strumenti la gran parte delle icone e delle opzioni dei menu saranno disabilitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of the tasks are best done in Slide Sorter view where you can see most of the slides simultaneously.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
@@ -12343,6 +12351,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T140952Z" creationid="manuel" creationdate="20180618T104139Z">
         <seg>La &lt;f0&gt;barra laterale di Writer&lt;/f0&gt; &lt;f1&gt;contiene&lt;/f1&gt; quattro pannelli &lt;f2&gt;predefiniti&lt;/f2&gt;: &lt;f3&gt;Proprietà&lt;/f3&gt;, &lt;f4&gt;Stili e formattazione&lt;/f4&gt;, &lt;f5&gt;Galleria&lt;/f5&gt; e &lt;f6&gt;Navigatore&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f1&gt;Edit File&lt;/f1&gt; icon becomes active on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123542Z" creationid="Marco Marega" creationdate="20180623T123542Z">
+        <seg>Nella barra degli strumenti Standard l'icona &lt;f1&gt;Modifica file&lt;/f1&gt; diventa attiva.</seg>
       </tuv>
     </tu>
     <tu>
