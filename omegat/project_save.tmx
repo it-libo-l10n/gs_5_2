@@ -6419,6 +6419,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in Writer it shows Headings, Tables, Text frames, Comments, Graphics, Bookmarks, and other items, as shown in Figure &lt;t0&gt;14&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124642Z" creationid="Marco Marega" creationdate="20180623T124642Z">
+        <seg>Per esempio, in Writer il Navigatore visualizza Intestazioni, Tabelle, Cornici di testo, Commenti, Immagini, Segnalibri, e altri oggetti, come mostrato nella Figura &lt;t0&gt;14&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, the Fax Wizard guides you through the following choices:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121206Z" creationid="manuel" creationdate="20180615T121206Z">
@@ -12484,6 +12492,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The LibreOffice Navigator lists objects contained within a document, collected into categories.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124424Z" creationid="Marco Marega" creationdate="20180623T124424Z">
+        <seg>Il Navigatore di LibreOffice elenca gli oggetti contenuti in un documento, raggruppati per categorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The LibreOffice user interface, including spelling, hyphenation, and thesaurus dictionaries, is available in over 100 languages and dialects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212557Z" creationid="Marco Marega" creationdate="20180527T212557Z">
@@ -13128,6 +13144,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154746Z" creationid="luke" creationdate="20180514T154746Z">
         <seg>The most used application commands were put together in the Styles, Sheets, and Slide menus, respectively.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The name of the folder will show in the Places pane.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124223Z" creationid="Marco Marega" creationdate="20180623T124223Z">
+        <seg>Il nome della cartella verrà visualizzato nel riquadro Risorse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14533,6 +14557,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remove a folder from the Places pane, click its name and then click the &lt;f1&gt;-&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124301Z" creationid="Marco Marega" creationdate="20180623T124301Z">
+        <seg>Per eliminare una cartella dal riquadro Risorse, fate clic sul suo nome e poi sul pulsante &lt;f1&gt;-&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remove any possible macro viruses from the Microsoft Office document, deselect &lt;f0&gt;Save original Basic code&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154205Z" creationid="manuel" creationdate="20180608T154205Z">
@@ -15359,8 +15391,8 @@
       <tuv lang="EN">
         <seg>Using the Navigator</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174518Z" creationid="Elisabetta Manuele" creationdate="20180620T174518Z">
-        <seg>Uso del Navigatore</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124348Z" creationid="Elisabetta Manuele" creationdate="20180620T174518Z">
+        <seg>Usare il Navigatore</seg>
       </tuv>
     </tu>
     <tu>
