@@ -3681,6 +3681,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose whether to save or discard your changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133439Z" creationid="Marco Marega" creationdate="20180623T133439Z">
+        <seg>Scegliete se salvare o scartare le vostre modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choosing &lt;bs0/&gt;Open and Save As dialogs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203619Z" creationid="Marco Marega" creationdate="20180622T203619Z">
@@ -4316,8 +4324,8 @@
       <tuv lang="EN">
         <seg>Closing LibreOffice</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175408Z" creationid="Elisabetta Manuele" creationdate="20180620T175408Z">
-        <seg>Chiusura di LibreOffice</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133559Z" creationid="Elisabetta Manuele" creationdate="20180620T175408Z">
+        <seg>Chiudere LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -9947,6 +9955,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not saving your document could result in the loss of recently made changes, or worse still, the entire file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133540Z" creationid="Marco Marega" creationdate="20180623T133540Z">
+        <seg>Non salvare il documento può farvi perdere le modifiche recenti o, ancor peggio, l'intero file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not supported on all operating systems and LibreOffice distributions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055323Z" creationid="manuel" creationdate="20180531T055323Z">
@@ -14366,8 +14382,8 @@
       <tuv lang="EN">
         <seg>To close LibreOffice completely, go to &lt;f0&gt;File &gt; Exit&lt;/f0&gt; on the Menu bar in Windows and Linux operating systems.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131607Z" creationid="luke" creationdate="20180515T082612Z">
-        <seg></seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133748Z" creationid="luke" creationdate="20180515T082612Z">
+        <seg>Per chiudere completamente LibreOffice, nei sistemi operativi Windows e Linux, nella barra del menu andate in &lt;f0&gt;File &gt; Chiudi&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
