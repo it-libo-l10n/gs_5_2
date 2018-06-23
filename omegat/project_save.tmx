@@ -2119,6 +2119,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A confirmation dialog will warn you that you will discard your last changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T132538Z" creationid="Marco Marega" creationdate="20180623T132538Z">
+        <seg>Una finestra di dialogo di conferma vi avvertirà che state per annullare tutte le vostre ultime modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A context menu can be the easiest way to reach a function, especially if you are not sure where the function is located in the menus or toolbars.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190802Z" creationid="Marco Marega" creationdate="20180620T190802Z">
@@ -7587,6 +7595,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If only one document is open and you want to close that document, go to &lt;f0&gt;File &gt; Close&lt;/f0&gt; on the Menu bar or click on the X on the right or left end of the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T132934Z" creationid="Marco Marega" creationdate="20180623T132934Z">
+        <seg>Se è aperto un solo documento e volete chiudere quel documento, nella barra del menu andate in &lt;f0&gt;File &gt; Chiudi&lt;/f0&gt; oppure fate clic sulla X sul margine destro (o sinistro) della barra del menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;f0&gt;Decimal separator key&lt;/f0&gt; option is selected, LibreOffice use&lt;f1&gt;s&lt;/f1&gt; the character defined by the default locale.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T060442Z" creationid="manuel" creationdate="20180609T060442Z">
@@ -10095,6 +10111,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160211Z" creationid="manuel" creationdate="20180615T160211Z">
         <seg>Su altri siti web potreste trovare collezioni di modelli pacchettizzate in file con estensione (OXT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On reloading your document, the File dialog will not open, because the file is already selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T132659Z" creationid="Marco Marega" creationdate="20180623T132659Z">
+        <seg>Quando ricaricate un documento, poiché il file è già selezionato, la finestra di dialogo Apri file non apparirà.</seg>
       </tuv>
     </tu>
     <tu>
