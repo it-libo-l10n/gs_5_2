@@ -3217,6 +3217,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc is the spreadsheet component of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134627Z" creationid="Marco Marega" creationdate="20180623T134627Z">
+        <seg>Calc è il componente per fogli elettronici di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc main window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181436Z" creationid="Elisabetta Manuele" creationdate="20180620T181436Z">
