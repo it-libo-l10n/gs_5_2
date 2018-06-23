@@ -5163,6 +5163,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each Navigator in the individual LibreOffice components has a different range of functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130124Z" creationid="Marco Marega" creationdate="20180623T130124Z">
+        <seg>Il Navigatore di ogni singolo componente di LibreOffice possiede una diversa gamma di funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each Style dialog has several tabs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160558Z" creationid="manuel" creationdate="20180612T160558Z">
@@ -5551,6 +5559,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203115Z" creationid="Marco Marega" creationdate="20180622T203115Z">
         <seg>Figura &lt;seq0&gt;13&lt;/seq0&gt;: la finestra di dialogo File remoti quando si è collegati ad un server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Navigator in Writer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130224Z" creationid="Marco Marega" creationdate="20180623T130224Z">
+        <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: il Navigatore in Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -13620,6 +13636,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These functions are further explained in the user guide for each LibreOffice component.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130215Z" creationid="Marco Marega" creationdate="20180623T130215Z">
+        <seg>Queste funzioni vengono spiegate in maggior dettaglio nella guida utente di ciascun componente di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These options are for macro programmers and are not discussed here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071621Z" creationid="manuel" creationdate="20180608T071621Z">
@@ -14975,8 +14999,8 @@
       <tuv lang="EN">
         <seg>Undoing and redoing changes</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174532Z" creationid="luke" creationdate="20180515T082610Z">
-        <seg>Annullamento e ripristino delle modifiche</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130243Z" creationid="luke" creationdate="20180515T082610Z">
+        <seg>Annullare e ripristinare le modifiche</seg>
       </tuv>
     </tu>
     <tu>
