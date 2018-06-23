@@ -2127,6 +2127,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A copy of the document that is currently stored in the file system is loaded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T132257Z" creationid="Marco Marega" creationdate="20180623T132257Z">
+        <seg>Viene caricata una copia del documento che in quel momento è memorizzata nel file system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A device is blacklisted when it is buggy or may render graphics with poor quality.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T144508Z" creationid="manuel" creationdate="20180531T062258Z">
@@ -13004,6 +13012,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The document returns to the state where it was last saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T132356Z" creationid="Marco Marega" creationdate="20180623T132356Z">
+        <seg>Il documento ritorna nella situazione in cui si trovava l'ultima volta che è stato salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The document will be saved without the Microsoft Basic code.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154209Z" creationid="manuel" creationdate="20180608T154209Z">
@@ -14721,6 +14737,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130841Z" creationid="Marco Marega" creationdate="20180623T130719Z">
         <seg>Per ripristinare una modifica usate la combinazione di tasti &lt;f0&gt;Ctrl+Y&lt;/f0&gt;, o fate clic sull'icona &lt;f1&gt;Ripristina&lt;/f1&gt;, oppure nella barra del menu andante in &lt;f2&gt;Modifica &gt; Ripristina&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To reload a document, go to &lt;f0&gt;File &gt; Reload&lt;/f0&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T132428Z" creationid="Marco Marega" creationdate="20180623T132428Z">
+        <seg>Per ricaricare un documento, nella barra del menu andate in &lt;f0&gt;File &gt; Ricarica&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
