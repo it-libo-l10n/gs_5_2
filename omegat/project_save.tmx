@@ -4162,6 +4162,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the small triangle to the right of the &lt;f3&gt;Undo&lt;/f3&gt; icon to get a list of all the changes that can be undone.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130621Z" creationid="Marco Marega" creationdate="20180623T130621Z">
+        <seg>Fate clic sul piccolo triangolo a destra dell'icona &lt;f3&gt;Annulla&lt;/f3&gt; per ottenere un elenco di tutte le modifiche che possono essere annullate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click this icon to open a dialog where you can choose to download the update.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071837Z" creationid="manuel" creationdate="20180608T071837Z">
@@ -14809,6 +14817,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212052Z" creationid="Marco Marega" creationdate="20180616T212052Z">
         <seg>Per chiudere temporaneamente Quickstart su di un computer con sistema operativo Windows, fate clic con il tasto destro del mouse sull'icona di &lt;f0&gt;Quickstart&lt;/f0&gt; nell'area di notifica e nel menu a comparsa selezionate &lt;f1&gt;Termina Quickstart&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To undo the most recent change in a document, use the keyboard shortcut &lt;f0&gt;Ctrl+Z,&lt;/f0&gt; or click the &lt;f1&gt;Undo&lt;/f1&gt; icon on the Standard toolbar, or go to &lt;f2&gt;Edit &gt; Undo&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130549Z" creationid="Marco Marega" creationdate="20180623T130549Z">
+        <seg>Per annullare la modifica più recente apportata in un documento, usate la combinazione di tasti &lt;f0&gt;Ctrl+Z,&lt;/f0&gt; o fate clic sull'icona &lt;f1&gt;Annulla&lt;/f1&gt; nella barra degli strumenti Standard, oppure nella barra del menu andante in &lt;f2&gt;Modifica &gt; Annulla&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
