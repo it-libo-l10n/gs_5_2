@@ -12556,6 +12556,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Navigator provides several convenient ways to move around a document and find items in it:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T125541Z" creationid="Marco Marega" creationdate="20180623T125541Z">
+        <seg>Il Navigatore mette a disposizione diversi modi per spostarsi in un documento e per trovare degli elementi al suo interno:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The New icon changes depending on which component of LibreOffice is open.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123921Z" creationid="Marco Marega" creationdate="20180621T123921Z">
@@ -15681,6 +15689,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203621Z" creationid="Marco Marega" creationdate="20180607T203621Z">
         <seg>Se Quickstart è attivato, le librerie necessarie vengono caricate all'avvio del computer, permettendo un tempo di caricamento più rapido dei componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a category is showing the list of objects in it, double-click on an object to jump directly to that object’s location in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T125750Z" creationid="Marco Marega" creationdate="20180623T125750Z">
+        <seg>Quando sono visualizzati tutti gli oggetti presenti in una categoria, è sufficiente un doppio clic su un elemento per andare direttamente alla posizione in cui quell'oggetto si trova nel documento.</seg>
       </tuv>
     </tu>
     <tu>
