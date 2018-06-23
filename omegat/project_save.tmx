@@ -9939,6 +9939,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Objects are much easier to find if you have given them recognizable names when creating them, instead of keeping the default names such as Sheet1, Table1, or Table2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T125931Z" creationid="Marco Marega" creationdate="20180623T125931Z">
+        <seg>Gli oggetti sono molto più facili da trovare se, al momento della loro creazione, avete assegnato loro un nome specifico invece di mantenere i nomi predefiniti del tipo Foglio1, Tabella1 o Tabella2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often applying a style means applying a whole group of formats at the same time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143400Z" creationid="manuel" creationdate="20180611T143400Z">
@@ -12880,6 +12888,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T134905Z" creationid="manuel" creationdate="20180615T134905Z">
         <seg>La posizione predefinita è la cartella dei modelli personali, ma potete scegliere una posizione diversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default names may not correspond to the actual position of the object in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130020Z" creationid="Marco Marega" creationdate="20180623T130020Z">
+        <seg>I nomi predefiniti potrebbero non corrispondere alla reale posizione dell'oggetto nel documento.</seg>
       </tuv>
     </tu>
     <tu>
