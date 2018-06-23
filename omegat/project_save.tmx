@@ -3483,8 +3483,8 @@
       <tuv lang="EN">
         <seg>Chapter 5 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T083113Z" creationid="luke" creationdate="20180515T083113Z">
-        <seg>Chapter 5 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134537Z" creationid="luke" creationdate="20180515T083113Z">
+        <seg>Capitolo 5 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6983,6 +6983,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085820Z" creationid="luke" creationdate="20180515T083543Z">
         <seg>Guida introduttiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting Started with Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134545Z" creationid="Marco Marega" creationdate="20180623T134545Z">
+        <seg>Guida introduttiva a Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -15593,6 +15601,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T205539Z" creationid="Marco Marega" creationdate="20180614T205539Z">
         <seg>Usare Quickstart su Windows o Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Spreadsheets in LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134558Z" creationid="Marco Marega" creationdate="20180623T134558Z">
+        <seg>Utilizzo dei fogli elettronici in LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
