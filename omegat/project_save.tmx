@@ -7571,6 +7571,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If more than one document is open and you want to close one of them, go to &lt;f0&gt;File &gt; Close&lt;/f0&gt; on the Menu bar or click on the X on the title bar of that document’s window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133302Z" creationid="Marco Marega" creationdate="20180623T133302Z">
+        <seg>Se sono aperti più documenti e volete chiuderne uno solo di essi, nella barra del menu andate in &lt;f0&gt;File &gt; Chiudi&lt;/f0&gt; o fate clic sulla X nella barra del titolo della finestra di quel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If more than one language has been installed for LibreOffice, you can select which language will be used for menus, dialogs, and help files.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171527Z" creationid="manuel" creationdate="20180608T171527Z">
@@ -7687,6 +7695,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T070513Z" creationid="manuel" creationdate="20180618T070513Z">
         <seg>Se il documento è stato firmato digitalmente, viene visualizzata questa icona (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;); altrimenti il campo rimane vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the document has not been saved since the last change, a message box is displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133417Z" creationid="Marco Marega" creationdate="20180623T133417Z">
+        <seg>Se il documento non è stato salvato dopo l'ultima modifica, verrà visualizzato un messaggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10055,6 +10071,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170046Z" creationid="Elisabetta Manuele" creationdate="20180620T170046Z">
         <seg>Olivier Hallot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On Mac OS X, the document closes and only the Menu bar remains at the top of the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133148Z" creationid="Marco Marega" creationdate="20180623T133148Z">
+        <seg>In Mac OS X, il documento si chiuderà e rimarrà aperta solo la barra del menu in cima allo schermo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12832,6 +12856,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161004Z" creationid="manuel" creationdate="20180616T161004Z">
         <seg>L'interfaccia di Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The X may be located on either the right or left end of the title bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133334Z" creationid="Marco Marega" creationdate="20180623T133334Z">
+        <seg>La X può trovarsi sia all'estremità destra che sinistra della barra del titolo.</seg>
       </tuv>
     </tu>
     <tu>
