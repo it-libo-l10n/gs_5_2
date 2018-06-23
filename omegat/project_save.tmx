@@ -7555,6 +7555,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If any documents have not been saved since the last change, a message box is displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134146Z" creationid="Marco Marega" creationdate="20180623T134146Z">
+        <seg>Se qualche documento non è stato salvato dopo l'ultima modifica, verrà visualizzato un messaggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If both options are selected and you edit the disabled code in LibreOffice, the original Microsoft Basic code will be saved when saving in a Microsoft Office format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154154Z" creationid="manuel" creationdate="20180608T154154Z">
@@ -8467,10 +8475,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Mac OS X – &lt;f0&gt;Command ⌘+Q&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134112Z" creationid="Marco Marega" creationdate="20180623T134112Z">
+        <seg>In Mac OS X – &lt;f0&gt;Command ⌘+Q&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Web Layout view, you can use only the Zoom slider; the View Layout buttons on the Status bar are disabled, and most of the choices on the Zoom &amp; View Layout dialog are not available.&lt;f0&gt; In Web layout there is no visual indication of page boundaries.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T105340Z" creationid="manuel" creationdate="20180621T105340Z">
         <seg>In visualizzazione Layout Web potete utilizzare soltanto il cursore dello Zoom; i pulsanti di Visualizzazione del Layout sulla barra di stato sono disabilitati, e la maggior parte delle opzioni nella finestra di dialogo Zoom e layout visualizzazione non sono disponibili.&lt;f0&gt;Nel layout Web non vi è alcuna indicazione visiva dei limiti della pagina.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Windows and Linux – &lt;f0&gt;Ctrl+Q&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134100Z" creationid="Marco Marega" creationdate="20180623T134100Z">
+        <seg>In Windows e Linux – &lt;f0&gt;Ctrl+Q&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16625,6 +16649,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T110130Z" creationid="manuel" creationdate="20180621T110130Z">
         <seg>Per entrare o uscire dalla visualizzazione Schermo intero potete anche utilizzare la combinazione di tasti &lt;f4&gt;Ctrl+Maiusc+J&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also use a keyboard shortcut as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134056Z" creationid="Marco Marega" creationdate="20180623T134056Z">
+        <seg>Potete anche usare i seguenti tasti di scelta rapida:</seg>
       </tuv>
     </tu>
     <tu>
