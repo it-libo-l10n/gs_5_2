@@ -10059,6 +10059,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On Windows and Linux, the document closes and the LibreOffice Start Center opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133035Z" creationid="Marco Marega" creationdate="20180623T133035Z">
+        <seg>In Windows e Linux, il documento si chiuderà e si aprirà il Centro di Avvio di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On Windows or Linux, use the Quickstarter feature included with LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124142Z" creationid="Marco Marega" creationdate="20180621T124142Z">
