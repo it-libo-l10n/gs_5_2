@@ -13700,6 +13700,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This lets you quickly navigate to the target folder or remote server.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124119Z" creationid="Marco Marega" creationdate="20180623T124119Z">
+        <seg>Questo vi permette di raggiungere velocemente la cartella o il server remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This makes LibreOffice start faster; the trade-off is LibreOffice uses some memory even when not being used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082201Z" creationid="manuel" creationdate="20180530T082201Z">
@@ -13936,6 +13944,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085933Z" creationid="luke" creationdate="20180515T085933Z">
         <seg>To add a field into an object or as a separate object on a slide, select &lt;f0&gt;Insert &gt; Fields&lt;/f0&gt; on the Menu bar and select the required field from the submenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add a place, navigate to the folder where your document is located and click the &lt;f0&gt;+&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124202Z" creationid="Marco Marega" creationdate="20180623T124202Z">
+        <seg>Per aggiungere una risorsa, navigate fino alla cartella in cui si trova il vostro documento e fate clic sul pulsante &lt;f0&gt;+&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
