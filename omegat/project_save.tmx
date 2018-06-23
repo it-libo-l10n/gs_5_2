@@ -3008,6 +3008,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be aware that asking LibreOffice to remember more changes consumes more computer memory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131538Z" creationid="Marco Marega" creationdate="20180623T131538Z">
+        <seg>Ricordate che richiedere a LibreOffice di ricordare più modifiche comporta il consumo di più memoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Be aware that by changing the options on the Page panel, you will change the page style in use, modifying not only the current page but all pages using the same page style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180620T151102Z" creationid="manuel" creationdate="20180620T151102Z">
@@ -8639,6 +8647,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T082430Z" creationid="manuel" creationdate="20180616T082430Z">
         <seg>Nella finestra di dialogo &lt;f0&gt;Modello&lt;/f0&gt;, aprite la &lt;f1&gt;categoria&lt;/f1&gt; contenente il modello che desiderate impostare come predefinito, quindi selezionate il modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Undo section increase or decrease the&lt;f1&gt; Number of steps&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131457Z" creationid="Marco Marega" creationdate="20180623T131457Z">
+        <seg>Nella sezione Annulla aumentate do diminuite il &lt;f1&gt; Numero di oggetti&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
