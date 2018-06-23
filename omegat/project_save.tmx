@@ -8275,6 +8275,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Calc it shows Sheets, Range Names, Database Ranges, Graphics, Drawing Objects, and other items.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124822Z" creationid="Marco Marega" creationdate="20180623T124822Z">
+        <seg>In Calc visualizza Fogli, Nomi dell'Area, Aree Database, Immagini, Oggetti di disegno e altri oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Calc, draw a temporary draw object and use the context menu of this object to open the Area dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072725Z" creationid="manuel" creationdate="20180531T072725Z">
