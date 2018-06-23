@@ -3961,6 +3961,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on this icon to open the file for editing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123628Z" creationid="Marco Marega" creationdate="20180623T123628Z">
+        <seg>Fate clic su quest'icona per aprire il file per la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click once on it to activate the file handling controls (see Figure &lt;t0&gt;52&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154738Z" creationid="manuel" creationdate="20180615T154738Z">
@@ -12512,6 +12520,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060409Z" creationid="manuel" creationdate="20180618T060323Z">
         <seg>Viene mostrata la finestra di dialogo Stile di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Places pane in the dialog displays the shortcuts to folders and file services you bookmarked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124042Z" creationid="Marco Marega" creationdate="20180623T124042Z">
+        <seg>Il riquadro Risorse della finestra di dialogo visualizza delle scorciatoie per le cartelle ed i servizi di file che avere memorizzato.</seg>
       </tuv>
     </tu>
     <tu>
