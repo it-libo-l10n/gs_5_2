@@ -2439,6 +2439,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After changes have been undone, you can redo changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130711Z" creationid="Marco Marega" creationdate="20180623T130711Z">
+        <seg>Dopo aver annullato delle modifiche, potete ripristinarle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After selecting the additional grammar checks, you must restart LibreOffice, or reload the document, for them to take effect.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T100148Z" creationid="manuel" creationdate="20180609T100148Z">
@@ -2795,6 +2803,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T074132Z" creationid="manuel" creationdate="20180616T074132Z">
         <seg>Poiché si tratta di una funzionalità sperimentale, potrebbe non funzionare in modo affidabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As with Undo, click on the triangle to the right of the arrow to get a list of the changes that can be reapplied.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130932Z" creationid="Marco Marega" creationdate="20180623T130722Z">
+        <seg>Come con la funzione Annulla, fate clic sul triangolo a destra dell'icona per visualizzare un elenco delle modifiche che possono essere ripristinate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14653,6 +14669,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To redo a change use the keyboard shortcut &lt;f0&gt;Ctrl+Y&lt;/f0&gt;, or click the &lt;f1&gt;Redo&lt;/f1&gt; icon, or go to &lt;f2&gt;Edit &gt; Redo&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130841Z" creationid="Marco Marega" creationdate="20180623T130719Z">
+        <seg>Per ripristinare una modifica usate la combinazione di tasti &lt;f0&gt;Ctrl+Y&lt;/f0&gt;, o fate clic sull'icona &lt;f1&gt;Ripristina&lt;/f1&gt;, oppure nella barra del menu andante in &lt;f2&gt;Modifica &gt; Ripristina&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remove a folder from the Places pane, click its name and then click the &lt;f1&gt;-&lt;/f1&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124301Z" creationid="Marco Marega" creationdate="20180623T124301Z">
@@ -16761,6 +16785,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152709Z" creationid="manuel" creationdate="20180621T152709Z">
         <seg>Utilizzando la modalità di selezione a blocchi, potete selezionare una porzione verticale, o "colonna", di testo che sia separato da spazi o tabulazioni (ad esempio testo incollato da e-mail, listati di programmi, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select multiple changes and undo them at the same time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130628Z" creationid="Marco Marega" creationdate="20180623T130628Z">
+        <seg>È possibile selezionare più azioni e annullarle contemporaneamente.</seg>
       </tuv>
     </tu>
     <tu>
