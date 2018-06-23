@@ -4138,6 +4138,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the marker (+ or triangle) by any of the categories to display the list of objects in that category.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T125358Z" creationid="Marco Marega" creationdate="20180623T125358Z">
+        <seg>Per visualizzare l'elenco degli oggetti presente ciascuna categoria fate clic sul contrassegno (+ o triangolo) a fianco di ognuna di esse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the mouse to move to the next slide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
@@ -8359,6 +8367,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212004Z" creationid="Marco Marega" creationdate="20180619T212004Z">
         <seg>In un'installazione standard di LibreOffice, la barra degli strumenti agganciata in alto, subito sotto alla barra del Menu, viene chiamata barra degli strumenti &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a default installation of LibreOffice, the Navigator is part of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T125158Z" creationid="Marco Marega" creationdate="20180623T125158Z">
+        <seg>In un'installazione predefinita di LibreOffice, il Navigatore fa parte della barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
