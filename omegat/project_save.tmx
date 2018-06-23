@@ -13748,6 +13748,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can save several repetitive menu navigation clicks or keyboard shortcuts, especially when the command is taken from a secondary menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131209Z" creationid="Marco Marega" creationdate="20180623T130951Z">
+        <seg>Questo può risparmiare diversi clic e ripetute navigazioni all'interno dei menu o diverse pressioni di combinazioni di tasti, specialmente quando il comando si trova in un menu secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This deck is an alternate view of the Manage Changes dialog that can be opened from &lt;f1&gt;Edit &gt; Track Changes &gt; Manage Changes&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141136Z" creationid="manuel" creationdate="20180621T101800Z">
@@ -14580,6 +14588,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To modify the number of changes LibreOffice remembers, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Memory&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131327Z" creationid="Marco Marega" creationdate="20180623T131327Z">
+        <seg>Per variare il numero di modifiche ricordato da LibreOffice, nella barra del menu selezionate &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Memoria&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To move a floating toolbar, click on its title bar and drag it to a new floating location or dock the toolbar at the top or bottom of the main window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T182110Z" creationid="Marco Marega" creationdate="20180620T182110Z">
@@ -14697,6 +14713,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154345Z" creationid="manuel" creationdate="20180612T154345Z">
         <seg>Per rimuovere la formattazione manuale, selezionate il testo, fate clic con il pulsante destro, e scegliete &lt;f0&gt;Cancella la formattazione diretta&lt;/f0&gt; dal menu contestuale, oppure selezionate il testo e premete &lt;f1&gt;Ctrl+M&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To repeat the last command applied to your document, use the shortcut &lt;f0&gt;Ctrl+Shift+Y&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131016Z" creationid="Marco Marega" creationdate="20180623T130947Z">
+        <seg>Per ripetere l'ultimo comando applicato al documento, usate la combinazione di tasti &lt;f0&gt;Ctrl+Maiusc+Y&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
