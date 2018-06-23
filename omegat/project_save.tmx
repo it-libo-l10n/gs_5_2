@@ -8315,6 +8315,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Impress and Draw it shows Slides, Pictures, and other items.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124841Z" creationid="Marco Marega" creationdate="20180623T124841Z">
+        <seg>In Impress e Draw visualizza Diapositive, Immagini ed altri oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Insert mode, any text after the cursor position moves forward to make room for the text you type; in Overwrite mode, text after the cursor position is replaced by the text you type.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064938Z" creationid="manuel" creationdate="20180618T064938Z">
@@ -14505,6 +14513,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141127Z" creationid="manuel" creationdate="20180609T141127Z">
         <seg>Per aprire la finestra di dialogo Correzione automatica, fate clic su &lt;f0&gt;Strumenti &gt; Opzioni di correzione automatica&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To open the Navigator, click the &lt;f0&gt;Navigator&lt;/f0&gt; icon on the Standard toolbar, or press the &lt;f1&gt;F5&lt;/f1&gt; key, or go to &lt;f2&gt;View &gt; Navigator&lt;/f2&gt; on the Menu bar, or click the Navigator icon in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T125105Z" creationid="Marco Marega" creationdate="20180623T125105Z">
+        <seg>Per aprire il Navigatore, fate clic sull'icona &lt;f0&gt;Navigatore&lt;/f0&gt; nella barra degli strumenti Standard, o premete il tasto &lt;f1&gt;F5&lt;/f1&gt;, o andate in &lt;f2&gt;Visualizza &gt; Navigatore&lt;/f2&gt; nella barra del menu, oppure fate clic sull'icona Navigatore nella barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
