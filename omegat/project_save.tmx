@@ -2063,6 +2063,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Mac operating system does not have this function; instead, you need to use to &lt;f0&gt;LibreOffice &gt; Quit LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134034Z" creationid="Marco Marega" creationdate="20180623T134034Z">
+        <seg>Un sistema operativo Mac non ha questa funzione; dovete quindi usare &lt;f0&gt;LibreOffice &gt; Esci da LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A MediaWiki publisher is included on Windows and Linux.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T140624Z" creationid="manuel" creationdate="20180609T140624Z">
@@ -8463,6 +8471,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T105340Z" creationid="manuel" creationdate="20180621T105340Z">
         <seg>In visualizzazione Layout Web potete utilizzare soltanto il cursore dello Zoom; i pulsanti di Visualizzazione del Layout sulla barra di stato sono disabilitati, e la maggior parte delle opzioni nella finestra di dialogo Zoom e layout visualizzazione non sono disponibili.&lt;f0&gt;Nel layout Web non vi è alcuna indicazione visiva dei limiti della pagina.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a Mac operating system, go to &lt;f1&gt;LibreOffice &gt; Quit LibreOffice&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133845Z" creationid="Marco Marega" creationdate="20180623T133845Z">
+        <seg>In un sistema operativo Mac, nella barra del menu andate in &lt;f1&gt;LibreOffice &gt; Esci da LibreOffice&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16113,6 +16129,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065543Z" creationid="manuel" creationdate="20180618T065543Z">
         <seg>Facendo clic sul campo un menu contestuale mostra le opzioni disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you close the last document using the X on the title bar of the window, then LibreOffice will close completely.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133935Z" creationid="Marco Marega" creationdate="20180623T133935Z">
+        <seg>Se chiudete l'ultimo documento aperto usando la X sulla barra del titolo della finestra, LibreOffice si chiuderà completamente.</seg>
       </tuv>
     </tu>
     <tu>
