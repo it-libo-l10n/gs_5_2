@@ -1134,6 +1134,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>383</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152353Z" creationid="Elisabetta Manuele" creationdate="20180625T152353Z">
+        <seg>383</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>384</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152403Z" creationid="Elisabetta Manuele" creationdate="20180625T152403Z">
+        <seg>384</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>385</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152504Z" creationid="Elisabetta Manuele" creationdate="20180625T152504Z">
+        <seg>385</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>386</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152513Z" creationid="Elisabetta Manuele" creationdate="20180625T152513Z">
+        <seg>386</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>387</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152546Z" creationid="Elisabetta Manuele" creationdate="20180625T152546Z">
+        <seg>387</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>51</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175458Z" creationid="Elisabetta Manuele" creationdate="20180620T175458Z">
@@ -2511,6 +2551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A short history of LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152526Z" creationid="Elisabetta Manuele" creationdate="20180625T152526Z">
+        <seg>Breve storia di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A small box showing the new color is added to the Color table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072718Z" creationid="manuel" creationdate="20180531T072718Z">
@@ -3019,6 +3067,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T084400Z" creationid="luke" creationdate="20180515T084400Z">
         <seg>Appendix B &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix B Open Source, Open Standards, OpenDocument</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152502Z" creationid="Elisabetta Manuele" creationdate="20180625T152502Z">
+        <seg>Appendice B Open Source, Open Standards, OpenDocument</seg>
       </tuv>
     </tu>
     <tu>
@@ -5259,6 +5315,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defining keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152401Z" creationid="Elisabetta Manuele" creationdate="20180625T152401Z">
+        <seg>Definire i tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delete any unwanted text or graphics from this new document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T100745Z" creationid="manuel" creationdate="20180616T100705Z">
@@ -6603,6 +6667,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File formats LibreOffice can open</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152656Z" creationid="Elisabetta Manuele" creationdate="20180625T152656Z">
+        <seg>Formati di file che possono essere elaborati da LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill Format</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T172935Z" creationid="manuel" creationdate="20180612T134616Z">
@@ -7347,6 +7419,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Further reading</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152409Z" creationid="Elisabetta Manuele" creationdate="20180625T152409Z">
+        <seg>Ulteriori letture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142715Z" creationid="manuel" creationdate="20180608T142715Z">
@@ -7751,6 +7831,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181831Z" creationid="Marco Marega" creationdate="20180620T181831Z">
         <seg>Tenete premuto il pulsante sinistro del mouse e trascinate la barra degli strumenti nella nuova posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How is LibreOffice licensed?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152543Z" creationid="Elisabetta Manuele" creationdate="20180625T152543Z">
+        <seg>Licenza di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -12523,6 +12611,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut keys for drawing objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152350Z" creationid="Elisabetta Manuele" creationdate="20180625T152350Z">
+        <seg>Tasti di scelta rapida per oggetti di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shows the current language of the text at the current cursor position.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191747Z" creationid="Marco Marega" creationdate="20180620T191747Z">
@@ -13216,6 +13312,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124424Z" creationid="Marco Marega" creationdate="20180623T124424Z">
         <seg>Il Navigatore di LibreOffice elenca gli oggetti contenuti in un documento, raggruppati per categorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LibreOffice community</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152534Z" creationid="Elisabetta Manuele" creationdate="20180625T152534Z">
+        <seg>La comunità di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -16381,6 +16485,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What are “open standards”?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152610Z" creationid="Elisabetta Manuele" creationdate="20180625T152610Z">
+        <seg>Che cosa sono gli “standard aperti”?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What is Calc?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181414Z" creationid="Elisabetta Manuele" creationdate="20180620T181414Z">
@@ -16413,6 +16525,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What is OpenDocument?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152615Z" creationid="Elisabetta Manuele" creationdate="20180625T152615Z">
+        <seg>Che cos'è il formato OpenDocument?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What is Writer?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160427Z" creationid="manuel" creationdate="20180616T160427Z">
@@ -16425,6 +16545,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175714Z" creationid="manuel" creationdate="20180611T112124Z">
         <seg>Definizione di modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is “open source”?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152557Z" creationid="Elisabetta Manuele" creationdate="20180625T152557Z">
+        <seg>Che cos'è l'“open source"?</seg>
       </tuv>
     </tu>
     <tu>
