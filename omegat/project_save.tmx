@@ -1046,6 +1046,86 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>365</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151725Z" creationid="Elisabetta Manuele" creationdate="20180625T151725Z">
+        <seg>365</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>366</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151759Z" creationid="Elisabetta Manuele" creationdate="20180625T151759Z">
+        <seg>366</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>367</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151802Z" creationid="Elisabetta Manuele" creationdate="20180625T151802Z">
+        <seg>367</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>370</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151819Z" creationid="Elisabetta Manuele" creationdate="20180625T151819Z">
+        <seg>370</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>373</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151829Z" creationid="Elisabetta Manuele" creationdate="20180625T151829Z">
+        <seg>373</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>376</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151836Z" creationid="Elisabetta Manuele" creationdate="20180625T151836Z">
+        <seg>376</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>378</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151939Z" creationid="Elisabetta Manuele" creationdate="20180625T151939Z">
+        <seg>378</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>379</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151943Z" creationid="Elisabetta Manuele" creationdate="20180625T151943Z">
+        <seg>379</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>380</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151954Z" creationid="Elisabetta Manuele" creationdate="20180625T151954Z">
+        <seg>380</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>381</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152014Z" creationid="Elisabetta Manuele" creationdate="20180625T152014Z">
+        <seg>381</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>51</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175458Z" creationid="Elisabetta Manuele" creationdate="20180620T175458Z">
@@ -2543,6 +2623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding functionality with extensions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151908Z" creationid="Elisabetta Manuele" creationdate="20180625T151908Z">
+        <seg>Aggiunta di funzioni mediante le estensioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding images to a document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T150831Z" creationid="Elisabetta Manuele" creationdate="20180625T150831Z">
@@ -2911,6 +2999,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appendix A Keyboard Shortcuts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151936Z" creationid="Elisabetta Manuele" creationdate="20180625T151936Z">
+        <seg>Appendice A Uso dei tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appendix B &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T084400Z" creationid="luke" creationdate="20180515T084400Z">
@@ -3011,6 +3107,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072451Z" creationid="manuel" creationdate="20180609T072451Z">
         <seg>Supporto lingue asiatiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assigning macros to events</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151833Z" creationid="Elisabetta Manuele" creationdate="20180625T151833Z">
+        <seg>Assegnare macro agli eventi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assigning shortcut keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151826Z" creationid="Elisabetta Manuele" creationdate="20180625T151826Z">
+        <seg>Assegnare combinazioni di tasti</seg>
       </tuv>
     </tu>
     <tu>
@@ -3613,6 +3725,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T084113Z" creationid="luke" creationdate="20180515T084113Z">
         <seg>Chapter 14 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 14 Customizing LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151753Z" creationid="Elisabetta Manuele" creationdate="20180625T151753Z">
+        <seg>Capitolo 14 Personalizzare LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -4644,8 +4764,8 @@
       <tuv lang="EN">
         <seg>Controlling dialogs</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154651Z" creationid="luke" creationdate="20180514T154651Z">
-        <seg>Controlling dialogs</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152104Z" creationid="luke" creationdate="20180514T154651Z">
+        <seg>Controlli nelle finestre di dialogo</seg>
       </tuv>
     </tu>
     <tu>
@@ -4959,6 +5079,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085952Z" creationid="luke" creationdate="20180515T085952Z">
         <seg>Custom slide shows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing menu content</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151812Z" creationid="Elisabetta Manuele" creationdate="20180625T151812Z">
+        <seg>Personalizzare il contenuto dei menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7199,6 +7327,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142715Z" creationid="manuel" creationdate="20180608T142715Z">
         <seg>Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151951Z" creationid="Elisabetta Manuele" creationdate="20180625T151951Z">
+        <seg>Tasti di scelta rapida generali</seg>
       </tuv>
     </tu>
     <tu>
@@ -10231,6 +10367,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154637Z" creationid="manuel" creationdate="20180615T154637Z">
         <seg>Passate al modello che desiderate modificare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigating and selecting with the keyboard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152011Z" creationid="Elisabetta Manuele" creationdate="20180625T152011Z">
+        <seg>Navigazione e selezione tramite tastiera</seg>
       </tuv>
     </tu>
     <tu>
