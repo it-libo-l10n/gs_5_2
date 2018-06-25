@@ -6987,6 +6987,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For comprehensive online support from the community, look at mailing lists and the Ask LibreOffice website.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170845Z" creationid="Elisabetta Manuele" creationdate="20180625T170845Z">
+        <seg>Per ottenere un supporto online completo da parte della comunità, consultate le mailing list e il sito web Ask LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For details, consult the Help or the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071332Z" creationid="manuel" creationdate="20180618T071332Z">
@@ -11267,6 +11275,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other websites run by users also offer free tips and tutorials.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170916Z" creationid="Elisabetta Manuele" creationdate="20180625T170916Z">
+        <seg>Si possono inoltre reperire altri siti web gestiti da utenti che offrono consigli e tutorial gratuiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Others</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113839Z" creationid="manuel" creationdate="20180609T113839Z">
@@ -14736,6 +14752,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065538Z" creationid="manuel" creationdate="20180531T065538Z">
         <seg>Questo formato ha un certo numero di vantaggi rispetto al Postscript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This forum provides community support for LibreOffice: &lt;a0&gt;http://en.libreofficeforum.org/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171444Z" creationid="Elisabetta Manuele" creationdate="20180625T171444Z">
+        <seg>Il forum seguente fornisce il supporto della comunità di LibreOffice: &lt;a0&gt;http://it.libreoffice.org/supporto/nabble/&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
