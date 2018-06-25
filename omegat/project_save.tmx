@@ -1174,6 +1174,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>388</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152701Z" creationid="Elisabetta Manuele" creationdate="20180625T152701Z">
+        <seg>388</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>390</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152752Z" creationid="Elisabetta Manuele" creationdate="20180625T152752Z">
+        <seg>390</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>391</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152757Z" creationid="Elisabetta Manuele" creationdate="20180625T152757Z">
+        <seg>391</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>51</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175458Z" creationid="Elisabetta Manuele" creationdate="20180620T175458Z">
@@ -3035,6 +3059,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055838Z" creationid="manuel" creationdate="20180618T055838Z">
         <seg>Ogni testo selezionato nel documento verrà conteggiato e questo conteggio sostituirà il conteggio visualizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Anyone who wants to get up to speed quickly with LibreOffice will find this Getting Started Guide valuable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152911Z" creationid="Elisabetta Manuele" creationdate="20180625T152812Z">
+        <seg>Chiunque desideri essere immediatamente operativo nell’uso di LibreOffice troverà un valido strumento in questa Guida introduttiva, </seg>
       </tuv>
     </tu>
     <tu>
@@ -6671,6 +6703,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152656Z" creationid="Elisabetta Manuele" creationdate="20180625T152656Z">
         <seg>Formati di file che possono essere elaborati da LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File formats LibreOffice can save to</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152748Z" creationid="Elisabetta Manuele" creationdate="20180625T152748Z">
+        <seg>Formati di file che possono essere salvati da LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -16879,8 +16919,8 @@
       <tuv lang="EN">
         <seg>Who is this book for?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173406Z" creationid="Elisabetta Manuele" creationdate="20180620T173406Z">
-        <seg>Destinatari del libro</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152831Z" creationid="Elisabetta Manuele" creationdate="20180620T173406Z">
+        <seg>Destinatari della guida</seg>
       </tuv>
     </tu>
     <tu>
@@ -17873,6 +17913,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160520Z" creationid="manuel" creationdate="20180615T160520Z">
         <seg>È possibile che vi venga richiesto di accettare un contratto di licenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may be new to office software, or you may be familiar with another office suite.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T153031Z" creationid="Elisabetta Manuele" creationdate="20180625T153031Z">
+        <seg>che sia principiante, o che possieda già una certa dimestichezza con altre suite per ufficio.</seg>
       </tuv>
     </tu>
     <tu>
