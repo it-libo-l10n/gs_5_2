@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>382</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152142Z" creationid="Elisabetta Manuele" creationdate="20180625T152142Z">
+        <seg>382</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>51</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175458Z" creationid="Elisabetta Manuele" creationdate="20180620T175458Z">
@@ -4770,6 +4778,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Controlling macros</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152137Z" creationid="Elisabetta Manuele" creationdate="20180625T152137Z">
+        <seg>Controlli nelle macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Controlling page breaks automatically</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171010Z" creationid="manuel" creationdate="20180615T171010Z">
@@ -5631,6 +5647,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155321Z" creationid="manuel" creationdate="20180615T155321Z">
         <seg>Modificate il modello nello stesso modo in cui &lt;f0&gt;modificate&lt;/f0&gt; un qualsiasi altro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152147Z" creationid="Elisabetta Manuele" creationdate="20180625T152147Z">
+        <seg>Modifica</seg>
       </tuv>
     </tu>
     <tu>
@@ -10011,6 +10035,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Managing documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152140Z" creationid="Elisabetta Manuele" creationdate="20180625T152140Z">
+        <seg>Gestione dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Managing the LibreOffice Gallery</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T150936Z" creationid="Elisabetta Manuele" creationdate="20180625T150936Z">
@@ -12367,6 +12399,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184451Z" creationid="Elisabetta Manuele" creationdate="20180620T184451Z">
         <seg>Selezionare gli oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting rows and columns in a database table opened by Ctrl+Shift+F4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152325Z" creationid="Elisabetta Manuele" creationdate="20180625T152325Z">
+        <seg>Selezionare righe e colonne in una tabella di database aperta tramite combinazione Ctrl+Maiusc+F4</seg>
       </tuv>
     </tu>
     <tu>
