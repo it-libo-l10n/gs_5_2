@@ -1462,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://www.libreoffice.org/community/nlc/&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172535Z" creationid="Elisabetta Manuele" creationdate="20180625T172535Z">
+        <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://www.libreoffice.org/community/nlc/&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://www.libreoffice.org/get-help/mailing-lists/&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172339Z" creationid="Elisabetta Manuele" creationdate="20180625T172339Z">
@@ -10723,6 +10731,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Native language support</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172446Z" creationid="Elisabetta Manuele" creationdate="20180625T172446Z">
+        <seg>Supporto in lingua madre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Navigate to the template that you want to edit.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154637Z" creationid="manuel" creationdate="20180615T154637Z">
@@ -13608,6 +13624,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212557Z" creationid="Marco Marega" creationdate="20180527T212557Z">
         <seg>L'interfaccia utente di LibreOffice, il dizionario ortografico, di sillabazione, ed il glossario, sono disponibili in più di 100 lingue e dialetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LibreOffice website in various languages&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172522Z" creationid="Elisabetta Manuele" creationdate="20180625T172522Z">
+        <seg>Il sito web di LibreOffice localizzato in diverse lingue&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
