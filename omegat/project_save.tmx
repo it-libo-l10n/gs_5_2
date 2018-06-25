@@ -3023,6 +3023,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Another forum that provides support for LibreOffice, among other open source office suites, is: &lt;a0&gt;http://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171515Z" creationid="Elisabetta Manuele" creationdate="20180625T171515Z">
+        <seg>Un altro forum di supporto a LibreOffice e ad altre suite open source per ufficio è: &lt;a0&gt;http://forum.openoffice.org/it/forum/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Another way to change the language of a whole document is to use &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151451Z" creationid="manuel" creationdate="20180621T151451Z">
@@ -3219,6 +3227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072451Z" creationid="manuel" creationdate="20180609T072451Z">
         <seg>Supporto lingue asiatiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ask LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171641Z" creationid="Elisabetta Manuele" creationdate="20180625T171641Z">
+        <seg>Ask LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -7431,6 +7447,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145743Z" creationid="manuel" creationdate="20180611T145743Z">
         <seg>Cornice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Free LibreOffice support</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171617Z" creationid="Elisabetta Manuele" creationdate="20180625T171617Z">
+        <seg>Assistenza gratuita per LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -13223,6 +13247,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T104230Z" creationid="manuel" creationdate="20180618T104230Z">
         <seg>Pannello linguettal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Free support for LibreOffice users</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171539Z" creationid="Elisabetta Manuele" creationdate="20180625T171539Z">
+        <seg>Tabella &lt;seq0&gt;1&lt;/seq0&gt;: assistenza gratuita agli utenti di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
