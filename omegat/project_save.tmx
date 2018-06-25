@@ -2279,6 +2279,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;If you do not have the offline help installed on your computer, your default browser will open a page on the LibreOffice wiki if you are connected to the Internet.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170217Z" creationid="Elisabetta Manuele" creationdate="20180625T170217Z">
+        <seg>&lt;f3&gt;Nel caso in cui la guida offline non sia installata sul computer, il browser predefinito aprirà una pagina del wiki di LibreOffice una volta effettuata la connessione a Internet.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;A standard file browser window opens.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143051Z" creationid="manuel" creationdate="20180616T143051Z">
@@ -6947,6 +6955,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more detailed explanation, select &lt;f0&gt;Help &gt; What's This?&lt;/f0&gt; and hold the pointer over the icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170345Z" creationid="Elisabetta Manuele" creationdate="20180625T170345Z">
+        <seg>Per una spiegazione più approfondita selezionate &lt;f0&gt;Aiuto &gt; Di che si tratta?&lt;/f0&gt; e mantenete il puntatore sull'icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a more detailed listing of requirements, see the LibreOffice website, &lt;a0&gt;http://www.libreoffice.org/get-help/system-requirements/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190828Z" creationid="Marco Marega" creationdate="20180528T190828Z">
@@ -7311,6 +7327,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134506Z" creationid="manuel" creationdate="20180622T134506Z">
         <seg>Per ulteriori metodi di inserimento dei trattini, consultare Capitolo 3 (Lavorare col testo: le basi) &lt;f0&gt;della Guida a Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For quick tips, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170257Z" creationid="Elisabetta Manuele" creationdate="20180625T170257Z">
+        <seg>Posizionando il puntatore del mouse su un'icona qualsiasi comparirà un suggerimento rapido ("tooltip") contenente una breve descrizione della sua funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9143,6 +9167,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143950Z" creationid="manuel" creationdate="20180611T143950Z">
         <seg>Inoltre, gli stili vengono utilizzati da LibreOffice per eseguire numerose procedure che non risultano visibili agli utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, you can choose whether to activate Extended Tips using &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170436Z" creationid="Elisabetta Manuele" creationdate="20180625T170436Z">
+        <seg>Inoltre è possibile scegliere di attivare i suggerimenti attivi tramite &lt;f1&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
