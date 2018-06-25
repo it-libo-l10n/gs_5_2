@@ -7347,6 +7347,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For information about certified professional support, see The Document Foundation’s website: &lt;a0&gt;http&lt;/a0&gt;&lt;a1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;://www.documentfoundation.org/gethelp/support/&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173255Z" creationid="Elisabetta Manuele" creationdate="20180625T173255Z">
+        <seg>Per informazioni sul supporto professionale certificato, fate riferimento al sito web della Document Foundation: &lt;a0&gt;http&lt;/a0&gt;&lt;a1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;://it.libreoffice.org/supporto/supporto-professionale/&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For information on settings not discussed here, see the Help.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083224Z" creationid="manuel" creationdate="20180528T083224Z">
@@ -10205,8 +10213,8 @@
       <tuv lang="EN">
         <seg>LibreOffice runs on Windows, Linux, and Mac OS X operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085725Z" creationid="luke" creationdate="20180515T085725Z">
-        <seg>LibreOffice funziona su sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173407Z" creationid="luke" creationdate="20180515T085725Z">
+        <seg>LibreOffice è disponibile per sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali prevede più versioni personalizzabili dagli utenti (relativamente a caratteri, colori, temi, gestori di finestre).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14214,8 +14222,8 @@
       <tuv lang="EN">
         <seg>The illustrations in this guide were taken from a variety of computers and operating systems.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085731Z" creationid="luke" creationdate="20180515T085731Z">
-        <seg>Le illustrazioni di questa guida sono state tratte da computer e sistemi operativi diversi.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173423Z" creationid="luke" creationdate="20180515T085731Z">
+        <seg>Le illustrazioni di questa guida sono state tratte da computer e sistemi operativi diversi, </seg>
       </tuv>
     </tu>
     <tu>
@@ -14678,8 +14686,8 @@
       <tuv lang="EN">
         <seg>Therefore, some illustrations will not look exactly like what you see on your computer display.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085738Z" creationid="luke" creationdate="20180515T085738Z">
-        <seg>Alcune immagini, pertanto, non saranno esattamente uguali a quelle che vedete sul vostro computer.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173451Z" creationid="luke" creationdate="20180515T085738Z">
+        <seg>di conseguenza alcune non avranno esattamente lo stesso aspetto di quelle visualizzate sullo schermo del computer in uso.</seg>
       </tuv>
     </tu>
     <tu>
