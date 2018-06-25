@@ -1462,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172615Z" creationid="Elisabetta Manuele" creationdate="20180625T172615Z">
+        <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://www.libreoffice.org/community/nlc/&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172535Z" creationid="Elisabetta Manuele" creationdate="20180625T172535Z">
@@ -1474,6 +1482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172339Z" creationid="Elisabetta Manuele" creationdate="20180625T172339Z">
         <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://it.libreoffice.org/supporto/mailing-list/&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;https://wiki.documentfoundation.org/Website/Web_Sites_services&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172705Z" creationid="Elisabetta Manuele" creationdate="20180625T172705Z">
+        <seg>&lt;a1&gt;https://wiki.documentfoundation.org/Website/Web_Sites_services&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2665,8 +2681,8 @@
       <tuv lang="EN">
         <seg>Accessibility options</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180609T154454Z" creationid="manuel" creationdate="20180606T100639Z">
-        <seg>Opzioni accessibilità</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172717Z" creationid="manuel" creationdate="20180606T100639Z">
+        <seg>Accesso facilitato</seg>
       </tuv>
     </tu>
     <tu>
@@ -9579,6 +9595,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Information about available accessibility options &lt;a0&gt;http&lt;/a0&gt;&lt;a1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;://www.libreoffice.org/get-help/accessibility/&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172820Z" creationid="Elisabetta Manuele" creationdate="20180625T172820Z">
+        <seg>Informazioni relative all'accesso facilitato &lt;a0&gt;http&lt;/a0&gt;&lt;a1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;://it.libreoffice.org/supporto/accessibilita/&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information about social networking&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172632Z" creationid="Elisabetta Manuele" creationdate="20180625T172632Z">
+        <seg>Informazioni sui social network&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information about working with Asian character formats.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143728Z" creationid="manuel" creationdate="20180608T143728Z">
@@ -10343,6 +10375,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172123Z" creationid="Elisabetta Manuele" creationdate="20180625T172123Z">
         <seg>Mailing list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mailing lists for native languages&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172554Z" creationid="Elisabetta Manuele" creationdate="20180625T172554Z">
+        <seg>Mailing list locali&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17615,8 +17655,8 @@
       <tuv lang="EN">
         <seg>You can also pay for support through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154658Z" creationid="luke" creationdate="20180514T154658Z">
-        <seg>You can also pay for support through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173151Z" creationid="luke" creationdate="20180514T154658Z">
+        <seg>È inoltre possibile acquistare contratti di assistenza presso un distributore o una società di consulenza specializzata in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
