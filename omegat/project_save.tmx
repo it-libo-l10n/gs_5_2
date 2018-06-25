@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://ask.libreoffice.org/en/questions/&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171758Z" creationid="Elisabetta Manuele" creationdate="20180625T171758Z">
+        <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://ask.libreoffice.org/it/questions/&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;(Not shown in illustration.)&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141927Z" creationid="manuel" creationdate="20180529T070022Z">
@@ -5583,6 +5591,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070034Z" creationid="manuel" creationdate="20180529T070034Z">
         <seg>Stato del documento – Dopo la stampa cambia lo stato in “documento modificato”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171802Z" creationid="Elisabetta Manuele" creationdate="20180625T171802Z">
+        <seg>Documentazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -11627,6 +11643,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Questions and answers from the LibreOffice community&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171704Z" creationid="Elisabetta Manuele" creationdate="20180625T171704Z">
+        <seg>Domande e risposte dalla comunità di LibreOffice&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quick printing</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185607Z" creationid="Elisabetta Manuele" creationdate="20180620T185607Z">
@@ -16337,6 +16361,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084102Z" creationid="manuel" creationdate="20180530T084102Z">
         <seg>Interfaccia utente – &lt;i0/&gt;Scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User guides</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171817Z" creationid="Elisabetta Manuele" creationdate="20180625T171817Z">
+        <seg>Guide utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User guides, how-tos, and other documentation &lt;a0&gt;&lt;f1&gt;https://documentation.libreoffice.org/&lt;/f1&gt;&lt;/a0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171919Z" creationid="Elisabetta Manuele" creationdate="20180625T171919Z">
+        <seg>Guide utente, istruzioni, e altra documentazione &lt;a0&gt;&lt;f1&gt;https://documentation.libreoffice.org/it/documentazione-in-italiano/&lt;/f1&gt;&lt;/a0&gt;&lt;f2&gt; </seg>
       </tuv>
     </tu>
     <tu>
