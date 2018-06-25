@@ -974,6 +974,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>347</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151458Z" creationid="Elisabetta Manuele" creationdate="20180625T151458Z">
+        <seg>347</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>348</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151502Z" creationid="Elisabetta Manuele" creationdate="20180625T151502Z">
+        <seg>348</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>35</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175432Z" creationid="Elisabetta Manuele" creationdate="20180620T175432Z">
@@ -982,10 +998,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>354</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151510Z" creationid="Elisabetta Manuele" creationdate="20180625T151510Z">
+        <seg>354</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>357</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151636Z" creationid="Elisabetta Manuele" creationdate="20180625T151636Z">
+        <seg>357</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>358</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151641Z" creationid="Elisabetta Manuele" creationdate="20180625T151641Z">
+        <seg>358</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>36</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175441Z" creationid="Elisabetta Manuele" creationdate="20180620T175441Z">
         <seg>36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>362</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151648Z" creationid="Elisabetta Manuele" creationdate="20180625T151648Z">
+        <seg>362</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>364</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151652Z" creationid="Elisabetta Manuele" creationdate="20180625T151652Z">
+        <seg>364</seg>
       </tuv>
     </tu>
     <tu>
@@ -3545,6 +3601,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 13 Getting Started with Macros</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151455Z" creationid="Elisabetta Manuele" creationdate="20180625T151455Z">
+        <seg>Capitolo 13 Guida introduttiva alle macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 14 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T084113Z" creationid="luke" creationdate="20180515T084113Z">
@@ -4707,6 +4771,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a macro</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151508Z" creationid="Elisabetta Manuele" creationdate="20180625T151508Z">
+        <seg>Creazione di una macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a new database</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184716Z" creationid="Elisabetta Manuele" creationdate="20180620T184716Z">
@@ -5723,6 +5795,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extensions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151649Z" creationid="Elisabetta Manuele" creationdate="20180625T151649Z">
+        <seg>Estensioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extensions and add-ons</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191641Z" creationid="Marco Marega" creationdate="20180528T191641Z">
@@ -6455,6 +6535,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165313Z" creationid="manuel" creationdate="20180621T165313Z">
         <seg>Ricerca, sostituzione e formattazione di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finding more information</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151722Z" creationid="Elisabetta Manuele" creationdate="20180625T151722Z">
+        <seg>Ulteriori informazioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -7519,6 +7607,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191512Z" creationid="Marco Marega" creationdate="20180528T191512Z">
         <seg>Installazione del software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to run a macro</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151644Z" creationid="Elisabetta Manuele" creationdate="20180625T151644Z">
+        <seg>Come eseguire una macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -9727,6 +9823,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154711Z" creationid="luke" creationdate="20180514T154711Z">
         <seg>Mac equivalent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macro organization</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151639Z" creationid="Elisabetta Manuele" creationdate="20180625T151639Z">
+        <seg>Organizzazione delle macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macro recorder failures</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151633Z" creationid="Elisabetta Manuele" creationdate="20180625T151633Z">
+        <seg>Problemi con il registratore delle macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -16677,6 +16789,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writing macros without the recorder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151714Z" creationid="Elisabetta Manuele" creationdate="20180625T151714Z">
+        <seg>Scrittura delle macro senza registratore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writing, editing, and (especially) page layout are often easier when you can see the page margins (text boundaries), the boundaries of tables and sections (in Writer documents), page breaks in Calc, grid lines in Draw or Writer, and other features.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093757Z" creationid="manuel" creationdate="20180606T093757Z">
@@ -17537,6 +17657,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084739Z" creationid="manuel" creationdate="20180614T084739Z">
         <seg>Dovrete modificarli nuovamente per ritornare ai vostri stili di intestazione personalizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your first macros</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151505Z" creationid="Elisabetta Manuele" creationdate="20180625T151505Z">
+        <seg>Le prime macro</seg>
       </tuv>
     </tu>
     <tu>
