@@ -7427,6 +7427,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Free online support</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170441Z" creationid="Elisabetta Manuele" creationdate="20180625T170441Z">
+        <seg>Assistenza gratuita online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Frequently asked questions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173548Z" creationid="Elisabetta Manuele" creationdate="20180620T173548Z">
@@ -12035,6 +12043,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Table &lt;t0&gt;1&lt;/t0&gt; and this web page: &lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://www.libreoffice.org/get-help/&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170810Z" creationid="Elisabetta Manuele" creationdate="20180625T170810Z">
+        <seg>Vd. Tabella &lt;t0&gt;1&lt;/t0&gt; e la seguente pagina web: &lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://it.libreoffice.org/supporto/&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the Help for more details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134317Z" creationid="manuel" creationdate="20180622T134317Z">
@@ -13448,6 +13464,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152534Z" creationid="Elisabetta Manuele" creationdate="20180625T152534Z">
         <seg>La comunità di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LibreOffice community not only develops software, but provides free, volunteer-based support.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170515Z" creationid="Elisabetta Manuele" creationdate="20180625T170515Z">
+        <seg>La comunità di LibreOffice non si limita a sviluppare il software, ma offre anche un servizio di supporto gratuito fornito da volontari.</seg>
       </tuv>
     </tu>
     <tu>
