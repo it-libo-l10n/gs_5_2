@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;/f5&gt;&lt;/a4&gt;&lt;a7&gt;&lt;f8&gt;://wiki.documentfoundation.org/Faq&lt;/f8&gt;&lt;/a7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172117Z" creationid="Elisabetta Manuele" creationdate="20180625T172117Z">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;/f5&gt;&lt;/a4&gt;&lt;a7&gt;&lt;f8&gt;://wiki.documentfoundation.org/Faq/it&lt;/f8&gt;&lt;/a7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;If you routinely share documents with users of Microsoft Office, you might want to change the &lt;i1/&gt;&lt;f2&gt;Always save as&lt;/f2&gt; attribute for documents to the Microsoft Office formats.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153113Z" creationid="manuel" creationdate="20180608T153113Z">
@@ -1450,6 +1458,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171758Z" creationid="Elisabetta Manuele" creationdate="20180625T171758Z">
         <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://ask.libreoffice.org/it/questions/&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://www.libreoffice.org/get-help/mailing-lists/&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172339Z" creationid="Elisabetta Manuele" creationdate="20180625T172339Z">
+        <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://it.libreoffice.org/supporto/mailing-list/&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a4&gt;https://wiki.documentfoundation.org/Documentation/Publications&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172005Z" creationid="Elisabetta Manuele" creationdate="20180625T172005Z">
+        <seg>&lt;a4&gt;https://wiki.documentfoundation.org/Documentation/Publications&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3051,6 +3075,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072723Z" creationid="manuel" creationdate="20180531T072723Z">
         <seg>Un altro modo per definire o modificare i colori è tramite la pagina Colori della finestra di dialogo Area, dove potete anche salvare e caricare tavolozze, una funzionalità che non è possibile qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Answers to frequently asked questions&lt;f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172028Z" creationid="Elisabetta Manuele" creationdate="20180625T172028Z">
+        <seg>Risposte alle Domande frequenti&lt;f0&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6123,6 +6155,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FAQs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172008Z" creationid="Elisabetta Manuele" creationdate="20180625T172008Z">
+        <seg>Domande frequenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Feedback</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072741Z" creationid="luke" creationdate="20180515T072741Z">
@@ -7471,6 +7511,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171617Z" creationid="Elisabetta Manuele" creationdate="20180625T171617Z">
         <seg>Assistenza gratuita per LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Free community support is provided by a network of experienced users&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172145Z" creationid="Elisabetta Manuele" creationdate="20180625T172145Z">
+        <seg>Il supporto gratuito della comunità è offerto da una rete di utenti esperti&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10279,6 +10327,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160809Z" creationid="manuel" creationdate="20180616T160809Z">
         <seg>Stampa in serie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172123Z" creationid="Elisabetta Manuele" creationdate="20180625T172123Z">
+        <seg>Mailing list</seg>
       </tuv>
     </tu>
     <tu>
@@ -16375,8 +16431,8 @@
       <tuv lang="EN">
         <seg>User guides, how-tos, and other documentation &lt;a0&gt;&lt;f1&gt;https://documentation.libreoffice.org/&lt;/f1&gt;&lt;/a0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171919Z" creationid="Elisabetta Manuele" creationdate="20180625T171919Z">
-        <seg>Guide utente, istruzioni, e altra documentazione &lt;a0&gt;&lt;f1&gt;https://documentation.libreoffice.org/it/documentazione-in-italiano/&lt;/f1&gt;&lt;/a0&gt;&lt;f2&gt; </seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171935Z" creationid="Elisabetta Manuele" creationdate="20180625T171919Z">
+        <seg>Guide utente, istruzioni, e altra documentazione &lt;a0&gt;&lt;f1&gt;https://documentation.libreoffice.org/it/documentazione-in-italiano/&lt;/f1&gt;&lt;/a0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
