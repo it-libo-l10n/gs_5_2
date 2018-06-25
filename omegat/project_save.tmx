@@ -3561,6 +3561,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc (spreadsheets)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165329Z" creationid="Elisabetta Manuele" creationdate="20180625T165329Z">
+        <seg>Calc (fogli elettronici)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc can also export spreadsheets in several formats, including for example Comma Separated Value (CSV), Adobe PDF and HTML formats.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T202114Z" creationid="Marco Marega" creationdate="20180527T201011Z">
@@ -7235,6 +7243,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more detail, see the user guides for the individual components.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165446Z" creationid="Elisabetta Manuele" creationdate="20180625T165446Z">
+        <seg>Per ulteriori dettagli fate riferimento alle guide utente per i singoli componenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information and details about using the Presenter Console, see the &lt;f0&gt;Impress Guide Chapter 9 Slide Shows&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
@@ -9523,6 +9539,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also covers some of the features common to all components, including setup and customization, styles and templates, macro recording, and printing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165419Z" creationid="Elisabetta Manuele" creationdate="20180625T165419Z">
+        <seg>Questo testo descrive inoltre alcune caratteristiche condivise da tutti i componenti, tra le quali l'installazione e la personalizzazione, gli stili e i modelli, la registrazione di macro e la stampa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also has entries for style management in the bottom.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160105Z" creationid="manuel" creationdate="20180611T160105Z">
@@ -10255,6 +10279,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160758Z" creationid="manuel" creationdate="20180616T160758Z">
         <seg>Documenti master—per unire un insieme di documenti in un solo documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Math (equation editor)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165336Z" creationid="Elisabetta Manuele" creationdate="20180625T165336Z">
+        <seg>Math (editor di equazioni)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14516,6 +14548,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This book introduces the main components of LibreOffice:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165313Z" creationid="Elisabetta Manuele" creationdate="20180625T165223Z">
+        <seg>La guida costituisce un'introduzione ai componenti principali di LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This book is adapted and updated from &lt;f0&gt;Getting Started with OpenOffice.org 3.3&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173031Z" creationid="Elisabetta Manuele" creationdate="20180620T172835Z">
@@ -14536,6 +14576,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194042Z" creationid="Marco Marega" creationdate="20180621T193132Z">
         <seg>Le illustrazioni di questo libro usano le finestre di dialogo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This book, the other LibreOffice user guides, the built-in Help system, and user support systems assume that you are familiar with your computer and basic functions such as starting a program, opening and saving files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165544Z" creationid="Elisabetta Manuele" creationdate="20180625T165544Z">
+        <seg>Questa e le altre guide utente di LibreOffice, il sistema di aiuto integrato e i sistemi di assistenza agli utenti presuppongono un minimo di familiarità con il computer e con funzioni basilari quali l'avvio di un programma, l'apertura e il salvataggio di file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16607,8 +16655,8 @@
       <tuv lang="EN">
         <seg>What’s in this book?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173411Z" creationid="Elisabetta Manuele" creationdate="20180620T173411Z">
-        <seg>Contenuto del libro</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165248Z" creationid="Elisabetta Manuele" creationdate="20180620T173411Z">
+        <seg>Contenuto della guida</seg>
       </tuv>
     </tu>
     <tu>
@@ -17065,6 +17113,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181951Z" creationid="Elisabetta Manuele" creationdate="20180620T181951Z">
         <seg>Vista Area di lavoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer (word processing)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165328Z" creationid="Elisabetta Manuele" creationdate="20180625T165328Z">
+        <seg>Writer (elaborazione di testi)</seg>
       </tuv>
     </tu>
     <tu>
