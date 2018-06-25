@@ -15236,6 +15236,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To display the Help &lt;f0&gt;system&lt;/f0&gt;, press &lt;f1&gt;F1&lt;/f1&gt; or select &lt;f2&gt;LibreOffice Help&lt;/f2&gt; from the Help menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170120Z" creationid="Elisabetta Manuele" creationdate="20180625T170120Z">
+        <seg>Per visualizzare la &lt;f0&gt;Guida in linea&lt;/f0&gt; premete il tasto &lt;f1&gt;F1&lt;/f1&gt; oppure selezionate &lt;f2&gt;Guida di LibreOffice&lt;/f2&gt; dal menu Aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do that, you need to change the default template for documents, as described in Chapter 3.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073444Z" creationid="manuel" creationdate="20180531T073444Z">
