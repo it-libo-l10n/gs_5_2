@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>319</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T150927Z" creationid="Elisabetta Manuele" creationdate="20180625T150927Z">
+        <seg>319</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>32</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174522Z" creationid="Elisabetta Manuele" creationdate="20180620T174522Z">
@@ -870,10 +878,66 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>320</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T150939Z" creationid="Elisabetta Manuele" creationdate="20180625T150939Z">
+        <seg>320</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>322</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151003Z" creationid="Elisabetta Manuele" creationdate="20180625T151003Z">
+        <seg>322</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>323</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151012Z" creationid="Elisabetta Manuele" creationdate="20180625T151012Z">
+        <seg>323</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>326</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151027Z" creationid="Elisabetta Manuele" creationdate="20180625T151027Z">
+        <seg>326</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>33</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175332Z" creationid="Elisabetta Manuele" creationdate="20180620T175332Z">
         <seg>33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>331</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151052Z" creationid="Elisabetta Manuele" creationdate="20180625T151052Z">
+        <seg>331</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>332</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151056Z" creationid="Elisabetta Manuele" creationdate="20180625T151056Z">
+        <seg>332</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>333</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151108Z" creationid="Elisabetta Manuele" creationdate="20180625T151108Z">
+        <seg>333</seg>
       </tuv>
     </tu>
     <tu>
@@ -2391,6 +2455,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding images to a document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T150831Z" creationid="Elisabetta Manuele" creationdate="20180625T150831Z">
+        <seg>Aggiunta di immagini a un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding pictures, tables, charts, and media</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182121Z" creationid="Elisabetta Manuele" creationdate="20180620T182121Z">
@@ -3421,6 +3493,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T083652Z" creationid="luke" creationdate="20180515T083652Z">
         <seg>Chapter 12 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 12 Creating Web Pages</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151049Z" creationid="Elisabetta Manuele" creationdate="20180625T151049Z">
+        <seg>Capitolo 12 (Creare pagine web)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4667,6 +4747,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating an image map</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T150959Z" creationid="Elisabetta Manuele" creationdate="20180625T150959Z">
+        <seg>Creazione di una mappa immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating database tables</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184720Z" creationid="Elisabetta Manuele" creationdate="20180620T184720Z">
@@ -5567,6 +5655,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185628Z" creationid="Elisabetta Manuele" creationdate="20180620T185628Z">
         <seg>Esportazione in altri formati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exporting web pages using the Web Wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151145Z" creationid="Elisabetta Manuele" creationdate="20180625T151145Z">
+        <seg>Esportazione delle pagine web tramite procedura guidata</seg>
       </tuv>
     </tu>
     <tu>
@@ -9619,6 +9715,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Managing the LibreOffice Gallery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T150936Z" creationid="Elisabetta Manuele" creationdate="20180625T150936Z">
+        <seg>Gestione della Galleria di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manual formatting (also called &lt;f0&gt;direct formatting&lt;/f0&gt;) overrides styles, and you cannot get rid of the manual formatting by applying a style to it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154227Z" creationid="manuel" creationdate="20180612T154227Z">
@@ -9799,6 +9903,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154358Z" creationid="manuel" creationdate="20180612T154358Z">
         <seg>Modificare gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying, handling, and positioning graphics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T150923Z" creationid="Elisabetta Manuele" creationdate="20180625T150923Z">
+        <seg>Modifica, gestione e posizionamento delle immagini</seg>
       </tuv>
     </tu>
     <tu>
@@ -10983,6 +11095,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144527Z" creationid="manuel" creationdate="20180608T144527Z">
         <seg>L'indirizzamento relativo è possibile solo se il documento sorgente e il documento a cui si fa riferimento sono entrambi sulla stessa unità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Relative and absolute hyperlinks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151101Z" creationid="Elisabetta Manuele" creationdate="20180625T151101Z">
+        <seg>Collegamenti ipertestuali relativi e assoluti</seg>
       </tuv>
     </tu>
     <tu>
@@ -15589,6 +15709,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Fontwork</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151024Z" creationid="Elisabetta Manuele" creationdate="20180625T151024Z">
+        <seg>Uso di Fontwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Impress Remote control</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184238Z" creationid="luke" creationdate="20180515T090041Z">
@@ -15601,6 +15729,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173519Z" creationid="Elisabetta Manuele" creationdate="20180620T173519Z">
         <seg>Uso di LibreOffice su Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using LibreOffice’s drawing tools</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151009Z" creationid="Elisabetta Manuele" creationdate="20180625T151009Z">
+        <seg>Uso degli strumenti di disegno di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
