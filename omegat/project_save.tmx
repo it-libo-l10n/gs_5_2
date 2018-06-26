@@ -3913,6 +3913,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the maximum number of words remembered for word completion and the length of the smallest words to be remembered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T142829Z" creationid="manuel" creationdate="20180626T142829Z">
+        <seg>Cambiare il numero massimo di parole memorizzate per il Completamento parole e la lunghezza minima delle parole da memorizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change tracking during revisions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160801Z" creationid="manuel" creationdate="20180616T160801Z">
@@ -5018,6 +5026,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Collect words when working on a document, and then either save them for later use in other documents or select the option to remove them from the list when closing the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T142820Z" creationid="manuel" creationdate="20180626T142820Z">
+        <seg>Raccogliere parole mentre si lavora ad un documento, e poi salvarle per un utilizzo successivo in altri documenti oppure selezionare l'opzione per rimuoverle dall'elenco quando si chiude il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Color Picker</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072055Z" creationid="manuel" creationdate="20180531T070444Z">
@@ -5623,6 +5639,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T100745Z" creationid="manuel" creationdate="20180616T100705Z">
         <seg>Cancellate testo e immagini non desiderate in questo nuovo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete specific entries from the word completion list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T142835Z" creationid="manuel" creationdate="20180626T142835Z">
+        <seg>Eliminare voci specifiche dall'elenco Completamento parole.</seg>
       </tuv>
     </tu>
     <tu>
