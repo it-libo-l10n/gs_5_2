@@ -15308,6 +15308,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To access a short list of synonyms, right-click on a word and point to &lt;f0&gt;Synonyms&lt;/f0&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T074132Z" creationid="manuel" creationdate="20180626T074132Z">
+        <seg>Per accedere a un breve elenco di sinonimi, fare clic con il tasto destro del mouse su una parola e puntare su &lt;f0&gt;Sinonimi&lt;/f0&gt; nel menu di scelta rapida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To access remote servers, you must use LibreOffice Open and Save dialogs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T124318Z" creationid="Marco Marega" creationdate="20180622T124318Z">
