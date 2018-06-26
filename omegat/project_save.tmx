@@ -1414,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f10&gt;When the word is corrected, the line disappears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T061020Z" creationid="manuel" creationdate="20180626T061020Z">
+        <seg>&lt;/f10&gt;Quando la parola viene corretta la linea scompare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;You can still import styles manually from the template, but to reconnect it to the template, you will have to copy it into an empty document based on the template.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171752Z" creationid="manuel" creationdate="20180615T171752Z">
