@@ -10363,6 +10363,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is a matter of personal preference whether you type your information first, then apply numbering/bullets, or apply them as you type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164652Z" creationid="manuel" creationdate="20180626T164652Z">
+        <seg>Digitare prima le vostre informazioni e poi applicare Elenchi numerati/puntati, oppure usarli mentre si sta digitando è una scelta personale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is also recommended to save relatively if you want to create a directory structure on an Internet server.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144739Z" creationid="manuel" creationdate="20180608T144739Z">
@@ -17269,6 +17277,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the Numbering and Bullets buttons on the Formatting toolbar or on the Paragraph panel of the Sidebar’s Properties deck: select the paragraphs for the list, and then click the appropriate button on the toolbar or in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164611Z" creationid="manuel" creationdate="20180626T164611Z">
+        <seg>Usare i pulsanti Numerazione e Punti elenco sulla barra degli strumenti Formattazione o nel pannello Paragrafo del pannello Proprietà della barra laterale: selezionare i paragrafi per l'elenco, quindi fare clic sul pulsante appropriato nella barra degli strumenti o nella barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the Proxy page (if available) to save proxy settings for use with LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135533Z" creationid="manuel" creationdate="20180609T135533Z">
@@ -17657,6 +17673,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T072142Z" creationid="manuel" creationdate="20180626T072142Z">
         <seg>Uso dei sinonimi e del dizionario dei sinonimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Bullets and Numbering toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164655Z" creationid="manuel" creationdate="20180626T164655Z">
+        <seg>Uso della Barra elenchi puntati e numerati</seg>
       </tuv>
     </tu>
     <tu>
