@@ -7363,6 +7363,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, type &lt;f0&gt;:smiling:&lt;/f0&gt; and AutoCorrect will replace it by ☺.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T113048Z" creationid="manuel" creationdate="20180626T113048Z">
+        <seg>Ad esempio, digita &lt;f0&gt;:sorridente:&lt;/f0&gt; e Correzione automatica lo sostituirà con ☺.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, when the cursor is in a table, a &lt;f0&gt;Table&lt;/f0&gt; toolbar appears, and when the cursor is in a numbered or bullet list, the &lt;f1&gt;Bullets and Numbering&lt;/f1&gt; toolbar appears.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T183856Z" creationid="Marco Marega" creationdate="20180620T183856Z">
