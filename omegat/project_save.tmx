@@ -1895,6 +1895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;It also includes codes for inserting special characters, emoji, and other symbols.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T105947Z" creationid="manuel" creationdate="20180626T105947Z">
+        <seg>&lt;f0&gt;Include anche i codici per l'inserimento di caratteri speciali, emoji e altri simboli.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice Draw&lt;/f0&gt; is &lt;i1/&gt;a vector graphics drawing program, although it can also perform some operations on raster graphics (pixels).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090141Z" creationid="luke" creationdate="20180515T090141Z">
@@ -3428,6 +3436,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T140955Z" creationid="manuel" creationdate="20180609T140955Z">
         <seg>Correzione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>AutoCorrect is turned on when Writer is installed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T105956Z" creationid="manuel" creationdate="20180626T105956Z">
+        <seg>La Correzione automatica è attiva quando Writer viene installato.</seg>
       </tuv>
     </tu>
     <tu>
