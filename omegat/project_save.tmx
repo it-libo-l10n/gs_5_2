@@ -2367,6 +2367,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f5&gt;You can c&lt;/f5&gt;lick on one of the suggested words &lt;f6&gt;to &lt;/f6&gt;replace the underlined word with the one selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T055847Z" creationid="manuel" creationdate="20180626T055847Z">
+        <seg>&lt;f5&gt;Potete fare clic&lt;/f5&gt; su una delle parole suggerite &lt;f6&gt;per &lt;/f6&gt;sostituire la parola sottolineata con quella selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f6&gt;In the popup dialog, select the required category and click &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;OK&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T110844Z" creationid="manuel" creationdate="20180616T110844Z">
