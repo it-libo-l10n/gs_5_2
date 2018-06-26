@@ -16373,6 +16373,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remove manual formatting, select the text and choose &lt;f0&gt;Format &gt; Clear Direct Formatting &lt;/f0&gt;from the Menu bar, or right-click and choose &lt;f1&gt;Clear Direct Formatting &lt;/f1&gt;from the context menu, or click the &lt;f2&gt;Clear Direct Formatting&lt;/f2&gt; button on the Formatting toolbar, or use &lt;f3&gt;Ctrl+M&lt;/f3&gt; from the keyboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T153814Z" creationid="manuel" creationdate="20180626T153814Z">
+        <seg>Per rimuovere la formattazione manuale, selezionate il testo, e scegliete &lt;f0&gt;Formato &gt; Cancella formattazione diretta &lt;/f0&gt;dalla barra dei menu, oppure fate clic con il pulsante destro e scegliete &lt;f1&gt;Cancella formattazione diretta &lt;/f1&gt;dal menu contestuale, o fate clic sul pulsante &lt;f2&gt;Cancella formattazione diretta&lt;/f2&gt; sulla barra strumenti Formattazione, oppure utilizzate &lt;f3&gt;Ctrl+M&lt;/f3&gt; dalla tastiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remove manual formatting, select the text, right-click, and choose &lt;f0&gt;Clear Direct Formatting&lt;/f0&gt; from the context menu, or select the text and press &lt;f1&gt;Ctrl+M&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154345Z" creationid="manuel" creationdate="20180612T154345Z">
@@ -17665,6 +17673,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101346Z" creationid="manuel" creationdate="20180615T162723Z">
         <seg>Quando richiesto, confermate che volete sovrascrivere il vecchio file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When clearing direct formatting, the text formatting will return to the applied paragraph style and not the default paragraph style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T153855Z" creationid="manuel" creationdate="20180626T153855Z">
+        <seg>Quando si cancella la formattazione diretta, la formattazione del testo tornerà allo stile di paragrafo applicato e non allo stile di paragrafo predefinito.</seg>
       </tuv>
     </tu>
     <tu>
