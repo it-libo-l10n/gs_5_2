@@ -8395,6 +8395,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Word Completion is enabled, Writer tries to guess which word you are typing and offers to complete the word for you.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T113435Z" creationid="manuel" creationdate="20180626T113435Z">
+        <seg>Quando la funzione Completamento delle parole è attiva, Writer cerca di capire quale parola si sta digitando e propone di completarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a document is already open in LibreOffice, click on the small triangle to the right of the &lt;f0&gt;New&lt;/f0&gt; icon on the Standard toolbar and select the type of document from the context menu that opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124053Z" creationid="Marco Marega" creationdate="20180621T124053Z">
@@ -11671,6 +11679,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113839Z" creationid="manuel" creationdate="20180609T113839Z">
         <seg>Altri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise, continue typing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T113442Z" creationid="manuel" creationdate="20180626T113442Z">
+        <seg>Altrimenti, continuate a digitare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15460,6 +15476,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To accept the suggestion, press &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T113438Z" creationid="manuel" creationdate="20180626T113438Z">
+        <seg>Per accettare il suggerimento premere &lt;f0&gt;Invio&lt;/f0&gt;, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To access a short list of synonyms, right-click on a word and point to &lt;f0&gt;Synonyms&lt;/f0&gt; on the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T074132Z" creationid="manuel" creationdate="20180626T074132Z">
@@ -16857,6 +16881,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073154Z" creationid="manuel" creationdate="20180606T073154Z">
         <seg>Gli utenti possono firmare digitalmente i documenti usando LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using &lt;f0&gt;W&lt;/f0&gt;ord &lt;f1&gt;C&lt;/f1&gt;ompletion</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T113425Z" creationid="manuel" creationdate="20180626T113425Z">
+        <seg>Usare la funzione &lt;f0&gt;Completamento&lt;/f0&gt; delle &lt;f1&gt;parole&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
