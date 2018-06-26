@@ -2839,6 +2839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add (append) a space automatically after an accepted word.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T135422Z" creationid="manuel" creationdate="20180626T135422Z">
+        <seg>Aggiungere (accodare) automaticamente uno spazio dopo ogni parola accettata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add any content that you want to appear in any document you create from the new template, for example company logo, copyright statement, and so on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104443Z" creationid="manuel" creationdate="20180615T104443Z">
@@ -13215,6 +13223,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152350Z" creationid="Elisabetta Manuele" creationdate="20180625T152350Z">
         <seg>Tasti di scelta rapida per oggetti di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show the suggested word as a tip (hovering over the word) rather than completing the text as you type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T135438Z" creationid="manuel" creationdate="20180626T135438Z">
+        <seg>Mostrare la parola suggerita in una piccola casella di testo (che appare sopra la parola), invece di completare il testo che si sta digitando.</seg>
       </tuv>
     </tu>
     <tu>
