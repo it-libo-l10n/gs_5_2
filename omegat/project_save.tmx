@@ -14924,6 +14924,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This checks the document or selection and opens the Spelling and Grammar dialog if any unrecognized words are found.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063233Z" creationid="manuel" creationdate="20180626T063233Z">
+        <seg>In questo modo viene eseguito il controllo ortografico sul documento o sul testo selezionato e, nel caso vengano rilevate parole non riconosciute, esse verranno segnalate nella finestra di dialogo Controllo ortografico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This deck is an alternate view of the Manage Changes dialog that can be opened from &lt;f1&gt;Edit &gt; Track Changes &gt; Manage Changes&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141136Z" creationid="manuel" creationdate="20180621T101800Z">
@@ -15833,6 +15841,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160222Z" creationid="manuel" creationdate="20180608T160222Z">
         <seg>Per ottimizzare l'esportazione &lt;i0/&gt;HTML&lt;i1/&gt;, selezionate un browser oppure lo standard HTML dal riquadro &lt;f2&gt;Esporta&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To perform a combined spelling and grammar check on the document (or a text selection), click the &lt;f0&gt;Spelling and Grammar&lt;/f0&gt; button &lt;f1&gt;on the Standard toolbar, or choose &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Tools &gt; Spelling and Grammar&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063106Z" creationid="manuel" creationdate="20180626T063106Z">
+        <seg>Per eseguire un controllo combinato ortografico e grammaticale del documento (o di una porzione di testo selezionato), fate clic sul pulsante &lt;f0&gt;Ortografia e grammatica&lt;/f0&gt; &lt;f1&gt;sulla barra degli strumenti Standard,oppure scegliete &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Strumenti &gt; Ortografia e grammatica&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
