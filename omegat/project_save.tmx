@@ -9699,6 +9699,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the AutoText dialog, type a name for the AutoText in the &lt;f0&gt;Name&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144107Z" creationid="manuel" creationdate="20180626T144107Z">
+        <seg>Nella finestra di dialogo Testo automatico, digitate un nome per il Testo automatico nella casella &lt;f0&gt;Nome&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Create Style dialog, type a name for the new style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065144Z" creationid="manuel" creationdate="20180614T065144Z">
@@ -18025,6 +18033,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143912Z" creationid="manuel" creationdate="20180621T143912Z">
         <seg>Writer dispone di strumenti che possono facilitare il lavoro nel caso di utilizzo di più lingue nello stesso documento o di creazione di documenti in lingue diverse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer will suggest a one-letter shortcut, which you can change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144130Z" creationid="manuel" creationdate="20180626T144130Z">
+        <seg>Writer propone una scorciatoia di una lettera, che però può essere cambiata.</seg>
       </tuv>
     </tu>
     <tu>
