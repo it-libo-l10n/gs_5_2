@@ -7803,6 +7803,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting characters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154950Z" creationid="manuel" creationdate="20180626T154950Z">
+        <seg>Formattare i caratteri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181751Z" creationid="Elisabetta Manuele" creationdate="20180620T181751Z">
@@ -9979,6 +9987,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Increase Indent, Decrease Indent</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154931Z" creationid="manuel" creationdate="20180626T154931Z">
+        <seg>Aumentare il rientro, diminuire il rientro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Increase Paragraph Spacing, Decrease Paragraph Spacing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154913Z" creationid="manuel" creationdate="20180626T154913Z">
+        <seg>Aumentare la spaziatura del paragrafo, diminuire la spaziatura del paragrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Indicates the magnification level of the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192757Z" creationid="Marco Marega" creationdate="20180620T192757Z">
@@ -10663,6 +10687,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212831Z" creationid="Marco Marega" creationdate="20180619T212613Z">
         <seg> LibreOffice&lt;/f0&gt; fornisce una singola barra degli strumenti alternativa all'impostazione predefinita con una doppia barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line Spacing (choose from 1, 1.15, 1.5, 2, or custom spacing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154849Z" creationid="manuel" creationdate="20180626T154849Z">
+        <seg>Interlinea (scegliere tra 1, 1,15, 1,5, 2 o spaziatura personalizzata</seg>
       </tuv>
     </tu>
     <tu>
@@ -11951,6 +11983,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145736Z" creationid="manuel" creationdate="20180611T145736Z">
         <seg>Paragrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph (to open the Paragraph dialog)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154947Z" creationid="manuel" creationdate="20180626T154947Z">
+        <seg>Paragrafo (per aprire la finestra di dialogo Paragrafo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18457,6 +18497,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134056Z" creationid="Marco Marega" creationdate="20180623T134056Z">
         <seg>Potete anche usare i seguenti tasti di scelta rapida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can apply many formats to characters using the buttons on the Formatting toolbar and by using the Character panel of the Sidebar’s Properties deck.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T155106Z" creationid="manuel" creationdate="20180626T155106Z">
+        <seg>Potete applicare molti formati ai caratteri usando i pulsanti sulla barra degli strumenti Formattazione e usando il pannello Carattere del pannello Proprietà della barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
