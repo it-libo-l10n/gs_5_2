@@ -3023,6 +3023,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Top, Center Vertically, Align Bottom</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154816Z" creationid="manuel" creationdate="20180626T154816Z">
+        <seg>Allinea in alto, Centra verticalmente, Allinea in basso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All components contain the Properties, Styles and Formatting, Gallery, and Navigator decks.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122315Z" creationid="Marco Marega" creationdate="20180620T221748Z">
