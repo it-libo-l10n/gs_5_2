@@ -3816,6 +3816,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bullets and Numbering</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165932Z" creationid="manuel" creationdate="20180626T165932Z">
+        <seg>Elenchi puntati e numerati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But if you find unexplained changes appearing in your document, this is a good place to look to find the cause.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141041Z" creationid="manuel" creationdate="20180609T141041Z">
@@ -5843,6 +5851,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Demote One Level</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165854Z" creationid="manuel" creationdate="20180626T165854Z">
+        <seg>Un livello inferiore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Demote One Level with Subpoints</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165926Z" creationid="manuel" creationdate="20180626T165926Z">
+        <seg>Un livello inferiore con sottoparagrafi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the type of file service you choose in the &lt;f0&gt;Type&lt;/f0&gt; listbox, different parameters are necessary to fully qualify the connection to the remote server.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125235Z" creationid="Marco Marega" creationdate="20180622T125235Z">
@@ -7119,6 +7143,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105908Z" creationid="manuel" creationdate="20180622T105908Z">
         <seg>Figura &lt;seq0&gt;73&lt;/seq0&gt;: finestra di dialogo Caratteri speciali, dove potete inserire caratteri speciali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;74&lt;/seq0&gt;: Bullets and Numbering toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165947Z" creationid="manuel" creationdate="20180626T165947Z">
+        <seg>Figura &lt;seq0&gt;74&lt;/seq0&gt;: barra degli strumenti elenchi puntati e numerati</seg>
       </tuv>
     </tu>
     <tu>
@@ -8819,6 +8851,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If numbering or bullets are being applied automatically in a way that you find inappropriate, you can switch them off temporarily by unchecking &lt;f0&gt;Format &gt; AutoCorrect &gt; While Typing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165834Z" creationid="manuel" creationdate="20180626T165834Z">
+        <seg>Se la numerazione o i punti elenco vengono applicati automaticamente in un modo che ritenete inappropriato, potete disattivarli temporaneamente deselezionando &lt;f0&gt;Strumenti &gt; Correzione automatica &gt; Durante la digitazione&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If only one document is open and you want to close that document, go to &lt;f0&gt;File &gt; Close&lt;/f0&gt; on the Menu bar or click on the X on the right or left end of the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T132934Z" creationid="Marco Marega" creationdate="20180623T132934Z">
@@ -10187,6 +10227,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Unnumbered Entry</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165844Z" creationid="manuel" creationdate="20180626T165844Z">
+        <seg>Inserisci voce senza numero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert mode</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064640Z" creationid="manuel" creationdate="20180618T064640Z">
@@ -11291,6 +11339,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165929Z" creationid="manuel" creationdate="20180626T165929Z">
+        <seg>Sposta verso il basso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Down with Subpoints</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165916Z" creationid="manuel" creationdate="20180626T165916Z">
+        <seg>Sposta in basso con sottopunti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165921Z" creationid="manuel" creationdate="20180626T165921Z">
+        <seg>Sposta verso l'alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Up with Subpoints</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165848Z" creationid="manuel" creationdate="20180626T165848Z">
+        <seg>Sposta in alto con sottopunti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the cursor over a higher level folder and release the mouse button to navigate to that folder</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T205124Z" creationid="Marco Marega" creationdate="20180622T205124Z">
@@ -12363,6 +12443,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Promote One Level</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165841Z" creationid="manuel" creationdate="20180626T165841Z">
+        <seg>Un livello superiore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Promote One Level with Subpoints</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165919Z" creationid="manuel" creationdate="20180626T165919Z">
+        <seg>Un livello superiore con sottoparagrafi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Publication date and software version</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072758Z" creationid="luke" creationdate="20180515T072758Z">
@@ -12567,6 +12663,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161610Z" creationid="manuel" creationdate="20180615T161610Z">
         <seg>Ripristinare il modello predefinito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restart Numbering</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165924Z" creationid="manuel" creationdate="20180626T165924Z">
+        <seg>Ricomincia numerazione</seg>
       </tuv>
     </tu>
     <tu>
