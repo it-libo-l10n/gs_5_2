@@ -3592,6 +3592,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Autoformatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160418Z" creationid="manuel" creationdate="20180626T160418Z">
+        <seg>Formattazione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automated tables of contents and indexes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160658Z" creationid="manuel" creationdate="20180616T160658Z">
@@ -4309,6 +4317,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145739Z" creationid="manuel" creationdate="20180611T145739Z">
         <seg>Carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character (to open the Character dialog)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160414Z" creationid="manuel" creationdate="20180626T160414Z">
+        <seg>Carattere (per aprire la finestra di dialogo Carattere)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9303,6 +9319,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142008Z" creationid="manuel" creationdate="20180621T142008Z">
         <seg>Se dovete scambiare documenti con utenti di Microsoft Word che non hanno piacere o non sono in grado di ricevere file .ODT, potete aprire, modificare e salvare i document nel formato Microsoft Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you notice unexpected formatting changes occurring in your document, this is the first place to look for the cause.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160530Z" creationid="manuel" creationdate="20180626T160530Z">
+        <seg>Nel caso di modifiche impreviste nella formattazione del vostro documento, questo è il primo posto dove andare a ricercarne la causa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18961,6 +18985,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103308Z" creationid="manuel" creationdate="20180622T103308Z">
         <seg>Potete selezionare varie opzioni come la corrispondenza esatta, solo parole intere, o la ricerca di parole simili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can set Writer to format parts of a document automatically according to the choices made on the Options page of the AutoCorrect dialog (&lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160519Z" creationid="manuel" creationdate="20180626T160519Z">
+        <seg>Potete impostare Writer in modo da formattare parti di un documento in modo automatico, in base alle scelte fatte nella scheda Opzioni della finestra di dialogo Correzione automatica (&lt;f0&gt;Strumenti &gt; Correzione automatica &gt; Opzioni di correzione automatica&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
