@@ -10339,6 +10339,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice has an extensive list of special characters accessible with AutoCorrect.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T112911Z" creationid="manuel" creationdate="20180626T112911Z">
+        <seg>LibreOffice ha una lunga lista di caratteri speciali accessibili con Correzione automatica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice has to be associated with file types that are not ODF files for the appropriate LibreOffice component to open.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192919Z" creationid="Marco Marega" creationdate="20180621T192919Z">
