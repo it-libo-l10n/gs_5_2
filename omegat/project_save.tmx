@@ -3776,6 +3776,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bulleted and numbered lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T161304Z" creationid="manuel" creationdate="20180626T161304Z">
+        <seg>Elenchi puntati e numerati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bullets On/Off (with a palette of bullet styles)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154306Z" creationid="manuel" creationdate="20180626T154306Z">
@@ -8467,6 +8475,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Horizontal lines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T161053Z" creationid="manuel" creationdate="20180626T161053Z">
+        <seg>Linee orizzontali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How is LibreOffice licensed?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152543Z" creationid="Elisabetta Manuele" creationdate="20180625T152543Z">
@@ -9379,6 +9395,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you type three or more hyphens (---), underscores (___) or equal signs (===) on a line and then press &lt;f0&gt;Enter&lt;/f0&gt;, the paragraph is replaced by a horizontal line as wide as the &lt;f1&gt;column in the &lt;/f1&gt;page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T161145Z" creationid="manuel" creationdate="20180626T161145Z">
+        <seg>Se digitate tre o più trattini (tratti d'unione) (---), trattini bassi (___) e segni di uguale (===) su una linea e poi premete &lt;f0&gt;Invio&lt;/f0&gt;, il paragrafo verrà sostituito da una linea orizzontale della larghezza della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you use &lt;i0/&gt;a custom dictionary that includes words in all uppercase and words with numbers (for example, AS/400), select &lt;f1&gt;Check uppercase words&lt;/f1&gt; and &lt;f2&gt;Check words with numbers&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091231Z" creationid="manuel" creationdate="20180609T091231Z">
@@ -9791,6 +9815,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
         <seg>In many situations, you may find that you have more slides than the time available to present them or you may want to provide a rapid overview without dwelling on the details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases Undo (&lt;f0&gt;Ctrl+Z&lt;/f0&gt;) fixes the issue.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T161041Z" creationid="manuel" creationdate="20180626T161041Z">
+        <seg>Nella maggiora parte dei casi Annulla (&lt;f0&gt;Ctrl+Z&lt;/f0&gt;) corregge il problema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13691,6 +13723,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some common unwanted or unexpected formatting changes include:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T161051Z" creationid="manuel" creationdate="20180626T161051Z">
+        <seg>Alcune variazioni non desiderate o inaspettate della formattazione comprendono:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some components have additional decks, such as Master Pages, Custom Animation, and Slide Transition for Impress; Manage Changes for Writer; and Functions for Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T140917Z" creationid="Marco Marega" creationdate="20180620T222024Z">
@@ -14264,6 +14304,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165130Z" creationid="manuel" creationdate="20180608T165130Z">
         <seg>Il filtro HTML supporta CSS2 (Fogli di stile a cascata di livello 2) per la stampa dei documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Help describes each of these choices and how to activate the autoformats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T161047Z" creationid="manuel" creationdate="20180626T161047Z">
+        <seg>La Guida in Linea descrive ciascuna di queste scelte e come attivare la formattazione automatica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14888,6 +14936,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T202601Z" creationid="Marco Marega" creationdate="20180622T202601Z">
         <seg>La riga sotto alla casella di riepilogo visualizza il percorso di accesso alla cartella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The line is actually the lower border of the preceding paragraph.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T161301Z" creationid="manuel" creationdate="20180626T161301Z">
+        <seg>In realtà, questa linea è il margine inferiore del paragrafo precedente.</seg>
       </tuv>
     </tu>
     <tu>
