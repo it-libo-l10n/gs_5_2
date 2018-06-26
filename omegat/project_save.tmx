@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1546,6 +1546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T141944Z" creationid="manuel" creationdate="20180618T141944Z">
         <seg>&lt;f0&gt;Area:&lt;/f0&gt; modifica la modalità di riempimento dell'area grafica e la trasparenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Automatic Spell Check&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ing&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;(found on the Tools menu) &lt;/f3&gt;checks each word as it is typed and displays a wavy red line under any unrecognized words.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T055531Z" creationid="manuel" creationdate="20180626T055531Z">
+        <seg>&lt;f0&gt;Controllo ortografico automatico&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;(trovato nel menu Strumenti)&lt;/f3&gt; controlla ogni parola mentre viene digitata e visualizza una linea rossa ondulata sotto qualsiasi parola non riconosciuta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11959,6 +11967,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
         <seg>Right-click anywhere on the screen to open a context menu where you can navigate through the slides and set other options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on an unrecognized word &lt;f4&gt;to open a&lt;/f4&gt; context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T055722Z" creationid="manuel" creationdate="20180626T055722Z">
+        <seg>Fate clic con il pulsante destro del mouse su una parola non riconosciuta &lt;f4&gt;per aprire un&lt;/f4&gt; menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
