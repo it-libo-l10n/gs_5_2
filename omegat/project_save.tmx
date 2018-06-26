@@ -3015,6 +3015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Left, Center Horizontally, Align Right, or Justified</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154418Z" creationid="manuel" creationdate="20180626T154418Z">
+        <seg>Allinea a sinistra, Centra orizzontalmente, Allinea a destra o Giustifica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All components contain the Properties, Styles and Formatting, Gallery, and Navigator decks.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122315Z" creationid="Marco Marega" creationdate="20180620T221748Z">
@@ -3331,6 +3339,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093723Z" creationid="manuel" creationdate="20180606T093723Z">
         <seg>Colori dell'applicazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply Style</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154303Z" creationid="manuel" creationdate="20180626T154303Z">
+        <seg>Applica stile</seg>
       </tuv>
     </tu>
     <tu>
@@ -3724,6 +3740,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160720Z" creationid="manuel" creationdate="20180616T160720Z">
         <seg>Strumenti di disegno integrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bullets On/Off (with a palette of bullet styles)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154306Z" creationid="manuel" creationdate="20180626T154306Z">
+        <seg>Elenco puntato On/Off</seg>
       </tuv>
     </tu>
     <tu>
@@ -11219,6 +11243,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not all buttons are visible in a standard installation, but you can customize the toolbar to include those you use regularly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154224Z" creationid="manuel" creationdate="20180626T154224Z">
+        <seg>Non tutti i pulsanti sono visibili in un'installazione standard, ma potete personalizzare la barra degli strumenti per includere quelli che usate regolarmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not saving your document could result in the loss of recently made changes, or worse still, the entire file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133540Z" creationid="Marco Marega" creationdate="20180623T133540Z">
@@ -11311,6 +11343,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145748Z" creationid="manuel" creationdate="20180611T145748Z">
         <seg>Elenco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Numbering On/Off (with a palette of numbering styles)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154359Z" creationid="manuel" creationdate="20180626T154359Z">
+        <seg>Numerazione On/Off (con una tavolozza di stili di numerazione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15168,6 +15208,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160225Z" creationid="manuel" creationdate="20180615T160225Z">
         <seg>Questi vengono installati in modo leggermente diverso, come descritto sotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These buttons and formats include:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154258Z" creationid="manuel" creationdate="20180626T154258Z">
+        <seg>Questi pulsante e formati includono:</seg>
       </tuv>
     </tu>
     <tu>
