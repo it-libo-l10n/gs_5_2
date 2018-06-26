@@ -17229,6 +17229,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use autoformatting, as described above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164149Z" creationid="manuel" creationdate="20180626T164130Z">
+        <seg>Usare la formattazione automatica, come descritto sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use list (numbering) styles, as described in Chapter &lt;f0&gt;8&lt;/f0&gt;, Introduction to Styles, and Chapter &lt;f1&gt;9&lt;/f1&gt;, Working with Styles, in the &lt;f2&gt;Writer Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164409Z" creationid="manuel" creationdate="20180626T164409Z">
+        <seg>Usare gli stili per gli elenchi (numerazione), come descritto nei Capitoli &lt;f0&gt;8&lt;/f0&gt; (Introduzione agli Stili) e &lt;f1&gt;9&lt;/f1&gt; (Lavorare con gli Stili) della &lt;f2&gt;Guida a Writer&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use slide transitions &lt;f3&gt;(page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;185&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;) &lt;/f6&gt;to go smoothly to &lt;s7/&gt;the following photo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085947Z" creationid="luke" creationdate="20180515T085947Z">
