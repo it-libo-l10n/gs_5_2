@@ -3624,6 +3624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Background Color (with a palette of colors)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160307Z" creationid="manuel" creationdate="20180626T160307Z">
+        <seg>Colore di sfondo (con una tavolozza di colori)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base (database)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210955Z" creationid="Marco Marega" creationdate="20180527T210955Z">
@@ -7251,6 +7259,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font Color (with a palette of colors)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160248Z" creationid="manuel" creationdate="20180626T160248Z">
+        <seg>Colore carattere (con una tavolozza di colori)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font Lists – Show &lt;i0/&gt;preview of fonts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T144526Z" creationid="manuel" creationdate="20180531T062408Z">
@@ -8399,6 +8415,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085950Z" creationid="luke" creationdate="20180515T085950Z">
         <seg>Hiding slides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlighting (with a palette of colors)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160355Z" creationid="manuel" creationdate="20180626T160355Z">
+        <seg>Evidenziazione (con una tavolozza di colori)</seg>
       </tuv>
     </tu>
     <tu>
