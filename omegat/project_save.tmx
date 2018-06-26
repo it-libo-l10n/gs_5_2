@@ -2775,6 +2775,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A style is a named set of formatting options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T145122Z" creationid="manuel" creationdate="20180626T145122Z">
+        <seg>Uno stile è un insieme di opzioni di formattazione con uno specifico nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A tab bar on the right side of the sidebar allows you to switch between different decks.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122247Z" creationid="Marco Marega" creationdate="20180620T221602Z">
@@ -7643,6 +7651,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more about using AutoText, &lt;f0&gt;see Chapter 3, Working with Text: Basics in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Writer Guide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T145048Z" creationid="manuel" creationdate="20180626T145048Z">
+        <seg>Per maggiori informazioni riguardo l'uso del Testo automatico, &lt;f0&gt;vedere il Capitolo 3 (Lavorare con il testo: nozioni di base) nella &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Guida di Writer&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more detail, see the Sidebar explanation in the relevant LibreOffice component’s user guide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222507Z" creationid="Marco Marega" creationdate="20180620T222507Z">
@@ -10773,8 +10789,8 @@
       <tuv lang="EN">
         <seg>Manual formatting (also called &lt;f0&gt;direct formatting&lt;/f0&gt;) overrides styles, and you cannot get rid of the manual formatting by applying a style to it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154227Z" creationid="manuel" creationdate="20180612T154227Z">
-        <seg>La formattazione manuale (anche detta &lt;f0&gt;formattazione diretta&lt;/f0&gt;) ha precedenza sugli stili, e non è possibile eliminare la formattazione manuale applicando ad essa uno stile.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T145213Z" creationid="manuel" creationdate="20180612T154227Z">
+        <seg>La formattazione manuale (anche detta &lt;f0&gt;formattazione diretta&lt;/f0&gt;) ha la precedenza sugli stili, e non è possibile eliminare la formattazione manuale applicando ad essa uno stile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13747,6 +13763,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Styles are central to using Writer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T145055Z" creationid="manuel" creationdate="20180626T145055Z">
+        <seg>Gli stili sono fondamentali per usare Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Styles available in LibreOffice components</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145707Z" creationid="manuel" creationdate="20180611T145707Z">
@@ -13759,6 +13783,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063328Z" creationid="manuel" creationdate="20180614T063328Z">
         <seg>finestra di dialogo Stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles enable you to easily format your document consistently, and to change the format with minimal effort.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T145117Z" creationid="manuel" creationdate="20180626T145117Z">
+        <seg>Gli stili permettono di formattare i documenti in modo semplice e coerente, e di modificare facilmente la formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17269,6 +17301,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using styles is recommended</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T145052Z" creationid="manuel" creationdate="20180626T145052Z">
+        <seg>Si consiglia l'utilizzo degli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using styles means that you stop saying “font size 14pt, Times New Roman, bold, centered” and you start saying “Title” because you have defined the “Title” style to have those characteristics.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143611Z" creationid="manuel" creationdate="20180611T143611Z">
@@ -17745,6 +17785,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161554Z" creationid="manuel" creationdate="20180621T161554Z">
         <seg>Quando &lt;i0/&gt;incollate del testo, il risultato dipende dalla sorgente del testo e da come lo incollate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you apply a style, you apply a whole group of formats at the same time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T145128Z" creationid="manuel" creationdate="20180626T145128Z">
+        <seg>Quando si applica uno stile, si applica contemporaneamente un intero gruppo di formati.</seg>
       </tuv>
     </tu>
     <tu>
