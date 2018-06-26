@@ -3520,6 +3520,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AutoText is espec&lt;bs0/&gt;ially powerful when assigned to fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143802Z" creationid="manuel" creationdate="20180626T143802Z">
+        <seg>La funzione Testo automatico è particolarmente&lt;bs0/&gt; utile quando è assegnata a campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AutoUpdate</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162416Z" creationid="manuel" creationdate="20180612T162416Z">
@@ -4333,6 +4341,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105555Z" creationid="manuel" creationdate="20180622T105555Z">
         <seg>Scegliete &lt;f0&gt;Inserisci &gt; Carattere speciale&lt;/f0&gt; oppure fate clic sull'icona Carattere speciale nella barra degli strumenti principale per aprire la finestra di dialogo Caratteri speciali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &gt; AutoText&lt;/f0&gt; (or press &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;F3&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143948Z" creationid="manuel" creationdate="20180626T143948Z">
+        <seg>Scegliete &lt;f0&gt;Strumenti &gt; Testo automatico&lt;/f0&gt; (o premete &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;F3&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7367,6 +7383,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124642Z" creationid="Marco Marega" creationdate="20180623T124642Z">
         <seg>Per esempio, in Writer il Navigatore visualizza Intestazioni, Tabelle, Cornici di testo, Commenti, Immagini, Segnalibri, e altri oggetti, come mostrato nella Figura &lt;t0&gt;14&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, rather than typing “Senior Management” every time you use that phrase, you can set up an AutoText entry to insert those words when you type “sm” and press &lt;f1&gt;F3&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143730Z" creationid="manuel" creationdate="20180626T143730Z">
+        <seg>Ad esempio, invece di digitare “Gestione studenti” ogni volta che si usa tale frase, dopo aver impostato una voce apposita per il Testo automatico, è possibile digitare solo “gs” e premere il tasto &lt;f1&gt;F3&lt;/f1&gt; per inserire tali parole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12491,6 +12515,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Chapter 1&lt;f1&gt;6&lt;/f1&gt;, Working with Fields, in the &lt;f2&gt;Writer Guide&lt;/f2&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143857Z" creationid="manuel" creationdate="20180626T143857Z">
+        <seg>Vedere il Capitolo 1&lt;f1&gt;6&lt;/f1&gt; (Lavorare con i comandi di campo) nella &lt;f2&gt;Guida a Writer&lt;/f2&gt; per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Chapter 3, Working with Text: &lt;f0&gt;Basics,&lt;/f0&gt; in the &lt;f1&gt;Writer Guide&lt;/f1&gt; for a detailed explanation of the spelling and grammar checking facility.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T072134Z" creationid="manuel" creationdate="20180626T072134Z">
@@ -13007,6 +13039,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T141946Z" creationid="manuel" creationdate="20180616T141946Z">
         <seg>Selezionate il modello che volete eliminare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143908Z" creationid="manuel" creationdate="20180626T143908Z">
+        <seg>Selezionate il testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16413,6 +16453,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To store some text as AutoText:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143904Z" creationid="manuel" creationdate="20180626T143904Z">
+        <seg>Per salvare del testo come Testo automatico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To temporarily close Quickstarter on a computer using a Windows operating system, right-click on the &lt;f0&gt;Quickstarter&lt;/f0&gt; icon in the system tray and select &lt;f1&gt;Exit Quickstarter&lt;/f1&gt; in the pop-up menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212052Z" creationid="Marco Marega" creationdate="20180616T212052Z">
@@ -16617,6 +16665,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121210Z" creationid="manuel" creationdate="20180615T121210Z">
         <seg>Tipo di fax (commerciale o personale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the text into your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143906Z" creationid="manuel" creationdate="20180626T143906Z">
+        <seg>Digitate il testo nel documento.</seg>
       </tuv>
     </tu>
     <tu>
