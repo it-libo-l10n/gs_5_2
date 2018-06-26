@@ -3560,6 +3560,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic word completion only occurs after you type a word for the second time in a document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143554Z" creationid="manuel" creationdate="20180626T143554Z">
+        <seg>Il Completamento automatico delle parole funziona a partire dalla seconda volta in cui si digita la parola nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available only in some operating systems and desktop managers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T065951Z" creationid="manuel" creationdate="20180529T065951Z">
@@ -3909,6 +3917,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170001Z" creationid="manuel" creationdate="20180608T170001Z">
         <seg>Cambiare le impostazioni locali e della lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the key that accepts a suggested entry—the options are &lt;f0&gt;&lt;f1&gt;r&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ight arrow&lt;/f2&gt;, &lt;f3&gt;End&lt;/f3&gt; key, &lt;f4&gt;Return&lt;/f4&gt; (&lt;f5&gt;Enter&lt;/f5&gt;), &lt;f6&gt;Space bar&lt;/f6&gt;, &lt;f7&gt;and &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Tab.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143547Z" creationid="manuel" creationdate="20180626T143547Z">
+        <seg>Cambiare il tasto che accetta una voce suggerita — le opzioni sono &lt;f0&gt;&lt;f1&gt;Freccia&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;destra&lt;/f2&gt;, &lt;f3&gt;Fine&lt;/f3&gt;, &lt;f4&gt;Invio&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;, &lt;f6&gt;Barra spaziatrice&lt;/f6&gt;, &lt;f7&gt;e &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Tab.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16725,6 +16741,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use AutoText to store text, tables, &lt;f0&gt;fields,&lt;/f0&gt; and other items for reuse and assign them to a key combination for easy retrieval.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143652Z" creationid="manuel" creationdate="20180626T143652Z">
+        <seg>La funzione Testo Automatico permette di salvare testo, tabelle, comandi di campo e altri elementi per un uso successivo e assegnarli a una combinazione di tasti per poterli recuperare facilmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use AutoUpdate (paragraph and frame styles only)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155847Z" creationid="manuel" creationdate="20180612T155847Z">
@@ -16969,6 +16993,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T105751Z" creationid="manuel" creationdate="20180626T105751Z">
         <seg>Uso della Correzione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using AutoText</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143637Z" creationid="manuel" creationdate="20180626T143605Z">
+        <seg>Usare il Testo automatico</seg>
       </tuv>
     </tu>
     <tu>
