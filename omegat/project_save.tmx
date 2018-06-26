@@ -14844,6 +14844,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thesaurus and synonyms are writing aids provided by language communities.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T105400Z" creationid="manuel" creationdate="20180626T105400Z">
+        <seg>Dizionari e sinonimi sono sussidi di scrittura forniti dalle comunità linguistiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These are installed a little differently, as described below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160225Z" creationid="manuel" creationdate="20180615T160225Z">
