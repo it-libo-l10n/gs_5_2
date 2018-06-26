@@ -17197,6 +17197,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;f1&gt;View &gt; Toolbars &gt; Bullets and Numbering&lt;/f1&gt; to see the toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164914Z" creationid="manuel" creationdate="20180626T164914Z">
+        <seg>Per vedere la relativa barra degli strumenti usate &lt;f1&gt;Visualizza &gt; Barre degli strumenti &gt; Elenchi puntati e numerati&lt;/f1&gt;.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;i0/&gt;the &lt;f1&gt;LibreOffice – Security&lt;/f1&gt; page to choose security options for saving documents and for opening documents that contain macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080341Z" creationid="manuel" creationdate="20180531T080341Z">
@@ -18861,6 +18870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can create nested lists (where one or more list items has a sub-list under it, as in an outline) by using the buttons on the Bullets and Numbering toolbar (Figure &lt;t0&gt;74&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164728Z" creationid="manuel" creationdate="20180626T164728Z">
+        <seg>Potete creare elenchi annidati (dove, cioè, una o più voci di un elenco presentano un sottoelenco, come in una struttura) attraverso i pulsanti presenti nella barra Elenchi puntati e numerati (Figura &lt;t0&gt;74&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create new template &lt;f1&gt;categories&lt;/f1&gt; and use them to organize your templates.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T163748Z" creationid="manuel" creationdate="20180615T163748Z">
@@ -19017,6 +19034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154157Z" creationid="manuel" creationdate="20180612T154157Z">
         <seg>Potete modificare i tasti assegnati e crearne di nuovi; vedere il Capitolo 14 (Personalizzazione di LibreOffice) per istruzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can move items up or down the list, create sub-points, change the style of bullets, and access the Bullets and Numbering dialog, which contains more detailed controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164850Z" creationid="manuel" creationdate="20180626T164850Z">
+        <seg>Potete spostare gli elementi in alto o in basso nell'elenco, creare punti secondari, modificare lo stile dei punti elenco e accedere alla finestra di dialogo Elenchi puntati e numerati, che contiene controlli più dettagliati.</seg>
       </tuv>
     </tu>
     <tu>
