@@ -3472,6 +3472,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AutoCorrect can be used as a quick way to &lt;i0/&gt;insert special characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T111951Z" creationid="manuel" creationdate="20180626T111951Z">
+        <seg>La Correzione automatica può essere usata per &lt;i0/&gt;l'inserimento rapido di caratteri speciali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AutoCorrect is turned on when Writer is installed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T105956Z" creationid="manuel" creationdate="20180626T105956Z">
@@ -7239,6 +7247,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071332Z" creationid="manuel" creationdate="20180618T071332Z">
         <seg>Per maggiori dettagli, consultate la guida in linea o la &lt;f0&gt;Guida a Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, (c) will be changed to ©.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T112016Z" creationid="manuel" creationdate="20180626T112016Z">
+        <seg>Per esempio, (c) verrà cambiato in ©.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16309,6 +16325,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To turn &lt;f0&gt;AutoCorrect&lt;/f0&gt; off, uncheck &lt;f1&gt;Tools &gt; AutoCorrect &gt; While Typing&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T111920Z" creationid="manuel" creationdate="20180626T111920Z">
+        <seg>Per disattivare la &lt;f0&gt;Correzione automatica&lt;/f0&gt;, togliete il segno di spunta in &lt;f1&gt;Strumenti &gt; Correzione automatica &gt; Durante la digitazione&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To undo the most recent change in a document, use the keyboard shortcut &lt;f0&gt;Ctrl+Z,&lt;/f0&gt; or click the &lt;f1&gt;Undo&lt;/f1&gt; icon on the Standard toolbar, or go to &lt;f2&gt;Edit &gt; Undo&lt;/f2&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130549Z" creationid="Marco Marega" creationdate="20180623T130549Z">
@@ -17865,6 +17889,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T140840Z" creationid="manuel" creationdate="20180609T140840Z">
         <seg>Potete aggiungere diversi wiki all'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add your own special characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T112019Z" creationid="manuel" creationdate="20180626T112019Z">
+        <seg>È possibile aggiungere dei caratteri speciali personali.</seg>
       </tuv>
     </tu>
     <tu>
