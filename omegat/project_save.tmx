@@ -4329,6 +4329,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Add to Dictionary&lt;/f0&gt; in the Spelling and Grammar dialog or in the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T064052Z" creationid="manuel" creationdate="20180626T064052Z">
+        <seg>Fai clic su &lt;f0&gt;Aggiungi al dizionario&lt;/f0&gt; nella finestra di dialogo Ortografia e grammatica o nel menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Apply to All Slides&lt;/f0&gt; to apply the transition for all of your presentation or continue selecting transitions to place between each slide in your presentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090028Z" creationid="luke" creationdate="20180515T090028Z">
