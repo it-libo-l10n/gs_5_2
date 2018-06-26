@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;Choose &lt;f1&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f1&gt; to open the AutoCorrect dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T111207Z" creationid="manuel" creationdate="20180626T111207Z">
+        <seg>&lt;/f0&gt;Scegliete &lt;f1&gt;Strumenti &gt; Opzioni di correzione automatica&lt;/f1&gt; per aprire la finestra di dialogo Correzione automatica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;If you routinely share documents with users of Microsoft Office, you might want to change the &lt;i1/&gt;&lt;f2&gt;Always save as&lt;/f2&gt; attribute for documents to the Microsoft Office formats.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153113Z" creationid="manuel" creationdate="20180608T153113Z">
@@ -9515,6 +9523,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most cases, the defaults are fine.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T111228Z" creationid="manuel" creationdate="20180626T111228Z">
+        <seg>Nella maggior parte dei casi, le impostazioni standard sono adeguate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to use this, the appropriate dictionaries must be installed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063248Z" creationid="manuel" creationdate="20180626T063248Z">
@@ -16249,6 +16265,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T210102Z" creationid="Marco Marega" creationdate="20180614T210102Z">
         <seg>Per avviare direttamente un componente di LibreOffice usando Quickstart:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To stop Writer replacing a specific spelling, go to the&lt;f0&gt; Replace&lt;/f0&gt; tab, highlight the word pair, and click &lt;f1&gt;Delete&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T111322Z" creationid="manuel" creationdate="20180626T111322Z">
+        <seg>Per impedire a Writer di correggere un particolare modo di digitare una parola, andate alla scheda &lt;f0&gt;Sostituzione&lt;/f0&gt;, evidenziate la coppia di parole, e fate clic su &lt;f1&gt;Elimina&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
