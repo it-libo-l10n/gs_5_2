@@ -3736,6 +3736,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bold, Italic, Underline, Double Underline, Overline, Strikethrough, Outline</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T155905Z" creationid="manuel" creationdate="20180626T155905Z">
+        <seg>Grassetto, Corsivo, Sottolineato, Doppio Sottolineato, Sovrapposizione, Barrato, Contorno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bruce Byfield</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170109Z" creationid="Elisabetta Manuele" creationdate="20180620T170109Z">
@@ -7251,6 +7259,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font Name, Font Size</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T155847Z" creationid="manuel" creationdate="20180626T155847Z">
+        <seg>Nome carattere, Dimensione carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font replacement on screen and when printing, but only if font is not available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080329Z" creationid="manuel" creationdate="20180531T080329Z">
@@ -9987,6 +10003,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Increase Font Size, Decrease Font Size</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160008Z" creationid="manuel" creationdate="20180626T160008Z">
+        <seg>Aumentare la dimensione del carattere, diminuire la dimensione del carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Increase Indent, Decrease Indent</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154931Z" creationid="manuel" creationdate="20180626T154931Z">
@@ -11279,6 +11303,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085918Z" creationid="luke" creationdate="20180515T085918Z">
         <seg>Normally only footers are used on a slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not all buttons are visible in a standard &lt;t0/&gt;installation, but you can customize the toolbar to include those you use regularly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T155819Z" creationid="manuel" creationdate="20180626T155819Z">
+        <seg>Non tutti i pulsanti sono visibili in un'installazione standard, ma potete personalizzare la barra degli strumenti per includere quelli che usate regolarmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13911,6 +13943,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T180509Z" creationid="Marco Marega" creationdate="20180620T180509Z">
         <seg>Sottomenu e insiemi di strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Superscript, Subscript</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T155924Z" creationid="manuel" creationdate="20180626T155924Z">
+        <seg>Apice, pedice</seg>
       </tuv>
     </tu>
     <tu>
@@ -16953,6 +16993,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162926Z" creationid="manuel" creationdate="20180612T162926Z">
         <seg>Aggiornamento di uno stile da un documento o da un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uppercase, Lowercase</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T155949Z" creationid="manuel" creationdate="20180626T155949Z">
+        <seg>Maiuscolo, minuscolo</seg>
       </tuv>
     </tu>
     <tu>
