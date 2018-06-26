@@ -8547,6 +8547,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the current language does not have a thesaurus installed, this feature is disabled.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T081219Z" creationid="manuel" creationdate="20180626T081219Z">
+        <seg>Questa funzione è disabilitata se per la lingua corrente non è installato un dizionario dei sinonimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the document has been digitally signed, an icon shows here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192319Z" creationid="Marco Marega" creationdate="20180620T192319Z">
