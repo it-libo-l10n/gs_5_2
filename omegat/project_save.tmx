@@ -2599,6 +2599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A bulleted list is created when you type a hyphen (-), star (*), or plus sign (+), followed by a space or tab at the beginning of a paragraph.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T163938Z" creationid="manuel" creationdate="20180626T163938Z">
+        <seg>Quando digitate, all'inizio di un paragrafo, un trattino (tratto d'unione) (-), un asterisco (*) o il segno più (+), seguito da uno spazio o da una tabulazione, viene creato un elenco puntato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A checkmark will appear next to the option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T134630Z" creationid="manuel" creationdate="20180621T134630Z">
@@ -2723,6 +2731,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065714Z" creationid="manuel" creationdate="20180618T065714Z">
         <seg>Alla selezione esistente viene aggiunta una nuova selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A numbered list is created when you type a number followed by a period (.), followed by a space or tab at the beginning of a paragraph.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T163959Z" creationid="manuel" creationdate="20180626T163959Z">
+        <seg>Quando digitate, all'inizio di un paragrafo, un numero seguito da un punto (.), quindi da uno spazio o da una tabulazione, viene creato un elenco numerato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3604,6 +3620,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160658Z" creationid="manuel" creationdate="20180616T160658Z">
         <seg>Aggiungere indice generale, bibliografia e indice analitico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatic numbering is only applied to paragraphs formatted with the &lt;f0&gt;Default&lt;/f0&gt;, &lt;f1&gt;Text body&lt;/f1&gt; or &lt;f2&gt;Text body indent&lt;/f2&gt; paragraph styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164010Z" creationid="manuel" creationdate="20180626T164010Z">
+        <seg>La numerazione automatica viene applicata solamente per quei paragrafi formattati con gli stili di paragrafo &lt;f0&gt;Predefinito&lt;/f0&gt;, &lt;f1&gt;Corpo del testo&lt;/f1&gt; o &lt;f2&gt;Rientro corpo del testo&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5551,6 +5575,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175802Z" creationid="Elisabetta Manuele" creationdate="20180620T175802Z">
         <seg>Creare stili personalizzati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating numbered or bulleted lists</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164024Z" creationid="manuel" creationdate="20180626T164024Z">
+        <seg>Creazione di elenchi numerati o puntati</seg>
       </tuv>
     </tu>
     <tu>
@@ -15372,6 +15404,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are several ways to create numbered or bulleted lists:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164031Z" creationid="manuel" creationdate="20180626T164031Z">
+        <seg>È possibile creare elenchi numerati o puntati in diversi modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There you can choose whether to check uppercase words and words with numbers, and you can manage custom dictionaries, that is, add or delete dictionaries and add or delete words in a dictionary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T064741Z" creationid="manuel" creationdate="20180626T064741Z">
@@ -16817,6 +16857,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T111920Z" creationid="manuel" creationdate="20180626T111920Z">
         <seg>Per disattivare la &lt;f0&gt;Correzione automatica&lt;/f0&gt;, togliete il segno di spunta in &lt;f1&gt;Strumenti &gt; Correzione automatica &gt; Durante la digitazione&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To turn autoformatting on or off, choose &lt;f0&gt;Format &gt; AutoCorrect&lt;/f0&gt; and select or deselect the items on the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164022Z" creationid="manuel" creationdate="20180626T164022Z">
+        <seg>Per abilitare o disabilitare la formattazione automatica, scegliete &lt;f0&gt;Formato &gt; Correzione automatica&lt;/f0&gt; e selezionate o deselezionate le voci in elenco.</seg>
       </tuv>
     </tu>
     <tu>
