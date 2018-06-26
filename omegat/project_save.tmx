@@ -1591,6 +1591,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;hoose the category for the AutoText entry, for example &lt;f1&gt;My AutoText&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144347Z" creationid="manuel" creationdate="20180626T144347Z">
+        <seg>&lt;f0&gt;Scegliete&lt;/f0&gt; la categoria per l'inserimento del Testo automatico, per esempio &lt;f1&gt;Testo automatico personale&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;lick to change to &lt;f1&gt;Overwrite&lt;/f1&gt; mode; click &lt;f2&gt;again&lt;/f2&gt; to return to Insert mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064919Z" creationid="manuel" creationdate="20180618T064919Z">
@@ -4489,6 +4497,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Close&lt;/f0&gt; to return to your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144802Z" creationid="manuel" creationdate="20180626T144802Z">
+        <seg>Per ritornare al documento fate clic su &lt;f0&gt;Chiudi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Customize Toolbar&lt;/f0&gt; to open the Customize dialog; See &lt;f1&gt;Chapter 14 Customizing LibreOffice&lt;/f1&gt; for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190002Z" creationid="Marco Marega" creationdate="20180620T185042Z">
@@ -4749,6 +4765,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123353Z" creationid="Marco Marega" creationdate="20180621T123353Z">
         <seg>Fate clic sulle icone per aprire un nuovo documento di tipo corrispondente, oppure fate clic sull'icona &lt;f2&gt;Modelli&lt;/f2&gt; per creare un nuovo documento sulla base di un modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;AutoText&lt;/f0&gt; button &lt;f1&gt;at the bottom of the dialog&lt;/f1&gt; and select from the menu either &lt;f2&gt;New&lt;/f2&gt; (to have the AutoText retain specific formatting, no matter where it is inserted) or &lt;f3&gt;New (text only)&lt;/f3&gt; (to have the AutoText take on the existing formatting around the insertion point&lt;f4&gt;)&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144755Z" creationid="manuel" creationdate="20180626T144755Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Testo automatico&lt;/f0&gt; &lt;f1&gt;in basso nella finestra di dialogo&lt;/f1&gt; e selezionate dal menu &lt;f2&gt;Nuovo&lt;/f2&gt; (per far sì che il Testo automatico mantenga una specifica formattazione, indipendentemente dal punto in cui è inserito) oppure &lt;f3&gt;Nuovo (solo testo)&lt;/f3&gt; (per far sì che il Testo automatico assuma la formattazione presente intorno al punto di inserimento&lt;f4&gt;)&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8743,6 +8767,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062353Z" creationid="manuel" creationdate="20180609T062353Z">
         <seg>Se le impostazioni di localizzazione vengono modificate, la valuta predefinita cambia automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the only option under the &lt;f0&gt;AutoText&lt;/f0&gt; button is &lt;f1&gt;Import&lt;/f1&gt;, either you have not entered a name for your AutoText or there is no text selected in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144828Z" creationid="manuel" creationdate="20180626T144828Z">
+        <seg>Se la sola opzione sotto il pulsante &lt;f0&gt;Testo automatico&lt;/f0&gt; è &lt;f1&gt;Importa&lt;/f1&gt;, non avete introdotto un nome per il Testo automatico o non avete selezionato un testo nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16064,6 +16096,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222550Z" creationid="Marco Marega" creationdate="20180620T222550Z">
         <seg>Per nascondere la Barra laterale, fate clic sul pulsante grigio &lt;f0&gt;Nascondi&lt;/f0&gt; alla sua sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To insert AutoText, type the shortcut and press &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144807Z" creationid="manuel" creationdate="20180626T144807Z">
+        <seg>Per inserire Testo automatico, digitate la scelta rapida e premete &lt;f0&gt;F3&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
