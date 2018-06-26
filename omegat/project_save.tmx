@@ -7787,6 +7787,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting paragraphs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154019Z" creationid="manuel" creationdate="20180626T154019Z">
+        <seg>Formattare i paragrafi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting text</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180218Z" creationid="Elisabetta Manuele" creationdate="20180620T180218Z">
@@ -12575,6 +12583,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143857Z" creationid="manuel" creationdate="20180626T143857Z">
         <seg>Vedere il Capitolo 1&lt;f1&gt;6&lt;/f1&gt; (Lavorare con i comandi di campo) nella &lt;f2&gt;Guida a Writer&lt;/f2&gt; per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 3, Using Styles and Templates, in this book and Chapters &lt;f0&gt;8&lt;/f0&gt; and &lt;f1&gt;9&lt;/f1&gt; in the &lt;f2&gt;Writer Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154014Z" creationid="manuel" creationdate="20180626T154014Z">
+        <seg>Vedere il Capitolo 3 (Uso di Stili e Modelli) in questa guida e i Capitoli &lt;f0&gt;8&lt;/f0&gt; e &lt;f1&gt;9&lt;/f1&gt; nella &lt;f2&gt;Guida a Writer&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18093,6 +18109,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writer defines several types of styles, for different types of elements: characters, paragraphs, pages, frames, and lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T153904Z" creationid="manuel" creationdate="20180626T153904Z">
+        <seg>Writer definisce diversi tipi di stili, per diversi tipi di elementi: caratteri, paragrafi, pagine, cornici ed elenchi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writer has &lt;f0&gt;three&lt;/f0&gt; ways to view a document: &lt;f1&gt;Normal&lt;/f1&gt;, Web, and Full Screen.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T104358Z" creationid="manuel" creationdate="20180621T104358Z">
@@ -18377,6 +18401,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134056Z" creationid="Marco Marega" creationdate="20180623T134056Z">
         <seg>Potete anche usare i seguenti tasti di scelta rapida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can apply many formats to paragraphs using the buttons on the Formatting toolbar and by using the Paragraph panel of the Sidebar’s Properties deck.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154119Z" creationid="manuel" creationdate="20180626T154119Z">
+        <seg>Potete applicare molti formati ai paragrafi utilizzando i pulsanti sulla barra degli strumenti Formattazione e utilizzando il pannello Paragrafo del pannello Proprietà della barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
