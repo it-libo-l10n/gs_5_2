@@ -16269,6 +16269,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use the thesaurus, click on &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Thesaurus&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the Synonyms submenu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T080338Z" creationid="manuel" creationdate="20180626T080324Z">
+        <seg>Per utilizzare il dizionario dei sinonimi, fate clic su &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Sinonimi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; dal sottomenu Sinonimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tool bars and Sidebar panels share many functions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222247Z" creationid="Marco Marega" creationdate="20180620T222247Z">
