@@ -7427,6 +7427,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, “hte” will be changed to “the”.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T105909Z" creationid="manuel" creationdate="20180626T105909Z">
+        <seg>Ad esempio, “pò” verrà cambiato con “po'”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For full details about themes, visit the Mozilla website: &lt;a6&gt;http&lt;/a6&gt;&lt;a7&gt;s&lt;/a7&gt;&lt;a8&gt;://www.&lt;/a8&gt;&lt;a9&gt;https://addons.mozilla.org/en-US/firefox/themes/&lt;/a9&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093458Z" creationid="manuel" creationdate="20180606T093458Z">
@@ -8647,6 +8655,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084104Z" creationid="manuel" creationdate="20180530T084104Z">
         <seg>Se il testo nei file della Guida o nei menu dell'interfaccia utente di LibreOffice è troppo piccolo o troppo grande, è possibile modificarlo specificando un fattore di scala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If these aids are not available for your language, consider joining the LibreOffice project to help your language community get one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T105748Z" creationid="manuel" creationdate="20180626T105748Z">
+        <seg>Se questi aiuti non sono disponibili per la vostra lingua, prendete in considerazione l'adesione al progetto LibreOffice per aiutare la tua comunità linguistica a ottenerne uno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16749,6 +16765,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using AutoCorrect</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T105751Z" creationid="manuel" creationdate="20180626T105751Z">
+        <seg>Uso della Correzione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Consistent Formatting in Your Documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112224Z" creationid="manuel" creationdate="20180611T112224Z">
@@ -17713,6 +17737,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143912Z" creationid="manuel" creationdate="20180621T143912Z">
         <seg>Writer dispone di strumenti che possono facilitare il lavoro nel caso di utilizzo di più lingue nello stesso documento o di creazione di documenti in lingue diverse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer’s AutoCorrect function has a long list of common misspellings and typing errors, which it corrects automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T105810Z" creationid="manuel" creationdate="20180626T105810Z">
+        <seg>La funzione Correzione automatica si basa su una lunga lista di comuni errori di ortografia e di digitazione, che vengono corretti automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
