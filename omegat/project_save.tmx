@@ -3641,6 +3641,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, four dictionaries are installed: a spelling checker, a grammar checker, a hyphenation dictionary, and a thesaurus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063324Z" creationid="manuel" creationdate="20180626T063324Z">
+        <seg>Per impostazione predefinita, sono installati quattro dizionari: uno per il controllo ortografico, uno per il controllo grammaticale, un dizionario di sillabazione e un dizionario dei sinonimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, tables of contents use Heading styles, but you can use whatever combination of styles you prefer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170715Z" creationid="manuel" creationdate="20180615T170715Z">
@@ -8019,6 +8027,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here are some more features of the spelling checker:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063326Z" creationid="manuel" creationdate="20180626T063326Z">
+        <seg>Vi sono altre funzioni del correttore ortografico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here are some of the advantages of LibreOffice over other office suites:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211746Z" creationid="Marco Marega" creationdate="20180527T211746Z">
@@ -9383,6 +9399,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
         <seg>In many situations, you may find that you have more slides than the time available to present them or you may want to provide a rapid overview without dwelling on the details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to use this, the appropriate dictionaries must be installed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063248Z" creationid="manuel" creationdate="20180626T063248Z">
+        <seg>Per l'uso di questo strumento occorre che siano installati i dizionari appropriati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17597,6 +17621,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add a word to the dictionary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063443Z" creationid="manuel" creationdate="20180626T063443Z">
+        <seg>Potete aggiungere parole al dizionario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add several wikis to the list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T140840Z" creationid="manuel" creationdate="20180609T140840Z">
@@ -17777,6 +17809,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134056Z" creationid="Marco Marega" creationdate="20180623T134056Z">
         <seg>Potete anche usare i seguenti tasti di scelta rapida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change &lt;i0/&gt;the dictionary language (for example, Spanish, French or German) on the Spelling and Grammar dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063427Z" creationid="manuel" creationdate="20180626T063427Z">
+        <seg>Potete cambiare la lingua del &lt;i0/&gt;dizionario (ad esempio Spagnolo, Francese o Tedesco) nella finestra di dialogo Controllo ortografico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18737,6 +18777,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170007Z" creationid="manuel" creationdate="20180608T170007Z">
         <seg>dizionari, installazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dictionary</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063331Z" creationid="manuel" creationdate="20180626T063331Z">
+        <seg>dizionario</seg>
       </tuv>
     </tu>
     <tu>
