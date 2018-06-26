@@ -2279,6 +2279,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can add your own corrections or special characters or change those supplied with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T111117Z" creationid="manuel" creationdate="20180626T111117Z">
+        <seg>&lt;f0&gt;Potete aggiungere le vostre correzioni o caratteri speciali o modificare quelli forniti con LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can also see the number of words and characters (and other information including the number of pages, tables, and graphics) in the entire document in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Properties &gt; Statistics&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060239Z" creationid="manuel" creationdate="20180618T060239Z">
@@ -2307,6 +2315,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204340Z" creationid="Marco Marega" creationdate="20180528T190036Z">
         <seg>&lt;f0&gt;Voi contate.&lt;/f0&gt; Migliorie, eliminazione di bug e date di rilascio sono determinate dalla comunità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You may wish to disable some of its features, modify others, or turn it off completely.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T111022Z" creationid="manuel" creationdate="20180626T111022Z">
+        <seg>&lt;f0&gt;Potreste voler disattivare alcune delle sue funzionalità, modificarne altre o disattivarle completamente.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
