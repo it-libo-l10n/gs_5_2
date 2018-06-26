@@ -4674,6 +4674,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Options&lt;/f0&gt; button on the Spelling and Grammar dialog to open a dialog similar to the one in &lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; Writing Aids&lt;/f1&gt; described in Chapter 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T064728Z" creationid="manuel" creationdate="20180626T064728Z">
+        <seg>Fate clic sul pulsante delle &lt;f0&gt;Opzioni&lt;/f0&gt; nella finestra di dialogo Ortografia e grammatica per aprire una finestra di dialogo simile a quella che potete vedere selezionando &lt;f1&gt;Strumenti &gt; Opzioni &gt; Impostazioni della lingua &gt; Linguistica&lt;/f1&gt; descritta nel Capitolo 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Options&lt;/f0&gt; button to open a separate dialog with specific choices (Figure &lt;t1&gt;27&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080411Z" creationid="manuel" creationdate="20180531T080411Z">
@@ -14752,6 +14760,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212047Z" creationid="Marco Marega" creationdate="20180527T212047Z">
         <seg>Nessun costo nascosto attuale o futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There you can choose whether to check uppercase words and words with numbers, and you can manage custom dictionaries, that is, add or delete dictionaries and add or delete words in a dictionary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T064741Z" creationid="manuel" creationdate="20180626T064741Z">
+        <seg>In tale finestra potete scegliere se controllare parole maiuscole e con i numeri, potete gestire dizionari personalizzati, cioè, aggiungere o rimuovere dizionari e parole in un dizionario.</seg>
       </tuv>
     </tu>
     <tu>
