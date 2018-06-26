@@ -2271,6 +2271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can select additional grammar checking rules through &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; Language Settings &gt; English sentence checking&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, or through &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Tools &gt; Extension Manager &gt; English spelling dictionaries &gt; Options&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T071934Z" creationid="manuel" creationdate="20180626T071934Z">
+        <seg>&lt;f0&gt;Potete selezionare ulteriori regole di controllo grammaticale (solo per l'nglese) tramite &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Strumenti &gt; Opzioni &gt; Impostazioni lingua &gt; Controllo frase inglese&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, o tramite &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Strumenti &gt; Gestione estensioni &gt; English spelling dictionaries (dizionari ortografici in inglese) &gt; Opzioni &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can set up one paragraph style so that when you press &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Enter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; at the end of that paragraph, the following paragraph automatically has the style you wish applied to it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164941Z" creationid="manuel" creationdate="20180615T164941Z">
@@ -12283,6 +12291,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Chapter 3, Working with Text: &lt;f0&gt;Basics,&lt;/f0&gt; in the &lt;f1&gt;Writer Guide&lt;/f1&gt; for a detailed explanation of the spelling and grammar checking facility.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T072134Z" creationid="manuel" creationdate="20180626T072134Z">
+        <seg>Vedere Capitolo 3 (Lavorare con il testo: &lt;f0&gt;Nozioni di base&lt;/f0&gt;) nella &lt;f1&gt;Guida al Writer&lt;/f1&gt; per una spiegazione dettagliata della funzione di controllo ortografico e grammaticale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Chapter 4 for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165014Z" creationid="manuel" creationdate="20180615T165014Z">
@@ -16841,6 +16857,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143611Z" creationid="manuel" creationdate="20180611T143611Z">
         <seg>Grazie agli stili, non è più necessario selezionare, ad esempio, “Dimensione dei caratteri 14pt, Times New Roman, Grassetto, Centrato”, ma sarà sufficiente scegliere lo stile “Titolo”, precedentemente impostato con le caratteristiche desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using synonyms and the thesaurus</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T072142Z" creationid="manuel" creationdate="20180626T072142Z">
+        <seg>Uso dei sinonimi e del dizionario dei sinonimi</seg>
       </tuv>
     </tu>
     <tu>
