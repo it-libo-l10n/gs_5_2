@@ -2207,6 +2207,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The thesaurus gives a more extensive list of alternative words and phrases.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T074451Z" creationid="manuel" creationdate="20180626T074451Z">
+        <seg>&lt;f0&gt;Il dizionario dei sinonimi offre un elenco più ampio di parole e frasi alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Tools&lt;/f0&gt; – contains functions such as Spelling and Grammar, AutoCorrect, Customize, and Options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215316Z" creationid="Marco Marega" creationdate="20180616T215316Z">
@@ -2427,6 +2435,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141018Z" creationid="manuel" creationdate="20180618T105139Z">
         <seg>&lt;f7&gt;Se avete selezionato &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Abilta caratteristiche sperimentali&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; in &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;, apparirà un quinto pannello ( (&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Gestisci le modifiche&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;), e un sesto (&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Struttura&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;) può essere selezionato in &lt;/f19&gt;&lt;t20/&gt;&lt;f21&gt;&lt;f22&gt;Configurazione barra laterale &gt; Personalizza&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.&lt;/f23&gt; Ciascun ponte ha una icona corrispondente sulla barra delle linguette a destra dela barra laterale, consentendovi di passare da una all'altra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s1/&gt;A submenu of alternative words and phrases is displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T074335Z" creationid="manuel" creationdate="20180626T074335Z">
+        <seg>&lt;s1/&gt;Viene visualizzato un sottomenu di parole e frasi alternative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4549,6 +4565,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085942Z" creationid="luke" creationdate="20180515T085942Z">
         <seg>Click on a file name to display it in the Preview area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on a word or phrase in the submenu to have it replace the highlighted word or phrase in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T074418Z" creationid="manuel" creationdate="20180626T074418Z">
+        <seg>Fate clic su una parola o frase nel sottomenu per sostituirla con la parola o la frase evidenziata nel documento.</seg>
       </tuv>
     </tu>
     <tu>
