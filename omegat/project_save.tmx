@@ -2255,6 +2255,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Y&lt;/f0&gt;ou can set paragraphs to be checked in a specific language (different from the rest of the document) &lt;f1&gt;using several methods,&lt;/f1&gt; &lt;f2&gt;f&lt;/f2&gt;or example by clicking on the &lt;f3&gt;Text &lt;/f3&gt;Language &lt;f4&gt;field&lt;/f4&gt; on the Status Bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T065516Z" creationid="manuel" creationdate="20180626T065516Z">
+        <seg>&lt;f0&gt;Potete&lt;/f0&gt; impostare i paragrafi da verificare in una lingua specifica (diversa dal resto del documento) &lt;f1&gt;utilizzando diversi metodi,&lt;/f1&gt; &lt;f2&gt;per&lt;/f2&gt; esempio facendo clic sul &lt;f4&gt;campo&lt;/f4&gt; &lt;f3&gt;Lingua del testo&lt;/f3&gt; sulla barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can also see the number of words and characters (and other information including the number of pages, tables, and graphics) in the entire document in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Properties &gt; Statistics&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060239Z" creationid="manuel" creationdate="20180618T060239Z">
@@ -12287,6 +12295,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151421Z" creationid="manuel" creationdate="20180621T151421Z">
         <seg>Vedere il Capitolo &lt;f1&gt;9&lt;/f1&gt; (Lavorare con gli stili) nella &lt;f2&gt;Guida a Writer&lt;/f2&gt; per informazioni su come gestire le impostazioni di lingua in uno stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter &lt;f5&gt;9&lt;/f5&gt;, Working with Styles, in the &lt;f6&gt;Writer Guide&lt;/f6&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T065554Z" creationid="manuel" creationdate="20180626T065554Z">
+        <seg>Vedere il Capitolo &lt;f5&gt;9&lt;/f5&gt; (Lavorare con gli stili) nella &lt;f6&gt;Guida a Writer&lt;/f6&gt; per maggiori informazioni.</seg>
       </tuv>
     </tu>
     <tu>
