@@ -16028,6 +16028,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The pointer turns into a double-headed arrow and displays the current setting in a tool-tip.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T162115Z" creationid="manuel" creationdate="20180627T162115Z">
+        <seg>Il puntatore del mouse cambia forma e diventa una freccia a doppia punta e visualizza l'impostazione corrente in un suggerimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The range of choices on the Paste Special menu varies depending on the origin and formatting of the text (or other object) to be pasted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165218Z" creationid="manuel" creationdate="20180621T165218Z">
