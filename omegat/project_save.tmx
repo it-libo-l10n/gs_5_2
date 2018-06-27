@@ -2927,6 +2927,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add a header (&lt;f0&gt;Insert &gt; Header and Footer &gt; Header &gt; Default&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101644Z" creationid="manuel" creationdate="20180627T101644Z">
+        <seg>Aggiungete un'intestazione (&lt;f0&gt;Inserisci &gt; Riga di intestazione &gt; Predefinito&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add any content that you want to appear in any document you create from the new template, for example company logo, copyright statement, and so on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104443Z" creationid="manuel" creationdate="20180615T104443Z">
@@ -4565,6 +4573,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101636Z" creationid="manuel" creationdate="20180627T101636Z">
         <seg>Scegliete &lt;f0&gt;File &gt; Proprietà &gt; Descrizione&lt;/f0&gt; e digitate il titolo per il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Insert &gt; Fields &gt; Title&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101701Z" creationid="manuel" creationdate="20180627T101701Z">
+        <seg>Scegliete &lt;f0&gt;Inserisci &gt; Comando di campo &gt; Titolo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6755,6 +6771,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fields are covered in detail in Chapter 1&lt;f0&gt;6&lt;/f0&gt;, Working with Fields, in the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101821Z" creationid="manuel" creationdate="20180627T101821Z">
+        <seg>L'argomento dei comandi di campo viene trattato in dettaglio nel Capitolo 1&lt;f0&gt;6&lt;/f0&gt; (Lavorare con i comandi di campo) nella &lt;f1&gt;Guida a Writer&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Example of LibreOffice Save As dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194542Z" creationid="Marco Marega" creationdate="20180621T194542Z">
@@ -8023,6 +8047,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083224Z" creationid="manuel" creationdate="20180528T083224Z">
         <seg>Per informazioni sulle impostazioni non discusse in questa sezione, si veda l'aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more about headers and footers, see Chapter &lt;f0&gt;6&lt;/f0&gt;, Formatting Pages, and Chapter &lt;f1&gt;8&lt;/f1&gt;, Introduction to Styles, in the &lt;f2&gt;Writer Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101924Z" creationid="manuel" creationdate="20180627T101924Z">
+        <seg>Per avere maggiori dettagli sulle intestazioni e sui piè di pagina, vedere i Capitoli &lt;f0&gt;6&lt;/f0&gt; (Formattare le pagine) e &lt;f1&gt;8&lt;/f1&gt; (Introduzione agli Stili) della &lt;f2&gt;Guida a Writer&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11963,6 +11995,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Numbering pages</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101932Z" creationid="manuel" creationdate="20180627T101932Z">
+        <seg>Numerazione delle pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ODF format version, saving</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144750Z" creationid="manuel" creationdate="20180608T144750Z">
@@ -12663,6 +12703,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170042Z" creationid="Elisabetta Manuele" creationdate="20180620T170042Z">
         <seg>Peter Schofield</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the cursor in the header part of the page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101650Z" creationid="manuel" creationdate="20180627T101650Z">
+        <seg>Portate il cursore all'interno della riga d'intestazione della pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15852,6 +15900,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The title should appear on a gray background (which does not show when printed and can be turned off).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101713Z" creationid="manuel" creationdate="20180627T101713Z">
+        <seg>Il titolo appare su uno sfondo grigio (che non verrà mostrato durante la stampa e che può essere disattivato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The toolbar can be docked in a new position at the top, sides or bottom of the main window, or left as a floating toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181950Z" creationid="Marco Marega" creationdate="20180620T181950Z">
@@ -16720,6 +16776,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060253Z" creationid="manuel" creationdate="20180618T060253Z">
         <seg>Per applicare uno stile diverso alla pagina, fate clic con il tasto destro su questo campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the title for the whole document, go back to &lt;f0&gt;File &gt; Properties &gt; Description&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101725Z" creationid="manuel" creationdate="20180627T101725Z">
+        <seg>Per modificare il titolo per tutto il documento, ritornate in &lt;f0&gt;File &gt; Proprietà &gt; Descrizione&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20894,6 +20958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>numbering pages</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101928Z" creationid="manuel" creationdate="20180627T101928Z">
+        <seg>numerazione delle pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072827Z" creationid="manuel" creationdate="20180531T072827Z">
@@ -20930,6 +21002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085526Z" creationid="manuel" creationdate="20180627T085526Z">
         <seg>layout di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page numbering</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101930Z" creationid="manuel" creationdate="20180627T101930Z">
+        <seg>numerazione delle pagine</seg>
       </tuv>
     </tu>
     <tu>
