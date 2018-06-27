@@ -7003,6 +7003,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174729Z" creationid="Elisabetta Manuele" creationdate="20180627T174729Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: finestra di dialogo con i controlli più comuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Choosing general printing options to apply to all LibreOffice components</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065959Z" creationid="manuel" creationdate="20180531T065959Z">
@@ -10427,6 +10435,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most cases the technical terms are not used in this book, but it is useful to know them because the Help and other sources of information often use them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174559Z" creationid="Elisabetta Manuele" creationdate="20180627T174559Z">
+        <seg>Nella maggior parte dei casi in questa guida non si riscontrano termini tecnici, ma può essere utile conoscerli perché si possono ritrovare frequentemente nella Guida in linea o in altre guide e manuali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In most cases, the defaults are fine.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T111228Z" creationid="manuel" creationdate="20180626T111228Z">
@@ -11075,6 +11091,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It provides controls to use to specify how to carry out an action.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174439Z" creationid="Elisabetta Manuele" creationdate="20180627T174439Z">
+        <seg>Contiene i controlli utili a determinare il corretto svolgimento di un'azione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It provides information about the document and convenient ways to change some features quickly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190923Z" creationid="Marco Marega" creationdate="20180620T190923Z">
@@ -11111,6 +11135,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201201Z" creationid="Marco Marega" creationdate="20180527T195848Z">
         <seg>Il suo formato file nativo è l'Open Document (ODF), uno standard aperto adottato da numerose autorità governative di tutto il mondo come formato di file richiesto per la pubblicazione e l'accettazione dei documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its purpose is to inform you of something, or request input from you, or both.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174413Z" creationid="Elisabetta Manuele" creationdate="20180627T174413Z">
+        <seg>Il suo scopo è quello di fornire all'utente informazioni su qualcosa, di richiederne un intervento, o entrambi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16344,6 +16376,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173248Z" creationid="Elisabetta Manuele" creationdate="20180627T173248Z">
         <seg>La tabella seguente fornisce le sostituzioni più comuni per le istruzioni di questo capitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The technical names for common controls are shown in Figure &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174506Z" creationid="Elisabetta Manuele" creationdate="20180627T174506Z">
+        <seg>I riferimenti tecnici dei controlli più comuni sono riportati nella figura &lt;t0&gt;1&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
