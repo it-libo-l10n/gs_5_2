@@ -12387,6 +12387,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Page&lt;/f0&gt; tab of the dialog, type the required distances in the Margins boxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T172351Z" creationid="manuel" creationdate="20180627T172351Z">
+        <seg>Nella scheda &lt;f0&gt;Pagina&lt;/f0&gt; della finestra di dialogo, digitate le distanze desiderate nei campi dei Margini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f0&gt;VBA Properties&lt;/f0&gt; page, you can choose whether to keep any macros in Microsoft Office documents that are opened in LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153755Z" creationid="manuel" creationdate="20180608T153755Z">
