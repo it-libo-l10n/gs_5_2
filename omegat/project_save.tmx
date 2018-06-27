@@ -3648,6 +3648,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic hyphenation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T073624Z" creationid="manuel" creationdate="20180627T073624Z">
+        <seg>Sillabazione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatic numbering is only applied to paragraphs formatted with the &lt;f0&gt;Default&lt;/f0&gt;, &lt;f1&gt;Text body&lt;/f1&gt; or &lt;f2&gt;Text body indent&lt;/f2&gt; paragraph styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164010Z" creationid="manuel" creationdate="20180626T164010Z">
@@ -17149,6 +17157,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To turn automatic hyphenation of words on or off:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T073635Z" creationid="manuel" creationdate="20180627T073635Z">
+        <seg>Per attivare o disattivare la sillabazione automatica delle parole:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To turn off Word Completion, select &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options &gt; Word Completion &lt;/f0&gt;and deselect &lt;f1&gt;Enable word completion&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T135344Z" creationid="manuel" creationdate="20180626T135344Z">
@@ -19658,6 +19674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143257Z" creationid="manuel" creationdate="20180621T143257Z">
         <seg>Infatti, modificando il nome ed il tipo di file, avete creato un nuovo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have several choices regarding hyphenation: let Writer do it automatically (using its hyphenation dictionaries), insert conditional hyphens manually where necessary, or don’t hyphenate at all.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T073607Z" creationid="manuel" creationdate="20180627T073607Z">
+        <seg>Avete diverse possibilità riguardo alla sillabazione: fare in modo che Writer la esegua automaticamente (utilizzando i dizionari di sillabazione integrati), inserire separatori condizionali manualmente dove necessario, oppure non eseguirla affatto.</seg>
       </tuv>
     </tu>
     <tu>
