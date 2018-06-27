@@ -7483,6 +7483,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;83&lt;/seq0&gt;: Moving the margins</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T162223Z" creationid="manuel" creationdate="20180627T162223Z">
+        <seg>Figura &lt;seq0&gt;83&lt;/seq0&gt;: spostare i margini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Properties panel of Sidebar in Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221658Z" creationid="Marco Marega" creationdate="20180620T221658Z">
@@ -8879,6 +8887,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152356Z" creationid="manuel" creationdate="20180621T152356Z">
         <seg>Tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; e selezionate la successiva porzione di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hold down the left mouse button and drag the mouse to move the margin.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T162214Z" creationid="manuel" creationdate="20180627T162214Z">
+        <seg>Tenete premuto il pulsante sinistro del mouse e trascinate il mouse in modo da spostare il margine dove desiderate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16030,8 +16046,8 @@
       <tuv lang="EN">
         <seg>The pointer turns into a double-headed arrow and displays the current setting in a tool-tip.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T162115Z" creationid="manuel" creationdate="20180627T162115Z">
-        <seg>Il puntatore del mouse cambia forma e diventa una freccia a doppia punta e visualizza l'impostazione corrente in un suggerimento.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T162204Z" creationid="manuel" creationdate="20180627T162115Z">
+        <seg>Il puntatore del mouse cambia forma in una freccia a doppia punta e visualizza l'impostazione corrente in un suggerimento.</seg>
       </tuv>
     </tu>
     <tu>
