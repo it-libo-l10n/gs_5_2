@@ -2719,6 +2719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dialog is a special type of window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174345Z" creationid="Elisabetta Manuele" creationdate="20180627T174345Z">
+        <seg>Una finestra di dialogo è un tipo di finestra particolare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A digital signature requires a personal signing certificate.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073330Z" creationid="manuel" creationdate="20180606T073330Z">
@@ -16360,6 +16368,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T074819Z" creationid="manuel" creationdate="20180616T074819Z">
         <seg>I modelli sono disponibili per l'uso attraverso &lt;f0&gt;File &gt; Modelli &gt; Gestisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;modelli&lt;/f2&gt;&lt;/f1&gt; e &lt;f3&gt;File &gt; Nuovo &gt; Modelli&lt;/f3&gt; e le estensioni sono elencati in Gestione estensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The terms used in LibreOffice for most parts of the &lt;i0/&gt;user interface (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174028Z" creationid="Elisabetta Manuele" creationdate="20180627T174028Z">
+        <seg>I termini utilizzati in gran parte dell'&lt;i0/&gt;interfaccia utente di LibreOffice (cioè gli elementi del programma che vedete e utilizzate, a differenza del codice non visibile che ne permette il funzionamento) sono gli stessi presenti in altri programmi.</seg>
       </tuv>
     </tu>
     <tu>
