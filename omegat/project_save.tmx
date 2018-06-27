@@ -2695,6 +2695,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A footer appears at the bottom of the page below the margin.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T093438Z" creationid="manuel" creationdate="20180627T093438Z">
+        <seg>Un piè di pagina viene visualizzato nella parte inferiore della pagina sotto il margine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A header and a footer are properties of the page style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T093521Z" creationid="manuel" creationdate="20180627T093521Z">
+        <seg>Un'intestazione e un piè di pagina sono proprietà dello stile di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A header is an area that appears at the top of a page above the margin.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T092551Z" creationid="manuel" creationdate="20180627T092551Z">
@@ -10423,6 +10439,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191635Z" creationid="Marco Marega" creationdate="20180528T191635Z">
         <seg>Le informazioni relative all'installazione e impostazione di LibreOffice sui vari sistemi operativi supportati sono fornite a questo indirizzo: &lt;a0&gt;https://it.libreoffice.org/supporto/installazione/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information such as page numbers inserted into a header or footer displays on every page of the document with that page style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T093450Z" creationid="manuel" creationdate="20180627T093450Z">
+        <seg>Le informazioni come i numeri di pagina inserite in un'intestazione o in un piè di pagina sono visualizzate in ogni pagina del documento con quello stile di pagina.</seg>
       </tuv>
     </tu>
     <tu>
