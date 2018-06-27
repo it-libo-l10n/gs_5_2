@@ -2695,6 +2695,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A header is an area that appears at the top of a page above the margin.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T092551Z" creationid="manuel" creationdate="20180627T092551Z">
+        <seg>Un'intestazione è un'area collocata nella parte superiore della pagina sopra il margine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A keyboard layout is normally based on the language used by the operating system but can be changed by the user.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T081428Z" creationid="manuel" creationdate="20180609T081428Z">
@@ -5639,6 +5647,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185324Z" creationid="Elisabetta Manuele" creationdate="20180620T185324Z">
         <seg>Creazione di formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating headers and footers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T092437Z" creationid="manuel" creationdate="20180627T092437Z">
+        <seg>Creazione di intestazioni e piè di pagina</seg>
       </tuv>
     </tu>
     <tu>
@@ -12367,6 +12383,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145732Z" creationid="manuel" creationdate="20180611T145732Z">
         <seg>Pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page layout is usually easier if you show text, object, table, and section boundaries in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Appearance,&lt;/f0&gt; and paragraph end&lt;f1&gt;s&lt;/f1&gt;, tabs, breaks, and other items in &lt;f2&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T092431Z" creationid="manuel" creationdate="20180627T092431Z">
+        <seg>Impostare il layout di pagina è in genere più facile se mostrate i contorni di testo, oggetti, tabelle, e sezioni in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Aspetto,&lt;/f0&gt; e i marcatori di &lt;f1&gt;fine&lt;/f1&gt; paragrafo, le tabulazioni, le interruzioni, e le altre voci in &lt;f2&gt;Strumenti &gt; Opzioni &gt; LibreOffice Writer &gt; Formattazione&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
