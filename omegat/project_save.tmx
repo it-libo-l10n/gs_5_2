@@ -3305,8 +3305,8 @@
       <tuv lang="EN">
         <seg>Any tab stops that you have defined will overwrite the default tab stops.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T065912Z" creationid="manuel" creationdate="20180627T065912Z">
-        <seg>Eventuali interruzioni di tabulazione che avete definito sovrascriveranno i punti di tabulazione predefiniti.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T071227Z" creationid="manuel" creationdate="20180627T065912Z">
+        <seg>Eventuali tabulazioni che avete definito sovrascriveranno le tabulazioni predefinite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14235,6 +14235,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tab settings affect indentation of full paragraphs (using the &lt;f1&gt;Increase Indent&lt;/f1&gt; and &lt;f2&gt;Decrease Indent&lt;/f2&gt; buttons on the Formatting toolbar) as well as indentation of parts of a paragraph (by pressing the &lt;f3&gt;Tab&lt;/f3&gt; key on the keyboard).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T071332Z" creationid="manuel" creationdate="20180627T071332Z">
+        <seg>Le impostazioni della tabulazione influiscono sul rientro di interi paragrafi (usando i pulsanti &lt;f1&gt;Aumenta rientro&lt;/f1&gt; e &lt;f2&gt;Riduci rientro&lt;/f2&gt; sulla barra degli strumenti Formattazione) così come sul rientro di parti di un paragrafo (premendo il tasto &lt;f3&gt;Tab&lt;/f3&gt; sulla tastiera).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Free support for LibreOffice users</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171539Z" creationid="Elisabetta Manuele" creationdate="20180625T171539Z">
@@ -17890,6 +17898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155850Z" creationid="manuel" creationdate="20180611T155850Z">
         <seg>Usare il menu Stili in Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the default tab spacing can cause formatting problems if you share documents with other people.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T071342Z" creationid="manuel" creationdate="20180627T071342Z">
+        <seg>L'utilizzo della spaziatura di tabulazione predefinita può causare problemi di formattazione se condividete documenti con altre persone.</seg>
       </tuv>
     </tu>
     <tu>
