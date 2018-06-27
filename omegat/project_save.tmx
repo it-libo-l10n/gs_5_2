@@ -3848,6 +3848,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Because the page style is affected, the changed margins apply to &lt;f0&gt;all&lt;/f0&gt; pages using that style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103803Z" creationid="manuel" creationdate="20180627T103803Z">
+        <seg>Siccome la modifica influisce sullo stile di pagina, la modifica dei margini verrà applicata a &lt;f0&gt;tutte&lt;/f0&gt; le pagine che utilizzano quello stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before changing them, you may wish to consider the following points:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081601Z" creationid="manuel" creationdate="20180530T081601Z">
@@ -9547,6 +9555,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you change the margins, the new margins affect the page style and will be shown in the Page Style dialog the next time you open it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103750Z" creationid="manuel" creationdate="20180627T103750Z">
+        <seg>Se cambiate i margini con i righelli, le nuove impostazioni modificano anche lo stile di pagina e compaiono nella finestra di dialogo Stile di pagina una volta che la riaprite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you choose &lt;f0&gt;Keep Old Styles&lt;/f0&gt;, the document is no longer connected to the template, even though the template is still listed under &lt;f1&gt;File &gt; Properties &gt; General.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171618Z" creationid="manuel" creationdate="20180615T171618Z">
@@ -13059,6 +13075,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Put the mouse cursor over the line between the gray and white sections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103820Z" creationid="manuel" creationdate="20180627T103820Z">
+        <seg>Posizionate il cursore sulla linea tra l'area grigia e quella bianca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Questions and answers from the LibreOffice community&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171704Z" creationid="Elisabetta Manuele" creationdate="20180625T171704Z">
@@ -15700,6 +15724,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The gray sections of the rulers are the margins.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103814Z" creationid="manuel" creationdate="20180627T103814Z">
+        <seg>Le parti grigie dei righelli sono i margini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The horizontal ruler shows &lt;i0/&gt;the tab stops.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T065020Z" creationid="manuel" creationdate="20180627T065020Z">
@@ -16952,6 +16984,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160553Z" creationid="manuel" creationdate="20180612T160553Z">
         <seg>Per modificare uno stile esistente utilizzando la &lt;i0/&gt;finestra di dialogo Stile, fate clic con il pulsante destro del mouse sullo stile desiderato nella finestra Stili e formattazione e selezionate &lt;f1&gt;Modifica&lt;/f1&gt; dal menu a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change margins using the rulers:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103807Z" creationid="manuel" creationdate="20180627T103807Z">
+        <seg>Per cambiare i margini usando i righelli:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18666,6 +18706,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124348Z" creationid="Elisabetta Manuele" creationdate="20180620T174518Z">
         <seg>Usare il Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Page Style dialog—can specify margins to two decimal places</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103555Z" creationid="manuel" creationdate="20180627T103555Z">
+        <seg>Usando la finestra di dialogo Stile di pagina—in cui è possibile definire i margini con una precisione di due decimali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Page panel on the Properties deck of the Sidebar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103643Z" creationid="manuel" creationdate="20180627T103643Z">
+        <seg>Usando il pannello Pagina sul pannello Proprietà della barra laterale</seg>
       </tuv>
     </tu>
     <tu>
