@@ -3063,6 +3063,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Additionally, there are over 70 spelling, hyphenation, and thesaurus &lt;t0/&gt;dictionaries available for languages, and dialects that do not have a localized program interface.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180911Z" creationid="Elisabetta Manuele" creationdate="20180627T180911Z">
+        <seg>Inoltre sono disponibili oltre 70 &lt;t0/&gt;dizionari di correzione ortografica, di sillabazione, e di sinonimi per le lingue e i dialetti per i quali ancora mancano interfacce di programma localizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Administrator rights are needed for the installation process.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190556Z" creationid="Marco Marega" creationdate="20180528T190556Z">
@@ -3595,6 +3603,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144202Z" creationid="manuel" creationdate="20180616T144202Z">
         <seg>Come esempio, è possibile utilizzare gli stili di pagina &lt;f0&gt;Prima pagina&lt;/f0&gt; e &lt;f1&gt;Standard&lt;/f1&gt; che sono forniti con LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As many as you like.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180703Z" creationid="Elisabetta Manuele" creationdate="20180627T180703Z">
+        <seg>Su tutti quelli che volete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9131,6 +9147,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How many computers may I install it on?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180643Z" creationid="Elisabetta Manuele" creationdate="20180627T180643Z">
+        <seg>Su quanti computer è possibile installarlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to get the software</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190833Z" creationid="Marco Marega" creationdate="20180528T190833Z">
@@ -11083,6 +11107,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is LibreOffice available in my language?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180711Z" creationid="Elisabetta Manuele" creationdate="20180627T180711Z">
+        <seg>LibreOffice è disponibile nella mia lingua?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also connects to your email client.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201505Z" creationid="Marco Marega" creationdate="20180527T200322Z">
@@ -11603,6 +11635,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice has been translated (localized) into over 40 languages, so your language probably is supported.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180733Z" creationid="Elisabetta Manuele" creationdate="20180627T180733Z">
+        <seg>LibreOffice è stato tradotto (localizzato) in più di 40 lingue, quindi la vostra lingua è probabilmente supportata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice has to be associated with file types that are not ODF files for the appropriate LibreOffice component to open.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192919Z" creationid="Marco Marega" creationdate="20180621T192919Z">
@@ -12035,6 +12075,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>May I distribute LibreOffice to anyone?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180629Z" creationid="Elisabetta Manuele" creationdate="20180627T180629Z">
+        <seg>È possibile distribuire LibreOffice a chiunque?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May I sell it?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180632Z" creationid="Elisabetta Manuele" creationdate="20180627T180632Z">
+        <seg>È possibile venderlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May I use it in my business?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180637Z" creationid="Elisabetta Manuele" creationdate="20180627T180637Z">
+        <seg>È possibile usare LibreOffice in un ambiente di lavoro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Memory options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T142248Z" creationid="manuel" creationdate="20180530T081318Z">
@@ -12391,6 +12455,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181516Z" creationid="Elisabetta Manuele" creationdate="20180620T181516Z">
         <seg>Navigare nei fogli elettronici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New code is available under LGPL 3.0 and MPL 2.0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180618Z" creationid="Elisabetta Manuele" creationdate="20180627T180618Z">
+        <seg>Il nuovo codice è disponibile in base a LGPL 3.0 e MPL 2.0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20378,6 +20450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070050Z" creationid="manuel" creationdate="20180529T070050Z">
         <seg>Anno (due cifre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180639Z" creationid="Elisabetta Manuele" creationdate="20180627T180639Z">
+        <seg>Sì.</seg>
       </tuv>
     </tu>
     <tu>
