@@ -3872,6 +3872,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both methods take you to the same tab on the Page Style dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101551Z" creationid="manuel" creationdate="20180627T101551Z">
+        <seg>Entrambi i metodi vi portano alla stessa scheda della finestra di dialogo Stile di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bruce Byfield</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170109Z" creationid="Elisabetta Manuele" creationdate="20180620T170109Z">
@@ -4549,6 +4557,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T162705Z" creationid="manuel" creationdate="20180621T162705Z">
         <seg>Scegliete &lt;f0&gt;Modifica &gt; Incolla speciale&lt;/f0&gt;, oppure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File &gt; Properties &gt; Description&lt;/f0&gt; and type a title for your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101636Z" creationid="manuel" creationdate="20180627T101636Z">
+        <seg>Scegliete &lt;f0&gt;File &gt; Proprietà &gt; Descrizione&lt;/f0&gt; e digitate il titolo per il documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8683,6 +8699,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here is one common example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101621Z" creationid="manuel" creationdate="20180627T101621Z">
+        <seg>Ecco un esempio molto comune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can also &lt;f0&gt;select&lt;/f0&gt; which user-defined (custom) dictionaries are active by default, and add or remove user-installed dictionaries, by clicking the &lt;f1&gt;New&lt;/f1&gt; or &lt;f2&gt;Delete&lt;/f2&gt; buttons.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091419Z" creationid="manuel" creationdate="20180609T091419Z">
@@ -10543,6 +10567,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105932Z" creationid="manuel" creationdate="20180622T105932Z">
         <seg>Inserire trattini (dashes - in italiano detti anche lineette), &lt;i0/&gt;spazi non divisibili e trattini (hyphens - in italiano detti anche tratti d'unione)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserting header and footer contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101553Z" creationid="manuel" creationdate="20180627T101553Z">
+        <seg>Inserimento dei contenuti in intestazioni e piè di pagina</seg>
       </tuv>
     </tu>
     <tu>
@@ -12415,6 +12447,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162851Z" creationid="manuel" creationdate="20180615T162851Z">
         <seg>Gestire i modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other information such as document titles and chapter titles is often put into the header or footer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101602Z" creationid="manuel" creationdate="20180627T101602Z">
+        <seg>Nelle intestazioni e piè di pagina si inseriscono spesso ulteriori informazioni, come il titolo del documento e del capitolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14659,6 +14699,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That way, if something changes, the headers and footers are updated automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101615Z" creationid="manuel" creationdate="20180627T101615Z">
+        <seg>In questo modo, se si attuano delle modifiche, le intestazioni e i piè di pagina saranno aggiornati automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Default currency&lt;/f0&gt; is that used in the country entered as &lt;f1&gt;Locale&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062209Z" creationid="manuel" creationdate="20180609T062209Z">
@@ -16036,6 +16084,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These items are best added as fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101609Z" creationid="manuel" creationdate="20180627T101609Z">
+        <seg>Il modo migliore è inserirli come comandi di campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These options are for macro programmers and are not discussed here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071621Z" creationid="manuel" creationdate="20180608T071621Z">
@@ -16916,6 +16972,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To format a header, you can use either the menu item shown in Figure &lt;t0&gt;81&lt;/t0&gt; or &lt;f1&gt;Format &gt; Page &gt; Header&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101542Z" creationid="manuel" creationdate="20180627T101542Z">
+        <seg>Per formattare un'intestazione, potete usare la voce di menu mostrata in Figura &lt;t0&gt;81&lt;/t0&gt; oppure &lt;f1&gt;Formato &gt; Pagina &gt; Riga d'intestazione&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To get the software, access your mobile device application store, either Google Play Store for Android devices or Apple Store for IOs devices.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090048Z" creationid="luke" creationdate="20180515T090048Z">
@@ -17000,6 +17064,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T083056Z" creationid="manuel" creationdate="20180621T083056Z">
         <seg>Per inserire un'immagine in un file o aggiungere una nuova immagine alla nuova categoria, trascinate e rilasciate l'immagine selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To insert the document title into the header:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101629Z" creationid="manuel" creationdate="20180627T101629Z">
+        <seg>Per inserire il titolo del documento nell'intestazione:</seg>
       </tuv>
     </tu>
     <tu>
