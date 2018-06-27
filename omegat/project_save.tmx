@@ -3287,6 +3287,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any changes to the default tab setting will affect the existing default tab stops in any document you open afterward, as well as tab stops you insert after making the change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072640Z" creationid="manuel" creationdate="20180627T072640Z">
+        <seg>Qualsiasi modifica alle impostazioni predefinite della tabulazione avrà effetto sulle tabulazioni predefinite esistenti in qualsiasi documento aprirete in seguito, così come sulle tabulazioni che inserirete dopo aver fatto la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any changes you make to a style are effective only in the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155906Z" creationid="manuel" creationdate="20180612T155906Z">
@@ -4829,6 +4837,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T074418Z" creationid="manuel" creationdate="20180626T074418Z">
         <seg>Fate clic su una parola o frase nel sottomenu per sostituirla con la parola o la frase evidenziata nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on one of them to change the ruler to that unit.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072923Z" creationid="manuel" creationdate="20180627T072923Z">
+        <seg>Fate clic su una di esse per cambiare l'unità di misura del righello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7191,6 +7207,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165947Z" creationid="manuel" creationdate="20180626T165947Z">
         <seg>Figura &lt;seq0&gt;74&lt;/seq0&gt;: barra degli strumenti elenchi puntati e numerati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;75&lt;/seq0&gt;: Selecting a default tab stop interval</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072716Z" creationid="manuel" creationdate="20180627T072716Z">
+        <seg>Figura &lt;seq0&gt;75&lt;/seq0&gt;: scegliere l'intervallo di tabulazione predefinito</seg>
       </tuv>
     </tu>
     <tu>
@@ -17021,6 +17045,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To set the measurement unit and the spacing of default tab stop intervals, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072649Z" creationid="manuel" creationdate="20180627T072649Z">
+        <seg>Per impostare le unità di misura e la spaziatura degli intervalli di tabulazione predefiniti, andate in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Writer &gt; Generale&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To set up automatic file saving:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122653Z" creationid="Marco Marega" creationdate="20180622T122653Z">
@@ -18950,6 +18982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also set or change &lt;i0/&gt;the measurement unit for rulers in the current document by right-clicking on the ruler to open a list of units.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072854Z" creationid="manuel" creationdate="20180627T072854Z">
+        <seg>Potete anche impostare o modificare &lt;i0/&gt;le unità di misura per i righelli nel documento corrente facendo clic con il pulsante destro sul righello per aprire un elenco delle unità di misura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also set the language for a paragraph or a group of characters as &lt;f0&gt;None (Do not check spelling)&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T145036Z" creationid="manuel" creationdate="20180621T145015Z">
@@ -20330,6 +20370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073012Z" creationid="manuel" creationdate="20180606T073012Z">
         <seg>opzioni di sicurezza delle macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>measurement unit</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072737Z" creationid="manuel" creationdate="20180627T072737Z">
+        <seg>unità di misura</seg>
       </tuv>
     </tu>
     <tu>
