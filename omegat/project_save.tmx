@@ -17349,6 +17349,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Turning on hyphenation for &lt;f0&gt;the &lt;/f0&gt;paragraph Default Style affects all other paragraph styles that are based on Default Style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T075610Z" creationid="manuel" creationdate="20180627T075610Z">
+        <seg>Attivando la sillabazione per &lt;f0&gt;lo stile di default del paragrafo&lt;/f0&gt; influisce su tutti gli altri stili di paragrafo basati su Stile predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Two notable examples are cross-references to headings and the formatting of numbered lists.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152522Z" creationid="manuel" creationdate="20180608T152522Z">
@@ -19362,6 +19370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085956Z" creationid="luke" creationdate="20180515T085956Z">
         <seg>You can have as many slide shows as you want from a single presentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can individually change other styles so that hyphenation is not active; for example, you might not want headings to be hyphenated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T075727Z" creationid="manuel" creationdate="20180627T075727Z">
+        <seg>Potete variare la sillabazione in ciascun stile di formato, in modo da disattivarla; per esempio, potreste voler escludere la sillabazione nelle intestazioni.</seg>
       </tuv>
     </tu>
     <tu>
