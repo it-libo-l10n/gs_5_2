@@ -3303,6 +3303,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any tab stops that you have defined will overwrite the default tab stops.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T065912Z" creationid="manuel" creationdate="20180627T065912Z">
+        <seg>Eventuali interruzioni di tabulazione che avete definito sovrascriveranno i punti di tabulazione predefiniti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any text selected in the document will be counted and this count will replace the displayed count.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055838Z" creationid="manuel" creationdate="20180618T055838Z">
