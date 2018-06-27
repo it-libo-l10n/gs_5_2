@@ -4785,6 +4785,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f1&gt;OK&lt;/f1&gt; to save.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T075428Z" creationid="manuel" creationdate="20180627T075428Z">
+        <seg>Fate clic su &lt;f1&gt;OK&lt;/f1&gt; per salvare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f6&gt;Yes&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142301Z" creationid="manuel" creationdate="20180616T142301Z">
@@ -7239,6 +7247,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T073500Z" creationid="manuel" creationdate="20180627T073500Z">
         <seg>Figura &lt;seq0&gt;76&lt;/seq0&gt;: modificare l'unità di misura di un righello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;77&lt;/seq0&gt;: Modifying a style</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T075441Z" creationid="manuel" creationdate="20180627T075441Z">
+        <seg>Figura &lt;seq0&gt;77&lt;/seq0&gt;: modificare uno stile</seg>
       </tuv>
     </tu>
     <tu>
@@ -11967,6 +11983,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071336Z" creationid="manuel" creationdate="20180614T071336Z">
         <seg>Nella finestra di dialogo Carica stili (Figura &lt;t0&gt;51&lt;/t0&gt;), trovate un modello o un documento ordinario da cui copiare gli stili di formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Paragraph Style dialog (Figure &lt;t0&gt;78&lt;/t0&gt;), go to the &lt;f1&gt;Text Flow&lt;/f1&gt; page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T075412Z" creationid="manuel" creationdate="20180627T075412Z">
+        <seg>Nella finestra di dialogo Stile di paragrafo (Figura &lt;t0&gt;78&lt;/t0&gt;), andate alla scheda &lt;f1&gt;Flusso di testo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17385,6 +17409,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103059Z" creationid="manuel" creationdate="20180622T103059Z">
         <seg>Digitate il testo che volete trovare nel campo &lt;f0&gt;&lt;f1&gt;Trova&lt;/f1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under Hyphenation, select or deselect the &lt;f0&gt;Automatically&lt;/f0&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T075420Z" creationid="manuel" creationdate="20180627T075420Z">
+        <seg>Sotto Sillabazione, selezionate o deselezionate l'opzione &lt;f0&gt;Automatico&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
