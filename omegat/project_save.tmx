@@ -4121,6 +4121,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing the default tab stop interval</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072555Z" creationid="manuel" creationdate="20180627T072555Z">
+        <seg>Modificare l'intervallo di tabulazione predefinito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing the password</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200736Z" creationid="Marco Marega" creationdate="20180621T200736Z">
@@ -5887,6 +5895,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125235Z" creationid="Marco Marega" creationdate="20180622T125235Z">
         <seg>A seconda del tipo di servizio di file da voi scelto nell'elenco &lt;f0&gt;Tipo&lt;/f0&gt;, saranno necessari dei parametri diversi per ottenere una connessione valida al server remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending on what you are trying to accomplish, a table is usually a better choice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072547Z" creationid="manuel" creationdate="20180627T072511Z">
+        <seg>A seconda di ciò che dovete fare, una tabella solitamente è una scelta migliore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13019,6 +13035,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Chapters &lt;f1&gt;8&lt;/f1&gt; and &lt;f2&gt;9&lt;/f2&gt; in the &lt;f3&gt;Writer Guide&lt;/f3&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072440Z" creationid="manuel" creationdate="20180627T072440Z">
+        <seg>Per avere maggiori informazioni vedere i Capitoli &lt;f1&gt;8&lt;/f1&gt; e &lt;f2&gt;9&lt;/f2&gt; nella &lt;f3&gt;Guida a Writer&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Figure &lt;t0&gt;64&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071436Z" creationid="manuel" creationdate="20180618T071436Z">
@@ -17874,6 +17898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T072142Z" creationid="manuel" creationdate="20180626T072142Z">
         <seg>Uso dei sinonimi e del dizionario dei sinonimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using tabs to space out material on a page is not recommended.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072454Z" creationid="manuel" creationdate="20180627T072454Z">
+        <seg>Si sconsiglia l'utilizzo delle tabulazioni per distanziare materiale su una pagina.</seg>
       </tuv>
     </tu>
     <tu>
