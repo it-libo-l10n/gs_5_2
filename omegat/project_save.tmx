@@ -1430,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;The word will be hyphenated at this position when it is at the end of the line, even if automatic hyphenation for this paragraph is switched off.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085502Z" creationid="manuel" creationdate="20180627T085502Z">
+        <seg>&lt;/f1&gt;La parola verrà sillabata in questa posizione quando essa si trova a fine riga, anche se la sillabazione automatica per questo paragrafo è disattivata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;You can still import styles manually from the template, but to reconnect it to the template, you will have to copy it into an empty document based on the template.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171752Z" creationid="manuel" creationdate="20180615T171752Z">
@@ -16836,6 +16844,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To insert a conditional hyphen inside a word, click where you want the hyphen to appear and press &lt;f0&gt;Ctrl+hyphen&lt;/f0&gt; or use &lt;f1&gt;Insert &gt; Formatting Mark &gt; Optional hyphen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085428Z" creationid="manuel" creationdate="20180627T085428Z">
+        <seg>Per inserire un trattino condizionale all'interno di una parola,  fate clic dove desiderate appaia il trattino e premete &lt;f0&gt;Ctrl+trattino (tratto d'unione)&lt;/f0&gt; oppure usate &lt;f1&gt;Inserisci &gt; Marcatore di formattazione &gt; Trattino opzionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To insert a landscape page in the middle of your document, insert a page break and select a page style with the landscape orientation on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144854Z" creationid="manuel" creationdate="20180616T144854Z">
@@ -20422,6 +20438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>formatting pages</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085507Z" creationid="manuel" creationdate="20180627T085507Z">
+        <seg>formattare le pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>general</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062646Z" creationid="manuel" creationdate="20180531T062646Z">
@@ -20689,6 +20713,14 @@
         <seg>page layout</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102354Z" creationid="manuel" creationdate="20180616T102354Z">
+        <seg>layout di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page layouts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085526Z" creationid="manuel" creationdate="20180627T085526Z">
         <seg>layout di pagina</seg>
       </tuv>
     </tu>
