@@ -8611,6 +8611,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, the Sidebar does not include tools for promoting and demoting items in the list, as found on the Bullets and Numbering toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T063413Z" creationid="manuel" creationdate="20180627T063413Z">
+        <seg>Tuttavia, la barra laterale non include strumenti per la promozione e il declassamento di elementi nell'elenco, come trovato nella barra degli strumenti Elenchi puntati e numerati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, when the computer is restarted, Quickstarter will be loaded again.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212140Z" creationid="Marco Marega" creationdate="20180616T212140Z">
@@ -13675,6 +13683,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting tab stops and indents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T063619Z" creationid="manuel" creationdate="20180627T063619Z">
+        <seg>Impostazione delle tabulazioni e dell'indentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting up LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T082952Z" creationid="manuel" creationdate="20180528T082952Z">
@@ -14397,8 +14413,8 @@
       <tuv lang="EN">
         <seg>The Bullets and Numbering features (drop-down palettes of tools) on the Paragraph panel on the Properties deck of the Sidebar can also be used to create nested lists and access the Bullets and Numbering dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T063212Z" creationid="manuel" creationdate="20180627T063212Z">
-        <seg>Le funzioni punti elenco e numerazione (palette di strumenti a discesa) nel pannello Paragrafo del pannello Proprietà della barra laterale possono anche essere utilizzate per creare elenchi annidati e accedere alla finestra di dialogo Elenchi puntati e numerati.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T063552Z" creationid="manuel" creationdate="20180627T063212Z">
+        <seg>Le funzioni Elenchi puntati e numerati (palette di strumenti a discesa) nel pannello Paragrafo del pannello Proprietà della barra laterale possono anche essere utilizzate per creare elenchi annidati e accedere alla finestra di dialogo Elenchi puntati e numerati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17848,8 +17864,8 @@
       <tuv lang="EN">
         <seg>Using the Sidebar for Bullets and Numbering</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T063110Z" creationid="manuel" creationdate="20180627T063110Z">
-        <seg>Uso della barra laterale per punti elenco e numerazione</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T063522Z" creationid="manuel" creationdate="20180627T063110Z">
+        <seg>Uso della barra laterale per Elenchi puntati e numerati</seg>
       </tuv>
     </tu>
     <tu>
