@@ -7219,6 +7219,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;76&lt;/seq0&gt;: Changing the measurement unit for a ruler</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T073500Z" creationid="manuel" creationdate="20180627T073500Z">
+        <seg>Figura &lt;seq0&gt;76&lt;/seq0&gt;: modificare l'unità di misura di un righello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Example status bar from Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191045Z" creationid="Marco Marega" creationdate="20180620T191045Z">
@@ -8719,6 +8727,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203523Z" creationid="Marco Marega" creationdate="20180622T203523Z">
         <seg>Ciononostante, non potete copiare o incollare file all'interno delle finestre di dialogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hyphenating words</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T073503Z" creationid="manuel" creationdate="20180627T073503Z">
+        <seg>Sillabazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -15464,6 +15480,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212144Z" creationid="Marco Marega" creationdate="20180619T212144Z">
         <seg>La seconda barra degli strumenti in alto, in un'installazione standard di LibreOffice, è la barra di &lt;f0&gt;Formattazione&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected setting applies only to that ruler.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T073448Z" creationid="manuel" creationdate="20180627T073448Z">
+        <seg>L'impostazione selezionata viene applicata solo a quel righello.</seg>
       </tuv>
     </tu>
     <tu>
