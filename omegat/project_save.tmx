@@ -14643,6 +14643,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some keystrokes and menu items are different on a Mac from those used in Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173208Z" creationid="Elisabetta Manuele" creationdate="20180627T173208Z">
+        <seg>Alcuni tasti e voci di menu di Mac sono diversi da quelli utilizzati in ambienti Windows e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of these additional toolbars are context sensitive and will automatically appear depending on the position of the cursor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T183649Z" creationid="Marco Marega" creationdate="20180620T183649Z">
