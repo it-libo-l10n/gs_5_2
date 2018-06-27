@@ -3327,6 +3327,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any styles that are not based on Default Style are not affected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084331Z" creationid="manuel" creationdate="20180627T084331Z">
+        <seg>Ciò non ha effetto sugli stili che non si basano sullo stile Predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any tab stops that you have defined will overwrite the default tab stops.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T071227Z" creationid="manuel" creationdate="20180627T065912Z">
