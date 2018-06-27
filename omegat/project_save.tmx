@@ -3055,6 +3055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After a header has been created, a down-arrow appears on the header marker.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101122Z" creationid="manuel" creationdate="20180627T101122Z">
+        <seg>Dopo la creazione dell'intestazione, una freccia in basso compare sul contrassegno dell'intestazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After changes have been undone, you can redo changes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130711Z" creationid="Marco Marega" creationdate="20180623T130711Z">
@@ -4857,6 +4865,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click above the top margin to make the Header marker appear (Figure &lt;t0&gt;80&lt;/t0&gt;), and then click on the &lt;f1&gt;+&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101058Z" creationid="manuel" creationdate="20180627T101058Z">
+        <seg>Fate clic sopra il margine superiore per far apparire l'indicatore di intestazione (Figura &lt;t0&gt;80&lt;/t0&gt;), quindi fate clic sul &lt;f1&gt;+&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click an icon to change between single page, side-by-side, and book layout views.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071347Z" creationid="manuel" creationdate="20180618T071347Z">
@@ -4957,6 +4973,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T070404Z" creationid="manuel" creationdate="20180618T070348Z">
         <seg>Fate clic sull'icona delle modifiche non salvate per salvare il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on this arrow to drop down a menu of choices for working with the header (Figure &lt;t0&gt;81&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101224Z" creationid="manuel" creationdate="20180627T101224Z">
+        <seg>Fate clic su questa freccia per mostrare un menu a comparsa con alcune opzioni per lavorare sull'intestazione (Figura &lt;t0&gt;81&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7335,6 +7359,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191045Z" creationid="Marco Marega" creationdate="20180620T191045Z">
         <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Esempio della barra di stato in Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;80&lt;/seq0&gt;: Header marker at top of text area</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101113Z" creationid="manuel" creationdate="20180627T101113Z">
+        <seg>Figura &lt;seq0&gt;80&lt;/seq0&gt;: contrassegno dell'intestazione sopra l'area del testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;81&lt;/seq0&gt;: Header menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101234Z" creationid="manuel" creationdate="20180627T101234Z">
+        <seg>Figura &lt;seq0&gt;81&lt;/seq0&gt;: il menu dell'intestazione</seg>
       </tuv>
     </tu>
     <tu>
