@@ -13259,6 +13259,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Profits from sales of the printed edition will be used to benefit the community.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175620Z" creationid="Elisabetta Manuele" creationdate="20180627T175620Z">
+        <seg>I ricavi ottenuti dalla vendita dell'edizione stampata saranno devoluti alla comunità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Promote One Level</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165841Z" creationid="manuel" creationdate="20180626T165841Z">
@@ -15812,6 +15820,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contributors to that book are:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175856Z" creationid="Elisabetta Manuele" creationdate="20180627T175856Z">
+        <seg>i cui collaboratori sono elencati di seguito:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current printer settings will be stored with the document whether or not this option is selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144224Z" creationid="manuel" creationdate="20180608T144224Z">
@@ -16822,8 +16838,8 @@
       <tuv lang="EN">
         <seg>This book is adapted and updated from &lt;f0&gt;Getting Started with OpenOffice.org 3.3&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173031Z" creationid="Elisabetta Manuele" creationdate="20180620T172835Z">
-        <seg>La presente guida costituisce un adattamento e un aggiornamento della &lt;f0&gt;Guida introduttiva a OpenOffice.org 3.3&lt;/f0&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175645Z" creationid="Elisabetta Manuele" creationdate="20180620T172835Z">
+        <seg>La presente guida costituisce un adattamento e un aggiornamento della &lt;f0&gt;Guida introduttiva a OpenOffice.org 3.3&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
