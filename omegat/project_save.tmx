@@ -11971,6 +11971,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Paragraph Styles page (Figure &lt;t0&gt;77&lt;/t0&gt;), right-click on &lt;f1&gt;Default Style&lt;/f1&gt; and select &lt;f2&gt;Modify&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T074952Z" creationid="manuel" creationdate="20180627T074952Z">
+        <seg>Nella scheda Stili di paragrafo (Figura &lt;t0&gt;77&lt;/t0&gt;), fate clic con il tasto destro su &lt;f1&gt;Predefinito&lt;/f1&gt; e selezionate &lt;f2&gt;Modifica&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Save As dialog, in the &lt;f0&gt;File type&lt;/f0&gt; (or &lt;f1&gt;Save as type&lt;/f1&gt;) drop-down menu, select the type of Word format you need.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143123Z" creationid="manuel" creationdate="20180621T143123Z">
