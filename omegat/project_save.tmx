@@ -9139,6 +9139,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How can I contribute to LibreOffice?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181841Z" creationid="Elisabetta Manuele" creationdate="20180627T181841Z">
+        <seg>Come si può contribuire a LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How can you make it for free?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181136Z" creationid="Elisabetta Manuele" creationdate="20180627T181136Z">
@@ -9999,6 +10007,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T090858Z" creationid="manuel" creationdate="20180609T090858Z">
         <seg>Se non volete il controllo ortografico mentre scrivete, deselezionate &lt;f0&gt;Controllo ortografico durante la digitazione&lt;/f0&gt;.&lt;f1&gt;&lt;/f1&gt;Questa opzione può essere deselezionata usando il pulsante &lt;f2&gt;Controllo ortografico automatico&lt;/f2&gt; sulla barra standard degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not want to use Java, you can still use nearly all of the features of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181824Z" creationid="Elisabetta Manuele" creationdate="20180627T181824Z">
+        <seg>Se non desiderate utilizzare Java, potrete comunque usufruire di quasi tutte le funzionalità di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12131,6 +12147,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>May I distribute the PDF of this book, or print and sell copies?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181958Z" creationid="Elisabetta Manuele" creationdate="20180627T181958Z">
+        <seg>È possibile distribuire il file PDF di questa guida, o stamparla e venderne delle copie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>May I sell it?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180632Z" creationid="Elisabetta Manuele" creationdate="20180627T180632Z">
@@ -12639,6 +12663,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100252Z" creationid="manuel" creationdate="20180606T100252Z">
         <seg>Notate che è possibile&lt;f2&gt; &lt;/f2&gt;modificare l'elenco dei colori disponibili seguendo quanto descritto in “&lt;bf1&gt;Opzioni del colore&lt;/bf1&gt;” a pagina &lt;bf2&gt;42&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Java is available at no cost.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181741Z" creationid="Elisabetta Manuele" creationdate="20180627T181741Z">
+        <seg>Nota: Java è disponibile senza costi aggiuntivi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16726,8 +16758,8 @@
       <tuv lang="EN">
         <seg>The most notable one is the HSQLDB relational database engine.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181658Z" creationid="Elisabetta Manuele" creationdate="20180627T181658Z">
-        <seg>La più importante delle quali è il motore di database relazionale HSQLDB.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181730Z" creationid="Elisabetta Manuele" creationdate="20180627T181658Z">
+        <seg>la più importante delle quali è il motore di database relazionale HSQLDB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18709,6 +18741,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To start, check out this webpage: &lt;a0&gt;https://www.libreoffice.org/community/get-involved/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181936Z" creationid="Elisabetta Manuele" creationdate="20180627T181936Z">
+        <seg>Per cominciare date uno sguardo alla pagina web: &lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To stop Writer replacing a specific spelling, go to the&lt;f0&gt; Replace&lt;/f0&gt; tab, highlight the word pair, and click &lt;f1&gt;Delete&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T111322Z" creationid="manuel" creationdate="20180626T111322Z">
@@ -20550,6 +20590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yes, as long as you meet the requirements of one of the licenses in the copyright statement at the beginning of this book.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T182028Z" creationid="Elisabetta Manuele" creationdate="20180627T182028Z">
+        <seg>Sì, purché vengono rispettati i requisiti di una delle licenze citate nella dichiarazione di copyright all'inizio di questa Guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Yes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180639Z" creationid="Elisabetta Manuele" creationdate="20180627T180639Z">
@@ -21042,6 +21090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085956Z" creationid="luke" creationdate="20180515T085956Z">
         <seg>You can have as many slide shows as you want from a single presentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can help with the development and user support of LibreOffice in many ways, and you do not need to be a programmer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181856Z" creationid="Elisabetta Manuele" creationdate="20180627T181856Z">
+        <seg>Potete contribuire allo sviluppo e al supporto degli utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
       </tuv>
     </tu>
     <tu>
