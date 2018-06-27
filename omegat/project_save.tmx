@@ -11131,6 +11131,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is it written in Java?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181508Z" creationid="Elisabetta Manuele" creationdate="20180627T181508Z">
+        <seg>È scritto in Java?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also connects to your email client.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201505Z" creationid="Marco Marega" creationdate="20180527T200322Z">
@@ -11351,6 +11359,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180004Z" creationid="Elisabetta Manuele" creationdate="20180627T180004Z">
         <seg>Jared Kobos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java is one of several languages that can be used to extend the software.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181618Z" creationid="Elisabetta Manuele" creationdate="20180627T181618Z">
+        <seg>Java è uno dei numerosi linguaggi utilizzabili per ampliare il software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11719,6 +11735,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211823Z" creationid="Marco Marega" creationdate="20180527T211823Z">
         <seg>LibreOffice è liberamente utilizzabile e distribuibile da chiunque senza alcun costo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is not written in Java; it is written in the C++ language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181559Z" creationid="Elisabetta Manuele" creationdate="20180627T181559Z">
+        <seg>LibreOffice non è scritto in Java, ma in linguaggio C++.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15900,6 +15924,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Java JDK/JRE is only required for some features.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181708Z" creationid="Elisabetta Manuele" creationdate="20180627T181637Z">
+        <seg>Java JDK/JRE è necessario solo per alcune funzioni, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The LibreOffice Navigator lists objects contained within a document, collected into categories.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124424Z" creationid="Marco Marega" creationdate="20180623T124424Z">
@@ -16688,6 +16720,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161133Z" creationid="manuel" creationdate="20180616T161133Z">
         <seg>Menu e barre degli strumenti sono descritti nel Capitolo 1 (Introduzione a LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most notable one is the HSQLDB relational database engine.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181658Z" creationid="Elisabetta Manuele" creationdate="20180627T181658Z">
+        <seg>La più importante delle quali è il motore di database relazionale HSQLDB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20218,6 +20258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173532Z" creationid="Elisabetta Manuele" creationdate="20180620T173532Z">
         <seg>Autori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why do I need Java to run LibreOffice?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181504Z" creationid="Elisabetta Manuele" creationdate="20180627T181504Z">
+        <seg>Perché è necessario disporre di Java per eseguire LibreOffice?</seg>
       </tuv>
     </tu>
     <tu>
