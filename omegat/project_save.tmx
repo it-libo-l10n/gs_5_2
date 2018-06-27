@@ -9763,6 +9763,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you restart page numbering anywhere in the document, then the total page count may not be what you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102513Z" creationid="manuel" creationdate="20180627T102513Z">
+        <seg>Se ricominciate la numerazione pagine in qualsiasi punto del documento, il numero complessivo delle pagine può non essere quello che desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you select the &lt;f0&gt;Persistently save passwords for web connections&lt;/f0&gt; option, the Set Master Password dialog opens (Figure &lt;t1&gt;45&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T151216Z" creationid="manuel" creationdate="20180606T072718Z">
@@ -12851,6 +12859,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the space bar once, type the word “of” and a space, then choose &lt;f0&gt;Insert &gt; Field &gt; Page Count&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102305Z" creationid="manuel" creationdate="20180627T102305Z">
+        <seg>Premete la barra spaziatrice una volta, digitate la parola “di” e poi un altro spazio, quindi scegliete &lt;f0&gt;Inserisci &gt; Comando di campo &gt; Numero di pagine&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press the spacebar on the keyboard to advance to the next slide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
@@ -15040,6 +15056,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123921Z" creationid="Marco Marega" creationdate="20180621T123921Z">
         <seg>L'icona Nuovo varia a seconda di quale componente di LibreOffice è aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Page Count field inserts the total number of pages in the document, as shown on the Statistics tab of the document’s Properties window (&lt;f0&gt;File &gt; Properties&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102321Z" creationid="manuel" creationdate="20180627T102321Z">
+        <seg>Il comando di campo Numero di pagine inserisce il numero totale di pagine nel documento, come mostrato nella scheda Statistiche della finestra delle Proprietà del documento (&lt;f0&gt;File &gt; Proprietà&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
