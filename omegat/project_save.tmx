@@ -3952,6 +3952,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, &lt;f0&gt;Page break&lt;/f0&gt; is selected on the Insert Break dialog (&lt;t1&gt;Figure 82&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103221Z" creationid="manuel" creationdate="20180627T103221Z">
+        <seg>L'opzione &lt;f0&gt;Interruzione pagina&lt;/f0&gt; è selezionata automaticamente, nella finestra di dialogo Inserisci interruzione (&lt;t1&gt;Figura 82&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, LibreOffice loads and saves files in the OpenDocument file format (ODF), a standardized file format (ISO-IEC 26300) used by many software applications.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T141347Z" creationid="manuel" creationdate="20180621T141347Z">
@@ -4237,6 +4245,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173652Z" creationid="Elisabetta Manuele" creationdate="20180620T173652Z">
         <seg>Capitolo 1 Introduzione a LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 1 may start with page 1, but Chapter 2 could begin with page 25 and Chapter 3 with page 51.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103139Z" creationid="manuel" creationdate="20180627T103139Z">
+        <seg>Il Capitolo 1 potrebbe iniziare con la pagina 1, ma il Capitolo 2 potrebbe iniziare con la pagina 25 e il Capitolo 3 con la pagina 51.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7979,6 +7995,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you may be writing a book, with each chapter in a separate file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103130Z" creationid="manuel" creationdate="20180627T103130Z">
+        <seg>Per esempio, si supponga di scrivere un libro, in cui ogni capitolo è salvato in un file a parte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you may decide to change the indentation of all paragraphs, or change the font of all titles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143754Z" creationid="manuel" creationdate="20180611T143754Z">
@@ -10595,6 +10619,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert &gt; Manual break.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103201Z" creationid="manuel" creationdate="20180627T103201Z">
+        <seg>Inserisci &gt; Interruzione manuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Unnumbered Entry</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165844Z" creationid="manuel" creationdate="20180626T165844Z">
@@ -11595,10 +11627,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Method 1 is also useful for numbering the first page of a document with a page number greater than 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103122Z" creationid="manuel" creationdate="20180627T103122Z">
+        <seg>Il Metodo 1 è anche utile per numerare la prima pagina di un documento con un numero di pagina superiore ad 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Method 1:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102712Z" creationid="manuel" creationdate="20180627T102712Z">
         <seg>Metodo 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Method 2:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103142Z" creationid="manuel" creationdate="20180627T103142Z">
+        <seg>Metodo 2:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12319,6 +12367,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070119Z" creationid="manuel" creationdate="20180531T070119Z">
         <seg>Nella finestra Seleziona percorso (non riportata; potrebbe anche essere chiamata Modifica Percorsi), aggiungete o eliminate le cartelle secondo necessità, e poi fate clic su &lt;f2&gt;OK&lt;/f2&gt; per tornare alla finestra Opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Text Flow tab of the Paragraph dialog (Figure &lt;t0&gt;78&lt;/t0&gt; on page &lt;t1&gt;101&lt;/t1&gt;), select &lt;f2&gt;Breaks&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103014Z" creationid="manuel" creationdate="20180627T103014Z">
+        <seg>Sulla scheda Flusso di testo della finestra di dialogo Paragrafo (Figura &lt;t0&gt;78&lt;/t0&gt; alla pagina &lt;t1&gt;101&lt;/t1&gt;), selezionate &lt;f2&gt;Interruzioni&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13667,6 +13723,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Insert&lt;/f0&gt; and then &lt;f1&gt;With Page Style&lt;/f1&gt; and specify the page style to use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103053Z" creationid="manuel" creationdate="20180627T103053Z">
+        <seg>Selezionate &lt;f0&gt;Inserisci&lt;/f0&gt; e poi &lt;f1&gt;Con stile di pagina&lt;/f1&gt; e specificate lo stile di pagina da usare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Keep Old Styles&lt;/f0&gt; if you do not want to apply the changed styles in the template to the document (but see the Caution notice below).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160054Z" creationid="manuel" creationdate="20180615T160054Z">
@@ -14559,6 +14623,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085528Z" creationid="manuel" creationdate="20180530T085528Z">
         <seg>Specifica se e come il puntatore del mouse verrà posizionato nelle nuove finestre di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify the page number to start from, and then click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103111Z" creationid="manuel" creationdate="20180627T103111Z">
+        <seg>Specificate il numero di pagina da cui iniziare e infine fate clic su &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
