@@ -4185,6 +4185,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing &lt;i0/&gt;page margins</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103331Z" creationid="manuel" creationdate="20180627T103331Z">
+        <seg>Modifica &lt;i0/&gt;dei margini di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing a style using the Style dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155939Z" creationid="manuel" creationdate="20180612T155939Z">
@@ -4637,6 +4645,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170004Z" creationid="manuel" creationdate="20180608T170004Z">
         <seg>Modificare le opzioni del controllo ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the required page &lt;f0&gt;Style&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103238Z" creationid="manuel" creationdate="20180627T103238Z">
+        <seg>Scegliete lo &lt;f0&gt;Stile&lt;/f0&gt; di pagina richiesto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7447,6 +7463,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101234Z" creationid="manuel" creationdate="20180627T101234Z">
         <seg>Figura &lt;seq0&gt;81&lt;/seq0&gt;: il menu dell'intestazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;82&lt;/seq0&gt;: Restarting page numbering after a manual page break</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103308Z" creationid="manuel" creationdate="20180627T103308Z">
+        <seg>Figura &lt;seq0&gt;82&lt;/seq0&gt;: ricominciare la numerazione pagine dopo un'interruzione di pagina manuale</seg>
       </tuv>
     </tu>
     <tu>
@@ -13691,6 +13715,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Change page number.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103245Z" creationid="manuel" creationdate="20180627T103245Z">
+        <seg>Selezionate &lt;f0&gt;Cambia numero pagina.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Edit &gt; Copy&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+C&lt;/f1&gt;, to copy the contents of the document to the clipboard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101319Z" creationid="manuel" creationdate="20180616T101113Z">
@@ -18686,6 +18718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the page rulers—quick and easy, but does not have fine control</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103449Z" creationid="manuel" creationdate="20180627T103449Z">
+        <seg>Usando i righelli pagina—metodo rapido e facile, ma non molto preciso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using themes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181823Z" creationid="Elisabetta Manuele" creationdate="20180620T181823Z">
@@ -19730,6 +19770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063427Z" creationid="manuel" creationdate="20180626T063427Z">
         <seg>Potete cambiare la lingua del &lt;i0/&gt;dizionario (ad esempio Spagnolo, Francese o Tedesco) nella finestra di dialogo Controllo ortografico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change page margins in three ways:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103345Z" creationid="manuel" creationdate="20180627T103345Z">
+        <seg>Potete modificare i margini di pagina in due modi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21102,6 +21150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>margins (Writer)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103320Z" creationid="manuel" creationdate="20180627T103320Z">
+        <seg>margini (Writer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>measurement unit</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072737Z" creationid="manuel" creationdate="20180627T072737Z">
@@ -21218,6 +21274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085526Z" creationid="manuel" creationdate="20180627T085526Z">
         <seg>layout di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page margins</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103316Z" creationid="manuel" creationdate="20180627T103316Z">
+        <seg>margini della pagina</seg>
       </tuv>
     </tu>
     <tu>
