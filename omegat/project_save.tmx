@@ -15644,6 +15644,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The double-headed arrows shown in Figure &lt;t0&gt;83&lt;/t0&gt; are mouse cursors shown in the correct position for moving the margin markers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T163749Z" creationid="manuel" creationdate="20180627T163710Z">
+        <seg>Le frecce a due punte mostrate nella Figura &lt;t0&gt;83&lt;/t0&gt; sono cursori del mouse mostrati nella posizione corretta per spostare i contrassegni dei margini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The effect varies with the combination of window width and zoom factor in use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071408Z" creationid="manuel" creationdate="20180618T071408Z">
@@ -17024,6 +17032,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160553Z" creationid="manuel" creationdate="20180612T160553Z">
         <seg>Per modificare uno stile esistente utilizzando la &lt;i0/&gt;finestra di dialogo Stile, fate clic con il pulsante destro del mouse sullo stile desiderato nella finestra Stili e formattazione e selezionate &lt;f1&gt;Modifica&lt;/f1&gt; dal menu a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change margins using the Page Style dialog:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T163757Z" creationid="manuel" creationdate="20180627T163757Z">
+        <seg>Per cambiare i margini usando la finestra di dialogo Stile di pagina:</seg>
       </tuv>
     </tu>
     <tu>
