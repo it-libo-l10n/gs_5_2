@@ -10411,6 +10411,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f1&gt;User Interface &lt;/f1&gt;section, choose from the drop-down lists under &lt;f2&gt;Icon size and style.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T172237Z" creationid="Elisabetta Manuele" creationdate="20180627T172237Z">
+        <seg>Nell'area &lt;f1&gt;Interfaccia utente &lt;/f1&gt;scegliete una voce dall'elenco a discesa &lt;f2&gt;Dimensione e stile icona.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the AutoText dialog, type a name for the AutoText in the &lt;f0&gt;Name&lt;/f0&gt; box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144107Z" creationid="manuel" creationdate="20180626T144107Z">
@@ -15820,6 +15828,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The icons for some of the many tools available in LibreOffice may then differ from the ones used in this guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T172125Z" creationid="Elisabetta Manuele" creationdate="20180627T172125Z">
+        <seg>Le icone relative ad alcuni tra i numerosi strumenti disponibili in LibreOffice potrebbero quindi apparire diverse da quelle presenti nella guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The icons in this guide have been taken from a variety of LibreOffice installations that use different sets of icons.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T171938Z" creationid="Elisabetta Manuele" creationdate="20180627T171938Z">
@@ -17112,6 +17128,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071931Z" creationid="manuel" creationdate="20180608T071931Z">
         <seg>Per cambiare la destinazione del download, fate clic sul pulsante &lt;f2&gt;Cambia&lt;/f2&gt; e selezionate la cartella desiderata nella finestra di esplorazione file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the icon set used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T172151Z" creationid="Elisabetta Manuele" creationdate="20180627T172151Z">
+        <seg>Per modificare il set di icone utilizzato accedete al menu &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Vista&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
