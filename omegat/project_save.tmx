@@ -15964,6 +15964,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The LibreOffice &lt;f0&gt;5.2&lt;/f0&gt; Release Notes are here: &lt;a1&gt;&lt;f2&gt;https://wiki.documentfoundation.org/ReleaseNotes/5.2&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T182214Z" creationid="Elisabetta Manuele" creationdate="20180627T182214Z">
+        <seg>Le Note di rilascio di LibreOffice &lt;f0&gt;5.2&lt;/f0&gt; sono disponibili all'indirizzo: &lt;a1&gt;&lt;f2&gt;https://wiki.documentfoundation.org/ReleaseNotes/5.2&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The LibreOffice Navigator lists objects contained within a document, collected into categories.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124424Z" creationid="Marco Marega" creationdate="20180623T124424Z">
@@ -19840,8 +19848,8 @@
       <tuv lang="EN">
         <seg>We request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181343Z" creationid="Elisabetta Manuele" creationdate="20180620T181343Z">
-        <seg>Inoltre, richiediamo che condividiate con il progetto parte dei profitti che ottenete dalla vendita delle Guide, in considerazione di tutto il lavoro svolto per produrle.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T182113Z" creationid="Elisabetta Manuele" creationdate="20180620T181343Z">
+        <seg>Inoltre, richiediamo che condividiate con il progetto parte dei profitti ottenuti dalla vendita delle Guide, in considerazione di tutto il lavoro svolto per produrle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19962,6 +19970,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173625Z" creationid="Elisabetta Manuele" creationdate="20180620T173625Z">
         <seg>Novità in LibreOffice 5.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What’s new in LibreOffice &lt;f0&gt;5.2&lt;/f0&gt;?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T182126Z" creationid="Elisabetta Manuele" creationdate="20180627T182126Z">
+        <seg>Novità in LibreOffice &lt;f0&gt;5.2&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21450,6 +21466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T085002Z" creationid="manuel" creationdate="20180614T084824Z">
         <seg>Non potete rimuovere da un documento o da un modello nessuno degli stili di formattazione predefiniti di LibreOffice, nemmeno se inutilizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not have to request special permission.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T182048Z" creationid="Elisabetta Manuele" creationdate="20180627T182048Z">
+        <seg>Non è necessario richiedere un'autorizzazione speciale.</seg>
       </tuv>
     </tu>
     <tu>
