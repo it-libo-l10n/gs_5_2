@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1538,6 +1538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T103708Z" creationid="manuel" creationdate="20180621T103621Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Struttura&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: fornisce un rapido accesso ai temi (caratteri e colori) e ai stili predefiniti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Some Linux &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;distribution&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;s include &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;LibreOffice&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; as part of the installation and may not include &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;all the&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt; icon set&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;s mentioned above&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T172536Z" creationid="Elisabetta Manuele" creationdate="20180627T172536Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Alcune &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;distribuzioni&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Linux prevedono l'integrazione di &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;LibreOffice&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; nell'installazione e potrebbero anche non includere &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;tutti i&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt; set di icone&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt; sopra citati&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;.</seg>
       </tuv>
     </tu>
     <tu>
