@@ -6475,6 +6475,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drop-down list from which to select an item.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175010Z" creationid="Elisabetta Manuele" creationdate="20180627T175010Z">
+        <seg>Elenco a discesa dal quale selezionare una voce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E-mail options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135639Z" creationid="manuel" creationdate="20180609T135626Z">
@@ -10459,6 +10467,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175114Z" creationid="Elisabetta Manuele" creationdate="20180627T175114Z">
+        <seg>Generalmente, potete interagire solo con la finestra di dialogo (e non con il documento stesso) finché la finestra di dialogo rimane aperta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to use this, the appropriate dictionaries must be installed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063248Z" creationid="manuel" creationdate="20180626T063248Z">
@@ -13263,6 +13279,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104959Z" creationid="manuel" creationdate="20180609T104959Z">
         <seg>Punteggiatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Push buttons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175015Z" creationid="Elisabetta Manuele" creationdate="20180627T175015Z">
+        <seg>Pulsanti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17076,6 +17100,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thumbnail or preview.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174947Z" creationid="Elisabetta Manuele" creationdate="20180627T174947Z">
+        <seg>Miniatura o anteprima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tip</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085940Z" creationid="luke" creationdate="20180515T085940Z">
@@ -19578,6 +19610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065543Z" creationid="manuel" creationdate="20180618T065543Z">
         <seg>Facendo clic sul campo un menu contestuale mostra le opzioni disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you close the dialog after use (usually, clicking &lt;f0&gt;OK&lt;/f0&gt; or another button saves your changes and closes the dialog), then you can again work with your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175300Z" creationid="Elisabetta Manuele" creationdate="20180627T175300Z">
+        <seg>Una volta chiusa la finestra di dialogo dopo l'uso (solitamente facendo clic su &lt;f0&gt;OK&lt;/f0&gt; oppure su un altro pulsante, si salvano le modifiche e si chiude la finestra di dialogo), potete lavorare nuovamente al documento.</seg>
       </tuv>
     </tu>
     <tu>
