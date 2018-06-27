@@ -7267,6 +7267,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;78&lt;/seq0&gt;: Turning on automatic hyphenation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084545Z" creationid="manuel" creationdate="20180627T084545Z">
+        <seg>Figura &lt;seq0&gt;78&lt;/seq0&gt;: attivare la sillabazione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Example status bar from Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191045Z" creationid="Marco Marega" creationdate="20180620T191045Z">
@@ -9887,6 +9895,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134112Z" creationid="Marco Marega" creationdate="20180623T134112Z">
         <seg>In Mac OS X – &lt;f0&gt;Command ⌘+Q&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Options, near the bottom of the dialog, scroll down to find the hyphenation settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084623Z" creationid="manuel" creationdate="20180627T084623Z">
+        <seg>In Opzioni, nella parte bassa della finestra di dialogo, scorrete verso il basso fino a trovare le impostazioni per la sillabazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13087,6 +13103,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143857Z" creationid="manuel" creationdate="20180626T143857Z">
         <seg>Vedere il Capitolo 1&lt;f1&gt;6&lt;/f1&gt; (Lavorare con i comandi di campo) nella &lt;f2&gt;Guida a Writer&lt;/f2&gt; per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 3, Using Styles and Templates, for more about styles based on other styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084513Z" creationid="manuel" creationdate="20180627T084513Z">
+        <seg>Vedere Capitolo 3 (Uso di stili e modelli), per maggiori informazioni sugli stili basati su altri stili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19082,6 +19106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204750Z" creationid="Marco Marega" creationdate="20180531T214716Z">
         <seg>Inoltre potete aprire un documento esistente o usare un modello di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also set hyphenation choices through &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; Writing Aids&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084615Z" creationid="manuel" creationdate="20180627T084615Z">
+        <seg>Potete anche impostare le scelte di sillabazione mediante &lt;f0&gt;Strumenti &gt; Opzioni &gt; Impostazioni della lingua &gt; Linguistica&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
