@@ -9499,6 +9499,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you use the default tab spacing and then send the document to someone else who has chosen a different default tab spacing, tabbed material will change to use the other person’s settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T071356Z" creationid="manuel" creationdate="20180627T071356Z">
+        <seg>Se usate la spaziatura di tabulazione predefinita e poi inviate il documento a qualcuno che ha scelto una differente spaziatura di tabulazione predefinita, il materiale tabulato cambierà, prendendo le impostazioni dell'altra persona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you use your computer system’s dialogs, you can move files only to and from &lt;bk0/&gt;mounted file systems on the local computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203915Z" creationid="Marco Marega" creationdate="20180622T203915Z">
@@ -10319,6 +10327,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160241Z" creationid="manuel" creationdate="20180615T160241Z">
         <seg>Installare singoli modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead of using the defaults, define your own tab settings, as described in this section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T071407Z" creationid="manuel" creationdate="20180627T071407Z">
+        <seg>Invece di utilizzare le impostazioni predefinite, definite delle impostazioni personalizzate, come descritto in questa sezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20170,6 +20186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155807Z" creationid="manuel" creationdate="20180608T155807Z">
         <seg>importazione numeri da una pagina HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>indents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T071416Z" creationid="manuel" creationdate="20180627T071416Z">
+        <seg>indentazione (rientri)</seg>
       </tuv>
     </tu>
     <tu>
