@@ -16316,6 +16316,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dictionaries are available from the LibreOffice website at: &lt;a1&gt;&lt;f2&gt;www.libreoffice.org&lt;/f2&gt;&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181115Z" creationid="Elisabetta Manuele" creationdate="20180627T181115Z">
+        <seg>I dizionari sono pubblicati sul sito web di LibreOffice all'indirizzo: &lt;a1&gt;&lt;f2&gt;https://extensions.libreoffice.org/extensions?getCategories=Dictionary&amp;getCompatibility=any&lt;/f2&gt;&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The differences affect mainly Open, Save, and Print dialogs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T171517Z" creationid="Elisabetta Manuele" creationdate="20180627T171517Z">
