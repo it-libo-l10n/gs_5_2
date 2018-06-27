@@ -6147,6 +6147,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displaying the page number</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102002Z" creationid="manuel" creationdate="20180627T102002Z">
+        <seg>Mostrare il numero di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays information relevant to the position of the cursor or the selected element of the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192445Z" creationid="Marco Marega" creationdate="20180620T192445Z">
@@ -10475,6 +10483,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Including the total number of pages</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102204Z" creationid="manuel" creationdate="20180627T102204Z">
+        <seg>Inclusione del numero totale di pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Increase Font Size, Decrease Font Size</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160008Z" creationid="manuel" creationdate="20180626T160008Z">
@@ -10559,6 +10575,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165844Z" creationid="manuel" creationdate="20180626T165844Z">
         <seg>Inserisci voce senza numero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert a header or footer, as described in “&lt;rf0&gt;Creating headers and footers&lt;/rf0&gt;” above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102128Z" creationid="manuel" creationdate="20180627T102128Z">
+        <seg>Inserite un'intestazione o un piè di pagina, come descritto nel paragrafo “&lt;rf0&gt;Creare intestazioni e piè di pagina&lt;/rf0&gt;", più sopra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12703,6 +12727,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170042Z" creationid="Elisabetta Manuele" creationdate="20180620T170042Z">
         <seg>Peter Schofield</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the cursor in the header or footer where you want the page number to appear and choose &lt;f0&gt;Insert &gt; Page Number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102157Z" creationid="manuel" creationdate="20180627T102157Z">
+        <seg>Posizionate il cursore nell'intestazione o nel piè di pagina dove volete che appaia il numero di pagina e scegliete &lt;f0&gt;Inserisci &gt; Numero di pagina&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16924,6 +16956,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To display page numbers automatically:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102115Z" creationid="manuel" creationdate="20180627T102115Z">
+        <seg>Per visualizzare automaticamente i numeri di pagina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To display the Find &amp; Replace dialog, use the keyboard shortcut &lt;f0&gt;Ctrl+H&lt;/f0&gt; or choose &lt;f1&gt;Edit &gt; Find &amp; Replace&lt;/f1&gt; from the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T102541Z" creationid="manuel" creationdate="20180622T102541Z">
@@ -17080,6 +17120,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222550Z" creationid="Marco Marega" creationdate="20180620T222550Z">
         <seg>Per nascondere la Barra laterale, fate clic sul pulsante grigio &lt;f0&gt;Nascondi&lt;/f0&gt; alla sua sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To include the total number of pages (as in “page 1 of 12”):</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102213Z" creationid="manuel" creationdate="20180627T102213Z">
+        <seg>Per includere il numero complessivo di pagine (come in “pagina 1 di 12”):</seg>
       </tuv>
     </tu>
     <tu>
@@ -17777,6 +17825,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103059Z" creationid="manuel" creationdate="20180622T103059Z">
         <seg>Digitate il testo che volete trovare nel campo &lt;f0&gt;&lt;f1&gt;Trova&lt;/f1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the word “page” and a space, then insert the page number as above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102221Z" creationid="manuel" creationdate="20180627T102221Z">
+        <seg>Digitate la parola “pagina” e uno spazio, quindi inserite il numero di pagina seguendo le indicazioni riportate sopra.</seg>
       </tuv>
     </tu>
     <tu>
