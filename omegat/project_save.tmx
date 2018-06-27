@@ -10483,6 +10483,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, use a conditional hyphen, which is visible only when required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085150Z" creationid="manuel" creationdate="20180627T085150Z">
+        <seg>Usate invece un separatore condizionale, che è visibile solo quando necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Internet options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135322Z" creationid="manuel" creationdate="20180609T135322Z">
@@ -16304,6 +16312,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T071929Z" creationid="manuel" creationdate="20180627T071929Z">
         <seg>Per &lt;i0/&gt;definire i rientri e le impostazioni di tabulazione per uno o più paragrafi selezionati, fate doppio clic su una parte del righello al di fuori delle icone di rientro sinistra e destra per aprire la scheda &lt;f1&gt;Rientri e spaziature&lt;/f1&gt; della finestra di dialogo Paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;i0/&gt;manually hyphenate words, do not use a normal hyphen, which will remain visible even if the word is no longer at the end of a line when you add or delete text or change margins or font size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085118Z" creationid="manuel" creationdate="20180627T085118Z">
+        <seg>Per &lt;i0/&gt;sillabare manualmente le parole, non usate un trattino (tratto d'unione) normale, che rimarrà visibile anche se la parola non si trova più alla fine di una riga, in caso doveste aggiungere o rimuovere del testo oppure modificare i margini o la dimensione del carattere.</seg>
       </tuv>
     </tu>
     <tu>
