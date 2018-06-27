@@ -2263,6 +2263,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; menu selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173349Z" creationid="Elisabetta Manuele" creationdate="20180627T173349Z">
+        <seg>&lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt; selezione del menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Tools&lt;/f0&gt; – contains functions such as Spelling and Grammar, AutoCorrect, Customize, and Options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215316Z" creationid="Marco Marega" creationdate="20180616T215316Z">
@@ -2867,6 +2875,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170815Z" creationid="manuel" creationdate="20180615T170815Z">
         <seg>Un utilizzo tipico è per i titoli di capitolo che desiderate inizino sempre su una nuova pagina di destra (numerata dispari).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access setup options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173358Z" creationid="Elisabetta Manuele" creationdate="20180627T173358Z">
+        <seg>Accesso alle opzioni di configurazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -5514,6 +5530,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Control+click and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173425Z" creationid="Elisabetta Manuele" creationdate="20180627T173425Z">
+        <seg>Ctrl (Control)+clic e/o clic destro in base alla configurazione del computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Controlling &lt;i0/&gt;LibreOffice’s AutoCorrect functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141015Z" creationid="manuel" creationdate="20180609T141015Z">
@@ -7799,6 +7823,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170345Z" creationid="Elisabetta Manuele" creationdate="20180625T170345Z">
         <seg>Per una spiegazione più approfondita selezionate &lt;f0&gt;Aiuto &gt; Di che si tratta?&lt;/f0&gt; e mantenete il puntatore sull'icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a more detailed list, see the application Help.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173314Z" creationid="Elisabetta Manuele" creationdate="20180627T173314Z">
+        <seg>Per un elenco più dettagliato consultate la Guida in linea dell'applicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11155,6 +11187,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice &gt; Preferences</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173353Z" creationid="Elisabetta Manuele" creationdate="20180627T173353Z">
+        <seg>LibreOffice &gt; Preferenze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice Basic macros must be located in the header of the HTML document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164039Z" creationid="manuel" creationdate="20180608T164039Z">
@@ -11493,8 +11533,8 @@
       <tuv lang="EN">
         <seg>Mac equivalent</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154711Z" creationid="luke" creationdate="20180514T154711Z">
-        <seg>Mac equivalent</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173335Z" creationid="luke" creationdate="20180514T154711Z">
+        <seg>Equivalente su Mac</seg>
       </tuv>
     </tu>
     <tu>
@@ -12547,6 +12587,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open a context menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173429Z" creationid="Elisabetta Manuele" creationdate="20180627T173429Z">
+        <seg>Apre un menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open a new or existing document of the type you want to make into a template (text document, spreadsheet, drawing, or presentation).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104351Z" creationid="manuel" creationdate="20180615T104351Z">
@@ -13343,6 +13391,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102617Z" creationid="manuel" creationdate="20180627T102617Z">
         <seg>Riavvio della numerazione delle pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173402Z" creationid="Elisabetta Manuele" creationdate="20180627T173402Z">
+        <seg>Pulsante destro del mouse</seg>
       </tuv>
     </tu>
     <tu>
@@ -16232,6 +16288,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190821Z" creationid="Marco Marega" creationdate="20180620T190821Z">
         <seg>La barra di stato è posizionata nella parte inferiore dello spazio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table below gives some common substitutions for the instructions in this book.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173248Z" creationid="Elisabetta Manuele" creationdate="20180627T173248Z">
+        <seg>La tabella seguente fornisce le sostituzioni più comuni per le istruzioni di questo capitolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19474,6 +19538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173532Z" creationid="Elisabetta Manuele" creationdate="20180620T173532Z">
         <seg>Autori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows or Linux</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173318Z" creationid="Elisabetta Manuele" creationdate="20180627T173318Z">
+        <seg>Windows o Linux</seg>
       </tuv>
     </tu>
     <tu>
