@@ -7275,6 +7275,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;79&lt;/seq0&gt;: Setting hyphenation options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084704Z" creationid="manuel" creationdate="20180627T084704Z">
+        <seg>Figura &lt;seq0&gt;79&lt;/seq0&gt;: opzioni di impostazione della sillabazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Example status bar from Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191045Z" creationid="Marco Marega" creationdate="20180620T191045Z">
@@ -8783,6 +8791,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T073503Z" creationid="manuel" creationdate="20180627T073503Z">
         <seg>Sillabazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hyphenation options set on the Writing Aids dialog are effective only if hyphenation is turned on through paragraph styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084951Z" creationid="manuel" creationdate="20180627T084951Z">
+        <seg>Le opzioni di sillabazione impostate nel dialogo Linguistica sono effettive solo se la sillabazione è stata attivata attraverso gli stili di paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11215,6 +11231,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T145213Z" creationid="manuel" creationdate="20180612T154227Z">
         <seg>La formattazione manuale (anche detta &lt;f0&gt;formattazione diretta&lt;/f0&gt;) ha la precedenza sugli stili, e non è possibile eliminare la formattazione manuale applicando ad essa uno stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manual hyphenation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084954Z" creationid="manuel" creationdate="20180627T084954Z">
+        <seg>Sillabazione manuale</seg>
       </tuv>
     </tu>
     <tu>
@@ -16484,6 +16508,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the minimum number of characters for hyphenation, &lt;f0&gt;or&lt;/f0&gt; the minimum number of characters before &lt;f1&gt;or after &lt;/f1&gt;a line break, select the item, and then click the &lt;f2&gt;Edit&lt;/f2&gt; button in the Options section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084924Z" creationid="manuel" creationdate="20180627T084924Z">
+        <seg>Per modificare il numero minimo di caratteri per la sillabazione, &lt;f0&gt;o&lt;/f0&gt; il numero minimo di caratteri prima &lt;f1&gt;o dopo &lt;/f1&gt;una interruzione di riga, selezionate l'elemento, quindi fate clic sul pulsante &lt;f2&gt;Modifica&lt;/f2&gt; nella sezione Opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the page style, right-click on this field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060253Z" creationid="manuel" creationdate="20180618T060253Z">
@@ -20406,6 +20438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>hyphenation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085001Z" creationid="manuel" creationdate="20180627T085001Z">
+        <seg>sillabazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>icon size and style (user interface)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084114Z" creationid="manuel" creationdate="20180530T084114Z">
@@ -20522,6 +20562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073012Z" creationid="manuel" creationdate="20180606T073012Z">
         <seg>opzioni di sicurezza delle macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>manual</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084958Z" creationid="manuel" creationdate="20180627T084958Z">
+        <seg>manuale</seg>
       </tuv>
     </tu>
     <tu>
