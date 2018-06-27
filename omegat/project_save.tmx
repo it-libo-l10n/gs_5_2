@@ -13931,6 +13931,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set or unset headers and footers of all page styles in use in your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T100649Z" creationid="manuel" creationdate="20180627T100649Z">
+        <seg>Imposta o disattiva le intestazioni e i piè di pagina di tutti gli stili di pagina in uso nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set them to suit your personal preferences.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083902Z" creationid="manuel" creationdate="20180530T083902Z">
