@@ -2591,6 +2591,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A better strategy is to define tabs for the paragraph &lt;f0&gt;style&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072109Z" creationid="manuel" creationdate="20180627T072109Z">
+        <seg>Una migliore strategia è quella di definire le tabulazioni per lo &lt;f0&gt;stile&lt;/f0&gt; di paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A block of text can be selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065723Z" creationid="manuel" creationdate="20180618T065723Z">
@@ -6047,6 +6055,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062652Z" creationid="manuel" creationdate="20180609T062652Z">
         <seg>I documenti che sono stati salvati con una valuta come predefinita si apriranno utilizzando le nuove impostazioni di valuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-click anywhere between the left and right indent icons on the ruler to open the &lt;f2&gt;Tabs&lt;/f2&gt; page of the Paragraph dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072057Z" creationid="manuel" creationdate="20180627T072057Z">
+        <seg>Fate doppio clic in qualsiasi punto tra le icone di rientro sinistra e destra sul righello per aprire la scheda &lt;f2&gt;Tabulazione&lt;/f2&gt; della finestra di dialogo Paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16104,6 +16120,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071222Z" creationid="manuel" creationdate="20180618T071222Z">
         <seg>Per &lt;f2&gt;firmare il documento o&lt;/f2&gt; visualizzare il certificato, fate clic sull'icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;i0/&gt;define indents and tab settings for one or more selected paragraphs, double-click on a part of the ruler that is not between the left and right indent icons to open the &lt;f1&gt;Indents &amp; Spacing&lt;/f1&gt; page of the Paragraph dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T071929Z" creationid="manuel" creationdate="20180627T071929Z">
+        <seg>Per &lt;i0/&gt;definire i rientri e le impostazioni di tabulazione per uno o più paragrafi selezionati, fate doppio clic su una parte del righello al di fuori delle icone di rientro sinistra e destra per aprire la scheda &lt;f1&gt;Rientri e spaziature&lt;/f1&gt; della finestra di dialogo Paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
