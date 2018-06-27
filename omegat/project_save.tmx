@@ -1599,6 +1599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;lick on the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; tab &lt;f2&gt;in the Sidebar &lt;/f2&gt;to open the Styles and Formatting deck.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T074744Z" creationid="manuel" creationdate="20180627T074744Z">
+        <seg>Fate clic sulla scheda &lt;f1&gt;Stili e formattazione&lt;/f1&gt; &lt;f2&gt;nella barra laterale&lt;/f2&gt; per aprire il pannello Stili e formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;lick to change to &lt;f1&gt;Overwrite&lt;/f1&gt; mode; click &lt;f2&gt;again&lt;/f2&gt; to return to Insert mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064919Z" creationid="manuel" creationdate="20180618T064919Z">
