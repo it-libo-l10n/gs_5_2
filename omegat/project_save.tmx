@@ -9139,6 +9139,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How can you make it for free?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181136Z" creationid="Elisabetta Manuele" creationdate="20180627T181136Z">
+        <seg>Come riuscite a fare tutto questo gratuitamente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How is LibreOffice licensed?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152543Z" creationid="Elisabetta Manuele" creationdate="20180625T152543Z">
@@ -9271,6 +9279,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084951Z" creationid="manuel" creationdate="20180627T084951Z">
         <seg>Le opzioni di sillabazione impostate nel dialogo Linguistica sono effettive solo se la sillabazione è stata attivata attraverso gli stili di paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I am writing a software application.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181213Z" creationid="Elisabetta Manuele" creationdate="20180627T181213Z">
+        <seg>Sto scrivendo un'applicazione software, </seg>
       </tuv>
     </tu>
     <tu>
@@ -11691,6 +11707,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice is developed and maintained by volunteers and has the backing of several organizations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181155Z" creationid="Elisabetta Manuele" creationdate="20180627T181155Z">
+        <seg>LibreOffice è sviluppato e mantenuto da volontari ed è sostenuto da varie organizzazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice is free for anyone to use and distribute at no cost.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211823Z" creationid="Marco Marega" creationdate="20180527T211823Z">
@@ -12095,6 +12119,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180637Z" creationid="Elisabetta Manuele" creationdate="20180627T180637Z">
         <seg>È possibile usare LibreOffice in un ambiente di lavoro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May I use programming code from LibreOffice in my program?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181235Z" creationid="Elisabetta Manuele" creationdate="20180627T181235Z">
+        <seg>è possibile usare il codice sorgente di LibreOffice nel mio programma?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13711,6 +13743,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212727Z" creationid="Marco Marega" creationdate="20180616T212727Z">
         <seg>Riattivare Quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Read the licenses: &lt;a0&gt;http://www.mozilla.org/MPL/2.0/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181422Z" creationid="Elisabetta Manuele" creationdate="20180627T181422Z">
+        <seg>Leggere le licenze disponibili all'indirizzo: &lt;a0&gt;http://www.mozilla.org/MPL/2.0/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21426,6 +21466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131857Z" creationid="Marco Marega" creationdate="20180623T131857Z">
         <seg>Potrebbe capitarvi di voler annullare tutte le modifiche apportate nella sessione di lavoro dopo l'ultima volta che il documento è stato salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may, within the parameters set in the MPL and/or LGPL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181331Z" creationid="Elisabetta Manuele" creationdate="20180627T181331Z">
+        <seg>Potete usarlo, in conformità con i limiti della licenza MPL e/o LGPL.</seg>
       </tuv>
     </tu>
     <tu>
