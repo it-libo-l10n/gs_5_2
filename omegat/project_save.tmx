@@ -14395,6 +14395,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Bullets and Numbering features (drop-down palettes of tools) on the Paragraph panel on the Properties deck of the Sidebar can also be used to create nested lists and access the Bullets and Numbering dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T063212Z" creationid="manuel" creationdate="20180627T063212Z">
+        <seg>Le funzioni punti elenco e numerazione (palette di strumenti a discesa) nel pannello Paragrafo del pannello Proprietà della barra laterale possono anche essere utilizzate per creare elenchi annidati e accedere alla finestra di dialogo Elenchi puntati e numerati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Certificate Path option appears only on Linux and Mac systems.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074424Z" creationid="manuel" creationdate="20180606T074424Z">
@@ -17834,6 +17842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194512Z" creationid="Marco Marega" creationdate="20180621T194512Z">
         <seg>Con l'uso del comando Salva verrà sovrascritta l'ultima versione del file memorizzata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Sidebar for Bullets and Numbering</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T063110Z" creationid="manuel" creationdate="20180627T063110Z">
+        <seg>Uso della barra laterale per punti elenco e numerazione</seg>
       </tuv>
     </tu>
     <tu>
