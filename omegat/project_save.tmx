@@ -11179,6 +11179,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is based on code from Apache OpenOffice made available under the Apache License 2.0 but also includes software that differs from version to version under a variety of other Open Source licenses.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180554Z" creationid="Elisabetta Manuele" creationdate="20180627T180554Z">
+        <seg>Si basa sul codice di Apache OpenOffice reso disponibile in base ai termini della licenza Apache 2.0, ma comprendente anche software che differisce da una versione all'altra in base a varie altre licenze Open Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is consistent across the LibreOffice applications.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212049Z" creationid="Marco Marega" creationdate="20180619T212049Z">
@@ -14031,6 +14039,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080344Z" creationid="manuel" creationdate="20180531T080344Z">
         <seg>Opzioni di sicurezza e avvisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;a2&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180342Z" creationid="Elisabetta Manuele" creationdate="20180627T180342Z">
+        <seg>Consultare la pagina &lt;a2&gt;https://it.libreoffice.org/chi-siamo/licenze/&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
