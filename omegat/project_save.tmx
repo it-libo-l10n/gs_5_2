@@ -3319,6 +3319,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example of this type is the Find &amp; Replace dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175514Z" creationid="Elisabetta Manuele" creationdate="20180627T175514Z">
+        <seg>Un esempio di questo tipo è la finestra di dialogo Trova e Sostituisci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An “earlier” date is interpreted as being in the following century; that is, 1/1/20 is interpreted as 1/1/2020.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070247Z" creationid="manuel" creationdate="20180529T070247Z">
@@ -14803,6 +14811,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some dialogs can be left open as you work, so you can switching back and forth between the dialog and the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175348Z" creationid="Elisabetta Manuele" creationdate="20180627T175348Z">
+        <seg>Alcune finestre di dialogo possono rimanere aperte durante il lavoro, così da poter spostarvi avanti e indietro tra la finestra di dialogo e il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some items of interest are described below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142732Z" creationid="manuel" creationdate="20180608T142732Z">
@@ -16824,6 +16840,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194042Z" creationid="Marco Marega" creationdate="20180621T193132Z">
         <seg>Le illustrazioni di questo libro usano le finestre di dialogo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This book was written by volunteers from the LibreOffice community.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175535Z" creationid="Elisabetta Manuele" creationdate="20180627T175535Z">
+        <seg>La presente guida è stata redatta dai volontari della comunità di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19994,6 +20018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070050Z" creationid="manuel" creationdate="20180529T070050Z">
         <seg>Anno (due cifre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can &lt;bk0/&gt;contribute to writing this and other guides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175553Z" creationid="Elisabetta Manuele" creationdate="20180627T175553Z">
+        <seg>Potete &lt;bk0/&gt;contribuire alla stesura di questa e di altre guide.</seg>
       </tuv>
     </tu>
     <tu>
