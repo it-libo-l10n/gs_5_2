@@ -2591,6 +2591,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Comments button is also added to the right of the horizontal ruler; you can click this button to toggle the display of the comments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T072505Z" creationid="manuel" creationdate="20180628T072505Z">
+        <seg>Un pulsante Commenti viene inoltre aggiunto a destra del righello orizzontale; è possibile fare clic su questo pulsante per alternare la visualizzazione dei commenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A LibreOffice document contains certain settings that are read from the user’s system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142907Z" creationid="manuel" creationdate="20180608T142907Z">
