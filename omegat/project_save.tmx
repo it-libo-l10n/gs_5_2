@@ -5297,6 +5297,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Margin&lt;/f0&gt; button to open the sub-panel and enter the required dimensions in the &lt;f1&gt;Custom&lt;/f1&gt; size boxes (clicking the &lt;f2&gt;More Options&lt;/f2&gt; button will open the Page Style dialog).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T063709Z" creationid="manuel" creationdate="20180628T063615Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Margine&lt;/f0&gt; per aprire il pannello secondario e inserite le dimensioni richieste nelle caselle &lt;f1&gt;Personalizzate&lt;/f1&gt; (facendo clic sul pulsante &lt;f2&gt;Altre opzioni&lt;/f2&gt; si aprirà la finestra di dialogo Stile di pagina).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Modify&lt;/f0&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070253Z" creationid="manuel" creationdate="20180531T070253Z">
@@ -21786,6 +21794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100255Z" creationid="manuel" creationdate="20180606T100255Z">
         <seg>schema colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>comments, adding</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T063730Z" creationid="manuel" creationdate="20180628T063730Z">
+        <seg>commenti, aggiunta di</seg>
       </tuv>
     </tu>
     <tu>
