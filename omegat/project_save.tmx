@@ -4521,6 +4521,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 1&lt;f1&gt;4&lt;/f1&gt;, Tables of Contents, Indexes, and Bibliographies, &lt;f2&gt;in&lt;/f2&gt; the &lt;f3&gt;Writer Guide&lt;/f3&gt; describes in detail all the customizations you can choose.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143455Z" creationid="manuel" creationdate="20180628T143455Z">
+        <seg>Il Capitolo 1&lt;f1&gt;4&lt;/f1&gt; (Indici generali, indici analitici e bibliografie) &lt;f2&gt;della&lt;/f2&gt; &lt;f3&gt;Guida a Writer&lt;/f3&gt; descrive in dettaglio tutte le personalizzazioni possibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 2 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T082946Z" creationid="luke" creationdate="20180515T082516Z">
@@ -22514,6 +22522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T071416Z" creationid="manuel" creationdate="20180627T071416Z">
         <seg>indentazione (rientri)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>indexes and bibliographies</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143649Z" creationid="manuel" creationdate="20180628T143649Z">
+        <seg>indici analitici e bibliografie</seg>
       </tuv>
     </tu>
     <tu>
