@@ -5626,6 +5626,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comments can be printed next to the text in the right margin as they appear on screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T083052Z" creationid="manuel" creationdate="20180628T083052Z">
+        <seg>I commenti possono essere stampati accanto al testo nel margine destro come appaiono sullo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Common features include the Menu bar, standard toolbar, and formatting toolbar at the top of the window and the status bar at the bottom.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214334Z" creationid="Marco Marega" creationdate="20180616T214334Z">
@@ -6655,6 +6663,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141038Z" creationid="manuel" creationdate="20180618T105802Z">
         <seg>Ogni pannello è costituito da una barra del titolo e uno o più pannelli di contenuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each page is scaled down in order to make space for the comments to fit on the underlying paper size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T083123Z" creationid="manuel" creationdate="20180628T083123Z">
+        <seg>Ogni pagina viene ridimensionata per fare in modo che i commenti si adattino alle dimensioni del foglio sottostante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14123,6 +14139,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the comment to quickly edit or delete it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T082945Z" creationid="manuel" creationdate="20180628T082945Z">
+        <seg>Fate clic destro sul commento per modificarlo o eliminarlo velocemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on the percentage figure to open a list of magnification values from which to choose.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192914Z" creationid="Marco Marega" creationdate="20180620T192914Z">
@@ -19245,6 +19269,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;f0&gt;Ctrl+Alt+Page Down&lt;/f0&gt; to move to the next comment and &lt;f1&gt;Ctrl+Alt+Page Up&lt;/f1&gt; to move to the previous comment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T083018Z" creationid="manuel" creationdate="20180628T083018Z">
+        <seg>Premete &lt;f0&gt;Ctrl+Alt+Pag giù&lt;/f0&gt; per passare al commento successivo e &lt;f1&gt;Ctrl+Alt+Pag su&lt;/f1&gt; per spostarvi a quello precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f0&gt;File &gt; New&lt;/f0&gt; on the Menu bar and select the type of document from the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123459Z" creationid="Marco Marega" creationdate="20180621T123459Z">
@@ -20858,6 +20890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162315Z" creationid="manuel" creationdate="20180612T162315Z">
         <seg>Potete anche modificare gli stili usando il sottomenu su ogni stile nell'elenco Applica stile sulla barra degli strumenti Formattazione (si veda Figura&lt;t0&gt;49&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also navigate through the comments using the keyboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T082950Z" creationid="manuel" creationdate="20180628T082950Z">
+        <seg>Potete anche spostarvi tra i commenti utilizzando la tastiera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22810,6 +22850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T064648Z" creationid="manuel" creationdate="20180627T064648Z">
         <seg>tabulazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>table of contents, automated</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T083132Z" creationid="manuel" creationdate="20180628T083132Z">
+        <seg>indice generale, automatico</seg>
       </tuv>
     </tu>
     <tu>
