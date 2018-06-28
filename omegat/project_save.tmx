@@ -9499,6 +9499,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, they also have major differences:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155936Z" creationid="manuel" creationdate="20180628T155936Z">
+        <seg>Vi sono, comunque, anche alcune differenze:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, this method can cause problems with documents of non-trivial size or complexity, especially if you save a lot of versions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154819Z" creationid="manuel" creationdate="20180628T154819Z">
@@ -17564,6 +17572,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The two methods have the same result if you &lt;f0&gt;click&lt;/f0&gt; the link when the document is open in Writer: you are taken directly to the cross-referenced item.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155928Z" creationid="manuel" creationdate="20180628T155928Z">
+        <seg>I due metodi hanno lo stesso risultato se fate &lt;f0&gt;clic&lt;/f0&gt; sul collegamento quando il documento è aperto in Writer: venite direttamente portati all'elemento relativo al riferimento incrociato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two names can be different but this may later cause confusion.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T134824Z" creationid="manuel" creationdate="20180615T134824Z">
@@ -21122,6 +21138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143912Z" creationid="manuel" creationdate="20180621T143912Z">
         <seg>Writer dispone di strumenti che possono facilitare il lavoro nel caso di utilizzo di più lingue nello stesso documento o di creazione di documenti in lingue diverse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer provides two ways to ensure that your references are up to date, by inserting links to other parts of the same document or to a different document: hyperlinks and cross-references.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155810Z" creationid="manuel" creationdate="20180628T155726Z">
+        <seg>Writer offre due modi per assicurare che i riferimenti siano aggiornati, inserendo collegamenti ad altre parti dello stesso documento o a un altro documento: collegamenti e riferimenti incrociati</seg>
       </tuv>
     </tu>
     <tu>
