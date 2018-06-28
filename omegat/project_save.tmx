@@ -14659,6 +14659,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on an individual change and choose &lt;f4&gt;Accept Change&lt;/f4&gt; or &lt;f5&gt;Reject Change&lt;/f5&gt; from the context menu, or choose &lt;f6&gt;Edit &gt; Track Changes &gt; Manage Changes&lt;/f6&gt; to view the list of changes and accept or reject them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164954Z" creationid="manuel" creationdate="20180628T164954Z">
+        <seg>Fate clic con il pulsante destro del mouse su una singola modifica e scegliete &lt;f4&gt;Accetta modifica&lt;/f4&gt; o &lt;f5&gt;Rifiuta modifica&lt;/f5&gt; dal menu a comparsa, oppure scegliete &lt;f6&gt;Modifica &gt; Traccia le modifiche &gt; Gestisci le modfiche&lt;/f6&gt; per visualizzare l'elenco dei cambiamenti e accettarli o rifiutarli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on an unrecognized word &lt;f4&gt;to open a&lt;/f4&gt; context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T055722Z" creationid="manuel" creationdate="20180626T055722Z">
