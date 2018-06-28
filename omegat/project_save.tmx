@@ -14956,6 +14956,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Chapter 12, Creating Web Pages, for details on creating hyperlinks within a document and to other documents and websites.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T165843Z" creationid="manuel" creationdate="20180628T165843Z">
+        <seg>Vedere il Capitolo 12 (Creazione di pagine Web) per dettagli sulla creazione di collegamenti ipertestuali all'interno di un documento e su altri documenti e siti Web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Chapter 13, Getting Started with Macros, for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164316Z" creationid="manuel" creationdate="20180608T164316Z">
@@ -21227,6 +21235,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144846Z" creationid="manuel" creationdate="20180608T144846Z">
         <seg>Se da un lato ciò permette una funzionalità migliorata, dall'altro lato potrebbero esserci problemi di compatibilità con le versioni precedenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While this is a feature, it is also a &lt;f6&gt;potential &lt;/f6&gt;security &lt;f7&gt;risk&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T165745Z" creationid="manuel" creationdate="20180628T165745Z">
+        <seg>Mentre questa è una funzionalità, è anche un &lt;f6&gt;potenziale&lt;/f6&gt; &lt;f7&gt;rischio&lt;/f7&gt; di sicurezza.</seg>
       </tuv>
     </tu>
     <tu>
