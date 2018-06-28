@@ -7715,6 +7715,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;84&lt;/seq0&gt;: Example of comments</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081103Z" creationid="manuel" creationdate="20180628T081103Z">
+        <seg>Figura &lt;seq0&gt;84&lt;/seq0&gt;: esempio di commenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Properties panel of Sidebar in Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221658Z" creationid="Marco Marega" creationdate="20180620T221658Z">
@@ -7743,6 +7751,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181036Z" creationid="Marco Marega" creationdate="20180620T181036Z">
         <seg>La Figura &lt;t0&gt;4&lt;/t0&gt;mostra un esempio di un insieme di strumenti della barra degli strumenti di Disegno trasformato in una barre degli strumenti mobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;84&lt;/t0&gt; shows an example of text with comments from two different authors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081054Z" creationid="manuel" creationdate="20180628T081054Z">
+        <seg>La Figura &lt;t0&gt;84&lt;/t0&gt; illustra un esempio di un testo con commenti inseriti da due diversi autori.</seg>
       </tuv>
     </tu>
     <tu>
