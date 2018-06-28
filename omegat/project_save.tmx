@@ -17932,6 +17932,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change margins using the Page panel of the Properties deck of the Sidebar:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T060940Z" creationid="manuel" creationdate="20180628T060940Z">
+        <seg>Per cambiare i margini usando il pannello Pagina del pannello Proprietà della barra laterale:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change margins using the rulers:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103807Z" creationid="manuel" creationdate="20180627T103807Z">
