@@ -3295,6 +3295,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although tables of contents can be customized extensively in Writer, often the default settings are all you need.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084127Z" creationid="manuel" creationdate="20180628T084127Z">
+        <seg>Anche se Writer consente una ampia personalizzazione degli indici, spesso sono sufficienti le impostazioni predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although the &lt;f0&gt;Save as Template dialog&lt;/f0&gt; shows &lt;f1&gt;no document type &lt;/f1&gt;when saving a new template of any type, the template will appear on the correct tab (Documents, Spreadsheets, Presentations, Drawings) when you return to t&lt;f2&gt;he Templates&lt;/f2&gt; dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121113Z" creationid="manuel" creationdate="20180615T121113Z">
@@ -3996,6 +4004,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142705Z" creationid="manuel" creationdate="20180616T142705Z">
         <seg>Prima che possiate usare un modello in LibreOffice, esso deve trovarsi in una delle cartelle elencate per il percorso Modello in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Percorsi&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before you start, make sure that the headings are styled consistently.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T083935Z" creationid="manuel" creationdate="20180628T083935Z">
+        <seg>Prima di iniziare, assicuratevi di aver assegnato alle intestazioni degli stili appropriati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5895,6 +5911,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182223Z" creationid="Elisabetta Manuele" creationdate="20180620T182223Z">
         <seg>Creazione di un album fotografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a quick table of contents is simple:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084144Z" creationid="manuel" creationdate="20180628T084144Z">
+        <seg>Potete creare facilmente un indice generale:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8287,6 +8311,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170946Z" creationid="manuel" creationdate="20180615T170834Z">
         <seg>Per esempio, potete fare in modo che un paragrafo inizi su una nuova pagina o colonna e specificare lo stile della nuova pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you can use the &lt;f1&gt;Heading 1&lt;/f1&gt; style for chapter titles and the &lt;f2&gt;Heading 2&lt;/f2&gt; and &lt;f3&gt;Heading 3&lt;/f3&gt; styles for chapter subheadings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084105Z" creationid="manuel" creationdate="20180628T084105Z">
+        <seg>Per esempio, è possibile utilizzare lo stile &lt;f1&gt;Intestazione 1&lt;/f1&gt; per i titoli dei capitoli e lo stile &lt;f2&gt;Intestazione 2&lt;/f2&gt; e &lt;f3&gt;Intestazione 3&lt;/f3&gt; per i sottotitoli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20698,6 +20730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160525Z" creationid="manuel" creationdate="20180616T160525Z">
         <seg>Writer è l'elaboratore di testi di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer lets you build an automated &lt;i0/&gt;table of contents from the headings in your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T083926Z" creationid="manuel" creationdate="20180628T083926Z">
+        <seg>Writer vi consente di creare un sommario &lt;i0/&gt;automatizzato dai titoli del tuo documento.</seg>
       </tuv>
     </tu>
     <tu>
