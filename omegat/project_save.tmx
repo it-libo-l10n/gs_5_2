@@ -18581,6 +18581,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To navigate from one comment to another, open the Navigator (&lt;f0&gt;F5&lt;/f0&gt;), expand the Comments section, and click on the comment text to move the cursor to the anchor point of the comment in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T082928Z" creationid="manuel" creationdate="20180628T082928Z">
+        <seg>Per spostarvi da un commento all'altro, aprite il Navigatore (&lt;f0&gt;F5&lt;/f0&gt;), espandete la sezione Commenti e fate clic sul testo del commento per muovere il cursore sul punto di inserimento del commento all'interno del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To open the AutoCorrect dialog, click &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141127Z" creationid="manuel" creationdate="20180609T141127Z">
@@ -20778,6 +20786,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T184338Z" creationid="Marco Marega" creationdate="20180620T184338Z">
         <seg>Potete anche aggiungere icone e creare nuove barre degli strumenti, così come descritto nel &lt;f0&gt;Capitolo 14 Personalizzare LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also change the font type, size, and alignment in the usual editing manner.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T082704Z" creationid="manuel" creationdate="20180628T082704Z">
+        <seg>Potete anche modificare il tipo di carattere, la dimensione e l'allineamento nel solito modo di modifica.</seg>
       </tuv>
     </tu>
     <tu>
