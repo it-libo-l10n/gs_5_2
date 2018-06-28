@@ -5225,6 +5225,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f7&gt;Insert&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163705Z" creationid="manuel" creationdate="20180628T163705Z">
+        <seg>Fate clic su &lt;f7&gt;Inserisci&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click a button to select that object type.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T140010Z" creationid="manuel" creationdate="20180621T135612Z">
@@ -7247,6 +7255,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155526Z" creationid="manuel" creationdate="20180628T155526Z">
         <seg>I campi sono la base dei riferimenti incrociati (vedi sotto); numerazione automatica di figure, tabelle, titoli e altri elementi, e un gran numero di altre funzioni impossibili da elencare qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fields dialog box</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163710Z" creationid="manuel" creationdate="20180628T163710Z">
+        <seg>finestra di dialogo Comandi di campo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14299,6 +14315,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>References tab</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163708Z" creationid="manuel" creationdate="20180628T163708Z">
+        <seg>Scheda Riferimenti incrociati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regina Henschel</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175951Z" creationid="Elisabetta Manuele" creationdate="20180627T175951Z">
@@ -17336,6 +17360,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161133Z" creationid="manuel" creationdate="20180616T161133Z">
         <seg>Menu e barre degli strumenti sono descritti nel Capitolo 1 (Introduzione a LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most commonly used options are &lt;f1&gt;Reference&lt;/f1&gt; (to insert the full text of a heading or caption), &lt;f2&gt;Category and Number&lt;/f2&gt; (to insert a figure number preceded by the word &lt;f3&gt;Figure&lt;/f3&gt; or &lt;f4&gt;Table&lt;/f4&gt;, but without the caption text), &lt;f5&gt;Numbering&lt;/f5&gt; (to insert only the figure or table number, without the word “Figure” or “Table”), or &lt;f6&gt;Page&lt;/f6&gt; (to insert the number of the page the referenced text is on).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163544Z" creationid="manuel" creationdate="20180628T163544Z">
+        <seg>Le opzioni più utilizzate sono &lt;f1&gt;Riferimento&lt;/f1&gt; (per inserire tutto il testo di un'intestazione o di una didascalia), &lt;f2&gt;Numero e categoria&lt;/f2&gt; (per inserire un numero di figura preceduto dalla parola &lt;f3&gt;Figura&lt;/f3&gt; o &lt;f4&gt;Tabella&lt;/f4&gt;, ma senza il testo della didascalia), &lt;f5&gt;Numero&lt;/f5&gt; (per inserire solo il numero della figura o tabella, senza le parole “Figura” o “Tabella”), oppure &lt;f6&gt;Pagina&lt;/f6&gt; (per inserire il numero della pagina in cui si trova il testo a cui si fa riferimento).</seg>
       </tuv>
     </tu>
     <tu>
