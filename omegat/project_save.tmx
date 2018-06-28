@@ -3888,6 +3888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Avoid this method if you can.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154828Z" creationid="manuel" creationdate="20180628T154828Z">
+        <seg>Dunque, potendo scegliere, evitate questa alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background Color (with a palette of colors)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160307Z" creationid="manuel" creationdate="20180626T160307Z">
@@ -9443,6 +9451,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, this method can cause problems with documents of non-trivial size or complexity, especially if you save a lot of versions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154819Z" creationid="manuel" creationdate="20180628T154819Z">
+        <seg>Tuttavia, questo metodo può causare dei problemi con documenti di dimensioni e complessità rilevanti, specialmente se si salvano diverse versioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, when the computer is restarted, Quickstarter will be loaded again.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212140Z" creationid="Marco Marega" creationdate="20180616T212140Z">
@@ -14467,6 +14483,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save versions that are stored as part of the original file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154808Z" creationid="manuel" creationdate="20180628T154808Z">
+        <seg>Salvate le versioni che sono memorizzate come parti del file originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saves the previous version of a document as a backup copy whenever you save a document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144414Z" creationid="manuel" creationdate="20180608T144414Z">
@@ -19351,8 +19375,8 @@
       <tuv lang="EN">
         <seg>Tracking changes to a document</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180338Z" creationid="Elisabetta Manuele" creationdate="20180620T180338Z">
-        <seg>Memorizzare le modifiche in un documento</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154748Z" creationid="Elisabetta Manuele" creationdate="20180620T180338Z">
+        <seg>Tracciare le modifiche in un documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -22982,6 +23006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>redlines</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154840Z" creationid="manuel" creationdate="20180628T154840Z">
+        <seg>linee rosse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>regular expressions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141348Z" creationid="manuel" creationdate="20180621T165554Z">
@@ -23026,6 +23058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072847Z" creationid="manuel" creationdate="20180531T072847Z">
         <seg>sostituzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>revision marks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154835Z" creationid="manuel" creationdate="20180628T154835Z">
+        <seg>marcatura di revisione</seg>
       </tuv>
     </tu>
     <tu>
@@ -23200,8 +23240,8 @@
       <tuv lang="EN">
         <seg>track changes</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154435Z" creationid="manuel" creationdate="20180628T154435Z">
-        <seg>memorizzare le modifiche</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154735Z" creationid="manuel" creationdate="20180628T154435Z">
+        <seg>traccia le modifiche</seg>
       </tuv>
     </tu>
     <tu>
