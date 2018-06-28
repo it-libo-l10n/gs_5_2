@@ -1438,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;LibreOffice provides standardized means for sensitive information to be &lt;f2&gt;identifi&lt;/f2&gt;ed: a set of standard fields that can be used to hold sensitivity information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170622Z" creationid="manuel" creationdate="20180628T170622Z">
+        <seg>&lt;/f1&gt;LibreOffice fornisce mezzi standardizzati per le informazioni sensibili da &lt;f2&gt;identificare&lt;/f2&gt;: un insieme di campi standard che possono essere utilizzati per conservare le informazioni sulla sensibilità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;The word will be hyphenated at this position when it is at the end of the line, even if automatic hyphenation for this paragraph is switched off.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085502Z" creationid="manuel" creationdate="20180627T085502Z">
@@ -12264,6 +12272,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T211703Z" creationid="Marco Marega" creationdate="20180619T211703Z">
         <seg>LibreOffice dispone di due tipi di barre degli strumenti: agganciate (o ancorate) e mobili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice implemented the open standards produced by TSCP (Transglobal Secure Collaboration Participation, Inc.) independent of a specific vendor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170805Z" creationid="manuel" creationdate="20180628T170805Z">
+        <seg>LibreOffice ha implementato gli standard aperti prodotti da TSCP (Transglobal Secure Collaboration Participation, Inc.) indipendentemente da un fornitore specifico.</seg>
       </tuv>
     </tu>
     <tu>
