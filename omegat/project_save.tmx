@@ -1839,6 +1839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;For details on using master documents, s&lt;/f0&gt;ee Chapter 1&lt;f1&gt;5&lt;/f1&gt;, Master Documents, in the &lt;f2&gt;Writer Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170202Z" creationid="manuel" creationdate="20180628T170202Z">
+        <seg>&lt;f0&gt;Per i dettagli sull'uso dei documenti master, &lt;/f0&gt;vedere il Capitolo 1&lt;f1&gt;5&lt;/f1&gt; (Documenti master) nella &lt;f2&gt;Guida a Writer&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Format&lt;/f0&gt; – contains commands for formatting the layout of your document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214923Z" creationid="Marco Marega" creationdate="20180616T214923Z">
@@ -2451,6 +2459,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090913Z" creationid="manuel" creationdate="20180614T090913Z">
         <seg>&lt;f1&gt;Potete anche fare clic sulla piccola freccia accanto all'icona &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Nuovo&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; e selezionate &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Modelli&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;You can type some characters in the top box under &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Selection&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; to filter the list in the selection box.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170028Z" creationid="manuel" creationdate="20180628T170028Z">
+        <seg>&lt;f1&gt;Potete digitare alcuni caratteri nella casella in alto su &lt;/f1&gt;&lt;f2&gt; &lt;f3&gt;Selezione&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; per filtrare l'elenco nella casella di selezione.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6072,6 +6088,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184716Z" creationid="Elisabetta Manuele" creationdate="20180620T184716Z">
         <seg>Creazione di un nuovo database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a new document based on a master document template creates a master document with the same initial content as the template it is based upon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170249Z" creationid="manuel" creationdate="20180628T170249Z">
+        <seg>La creazione di un nuovo documento basato su un modello di documento master crea un documento master con lo stesso contenuto iniziale del modello su cui è basato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21619,6 +21643,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063443Z" creationid="manuel" creationdate="20180626T063443Z">
         <seg>Potete aggiungere parole al dizionario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add master document templates to LibreOffice in the same way as ordinary document templates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170226Z" creationid="manuel" creationdate="20180628T170226Z">
+        <seg>Potete aggiungere modelli di documenti master a LibreOffice allo stesso modo dei normali modelli di documento.</seg>
       </tuv>
     </tu>
     <tu>
