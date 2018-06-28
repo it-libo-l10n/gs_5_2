@@ -6934,8 +6934,8 @@
       <tuv lang="EN">
         <seg>Each category has &lt;f1&gt;four&lt;/f1&gt; BAILS (Business Authorization Identification and Labeling Scheme) levels: Non-Business, General Business, Confidential, and Internal Only.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T171153Z" creationid="manuel" creationdate="20180628T171153Z">
-        <seg>Ogni categoria ha &lt;f1&gt;quattro&lt;/f1&gt; livelli BAILS (Business Authorization Identification and Labeling Scheme, schema di etichettatura e identificazione di autorizzaizone aziendale): Non Business, Affari generali, Riservati e Solo interni.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T171501Z" creationid="manuel" creationdate="20180628T171153Z">
+        <seg>Ogni categoria ha &lt;f1&gt;quattro&lt;/f1&gt; livelli BAILS (Business Authorization Identification and Labeling Scheme, schema di etichettatura e identificazione di autorizzazione aziendale): Non affari, Affari generali, Riservati e Solo interni.</seg>
       </tuv>
     </tu>
     <tu>
