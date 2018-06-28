@@ -4521,6 +4521,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 1&lt;f0&gt;4&lt;/f0&gt;, Tables of Contents, Indexes, and Bibliographies, in the &lt;f1&gt;Writer Guide&lt;/f1&gt; describes the process in detail.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144220Z" creationid="manuel" creationdate="20180628T144220Z">
+        <seg>Il Capitolo 1&lt;f0&gt;4&lt;/f0&gt; (Indici generali, indici analitici e bibliografie) della &lt;f1&gt;Guida a Writer&lt;/f1&gt; descrive in dettaglio la procedura da utilizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1&lt;f1&gt;4&lt;/f1&gt;, Tables of Contents, Indexes, and Bibliographies, &lt;f2&gt;in&lt;/f2&gt; the &lt;f3&gt;Writer Guide&lt;/f3&gt; describes in detail all the customizations you can choose.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143455Z" creationid="manuel" creationdate="20180628T143455Z">
@@ -8403,6 +8411,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you might want an index containing only the scientific names of species mentioned in the text, and a separate index containing only the common names of species.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144253Z" creationid="manuel" creationdate="20180628T144253Z">
+        <seg>Per esempio, potreste voler creare un indice contenente solo i nomi scientifici delle specie menzionate nel testo, e un indice separato che contenga solo i nomi comuni delle specie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, your choice (in the options for LibreOffice Writer) of how to update links is affected by the Load user-specific settings option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143838Z" creationid="manuel" creationdate="20180608T143838Z">
@@ -10675,6 +10691,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to alphabetical indexes, other types of indexes supplied with Writer include those for illustrations, tables, and objects, and you can even create a user-defined index.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144238Z" creationid="manuel" creationdate="20180628T144238Z">
+        <seg>Writer consente di creare indici alfabetici, indici per illustrazioni, tabelle, oggetti, o persino di creare un proprio indice personalizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to formatting, any settings that can be added to or modified in a document can be saved within a template.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103133Z" creationid="manuel" creationdate="20180615T103133Z">
@@ -11079,6 +11103,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154913Z" creationid="manuel" creationdate="20180626T154913Z">
         <seg>Aumentare la spaziatura del paragrafo, diminuire la spaziatura del paragrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Indexes and bibliographies work in a similar way to tables of contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143655Z" creationid="manuel" creationdate="20180628T143655Z">
+        <seg>Gli indici analitici e le bibliografie funzionano in maniera analoga agli indici generali.</seg>
       </tuv>
     </tu>
     <tu>
