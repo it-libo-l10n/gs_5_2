@@ -4537,6 +4537,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 1&lt;f0&gt;3&lt;/f0&gt;, Using Mail Merge, in the &lt;f1&gt;Writer Guide&lt;/f1&gt; describes the process.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154428Z" creationid="manuel" creationdate="20180628T154428Z">
+        <seg>Il Capitolo 1&lt;f0&gt;3&lt;/f0&gt; (Uso della stampa in serie) della &lt;f1&gt;Guida a Writer&lt;/f1&gt; descrive il processo nel dettaglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1&lt;f0&gt;4&lt;/f0&gt;, Tables of Contents, Indexes, and Bibliographies, in the &lt;f1&gt;Writer Guide&lt;/f1&gt; describes the process in detail.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144220Z" creationid="manuel" creationdate="20180628T144220Z">
@@ -4869,6 +4877,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081236Z" creationid="manuel" creationdate="20180628T081236Z">
         <seg>Scegliete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice&gt; Dati utente&lt;/f0&gt; per configurare il nome che desiderate visualizzare nel campo Autore del commento o per modificarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f1&gt;Edit &gt; Track Changes &gt; Compare Document&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154707Z" creationid="manuel" creationdate="20180628T154707Z">
+        <seg>Scegliete &lt;f1&gt;Modifica &gt; Traccia le modifiche&gt; Confronta documento&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12247,6 +12263,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181945Z" creationid="Elisabetta Manuele" creationdate="20180620T181945Z">
         <seg>Finestra principale di Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make your &lt;i0/&gt;changes to a copy of the document (stored in a different folder, or under a different name, or both), then use Writer to combine the two files and show the differences.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154536Z" creationid="manuel" creationdate="20180628T154536Z">
+        <seg>Apportate le &lt;i0/&gt;modifiche a una copia del documento  (memorizzato in una cartella differente, o con un differente nome, o ambedue), poi usate Writer per combinare i due file e mostrare le differenze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21838,6 +21862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can use several methods to keep &lt;i0/&gt;track of changes made to a document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154503Z" creationid="manuel" creationdate="20180628T154503Z">
+        <seg>Potete usare diversi modi per &lt;i0/&gt;rilevare le modifiche apportate a un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can use the entries on the &lt;f0&gt;LibreOffice – Paths&lt;/f0&gt; page to compile a list of files, such as those containing AutoText, that you need to back up or copy to another computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070125Z" creationid="manuel" creationdate="20180531T070125Z">
@@ -22170,6 +22202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T150104Z" creationid="manuel" creationdate="20180531T080256Z">
         <seg>vuota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>change tracking</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154512Z" creationid="manuel" creationdate="20180628T154512Z">
+        <seg>annotazione delle modifiche</seg>
       </tuv>
     </tu>
     <tu>
@@ -23154,6 +23194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T094056Z" creationid="manuel" creationdate="20180606T094056Z">
         <seg>margini di testo (mostra/nascondi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>track changes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154435Z" creationid="manuel" creationdate="20180628T154435Z">
+        <seg>memorizzare le modifiche</seg>
       </tuv>
     </tu>
     <tu>
