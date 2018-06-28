@@ -3712,6 +3712,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Authors and reviewers often use &lt;i0/&gt;comments to exchange ideas, ask for suggestions, or mark items needing attention.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T070810Z" creationid="manuel" creationdate="20180628T070810Z">
+        <seg>Autori e revisori utilizzano spesso i commenti &lt;i0/&gt;per scambiare idee, chiedere suggerimenti o contrassegnare elementi che richiedono attenzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Authors whose work may be very lengthy should always consider using this option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144455Z" creationid="manuel" creationdate="20180608T144455Z">
@@ -21298,6 +21306,15 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070201Z" creationid="manuel" creationdate="20180531T070201Z">
         <seg>Potete selezionare un colore da una tavolozza, modificare un colore già presente e definire nuovi colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select a contiguous block of text, which may be multiple paragraphs, for a comment; or you can select a single point at which the comment will be inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T070906Z" creationid="manuel" creationdate="20180628T070906Z">
+        <seg>Potete selezionare un blocco di testo contiguo, che può essere di più paragrafi, per un commento; oppure potete selezionare un singolo punto in cui verrà inserito il commento.
+</seg>
       </tuv>
     </tu>
     <tu>
