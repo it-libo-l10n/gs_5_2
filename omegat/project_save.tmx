@@ -5329,6 +5329,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the required item in the &lt;f0&gt;Selection&lt;/f0&gt; list, which shows all the items of the selected type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163246Z" creationid="manuel" creationdate="20180628T163246Z">
+        <seg>Fate clic sull'elemento desiderato nell'elenco &lt;f0&gt;Selezione&lt;/f0&gt;, che mostra tutti gli elementi del tipo selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the same button to show the Sidebar again.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222613Z" creationid="Marco Marega" creationdate="20180620T222613Z">
@@ -11023,6 +11031,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143732Z" creationid="manuel" creationdate="20180611T143732Z">
         <seg>In altre parole, l'utilizzo degli stili sposta l'enfasi dall'aspetto esteriore del testo (o della pagina, o di qualsiasi altro elemento) a ciò che il testo stesso &lt;f1&gt;rappresenta&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Insert reference to&lt;/f0&gt; list, choose the format required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163326Z" creationid="manuel" creationdate="20180628T163326Z">
+        <seg>Nell'elenco &lt;f0&gt;Inserisci riferimento a&lt;/f0&gt;, selezionate il riferimento desiderato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17248,6 +17264,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065149Z" creationid="manuel" creationdate="20180614T065149Z">
         <seg>L'elenco mostra i nomi degli stili personalizzati esistenti per la tipologia selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The list varies according to the Type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163328Z" creationid="manuel" creationdate="20180628T163328Z">
+        <seg>L'elenco varia a seconda del Tipo di campo.</seg>
       </tuv>
     </tu>
     <tu>
