@@ -6939,6 +6939,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Envelopes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T152505Z" creationid="manuel" creationdate="20180628T152505Z">
+        <seg>Buste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even if you do not select this option, some settings are taken from your LibreOffice installation:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143708Z" creationid="manuel" creationdate="20180608T143708Z">
@@ -12203,6 +12211,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mailing labels</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T152501Z" creationid="manuel" creationdate="20180628T152501Z">
+        <seg>Etichette contenenti indirizzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mailing lists</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172123Z" creationid="Elisabetta Manuele" creationdate="20180625T172123Z">
@@ -12711,6 +12727,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T183509Z" creationid="Marco Marega" creationdate="20180620T181420Z">
         <seg>Spostare le barre di strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple copies of a document to send to a list of different recipients (form letters)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T152457Z" creationid="manuel" creationdate="20180628T152457Z">
+        <seg>Copie multiple di un documento da spedire ad un elenco di destinatari</seg>
       </tuv>
     </tu>
     <tu>
@@ -14543,6 +14567,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060856Z" creationid="manuel" creationdate="20180529T060856Z">
         <seg>Per maggiori dettagli sulle finestre Apri e Salva di LibreOffice, si veda il Capitolo 1 (Introduzione a LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 10, Printing, Exporting, and E‑mailing, in this book and Chapter &lt;f0&gt;7&lt;/f0&gt;, Printing, Exporting, and E‑mailing, in the &lt;f1&gt;Writer Guide&lt;/f1&gt; for details on previewing pages before printing, selecting print options, printing in black and white on a color printer, printing brochures, and other printing features.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T152440Z" creationid="manuel" creationdate="20180628T152440Z">
+        <seg>Vedere il Capitolo 10 (Stampa, esportazione e invio di e-mail) in questa guida e il Capitolo &lt;f0&gt;7&lt;/f0&gt; (Stampa, esportazione e invio di e-mail) nella &lt;f1&gt;Guida a Writer&lt;/f1&gt; per dettagli sull'anteprima delle pagine prima della stampa, sulla selezione delle opzioni di stampa, stampa in bianco e nero su stampante a colori, stampa di depliant, e altre funzionalità di stampa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20934,6 +20966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writer provides very useful features to create and print:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T152448Z" creationid="manuel" creationdate="20180628T152448Z">
+        <seg>Writer fornisce funzionalità molto utili per creare e stampare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writer will suggest a one-letter shortcut, which you can change.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144130Z" creationid="manuel" creationdate="20180626T144130Z">
@@ -22690,6 +22730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073012Z" creationid="manuel" creationdate="20180606T073012Z">
         <seg>opzioni di sicurezza delle macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mail merge</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T152444Z" creationid="manuel" creationdate="20180628T152444Z">
+        <seg>stampa in serie</seg>
       </tuv>
     </tu>
     <tu>
