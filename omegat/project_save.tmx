@@ -4297,6 +4297,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change nothing in the Insert Index/Table dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T090715Z" creationid="manuel" creationdate="20180628T090715Z">
+        <seg>Nella finestra di dialogo Inserisci indice non modificate alcuna impostazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change some &lt;i0/&gt;locale and language settings</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170123Z" creationid="manuel" creationdate="20180608T170123Z">
