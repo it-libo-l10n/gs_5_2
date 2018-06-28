@@ -12396,6 +12396,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice then adds custom fields in the document properties (&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;File &gt; Properties&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Custom fields&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; tab) to store the classification policy as document metadata.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T172429Z" creationid="manuel" creationdate="20180628T172429Z">
+        <seg>LibreOffice aggiunge quindi campi personalizzati nelle proprietà del documento (&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;File &gt; Proprietà &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, scheda &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Campi personalizzati&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;) per memorizzare la politica di classificazione come metadati del documento.&lt;/f8&gt;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice uses a very strong encryption mechanism that makes it almost impossible to recover the contents of a document if you lose or forget the password.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200722Z" creationid="Marco Marega" creationdate="20180621T200722Z">
@@ -19458,6 +19467,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063106Z" creationid="manuel" creationdate="20180626T063106Z">
         <seg>Per eseguire un controllo combinato ortografico e grammaticale del documento (o di una porzione di testo selezionato), fate clic sul pulsante &lt;f0&gt;Ortografia e grammatica&lt;/f0&gt; &lt;f1&gt;sulla barra degli strumenti Standard,oppure scegliete &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Strumenti &gt; Ortografia e grammatica&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To prevent a breach in security policy, contents with a higher classification level cannot be pasted into documents with a lower classification level.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T172450Z" creationid="manuel" creationdate="20180628T172450Z">
+        <seg>Per evitare una violazione della politica di sicurezza, i contenuti con un livello di classificazione più elevato non possono essere incollati in documenti con un livello di classificazione inferiore.</seg>
       </tuv>
     </tu>
     <tu>
