@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(Both remain active when the document is exported to PDF.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161108Z" creationid="manuel" creationdate="20180628T161108Z">
+        <seg>(Entrambi rimangono attivi se il documento viene esportato in PDF.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(For more information about keyboard selection of text, see the topic “Navigating and selecting with the keyboard” in the &lt;f0&gt;LibreOffice &lt;/f0&gt;Help &lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;F1&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152217Z" creationid="manuel" creationdate="20180621T152217Z">
@@ -10451,6 +10459,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you save a Writer document to HTML, hyperlinks remain active but cross-references do not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161102Z" creationid="manuel" creationdate="20180628T161102Z">
+        <seg>Se salvate un documento di Writer in HTML, i collegamenti ipertestuali, a differenza dei riferimenti incrociati, rimangono attivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you select the &lt;f0&gt;Persistently save passwords for web connections&lt;/f0&gt; option, the Set Master Password dialog opens (Figure &lt;t1&gt;45&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T151216Z" creationid="manuel" creationdate="20180606T072718Z">
@@ -10919,6 +10935,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144532Z" creationid="manuel" creationdate="20180608T144532Z">
         <seg>Di contro, un indirizzo assoluto inizia sempre da una cartella radice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In contrast, cross-references to figures with captions automatically show useful text, and you have a choice of several variations of the name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161059Z" creationid="manuel" creationdate="20180628T161059Z">
+        <seg>Di contro, i riferimenti incrociati alle immagini con didascalie mostrano automaticamente un testo significativo, e avete diverse opzioni di scelta per il nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14331,6 +14355,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace any typed &lt;i0/&gt;&lt;i1/&gt;cross-references with automatic ones and, when you update fields, all the references will update automatically to show the current wording or page numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161146Z" creationid="manuel" creationdate="20180628T161146Z">
+        <seg>Se si sostituisce ogni &lt;i0/&gt;&lt;i1/&gt;riferimento incrociato inserito nel documento con un riferimento automatico, quando i campi vengono aggiornati tutti i riferimenti verranno modificati di conseguenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replacement action</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080251Z" creationid="manuel" creationdate="20180531T080251Z">
@@ -16303,6 +16335,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123542Z" creationid="Marco Marega" creationdate="20180623T123542Z">
         <seg>Nella barra degli strumenti Standard l'icona &lt;f1&gt;Modifica file&lt;/f1&gt; diventa attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f2&gt;Cross-references&lt;/f2&gt; tab of the Fields dialog lists some items, such as &lt;i3/&gt;headings, bookmarks, figures, tables, and numbered items such as steps in a procedure.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161218Z" creationid="manuel" creationdate="20180628T161218Z">
+        <seg>La scheda &lt;f2&gt;Riferimenti incrociati&lt;/f2&gt; nella finestra di dialogo Comandi di campo elenca alcuni elementi, come ad esempio intestazioni, &lt;i3/&gt;segnalibri, figure, tabelle, ed altri elementi numerati come i passi di una procedura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18836,6 +18876,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To hyperlink to an object such as a graphic, and have the hyperlink show useful text such as &lt;f0&gt;Figure 6&lt;/f0&gt;, you need to give such an object a useful name (instead of a default name like &lt;f1&gt;Graphics6&lt;/f1&gt;), or use the Hyperlink dialog to modify the visible text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161045Z" creationid="manuel" creationdate="20180628T161045Z">
+        <seg>Per collegare un oggetto, ad esempio un'immagine, e fare in modo che il collegamento mostri un testo significativo come in &lt;f0&gt;Figura 6&lt;/f0&gt;, dovrete dare a tale oggetto un nome significativo (invece di un nome standard come &lt;f1&gt;Immagine6&lt;/f1&gt;), o usare la finestra di dialogo Collegamento ipertestuale per modificare il testo visibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To include the total number of pages (as in “page 1 of 12”):</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102213Z" creationid="manuel" creationdate="20180627T102213Z">
@@ -20134,6 +20182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using cross-references</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161124Z" creationid="manuel" creationdate="20180628T161124Z">
+        <seg>Uso dei riferimenti incrociati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using data sources in LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185155Z" creationid="Elisabetta Manuele" creationdate="20180620T185155Z">
@@ -20154,6 +20210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181902Z" creationid="Elisabetta Manuele" creationdate="20180620T181902Z">
         <seg>Uso di formule e funzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using hyperlinks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161112Z" creationid="manuel" creationdate="20180628T161112Z">
+        <seg>Utilizzo dei collegamenti ipertestuali</seg>
       </tuv>
     </tu>
     <tu>
@@ -22374,6 +22438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>bookmarks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161131Z" creationid="manuel" creationdate="20180628T161131Z">
+        <seg>segnalibri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>change tracking</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154512Z" creationid="manuel" creationdate="20180628T154512Z">
@@ -22522,6 +22594,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173447Z" creationid="manuel" creationdate="20180613T173447Z">
         <seg>Creazione tramite la finestra di dialogo Stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cross-reference</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161128Z" creationid="manuel" creationdate="20180628T161128Z">
+        <seg>riferimento incrociato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cross-references</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161126Z" creationid="manuel" creationdate="20180628T161126Z">
+        <seg>riferimenti incrociati</seg>
       </tuv>
     </tu>
     <tu>
@@ -22730,6 +22818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160429Z" creationid="manuel" creationdate="20180616T160429Z">
         <seg>caratteristiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161130Z" creationid="manuel" creationdate="20180628T161130Z">
+        <seg>campi</seg>
       </tuv>
     </tu>
     <tu>
@@ -23074,6 +23170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102441Z" creationid="manuel" creationdate="20180616T102441Z">
         <seg>orientamento della pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>overview</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161125Z" creationid="manuel" creationdate="20180628T161125Z">
+        <seg>panoramica</seg>
       </tuv>
     </tu>
     <tu>
