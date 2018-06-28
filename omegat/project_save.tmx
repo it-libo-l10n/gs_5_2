@@ -3231,6 +3231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All these facilities use a registered data source (a spreadsheet or database containing the name and address records and other information).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154349Z" creationid="manuel" creationdate="20180628T154349Z">
+        <seg>Tutte queste funzionalità utilizzano una sorgente dati registrata (un foglio elettronico o un database contenente nomi, indirizzi ed altre informazioni).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072631Z" creationid="luke" creationdate="20180515T072631Z">
