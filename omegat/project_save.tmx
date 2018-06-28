@@ -9891,6 +9891,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Fields dialog is not open, click &lt;f0&gt;Insert &gt; Cross-reference&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161340Z" creationid="manuel" creationdate="20180628T161340Z">
+        <seg>Se la finestra di dialogo Comandi di campo non è aperta, fate clic su &lt;f0&gt;Inserisci &gt; Riferimento incrociato&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Find toolbar is open, click the Find &lt;f2&gt;&amp;&lt;/f2&gt; Replace button (&lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;) on the toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T102725Z" creationid="manuel" creationdate="20180622T102725Z">
@@ -11247,6 +11255,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T105054Z" creationid="manuel" creationdate="20180621T105054Z">
         <seg>In questa visualizzazione, è possibile utilizzare il cursore dello Zoom e le icone di layout di visualizzazione sulla barra di stato per cambiare l'ingrandimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In your document, place the cursor where you want the cross-reference to appear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161339Z" creationid="manuel" creationdate="20180628T161339Z">
+        <seg>Posizionate il cursore nel punto in cui volete inserire il riferimento incrociato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18300,6 +18316,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;i0/&gt;insert a cross-reference to a heading, figure, bookmark, or other item:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161335Z" creationid="manuel" creationdate="20180628T161335Z">
+        <seg>Per &lt;i0/&gt;inserire un riferimento incrociato ad una intestazione, figura, segnalibro, o altro elemento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To &lt;i0/&gt;manually hyphenate words, do not use a normal hyphen, which will remain visible even if the word is no longer at the end of a line when you add or delete text or change margins or font size.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085118Z" creationid="manuel" creationdate="20180627T085118Z">
@@ -21374,6 +21398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also create your own reference items; see “Setting References” in Chapter 1&lt;f4&gt;6&lt;/f4&gt;, Fields, in the &lt;f5&gt;Writer Guide&lt;/f5&gt; for instructions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161324Z" creationid="manuel" creationdate="20180628T161324Z">
+        <seg>Potete anche creare dei riferimenti personalizzati; vedere “Impostare riferimenti” nel Capitolo 1&lt;f4&gt;6&lt;/f4&gt; (Lavorare con i comandi di campo) nella &lt;f5&gt;Guida a Writer&lt;/f5&gt; per istruzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also dock a floating toolbar by holding down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and double-clicking in the title bar of the toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T182523Z" creationid="Marco Marega" creationdate="20180620T182523Z">
@@ -22962,6 +22994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143649Z" creationid="manuel" creationdate="20180628T143649Z">
         <seg>indici analitici e bibliografie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>inserting references</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161327Z" creationid="manuel" creationdate="20180628T161327Z">
+        <seg>inserimento di riferimenti</seg>
       </tuv>
     </tu>
     <tu>
