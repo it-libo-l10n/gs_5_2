@@ -20550,6 +20550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writer automatically adds at the bottom of the comment the author’s name and a time stamp indicating when the comment was created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T072623Z" creationid="manuel" creationdate="20180628T072623Z">
+        <seg>In calce al commento vengono aggiunti automaticamente il nome dell'autore, oltre all'indicazione di giorno e ora dell'inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writer automatically flows text from one page to the next.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171003Z" creationid="manuel" creationdate="20180615T171003Z">
@@ -21336,9 +21344,8 @@
       <tuv lang="EN">
         <seg>You can select a contiguous block of text, which may be multiple paragraphs, for a comment; or you can select a single point at which the comment will be inserted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T070906Z" creationid="manuel" creationdate="20180628T070906Z">
-        <seg>Potete selezionare un blocco di testo contiguo, che può essere di più paragrafi, per un commento; oppure potete selezionare un singolo punto in cui verrà inserito il commento.
-</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T072511Z" creationid="manuel" creationdate="20180628T070906Z">
+        <seg>Potete selezionare un blocco di testo contiguo, che può essere di più paragrafi, per un commento; oppure potete selezionare un singolo punto in cui verrà inserito il commento.</seg>
       </tuv>
     </tu>
     <tu>
