@@ -8691,6 +8691,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From this menu, you can also open a dialog to apply some basic formatting to the text of comments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081638Z" creationid="manuel" creationdate="20180628T081638Z">
+        <seg>Inoltre, da questo menu è possibile applicare alcune formattazioni di base al testo dei commenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From this point on, &lt;f0&gt;all changes you make to the document will occur only in the new document&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143241Z" creationid="manuel" creationdate="20180621T143241Z">
@@ -14087,6 +14095,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
         <seg>Right-click anywhere on the screen to open a context menu where you can navigate through the slides and set other options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on a comment to open a context menu where you can delete the current comment, all the comments from the same author, or all the comments in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081512Z" creationid="manuel" creationdate="20180628T081512Z">
+        <seg>Facendo clic destro su una nota si apre un menu a comparsa che consente di eliminare: il commento corrente, tutti i commenti dello stesso autore o tutti i commenti presenti nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21282,6 +21298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T152606Z" creationid="manuel" creationdate="20180612T152606Z">
         <seg>Potete aprire l'elenco e selezionare con un solo clic del mouse lo stile desiderato, oppure potete utilizzare i tasti freccia verso l'alto e verso il basso per scorrere l'elenco e quindi premere &lt;f0&gt;Invio&lt;/f0&gt; per applicare lo stile evidenziato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can paste saved text using the Paste button in the menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081718Z" creationid="manuel" creationdate="20180628T081718Z">
+        <seg>Potete incollare il testo salvato usando il pulsante Incolla nel menu.</seg>
       </tuv>
     </tu>
     <tu>
