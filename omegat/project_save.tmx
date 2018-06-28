@@ -6932,6 +6932,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each category has &lt;f1&gt;four&lt;/f1&gt; BAILS (Business Authorization Identification and Labeling Scheme) levels: Non-Business, General Business, Confidential, and Internal Only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T171153Z" creationid="manuel" creationdate="20180628T171153Z">
+        <seg>Ogni categoria ha &lt;f1&gt;quattro&lt;/f1&gt; livelli BAILS (Business Authorization Identification and Labeling Scheme, schema di etichettatura e identificazione di autorizzaizone aziendale): Non Business, Affari generali, Riservati e Solo interni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each chapter might start with the &lt;f1&gt;First Page&lt;/f1&gt; style, with the following pages using the&lt;f2&gt; Default&lt;/f2&gt; page style, as above.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144557Z" creationid="manuel" creationdate="20180616T144557Z">
@@ -11768,6 +11776,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105207Z" creationid="manuel" creationdate="20180609T105207Z">
         <seg>Controlla gli spazi singoli tra le parole, indicando le istanze di spazi doppi o tripli, ma non di più spazi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It contains &lt;f0&gt;three&lt;/f0&gt; BAF (Business Authentication Framework) categories: Intellectual Property, National Security and Export Control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T171208Z" creationid="manuel" creationdate="20180628T171013Z">
+        <seg>Contiene &lt;f0&gt;tre&lt;/f0&gt; categorie BAF (Business Authentication Framework, asruttura di autenticazione aziendale): proprietà intellettuale, sicurezza nazionale e controllo delle esportazioni.</seg>
       </tuv>
     </tu>
     <tu>
