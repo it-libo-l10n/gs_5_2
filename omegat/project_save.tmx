@@ -1671,6 +1671,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Classifying d&lt;/f0&gt;ocument contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164228Z" creationid="manuel" creationdate="20180628T164228Z">
+        <seg>&lt;f0&gt;Classificazione&lt;/f0&gt; del contenuto dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Action&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button of&lt;/f3&gt; the Template&lt;f4&gt;s&lt;/f4&gt; dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T103432Z" creationid="manuel" creationdate="20180616T103432Z">
@@ -2759,6 +2767,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A form has sections that are not to be edited, and other sections that are designed for the reader to make changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164331Z" creationid="manuel" creationdate="20180628T164331Z">
+        <seg>Un formulario contiene alcune sezioni che non possono essere modificate, e altre create appositamente per una modifica da parte del lettore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A header and a footer are properties of the page style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T093521Z" creationid="manuel" creationdate="20180627T093521Z">
@@ -2795,6 +2811,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083245Z" creationid="manuel" creationdate="20180528T083245Z">
         <seg>Appare un elenco di pagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A master document joins separate text documents into one larger document, and unifies the formatting, table of contents, bibliography, index, and other tables or lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164144Z" creationid="manuel" creationdate="20180628T164144Z">
+        <seg>Un documento master unisce documenti di testo diversi in un unico documento più grande, uniformando la formattazione, l'indice generale, la bibliografia, l'indice analitico, e altre tabelle o elenchi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2891,6 +2915,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072718Z" creationid="manuel" creationdate="20180531T072718Z">
         <seg>Un piccolo riquadro con il nuovo colore viene aggiunto alla tavola dei colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A standard text document displays information: a letter, report, or brochure, for example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164303Z" creationid="manuel" creationdate="20180628T164303Z">
+        <seg>Un normale documento di testo mostra informazioni come una lettera, un rapporto, o un depliant ad esempio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8339,6 +8371,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, a questionnaire has an introduction and questions (which do not change) and spaces for the reader to enter answers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164343Z" creationid="manuel" creationdate="20180628T164343Z">
+        <seg>Un questionario, ad esempio, contiene un'introduzione e delle domande (che non cambiano), e degli spazi nei quali il lettore può inserire le sue risposte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, changing a tab stop from align left to align right, and changes in formulas (equations) or linked graphics are not recorded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155437Z" creationid="manuel" creationdate="20180628T155437Z">
@@ -12575,6 +12615,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170105Z" creationid="Elisabetta Manuele" creationdate="20180620T170105Z">
         <seg>Martin Saffron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master documents are typically used for producing long documents such as a book, a thesis, or a long report; or when different people are writing different chapters or other parts of the full document, so you don’t need to share files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164109Z" creationid="manuel" creationdate="20180628T164109Z">
+        <seg>I documenti master sono generalmente utilizzati per produrre documenti corposi come un libro, una tesi o una lunga relazione; oppure si possono utilizzare se persone diverse lavorano contemporaneamente su capitoli o parti diverse di un documento, per evitare che tutti debbano condividere lo stesso file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19769,6 +19817,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102221Z" creationid="manuel" creationdate="20180627T102221Z">
         <seg>Digitate la parola “pagina” e uno spazio, quindi inserite il numero di pagina seguendo le indicazioni riportate sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typically the reader may either edit everything or nothing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164323Z" creationid="manuel" creationdate="20180628T164323Z">
+        <seg>Tipicamente, la modifica è concessa per tutto il documento o non è concessa affatto.</seg>
       </tuv>
     </tu>
     <tu>
