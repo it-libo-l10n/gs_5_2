@@ -16252,6 +16252,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The anchor point of the comment is connected by a dotted line to a box on the right-hand side of the page where you can type the text of the comment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T072041Z" creationid="manuel" creationdate="20180628T072041Z">
+        <seg>Il punto di inserimento del commento viene collegato tramite una linea punteggiata ad uno spazio nel margine destro della pagina, dove è possibile digitare il testo della nota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The appropriate component of LibreOffice will start and the document will be loaded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202127Z" creationid="Marco Marega" creationdate="20180607T202127Z">
