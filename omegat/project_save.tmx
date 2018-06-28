@@ -9931,6 +9931,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you add or delete text (so that headings move to different pages) or you add, delete, or change headings, you need to update the table of contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T103907Z" creationid="manuel" creationdate="20180628T103907Z">
+        <seg>Se successivamente aggiungete o eliminate del testo (facendo spostare uno o più titoli in pagine diverse), o vengono aggiunti, eliminati o modificati dei titoli, dovete aggiornare l'indice generale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are a system administrator, programmer, or other person who customizes JRE installations, you can use the Parameters and Class Path pages (reached from the Java page) to specify this information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105835Z" creationid="manuel" creationdate="20180606T105835Z">
@@ -13679,6 +13687,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084411Z" creationid="manuel" creationdate="20180628T084411Z">
         <seg>Posizionate il cursore nel punto in cui volete visualizzare il sommario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the cursor within the table of contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T103915Z" creationid="manuel" creationdate="20180628T103915Z">
+        <seg>Posizionate il cursore all'interno dell'indice.</seg>
       </tuv>
     </tu>
     <tu>
