@@ -13371,6 +13371,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f1&gt;Cross-references&lt;/f1&gt; tab (Figure &lt;t2&gt;85&lt;/t2&gt;), in the &lt;f3&gt;Type&lt;/f3&gt; list, select the type of item to be referenced (for example, &lt;f4&gt;Heading&lt;/f4&gt; or &lt;f5&gt;Figure&lt;/f5&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T162100Z" creationid="manuel" creationdate="20180628T162100Z">
+        <seg>Nella scheda &lt;f1&gt;Riferimenti incrociati&lt;/f1&gt; (Figura &lt;t2&gt;85&lt;/t2&gt;), all'interno dell'elenco &lt;f3&gt;Tipo&lt;/f3&gt; di campo, selezionate il tipo di elemento a cui collegare il riferimento (ad esempio, &lt;f4&gt;Intestazioni&lt;/f4&gt; o &lt;f5&gt;Figura&lt;/f5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Customize dialog, select the menu in the &lt;f1&gt;Menu&lt;/f1&gt; list and click the &lt;f2&gt;Add&lt;/f2&gt; button in the &lt;f3&gt;Menu Content&lt;/f3&gt; section of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154743Z" creationid="luke" creationdate="20180514T154743Z">
@@ -21866,6 +21874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190103Z" creationid="Marco Marega" creationdate="20180528T190103Z">
         <seg>Anche voi potete entrare a far parte della comunità e contribuire allo sviluppo del prodotto che utilizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can leave this page open while you insert many cross-references.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T162118Z" creationid="manuel" creationdate="20180628T162118Z">
+        <seg>Potete mantenere aperta questa scheda e inserire diversi riferimenti incrociati.</seg>
       </tuv>
     </tu>
     <tu>
