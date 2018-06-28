@@ -6934,8 +6934,8 @@
       <tuv lang="EN">
         <seg>Each category has &lt;f1&gt;four&lt;/f1&gt; BAILS (Business Authorization Identification and Labeling Scheme) levels: Non-Business, General Business, Confidential, and Internal Only.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T171501Z" creationid="manuel" creationdate="20180628T171153Z">
-        <seg>Ogni categoria ha &lt;f1&gt;quattro&lt;/f1&gt; livelli BAILS (Business Authorization Identification and Labeling Scheme, schema di etichettatura e identificazione di autorizzazione aziendale): Non affari, Affari generali, Riservati e Solo interni.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T172021Z" creationid="manuel" creationdate="20180628T171153Z">
+        <seg>Ogni categoria ha &lt;f1&gt;quattro&lt;/f1&gt; livelli BAILS (Business Authorization Identification and Labeling Scheme - schema di etichettatura e identificazione di autorizzazione aziendale): Non-Business (non affari), General Business (affari generali), Confidential (riservato), Internal Only (solo interno).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11782,8 +11782,8 @@
       <tuv lang="EN">
         <seg>It contains &lt;f0&gt;three&lt;/f0&gt; BAF (Business Authentication Framework) categories: Intellectual Property, National Security and Export Control.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T171208Z" creationid="manuel" creationdate="20180628T171013Z">
-        <seg>Contiene &lt;f0&gt;tre&lt;/f0&gt; categorie BAF (Business Authentication Framework, asruttura di autenticazione aziendale): proprietà intellettuale, sicurezza nazionale e controllo delle esportazioni.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T172039Z" creationid="manuel" creationdate="20180628T171013Z">
+        <seg>Contiene &lt;f0&gt;tre&lt;/f0&gt; categorie BAF (Business Authentication Framework - struttura di autenticazione aziendale): proprietà intellettuale, sicurezza nazionale e controllo delle esportazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18537,6 +18537,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T103155Z" creationid="manuel" creationdate="20180621T103155Z">
         <seg>Questa scheda è disponibile solo quando &lt;f2&gt;Abilita funzioni sperimentali&lt;/f2&gt; è stato selezionato in &lt;f3&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This toolbar contains listboxes to help in selecting the security of the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T172106Z" creationid="manuel" creationdate="20180628T172106Z">
+        <seg>Questa barra degli strumenti contiene delle liste per aiutare a selezionare la sicurezza del documento.</seg>
       </tuv>
     </tu>
     <tu>
