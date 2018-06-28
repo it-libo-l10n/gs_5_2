@@ -4000,6 +4000,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before creating some types of indexes, you first need to create index entries embedded in your Writer document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144304Z" creationid="manuel" creationdate="20180628T144304Z">
+        <seg>Prima di creare qualsiasi tipo di indice, è necessario inserire le voci dell'indice all'interno del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before you can use a template in LibreOffice, it must be in one of the folders listed for the Template path in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt;:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142705Z" creationid="manuel" creationdate="20180616T142705Z">
@@ -4685,6 +4693,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160414Z" creationid="manuel" creationdate="20180626T160414Z">
         <seg>Carattere (per aprire la finestra di dialogo Carattere)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Charts created using LibreOffice’s Chart component</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144333Z" creationid="manuel" creationdate="20180628T144333Z">
+        <seg>Grafici creati utilizzando l'apposito componente Chart di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6375,6 +6391,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144312Z" creationid="manuel" creationdate="20180616T144312Z">
         <seg>Potete trovare dettagli al riguardo nel Capitolo 4 (Formattazione delle pagine) nella &lt;f4&gt;Guida a Writer&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Diagrams created using LibreOffice’s drawing tools</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144325Z" creationid="manuel" creationdate="20180628T144325Z">
+        <seg>Diagrammi creati con gli strumenti di disegno di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -9067,6 +9091,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Graphics in Writer are of three basic types:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144315Z" creationid="manuel" creationdate="20180628T144315Z">
+        <seg>In Writer ci sono tre tipologie principali di oggetti grafici:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Graphics output – Force OpenGL even if blacklisted (on restart)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T061326Z" creationid="manuel" creationdate="20180531T061326Z">
@@ -10447,6 +10479,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085718Z" creationid="luke" creationdate="20180515T085718Z">
         <seg>Illustrazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Image files, including photos, drawings, scanned images, and others</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144322Z" creationid="manuel" creationdate="20180628T144322Z">
+        <seg>File immagine, che includono foto, disegni, immagini scansionate, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14503,6 +14543,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060856Z" creationid="manuel" creationdate="20180529T060856Z">
         <seg>Per maggiori dettagli sulle finestre Apri e Salva di LibreOffice, si veda il Capitolo 1 (Introduzione a LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 11, Graphics, the Gallery, and Fontwork, in this book and Chapter &lt;f0&gt;11&lt;/f0&gt;, Working with &lt;f1&gt;Image&lt;/f1&gt;s, in the &lt;f2&gt;Writer Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144429Z" creationid="manuel" creationdate="20180628T144429Z">
+        <seg>Vedere il Capitolo 11 (Immagini, Galleria e Fontwork) in questa guida e il Capitolo &lt;f0&gt;11&lt;/f0&gt; (Lavorare con oggetti &lt;f1&gt;grafici&lt;/f1&gt;) nella &lt;f2&gt;Guida a Writer&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
