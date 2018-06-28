@@ -4897,6 +4897,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f2&gt;Edit &gt; Track Changes &gt; Record Changes &lt;/f2&gt;before starting to edit.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155328Z" creationid="manuel" creationdate="20180628T155203Z">
+        <seg>Scegliete &lt;f2&gt;Modifica &gt; Traccia le modifiche &gt; Registra le modfiche&lt;/f2&gt; prima di inizare a modificare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f3&gt;Edit &gt; Track Changes &gt; Show Changes&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155321Z" creationid="manuel" creationdate="20180628T155321Z">
+        <seg>Scegliete &lt;f3&gt;Modifica &gt; Traccia le modifiche &gt; Mostra le modifiche&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose spelling options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170004Z" creationid="manuel" creationdate="20180608T170004Z">
@@ -11759,6 +11775,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191650Z" creationid="manuel" creationdate="20180618T060412Z">
         <seg>Lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Later, you or another person can review and accept or reject each change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155236Z" creationid="manuel" creationdate="20180628T155236Z">
+        <seg>In seguito, voi o chiunque può revisionare il documento e accettare o rifiutare qualsiasi modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19626,6 +19650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T172929Z" creationid="manuel" creationdate="20180612T135946Z">
         <seg>Potete utilizzare Formato riempimento per applicare uno stile a più aree differenti velocemente senza dover ritornare alla finestra Stili e Formattazione e fare doppio clic ogni volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Writer’s change marks (often &lt;i0/&gt;&lt;i1/&gt;called “redlines” or “revision marks”) to show where you have added or deleted material, or changed formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155051Z" creationid="manuel" creationdate="20180628T155051Z">
+        <seg>Usate gli indicatori di modifica di Writer (spesso &lt;i0/&gt;&lt;i1/&gt;denominati “linee rosse” o “marcatura di revisione) per mostrare dove avete aggiunto o cancellato materiale, o modificata la formattazione.</seg>
       </tuv>
     </tu>
     <tu>
