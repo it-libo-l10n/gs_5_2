@@ -19125,6 +19125,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To enable document classification, open the Classification bar &lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;View &gt; Toolbars &gt; Classification&lt;/f1&gt;&lt;f2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T171556Z" creationid="manuel" creationdate="20180628T171556Z">
+        <seg>Per abilitare la classificazione dei documenti, aprire la barra di classificazione &lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt; Visualizza &gt; Barra degli strumenti &gt; Classificazione&lt;/f1&gt;&lt;f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To enable it, select MediaWiki in the Internet options, then click the &lt;f0&gt;Add&lt;/f0&gt; button to open the dialog shown in Figure &lt;t1&gt;45&lt;/t1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T140807Z" creationid="manuel" creationdate="20180609T140807Z">
