@@ -13659,6 +13659,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place the cursor where you want the table of contents to appear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084411Z" creationid="manuel" creationdate="20180628T084411Z">
+        <seg>Posizionate il cursore nel punto in cui volete visualizzare il sommario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Planning a database</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184711Z" creationid="Elisabetta Manuele" creationdate="20180620T184711Z">
@@ -17356,6 +17364,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These are what will appear in your table of contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084249Z" creationid="manuel" creationdate="20180628T084249Z">
+        <seg>L'indice sarà costruito sulla base di questi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These buttons and formats include:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154258Z" creationid="manuel" creationdate="20180626T154258Z">
@@ -20410,6 +20426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133935Z" creationid="Marco Marega" creationdate="20180623T133935Z">
         <seg>Se chiudete l'ultimo documento aperto usando la X sulla barra del titolo della finestra, LibreOffice si chiuderà completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you create your document, use the following paragraph styles for different heading levels (such as chapter and section headings): &lt;f0&gt;Heading 1&lt;/f0&gt;, &lt;f1&gt;Heading 2&lt;/f1&gt;, &lt;f2&gt;Heading 3&lt;/f2&gt;, and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084241Z" creationid="manuel" creationdate="20180628T084241Z">
+        <seg>Nella creazione di un documento, utilizzate i seguenti stili di paragrafo per i diversi livelli di intestazione (come ad esempio titoli di capitoli e di sezioni): &lt;f0&gt;Intestazione 1&lt;/f0&gt;, &lt;f1&gt;Intestazione 2&lt;/f1&gt;, &lt;f2&gt;Intestazione 3&lt;/f2&gt;, e così via.</seg>
       </tuv>
     </tu>
     <tu>
