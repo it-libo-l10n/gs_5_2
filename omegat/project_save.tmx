@@ -20734,6 +20734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When using a hyperlink, you do not have a choice of the content of the link (for example text or page number), but when using a cross-reference, you have several choices, including bookmarks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T160714Z" creationid="manuel" creationdate="20180628T160714Z">
+        <seg>Usando un collegamento ipertestuale, non avete possibilità di scelta riguardo al contenuto del collegamento (ad esempio testo o numero di pagina), mentre usando un riferimento incrociato, avete diverse possibilità di scelta, inclusi i segnalibri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When using the Open dialog, navigate to the folder you want and select the file you want, and then click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192107Z" creationid="Marco Marega" creationdate="20180621T192107Z">
@@ -21152,8 +21160,8 @@
       <tuv lang="EN">
         <seg>Writer provides two ways to ensure that your references are up to date, by inserting links to other parts of the same document or to a different document: hyperlinks and cross-references.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155810Z" creationid="manuel" creationdate="20180628T155726Z">
-        <seg>Writer offre due modi per assicurare che i riferimenti siano aggiornati, inserendo collegamenti ad altre parti dello stesso documento o a un altro documento: collegamenti e riferimenti incrociati</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T160732Z" creationid="manuel" creationdate="20180628T155726Z">
+        <seg>Writer offre due modi per assicurare che i riferimenti siano aggiornati, inserendo collegamenti ad altre parti dello stesso documento o a un altro documento: collegamenti ipertestuali e riferimenti incrociati</seg>
       </tuv>
     </tu>
     <tu>
