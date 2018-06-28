@@ -2447,6 +2447,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Where sensitive information is exchanged between users and organizations, the parties agree how such information will be identified and handled.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170444Z" creationid="manuel" creationdate="20180628T170444Z">
+        <seg>&lt;f1&gt;In caso di scambio di informazioni sensibili tra utenti e organizzazioni, le parti concordano in che modo tali informazioni saranno identificate e gestite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Windows and Linux users can choose to download and install the offline Help for use when not connected to the Internet; the offline Help is installed with the program on Mac OS X.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165832Z" creationid="Elisabetta Manuele" creationdate="20180625T165832Z">
@@ -6696,6 +6704,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065842Z" creationid="manuel" creationdate="20180618T065842Z">
         <seg>Stato del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Document classification and security &lt;f0&gt;are&lt;/f0&gt; important for businesses and governments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170416Z" creationid="manuel" creationdate="20180628T170416Z">
+        <seg>La classificazione e la sicurezza dei documenti &lt;f0&gt;sono&lt;/f0&gt; importanti per le aziende e i governi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15024,6 +15040,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143857Z" creationid="manuel" creationdate="20180626T143857Z">
         <seg>Vedere il Capitolo 1&lt;f1&gt;6&lt;/f1&gt; (Lavorare con i comandi di campo) nella &lt;f2&gt;Guida a Writer&lt;/f2&gt; per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 3, Styles and Templates, for more about creating and using templates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170337Z" creationid="manuel" creationdate="20180628T170337Z">
+        <seg>Vedere il Capitolo 3 (Stili e modelli), per ulteriori informazioni sulla creazione e l'uso di modelli.</seg>
       </tuv>
     </tu>
     <tu>
