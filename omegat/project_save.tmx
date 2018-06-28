@@ -9987,6 +9987,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you cannot place the cursor in the table of contents, choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f0&gt;, and then select &lt;f1&gt;Enable &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Cursor&lt;/f3&gt;&lt;/f2&gt; in the &lt;f4&gt;&lt;f5&gt;P&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;rotected areas&lt;/f6&gt; section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143145Z" creationid="manuel" creationdate="20180628T143145Z">
+        <seg>Se non riuscite a posizionare il cursore all'interno dell'indice, scegliete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Writer &gt; Formattazione&lt;/f0&gt;, quindi spuntate &lt;f1&gt;Permetti&lt;/f1&gt; nella sezione &lt;f2&gt;Cursore in aree protette&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you change the margins, the new margins affect the page style and will be shown in the Page Style dialog the next time you open it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103750Z" creationid="manuel" creationdate="20180627T103750Z">
@@ -14167,6 +14175,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173402Z" creationid="Elisabetta Manuele" creationdate="20180627T173402Z">
         <seg>Pulsante destro del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click and choose &lt;f0&gt;Update &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;i&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ndex &lt;/f3&gt;from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143044Z" creationid="manuel" creationdate="20180628T143044Z">
+        <seg>Fate clic con il pulsante destro del mouse e scegliete &lt;f0&gt;Aggiorna &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;indice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;dal menu a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click anywhere in it and choose &lt;f0&gt;Edit Index&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143327Z" creationid="manuel" creationdate="20180628T143327Z">
+        <seg>Fate clic con il pulsante destro del mouse ovunque all'interno dell'indice e selezionate &lt;f0&gt;Modifica indice&lt;/f0&gt; dal menu a comparsa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21266,6 +21290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103044Z" creationid="manuel" creationdate="20180615T103044Z">
         <seg>Potete creare modelli in due modi: salvando un documento come modello o utilizzando una procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can customize an existing table of contents at any time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143159Z" creationid="manuel" creationdate="20180628T143159Z">
+        <seg>Potete personalizzare un indice generale in qualsiasi momento.</seg>
       </tuv>
     </tu>
     <tu>
