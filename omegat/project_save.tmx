@@ -4064,6 +4064,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bookmarks are listed in the Navigator and can be accessed directly from there with a single mouse click.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163909Z" creationid="manuel" creationdate="20180628T163909Z">
+        <seg>La finestra Navigatore elenca i segnalibri, consentendo di accedervi con un semplice clic del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both methods take you to the same tab on the Page Style dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101551Z" creationid="manuel" creationdate="20180627T101551Z">
@@ -5109,6 +5117,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T185151Z" creationid="Marco Marega" creationdate="20180620T185151Z">
         <seg>Fate clic su &lt;f0&gt;Aggancia Barra degli strumenti&lt;/f0&gt; per ancorare la barra degli strumenti mobile selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Insert &gt; Bookmark&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163948Z" creationid="manuel" creationdate="20180628T163948Z">
+        <seg>Fate clic su &lt;f0&gt;Inserisci &gt; Segnalibro&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7935,6 +7951,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081103Z" creationid="manuel" creationdate="20180628T081103Z">
         <seg>Figura &lt;seq0&gt;84&lt;/seq0&gt;: esempio di commenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;85&lt;/seq0&gt;: The &lt;i1/&gt;Cross-references tab of the Fields dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163858Z" creationid="manuel" creationdate="20180628T163858Z">
+        <seg>Figura &lt;seq0&gt;85&lt;/seq0&gt;: la scheda &lt;i1/&gt;Riferimenti incrociati della finestra di dialogo Comandi di campo</seg>
       </tuv>
     </tu>
     <tu>
@@ -11403,6 +11427,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Bookmark dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163954Z" creationid="manuel" creationdate="20180628T163954Z">
+        <seg>finestra di dialogo Inserisci segnalibro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Unnumbered Entry</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165844Z" creationid="manuel" creationdate="20180626T165844Z">
@@ -13231,6 +13263,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170046Z" creationid="Elisabetta Manuele" creationdate="20180620T170046Z">
         <seg>Olivier Hallot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On &lt;i0/&gt;the Insert Bookmark dialog, the larger box lists any previously defined bookmarks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164016Z" creationid="manuel" creationdate="20180628T164016Z">
+        <seg>Nella finestra di dialogo &lt;i0/&gt;Inserisci segnalibro, l'area più grande mostra tutti i segnalibri inseriti in precedenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15423,6 +15463,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T141946Z" creationid="manuel" creationdate="20180616T141946Z">
         <seg>Selezionate il modello che volete eliminare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the text you want to bookmark.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163931Z" creationid="manuel" creationdate="20180628T163931Z">
+        <seg>Selezionate il testo a cui volete collegare un segnalibro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19653,6 +19701,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type a name for this &lt;f1&gt;new &lt;/f1&gt;bookmark in the top box, and then click &lt;f2&gt;&lt;f3&gt;Insert&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164053Z" creationid="manuel" creationdate="20180628T164053Z">
+        <seg>Nell'area superiore, digitate un nome per questo nuovo segnalibro e fate clic su &lt;f2&gt;&lt;f3&gt;Inserisci&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type a name for this color in the &lt;f2&gt;Name&lt;/f2&gt; box, then click the &lt;f3&gt;Add&lt;/f3&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072711Z" creationid="manuel" creationdate="20180531T072711Z">
@@ -20250,6 +20306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175836Z" creationid="Elisabetta Manuele" creationdate="20180620T175836Z">
         <seg>Usare un modello per creare un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using bookmarks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163900Z" creationid="manuel" creationdate="20180628T163900Z">
+        <seg>Uso dei segnalibri</seg>
       </tuv>
     </tu>
     <tu>
@@ -21778,6 +21842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103044Z" creationid="manuel" creationdate="20180615T103044Z">
         <seg>Potete creare modelli in due modi: salvando un documento come modello o utilizzando una procedura guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can cross-reference to bookmarks and create hyperlinks to bookmarks, as described above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163925Z" creationid="manuel" creationdate="20180628T163925Z">
+        <seg>Potete inserire sia riferimenti incrociati che collegamenti ipertestuali ai segnalibri, come descritto sopra.</seg>
       </tuv>
     </tu>
     <tu>
