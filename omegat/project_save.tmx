@@ -4793,6 +4793,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; to configure the name you want to appear in the Author field of the comment, or to change it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081236Z" creationid="manuel" creationdate="20180628T081236Z">
+        <seg>Scegliete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice&gt; Dati utente&lt;/f0&gt; per configurare il nome che desiderate visualizzare nel campo Autore del commento o per modificarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose spelling options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170004Z" creationid="manuel" creationdate="20180608T170004Z">
@@ -9543,6 +9551,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171527Z" creationid="manuel" creationdate="20180608T171527Z">
         <seg>Se è stata installata più di una lingua per LibreOffice, è possibile selezionare quale lingua verrà utilizzata per i menu, le finestre di dialogo e i file della guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If more than one person edits the document, each author is automatically allocated a different background color.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081247Z" creationid="manuel" creationdate="20180628T081247Z">
+        <seg>Se al documento lavora più di una persona, ad ogni autore viene associato automaticamente un diverso colore di sfondo per i commenti.</seg>
       </tuv>
     </tu>
     <tu>
