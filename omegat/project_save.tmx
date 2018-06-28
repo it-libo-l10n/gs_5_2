@@ -2759,6 +2759,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A document with track changes &lt;f0&gt;activated&lt;/f0&gt; &lt;f1&gt;but with the&lt;/f1&gt; changes &lt;f2&gt;not shown&lt;/f2&gt; carries &lt;f3&gt;an invisible history of&lt;/f3&gt; document editing &lt;f4&gt;of which t&lt;/f4&gt;he current user &lt;f5&gt;may not be aware&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T165540Z" creationid="manuel" creationdate="20180628T165540Z">
+        <seg>Un documento con il tracciamento delle modifiche &lt;f0&gt;attivato&lt;/f0&gt; &lt;f1&gt;ma con le&lt;/f1&gt;modifiche &lt;f2&gt;non visualizzate&lt;/f2&gt; riporta &lt;f3&gt;una storia invisibile di&lt;/f3&gt; modifica del documento &lt;f4&gt;di cui&lt;/f4&gt; l'attuale utente &lt;f5&gt;potrebbe non essere a conoscenza&lt;/f5&gt;.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A footer appears at the bottom of the page below the margin.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T093438Z" creationid="manuel" creationdate="20180627T093438Z">
@@ -5854,6 +5863,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072730Z" creationid="luke" creationdate="20180515T072730Z">
         <seg>Indice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contents deleted or modified can be recovered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T165558Z" creationid="manuel" creationdate="20180628T165558Z">
+        <seg>I contenuti cancellati o modificati possono essere recuperati.</seg>
       </tuv>
     </tu>
     <tu>
