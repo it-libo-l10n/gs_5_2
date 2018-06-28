@@ -6443,6 +6443,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Details are in the &lt;f7&gt;Writer Guide&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155416Z" creationid="manuel" creationdate="20180628T155416Z">
+        <seg>Queste funzioni sono illustrate in dettaglio nella &lt;f7&gt;Guida a Writer&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Diagrams created using LibreOffice’s drawing tools</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144325Z" creationid="manuel" creationdate="20180628T144325Z">
@@ -7207,6 +7215,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101821Z" creationid="manuel" creationdate="20180627T101821Z">
         <seg>L'argomento dei comandi di campo viene trattato in dettaglio nel Capitolo 1&lt;f0&gt;6&lt;/f0&gt; (Lavorare con i comandi di campo) nella &lt;f1&gt;Guida a Writer&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fields are extremely useful features of Writer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155452Z" creationid="manuel" creationdate="20180628T155452Z">
+        <seg>I campi costituiscono una funzionalità molto utile di Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fields are the basis of cross-referencing (see below); automatic numbering of figures, tables, headings, and other elements; and a wide range of other functions—far too many to describe here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155526Z" creationid="manuel" creationdate="20180628T155526Z">
+        <seg>I campi sono la base dei riferimenti incrociati (vedi sotto); numerazione automatica di figure, tabelle, titoli e altri elementi, e un gran numero di altre funzioni impossibili da elencare qui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8255,6 +8279,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103424Z" creationid="manuel" creationdate="20180615T103424Z">
         <seg>Per esempio, un modello di lettera potrebbe contenere il vostro nome, indirizzo e formula di saluto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, changing a tab stop from align left to align right, and changes in formulas (equations) or linked graphics are not recorded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155437Z" creationid="manuel" creationdate="20180628T155437Z">
+        <seg>Per esempio, il cambiamento di una tabulazione da allineamento sinistro ad allineamento destro e le modifiche nelle formule (equazioni) o in immagini collegate non vengono memorizzate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10427,6 +10459,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you type in cross-references to other parts of a document, those references can easily get out of date if you reorganize the order of topics, add or remove material, or reword a heading.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155644Z" creationid="manuel" creationdate="20180628T155644Z">
+        <seg>Può risultare difficile mantenere aggiornati dei riferimenti incrociati ad altre parti del documento, se riorganizzate l'ordine degli argomenti, aggiungete o eliminate del materiale, o riformulate un'intestazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you type three or more hyphens (---), underscores (___) or equal signs (===) on a line and then press &lt;f0&gt;Enter&lt;/f0&gt;, the paragraph is replaced by a horizontal line as wide as the &lt;f1&gt;column in the &lt;/f1&gt;page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T161145Z" creationid="manuel" creationdate="20180626T161145Z">
@@ -12155,6 +12195,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linking &lt;f0&gt;and cross-referencing within&lt;/f0&gt; a document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155620Z" creationid="manuel" creationdate="20180628T155620Z">
+        <seg>Collegamenti &lt;f0&gt;e riferimenti incrociati all'interno di&lt;/f0&gt; un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linking and cross-referencing within a document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180940Z" creationid="Elisabetta Manuele" creationdate="20180620T180940Z">
@@ -12927,6 +12975,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154224Z" creationid="manuel" creationdate="20180626T154224Z">
         <seg>Non tutti i pulsanti sono visibili in un'installazione standard, ma potete personalizzare la barra degli strumenti per includere quelli che usate regolarmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not all changes are recorded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155425Z" creationid="manuel" creationdate="20180628T155425Z">
+        <seg>Non tutte le modifiche vengono memorizzate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14679,6 +14735,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160632Z" creationid="manuel" creationdate="20180615T160632Z">
         <seg>Consultate il Capitolo 14 (Personalizzazione di LibreOffice) per maggiori informazioni riguardo al Gestore Estensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 1&lt;f0&gt;6&lt;/f0&gt;, Working with Fields, in the &lt;f1&gt;Writer Guide&lt;/f1&gt; for details.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155554Z" creationid="manuel" creationdate="20180628T155554Z">
+        <seg>Vedere il Capitolo 1&lt;f0&gt;6&lt;/f0&gt; (Lavorare con i comandi di campo) nella &lt;f1&gt;Guida a Writer&lt;/f1&gt; per ulteriori informazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17760,6 +17824,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190558Z" creationid="Marco Marega" creationdate="20180620T190558Z">
         <seg>Questi si aprono facendo un clic con il pulsante destro del mouse su di un paragrafo, un'immagine o un altro oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are used for data that changes in a document (such as the current date or the total number of pages) and for inserting document properties such as name, author, and date of last update.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155505Z" creationid="manuel" creationdate="20180628T155505Z">
+        <seg>Vengono utilizzati per inserire informazioni variabili (come ad esempio la data attuale o il numero di pagine) all'interno di un documento, o proprietà come il nome del file, l'autore o la data dell'ultimo aggiornamento.</seg>
       </tuv>
     </tu>
     <tu>
