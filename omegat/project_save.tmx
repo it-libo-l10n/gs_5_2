@@ -2799,6 +2799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A librarian might call up information about books.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164555Z" creationid="manuel" creationdate="20180628T164555Z">
+        <seg>Ad esempio, un bibliotecario potrebbe utilizzare un formulario per recuperare le informazioni sui libri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of page styles pops up; choose a different style by clicking on it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060401Z" creationid="manuel" creationdate="20180618T060301Z">
@@ -8863,6 +8871,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180218Z" creationid="Elisabetta Manuele" creationdate="20180620T180218Z">
         <seg>Formattazione del testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forms are used in three ways:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164520Z" creationid="manuel" creationdate="20180628T164520Z">
+        <seg>Ci sono diversi possibili utilizzi per un formulario:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14939,6 +14955,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Chapter 1&lt;f0&gt;7&lt;/f0&gt;, Forms, in the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164708Z" creationid="manuel" creationdate="20180628T164708Z">
+        <seg>Vedere il Capitolo 1&lt;f0&gt;7&lt;/f0&gt; (Formulari) nella &lt;f1&gt;Guida a Writer&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Chapter 1&lt;f1&gt;6&lt;/f1&gt;, Working with Fields, in the &lt;f2&gt;Writer Guide&lt;/f2&gt; for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143857Z" creationid="manuel" creationdate="20180626T143857Z">
@@ -16047,6 +16071,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123611Z" creationid="Marco Marega" creationdate="20180622T123611Z">
         <seg>Alcuni server sono anche in grado di controllare il caricamento e lo scaricamento dei file, controllandone di conseguenza il loro uso e l'accesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Someone taking orders might enter the information for each order into a database using a form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164543Z" creationid="manuel" creationdate="20180628T164543Z">
+        <seg>Ad esempio, un addetto alla ricezione di ordini potrebbe utilizzare un formulario per inserire in un database le informazioni relative agli ordini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18836,6 +18868,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a simple document for the recipient to complete, such as a questionnaire sent out to a group of people who fill it in and return it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164525Z" creationid="manuel" creationdate="20180628T164525Z">
+        <seg>Creare un semplice documento che deve essere completato dal destinatario, come ad esempio un questionario da spedire ad un gruppo di persone che poi lo restituiranno compilato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create a template &lt;f0&gt;category&lt;/f0&gt;:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164513Z" creationid="manuel" creationdate="20180615T164513Z">
@@ -19160,6 +19200,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160355Z" creationid="manuel" creationdate="20180615T160355Z">
         <seg>Per sapere dove vengono salvate le cartelle dei modelli sul vostro computer, vedete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Percorsi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To link into a database or data source and allow the user to enter information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164529Z" creationid="manuel" creationdate="20180628T164529Z">
+        <seg>Collegare il formulario ad un database o ad una sorgente dati in modo da consentire ad un utente di inserirvi le informazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19665,6 +19713,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T080338Z" creationid="manuel" creationdate="20180626T080324Z">
         <seg>Per utilizzare il dizionario dei sinonimi, fate clic su &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Sinonimi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; dal sottomenu Sinonimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To view information held in a database or data source.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164550Z" creationid="manuel" creationdate="20180628T164550Z">
+        <seg>Visualizzare le informazioni contenute in un database o in una sorgente dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21402,6 +21458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T083926Z" creationid="manuel" creationdate="20180628T083926Z">
         <seg>Writer vi consente di creare un sommario &lt;i0/&gt;automatizzato dai titoli del tuo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer offers several ways to fill information into a form, including check boxes, option buttons, text boxes, pull-down lists, and spinners.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164609Z" creationid="manuel" creationdate="20180628T164609Z">
+        <seg>Writer consente di inserire informazioni in un formulario in diversi modi, quali ad esempio caselle di controllo, pulsanti di scelta, campi di testo e caselle combinate.</seg>
       </tuv>
     </tu>
     <tu>
