@@ -18364,6 +18364,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To insert a comment, select the text, or place the cursor in the place the comment refers to, and choose &lt;f0&gt;Insert &gt; Comment&lt;/f0&gt; or press &lt;f1&gt;Ctrl+Alt+C&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T071036Z" creationid="manuel" creationdate="20180628T071036Z">
+        <seg>Per inserire un commento, selezionate il testo o posizionate il cursore nel punto in cui si riferisce il commento, quindi scegliete &lt;f0&gt;Inserisci&gt; Commento&lt;/f0&gt; o premi &lt;f1&gt;Ctrl+Alt+C&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To insert a conditional hyphen inside a word, click where you want the hyphen to appear and press &lt;f0&gt;Ctrl+hyphen&lt;/f0&gt; or use &lt;f1&gt;Insert &gt; Formatting Mark &gt; Optional hyphen.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085428Z" creationid="manuel" creationdate="20180627T085428Z">
