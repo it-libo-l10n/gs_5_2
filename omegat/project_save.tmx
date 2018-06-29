@@ -13165,6 +13165,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multi-page drawings are used mainly for presentations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T065921Z" creationid="manuel" creationdate="20180629T065921Z">
+        <seg>I disegni su più pagine sono utilizzati principalmente nelle presentazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiple copies of a document to send to a list of different recipients (form letters)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T152457Z" creationid="manuel" creationdate="20180628T152457Z">
@@ -14097,6 +14105,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191156Z" creationid="Marco Marega" creationdate="20180620T191156Z">
         <seg>Pagina, foglio o numero di diapositiva e conteggio pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pages pane</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T065905Z" creationid="manuel" creationdate="20180629T065905Z">
+        <seg>Riquadro pagine</seg>
       </tuv>
     </tu>
     <tu>
@@ -22628,6 +22644,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
         <seg>You can set the presentation &lt;i0/&gt;to advance automatically to the next slide after a set amount of time from the Slide Transition section in the Sidebar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can split drawings in Draw over several pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T065916Z" creationid="manuel" creationdate="20180629T065916Z">
+        <seg>In Draw potete suddividere i disegni tra più pagine.</seg>
       </tuv>
     </tu>
     <tu>
