@@ -7500,6 +7500,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;163&lt;/seq0&gt;: LibreOffice Draw workspace</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104939Z" creationid="manuel" creationdate="20180629T104939Z">
+        <seg>Figura &lt;seq0&gt;163&lt;/seq0&gt;: l'area di lavoro di LibreOffice Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083955Z" creationid="manuel" creationdate="20180530T083955Z">
@@ -9156,6 +9164,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gallery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105021Z" creationid="manuel" creationdate="20180629T105021Z">
+        <seg>Galleria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gary Schnabl</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180048Z" creationid="Elisabetta Manuele" creationdate="20180627T180048Z">
@@ -10142,8 +10158,16 @@
       <tuv lang="EN">
         <seg>If the Pages pane is not visible, go to &lt;f1&gt;View&lt;/f1&gt; on the Menu bar and select &lt;f2&gt;Page Pane&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T095146Z" creationid="manuel" creationdate="20180629T095146Z">
-        <seg>Se il riquadro Pagine non è visibile, andate in &lt;f1&gt;Visualizza&lt;/f1&gt; nella barra menu e selzionate &lt;f2&gt;Riquadro pagina&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104856Z" creationid="manuel" creationdate="20180629T095146Z">
+        <seg>Se il riquadro Pagine non è visibile, andate in &lt;f1&gt;Visualizza&lt;/f1&gt; nella barra menu e selezionate &lt;f2&gt;Riquadro pagina&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Sidebar is not visible, go to &lt;f2&gt;View&lt;/f2&gt; on the Menu bar and select &lt;f3&gt;Sidebar&lt;/f3&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104832Z" creationid="manuel" creationdate="20180629T104832Z">
+        <seg>Se la barra laterale non è visibile, andate in &lt;f2&gt;Visualizza&lt;/f2&gt; nella barra menu e selezionate &lt;f3&gt;Barra laterale&lt;/f3&gt; dal menu a comparsa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13261,6 +13285,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105029Z" creationid="manuel" creationdate="20180629T105029Z">
+        <seg>Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New code is available under LGPL 3.0 and MPL 2.0.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180618Z" creationid="Elisabetta Manuele" creationdate="20180627T180618Z">
@@ -14493,6 +14525,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Properties</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104949Z" creationid="manuel" creationdate="20180629T104949Z">
+        <seg>Proprietà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Publication date and software version</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072758Z" creationid="luke" creationdate="20180515T072758Z">
@@ -14921,6 +14961,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184502Z" creationid="Elisabetta Manuele" creationdate="20180620T184502Z">
         <seg>Ruotare e inclinare un oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rulers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105034Z" creationid="manuel" creationdate="20180629T105034Z">
+        <seg>Righelli</seg>
       </tuv>
     </tu>
     <tu>
@@ -16743,8 +16791,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Sidebar&lt;/f0&gt; has four main sections &lt;f1&gt;in Draw&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T101644Z" creationid="manuel" creationdate="20180629T101644Z">
-        <seg>La &lt;f0&gt;barra laterale&lt;/f0&gt; ha quattro sezioni principali &lt;f1&gt;in Draw&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104926Z" creationid="manuel" creationdate="20180629T101644Z">
+        <seg>La &lt;f0&gt;Barra laterale&lt;/f0&gt; ha quattro sezioni principali &lt;f1&gt;in Draw&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24028,6 +24076,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154835Z" creationid="manuel" creationdate="20180628T154835Z">
         <seg>marcatura di revisione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rulers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105037Z" creationid="manuel" creationdate="20180629T105037Z">
+        <seg>righelli</seg>
       </tuv>
     </tu>
     <tu>
