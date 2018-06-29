@@ -10124,6 +10124,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Pages pane is not visible, go to &lt;f1&gt;View&lt;/f1&gt; on the Menu bar and select &lt;f2&gt;Page Pane&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T095146Z" creationid="manuel" creationdate="20180629T095146Z">
+        <seg>Se il riquadro Pagine non è visibile, andate in &lt;f1&gt;Visualizza&lt;/f1&gt; nella barra menu e selzionate &lt;f2&gt;Riquadro pagina&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the current language does not have a thesaurus installed, this feature is disabled.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T081219Z" creationid="manuel" creationdate="20180626T081219Z">
