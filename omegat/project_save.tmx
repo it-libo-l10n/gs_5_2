@@ -8860,6 +8860,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on layers see “&lt;bf0&gt;Working with layers&lt;/bf0&gt;“ on page &lt;bf1&gt;195&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T101603Z" creationid="manuel" creationdate="20180629T101603Z">
+        <seg>Per maggiori informazioni sui livelli vedere “&lt;bf0&gt;Lavorare con i livelli&lt;/bf0&gt;“ a pagina &lt;bf1&gt;195&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on opening files, see “&lt;bf0&gt;Opening existing documents&lt;/bf0&gt;” on page &lt;bf1&gt;27&lt;/bf1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203218Z" creationid="Marco Marega" creationdate="20180607T203218Z">
@@ -16725,6 +16733,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Sidebar&lt;/f0&gt; has four main sections &lt;f1&gt;in Draw&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T101644Z" creationid="manuel" creationdate="20180629T101644Z">
+        <seg>La &lt;f0&gt;barra laterale&lt;/f0&gt; ha quattro sezioni principali &lt;f1&gt;in Draw&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Support assistive technology tools&lt;/f0&gt; option is not shown on all LibreOffice installations.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104155Z" creationid="manuel" creationdate="20180606T104155Z">
@@ -17610,6 +17626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055313Z" creationid="manuel" creationdate="20180531T055313Z">
         <seg>L'ultima selezione contrassegnata è il contenuto degli appunti di selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The layers bar is located on the bottom of the workplace and contains the guides for layer selection and layer command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T101516Z" creationid="manuel" creationdate="20180629T101516Z">
+        <seg>La barra dei livelli è posizionata nella parte inferiore dell'area di lavoro e contiene le guide per la selezione dei livelli e il comando di livello.</seg>
       </tuv>
     </tu>
     <tu>
