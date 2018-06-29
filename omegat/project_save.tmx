@@ -1993,8 +1993,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice Draw&lt;/f0&gt; is &lt;i1/&gt;a vector graphics drawing program, although it can also perform some operations on raster graphics (pixels).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090141Z" creationid="luke" creationdate="20180515T090141Z">
-        <seg>&lt;f0&gt;LibreOffice Draw&lt;/f0&gt; is &lt;i1/&gt;a vector graphics drawing program, although it can also perform some operations on raster graphics (pixels).</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060218Z" creationid="luke" creationdate="20180515T090141Z">
+        <seg>&lt;f0&gt;Draw&lt;/f0&gt; è un programma di disegno basato sulla &lt;i1/&gt;grafica vettoriale, sebbene possa anche eseguire alcune operazioni di grafica raster (pixel).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6876,6 +6876,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Draw is fully integrated into the LibreOffice suite, and this simplifies exchanging graphics with all components of the suite.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060449Z" creationid="manuel" creationdate="20180629T060449Z">
+        <seg>Draw è pienamente integrato in LibreOffice, e ciò semplifica lo scambio di immagini con tutti gli altri componenti della suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Draw main window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184311Z" creationid="Elisabetta Manuele" creationdate="20180620T184311Z">
@@ -8496,6 +8504,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192446Z" creationid="Marco Marega" creationdate="20180621T192446Z">
         <seg>Ad esempio, se come tipo di file scegliete &lt;f0&gt;Documenti di testo&lt;/f0&gt;, vedrete solo i documenti che possono essere aperti da Writer (che comprendono &lt;f1&gt;.odt&lt;/f1&gt;, &lt;f2&gt;.doc&lt;/f2&gt;, &lt;f3&gt;.txt&lt;/f3&gt;); se scegliete &lt;f4&gt;Foglio elettronico&lt;/f4&gt;, vedrete i file &lt;f5&gt;.ods&lt;/f5&gt;, &lt;f6&gt;.xls&lt;/f6&gt;, ed altri che Calc è in grado di aprire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you create an image in Draw, reusing it in a Writer document is as simple as copying and pasting the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060505Z" creationid="manuel" creationdate="20180629T060505Z">
+        <seg>Per esempio, per riutilizzare un'immagine creata in Draw in un documento Writer è sufficiente eseguire un copia e incolla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20496,6 +20512,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Draw, you can quickly create a wide variety of graphical images.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060225Z" creationid="manuel" creationdate="20180629T060225Z">
+        <seg>Usando Draw, potete velocemente creare un'ampia varietà di immagini grafiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Fill Format Mode</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T172834Z" creationid="manuel" creationdate="20180612T134556Z">
@@ -20844,6 +20868,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090117Z" creationid="luke" creationdate="20180515T090117Z">
         <seg>Disegno vettoriale in LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vector graphics allow for easier storage and scaling of the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060444Z" creationid="manuel" creationdate="20180629T060444Z">
+        <seg>Le immagini generate con grafica vettoriale occupano minor spazio su disco e possono essere facilmente scalate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vector graphics store and display an image as an assembly of simple geometric elements such as lines, circles, and polygons, rather than a collection &lt;i0/&gt;of pixels (points on the screen).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060438Z" creationid="manuel" creationdate="20180629T060438Z">
+        <seg>La grafica vettoriale memorizza e visualizza le immagini come semplici elementi geometrici come linee, cerchi e poligoni, invece di un insieme di &lt;i0/&gt;pixel (punti sullo schermo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23700,6 +23740,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T144847Z" creationid="manuel" creationdate="20180531T070003Z">
         <seg>opzioni percorsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pixels</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060230Z" creationid="manuel" creationdate="20180629T060230Z">
+        <seg>pixel</seg>
       </tuv>
     </tu>
     <tu>
