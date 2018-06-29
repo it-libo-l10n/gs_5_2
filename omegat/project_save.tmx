@@ -8860,6 +8860,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more about working with toolbars, see Chapter 1, Introducing LibreOffice, in this guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105543Z" creationid="manuel" creationdate="20180629T105543Z">
+        <seg>Per maggiori informazioni sull'utilizzo delle barre degli strumenti, vedere il Capitolo 1 (Introduzione a LibreOffice) in questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more detail, see the Sidebar explanation in the relevant LibreOffice component’s user guide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222507Z" creationid="Marco Marega" creationdate="20180620T222507Z">
@@ -17254,6 +17262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The appearance of the toolbar icons may vary depending on your operating system and the selection of icon size and style in &lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105720Z" creationid="manuel" creationdate="20180629T105720Z">
+        <seg>L'aspetto delle icone sulle barre degli strumenti può variare a seconda del sistema operativo e della selezione della dimensione delle icone e dello stile in &lt;f2&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Vista&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The appropriate component of LibreOffice will start and the document will be loaded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202127Z" creationid="Marco Marega" creationdate="20180607T202127Z">
@@ -24324,6 +24340,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T094056Z" creationid="manuel" creationdate="20180606T094056Z">
         <seg>margini di testo (mostra/nascondi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolbars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105414Z" creationid="manuel" creationdate="20180629T105414Z">
+        <seg>barre degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
