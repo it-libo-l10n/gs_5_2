@@ -19342,6 +19342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To expand a section, click on its icon or click on the small triangle at the top of the icons and select a section from the drop down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T103832Z" creationid="manuel" creationdate="20180629T103832Z">
+        <seg>Per espandere una sezione, fate clic sull'icona oppure sul piccolo trinagolo nella parte alta delle icone e selezionte una sezione dalla lista mostrata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To export a template from a template &lt;f0&gt;category&lt;/f0&gt; to another location &lt;f1&gt;in your computer or network&lt;/f1&gt;:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143434Z" creationid="manuel" creationdate="20180616T143434Z">
