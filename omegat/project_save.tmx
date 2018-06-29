@@ -6924,6 +6924,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drawing toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105752Z" creationid="manuel" creationdate="20180629T105752Z">
+        <seg>La barra degli strumenti Disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drop-down list from which to select an item.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175010Z" creationid="Elisabetta Manuele" creationdate="20180627T175010Z">
@@ -8632,6 +8640,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144019Z" creationid="manuel" creationdate="20180616T144019Z">
         <seg>Per esempio, la prima pagina di una carta intestata tipicamente presenta una intestazione differente, oppure la prima pagina di un rapporto potrebbe non avere  intestazione o piè di pagina, mentre le altre pagine potrebbero averli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, to change the style of a line, click on the up and down arrows for Line Style and select the required style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105932Z" creationid="manuel" creationdate="20180629T105932Z">
+        <seg>Ad esempio, per cambiare lo stile di una linea, fate clic sulle frecce verso l'alto e verso il basso per lo Stile linea e selezionate lo stile desiderato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11908,6 +11924,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It contains all the necessary functions for drawing various geometric and freehand shapes and for organizing them on the page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105840Z" creationid="manuel" creationdate="20180629T105840Z">
+        <seg>Essa contiene tutte le funzioni necessarie per disegnare diverse forme geometriche e a mano libera e per poterle organizzare nella pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It contains one or more panels, based on the current document context.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221205Z" creationid="Marco Marega" creationdate="20180620T221205Z">
@@ -12585,6 +12609,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154849Z" creationid="manuel" creationdate="20180626T154849Z">
         <seg>Interlinea (scegliere tra 1, 1,15, 1,5, 2 o spaziatura personalizzata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line and Filling toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105851Z" creationid="manuel" creationdate="20180629T105851Z">
+        <seg>La barra degli strumenti Stile e riempimento</seg>
       </tuv>
     </tu>
     <tu>
@@ -14089,6 +14121,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121228Z" creationid="manuel" creationdate="20180615T121228Z">
         <seg>Opzioni per le informazioni sul mittente e sul destinatario (fax commerciali)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105956Z" creationid="manuel" creationdate="20180629T105956Z">
+        <seg>Barra degli strumenti Opzioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -16501,6 +16541,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105723Z" creationid="manuel" creationdate="20180629T105723Z">
+        <seg>Barra degli strumenti Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Starting Impress</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181931Z" creationid="Elisabetta Manuele" creationdate="20180620T181931Z">
@@ -16741,6 +16789,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105937Z" creationid="manuel" creationdate="20180629T105937Z">
+        <seg>Barra degli strumenti Formattazione del testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text pasted from Web sites and other sources may also be placed into frames or tables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161628Z" creationid="manuel" creationdate="20180621T161628Z">
@@ -16789,6 +16845,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Drawing&lt;/f0&gt; toolbar is the most important toolbar in &lt;f1&gt;Draw&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105829Z" creationid="manuel" creationdate="20180629T105829Z">
+        <seg>La barra degli strumenti &lt;f0&gt;Disegno&lt;/f0&gt; è la più importante barra degli strumenti in &lt;f1&gt;Draw&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Menu bar&lt;/f0&gt; is located across the top of the LibreOffice window, just below the title bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214427Z" creationid="Marco Marega" creationdate="20180616T214427Z">
@@ -16825,6 +16889,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104926Z" creationid="manuel" creationdate="20180629T101644Z">
         <seg>La &lt;f0&gt;Barra laterale&lt;/f0&gt; ha quattro sezioni principali &lt;f1&gt;in Draw&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Standard&lt;/f0&gt; toolbar is the same for all LibreOffice components and is not described in detail in this chapter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105745Z" creationid="manuel" creationdate="20180629T105745Z">
+        <seg>La barra degli strumenti &lt;f0&gt;Standard&lt;/f0&gt; è la stessa per tutti i componenti di LibreOffice e non viene descritta in dettaglio in questo capitolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17658,6 +17730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T070008Z" creationid="manuel" creationdate="20180618T070008Z">
         <seg>L'icona mostrata cambia da questa (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;), se il documento non è stato modificato dopo l'ultimo salvataggio, a questa (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) , se il documento ha subito modifiche e non è stato salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The icons and pull-down lists vary according to the type of object selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105917Z" creationid="manuel" creationdate="20180629T105917Z">
+        <seg>Le icone e gli elenchi a discesa variano a seconda del tipo di oggetto selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20532,6 +20612,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123217Z" creationid="Marco Marega" creationdate="20180623T123217Z">
         <seg>Usate il campo &lt;f0&gt;Tipo file&lt;/f0&gt; per specificare il tipo di file da aprire o il formato del file da salvare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Options&lt;/f0&gt; toolbar to activate or deactivate various drawing aids.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T110014Z" creationid="manuel" creationdate="20180629T110014Z">
+        <seg>Potete utilizzare la barra degli strumenti &lt;f0&gt;Opzioni&lt;/f0&gt; per attivare o disattivare varie opzioni di aiuto al disegno.</seg>
       </tuv>
     </tu>
     <tu>
