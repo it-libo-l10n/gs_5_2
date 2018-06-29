@@ -10996,6 +10996,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In LibreOffice Draw, the maximum size of a drawing is 300 cm by 300 cm.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T065725Z" creationid="manuel" creationdate="20180629T065725Z">
+        <seg>In LibreOffice Draw, la dimensione massima di un disegno è 300 cm per 300 cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In LibreOffice, select &lt;f0&gt;Tools &gt; Extension Manager&lt;/f0&gt; from the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160450Z" creationid="manuel" creationdate="20180615T160450Z">
@@ -17746,6 +17754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161605Z" creationid="manuel" creationdate="20180615T161605Z">
         <seg>La prossima volta che create un documento di questo tipo da &lt;f0&gt;File &gt; Nuovo,&lt;/f0&gt; il documento verrà creato a partire da questo modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The number and position of the visible tools vary with the task in hand and user preferences, therefore your setup may look different from Figure &lt;t0&gt;163&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T065647Z" creationid="manuel" creationdate="20180629T065647Z">
+        <seg>Il numero e la posizione degli strumenti visibili varia in relazione al lavoro che si sta eseguendo ed alle preferenze dell'utente, quindi la vostra impostazione di schermata potrebbe apparire diversa dalla Figura &lt;t0&gt;163&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
