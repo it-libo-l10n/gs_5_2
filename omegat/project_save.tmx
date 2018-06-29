@@ -2856,6 +2856,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A layer is a workspace where you insert your drawings elements and objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T095401Z" creationid="manuel" creationdate="20180629T095401Z">
+        <seg>Un livello è un area di lavoro dove inserite elementi ed oggetti di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A librarian might call up information about books.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164555Z" creationid="manuel" creationdate="20180628T164555Z">
@@ -12140,6 +12148,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Layers bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T095259Z" creationid="manuel" creationdate="20180629T095259Z">
+        <seg>Barra dei livelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Let LibreOffice use the video card GPU to perform numerical calculation with great speed gain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140524Z" creationid="manuel" creationdate="20180608T140524Z">
@@ -19474,6 +19490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082156Z" creationid="manuel" creationdate="20180530T082156Z">
         <seg>Per caricare &lt;i0/&gt;Quickstart all'avvio del computer, selezionate l'opzione in fondo alla finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make changes to the page order, drag and drop one or more pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T095237Z" creationid="manuel" creationdate="20180629T095237Z">
+        <seg>Per modificare l'ordine delle pagine trascinate e rilasciate una o più pagine.</seg>
       </tuv>
     </tu>
     <tu>
