@@ -7508,6 +7508,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;164&lt;/seq0&gt;: Rulers showing size of a selected object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105231Z" creationid="manuel" creationdate="20180629T105231Z">
+        <seg>Figura &lt;seq0&gt;164&lt;/seq0&gt;: i righelli mostrano la dimensione dell'oggetto selezionato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;165&lt;/seq0&gt;: Ruler units</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105318Z" creationid="manuel" creationdate="20180629T105318Z">
+        <seg>Figura &lt;seq0&gt;165&lt;/seq0&gt;: unità di misura dei righelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;166&lt;/seq0&gt;: Draw status bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105339Z" creationid="manuel" creationdate="20180629T105339Z">
+        <seg>Figura &lt;seq0&gt;166&lt;/seq0&gt;: la barra di stato di Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083955Z" creationid="manuel" creationdate="20180530T083955Z">
@@ -17798,6 +17822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The margin area is indicated by the grayed out area on the rulers as shown in Figure &lt;t0&gt;164&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105228Z" creationid="manuel" creationdate="20180629T105228Z">
+        <seg>L'area del margine è indicata dall'area in grigio sui righelli, come mostrato in Figura &lt;t0&gt;164&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The menu has the most important paragraph and character styles for almost every text document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160045Z" creationid="manuel" creationdate="20180611T160045Z">
@@ -17946,6 +17978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160510Z" creationid="manuel" creationdate="20180615T160510Z">
         <seg>Si avvia l'installazione del pacchetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The page margins in the drawing area are also represented on the rulers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105152Z" creationid="manuel" creationdate="20180629T105152Z">
+        <seg>Sui righelli sono anche riportati i margini della pagina nell'area di disegno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21384,6 +21424,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When no object is selected, they show the location of the mouse pointer, which helps to position drawing objects more accurately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105128Z" creationid="manuel" creationdate="20180629T105128Z">
+        <seg>Quando nessun oggetto risulta selezionato, essi mostrano la posizione del puntatore del mouse, cosa che aiuta a posizionare più accuratamente gli oggetti disegnati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When opening files stored in a remote server, you may be asked to enter your user name and password to log in the server.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T193319Z" creationid="Marco Marega" creationdate="20180621T193319Z">
@@ -22240,6 +22288,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also use the rulers to manage object handles and guide lines, making it easier to position objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105130Z" creationid="manuel" creationdate="20180629T105130Z">
+        <seg>Potete anche utilizzare i righelli per gestire le maniglie e le linee guida di un oggetto, facilitandovi il posizionamento degli oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also work with drawings directly from within Writer or Impress, using a subset of the functions and tools from &lt;f0&gt;Draw&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060528Z" creationid="manuel" creationdate="20180629T060528Z">
@@ -22284,6 +22340,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170130Z" creationid="manuel" creationdate="20180608T170130Z">
         <seg>Potete modificare alcuni dettagli delle impostazioni locali e della lingua usate da LibreOffice per tutti i documenti o per documenti specifici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the margins directly on the rulers by dragging them with the mouse.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105157Z" creationid="manuel" creationdate="20180629T105157Z">
+        <seg>Potete cambiare i margini direttamente dai righelli trascinandoli con il mouse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23076,6 +23140,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164035Z" creationid="manuel" creationdate="20180608T164035Z">
         <seg>Dovete attivare questa opzione &lt;f0&gt;prima&lt;/f0&gt; di creare la macro di LibreOffice Basic; altrimenti lo script non verrà inserito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should &lt;i0/&gt;see rulers (bars with numbers) on the upper and left-hand sides of the workspace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105110Z" creationid="manuel" creationdate="20180629T105110Z">
+        <seg>Dovreste &lt;i0/&gt;vedere i righelli (barre con numeri) sui lati superiore e sinistro dello spazio di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
