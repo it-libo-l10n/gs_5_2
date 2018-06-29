@@ -17542,6 +17542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The large area in the center of the window (Workspace) is where you create your drawings and this drawing area can be surrounded with toolbars and information areas.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T065311Z" creationid="manuel" creationdate="20180629T065311Z">
+        <seg>L'ampia area al centro della finestra (area di lavoro) è il luogo in cui si creano i disegni e questa area di disegno può essere circondata da barre degli strumenti e aree di informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The last marked selection is the content of the selection clipboard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055313Z" creationid="manuel" creationdate="20180531T055313Z">
@@ -17626,6 +17634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T144948Z" creationid="manuel" creationdate="20180621T144948Z">
         <seg>Il vantaggio principale di modificare la lingua per un testo selezionato è che potete utilizzare il dizionario appropriato per il controllo ortografico e applicare le versioni localizzate delle tabelle di sostituzione, del dizionario, della grammatica e della sillabazione della Correzione automatica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main components of &lt;i0/&gt;the&lt;i1/&gt; Draw main window are shown in Figure &lt;t2&gt;163&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T065159Z" creationid="manuel" creationdate="20180629T065159Z">
+        <seg>I componenti principali &lt;i0/&gt;della&lt;i1/&gt; finestra principale di Draw sono mostrati nella Figura &lt;t2&gt;163&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
