@@ -2808,6 +2808,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A few examples of the drawing functions are: layer management, magnetic grid-point system, dimensions and measurement display, connectors for making organization charts, 3D functions that enable small three-dimensional drawings to be created (with texture and lighting effects), drawing and page-style integration, and Bézier curves.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060646Z" creationid="manuel" creationdate="20180629T060646Z">
+        <seg>Alcuni esempi delle funzioni di disegno sono: gestione dei livelli, griglia magnetica, visualizzazione di dimensioni e misure, connettori per creare organigrammi, funzioni 3D per creare piccoli disegni tridimensionali (con trame ed effetti di luce), integrazione di disegni e stili di pagina, e le curve di Bézier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A footer appears at the bottom of the page below the margin.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T093438Z" creationid="manuel" creationdate="20180627T093438Z">
@@ -17430,6 +17438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The functionality of LibreOffice Draw is extensive and, even though it was not designed to rival high-end graphics applications, it possesses more functionality than the drawing tools that are generally integrated with most office productivity suites.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060626Z" creationid="manuel" creationdate="20180629T060626Z">
+        <seg>LibreOffice Draw possiede estese funzionalità e, anche se non è stato progettato per rivaleggiare con applicazioni grafiche più sofisticate, possiede una quantità di funzioni superiore a molti programmi di disegno integrati in altre suite per la produttività d'ufficio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The gray sections of the rulers are the margins.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103814Z" creationid="manuel" creationdate="20180627T103814Z">
@@ -18330,6 +18346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131209Z" creationid="Marco Marega" creationdate="20180623T130951Z">
         <seg>Questo può risparmiare diversi clic e ripetute navigazioni all'interno dei menu o diverse pressioni di combinazioni di tasti, specialmente quando il comando si trova in un menu secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This chapter introduces some features of Draw and does not attempt to cover all of the Draw features.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060655Z" creationid="manuel" creationdate="20180629T060655Z">
+        <seg>Questo capitolo ha lo scopo di presentare alcune delle caratteristiche di Draw, ma non le coprirà tutte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22020,6 +22044,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134056Z" creationid="Marco Marega" creationdate="20180623T134056Z">
         <seg>Potete anche usare i seguenti tasti di scelta rapida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also work with drawings directly from within Writer or Impress, using a subset of the functions and tools from &lt;f0&gt;Draw&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060528Z" creationid="manuel" creationdate="20180629T060528Z">
+        <seg>Potete anche disegnare direttamente in Writer o Impress, usando alcune delle funzioni e degli strumenti di &lt;f0&gt;Draw&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
