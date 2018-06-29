@@ -16677,6 +16677,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Pages&lt;/f0&gt; pane gives an overview of the pages that you create in your drawing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T094522Z" creationid="manuel" creationdate="20180629T094522Z">
+        <seg>Il riquadro &lt;f0&gt;Pagine&lt;/f0&gt; offre una panoramica delle pagine che create nel vostro disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Read-only&lt;/f0&gt; option on the Open dialog opens the file for reading and printing only.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123342Z" creationid="Marco Marega" creationdate="20180623T123342Z">
