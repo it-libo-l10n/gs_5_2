@@ -10388,6 +10388,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they are not visible, you can enable them by selecting &lt;f1&gt;View &gt; Ruler&lt;/f1&gt; in the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T170046Z" creationid="manuel" creationdate="20180630T170046Z">
+        <seg>Se non sono visibili, potete abilitarli selezionando &lt;f1&gt;Visualizza &gt; Righello&lt;/f1&gt; dalla barra dei menu principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they are not, use &lt;f0&gt;Edit &gt; Find &amp;&lt;/f0&gt; &lt;f1&gt;Replace&lt;/f1&gt; to replace old styles with new ones.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T100221Z" creationid="manuel" creationdate="20180616T100221Z">
@@ -18210,6 +18218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T145756Z" creationid="manuel" creationdate="20180531T075936Z">
         <seg>I risultati della combinazione di queste selezioni sono mostrati nella Tabella &lt;t3&gt;15&lt;/t3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rulers show the size of a selected object on the page using double lines (highlighted in Figure &lt;t2&gt;164&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T170136Z" creationid="manuel" creationdate="20180630T170136Z">
+        <seg>I righelli mostrano la dimensione di un oggetto selezionato nella pagina usando le doppie linee (evidenziate in Figura &lt;t2&gt;164&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
