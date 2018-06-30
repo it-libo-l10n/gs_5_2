@@ -19342,6 +19342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the measurement units of the rulers, which can be defined independently, right-click on a ruler and select the measurement unit from the drop down list, as illustrated for the horizontal ruler in Figure &lt;t0&gt;165&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T170601Z" creationid="manuel" creationdate="20180630T170601Z">
+        <seg>Per modificare le unità di misura dei righelli, che possono essere definite in modo indipendente, fate clic con il pulsante destro del mouse su un righello e selezionate l'unità di misura dall'elenco a discesa, come illustrato per il righello orizzontale in Figura &lt;t0&gt;165&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the minimum number of characters for hyphenation, &lt;f0&gt;or&lt;/f0&gt; the minimum number of characters before &lt;f1&gt;or after &lt;/f1&gt;a line break, select the item, and then click the &lt;f2&gt;Edit&lt;/f2&gt; button in the Options section.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084924Z" creationid="manuel" creationdate="20180627T084924Z">
