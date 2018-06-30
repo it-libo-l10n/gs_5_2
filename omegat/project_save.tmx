@@ -14109,6 +14109,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens sub-sections for object properties that you can change to suit your requirements.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T150340Z" creationid="manuel" creationdate="20180630T150340Z">
+        <seg>Apre sottosezioni per le proprietà dell'oggetto che potete modificare in base alle vostre esigenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Optional (unstable) options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065108Z" creationid="manuel" creationdate="20180608T065108Z">
