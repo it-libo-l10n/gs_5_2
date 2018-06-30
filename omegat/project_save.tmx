@@ -2759,6 +2759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A copy of an object is independent of the original object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151517Z" creationid="manuel" creationdate="20180630T151517Z">
+        <seg>Una copia di un oggetto è indipendente dall'oggetto originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A copy of the document that is currently stored in the file system is loaded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T132257Z" creationid="Marco Marega" creationdate="20180623T132257Z">
@@ -2868,6 +2876,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164555Z" creationid="manuel" creationdate="20180628T164555Z">
         <seg>Ad esempio, un bibliotecario potrebbe utilizzare un formulario per recuperare le informazioni sui libri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A link remains dependent on the original object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151608Z" creationid="manuel" creationdate="20180630T151608Z">
+        <seg>Un collegamento rimane dipendente dall'oggetto originale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4486,6 +4502,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160801Z" creationid="manuel" creationdate="20180616T160801Z">
         <seg>Annotazione delle modifiche durante le revisioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changes to the original object have no effect on the copy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151536Z" creationid="manuel" creationdate="20180630T151536Z">
+        <seg>Le modifiche all'oggetto originale non hanno alcun effetto sulla copia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9612,6 +9636,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can edit and apply image styles to objects within your drawing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151331Z" creationid="manuel" creationdate="20180630T151331Z">
+        <seg>Qui potete modificare e applicare gli stili di immagine agli oggetti all'interno del vostro disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can select a color from the window on the left, or you can enter values on the right using your choice of RGB, CMYK, or HSB (Hue, Saturation and Brightness) values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072618Z" creationid="manuel" creationdate="20180531T072618Z">
@@ -14113,6 +14145,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180630T150340Z" creationid="manuel" creationdate="20180630T150340Z">
         <seg>Apre sottosezioni per le proprietà dell'oggetto che potete modificare in base alle vostre esigenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the Drawing gallery where you can insert an object into your drawing either as a copy or as a link.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151455Z" creationid="manuel" creationdate="20180630T151455Z">
+        <seg>Apre la galleria di disegno in cui potete inserire un oggetto nel disegno come copia o come collegamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21708,6 +21748,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084241Z" creationid="manuel" creationdate="20180628T084241Z">
         <seg>Nella creazione di un documento, utilizzate i seguenti stili di paragrafo per i diversi livelli di intestazione (come ad esempio titoli di capitoli e di sezioni): &lt;f0&gt;Intestazione 1&lt;/f0&gt;, &lt;f1&gt;Intestazione 2&lt;/f1&gt;, &lt;f2&gt;Intestazione 3&lt;/f2&gt;, e così via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you edit a style, the changes are automatically applied to all of the elements formatted with this image style in your drawing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151410Z" creationid="manuel" creationdate="20180630T151410Z">
+        <seg>Quando modificate uno stile, le modifiche vengono applicate automaticamente a tutti gli elementi formattati con questo stile di immagine nel vostro disegno.</seg>
       </tuv>
     </tu>
     <tu>
