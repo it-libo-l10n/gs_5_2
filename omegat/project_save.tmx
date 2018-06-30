@@ -16629,6 +16629,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Styles and Formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151253Z" creationid="manuel" creationdate="20180630T151253Z">
+        <seg>Stili e formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Styles and Formatting window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160619Z" creationid="manuel" creationdate="20180611T160619Z">
@@ -18194,6 +18202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190821Z" creationid="Marco Marega" creationdate="20180620T190821Z">
         <seg>La barra di stato è posizionata nella parte inferiore dello spazio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The sub-sections are &lt;f0&gt;Insert Shapes&lt;/f0&gt;, &lt;f1&gt;Character&lt;/f1&gt;, &lt;f2&gt;Paragraph&lt;/f2&gt;, &lt;f3&gt;Area&lt;/f3&gt;, &lt;f4&gt;Line&lt;/f4&gt;, and &lt;f5&gt;Position and Size&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151238Z" creationid="manuel" creationdate="20180630T151238Z">
+        <seg>Le sottosezioni sono &lt;f0&gt;Inserisci forme&lt;/f0&gt;, &lt;f1&gt;Carattere&lt;/f1&gt;, &lt;f2&gt;Paragrafo&lt;/f2&gt;, &lt;f3&gt;Area&lt;/f3&gt;, &lt;f4&gt;Linea&lt;/f4&gt; e &lt;f5&gt;Posizione e dimensioni&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
