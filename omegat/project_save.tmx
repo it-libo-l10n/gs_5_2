@@ -17334,6 +17334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Status bar is located at the bottom of the workspace in all LibreOffice components.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T170646Z" creationid="manuel" creationdate="20180630T170646Z">
+        <seg>La Barra di stato è localizzata nella parte inferiore dell'area di lavoro in tutti i componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Style dialog displayed depends on the type of style selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160556Z" creationid="manuel" creationdate="20180612T160556Z">
