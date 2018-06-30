@@ -12052,6 +12052,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is recommended to give pages and objects in your drawing meaningful names so that you can easily identify them when using the Navigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T165940Z" creationid="manuel" creationdate="20180630T165940Z">
+        <seg>Si consiglia di assegnare pagine e oggetti a nomi significativi del disegno in modo che possiate identificarli facilmente quando si utilizza il Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is similar in Writer, Calc, Impress, and Draw, but each LibreOffice component includes some component-specific items.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191000Z" creationid="Marco Marega" creationdate="20180620T191000Z">
