@@ -4506,6 +4506,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changes to the original object are also reflected in the link.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151630Z" creationid="manuel" creationdate="20180630T151630Z">
+        <seg>Le modifiche all'oggetto originale si riflettono anche nel collegamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changes to the original object have no effect on the copy.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151536Z" creationid="manuel" creationdate="20180630T151536Z">
@@ -14153,6 +14161,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151455Z" creationid="manuel" creationdate="20180630T151455Z">
         <seg>Apre la galleria di disegno in cui potete inserire un oggetto nel disegno come copia o come collegamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the Drawing navigator, in which you can quickly move between pages in your drawing or select an object on the drawing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151711Z" creationid="manuel" creationdate="20180630T151711Z">
+        <seg>Apre il navigatore Disegno, in cui potete spostarvi rapidamente tra le pagine del disegno o selezionare un oggetto sul disegno.</seg>
       </tuv>
     </tu>
     <tu>
