@@ -12917,6 +12917,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Line style, line width, and line color can also be changed using the controls in the Line and Filling toolbar at the top of the workspace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T173139Z" creationid="manuel" creationdate="20180703T173139Z">
+        <seg>Lo stile, la larghezza e il colore della linea possono essere modificati anche usando i controlli sulla barra degli strumenti Stile e riempimento, nella parte alta dello spazio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lines will automatically be drawn at a multiple of 45 degrees &lt;f5&gt;unless&lt;/f5&gt; the &lt;f6&gt;Shift&lt;/f6&gt; key is pressed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T173023Z" creationid="manuel" creationdate="20180703T173023Z">
+        <seg>Le linee verranno automaticamente disegnate a multipli di 45 gradi &lt;f5&gt;a meno che&lt;/f5&gt; il tasto &lt;f6&gt;Maiusc&lt;/f6&gt; sia premuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linking &lt;f0&gt;and cross-referencing within&lt;/f0&gt; a document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155620Z" creationid="manuel" creationdate="20180628T155620Z">
@@ -19262,6 +19278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This lets you draw lines by starting from the middle of the line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T173040Z" creationid="manuel" creationdate="20180703T173040Z">
+        <seg>In questo modo è possibile tracciare delle linee partendo dal punto centrale della linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This lets you quickly navigate to the target folder or remote server.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124119Z" creationid="Marco Marega" creationdate="20180623T124119Z">
@@ -22020,6 +22044,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152507Z" creationid="manuel" creationdate="20180608T152507Z">
         <seg>Quando un file salvato in ODF 1.2 Esteso viene aperto con un editor che utilizza versioni precedenti di ODF (1.0/1.1), alcune delle caratteristiche avanzate potrebbero perdersi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a line is drawn, it uses default attributes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T173050Z" creationid="manuel" creationdate="20180703T173050Z">
+        <seg>Quando viene tracciata una linea, essa assume attributi predefiniti.</seg>
       </tuv>
     </tu>
     <tu>
