@@ -10004,6 +10004,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if the &lt;f1&gt;Snap to Grid&lt;/f1&gt; option on the &lt;f2&gt;View &gt; Grid&lt;/f2&gt; menu has been selected, the &lt;f3&gt;Ctrl&lt;/f3&gt; key deactivates the snap to grid activity.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T172633Z" creationid="manuel" creationdate="20180703T172633Z">
+        <seg>Invece, se è selezionata l'opzione &lt;f1&gt;Cattura alla griglia&lt;/f1&gt; nel menu &lt;f2&gt;Visualizza &gt; Griglia&lt;/f2&gt;, il tasto &lt;f3&gt;Ctrl&lt;/f3&gt; disattiva l'attività di cattura alla griglia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if the option &lt;f1&gt;When creating or moving objects&lt;/f1&gt; in the &lt;f2&gt;Snap position&lt;/f2&gt; section of &lt;f3&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f3&gt; has been selected, the action of the &lt;f4&gt;Shift&lt;/f4&gt; key is the opposite.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T172935Z" creationid="manuel" creationdate="20180703T172935Z">
+        <seg>Invece, se è selezionata l'opzione &lt;f1&gt;Nella creazione e nel movimento oggetti&lt;/f1&gt; nella sezione &lt;f2&gt;Posizione aggancio&lt;/f2&gt; in &lt;f3&gt;Strumenti &gt; Opzioni &gt; LibreOffice Draw &gt; Griglia&lt;/f3&gt;, l'azione del tasto &lt;f4&gt;Maiusc&lt;/f4&gt; è quella opposta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, it does not affect the actual font size of the text in your documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084112Z" creationid="manuel" creationdate="20180530T084112Z">
@@ -19226,6 +19242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T172452Z" creationid="manuel" creationdate="20180703T172452Z">
         <seg>Questo è il comportamento predefinito del tasto &lt;f0&gt;Ctrl&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the default behavior of the &lt;f0&gt;Shift&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T172643Z" creationid="manuel" creationdate="20180703T172643Z">
+        <seg>Questo è il comportamento predefinito del tasto &lt;f0&gt;Maiusc&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
