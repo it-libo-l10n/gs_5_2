@@ -1711,6 +1711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Controls&lt;/f0&gt;: This layer is always on the top of any other.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T160517Z" creationid="manuel" creationdate="20180703T160517Z">
+        <seg>&lt;f0&gt;Controlli&lt;/f0&gt;: questo livello è sempre in cima a qualsiasi altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Create New Folder&lt;/f0&gt; – creates a new sub-folder in the folder that is displayed in the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123131Z" creationid="Marco Marega" creationdate="20180623T123131Z">
@@ -1987,6 +1995,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T105947Z" creationid="manuel" creationdate="20180626T105947Z">
         <seg>&lt;f0&gt;Include anche i codici per l'inserimento di caratteri speciali, emoji e altri simboli.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Layout&lt;/f0&gt;: Here you place title, text, and object placeholders on your page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T160445Z" creationid="manuel" creationdate="20180703T160445Z">
+        <seg>&lt;f0&gt;Layout&lt;/f0&gt;: qui posizionate titolo, testo e segnaposti oggetto sulla pagina.</seg>
       </tuv>
     </tu>
     <tu>
