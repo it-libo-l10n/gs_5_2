@@ -8572,6 +8572,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more detailed description of color palettes and their options, see&lt;f0&gt; &lt;/f0&gt;Chapter 11, Advanced Draw Techniques, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164147Z" creationid="manuel" creationdate="20180703T164147Z">
+        <seg>Per una descrizione più dettagliata delle tavolozze dei colori e delle relative opzioni, si veda il &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Capitolo 8 (Trucchi e suggerimenti)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; nella &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Guida a Draw&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a more detailed explanation, select &lt;f0&gt;Help &gt; What's This?&lt;/f0&gt; and hold the pointer over the icon.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170345Z" creationid="Elisabetta Manuele" creationdate="20180625T170345Z">
@@ -9070,8 +9078,8 @@
       <tuv lang="EN">
         <seg>For more information on layers, see&lt;f0&gt; &lt;/f0&gt;Chapter 11, Advanced Draw Techniques, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T162944Z" creationid="manuel" creationdate="20180703T162944Z">
-        <seg>Per maggiori informazioni, vedere&lt;f0&gt; &lt;/f0&gt;il Capitolo 11 ( Draw tecniche avanzate) &lt;f1&gt;nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw.&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164243Z" creationid="manuel" creationdate="20180703T162944Z">
+        <seg>Per maggiori informazioni, vedere il&lt;f0&gt; &lt;/f0&gt;Capitolo 11 ( Draw tecniche avanzate) &lt;f1&gt;nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
