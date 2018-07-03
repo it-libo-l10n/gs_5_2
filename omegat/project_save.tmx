@@ -4298,6 +4298,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, it is docked vertically on the left side of the Draw window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T144536Z" creationid="manuel" creationdate="20180703T144536Z">
+        <seg>Per impostazione predefinita, è ancorato verticalmente sul lato sinistro della finestra di Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, it is located just under the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T144431Z" creationid="manuel" creationdate="20180703T144431Z">
+        <seg>Per impostazione predefinita, si trova proprio sotto la barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, tables of contents use Heading styles, but you can use whatever combination of styles you prefer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170715Z" creationid="manuel" creationdate="20180615T170715Z">
@@ -18430,6 +18446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tools available in the Draw toolbars are &lt;f0&gt;describ&lt;/f0&gt;ed &lt;f1&gt;below&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T144330Z" creationid="manuel" creationdate="20180703T144330Z">
+        <seg>Di seguito sono spiegati gli strumenti disponibili nelle barre degli strumenti di Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two boxes below list the OpenCL drivers whitelist and blacklist.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140621Z" creationid="manuel" creationdate="20180608T140621Z">
@@ -19576,8 +19600,8 @@
       <tuv lang="EN">
         <seg>To display or hide the various &lt;i0/&gt;Draw toolbars&lt;i1/&gt;, go to &lt;f2&gt;View &gt; Toolbars&lt;/f2&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T144119Z" creationid="manuel" creationdate="20180703T144119Z">
-        <seg>Per visualizzare o nascondere le varie &lt;i0/&gt;barre degli strumenti di Draw&lt;i1/&gt;, nalla barra del Menu andate in &lt;f2&gt;Visualizza &gt; Barre degli strumenti&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T144443Z" creationid="manuel" creationdate="20180703T144119Z">
+        <seg>Per visualizzare o nascondere le varie &lt;i0/&gt;barre degli strumenti di Draw&lt;i1/&gt;, nalla barra dei menu andate in &lt;f2&gt;Visualizza &gt; Barre degli strumenti&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
