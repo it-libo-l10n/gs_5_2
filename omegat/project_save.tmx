@@ -15757,6 +15757,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See “Color options” in Chapter 2, Setting Up LibreOffice, in this guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163741Z" creationid="manuel" creationdate="20180703T163741Z">
+        <seg>Vedere “Opzioni colore” nel Capitolo 2 (Configurare LibreOffice) in questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Auto&lt;/f0&gt; and the timing of the pause between slide shows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090035Z" creationid="luke" creationdate="20180515T090035Z">
@@ -23436,6 +23444,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154503Z" creationid="manuel" creationdate="20180628T154503Z">
         <seg>Potete usare diversi modi per &lt;i0/&gt;rilevare le modifiche apportate a un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use the color schemes known as &lt;is0/&gt;CMYK&lt;ie1/&gt; (Cyan, Magenta, Yellow, Black) or &lt;is2/&gt;RGB&lt;ie3/&gt; (Red, Green, Blue).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163705Z" creationid="manuel" creationdate="20180703T163705Z">
+        <seg>Potete utilizzare gli schemi di colore conosciuti come &lt;is0/&gt;CMYK&lt;ie1/&gt; (Cyano, Magenta, Giallo, Nero) oppure &lt;is2/&gt;RGB&lt;ie3/&gt; (Rosso, Verde, Blu).</seg>
       </tuv>
     </tu>
     <tu>
