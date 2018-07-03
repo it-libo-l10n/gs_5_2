@@ -8956,6 +8956,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example,&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;web.soc&lt;/f3&gt; is a color palette that is adapted to creating drawings for placing in web pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163513Z" creationid="manuel" creationdate="20180703T163513Z">
+        <seg>Per esempio,&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;web.soc&lt;/f3&gt; è una tavolozza di colori adatta a creare disegni da utilizzare nella realizzazione di pagine web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For full details about themes, visit the Mozilla website: &lt;a6&gt;http&lt;/a6&gt;&lt;a7&gt;s&lt;/a7&gt;&lt;a8&gt;://www.&lt;/a8&gt;&lt;a9&gt;https://addons.mozilla.org/en-US/firefox/themes/&lt;/a9&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093458Z" creationid="manuel" creationdate="20180606T093458Z">
@@ -17686,6 +17694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The color selection box also lets you individually change any color by modifying the numerical values in the fields provided to the right of the color palette.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163556Z" creationid="manuel" creationdate="20180703T163556Z">
+        <seg>La scheda di selezione colori vi permette anche di cambiare individualmente qualsiasi colore modificando il valore numerico nei campi localizzati alla destra della tavolozza dei colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The color window on the left is linked directly with the color input fields on the right; as you choose a color in the window, the numbers change accordingly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072621Z" creationid="manuel" creationdate="20180531T072621Z">
@@ -17898,6 +17914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085934Z" creationid="luke" creationdate="20180515T085934Z">
         <seg>The fields you can use in Impress are as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The file selector dialog asks you to choose one of the standard LibreOffice palettes (files with the file extension&lt;f1&gt; *.soc&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163425Z" creationid="manuel" creationdate="20180703T163425Z">
+        <seg>La finestra di dialogo del selettore dei file permette di scegliere una delle tavolozze colori predefinite di LibreOffice (questi file hanno estensione &lt;f1&gt;*.soc&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18810,6 +18834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070207Z" creationid="manuel" creationdate="20180531T070207Z">
         <seg>Questi colori sono salvati nella vostra tavola dei colori e sono quindi disponibili in tutti i componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These colors will display correctly on workstations with screens capable of at least 256 colors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163525Z" creationid="manuel" creationdate="20180703T163525Z">
+        <seg>Questi colori saranno correttamente rappresentati su computer con schermi in grado di visualizzare almeno 256 colori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20058,6 +20090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164529Z" creationid="manuel" creationdate="20180628T164529Z">
         <seg>Collegare il formulario ad un database o ad una sorgente dati in modo da consentire ad un utente di inserirvi le informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To load another palette, click on the &lt;f0&gt;Load Color List&lt;/f0&gt; icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163346Z" creationid="manuel" creationdate="20180703T163346Z">
+        <seg>Per caricare una diversa tavolozza dei colori, fate clic sull'icona &lt;f0&gt;Carica lista colori&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
