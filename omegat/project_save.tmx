@@ -18038,6 +18038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The measurement unit on the Status bar is defined in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f0&gt;, where you can also change the scale of the page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143825Z" creationid="manuel" creationdate="20180703T143825Z">
+        <seg>L'unità di misura sulla barra di stato è definita in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Draw &gt; Generale&lt;/f0&gt;, dove potete anche cambiare la scala della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The menu has the most important paragraph and character styles for almost every text document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160045Z" creationid="manuel" creationdate="20180611T160045Z">
@@ -18282,6 +18290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135319Z" creationid="manuel" creationdate="20180609T135319Z">
         <seg>La lista di regole disponibili per questi controlli dipende dalla lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The sizes are given in the current measurement unit.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143714Z" creationid="manuel" creationdate="20180703T143714Z">
+        <seg>Le dimensioni sono espresse nell'unità di misura corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18706,6 +18722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143431Z" creationid="manuel" creationdate="20180611T143431Z">
         <seg>Questi utenti sono abituati a redigere documenti considerandone le caratteristiche &lt;f0&gt;fisiche&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They might not be the same as the ruler units.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143732Z" creationid="manuel" creationdate="20180703T143732Z">
+        <seg>Potrebbero non essere uguali alle unità del righello.</seg>
       </tuv>
     </tu>
     <tu>
