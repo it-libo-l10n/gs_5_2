@@ -2655,6 +2655,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Draw document contains three default layers that you cannot delete or rename.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154753Z" creationid="manuel" creationdate="20180703T154753Z">
+        <seg>Un documento di disegno contiene tre livelli predefiniti che non è possibile eliminare o rinominare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A LibreOffice document contains certain settings that are read from the user’s system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142907Z" creationid="manuel" creationdate="20180608T142907Z">
@@ -2860,6 +2868,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T081428Z" creationid="manuel" creationdate="20180609T081428Z">
         <seg>Un layout di tastiera è normalmente basato sulla lingua utilizzata dal sistema operativo ma può essere modificato dall'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A layer can be set to visible or hidden, it can be printable or not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154711Z" creationid="manuel" creationdate="20180703T154711Z">
+        <seg>Un livello può essere impostato su visibile o nascosto, può essere stampabile o meno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9676,6 +9692,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here are the common ways of using them:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154818Z" creationid="manuel" creationdate="20180703T154818Z">
+        <seg>Ecco i modi comuni di usarli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here is one common example.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101621Z" creationid="manuel" creationdate="20180627T101621Z">
@@ -12360,6 +12384,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175945Z" creationid="Elisabetta Manuele" creationdate="20180627T175945Z">
         <seg>Laurent Duperval</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Layers are common to all pages of the drawing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154726Z" creationid="manuel" creationdate="20180703T154726Z">
+        <seg>I livelli sono comuni a tutte le pagine del disegno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17526,6 +17558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The area of a layer that does not contain an object is transparent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154614Z" creationid="manuel" creationdate="20180703T154614Z">
+        <seg>L'area di un livello che non contiene un oggetto è trasparente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The backup copy gets the extension BAK.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144437Z" creationid="manuel" creationdate="20180608T144437Z">
@@ -20848,6 +20888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use layers to create a complex drawing by stacking simpler drawings in each layer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154555Z" creationid="manuel" creationdate="20180703T154555Z">
+        <seg>Usate i livelli per creare un disegno complesso sovrapponendo disegni più semplici in ogni livello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use list (numbering) styles, as described in Chapter &lt;f0&gt;8&lt;/f0&gt;, Introduction to Styles, and Chapter &lt;f1&gt;9&lt;/f1&gt;, Working with Styles, in the &lt;f2&gt;Writer Guide&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164409Z" creationid="manuel" creationdate="20180626T164409Z">
@@ -22412,6 +22460,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063443Z" creationid="manuel" creationdate="20180626T063443Z">
         <seg>Potete aggiungere parole al dizionario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add any number of layers in a drawing document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154652Z" creationid="manuel" creationdate="20180703T154652Z">
+        <seg>Potete aggiungere qualsiasi numero di livelli in un documento di disegno.</seg>
       </tuv>
     </tu>
     <tu>
