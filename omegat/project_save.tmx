@@ -17830,6 +17830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The functions on this toolbar are also provided in the Properties pane of the sidebar when a drawing object is selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T144905Z" creationid="manuel" creationdate="20180703T144905Z">
+        <seg>Le funzioni su questa barra degli strumenti sono fornite anche nel riquadro Proprietà della barra laterale quando viene selezionato un oggetto che si disegna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The gray sections of the rulers are the margins.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103814Z" creationid="manuel" creationdate="20180627T103814Z">
@@ -20740,6 +20748,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080341Z" creationid="manuel" creationdate="20180531T080341Z">
         <seg>Nella pagina &lt;i0/&gt;&lt;f1&gt;LibreOffice – Sicurezza&lt;/f1&gt; potete stabilire le opzioni di sicurezza per il salvataggio dei documenti e il caricamento di quei documenti che contengono macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;i0/&gt;the &lt;f1&gt;Line and Filling&lt;/f1&gt; toolbar to modify the main properties of a drawing object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T144739Z" creationid="manuel" creationdate="20180703T144739Z">
+        <seg>Usate &lt;i0/&gt;la barra degli strumenti &lt;f1&gt;Stile e riempimento&lt;/f1&gt; per modificare le principali proprietà dell'oggetto che si disegna.</seg>
       </tuv>
     </tu>
     <tu>
