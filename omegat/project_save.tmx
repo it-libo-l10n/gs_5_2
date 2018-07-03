@@ -1759,6 +1759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Dimension lines&lt;/f0&gt;: Here you place the dimension lines for your object, if relevant.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T160734Z" creationid="manuel" creationdate="20180703T160734Z">
+        <seg>&lt;f0&gt;Linee di quotatura&lt;/f0&gt;: qui posizionate le linee di quotatura per il proprio oggetto, se rilevante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Document type.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152729Z" creationid="manuel" creationdate="20180608T152729Z">
@@ -9752,6 +9760,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T140837Z" creationid="manuel" creationdate="20180609T140837Z">
         <seg>Qui potete indicare un indirizzo (URL) e le informazioni di login per un wiki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you put buttons and other controls of your drawing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T160614Z" creationid="manuel" creationdate="20180703T160614Z">
+        <seg>Qui mettete pulsanti e altri controlli del vostro disegno.</seg>
       </tuv>
     </tu>
     <tu>
