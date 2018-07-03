@@ -3032,6 +3032,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A selection handle appears at each end of the line, showing that this object is the currently selected object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164924Z" creationid="manuel" creationdate="20180703T164924Z">
+        <seg>Una maniglia di selezione apparirà a ciascuna estremità della linea, ad indicare che questo è l'oggetto correntemente selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A short history of LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152526Z" creationid="Elisabetta Manuele" creationdate="20180625T152526Z">
@@ -5562,6 +5570,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Line&lt;/f0&gt; icon and place the cursor at the point where you want to start the line (Figure &lt;t1&gt;170&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164829Z" creationid="manuel" creationdate="20180703T164829Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Linea&lt;/f0&gt; e posizionate il cursore nel punto in cui volete iniziare la linea (Figura &lt;t1&gt;170&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the &lt;f0&gt;Remote Files&lt;/f0&gt; button in the Start Center</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T124624Z" creationid="Marco Marega" creationdate="20180622T124624Z">
@@ -6980,6 +6996,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag the mouse while keeping the mouse button pressed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164835Z" creationid="manuel" creationdate="20180703T164835Z">
+        <seg>Trascinate il mouse mentre tenete premuto il pulsante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dragging and dropping to create a style</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065211Z" creationid="manuel" creationdate="20180614T065211Z">
@@ -7032,6 +7056,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164445Z" creationid="manuel" creationdate="20180703T164445Z">
         <seg>Draw mette a disposizioni una larga scelta di forme, posizionate sulle tavolozze accessibili tramite la barra degli strumenti Disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drawing a straight line</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164736Z" creationid="manuel" creationdate="20180703T164736Z">
+        <seg>Disegnare una linea retta</seg>
       </tuv>
     </tu>
     <tu>
@@ -15037,6 +15069,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Release the mouse button at the point where you want to end the line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164914Z" creationid="manuel" creationdate="20180703T164914Z">
+        <seg>Rilasciate il pulsante del mouse nel punto in cui volete terminare la linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Release the mouse button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181957Z" creationid="Marco Marega" creationdate="20180620T181957Z">
@@ -16657,6 +16697,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173208Z" creationid="Elisabetta Manuele" creationdate="20180627T173208Z">
         <seg>Alcuni tasti e voci di menu di Mac sono diversi da quelli utilizzati in ambienti Windows e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some of the icons on the Drawing toolbar will change according to the shape that has been selected from the choices available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164720Z" creationid="manuel" creationdate="20180703T164720Z">
+        <seg>Alcune delle icone sulla barra degli strumenti Disegno cambiano a seconda della forma selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18506,6 +18554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T073448Z" creationid="manuel" creationdate="20180627T073448Z">
         <seg>L'impostazione selezionata viene applicata solo a quel righello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selection handle at the starting point of the line is slightly larger than the other selection handle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164931Z" creationid="manuel" creationdate="20180703T164931Z">
+        <seg>La maniglia di selezione nel punto iniziale della linea è leggermente più grande dell'altra maniglia di selezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22132,6 +22188,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084241Z" creationid="manuel" creationdate="20180628T084241Z">
         <seg>Nella creazione di un documento, utilizzate i seguenti stili di paragrafo per i diversi livelli di intestazione (come ad esempio titoli di capitoli e di sezioni): &lt;f0&gt;Intestazione 1&lt;/f0&gt;, &lt;f1&gt;Intestazione 2&lt;/f1&gt;, &lt;f2&gt;Intestazione 3&lt;/f2&gt;, e così via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you draw a basic shape or select one for editing, the &lt;f0&gt;Info&lt;/f0&gt; field at the left side in the status bar changes to reflect the present action: for example &lt;f1&gt;Line created&lt;/f1&gt;, &lt;f2&gt;Text frame xxyy selected&lt;/f2&gt;, and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164733Z" creationid="manuel" creationdate="20180703T164733Z">
+        <seg>Quando disegnate una forma base o ne selezionate una da modificare, il campo &lt;f0&gt;Info&lt;/f0&gt; posto a sinistra nella barra di stato cambia secondo l'azione intrapresa: ad esempio &lt;f1&gt;Linea creata&lt;/f1&gt;, &lt;f2&gt;Cornice di testo xxyy selezionata&lt;/f2&gt;, e così via.</seg>
       </tuv>
     </tu>
     <tu>
