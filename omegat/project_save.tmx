@@ -19222,6 +19222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is the default behavior of the &lt;f0&gt;Ctrl&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T172452Z" creationid="manuel" creationdate="20180703T172452Z">
+        <seg>Questo è il comportamento predefinito del tasto &lt;f0&gt;Ctrl&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is the first line of support for using LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165800Z" creationid="Elisabetta Manuele" creationdate="20180625T165800Z">
