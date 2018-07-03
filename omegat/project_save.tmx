@@ -3168,6 +3168,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding a layer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163000Z" creationid="manuel" creationdate="20180703T163000Z">
+        <seg>Aggiunta di un livello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding a trusted timestamp to an electronic signature on a PDF provides a digital seal of data integrity and a trusted date and time of when the file was signed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T153100Z" creationid="manuel" creationdate="20180606T081821Z">
@@ -9040,6 +9048,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T101603Z" creationid="manuel" creationdate="20180629T101603Z">
         <seg>Per maggiori informazioni sui livelli vedere “&lt;bf0&gt;Lavorare con i livelli&lt;/bf0&gt;“ a pagina &lt;bf1&gt;195&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on layers, see&lt;f0&gt; &lt;/f0&gt;Chapter 11, Advanced Draw Techniques, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T162944Z" creationid="manuel" creationdate="20180703T162944Z">
+        <seg>Per maggiori informazioni, vedere&lt;f0&gt; &lt;/f0&gt;il Capitolo 11 ( Draw tecniche avanzate) &lt;f1&gt;nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
