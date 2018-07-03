@@ -10996,6 +10996,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If&lt;i0/&gt; the selected object is text, the Sidebar shows relevant formatting choices in the Properties pane.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154022Z" creationid="manuel" creationdate="20180703T154022Z">
+        <seg>Se &lt;i0/&gt;l'oggetto selezionato è testo, la barra laterale mostra le scelte di formattazione rilevanti nel riquadro Proprietà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Illustrations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085718Z" creationid="luke" creationdate="20180515T085718Z">
