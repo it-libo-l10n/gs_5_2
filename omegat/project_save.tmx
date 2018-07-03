@@ -8524,6 +8524,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For details on the contents and use of these fields, see Chapter 1, Introducing LibreOffice, in this guide and&lt;f0&gt; &lt;/f0&gt;Chapter 1, Introducing Draw, in the &lt;f1&gt;Draw Guide.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143653Z" creationid="manuel" creationdate="20180703T143653Z">
+        <seg>Per dettagli sui contenuti e l'uso di questi campi, vedere il Capitolo 1 (Introduzione a LibreOffice) in questa guida e il&lt;f0&gt; &lt;/f0&gt;Capitolo 1 (Introduzione a Draw) nella &lt;f1&gt;Guida a Draw.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For details, consult the Help or the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071332Z" creationid="manuel" creationdate="20180618T071332Z">
@@ -12000,6 +12008,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200548Z" creationid="Marco Marega" creationdate="20180527T200548Z">
         <seg>Dispone, tra l'altro, di oltre 300 funzioni per calcoli finanziari, statistici e matematici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It includes several Draw-specific fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143528Z" creationid="manuel" creationdate="20180703T143528Z">
+        <seg>Include diversi campi specifici di Draw.</seg>
       </tuv>
     </tu>
     <tu>
