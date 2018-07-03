@@ -7028,6 +7028,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Draw provides a wide range of shapes, located in palettes accessed from the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164445Z" creationid="manuel" creationdate="20180703T164445Z">
+        <seg>Draw mette a disposizioni una larga scelta di forme, posizionate sulle tavolozze accessibili tramite la barra degli strumenti Disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drawing basic shapes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184412Z" creationid="Elisabetta Manuele" creationdate="20180620T184412Z">
@@ -8574,8 +8582,8 @@
       <tuv lang="EN">
         <seg>For a more detailed description of color palettes and their options, see&lt;f0&gt; &lt;/f0&gt;Chapter 11, Advanced Draw Techniques, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164147Z" creationid="manuel" creationdate="20180703T164147Z">
-        <seg>Per una descrizione più dettagliata delle tavolozze dei colori e delle relative opzioni, si veda il &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Capitolo 8 (Trucchi e suggerimenti)&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; nella &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Guida a Draw&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164426Z" creationid="manuel" creationdate="20180703T164147Z">
+        <seg>Per una descrizione più dettagliata delle tavolozze dei colori e delle relative opzioni, vedere il&lt;f0&gt; &lt;/f0&gt;Capitolo 11 (Draw tecniche avanzate) &lt;f1&gt;nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15669,6 +15677,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the &lt;f0&gt;Draw Guide&lt;/f0&gt; for a complete description of the shapes available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164614Z" creationid="manuel" creationdate="20180703T164614Z">
+        <seg>Vedere la &lt;f0&gt;Guida a Draw&lt;/f0&gt; per una descrizione completa delle forme disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the Help for more details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134317Z" creationid="manuel" creationdate="20180622T134317Z">
@@ -19266,6 +19282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083211Z" creationid="manuel" creationdate="20180528T083211Z">
         <seg>Questa sezione tratta alcune delle impostazioni comuni a tutti i componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This section describes only a few of the basic shapes, including text, which are treated as objects in Draw.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164557Z" creationid="manuel" creationdate="20180703T164557Z">
+        <seg>Questa sezione descrive solo alcune delle forme base, incluso il testo, che in Draw sono considerate come oggetti.</seg>
       </tuv>
     </tu>
     <tu>
