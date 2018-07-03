@@ -7660,6 +7660,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;168&lt;/seq0&gt;: Color bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163216Z" creationid="manuel" creationdate="20180703T163216Z">
+        <seg>Figura &lt;seq0&gt;168&lt;/seq0&gt;: la barra dei colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083955Z" creationid="manuel" creationdate="20180530T083955Z">
@@ -17902,6 +17910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first box corresponds to none (no color).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163205Z" creationid="manuel" creationdate="20180703T163205Z">
+        <seg>Il primo quadrato nel pannello corrisponde a nessuno (assenza di colore).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following examples of common use of page and paragraph styles are taken from Writer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143918Z" creationid="manuel" creationdate="20180616T143918Z">
@@ -22504,6 +22520,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can access several &lt;i0/&gt;specialized color palettes in Draw, as well as change individual colors to your own taste.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163257Z" creationid="manuel" creationdate="20180703T163257Z">
+        <seg>In Draw è possibile accedere a diverse &lt;i0/&gt;apposite tavolozze di colori, così come cambiare i singoli colori a piacimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add a word to the dictionary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063443Z" creationid="manuel" creationdate="20180626T063443Z">
@@ -23776,10 +23800,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>color palette</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163221Z" creationid="manuel" creationdate="20180703T163221Z">
+        <seg>tavola dei colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>color scheme</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100255Z" creationid="manuel" creationdate="20180606T100255Z">
         <seg>schema colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>colors</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163056Z" creationid="manuel" creationdate="20180703T163056Z">
+        <seg>Colori</seg>
       </tuv>
     </tu>
     <tu>
