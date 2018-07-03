@@ -4330,6 +4330,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the Options toolbar is not shown, but you can display it from the &lt;f1&gt;View &gt; Toolbars&lt;/f1&gt; menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154507Z" creationid="manuel" creationdate="20180703T154417Z">
+        <seg>Per impostazione predefinita, la barra degli strumenti Opzioni non viene visualizzata, ma potete visualizzarla dal menu &lt;f1&gt;Visualizza &gt; Barre degli strumenti&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, the Text Formatting toolbar is not shown, but you can display it from the &lt;f1&gt;View &gt; Toolbars&lt;/f1&gt; menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154434Z" creationid="manuel" creationdate="20180703T154256Z">
+        <seg>Per impostazione predefinita, la barra degli strumenti Formattazione testo non viene visualizzata, ma potete visualizzarla dal menu &lt;f1&gt;Visualizza &gt; Barre degli strumenti&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, toolbars will dock at the top of the workspace.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190126Z" creationid="Marco Marega" creationdate="20180620T190126Z">
@@ -10744,6 +10760,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T142420Z" creationid="manuel" creationdate="20180530T082043Z">
         <seg>Se vi accorgete che in un documento che &lt;t0/&gt;contiene molti oggetti questi sembrano scomparire, aumentate il numero di oggetti nella cache.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have enabled both the Line and Filling toolbar and the Text Formatting toolbar, Draw switches between them depending on what object is selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154351Z" creationid="manuel" creationdate="20180703T154351Z">
+        <seg>Se avete abilitato sia la barra degli strumenti Stile e riempimento che la barra degli strumenti Formattazione testo, Draw passa da una all'altra a seconda dell'oggetto selezionato.</seg>
       </tuv>
     </tu>
     <tu>
