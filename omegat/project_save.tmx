@@ -3328,6 +3328,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After drawing the line, you can change the arrow style by clicking on the &lt;f0&gt;Arrowheads&lt;/f0&gt; icon in the Line and Filling toolbar and select the arrow start and end options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T100901Z" creationid="manuel" creationdate="20180704T100901Z">
+        <seg>Dopo avere disegnato la linea, potete cambiare lo stile della freccia facendo clic sull'icona &lt;f0&gt;Stile estremità linea&lt;/f0&gt;, sulla barra degli strumenti Stile e riempimento, e selezionate poi le opzioni per le estremità della freccia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After selecting the additional grammar checks, you must restart LibreOffice, or reload the document, for them to take effect.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T100148Z" creationid="manuel" creationdate="20180609T100148Z">
@@ -7760,6 +7768,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095056Z" creationid="manuel" creationdate="20180704T095056Z">
         <seg>Figura &lt;seq0&gt;171&lt;/seq0&gt;: finestra di dialogo Linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;172&lt;/seq0&gt;: Arrows toolbar and available tools</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T100937Z" creationid="manuel" creationdate="20180704T100937Z">
+        <seg>Figura &lt;seq0&gt;172&lt;/seq0&gt;: barra degli strumenti Frecce e strumenti disponibili</seg>
       </tuv>
     </tu>
     <tu>
