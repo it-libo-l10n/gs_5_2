@@ -3576,6 +3576,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, click on the Properties icon on the Sidebar and open the Line sub-section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T152204Z" creationid="manuel" creationdate="20180704T152204Z">
+        <seg>In alternativa, fate clic sull'icona Proprietà nella barra laterale e aprite la sottosezione Linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, click the &lt;f0&gt;Pick&lt;/f0&gt; button to open &lt;i1/&gt;the Pick a Color dialog, shown in Figure &lt;t2&gt;23&lt;/t2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072154Z" creationid="manuel" creationdate="20180531T072047Z">
@@ -20339,6 +20347,15 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160553Z" creationid="manuel" creationdate="20180612T160553Z">
         <seg>Per modificare uno stile esistente utilizzando la &lt;i0/&gt;finestra di dialogo Stile, fate clic con il pulsante destro del mouse sullo stile desiderato nella finestra Stili e formattazione e selezionate &lt;f1&gt;Modifica&lt;/f1&gt; dal menu a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change any of these attributes, select a line by clicking on it, then &lt;f0&gt;right-click&lt;/f0&gt; and select &lt;f1&gt;Line&lt;/f1&gt; from the context menu or go to &lt;f2&gt;Format &gt; Line&lt;/f2&gt; on the Menu bar to open the &lt;f3&gt;Line&lt;/f3&gt; dialog (Figure &lt;t4&gt;171&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T152131Z" creationid="manuel" creationdate="20180704T152131Z">
+        <seg>Per modificare uno qualsiasi di questi attributi, selezionate una linea facendo clic su di essa, quindi &lt;f0&gt;fate clic con il pulsante destro del mouse&lt;/f0&gt; e selezionate&lt;f1&gt;Linea&lt;/f1&gt; dal menu a scomparsa o andate a &lt;f2&gt;Formato &gt; Linea&lt;/f2&gt; nella barra dei menu per aprire la finestra di dialogo &lt;f3&gt;Linea&lt;/f3&gt; (Figura &lt;t4&gt;171&lt;/t4&gt;).
+</seg>
       </tuv>
     </tu>
     <tu>
