@@ -2872,6 +2872,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A double-click ends the drawing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105107Z" creationid="manuel" creationdate="20180704T105107Z">
+        <seg>Facendo doppio clic si terminerà il disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A few examples of the drawing functions are: layer management, magnetic grid-point system, dimensions and measurement display, connectors for making organization charts, 3D functions that enable small three-dimensional drawings to be created (with texture and lighting effects), drawing and page-style integration, and Bézier curves.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060646Z" creationid="manuel" creationdate="20180629T060646Z">
@@ -2884,6 +2892,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104001Z" creationid="manuel" creationdate="20180704T104001Z">
         <seg>In una curva piena, l'ultimo ed il primo punto della curva saranno uniti automaticamente a formare la figura, che avrà il colore predefinito di riempimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A filled polygon automatically joins the last point to the first point to close off the figure and fills it with the current standard fill color.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105110Z" creationid="manuel" creationdate="20180704T105110Z">
+        <seg>In un poligono pieno l'ultimo ed il primo punto del poligono saranno uniti automaticamente a formare la figura, che avrà il colore predefinito di riempimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3036,6 +3052,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222058Z" creationid="Marco Marega" creationdate="20180620T222058Z">
         <seg>Un pannello è una specie di combinazione di una barre degli strumenti ed una finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A polygon without filling will not be closed at the end of the drawing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105115Z" creationid="manuel" creationdate="20180704T105115Z">
+        <seg>Un poligono senza riempimento non sarà automaticamente chiuso a tracciamento ultimato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3284,6 +3308,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175937Z" creationid="manuel" creationdate="20180615T160134Z">
         <seg>Aggiunta di modelli ottenuti da altre fonti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105158Z" creationid="manuel" creationdate="20180704T105158Z">
+        <seg>Aggiungere testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -9540,6 +9572,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Freeform lines</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105135Z" creationid="manuel" creationdate="20180704T105135Z">
+        <seg>Curve a mano libera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Frequently asked questions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173548Z" creationid="Elisabetta Manuele" creationdate="20180620T173548Z">
@@ -10384,6 +10424,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070445Z" creationid="manuel" creationdate="20180614T070445Z">
         <seg>Se è attiva l'opzione Stili di carattere, lo stile dei caratteri compresi nella selezione verrà aggiunto all'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Freeform Line Filled is selected, the end point is joined automatically to the start point and the object is filled with the appropriate color.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105156Z" creationid="manuel" creationdate="20180704T105156Z">
+        <seg>Se è selezionata Linea a mano libera piena, il primo e l'ultimo punto saranno uniti automaticamente e l'oggetto verrà riempito con il colore appropriato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12548,6 +12596,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is not necessary to end the drawing with a double-click, just release the mouse button and the drawing is completed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105152Z" creationid="manuel" creationdate="20180704T105152Z">
+        <seg>Per terminare di tracciare la linea non è necessario fare doppio clic, è sufficiente rilasciare il pulsante del mouse e il disegno è completato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is recommended to give pages and objects in your drawing meaningful names so that you can easily identify them when using the Navigator.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180630T165940Z" creationid="manuel" creationdate="20180630T165940Z">
@@ -13145,6 +13201,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212831Z" creationid="Marco Marega" creationdate="20180619T212613Z">
         <seg> LibreOffice&lt;/f0&gt; fornisce una singola barra degli strumenti alternativa all'impostazione predefinita con una doppia barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Like ordinary polygons, these are formed from lines, but the angles between lines are restricted to 45 or 90 degrees.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105129Z" creationid="manuel" creationdate="20180704T105129Z">
+        <seg>Come i poligoni normali, questi sono formati da linee, che hanno però angoli di 45 o 90 gradi tra di loro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15069,6 +15133,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Polygons 45°</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105125Z" creationid="manuel" creationdate="20180704T105125Z">
+        <seg>Poligoni 45°</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Positioning objects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184548Z" creationid="Elisabetta Manuele" creationdate="20180620T184548Z">
@@ -15137,6 +15209,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152222Z" creationid="manuel" creationdate="20180621T152222Z">
         <seg>Premete &lt;f0&gt;Maiusc+F8&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press and hold the left mouse button and drag the cursor to the line shape you require.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105138Z" creationid="manuel" creationdate="20180704T105138Z">
+        <seg>Tenete premuto il pulsante sinistro del mouse e trascinate il cursore  per dare alla linea la forma desiderata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22148,6 +22228,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T071342Z" creationid="manuel" creationdate="20180627T071342Z">
         <seg>L'utilizzo della spaziatura di tabulazione predefinita può causare problemi di formattazione se condividete documenti con altre persone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the freeform line tools is similar to drawing with a pencil on paper.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105137Z" creationid="manuel" creationdate="20180704T105137Z">
+        <seg>L'utilizzo dello strumento Curva a mano libera è simile al disegno su carta con una matita.</seg>
       </tuv>
     </tu>
     <tu>
