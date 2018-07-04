@@ -5754,6 +5754,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Pick&lt;/f0&gt; button to open the Pick a Color dialog, where you can set individual colors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T151443Z" creationid="manuel" creationdate="20180704T151443Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Seleziona&lt;/f0&gt; per aprire la finestra di dialogo Seleziona un colore, in cui potete impostare i singoli colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the &lt;f0&gt;Remote Files&lt;/f0&gt; button in the Start Center</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T124624Z" creationid="Marco Marega" creationdate="20180622T124624Z">
@@ -10496,6 +10504,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T171657Z" creationid="Elisabetta Manuele" creationdate="20180627T171657Z">
         <seg>Icone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Icons with tool palettes available are indicated by a small triangle to the right of the icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T151522Z" creationid="manuel" creationdate="20180704T151522Z">
+        <seg>Le icone con le tavolozze degli strumenti disponibili sono indicate da un piccolo triangolo a destra dell'icona.</seg>
       </tuv>
     </tu>
     <tu>
