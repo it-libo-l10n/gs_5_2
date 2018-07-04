@@ -3888,6 +3888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As soon as you release the mouse button, a line between the first and second points is drawn.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104444Z" creationid="manuel" creationdate="20180704T104444Z">
+        <seg>Come rilascerete il pulsante del mouse, verrà tracciata una linea tra il primo e il secondo punto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As this is an experimental feature, it may not work reliably.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T074132Z" creationid="manuel" creationdate="20180616T074132Z">
@@ -5574,6 +5582,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071347Z" creationid="manuel" creationdate="20180618T071347Z">
         <seg>Fate clic sulle icone per impostare il layout di visualizzazione pagina singola, fianco a fianco e libro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click and draw the first line from the start point with the left mouse button held down.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104437Z" creationid="manuel" creationdate="20180704T104437Z">
+        <seg>Fate clic e iniziate a disegnare la prima linea dal punto di partenza tenendo premuto il pulsante sinistro del mouse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7312,6 +7328,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T103842Z" creationid="manuel" creationdate="20180704T103842Z">
         <seg>Ogni clic del mouse imposta un angolo e permette di continuare a disegnare un'altra linea retta partendo dall'angolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each mouse click sets a corner point and allows you to draw another line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104456Z" creationid="manuel" creationdate="20180704T104456Z">
+        <seg>Ogni clic del mouse imposta un angolo e permette di continuare a disegnare un'altra linea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13785,6 +13809,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T205124Z" creationid="Marco Marega" creationdate="20180622T205124Z">
         <seg>Portate il cursore sopra ad una cartella di livello superiore e rilasciate il pulsante del mouse per spostarvi in quella cartella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the cursor to draw the next line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104450Z" creationid="manuel" creationdate="20180704T104450Z">
+        <seg>Muovete il cursore per tracciare la linea successiva.</seg>
       </tuv>
     </tu>
     <tu>
