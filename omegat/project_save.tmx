@@ -7844,6 +7844,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;175&lt;/seq0&gt;: Curves (Lines) toolbar and available tools</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102928Z" creationid="manuel" creationdate="20180704T102928Z">
+        <seg>Figura &lt;seq0&gt;175&lt;/seq0&gt;: barra degli strumenti Curve (Linee) e strumenti disponibili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083955Z" creationid="manuel" creationdate="20180530T083955Z">
@@ -10060,6 +10068,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hovering the mouse pointer over this icon gives a tooltip of &lt;f0&gt;Curve&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102940Z" creationid="manuel" creationdate="20180704T102940Z">
+        <seg>Passando il mouse sopra questa icona compare il suggerimento &lt;f0&gt;Curva&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181841Z" creationid="Elisabetta Manuele" creationdate="20180627T181841Z">
@@ -11136,6 +11152,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160530Z" creationid="manuel" creationdate="20180626T160530Z">
         <seg>Nel caso di modifiche impreviste nella formattazione del vostro documento, questo è il primo posto dove andare a ricercarne la causa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you open the floating toolbar, the title is &lt;f1&gt;Lines&lt;/f1&gt;, as shown in Figure &lt;t2&gt;175&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T103025Z" creationid="manuel" creationdate="20180704T103025Z">
+        <seg>Se aprite la barra degli strumenti rendendola fluttuante, il titolo della barra è &lt;f1&gt;Linee&lt;/f1&gt;, come mostrato in Figura &lt;t2&gt;175&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18330,6 +18354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065538Z" creationid="manuel" creationdate="20180618T065538Z">
         <seg>L'icona non cambia, ma quando passate il puntatore del mouse su questo campo un suggerimento indica la modalità attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The icon for the tool used most recently &lt;f6&gt;is&lt;/f6&gt; on the Drawing toolbar to make it easier to use the same tool again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102847Z" creationid="manuel" creationdate="20180704T102847Z">
+        <seg>L'icona dell'ultimo strumento utilizzato &lt;f6&gt;verrà&lt;/f6&gt; mostrata sulla barra degli strumenti Disegno per rendere più facile utilizzare di nuovo lo stesso strumento.</seg>
       </tuv>
     </tu>
     <tu>
