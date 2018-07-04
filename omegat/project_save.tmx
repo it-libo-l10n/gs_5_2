@@ -7988,6 +7988,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;176&lt;/seq0&gt;: Text information on the Status Bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105626Z" creationid="manuel" creationdate="20180704T105626Z">
+        <seg>Figura &lt;seq0&gt;176&lt;/seq0&gt;: informazioni sul testo nella barra di stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083955Z" creationid="manuel" creationdate="20180530T083955Z">
@@ -18662,6 +18670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The insertion of line breaks or new paragraphs does not terminate text editing or deselect the text frame.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105723Z" creationid="manuel" creationdate="20180704T105723Z">
+        <seg>L'inserimento di interruzioni di riga o nuovi paragrafi non termina l'attività di modifica del testo né deseleziona la casella di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The language of the user interface is usually set at the time LibreOffice is installed to match the language of the operating system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171440Z" creationid="manuel" creationdate="20180608T171440Z">
@@ -23868,6 +23884,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T075727Z" creationid="manuel" creationdate="20180627T075727Z">
         <seg>Potete variare la sillabazione in ciascun stile di formato, in modo da disattivarla; per esempio, potreste voler escludere la sillabazione nelle intestazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can insert a line break with the &lt;f0&gt;Shift+Enter&lt;/f0&gt; key combination or start a new paragraph with the &lt;f1&gt;Enter&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105719Z" creationid="manuel" creationdate="20180704T105719Z">
+        <seg>Potete inserire un'interruzione di riga con la combinazione di tasti &lt;/f0&gt;Maiusc+Invio&lt;f0&gt; o iniziare un nuovo paragrafo con il tasto &lt;f1&gt;Invio&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
