@@ -5778,6 +5778,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the &lt;f2&gt;Line Ends with Arrow&lt;/f2&gt; icon on the Drawing toolbar or the &lt;f3&gt;Insert Shapes&lt;/f3&gt; sub-section in Sidebar Properties to draw an arrow.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T162257Z" creationid="manuel" creationdate="20180704T162257Z">
+        <seg>Fate clic sull'icona &lt;f2&gt;Linea con freccia terminale&lt;/f2&gt; nella barra degli strumenti Disegno o nella sottosezione &lt;f3&gt;Inserisci forme&lt;/f3&gt; in Proprietà barra laterale per disegnare una freccia.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the New button to create a new sequence of slides and save it with a different name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085954Z" creationid="luke" creationdate="20180515T085954Z">
@@ -18290,6 +18299,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154614Z" creationid="manuel" creationdate="20180703T154614Z">
         <seg>L'area di un livello che non contiene un oggetto è trasparente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The arrowhead is drawn at the end point of the arrow when you release the mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T162336Z" creationid="manuel" creationdate="20180704T162336Z">
+        <seg>La punta della freccia viene disegnata nel punto finale della freccia quando si rilascia il pulsante del mouse.</seg>
       </tuv>
     </tu>
     <tu>
