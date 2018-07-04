@@ -3872,6 +3872,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As you draw the rectangle with the mouse cursor, the rectangle appears with its bottom right corner attached to the cursor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101517Z" creationid="manuel" creationdate="20180704T101517Z">
+        <seg>Non appena disegnate il rettangolo con il cursore del mouse, il rettangolo appare con l'angolo inferiore destro attaccato al cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As you select a character, it is shown on the right, along with its numerical code.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105833Z" creationid="manuel" creationdate="20180622T105833Z">
@@ -17013,6 +17021,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Squares are &lt;i0/&gt;rectangles with all sides of equal length.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101553Z" creationid="manuel" creationdate="20180704T101553Z">
+        <seg>I quadrati sono &lt;i0/&gt;rettangoli con tutti i lati di uguale lunghezza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard selection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065551Z" creationid="manuel" creationdate="20180618T065551Z">
@@ -20122,6 +20138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142131Z" creationid="manuel" creationdate="20180621T142131Z">
         <seg>Per eseguire questa operazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To draw a square, click on the &lt;f1&gt;Rectangle&lt;/f1&gt;&lt;f2&gt; icon &lt;/f2&gt;and hold down the &lt;f3&gt;Shift &lt;/f3&gt;key whil&lt;f4&gt;e&lt;/f4&gt; you draw a square.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101748Z" creationid="manuel" creationdate="20180704T101748Z">
+        <seg>Per disegnare un quadrato, fate clic sull'&lt;f2&gt;icona&lt;/f2&gt; &lt;f1&gt;Rettangolo&lt;/f1&gt; e tenete premuto il tasto &lt;f3&gt;Maiusc&lt;/f3&gt; &lt;f4&gt;mentre&lt;/f4&gt; tracciate il quadrato.&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25172,6 +25196,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T082145Z" creationid="manuel" creationdate="20180609T082145Z">
         <seg>opzioni del controllo ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>squares</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101527Z" creationid="manuel" creationdate="20180704T101527Z">
+        <seg>quadrati</seg>
       </tuv>
     </tu>
     <tu>
