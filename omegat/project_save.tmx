@@ -7172,6 +7172,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drawing curves or polygons</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102703Z" creationid="manuel" creationdate="20180704T102703Z">
+        <seg>Disegnare curve o poligoni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drawing geometric shapes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184447Z" creationid="Elisabetta Manuele" creationdate="20180620T184447Z">
@@ -11048,6 +11056,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T142420Z" creationid="manuel" creationdate="20180530T082043Z">
         <seg>Se vi accorgete che in un documento che &lt;t0/&gt;contiene molti oggetti questi sembrano scomparire, aumentate il numero di oggetti nella cache.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you first press and hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and then click on one of the icons for Line, Rectangle, Ellipse, or Text, a standard sized object is drawn automatically in the work area; the size, shape, and color are all standard values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102625Z" creationid="manuel" creationdate="20180704T102625Z">
+        <seg>Se tenete premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; e poi fate clic su una delle icone Linea, Rettangolo, Ellisse, o Testo, nell'area di lavoro verrà disegnato automaticamente un oggetto con dimensioni predefinite; dimensione, forma, e colore sono tutti valori predefiniti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15901,6 +15917,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the &lt;f1&gt;Draw Guide&lt;/f1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102657Z" creationid="manuel" creationdate="20180704T102657Z">
+        <seg>Vedere la &lt;f1&gt;Guida a Draw&lt;/f1&gt; per maggiori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the Help for more details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134317Z" creationid="manuel" creationdate="20180622T134317Z">
@@ -18166,6 +18190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The ellipse or circle uses the start point (where you first clicked the mouse button) as the center.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102542Z" creationid="manuel" creationdate="20180704T102542Z">
+        <seg>L'ellisse o il cerchio utilizza il punto iniziale (dove avete fatto clic con il pulsante del mouse) come centro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The exact list shown depends on the &lt;f2&gt;Enhanced language support&lt;/f2&gt; settings (see Figure &lt;t3&gt;41&lt;/t3&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170505Z" creationid="manuel" creationdate="20180608T170505Z">
@@ -19082,6 +19114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084249Z" creationid="manuel" creationdate="20180628T084249Z">
         <seg>L'indice sarà costruito sulla base di questi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These attributes can be changed later, if desired.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102634Z" creationid="manuel" creationdate="20180704T102634Z">
+        <seg>Questi attributi, in caso di necessità, possono essere cambiati in un secondo tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20190,6 +20230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To draw a circle, click on the &lt;f2&gt;Ellipse&lt;/f2&gt; icon and hold down the &lt;f3&gt;Shift&lt;/f3&gt; key whilst you draw a circle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102444Z" creationid="manuel" creationdate="20180704T102444Z">
+        <seg>Per disegnare un cerchio, fate clic sull'icona &lt;f2&gt;Ellisse&lt;/f2&gt; e tenete premuto il tasto &lt;f3&gt;Maiusc&lt;/f3&gt; finché tracciate il cerchio.&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To draw a rectangle or square from its center rather than the bottom right corner, position your cursor on the drawing, press the mouse button and then hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while dragging with the cursor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102236Z" creationid="manuel" creationdate="20180704T102236Z">
@@ -20210,6 +20258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101748Z" creationid="manuel" creationdate="20180704T101748Z">
         <seg>Per disegnare un quadrato, fate clic sull'&lt;f2&gt;icona&lt;/f2&gt; &lt;f1&gt;Rettangolo&lt;/f1&gt; e tenete premuto il tasto &lt;f3&gt;Maiusc&lt;/f3&gt; &lt;f4&gt;mentre&lt;/f4&gt; tracciate il quadrato.&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To draw an ellipse or circle from its center, position your cursor on the drawing, press the mouse button and then hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while dragging with the cursor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102526Z" creationid="manuel" creationdate="20180704T102526Z">
+        <seg>Per disegnare un ellisse o un cerchio partendo dal suo centro, posizionate il cursore sul disegno, premete il pulsante del mouse e tenete premuto il tasto &lt;f0&gt;Alt&lt;/f0&gt; mentre trascinate con il cursore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24376,6 +24432,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>curve</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102706Z" creationid="manuel" creationdate="20180704T102706Z">
+        <seg>Curva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>custom</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T163550Z" creationid="manuel" creationdate="20180612T163536Z">
@@ -25028,6 +25092,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060230Z" creationid="manuel" creationdate="20180629T060230Z">
         <seg>pixel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>polygon</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102725Z" creationid="manuel" creationdate="20180704T102725Z">
+        <seg>poligono</seg>
       </tuv>
     </tu>
     <tu>
