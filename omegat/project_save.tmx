@@ -20118,6 +20118,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a layer to your drawing, select &lt;f0&gt;Insert &gt; Layer...&lt;/f0&gt; from the menu bar or right-click any layer tab in the Layers bar on the bottom of the workspace (Figure &lt;t1&gt;163&lt;/t1&gt;) and choose &lt;f2&gt;Insert Layer...&lt;/f2&gt; The Insert Layer dialog opens (Figure &lt;t3&gt;167&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T144442Z" creationid="manuel" creationdate="20180704T144239Z">
+        <seg>Per aggiungere un livello al disegno, selezionate &lt;f0&gt;Inserisci &gt; Livello...&lt;/f0&gt; dalla barra dei menu o fate clic con il pulsante destro del mouse su qualsiasi scheda di livello nella barra Livelli nella parte inferiore dell'area di lavoro (Figura &lt;t1&gt;163&lt;t1&gt;) e scegliete &lt;f2&gt;Inserisci livello...&lt;/f2&gt; Si apre così la finestra di dialogo Inserisci livello (Figura &lt;t3&gt;167&lt;/t3&gt;).
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add a new spelling to the list, type it into the &lt;f2&gt;Replace&lt;/f2&gt; and &lt;f3&gt;With&lt;/f3&gt; boxes on the Replace tab, and click &lt;f4&gt;New&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T111510Z" creationid="manuel" creationdate="20180626T111510Z">
