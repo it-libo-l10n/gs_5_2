@@ -3472,6 +3472,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, go to &lt;f3&gt;View &gt; Toolbars &gt; Arrows&lt;/f3&gt; to open the Arrows toolbar as a floating &lt;t4/&gt;toolbar (Figure &lt;t5&gt;172&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095530Z" creationid="manuel" creationdate="20180704T095530Z">
+        <seg>In alternativa, andate su &lt;f3&gt;Visualizza &gt; Barre degli strumenti &gt; Frecce&lt;/f3&gt; per aprire la barra degli strumenti Frecce come &lt;t4/&gt;barra mobile (Figura &lt;t5&gt;172&lt;/t5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, use the buttons on the &lt;f3&gt;Standard&lt;/f3&gt; toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161525Z" creationid="manuel" creationdate="20180621T161525Z">
@@ -5262,6 +5270,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165949Z" creationid="manuel" creationdate="20180608T165949Z">
         <seg>Impostazioni della lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing line endings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095305Z" creationid="manuel" creationdate="20180704T095305Z">
+        <seg>Scegliere l'estremità della linea</seg>
       </tuv>
     </tu>
     <tu>
@@ -16557,6 +16573,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several types of line endings (arrows, circles, squares, and others) are available in Draw.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095334Z" creationid="manuel" creationdate="20180704T095334Z">
+        <seg>In Draw sono disponibili diversi tipi di terminazione di linea (frecce, cerchi, quadrati, e altri).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sharing content between sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181639Z" creationid="Elisabetta Manuele" creationdate="20180620T181639Z">
@@ -18178,6 +18202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065538Z" creationid="manuel" creationdate="20180618T065538Z">
         <seg>L'icona non cambia, ma quando passate il puntatore del mouse su questo campo un suggerimento indica la modalità attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The icon for the tool used most recently will be shown on the Drawing toolbar to make it easier to use the same tool again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095552Z" creationid="manuel" creationdate="20180704T095552Z">
+        <seg>L'icona dell'ultimo strumento utilizzato verrà mostrata sulla barra degli strumenti Disegno per rendere più facile utilizzare di nuovo lo stesso strumento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24612,6 +24644,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165947Z" creationid="manuel" creationdate="20180608T165947Z">
         <seg>impostazioni della lingua &lt;s0/&gt;51</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lines and arrows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095319Z" creationid="manuel" creationdate="20180704T095319Z">
+        <seg>linee e frecce</seg>
       </tuv>
     </tu>
     <tu>
