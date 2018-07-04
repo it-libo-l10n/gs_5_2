@@ -7039,6 +7039,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dimension lines automatically calculate and display linear dimensions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T171459Z" creationid="manuel" creationdate="20180704T171459Z">
+        <seg>Le linee di quotatura calcolano e visualizzano automaticamente quote lineari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Directly accesses hardware features of the graphical display adapter to improve the screen display.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055319Z" creationid="manuel" creationdate="20180531T055319Z">
