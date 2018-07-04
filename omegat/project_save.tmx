@@ -10236,6 +10236,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while drawing a line to cause the line to extend outwards symmetrically in both directions from the start point.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T151904Z" creationid="manuel" creationdate="20180704T151904Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Alt&lt;/f0&gt; mentre disegnate una linea per far estendere la linea verso l'esterno simmetricamente in entrambe le direzioni dal punto iniziale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and use the mouse to select the next piece of text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151950Z" creationid="manuel" creationdate="20180621T151950Z">
@@ -12880,6 +12888,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180002Z" creationid="Elisabetta Manuele" creationdate="20180627T180002Z">
         <seg>Keel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep the &lt;f0&gt;Ctrl&lt;/f0&gt; key pressed while drawing a line to enable the end of the line to snap to the nearest grid point.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T151648Z" creationid="manuel" creationdate="20180704T151648Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; mentre disegnate una linea per consentire alla fine della linea di eseguire la cattura al punto di griglia più vicino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep the &lt;f0&gt;Shift&lt;/f0&gt; key pressed while you draw a line to restrict the drawing angle of the line to a multiple of 45 degrees (0, 45, 90, 135, and so on).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T151800Z" creationid="manuel" creationdate="20180704T151800Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; mentre disegnate una linea per limitare l'angolo di disegno della linea a un multiplo di 45 gradi (0, 45, 90, 135 e così via).</seg>
       </tuv>
     </tu>
     <tu>
