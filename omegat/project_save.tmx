@@ -4522,6 +4522,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the Color Bar is displayed below the workspace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T150604Z" creationid="manuel" creationdate="20180704T150604Z">
+        <seg>Per impostazione predefinita, la barra dei colori viene visualizzata sotto lo spazio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the Line and Filling toolbar is not shown, but you can display it from the &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T145011Z" creationid="manuel" creationdate="20180703T145011Z">
@@ -20507,6 +20515,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T085233Z" creationid="manuel" creationdate="20180614T085233Z">
         <seg>Per eliminare gli stili indesiderati, nella finestra Stili e formattazione selezionate tutti quelli da eliminare (tenete premuto &lt;f0&gt;Ctrl&lt;/f0&gt; mentre selezionate più stili), quindi fate clic con il pulsante destro del mouse su uno stile selezionato e selezionate &lt;f1&gt;Elimina&lt;/f1&gt; nel menu di scelta rapida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To display &lt;i0/&gt;the &lt;f1&gt;color palette currently in use (Figure&lt;/f1&gt; &lt;t2&gt;168&lt;/t2&gt;), select &lt;f3&gt;View &gt; Toolbars &gt; Color Bar&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T150526Z" creationid="manuel" creationdate="20180704T150526Z">
+        <seg>Per visualizzare &lt;i0/&gt;la tavola dei colori &lt;f1&gt;attualmente in uso (Figura&lt;/f1&gt; &lt;t2&gt;168&lt;/t2&gt;), selezionate &lt;f3&gt;Visualizza &gt; Barre degli strumenti &gt; Barra dei colori&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
