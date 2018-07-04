@@ -7100,6 +7100,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drawing &lt;i0/&gt;rectangles or squares</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101405Z" creationid="manuel" creationdate="20180704T101405Z">
+        <seg>Disegnare &lt;i0/&gt;rettangoli o quadrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drawing a dimension line</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101245Z" creationid="manuel" creationdate="20180704T101245Z">
+        <seg>Disegnare una linea di quotatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drawing a rectangle is similar to drawing a straight line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101417Z" creationid="manuel" creationdate="20180704T101417Z">
+        <seg>Disegnare un rettangolo è simile a disegnare una linea retta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drawing a straight line</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164736Z" creationid="manuel" creationdate="20180703T164736Z">
@@ -15185,6 +15209,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181957Z" creationid="Marco Marega" creationdate="20180620T181957Z">
         <seg>Rilasciate il pulsante del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Release when finished.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101333Z" creationid="manuel" creationdate="20180704T101333Z">
+        <seg>Rilasciate quando avete finito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24932,6 +24964,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143846Z" creationid="manuel" creationdate="20180608T143846Z">
         <seg>impostazioni della stampante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rectangle, drawing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101349Z" creationid="manuel" creationdate="20180704T101349Z">
+        <seg>rettangolo, disegnare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rectangles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101344Z" creationid="manuel" creationdate="20180704T101344Z">
+        <seg>rettangoli</seg>
       </tuv>
     </tu>
     <tu>
