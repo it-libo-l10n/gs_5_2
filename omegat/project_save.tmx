@@ -2767,6 +2767,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A circle is an ellipse with both axes the same length.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102354Z" creationid="manuel" creationdate="20180704T102354Z">
+        <seg>Un cerchio è un ellisse con entrambi gli assi della stessa lunghezza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A common scenario is to have &lt;i0/&gt;a &lt;i1/&gt;landscape page in the middle of a document, whereas the other pages are in a portrait orientation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144738Z" creationid="manuel" creationdate="20180616T144738Z">
@@ -7152,6 +7160,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184412Z" creationid="Elisabetta Manuele" creationdate="20180620T184412Z">
         <seg>Disegnare forme base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drawing circles or ellipses</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102332Z" creationid="manuel" creationdate="20180704T102332Z">
+        <seg>Disegnare cerchi o ellissi</seg>
       </tuv>
     </tu>
     <tu>
@@ -18702,6 +18718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The rectangle or square uses the start point (where you first clicked the mouse button) as the center.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102258Z" creationid="manuel" creationdate="20180704T102258Z">
+        <seg>Il rettangolo o il quadrato utilizza il punto iniziale (dove avete fatto clic con il pulsante del mouse) come centro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The result is a multiple selection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065716Z" creationid="manuel" creationdate="20180618T065716Z">
@@ -19226,6 +19250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143732Z" creationid="manuel" creationdate="20180703T143732Z">
         <seg>Potrebbero non essere uguali alle unità del righello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This &lt;f5&gt;Shift&lt;/f5&gt; key reversal also applies when drawing ellipses and circles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102128Z" creationid="manuel" creationdate="20180704T102128Z">
+        <seg>L'inversione con il tasto &lt;f5&gt;Maiusc&lt;/f5&gt; si applica anche al disegno di ellissi e cerchi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20154,6 +20186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142131Z" creationid="manuel" creationdate="20180621T142131Z">
         <seg>Per eseguire questa operazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To draw a rectangle or square from its center rather than the bottom right corner, position your cursor on the drawing, press the mouse button and then hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while dragging with the cursor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102236Z" creationid="manuel" creationdate="20180704T102236Z">
+        <seg>Per disegnare un rettangolo o un quadrato partendo dal suo centro invece che dall'angolo inferiore destro, posizionate il cursore sul disegno, premete il pulsante del mouse e tenete premuto il tasto &lt;f0&gt;Alt&lt;/f0&gt; mentre trascinate con il cursore.</seg>
       </tuv>
     </tu>
     <tu>
