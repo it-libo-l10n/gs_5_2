@@ -5554,6 +5554,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click and hold the left mouse button to create the starting point of your curve, then, while holding down the left mouse button, drag from the starting point to draw a line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T103312Z" creationid="manuel" creationdate="20180704T103312Z">
+        <seg>Fate clic e tenete premuto il pulsante sinistro del mouse per creare il punto iniziale della curva, quindi, mentre tenete premuto il pulsante sinistro del mouse, trascinate dal punto iniziale per disegnare una linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click and hold the mouse button on this icon to display a drop down a list of higher level folders.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T205008Z" creationid="Marco Marega" creationdate="20180622T205008Z">
@@ -6512,6 +6520,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153658Z" creationid="manuel" creationdate="20180608T153658Z">
         <seg>Le versioni attuali di Microsoft Word possono aprire file ODT, quindi ciò potrebbe non essere più necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Curves</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T103306Z" creationid="manuel" creationdate="20180704T103306Z">
+        <seg>Curve</seg>
       </tuv>
     </tu>
     <tu>
@@ -10040,6 +10056,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152356Z" creationid="manuel" creationdate="20180621T152356Z">
         <seg>Tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; e selezionate la successiva porzione di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key when drawing lines with the Curve or Polygon tools to restrict the angles between the lines to 45 or 90 degrees.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T103303Z" creationid="manuel" creationdate="20180704T103303Z">
+        <seg>Tenendo premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; quando tracciate linee con gli strumenti Curva o Poligono, gli angoli tra le linee verranno limitati a 45 o 90 gradi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15273,6 +15297,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151101Z" creationid="Elisabetta Manuele" creationdate="20180625T151101Z">
         <seg>Collegamenti ipertestuali relativi e assoluti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Release the left mouse button and continue to drag the cursor to bend the line into a curve.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T103313Z" creationid="manuel" creationdate="20180704T103313Z">
+        <seg>Rilasciate il pulsante sinistro del mouse e continuate a trascinare il cursore per creare una curva.</seg>
       </tuv>
     </tu>
     <tu>
