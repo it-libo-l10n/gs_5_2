@@ -2615,6 +2615,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f8&gt;An object can have as many dimension lines as necessary to indicate measures of its sides, edges, and distances.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T170701Z" creationid="manuel" creationdate="20180704T170701Z">
+        <seg>&lt;f8&gt;Un oggetto può avere tutte le linee di quotatura necessarie per indicare le misure dei lati, dei bordi e delle distanze.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1/&gt;A submenu of alternative words and phrases is displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T074335Z" creationid="manuel" creationdate="20180626T074335Z">
@@ -8051,6 +8059,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T100937Z" creationid="manuel" creationdate="20180704T100937Z">
         <seg>Figura &lt;seq0&gt;172&lt;/seq0&gt;: barra degli strumenti Frecce e strumenti disponibili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;173&lt;/seq0&gt;: Measuring an object with dimension lines</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T170903Z" creationid="manuel" creationdate="20180704T170903Z">
+        <seg>Figura &lt;seq0&gt;173&lt;/seq0&gt;: misurazione di un oggetto con linee di quotatura</seg>
       </tuv>
     </tu>
     <tu>
