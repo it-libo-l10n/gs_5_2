@@ -10156,6 +10156,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can rapidly choose the color of objects in your drawing (lines, areas, and 3D effects).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T150856Z" creationid="manuel" creationdate="20180704T150856Z">
+        <seg>Qui potete scegliere rapidamente il colore degli oggetti nel disegno (linee, aree e effetti 3D).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can select a color from the window on the left, or you can enter values on the right using your choice of RGB, CMYK, or HSB (Hue, Saturation and Brightness) values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072618Z" creationid="manuel" creationdate="20180531T072618Z">
@@ -23949,6 +23957,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181856Z" creationid="Elisabetta Manuele" creationdate="20180627T181856Z">
         <seg>Potete contribuire allo sviluppo e al supporto degli utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can hide or show it by clicking on its Hide/Show button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T150658Z" creationid="manuel" creationdate="20180704T150658Z">
+        <seg>Potete nasconderla o mostrarla facendo clic sul suo pulsante Nascondi/Mostra.</seg>
       </tuv>
     </tu>
     <tu>
