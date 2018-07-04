@@ -7980,6 +7980,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;169&lt;/seq0&gt;: Area dialog – Colors page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T151257Z" creationid="manuel" creationdate="20180704T151257Z">
+        <seg>Figura &lt;seq0&gt;169&lt;/seq0&gt;: finestra di dialogo Area – Pagina Colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;170&lt;/seq0&gt;: Drawing a straight line</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164943Z" creationid="manuel" creationdate="20180703T164943Z">
@@ -20595,6 +20603,15 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T134611Z" creationid="manuel" creationdate="20180621T134611Z">
         <seg>Per fare ciò, scegliete &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Visualizza &gt; Nascondi  spazi bianchi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; dalla barra menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do this, use the Area dialog by selecting &lt;f1&gt;Format &gt; Area&lt;/f1&gt; on the Menu bar or clicking the &lt;f2&gt;Area&lt;/f2&gt; icon on the Sidebar, then selecting the &lt;f3&gt;Colors&lt;/f3&gt; tab (Figure &lt;t4&gt;169&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T151143Z" creationid="manuel" creationdate="20180704T151143Z">
+        <seg>Per fare ciò, usate la finestra di dialogo Area selezionando &lt;f1&gt;Formato &gt; Area&lt;/f1&gt; nella barra dei menu o facendo clic sull'icona &lt;f2&gt;Area&lt;/f2&gt; nella barra laterale, quindi selezionando la scheda &lt;f3&gt;Colori&lt;/f3&gt; (Figura &lt;t4&gt;169&lt;/t4&gt;).
+</seg>
       </tuv>
     </tu>
     <tu>
