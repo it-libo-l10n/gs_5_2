@@ -7956,6 +7956,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;167&lt;/seq0&gt;: The Insert Layer dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T150210Z" creationid="manuel" creationdate="20180704T150210Z">
+        <seg>Figura &lt;seq0&gt;167&lt;/seq0&gt;: finestra di dialogo Inserisci livello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;168&lt;/seq0&gt;: Color bar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163216Z" creationid="manuel" creationdate="20180703T163216Z">
@@ -24021,6 +24029,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190141Z" creationid="Marco Marega" creationdate="20180528T190141Z">
         <seg>Maggiori informazioni riguardo a LibreOffice e The Document Foundation sono reperibili sui rispettivi siti web &lt;a0&gt;http://www.libreoffice.org/&lt;/a0&gt; e &lt;a1&gt;http://www.documentfoundation.org/&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can rearrange the stacking order by &lt;f0&gt;Modify &gt; Arrange&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T150114Z" creationid="manuel" creationdate="20180704T150114Z">
+        <seg>Potete riorganizzare l'ordine di raggruppamento da &lt;f0&gt;Modifica &gt; Disponi&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
