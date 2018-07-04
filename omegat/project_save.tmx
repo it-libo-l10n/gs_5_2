@@ -2856,6 +2856,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A double click ends the drawing of your line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T103852Z" creationid="manuel" creationdate="20180704T103852Z">
+        <seg>Facendo doppio clic si terminerà il disegno della linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A few examples of the drawing functions are: layer management, magnetic grid-point system, dimensions and measurement display, connectors for making organization charts, 3D functions that enable small three-dimensional drawings to be created (with texture and lighting effects), drawing and page-style integration, and Bézier curves.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060646Z" creationid="manuel" creationdate="20180629T060646Z">
@@ -5947,6 +5955,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click to set the end point of the curve and fix the line on the page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T103835Z" creationid="manuel" creationdate="20180704T103835Z">
+        <seg>Fate clic per impostare il punto finale della curva e fissare la linea sulla pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking a word applies the character style for that word.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150429Z" creationid="manuel" creationdate="20180612T150429Z">
@@ -7272,6 +7288,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141038Z" creationid="manuel" creationdate="20180618T105802Z">
         <seg>Ogni pannello è costituito da una barra del titolo e uno o più pannelli di contenuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each mouse click sets a corner point and allows you to continue drawing another straight line from the corner point.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T103842Z" creationid="manuel" creationdate="20180704T103842Z">
+        <seg>Ogni clic del mouse imposta un angolo e permette di continuare a disegnare un'altra linea retta partendo dall'angolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20154,6 +20178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165429Z" creationid="manuel" creationdate="20180615T165429Z">
         <seg>Per compilare un indice automatico, applicate prima gli stili alle intestazioni che desiderate compaiano nell'elenco dell'indice, quindi utilizzate &lt;f0&gt;Strumenti &gt; Numerazione capitolo&lt;/f0&gt; per impostare in Writer l'associazione corretta tra stili e livelli nell'indice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To continue with your line, drag the mouse cursor to draw a straight line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T103838Z" creationid="manuel" creationdate="20180704T103838Z">
+        <seg>Per continuare la linea, trascinate il cursore del mouse per disegnare una linea retta.</seg>
       </tuv>
     </tu>
     <tu>
