@@ -2815,6 +2815,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A curve without filling will not be closed at the end of the drawing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104015Z" creationid="manuel" creationdate="20180704T104015Z">
+        <seg>Una curva senza riempimento non sarà automaticamente chiusa a tracciamento ultimato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A device is blacklisted when it is buggy or may render graphics with poor quality.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T144508Z" creationid="manuel" creationdate="20180531T062258Z">
@@ -2868,6 +2876,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060646Z" creationid="manuel" creationdate="20180629T060646Z">
         <seg>Alcuni esempi delle funzioni di disegno sono: gestione dei livelli, griglia magnetica, visualizzazione di dimensioni e misure, connettori per creare organigrammi, funzioni 3D per creare piccoli disegni tridimensionali (con trame ed effetti di luce), integrazione di disegni e stili di pagina, e le curve di Bézier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A filled curve automatically joins the last point to the first point to close off the figure and fills it with the current standard fill color.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104001Z" creationid="manuel" creationdate="20180704T104001Z">
+        <seg>In una curva piena, l'ultimo ed il primo punto della curva saranno uniti automaticamente a formare la figura, che avrà il colore predefinito di riempimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15009,6 +15025,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T095623Z" creationid="manuel" creationdate="20180616T095623Z">
         <seg>Puntate su &lt;f0&gt;Ripristina modello predefinito&lt;/f0&gt; nel menu a discesa e fate clic su &lt;f1&gt;Documento di testo&lt;/f1&gt; (o altro tipo di modello).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Polygons</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104018Z" creationid="manuel" creationdate="20180704T104018Z">
+        <seg>Poligoni</seg>
       </tuv>
     </tu>
     <tu>
