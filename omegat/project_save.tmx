@@ -19158,6 +19158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The stacking order of objects is determined by the sequence in which you add the objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T145840Z" creationid="manuel" creationdate="20180704T145840Z">
+        <seg>L'ordine di sovrapposizione degli oggetti è determinato dalla sequenza in cui aggiungete gli oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The status bar is located at the bottom of the workspace.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190821Z" creationid="Marco Marega" creationdate="20180620T190821Z">
