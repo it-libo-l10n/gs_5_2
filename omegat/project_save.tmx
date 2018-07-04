@@ -2936,6 +2936,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A hidden layer still shows in the Layers bar, but its name is in blue.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T145519Z" creationid="manuel" creationdate="20180704T145519Z">
+        <seg>Un livello nascosto viene ancora visualizzato nella barra dei livelli, ma il suo nome è in blu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A keyboard layout is normally based on the language used by the operating system but can be changed by the user.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T081428Z" creationid="manuel" creationdate="20180609T081428Z">
@@ -12900,6 +12908,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Layers do not determine the stacking order of objects on the page, except for the Controls layer which is always in front of other layers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T145617Z" creationid="manuel" creationdate="20180704T145617Z">
+        <seg>I livelli non determinano l'ordine di sovrapposizione degli oggetti sulla pagina, ad eccezione del livello di controllo che è sempre davanti agli altri livelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Let LibreOffice use the video card GPU to perform numerical calculation with great speed gain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140524Z" creationid="manuel" creationdate="20180608T140524Z">
@@ -16449,6 +16465,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203451Z" creationid="Marco Marega" creationdate="20180622T203451Z">
         <seg>Selezionate il comando appropriato tra &lt;f0&gt;Elimina&lt;/f0&gt; o &lt;f1&gt;Rinomina&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select if you want it printable or not, visible or hidden, or locked to prevent further changes or accidental edits.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T145458Z" creationid="manuel" creationdate="20180704T145458Z">
+        <seg>Selezionate se desiderate stamparlo o meno, visibile o nascosto o bloccato per impedire ulteriori modifiche o modifiche accidentali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24301,6 +24325,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T085002Z" creationid="manuel" creationdate="20180614T084824Z">
         <seg>Non potete rimuovere da un documento o da un modello nessuno degli stili di formattazione predefiniti di LibreOffice, nemmeno se inutilizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot reorder layers in the Layers bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T145552Z" creationid="manuel" creationdate="20180704T145552Z">
+        <seg>Non potete riordinare i livelli nella barra dei livelli.</seg>
       </tuv>
     </tu>
     <tu>
