@@ -7812,6 +7812,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;174&lt;/seq0&gt;: Dimension line settings dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101845Z" creationid="manuel" creationdate="20180704T101845Z">
+        <seg>Figura &lt;seq0&gt;174&lt;/seq0&gt;: finestra di dialogo delle impostazioni della linea di quotatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083955Z" creationid="manuel" creationdate="20180530T083955Z">
@@ -10608,6 +10616,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144828Z" creationid="manuel" creationdate="20180626T144828Z">
         <seg>Se la sola opzione sotto il pulsante &lt;f0&gt;Testo automatico&lt;/f0&gt; è &lt;f1&gt;Importa&lt;/f1&gt;, non avete introdotto un nome per il Testo automatico o non avete selezionato un testo nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the option &lt;f0&gt;When creating or moving objects&lt;/f0&gt; has been selected in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f1&gt;, the action of the &lt;f2&gt;Shift&lt;/f2&gt; key is reversed: the Rectangle tool &lt;f3&gt;draws&lt;/f3&gt; a square.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102030Z" creationid="manuel" creationdate="20180704T102030Z">
+        <seg>Se è selezionata l'opzione &lt;f0&gt;Nella creazione e nel movimento&lt;/f0&gt; in &lt;f1&gt;Strumenti &gt; Opzioni &gt; LibreOffice Draw &gt; Generale&lt;/f1&gt;, l'azione del tasto &lt;f2&gt;Maiusc&lt;/f2&gt; è invertita: lo strumento Rettangolo &lt;f3&gt;disegna&lt;/f3&gt; un quadrato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20138,6 +20154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142131Z" creationid="manuel" creationdate="20180621T142131Z">
         <seg>Per eseguire questa operazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To draw a rectangle, you have to press the &lt;f4&gt;Shift&lt;/f4&gt; key when drawing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102057Z" creationid="manuel" creationdate="20180704T102057Z">
+        <seg>Per disegnare un rettangolo, dovete premere il tasto &lt;f4&gt;Maiusc&lt;/f4&gt; mentre disegnate.</seg>
       </tuv>
     </tu>
     <tu>
