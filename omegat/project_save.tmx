@@ -3112,6 +3112,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A small text frame appears, containing only the cursor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105505Z" creationid="manuel" creationdate="20180704T105505Z">
+        <seg>Apparirà una piccola cornice di testo, contenente solo il cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A standard text document displays information: a letter, report, or brochure, for example.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164303Z" creationid="manuel" creationdate="20180628T164303Z">
@@ -3132,6 +3140,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122247Z" creationid="Marco Marega" creationdate="20180620T221602Z">
         <seg>Una barra a schede sulla destra della barra laterale permette di spostarsi tra i diversi pannelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A text frame is also dynamic and grows as you enter text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105508Z" creationid="manuel" creationdate="20180704T105508Z">
+        <seg>Una cornice di testo è dinamica e si allarga man mano che inserite il testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3380,6 +3396,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101122Z" creationid="manuel" creationdate="20180627T101122Z">
         <seg>Dopo la creazione dell'intestazione, una freccia in basso compare sul contrassegno dell'intestazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After activating the Text command, click at the location where you want to position the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105502Z" creationid="manuel" creationdate="20180704T105502Z">
+        <seg>Dopo aver attivato il comando Testo, fate clic nella posizione dove desiderate inserire il testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10744,6 +10768,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104832Z" creationid="manuel" creationdate="20180629T104832Z">
         <seg>Se la barra laterale non è visibile, andate in &lt;f2&gt;Visualizza&lt;/f2&gt; nella barra menu e selezionate &lt;f3&gt;Barra laterale&lt;/f3&gt; dal menu a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Vertical Text icon is not visible, check that &lt;f2&gt;Asian &lt;/f2&gt;has been selected in &lt;f3&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105447Z" creationid="manuel" creationdate="20180704T105447Z">
+        <seg>Se l'icona Testo verticale non è visibile, controllate che &lt;f2&gt;Lingue asiatiche orientali&lt;/f2&gt; sia selezionata in &lt;f3&gt;Strumenti &gt; Opzioni &gt; Impostazioni della lingua &gt; Lingue&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19678,6 +19710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This frame can be moved like any other object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105507Z" creationid="manuel" creationdate="20180704T105507Z">
+        <seg>Questa cornice può essere spostata come qualsiasi altro oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This inserts a non-breaking space.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T110123Z" creationid="manuel" creationdate="20180622T110123Z">
@@ -20042,6 +20082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221012Z" creationid="Marco Marega" creationdate="20180620T221012Z">
         <seg>Per attivare la Barra laterale, selezionate&lt;f0&gt;Visualizza &gt; Barra laterale&lt;/f0&gt; nella barra del Menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To activate the text tool, click on the &lt;f0&gt;Text&lt;/f0&gt; icon for horizontal text or the &lt;f1&gt;Vertical Text&lt;/f1&gt; icon for vertical script.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105243Z" creationid="manuel" creationdate="20180704T105243Z">
+        <seg>Per attivare lo strumento Testo, fate clic sull'icona &lt;f0&gt;Testo&lt;/f0&gt; per il testo orizzontale o sull'icona &lt;f1&gt;Testo verticale&lt;/f1&gt; per la scrittura in verticale.</seg>
       </tuv>
     </tu>
     <tu>
