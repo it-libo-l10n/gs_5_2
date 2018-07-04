@@ -5811,6 +5811,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the small triangle to the right of the &lt;f0&gt;Lines and Arrows&lt;/f0&gt; icon on the Drawing toolbar or the &lt;f1&gt;Insert Shapes&lt;/f1&gt; sub-section in Sidebar Properties to open a tool palette containing tools for &lt;i2/&gt;drawing lines and arrows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T165038Z" creationid="manuel" creationdate="20180704T165038Z">
+        <seg>Fare clic sul piccolo triangolo a destra dell'icona &lt;f0&gt;Linee e frecce&lt;/f0&gt; sulla barra degli strumenti Disegno o sulla sottosezione &lt;f1&gt;Inserisci forme&lt;/ f1&gt; in Proprietà barra laterale per aprire una tavolozza degli strumenti contenente strumenti per &lt;/f1&gt;disegno di linee e frecce.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the unsaved changes icon to save the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T070404Z" creationid="manuel" creationdate="20180618T070348Z">
