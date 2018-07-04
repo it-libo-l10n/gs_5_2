@@ -7022,6 +7022,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dimension lines &lt;f0&gt;display&lt;/f0&gt; &lt;f1&gt;a&lt;/f1&gt; measurement of an object in the d&lt;f2&gt;r&lt;/f2&gt;awing &lt;f3&gt;(Figure &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;173&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T170520Z" creationid="manuel" creationdate="20180704T170520Z">
+        <seg>Linee di quota &lt;f0&gt;visualizzazione&lt;/f0&gt; &lt;f1&gt;a&lt;/f1&gt; misurazione di un oggetto nel &lt;f2&gt;disegno&lt;/f2&gt; &lt;f3&gt;(Figura &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;173&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;)&lt;/f6&gt;.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Directly accesses hardware features of the graphical display adapter to improve the screen display.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055319Z" creationid="manuel" creationdate="20180531T055319Z">
@@ -18540,6 +18549,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T171517Z" creationid="Elisabetta Manuele" creationdate="20180627T171517Z">
         <seg>Le differenze interessano principalmente le finestre di dialogo Apri, Salva e Stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dimension line does not belong to the object itself but it is &lt;f7&gt;usually &lt;/f7&gt;placed close to it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T170611Z" creationid="manuel" creationdate="20180704T170611Z">
+        <seg>La linea di quotatura non appartiene all'oggetto stesso ma è &lt;f7&gt;di solito&lt;/f7&gt; posta vicino ad essa.</seg>
       </tuv>
     </tu>
     <tu>
