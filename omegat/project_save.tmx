@@ -3808,6 +3808,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arrows are drawn like lines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095124Z" creationid="manuel" creationdate="20180704T095124Z">
+        <seg>Le frecce sono disegnate come le linee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As an example, we can use the &lt;f0&gt;First Page&lt;/f0&gt; and &lt;f1&gt;Default&lt;/f1&gt; page styles that come with LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144202Z" creationid="manuel" creationdate="20180616T144202Z">
@@ -7020,6 +7028,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Draw &lt;i0/&gt;classifies &lt;f1&gt;arrows&lt;/f1&gt; as a subgroup of lines: lines with arrowheads.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095230Z" creationid="manuel" creationdate="20180704T095230Z">
+        <seg>In Draw le &lt;f1&gt;frecce&lt;/f1&gt; sono &lt;i0/&gt;classificate come un sottogruppo di linee: linee con punte a freccia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Draw can import graphics from many common formats and save them in over 20 formats, including PNG, HTML, PDF, and Flash.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210942Z" creationid="Marco Marega" creationdate="20180527T210942Z">
@@ -7064,6 +7080,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164736Z" creationid="manuel" creationdate="20180703T164736Z">
         <seg>Disegnare una linea retta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drawing an arrow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095059Z" creationid="manuel" creationdate="20180704T095059Z">
+        <seg>Disegnare una freccia</seg>
       </tuv>
     </tu>
     <tu>
@@ -7712,6 +7736,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164943Z" creationid="manuel" creationdate="20180703T164943Z">
         <seg>Figura &lt;seq0&gt;170&lt;/seq0&gt;: disegnare una linea retta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;171&lt;/seq0&gt;: Line dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095056Z" creationid="manuel" creationdate="20180704T095056Z">
+        <seg>Figura &lt;seq0&gt;171&lt;/seq0&gt;: finestra di dialogo Linea</seg>
       </tuv>
     </tu>
     <tu>
@@ -18206,6 +18238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The information field on the status bar shows them only as lines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095233Z" creationid="manuel" creationdate="20180704T095233Z">
+        <seg>Esse sono visualizzate solo come linee nel campo informazioni della barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The language of the user interface is usually set at the time LibreOffice is installed to match the language of the operating system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171440Z" creationid="manuel" creationdate="20180608T171440Z">
@@ -23952,6 +23992,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>arrows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095111Z" creationid="manuel" creationdate="20180704T095111Z">
+        <seg>frecce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>automatically advance</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z" creationid="luke" creationdate="20180515T090031Z">
@@ -24292,6 +24340,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071909Z" creationid="manuel" creationdate="20180608T071909Z">
         <seg>scarica aggiornamenti automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>drawing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095114Z" creationid="manuel" creationdate="20180704T095114Z">
+        <seg>disegnare</seg>
       </tuv>
     </tu>
     <tu>
