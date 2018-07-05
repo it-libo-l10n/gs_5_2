@@ -2423,6 +2423,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can control the display of the dimension line’s components and appearance by selecting it, right-clicking, and choosing &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Dimensions...&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in the context menu to display the Dimension line dialog &lt;s4/&gt;(Figure &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;174&lt;/t6&gt;&lt;/f5&gt;&lt;f7&gt;).&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T092555Z" creationid="manuel" creationdate="20180705T092555Z">
+        <seg>&lt;f0&gt;Potete controllare la visualizzazione dei componenti e dell'aspetto della linea di quotatura selezionandola, facendo clic con il pulsante destro del mouse e scegliendo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Dimensioni...&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; nel menu a cascata per visualizzare la finestra di dialogo della linea di quotatura &lt;s4/&gt;(Figura &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;174&lt;/t6&gt;&lt;/f5&gt;&lt;f7&gt;).&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can select additional grammar checking rules through &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; Language Settings &gt; English sentence checking&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, or through &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Tools &gt; Extension Manager &gt; English spelling dictionaries &gt; Options&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T071934Z" creationid="manuel" creationdate="20180626T071934Z">
@@ -5774,6 +5782,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T151443Z" creationid="manuel" creationdate="20180704T151443Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;Seleziona&lt;/f0&gt; per aprire la finestra di dialogo Seleziona un colore, in cui potete impostare i singoli colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Rectangle&lt;/f0&gt; icon in the Drawing toolbar or the &lt;f1&gt;Insert Shapes&lt;/f1&gt; sub-section in Sidebar Properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T092709Z" creationid="manuel" creationdate="20180705T092709Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Rettangolo&lt;/f0&gt; nella barra degli strumenti Disegno o nella sottosezione &lt;f1&gt;Inserisci forme &lt;/f1&gt; in Proprietà barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20792,6 +20808,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101748Z" creationid="manuel" creationdate="20180704T101748Z">
         <seg>Per disegnare un quadrato, fate clic sull'&lt;f2&gt;icona&lt;/f2&gt; &lt;f1&gt;Rettangolo&lt;/f1&gt; e tenete premuto il tasto &lt;f3&gt;Maiusc&lt;/f3&gt; &lt;f4&gt;mentre&lt;/f4&gt; tracciate il quadrato.&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To draw an ellipse (also called an oval), click on the &lt;f0&gt;Ellipse&lt;/f0&gt; icon on the Drawing toolbar or the &lt;f1&gt;Insert Shapes&lt;/f1&gt; sub-section in Sidebar Properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T092758Z" creationid="manuel" creationdate="20180705T092758Z">
+        <seg>Per disegnare un'ellisse (chiamata anche ovale), fate clic sull'icona &lt;f0&gt;Ellisse&lt;/f0&gt; sulla barra degli strumenti Disegno o sulla sottosezione &lt;f1&gt;Inserisci forme&lt;/f1&gt; in Proprietà barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
