@@ -2695,6 +2695,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;i0/&gt;temporary grouping is when several objects are selected using the Select icon on the Drawing toolbar or using the mouse to drag a rectangle around the objects (also known as a marquee).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112745Z" creationid="manuel" creationdate="20180705T112745Z">
+        <seg>Un &lt;i0/&gt;raggruppamento temporaneo si effettua selezionando diversi oggetti tramite l'icona Seleziona sulla barra degli strumenti Disegno o usando il mouse per tracciare un rettangolo intorno agli oggetti (anche detto tenda).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A Comments button is also added to the right of the horizontal ruler; you can click this button to toggle the display of the comments.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T072505Z" creationid="manuel" creationdate="20180628T072505Z">
@@ -3844,6 +3852,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162842Z" creationid="manuel" creationdate="20180615T162842Z">
         <seg>Ogni cambiamento registrato (tracciato) nel documento verrà perso durante questo processo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any changes to object parameters you carry out are applied to all of the objects within the temporary group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112750Z" creationid="manuel" creationdate="20180705T112750Z">
+        <seg>Qualsiasi modifica effettuata sui parametri degli oggetti viene applicata a tutti gli oggetti che fanno parte del gruppo temporaneo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9583,6 +9599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you can rotate a temporary group of objects in its entirety.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112752Z" creationid="manuel" creationdate="20180705T112752Z">
+        <seg>Ad esempio, potete ruotare un gruppo temporaneo di oggetti come una unica entità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can use the &lt;f1&gt;Heading 1&lt;/f1&gt; style for chapter titles and the &lt;f2&gt;Heading 2&lt;/f2&gt; and &lt;f3&gt;Heading 3&lt;/f3&gt; styles for chapter subheadings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084105Z" creationid="manuel" creationdate="20180628T084105Z">
@@ -10467,6 +10491,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055315Z" creationid="manuel" creationdate="20180531T055315Z">
         <seg>Risultato immagine – Usa accelerazione hardware</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grouping</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112715Z" creationid="manuel" creationdate="20180705T112715Z">
+        <seg>Raggruppamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -15656,6 +15688,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Permanent grouping</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112758Z" creationid="manuel" creationdate="20180705T112758Z">
+        <seg>Raggruppamento permanente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Personalization</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084550Z" creationid="manuel" creationdate="20180606T084139Z">
@@ -18252,6 +18292,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112311Z" creationid="manuel" creationdate="20180611T112311Z">
         <seg>I modelli possono contenere qualsiasi cosa si possa trovare nei normali documenti, come testo, grafici, stili, informazioni di configurazione specifiche definite dall'utente come unità di misura, lingua, stampante predefinita, barre degli strumenti e menu personalizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Temporary grouping</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112718Z" creationid="manuel" creationdate="20180705T112718Z">
+        <seg>Raggruppamento temporaneo</seg>
       </tuv>
     </tu>
     <tu>
@@ -20982,6 +21030,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101529Z" creationid="manuel" creationdate="20180615T164408Z">
         <seg>Per cominciare, scegliete &lt;f0&gt;File &gt; Modelli &gt; Gestisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;modelli&lt;/f2&gt;&lt;/f1&gt; per aprire la finestra di dialogo &lt;f3&gt;Modelli&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To cancel a temporary grouping of objects simply click outside of the selection handles displayed around the objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112753Z" creationid="manuel" creationdate="20180705T112753Z">
+        <seg>Per cancellare un raggruppamento temporaneo di oggetti semplicemente fate clic all'esterno delle maniglie di selezione mostrate intorno agli oggetti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26114,6 +26170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055935Z" creationid="manuel" creationdate="20180529T055935Z">
         <seg>opzioni generali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>grouping</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112720Z" creationid="manuel" creationdate="20180705T112720Z">
+        <seg>raggruppamento</seg>
       </tuv>
     </tu>
     <tu>
