@@ -5844,6 +5844,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the triangle to the right of the icon to open the tool palette containing tools that are available for drawing curves and polygons (Figure &lt;t5&gt;175&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093018Z" creationid="manuel" creationdate="20180705T093018Z">
+        <seg>Fate clic sul triangolo a destra dell'icona per aprire la tavolozza degli strumenti contenente gli strumenti disponibili per disegnare curve e poligoni (Figura &lt;t5&gt;175&lt;/t5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the unsaved changes icon to save the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T070404Z" creationid="manuel" creationdate="20180618T070348Z">
@@ -20229,6 +20237,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T071929Z" creationid="manuel" creationdate="20180627T071929Z">
         <seg>Per &lt;i0/&gt;definire i rientri e le impostazioni di tabulazione per uno o più paragrafi selezionati, fate doppio clic su una parte del righello al di fuori delle icone di rientro sinistra e destra per aprire la scheda &lt;f1&gt;Rientri e spaziature&lt;/f1&gt; della finestra di dialogo Paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;i0/&gt;draw&lt;i1/&gt;&lt;i2/&gt; a curve or polygon, click the &lt;f3&gt;Curve&lt;/f3&gt; icon on the Drawing toolbar or the &lt;f4&gt;Insert Shapes&lt;/f4&gt; sub-section in Sidebar Properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T092925Z" creationid="manuel" creationdate="20180705T092925Z">
+        <seg>Per &lt;i0/&gt;disegnare&lt;i1/&gt;&lt;i2/&gt; una curva o un poligono, fate clic sull'icona &lt;f3&gt;Curva&lt;/f3&gt; sulla barra degli strumenti Disegno o sulla sottosezione &lt;f4&gt;Inserisci forme&lt;/f4&gt; nella barra laterale</seg>
       </tuv>
     </tu>
     <tu>
