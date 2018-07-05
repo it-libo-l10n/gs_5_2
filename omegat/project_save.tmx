@@ -8177,8 +8177,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;178&lt;/seq0&gt;: Glue Points toolbar and available tools</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095601Z" creationid="manuel" creationdate="20180705T095601Z">
-        <seg>Figure &lt;seq0&gt;178&lt;/seq0&gt;: barra degli strumenti Punti di incollaggio e strumenti disponibili</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095743Z" creationid="manuel" creationdate="20180705T095601Z">
+        <seg>Figura &lt;seq0&gt;178&lt;/seq0&gt;: barra degli strumenti Punti di incollaggio e strumenti disponibili</seg>
       </tuv>
     </tu>
     <tu>
@@ -8827,6 +8827,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081054Z" creationid="manuel" creationdate="20180628T081054Z">
         <seg>La Figura &lt;t0&gt;84&lt;/t0&gt; illustra un esempio di un testo con commenti inseriti da due diversi autori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t2&gt;179&lt;/t2&gt; shows an example of two objects and a connector.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095738Z" creationid="manuel" creationdate="20180705T095738Z">
+        <seg>Figura &lt;t2&gt;179&lt;/t2&gt; shows an example of two objects and a connector.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23170,6 +23178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105128Z" creationid="manuel" creationdate="20180629T105128Z">
         <seg>Quando nessun oggetto risulta selezionato, essi mostrano la posizione del puntatore del mouse, cosa che aiuta a posizionare più accuratamente gli oggetti disegnati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When objects are moved or reordered, &lt;i0/&gt;&lt;i1/&gt;the connectors remain attached to a glue point.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095729Z" creationid="manuel" creationdate="20180705T095729Z">
+        <seg>Quando gli oggetti vengono spostati o riordinati, i &lt;i0/&gt;&lt;i1/&gt;connettori rimangono attaccati al punto di incollaggio.</seg>
       </tuv>
     </tu>
     <tu>
