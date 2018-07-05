@@ -16528,6 +16528,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Format &gt; Styles and Formatting &lt;/f0&gt;or press &lt;f1&gt;F11&lt;/f1&gt; to open the Styles and Formatting dialog, or click on the Styles and Formatting icon on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094110Z" creationid="manuel" creationdate="20180705T094110Z">
+        <seg>Selezionate &lt;f0&gt;Formato &gt; Stili e formattazione &lt;/f0&gt;oppure premete &lt;f1&gt;F11&lt;/f1&gt; per aprire la finestra di dialogo Stili e Formattazione, o fate clic sull'icona Stili e formattazione nella barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Insert&lt;/f0&gt; and then &lt;f1&gt;With Page Style&lt;/f1&gt; and specify the page style to use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103053Z" creationid="manuel" creationdate="20180627T103053Z">
