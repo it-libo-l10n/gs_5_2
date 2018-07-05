@@ -9871,6 +9871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information, see Chapter 5, Combining Multiple Objects, &lt;f0&gt;in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Draw Guide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T142836Z" creationid="manuel" creationdate="20180705T142836Z">
+        <seg>Per maggiori informazioni, si veda il Capitolo 5 (Combinare oggetti multipli) &lt;f0&gt;nella &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Guida a Draw&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information, see Chapter &lt;f1&gt;6&lt;/f1&gt;, Formatting Pages, in the &lt;f2&gt;Writer Guide&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085835Z" creationid="manuel" creationdate="20180627T085835Z">
@@ -22966,6 +22974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Draw, you can group or combine objects together allowing you to treat multiple objects as one unit, or to merge objects to form a new shape.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T142611Z" creationid="manuel" creationdate="20180705T142611Z">
+        <seg>Usando Draw, potete raggruppare o combinare gli oggetti insieme, permettendovi di trattare oggetti multipli come un'unica unità, o di unire gli oggetti in una nuova forma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Draw, you can quickly create a wide variety of graphical images.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060225Z" creationid="manuel" creationdate="20180629T060225Z">
@@ -23848,8 +23864,8 @@
       <tuv lang="EN">
         <seg>When you have finished editing an individual member of a group, go to &lt;f0&gt;Modify &gt; Exit Group&lt;/f0&gt;, or right-click and select &lt;f1&gt;Exit Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Shift+F3&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T142449Z" creationid="manuel" creationdate="20180705T142449Z">
-        <seg>Quando avete finito le modifiche sul singolo oggetto del gruppo, andate su &lt;f0&gt;Cambia &gt; Abbandona&lt;/f0&gt;, oppure fate clic con il pulsante destro e selezionate &lt;f1&gt;Esci dal gruppo&lt;/f1&gt; dal menu a scomparsa, o usate la scorciatoia da tastiera &lt;f2&gt;&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T142550Z" creationid="manuel" creationdate="20180705T142449Z">
+        <seg>Quando avete finito le modifiche sul singolo oggetto del gruppo, andate su &lt;f0&gt;Cambia &gt; Abbandona&lt;/f0&gt;, oppure fate clic con il pulsante destro e selezionate &lt;f1&gt;Esci dal gruppo&lt;/f1&gt; dal menu a scomparsa, o usate la scorciatoia da tastiera &lt;f2&gt;Maiusc + F3&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
