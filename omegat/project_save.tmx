@@ -10527,6 +10527,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Grouping of objects is similar to putting objects into a container.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T144935Z" creationid="manuel" creationdate="20180705T144935Z">
+        <seg>Il raggruppamento di oggetti è simile al mettere oggetti in un contenitore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML compatibility</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155154Z" creationid="manuel" creationdate="20180608T155154Z">
