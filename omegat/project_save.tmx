@@ -9983,6 +9983,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glue points become visible when the &lt;f0&gt;Connectors&lt;/f0&gt; icon is selected on the Drawing toolbar or the &lt;f1&gt;Insert Shapes&lt;/f1&gt; sub‑section in Sidebar Properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094814Z" creationid="manuel" creationdate="20180705T094814Z">
+        <seg>I punti di incollaggio diventano visibili quando l'icona &lt;f0&gt;Connettori&lt;/f0&gt; è selezionata nella barra degli strumenti Disegno o nella sottosezione &lt;f1&gt;Inserisci forme&lt;/f1&gt; in Proprietà barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Advance slide&lt;/f0&gt; and select the &lt;f1&gt;Automatically after&lt;/f1&gt; option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
@@ -10115,6 +10123,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204228Z" creationid="Marco Marega" creationdate="20180622T204228Z">
         <seg>Andate in &lt;f3&gt;Strumenti &gt; Opzioni&gt; LibreOffice &gt; Generale&lt;/f3&gt; e selezionate o deselezionate l'opzione &lt;f4&gt;Utilizza finestre di dialogo LibreOffice&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f5&gt;View &gt; Toolbars &gt; Glue Points&lt;/f5&gt; on to open the toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095042Z" creationid="manuel" creationdate="20180705T095042Z">
+        <seg>Andate su &lt;f5&gt;Visualizza &gt; Barre degli strumenti &gt; Punti di incollaggio&lt;/f5&gt; per aprire la barra.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23754,6 +23770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170226Z" creationid="manuel" creationdate="20180628T170226Z">
         <seg>Potete aggiungere modelli di documenti master a LibreOffice allo stesso modo dei normali modelli di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add more glue points and customize glue points, using the &lt;f3&gt;Glue Points&lt;/f3&gt; toolbar (Figure &lt;t4&gt;178&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095005Z" creationid="manuel" creationdate="20180705T095005Z">
+        <seg>Potete aggiungere più punti di incollaggio e personalizzarli, usando la barra degli strumenti &lt;f3&gt;Punti di incollaggio&lt;/f3&gt; (Figura &lt;t4&gt;178&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
