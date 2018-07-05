@@ -6862,6 +6862,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cross-fading</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145810Z" creationid="manuel" creationdate="20180705T145810Z">
+        <seg>Dissolvenza incrociata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cross-fading transforms one object shape to another object shape and only works when two objects are selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145818Z" creationid="manuel" creationdate="20180705T145818Z">
+        <seg>La dissolvenza incrociata permette di trasformare la forma di un oggetto in un'altra forma; funziona soltanto quando sono selezionati due oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl-click required to follow hyperlinks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084031Z" creationid="manuel" creationdate="20180606T084031Z">
@@ -8431,6 +8447,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;203&lt;/seq0&gt;: Duplicate dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145742Z" creationid="manuel" creationdate="20180705T145742Z">
+        <seg>Figura &lt;seq0&gt;203&lt;/seq0&gt;: finestra di dialogo Duplica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;204&lt;/seq0&gt;: Duplication result</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145807Z" creationid="manuel" creationdate="20180705T145807Z">
+        <seg>Figura &lt;seq0&gt;204&lt;/seq0&gt;: risultato della duplicazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;207&lt;/seq0&gt;: Inserting comments</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104236Z" creationid="manuel" creationdate="20180705T104236Z">
@@ -9591,6 +9623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, when the options in the dialog are applied to a rectangle, they produce the result shown in Figure &lt;t0&gt;204&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145731Z" creationid="manuel" creationdate="20180705T145731Z">
+        <seg>Ad esempio, quando le opzioni nella finestra di dialogo vengono applicate a un rettangolo, producono il risultato mostrato in Figura &lt;t0&gt;204&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can also save printer settings, and general behaviors set from &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;, such as &lt;f1&gt;Paths&lt;/f1&gt; and &lt;f2&gt;Colors&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103353Z" creationid="manuel" creationdate="20180615T103353Z">
@@ -10331,6 +10371,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
         <seg>Go to &lt;f0&gt;Advance slide&lt;/f0&gt; and select the &lt;f1&gt;Automatically after&lt;/f1&gt; option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Edit &gt; Cross-fading&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Cross-fading&lt;/f1&gt; dialog (Figure &lt;t2&gt;205&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145926Z" creationid="manuel" creationdate="20180705T145926Z">
+        <seg>Andate su &lt;f0&gt;Modifica &gt; Morphing&lt;/f0&gt; sulla barra Menu per aprire la finestra di dialogo &lt;f1&gt;Morphing&lt;/f1&gt; (Figura &lt;t2&gt;209&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17040,6 +17088,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Cross-fading attributes&lt;/f0&gt; to apply a gradual change of line and fill properties between the two objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145938Z" creationid="manuel" creationdate="20180705T145938Z">
+        <seg>Selezionate &lt;f0&gt;Includi gli attributi&lt;/f0&gt; per applicare una modifica graduale delle proprietà di linea e riempimento tra i due oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Edit &gt; Copy&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+C&lt;/f1&gt;, to copy the contents of the document to the clipboard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101319Z" creationid="manuel" creationdate="20180616T101113Z">
@@ -17080,6 +17136,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Increments&lt;/f0&gt; to determine the number of shapes between the two objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145932Z" creationid="manuel" creationdate="20180705T145932Z">
+        <seg>Selezionate &lt;f0&gt;Passaggi&lt;/f0&gt; per determinare il numero di forme tra i due oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Insert&lt;/f0&gt; and then &lt;f1&gt;With Page Style&lt;/f1&gt; and specify the page style to use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103053Z" creationid="manuel" creationdate="20180627T103053Z">
@@ -17108,6 +17172,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071650Z" creationid="manuel" creationdate="20180614T071650Z">
         <seg>Selezionate &lt;f0&gt;Sovrascrivi&lt;/f0&gt; se desiderate sostituire gli stili nel documento originale che hanno lo stesso nome degli stili nel documento da cui importate gli stili di formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Same orientation&lt;/f0&gt; to apply a smooth transition between the two objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145944Z" creationid="manuel" creationdate="20180705T145944Z">
+        <seg>Selezionate &lt;f0&gt;Stesso orientamento&lt;/f0&gt; per applicare una transizione morbida tra i due oggetti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17400,6 +17472,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the required options chosen from the options available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145651Z" creationid="manuel" creationdate="20180705T145651Z">
+        <seg>Selezionate le opzioni desiderate tra quelle disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the required template &lt;f0&gt;and click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, or double-click on the selected template.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T091446Z" creationid="manuel" creationdate="20180614T091446Z">
@@ -17524,6 +17604,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164025Z" creationid="manuel" creationdate="20180608T164025Z">
         <seg>Selezionate questa opzione per includere le macro (script) di LibreOffice Basic nell'esportazione al formato HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select two differently shaped objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145822Z" creationid="manuel" creationdate="20180705T145822Z">
+        <seg>Selezionate due oggetti con forme diverse.</seg>
       </tuv>
     </tu>
     <tu>
