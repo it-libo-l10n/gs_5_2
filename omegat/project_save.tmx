@@ -7375,6 +7375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Draw offers a range of different connectors and connector functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T101843Z" creationid="manuel" creationdate="20180705T101843Z">
+        <seg>Draw dispone di un ampio insieme di connettori differenti e funzioni per i connettori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Draw provides a wide range of shapes, located in palettes accessed from the Drawing toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164445Z" creationid="manuel" creationdate="20180703T164445Z">
@@ -8833,8 +8841,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;t2&gt;179&lt;/t2&gt; shows an example of two objects and a connector.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095738Z" creationid="manuel" creationdate="20180705T095738Z">
-        <seg>Figura &lt;t2&gt;179&lt;/t2&gt; shows an example of two objects and a connector.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T101830Z" creationid="manuel" creationdate="20180705T095738Z">
+        <seg>Figura &lt;t2&gt;179&lt;/t2&gt; mostra un esempio di due oggetti ed un connettore.</seg>
       </tuv>
     </tu>
     <tu>
