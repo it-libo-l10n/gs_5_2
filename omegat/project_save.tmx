@@ -14032,6 +14032,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move &lt;f6&gt;your&lt;/f6&gt; pointer to where you want the line to start and drag to draw the dimension line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T092043Z" creationid="manuel" creationdate="20180705T092043Z">
+        <seg>Muovete &lt;f6&gt;il puntatore&lt;/f6&gt; nel punto in cui volete che inizi la linea e trascinate per disegnare la linea di quotatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move Down</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165929Z" creationid="manuel" creationdate="20180626T165929Z">
@@ -20752,6 +20760,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102444Z" creationid="manuel" creationdate="20180704T102444Z">
         <seg>Per disegnare un cerchio, fate clic sull'icona &lt;f2&gt;Ellisse&lt;/f2&gt; e tenete premuto il tasto &lt;f3&gt;Maiusc&lt;/f3&gt; finché tracciate il cerchio.&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To draw a dimension line, open the &lt;f0&gt;Arrows&lt;/f0&gt; toolbar &lt;f1&gt;(Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;172&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt; and click the &lt;f5&gt;Dimension Line&lt;/f5&gt; icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T091935Z" creationid="manuel" creationdate="20180705T091935Z">
+        <seg>Per disegnare una linea di quotatura, aprite la barra &lt;f0&gt;Frecce&lt;/f0&gt; &lt;f1&gt;(Figura  &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;172&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt; e fate clic sull'icona &lt;f5&gt;Linea di quotatura&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
