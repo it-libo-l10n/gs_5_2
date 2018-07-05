@@ -8247,6 +8247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;207&lt;/seq0&gt;: Inserting comments</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104236Z" creationid="manuel" creationdate="20180705T104236Z">
+        <seg>Figura &lt;seq0&gt;207&lt;/seq0&gt;: inserire commenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Choosing general printing options to apply to all LibreOffice components</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065959Z" creationid="manuel" creationdate="20180531T065959Z">
@@ -9931,6 +9939,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222835Z" creationid="Marco Marega" creationdate="20180620T222835Z">
         <seg>Dalla stessa lista potete scegliere quali elementi includere nella Barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From this menu, you can also delete the current comment, all the comments from the same author, or all the comments in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104120Z" creationid="manuel" creationdate="20180705T104120Z">
+        <seg>Da questo menu, potete anche cancellare il commento corrente, tutti i commenti dello stesso autore, o tutti i commenti presenti nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21757,6 +21773,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To show or hide the comment markers, go to &lt;f0&gt;View &gt; Comments&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104224Z" creationid="manuel" creationdate="20180705T104224Z">
+        <seg>Per mostrare o nascondere i contrassegni dei commenti, andate su &lt;f0&gt;Visualizza &gt; Commenti&lt;/f0&gt; sulla barra del Menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To start a LibreOffice component directly by using Quickstarter:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T210102Z" creationid="Marco Marega" creationdate="20180614T210102Z">
@@ -22081,6 +22105,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164323Z" creationid="manuel" creationdate="20180628T164323Z">
         <seg>Tipicamente, la modifica è concessa per tutto il documento o non è concessa affatto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typically you might place it on or near an object you refer to in the comment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104128Z" creationid="manuel" creationdate="20180705T104128Z">
+        <seg>Tipicamente potrebbe essere posizionato sopra o vicino ad un oggetto a cui fate riferimento nel commento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24182,6 +24214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can apply basic formatting to parts of the text by selecting it, right-clicking, and choosing from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104049Z" creationid="manuel" creationdate="20180705T104049Z">
+        <seg>Potete applicare una formattazione di base a parti del testo selezionandolo, facendo clic con il pulsante destro, ed effettuando una scelta dal menu a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can apply many formats to characters using the buttons on the Formatting toolbar and by using the Character panel of the Sidebar’s Properties deck.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T155106Z" creationid="manuel" creationdate="20180626T155106Z">
@@ -24478,6 +24518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can go to &lt;f0&gt;Tools &gt; Options &gt; User Data&lt;/f0&gt; to enter the name you want to appear in the Author field of the comment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104301Z" creationid="manuel" creationdate="20180705T104301Z">
+        <seg>Andate su &lt;f0&gt;Strumenti &gt; Opzioni &gt; Dati utente&lt;/f0&gt; per inserire il nome che desiderate venga mostrato come autore dei commenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can have as many slide shows as you want from a single presentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085956Z" creationid="luke" creationdate="20180515T085956Z">
@@ -24578,6 +24626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164850Z" creationid="manuel" creationdate="20180626T164850Z">
         <seg>Potete spostare gli elementi in alto o in basso nell'elenco, creare punti secondari, modificare lo stile dei punti elenco e accedere alla finestra di dialogo Elenchi puntati e numerati, che contiene controlli più dettagliati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can move the small comment markers to anywhere you wish on the drawing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104125Z" creationid="manuel" creationdate="20180705T104125Z">
+        <seg>Potete spostare i piccoli contrassegni dei commenti in qualsiasi punto del disegno.</seg>
       </tuv>
     </tu>
     <tu>
