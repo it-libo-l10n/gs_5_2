@@ -4192,6 +4192,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the moment no mirror command exists in Draw.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150120Z" creationid="manuel" creationdate="20180705T150120Z">
+        <seg>Al momento non esiste un comando in Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the time of writing this chapter, LibreOffice has no direct method of changing the template that a document uses; the Template Changer extension has not been updated for this version of LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T095821Z" creationid="manuel" creationdate="20180616T095821Z">
@@ -5846,6 +5854,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101159Z" creationid="manuel" creationdate="20180616T101159Z">
         <seg>Fate clic all'interno del documento vuoto creato nella fase 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;f0&gt;OK&lt;/f0&gt; and the result is a new group of objects with the first object selected as the start object and the second object selected as the end object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145952Z" creationid="manuel" creationdate="20180705T145952Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; e il risultato sarà un nuovo gruppo di oggetti, con il primo oggetto selezionato come oggetto iniziale e il secondo oggetto selezionato come oggetto finale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8463,6 +8479,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;205&lt;/seq0&gt;: Cross-fading dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150042Z" creationid="manuel" creationdate="20180705T150022Z">
+        <seg>Figura &lt;seq0&gt;205&lt;/seq0&gt;: finestra di dialogo Morphing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;206&lt;/seq0&gt;: Cross-fading result</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150037Z" creationid="manuel" creationdate="20180705T150037Z">
+        <seg>Figura &lt;seq0&gt;206&lt;/seq0&gt;: risultato della dissolvenza incrociata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;207&lt;/seq0&gt;: Inserting comments</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104236Z" creationid="manuel" creationdate="20180705T104236Z">
@@ -9619,6 +9651,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212500Z" creationid="Marco Marega" creationdate="20180619T212500Z">
         <seg>Per esempio, se il cursore si trova su di un'immagine, la barra di Formattazione fornirà strumenti per modificare oggetti grafici; se il cursore è posizionato su del testo, gli strumenti proposti saranno quelli per la formattazione del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, when the options in the dialog are applied to a rectangle and a triangle, the cross fade produces the result shown in Figure &lt;t1&gt;206&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150017Z" creationid="manuel" creationdate="20180705T150017Z">
+        <seg>Ad esempio, quando le opzioni nella finestra di dialogo vengono applicate a un rettangolo, producono il risultato mostrato in Figura &lt;t1&gt;206&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14452,6 +14492,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113536Z" creationid="manuel" creationdate="20180609T113536Z">
         <seg>Segno meno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mirror copies</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150058Z" creationid="manuel" creationdate="20180705T150058Z">
+        <seg>Rispecchiare un oggetto</seg>
       </tuv>
     </tu>
     <tu>
