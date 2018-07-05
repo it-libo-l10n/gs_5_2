@@ -5866,6 +5866,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on an object or group of objects and go to &lt;f0&gt;Edit &gt; Duplicate&lt;/f0&gt; on the Menu bar or use the keyboard shortcut &lt;f1&gt;Shift+F3&lt;/f1&gt; to open the &lt;f2&gt;Duplicate&lt;/f2&gt; dialog (Figure &lt;t3&gt;203&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145536Z" creationid="manuel" creationdate="20180705T145536Z">
+        <seg>Fate clic su di un oggetto o un gruppo di oggetti e scegliete &lt;f0&gt;Modifica &gt; Duplica&lt;/f0&gt; sulla barra Menu o usate la scorciatoia da tastiera &lt;f1&gt;Maiusc + F3&lt;/f1&gt;per aprire la finestra di dialogo &lt;f2&gt;Duplica&lt;/f2&gt; (Figura &lt;t3&gt;203&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on one of them to change the ruler to that unit.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072923Z" creationid="manuel" creationdate="20180627T072923Z">
