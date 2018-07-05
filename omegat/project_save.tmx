@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3D objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105337Z" creationid="manuel" creationdate="20180705T105337Z">
+        <seg>Oggetti 3D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>51</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175458Z" creationid="Elisabetta Manuele" creationdate="20180620T175458Z">
@@ -3644,6 +3652,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161525Z" creationid="manuel" creationdate="20180621T161525Z">
         <seg>Alternativamente, usate i pulsanti sulla barra degli strumenti &lt;f3&gt;Standard&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although Draw does not match the functionality of the leading drawing or picture editing programs, it is capable of producing and editing very good 3D drawings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105414Z" creationid="manuel" creationdate="20180705T105414Z">
+        <seg>Nonostante Draw non possieda le funzionalità dei principali programmi di disegno o di ritocco fotografico, è però in grado di produrre e modificare con ottimi risultati disegni tridimensionali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7030,6 +7046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on which type you choose, there are different methods of editing of a 3D object (rotation, illumination, perspective, and so on) with 3D shapes being simpler to set up and edit than 3D bodies.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105445Z" creationid="manuel" creationdate="20180705T105445Z">
+        <seg>In base a quale dei due tipi scegliete, vi sono metodi differenti per modificare un oggetto 3D (rotazione, illuminazione, prospettiva, e così via), essendo poi le forme 3D più semplici da impostare e modificare rispetto ai corpi 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deselecting this option reverts to the Postscript document workflow system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065849Z" creationid="manuel" creationdate="20180531T065849Z">
@@ -7419,6 +7443,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T101843Z" creationid="manuel" creationdate="20180705T101843Z">
         <seg>Draw dispone di un ampio insieme di connettori differenti e funzioni per i connettori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Draw offers two types of 3D objects: &lt;f0&gt;3D bodies&lt;/f0&gt; and &lt;f1&gt;3D shapes&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105426Z" creationid="manuel" creationdate="20180705T105426Z">
+        <seg>Draw offre due tipi di oggetti tridimensionali: &lt;f0&gt;corpi 3D&lt;/f0&gt; e &lt;f1&gt;forme 3D&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10671,6 +10703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, 3D bodies currently allow for more customization.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105529Z" creationid="manuel" creationdate="20180705T105529Z">
+        <seg>Di contro, i corpi 3D consentono una maggiore personalizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, LibreOffice options can be set at a component level or even at document level.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185032Z" creationid="Marco Marega" creationdate="20180528T185032Z">
@@ -11939,6 +11979,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144322Z" creationid="manuel" creationdate="20180628T144322Z">
         <seg>File immagine, che includono foto, disegni, immagini scansionate, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Images created by another program, including photographs from a digital camera (&lt;f0&gt;Insert &gt; Picture &gt; From File&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105301Z" creationid="manuel" creationdate="20180705T105301Z">
+        <seg>Immagini create da altri programmi, incluse fotografie prese con macchine fotografiche digitali (&lt;f0&gt;Inserisci  &gt;Immagine &gt; Da File&lt;/f0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18312,6 +18360,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Draw Gallery; see Chapter 11, Graphics, the Gallery, and Fontwork, in this guide for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105334Z" creationid="manuel" creationdate="20180705T105334Z">
+        <seg>La Galleria di Draw; vedere il Capitolo 11 (Oggetti grafici, Galleria e Fontwork) in questa guida per maggiori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The EnterMyName macro is not as complicated as it first appears.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154800Z" creationid="luke" creationdate="20180514T154800Z">
@@ -23702,6 +23758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Working &lt;i0/&gt;&lt;i1/&gt;with 3D objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105404Z" creationid="manuel" creationdate="20180705T105404Z">
+        <seg>Lavorare &lt;i0/&gt;&lt;i1/&gt;con oggetti tridimensionali (3D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Working with 3D objects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184637Z" creationid="Elisabetta Manuele" creationdate="20180620T184637Z">
@@ -25706,6 +25770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095114Z" creationid="manuel" creationdate="20180704T095114Z">
         <seg>disegnare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>drawing objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105351Z" creationid="manuel" creationdate="20180705T105351Z">
+        <seg>oggetti di disegno</seg>
       </tuv>
     </tu>
     <tu>
