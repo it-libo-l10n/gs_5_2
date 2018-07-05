@@ -2936,6 +2936,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A graphic object is not dynamic and does not behave like a text frame.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094338Z" creationid="manuel" creationdate="20180705T094338Z">
+        <seg>Un oggetto grafico non è dinamico e non si comporta come una casella di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A header and a footer are properties of the page style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T093521Z" creationid="manuel" creationdate="20180627T093521Z">
@@ -10095,6 +10103,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Graphic styles affect all of the text within a text frame.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094144Z" creationid="manuel" creationdate="20180705T094129Z">
+        <seg>Gli Stili immagine si applicano a tutto il testo all'interno della casella di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Graphics</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145810Z" creationid="manuel" creationdate="20180611T145810Z">
@@ -11395,6 +11411,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142210Z" creationid="manuel" creationdate="20180621T142210Z">
         <seg>Altrimenti qualunque modifica sia stata fatta dopo l'ultimo salvataggio, sarà salvata solamente nella versione Microsoft Word del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you double-click on a graphic object, or press &lt;f0&gt;F2&lt;/f0&gt; or click on the &lt;f1&gt;Text&lt;/f1&gt; icon when an object is selected, you can add text to the graphic object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094309Z" creationid="manuel" creationdate="20180705T094309Z">
+        <seg>Se fate doppio clic su un oggetto grafico, oppure premete &lt;f0&gt;F2&lt;/f0&gt; o fate clic sull'icona &lt;f1&gt;Testo&lt;/f1&gt; quando un oggetto è selezionato, potete aggiungere testo all'oggetto grafico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17824,6 +17848,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text frames can also have fill colors, shadows, and other attributes, just like any other Draw object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094246Z" creationid="manuel" creationdate="20180705T094246Z">
+        <seg>Le cornici di testo possono anche avere colori di riempimento, ombre e altri attributi, proprio come ogni altro oggetto di Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text pasted from Web sites and other sources may also be placed into frames or tables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161628Z" creationid="manuel" creationdate="20180621T161628Z">
@@ -19753,6 +19785,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These options are available by right-clicking on the text frame itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094250Z" creationid="manuel" creationdate="20180705T094250Z">
+        <seg>Queste opzioni sono disponibili facendo clic con il pulsante destro del mouse sulla casella di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These options are for macro programmers and are not discussed here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071621Z" creationid="manuel" creationdate="20180608T071621Z">
@@ -20181,6 +20221,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T103155Z" creationid="manuel" creationdate="20180621T103155Z">
         <seg>Questa scheda è disponibile solo quando &lt;f2&gt;Abilita funzioni sperimentali&lt;/f2&gt; è stato selezionato in &lt;f3&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This text then becomes part of the graphic object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094328Z" creationid="manuel" creationdate="20180705T094328Z">
+        <seg>Tale testo diviene quindi parte dell'oggetto grafico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21116,6 +21164,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To keep text within the borders of the object, you have to use paragraphs, line breaks, or smaller text size, increase the object size, or combine all four methods.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094351Z" creationid="manuel" creationdate="20180705T094351Z">
+        <seg>Per mantenere il testo all'interno dei bordi dell'oggetto, dovete usare paragrafi, interruzioni di riga, diminuire le dimensioni del testo, aumentare le dimensioni dell'oggetto, oppure combinare i quattro metodi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To learn where the template folders are stored on your computer, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160355Z" creationid="manuel" creationdate="20180615T160355Z">
@@ -21225,6 +21281,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T082928Z" creationid="manuel" creationdate="20180628T082928Z">
         <seg>Per spostarvi da un commento all'altro, aprite il Navigatore (&lt;f0&gt;F5&lt;/f0&gt;), espandete la sezione Commenti e fate clic sul testo del commento per muovere il cursore sul punto di inserimento del commento all'interno del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To only format parts of the text, use direct formatting with the Text Formatting toolbar or the &lt;f2&gt;Character&lt;/f2&gt; and &lt;f3&gt;Paragraph&lt;/f3&gt; sub-sections in Sidebar Properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094240Z" creationid="manuel" creationdate="20180705T094240Z">
+        <seg>Per formattare solo parti del testo, utilizzate la formattazione diretta con la barra degli strumenti Formattazione testo o le sottosezioni &lt;f2&gt;Carattere&lt;/f2&gt; e &lt;f3&gt;Paragrafo&lt;/f3&gt; in Proprietà barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24378,6 +24442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T072840Z" creationid="manuel" creationdate="20180606T072840Z">
         <seg>È possibile recuperare le password dall'elenco dopo aver inserito la password principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can rotate the frame and write the text at any angle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094248Z" creationid="manuel" creationdate="20180705T094248Z">
+        <seg>Potete ruotare il riquadro e scrivere il testo con qualsiasi angolazione.</seg>
       </tuv>
     </tu>
     <tu>
