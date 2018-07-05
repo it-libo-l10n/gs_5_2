@@ -3488,6 +3488,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you have selected your objects, the &lt;f0&gt;Merge&lt;/f0&gt;, &lt;f1&gt;Subtract&lt;/f1&gt;, and &lt;f2&gt;Intersect&lt;/f2&gt; functions also become available so that you can create a new object from your selected objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112326Z" creationid="manuel" creationdate="20180705T112326Z">
+        <seg>Dopo che avete selezionato gli oggetti, diventano disponibili anche le funzioni &lt;f0&gt;Unisci&lt;/f0&gt;, &lt;f1&gt;Sottrai&lt;/f1&gt;, e &lt;f2&gt;Interseca&lt;/f2&gt;, così da poter creare un nuovo oggetto dagli oggetti selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you have used a paragraph style at least once in a document, the style name appears on the Apply Style list near the left-hand end of the Formatting toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T152426Z" creationid="manuel" creationdate="20180612T152426Z">
@@ -3852,6 +3860,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064637Z" creationid="manuel" creationdate="20180618T064637Z">
         <seg>Tutte le impostazioni della lingua formattate direttamente possono essere ripristinate alla lingua predefinita da questo menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any editing of a combined object affects all the objects that were used when combination was carried out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112208Z" creationid="manuel" creationdate="20180705T112208Z">
+        <seg>Qualsiasi modifica di un oggetto combinato influisce su tutti gli oggetti usati per creare la combinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6305,6 +6321,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184618Z" creationid="Elisabetta Manuele" creationdate="20180620T184618Z">
         <seg>Combinare oggetti multipli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Combining objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112135Z" creationid="manuel" creationdate="20180705T112135Z">
+        <seg>Combinare gli oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Combining objects is a permanent merging of objects that creates a new object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112203Z" creationid="manuel" creationdate="20180705T112203Z">
+        <seg>Con Combina gli oggetti vengono fusi permanentemente per creare un nuovo oggetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17048,6 +17080,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select several objects, then go to &lt;f0&gt;Modify &gt; Combine&lt;/f0&gt; on the Menu bar, or right-click on the objects and select &lt;f1&gt;Combine&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Ctrl+Shift+K&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112317Z" creationid="manuel" creationdate="20180705T112317Z">
+        <seg>Selezionate alcuni oggetti, quindi andate su &lt;f0&gt;Cambia &gt; Combina&lt;/f0&gt; sulla barra del Menu, o fate clic con il pulsante destro del mouse sugli oggetti e selezionate &lt;f1&gt;Combina&lt;/f1&gt; dal menu a comparsa, oppure usate la scorciatoia da tastiera &lt;f2&gt;Ctrl+Maiusc+K&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select some text and drag it to the Styles and Formatting window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070431Z" creationid="manuel" creationdate="20180614T070431Z">
@@ -19593,6 +19633,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The original objects are no longer available as individual entities and cannot be edited as individual objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112206Z" creationid="manuel" creationdate="20180705T112206Z">
+        <seg>Gli oggetti originali non sono più disponibili come entità individuali e non possono essere modificati come singoli oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The other options on this dialog should be self-explanatory.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084127Z" creationid="manuel" creationdate="20180606T084127Z">
@@ -22025,6 +22073,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222742Z" creationid="Marco Marega" creationdate="20180620T222742Z">
         <seg>Per sganciare la Barra laterale e renderla mobile e per agganciare una Barra laterale mobile, usate l'elenco a comparsa in cima alla barra a schede (vedete la Figura &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To ungroup or break apart a group of objects, select the group then go to &lt;f0&gt;Modify &gt; Ungroup&lt;/f0&gt; on the Menu bar, or right-click and select &lt;f1&gt;Ungroup&lt;/f1&gt; from the context menu or use the keyboard shortcut C&lt;f2&gt;trl+Alt+Shift+G&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112132Z" creationid="manuel" creationdate="20180705T112132Z">
+        <seg>Per sciogliere un gruppo di oggetti, selezionate il gruppo quindi andate su &lt;f0&gt;Cambia &gt; Separa&lt;/f0&gt; sulla barra dei menu principale, o fate clic con il tasto destro e selezionate &lt;f1&gt;Separa&lt;/f1&gt; dal menu a comparsa oppure usate la scorciatoia da tastiera C&lt;f2&gt;trl+Alt+Maiusc+G&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
