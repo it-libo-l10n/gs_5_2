@@ -3528,6 +3528,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All Draw objects have glue points, which are not normally displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094631Z" creationid="manuel" creationdate="20180705T094631Z">
+        <seg>In Draw tutti gli oggetti hanno dei punti di incollaggio, che normalmente non vengono mostrati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All components contain the Properties, Styles and Formatting, Gallery, and Navigator decks.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122315Z" creationid="Marco Marega" creationdate="20180620T221748Z">
@@ -9519,6 +9527,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information about text, see&lt;f0&gt; &lt;/f0&gt;Chapter 2, Drawing Basic Shapes, and Chapter 9, Adding and Formatting Text, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094549Z" creationid="manuel" creationdate="20180705T094549Z">
+        <seg>Per maggiori informazioni riguardo al testo, vedere il&lt;f0&gt; &lt;/f0&gt;Capitolo 2 (Disegnare forme base) e il Capitolo 9 (Aggiungere e formattare il testo)&lt;f1&gt; nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information and details about using the Presenter Console, see the &lt;f0&gt;Impress Guide Chapter 9 Slide Shows&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
@@ -9947,6 +9963,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185307Z" creationid="Elisabetta Manuele" creationdate="20180620T185307Z">
         <seg>Introduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glue points</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094556Z" creationid="manuel" creationdate="20180705T094556Z">
+        <seg>Punti di incollaggio</seg>
       </tuv>
     </tu>
     <tu>
@@ -14020,6 +14044,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T075210Z" creationid="manuel" creationdate="20180616T075210Z">
         <seg>La maggior parte delle impostazioni predefinite, come la dimensione della pagina e i margini della pagina, possono essere modificate in &lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt;, ma tali modifiche si applicano solo al documento su cui state lavorando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most objects have four glue points (Figure &lt;t2&gt;177&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094724Z" creationid="manuel" creationdate="20180705T094724Z">
+        <seg>La maggior parte degli oggetti ha quattro punti di incollaggio (Figura &lt;t2&gt;179&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
