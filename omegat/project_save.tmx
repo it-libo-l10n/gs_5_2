@@ -14824,6 +14824,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Drawing toolbar or the &lt;f0&gt;Insert Shapes&lt;/f0&gt; sub-section in Sidebar Properties, click on the triangle next to the &lt;f1&gt;Connector&lt;/f1&gt; icon &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt; to open the &lt;f5&gt;Connectors&lt;/f5&gt; toolbar (Figure &lt;t6&gt;180&lt;/t6&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T103522Z" creationid="manuel" creationdate="20180705T103522Z">
+        <seg>Nella barra degli strumenti Disegno o nella sottosezione &lt;f0&gt;Inserisci forme&lt;/f0&gt; in Proprietà barra laterale, fate clic sul triangolo accanto all'icona &lt;f1&gt;Connettore&lt;/f1&gt; &lt;f2&gt; &lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt; per aprire la barra degli strumenti &lt;f5&gt;Connettori&lt;/f5&gt; (Figura &lt;t6&gt;180&lt;/t6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Export dialog, specify a file name for the exported document, then select the desired format in the &lt;f1&gt;File format&lt;/f1&gt; list and click the &lt;f2&gt;Export&lt;/f2&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154719Z" creationid="luke" creationdate="20180514T154719Z">
