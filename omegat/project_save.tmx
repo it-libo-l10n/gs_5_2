@@ -3136,6 +3136,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A small box containing your initials appears in the upper left-hand corner of your drawing with a larger text box beside it (Figure &lt;t1&gt;207&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T103955Z" creationid="manuel" creationdate="20180705T103955Z">
+        <seg>Apparirà un piccolo riquadro contenente le vostre iniziali nell'angolo superiore sinistro del disegno, con una casella di testo più grande di fianco (Figura &lt;t1&gt;207&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A small box showing the new color is added to the Color table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072718Z" creationid="manuel" creationdate="20180531T072718Z">
@@ -7343,6 +7351,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Draw automatically adds your name and the date at the bottom of this text box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104004Z" creationid="manuel" creationdate="20180705T104004Z">
+        <seg>Draw aggiunge automaticamente il vostro nome e la data nella parte bassa della casella di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Draw can import graphics from many common formats and save them in over 20 formats, including PNG, HTML, PDF, and Flash.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210942Z" creationid="Marco Marega" creationdate="20180527T210942Z">
@@ -8187,6 +8203,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095743Z" creationid="manuel" creationdate="20180705T095601Z">
         <seg>Figura &lt;seq0&gt;178&lt;/seq0&gt;: barra degli strumenti Punti di incollaggio e strumenti disponibili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;179&lt;/seq0&gt;: A connector between two objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T103751Z" creationid="manuel" creationdate="20180705T103751Z">
+        <seg>Figura &lt;seq0&gt;179&lt;/seq0&gt;: un connettore tra due oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;180&lt;/seq0&gt;: Connectors toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T103801Z" creationid="manuel" creationdate="20180705T103801Z">
+        <seg>Figura &lt;seq0&gt;180&lt;/seq0&gt;: barra degli strumenti Connettori</seg>
       </tuv>
     </tu>
     <tu>
@@ -9107,6 +9139,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164426Z" creationid="manuel" creationdate="20180703T164147Z">
         <seg>Per una descrizione più dettagliata delle tavolozze dei colori e delle relative opzioni, vedere il&lt;f0&gt; &lt;/f0&gt;Capitolo 11 (Draw tecniche avanzate) &lt;f1&gt;nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a more detailed description of the use of connectors, see&lt;f7&gt; &lt;/f7&gt;Chapter 8, Connections, Flowcharts, and Organization Charts, &lt;f8&gt;in the &lt;/f8&gt;&lt;f9&gt;Draw Guide&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T103738Z" creationid="manuel" creationdate="20180705T103738Z">
+        <seg>Per una descrizione più dettagliata sull'utilizzo dei connettori, consultare il&lt;f7&gt; &lt;/f7&gt;Capitolo 8 (Connessioni, diagrammi di flusso e grafici organizzativi) &lt;f8&gt;nella &lt;/f8&gt;&lt;f9&gt;Guida a Draw&lt;/f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10115,6 +10155,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194325Z" creationid="Marco Marega" creationdate="20180621T194325Z">
         <seg>Nella barra del Menu andante in &lt;f0&gt;File &gt; Salva&lt;/f0&gt;, &lt;f1&gt;File &gt; Salva sul server remoto&lt;/f1&gt;, &lt;f2&gt;File &gt; Salva una copia&lt;/f2&gt;, o &lt;f3&gt;File &gt; Salva tutto&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Insert &gt; Comment&lt;/f0&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T103925Z" creationid="manuel" creationdate="20180705T103925Z">
+        <seg>Andate su &lt;f0&gt;Inserisci &gt; Commento&lt;/f0&gt; sulla barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21997,6 +22045,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type or paste your comment into the text box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104010Z" creationid="manuel" creationdate="20180705T104010Z">
+        <seg>Scrivete o incollate il vostro commento nella casella di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type the text into your document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143906Z" creationid="manuel" creationdate="20180626T143906Z">
@@ -24458,6 +24514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105719Z" creationid="manuel" creationdate="20180704T105719Z">
         <seg>Potete inserire un'interruzione di riga con la combinazione di tasti &lt;/f0&gt;Maiusc+Invio&lt;f0&gt; o iniziare un nuovo paragrafo con il tasto &lt;f1&gt;Invio&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can insert comments into your drawing in a similar process to the one used in Writer and Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T103920Z" creationid="manuel" creationdate="20180705T103920Z">
+        <seg>Potete inserire commenti nei disegni, in modo simile a quanto avviene in Writer e Calc.</seg>
       </tuv>
     </tu>
     <tu>
