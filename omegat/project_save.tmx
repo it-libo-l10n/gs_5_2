@@ -7367,6 +7367,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Draw contains a number of functions for editing pictures &lt;i0/&gt;or&lt;i1/&gt; raster graphics (bitmaps); for example, photos and scanned images.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104559Z" creationid="manuel" creationdate="20180705T104559Z">
+        <seg>Draw ha un certo numero di funzioni per modificare immagini &lt;i0/&gt;o&lt;i1/&gt; grafica raster (bitmap); ad esempio, foto e immagini ottenute da scansione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Draw is a vector drawing tool that can produce everything from simple diagrams or flowcharts to 3D artwork.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210837Z" creationid="Marco Marega" creationdate="20180527T210837Z">
@@ -9703,6 +9711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information, see Chapter 12, Creating Web Pages, in this guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104415Z" creationid="manuel" creationdate="20180705T104415Z">
+        <seg>Per maggiori informazioni, vedere il Capitolo 12 (Creare pagine web) in questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information, see Chapter &lt;f1&gt;6&lt;/f1&gt;, Formatting Pages, in the &lt;f2&gt;Writer Guide&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085835Z" creationid="manuel" creationdate="20180627T085835Z">
@@ -10347,6 +10363,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160213Z" creationid="manuel" creationdate="20180608T160213Z">
         <seg>esportazione HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML export uses &lt;i0/&gt;a conversion wizard that creates as many web pages as there are pages in your &lt;is1/&gt;Draw&lt;ie2/&gt; document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104344Z" creationid="manuel" creationdate="20180705T104344Z">
+        <seg>L'esportazione nel formato HTML usa &lt;i0/&gt;una procedura guidata di conversione che crea tante pagine web quante sono le vostre pagine nel documento di &lt;is1/&gt;Draw&lt;ie2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24646,6 +24670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can optionally choose to display pages in frames with a navigator and set an index page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104352Z" creationid="manuel" creationdate="20180705T104352Z">
+        <seg>Come opzione potete scegliere di visualizzare le pagine in una cornice con un navigatore e impostare un indice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can paste saved text using the Paste button in the menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081718Z" creationid="manuel" creationdate="20180628T081718Z">
@@ -25254,6 +25286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>bitmaps</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104446Z" creationid="manuel" creationdate="20180705T104431Z">
+        <seg>bitmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>blank</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T150104Z" creationid="manuel" creationdate="20180531T080256Z">
@@ -25362,6 +25402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095610Z" creationid="manuel" creationdate="20180705T095610Z">
         <seg>connettori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>conversion</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104452Z" creationid="manuel" creationdate="20180705T104433Z">
+        <seg>conversione</seg>
       </tuv>
     </tu>
     <tu>
@@ -26154,6 +26202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143846Z" creationid="manuel" creationdate="20180608T143846Z">
         <seg>impostazioni della stampante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>raster graphics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104442Z" creationid="manuel" creationdate="20180705T104429Z">
+        <seg>grafica raster</seg>
       </tuv>
     </tu>
     <tu>
