@@ -7375,6 +7375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Draw includes a large range of graphic filters so that it can read and display several graphic file formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104648Z" creationid="manuel" creationdate="20180705T104648Z">
+        <seg>Draw include un ampio numero di filtri grafici che permettono di leggere e visualizzare diversi formati di file grafici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Draw is a vector drawing tool that can produce everything from simple diagrams or flowcharts to 3D artwork.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210837Z" creationid="Marco Marega" creationdate="20180527T210837Z">
@@ -12875,6 +12883,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160105Z" creationid="manuel" creationdate="20180611T160105Z">
         <seg>Ha anche voci per la gestione dello stile in basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It also includes several tools for working with raster graphics, but does not have the same functionality as specialized graphic programs like Gimp or Adobe Photoshop.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104712Z" creationid="manuel" creationdate="20180705T104712Z">
+        <seg>Include anche degli strumenti per lavorare con grafica raster, anche se non ha le stesse funzionalità di programmi di grafica come Gimp o Adobe Photoshop.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20245,6 +20261,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105507Z" creationid="manuel" creationdate="20180704T105507Z">
         <seg>Questa cornice può essere spostata come qualsiasi altro oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This includes the import and export of graphics, &lt;i2/&gt;and &lt;i3/&gt;conversion from one graphic format to another.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104642Z" creationid="manuel" creationdate="20180705T104642Z">
+        <seg>Ciò include l'importazione e l'esportazione di oggetti grafici, &lt;i2/&gt;e&lt;i3/&gt; la conversione da un formato grafico ad un altro.</seg>
       </tuv>
     </tu>
     <tu>
