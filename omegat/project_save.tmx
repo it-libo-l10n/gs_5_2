@@ -8143,6 +8143,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;177&lt;/seq0&gt;: Glue points</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095109Z" creationid="manuel" creationdate="20180705T095109Z">
+        <seg>Figura &lt;seq0&gt;177&lt;/seq0&gt;: punti di incollaggio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083955Z" creationid="manuel" creationdate="20180530T083955Z">
@@ -9983,6 +9991,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glue points are not the same as the selection handles of an object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095132Z" creationid="manuel" creationdate="20180705T095132Z">
+        <seg>I punti di incollaggio sono diversi dalle maniglie di selezione di un oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glue points become visible when the &lt;f0&gt;Connectors&lt;/f0&gt; icon is selected on the Drawing toolbar or the &lt;f1&gt;Insert Shapes&lt;/f1&gt; sub‑section in Sidebar Properties.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094814Z" creationid="manuel" creationdate="20180705T094814Z">
@@ -10129,8 +10145,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f5&gt;View &gt; Toolbars &gt; Glue Points&lt;/f5&gt; on to open the toolbar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095042Z" creationid="manuel" creationdate="20180705T095042Z">
-        <seg>Andate su &lt;f5&gt;Visualizza &gt; Barre degli strumenti &gt; Punti di incollaggio&lt;/f5&gt; per aprire la barra.&lt;/f10&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095050Z" creationid="manuel" creationdate="20180705T095042Z">
+        <seg>Andate su &lt;f5&gt;Visualizza &gt; Barre degli strumenti &gt; Punti di incollaggio&lt;/f5&gt; per aprire la barra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18885,6 +18901,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103814Z" creationid="manuel" creationdate="20180627T103814Z">
         <seg>Le parti grigie dei righelli sono i margini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The handles are for moving or changing the shape of an object&lt;f0&gt;.&lt;/f0&gt; Glue points are used to fix or glue a connector to an object so that when the object moves, the connector stays fixed to the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095200Z" creationid="manuel" creationdate="20180705T095200Z">
+        <seg>Le maniglie servono per spostare o cambiare la forma di un oggetto&lt;f0&gt;.&lt;/f0&gt; I punti di incollaggio sono usati per fissare o incollare un connettore ad un oggetto, in modo tale che, quando l'oggetto si muove, il connettore rimane fissato all'oggetto.</seg>
       </tuv>
     </tu>
     <tu>
