@@ -17824,6 +17824,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text properties can also be changed during text input, with any changes taking effect from the cursor position onwards.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093610Z" creationid="manuel" creationdate="20180705T093610Z">
+        <seg>Le proprietà del testo possono essere cambiate nella fase di inserimento; qualsiasi modifica avrà effetto dalla posizione del cursore in poi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text to include in the footer (business fax)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121242Z" creationid="manuel" creationdate="20180615T121242Z">
@@ -18877,6 +18885,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173423Z" creationid="luke" creationdate="20180515T085731Z">
         <seg>Le illustrazioni di questa guida sono state tratte da computer e sistemi operativi diversi, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The information field in the status bar shows that you are editing text and also provides details about the current cursor location using paragraph, row, and column numbers (Figure &lt;t0&gt;176&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093513Z" creationid="manuel" creationdate="20180705T093513Z">
+        <seg>Il campo informazioni nella barra di stato mostra che state modificando il testo e fornisce anche dettagli sulla posizione corrente del cursore usando i numeri di paragrafo, riga e colonna (Figura &lt;t0&gt;176&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20551,6 +20567,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060253Z" creationid="manuel" creationdate="20180618T060253Z">
         <seg>Per applicare uno stile diverso alla pagina, fate clic con il tasto destro su questo campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the properties for all of the text in the text frame, you have to highlight all text in the text frame.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093621Z" creationid="manuel" creationdate="20180705T093621Z">
+        <seg>Per modificare le proprietà per tutto il testo all'interno della cornice, dovete evidenziare tutto il testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23134,6 +23158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you have finished typing text, click outside the text frame to cancel adding or editing text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093558Z" creationid="manuel" creationdate="20180705T093558Z">
+        <seg>Al termine della digitazione del testo, fate clic all'esterno della cornice di testo per annullare l'aggiunta o la modifica del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you have set up your search, click &lt;f0&gt;Find &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Next&lt;/f2&gt;&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103611Z" creationid="manuel" creationdate="20180622T103611Z">
@@ -23978,6 +24010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070935Z" creationid="manuel" creationdate="20180614T070935Z">
         <seg>Potete copiare gli stili di formattazione caricandoli da un modello o da un altro documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create Graphic styles that you can reuse for other text frames.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093707Z" creationid="manuel" creationdate="20180705T093707Z">
+        <seg>Potete creare Stili immagine da riutilizzare in altre caselle di testo.</seg>
       </tuv>
     </tu>
     <tu>
