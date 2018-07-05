@@ -3552,6 +3552,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align objects with respect to each other using &lt;f0&gt;Left&lt;/f0&gt;, &lt;f1&gt;Centered&lt;/f1&gt;, or &lt;f2&gt;Right&lt;/f2&gt; for horizontal alignment and &lt;f3&gt;Top&lt;/f3&gt;, &lt;f4&gt;Center&lt;/f4&gt;, or &lt;f5&gt;Bottom&lt;/f5&gt; for vertical alignment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112606Z" creationid="manuel" creationdate="20180705T112606Z">
+        <seg>Potete allineare gli oggetti l'uno rispetto all'altro usando &lt;f0&gt;A sinistra&lt;/f0&gt;, &lt;f1&gt;Centrato&lt;/f1&gt;, o &lt;f2&gt;A destra&lt;/f2&gt; per l'allineamento orizzontale e &lt;f3&gt;In alto&lt;/f3&gt;, &lt;f4&gt;Al centro&lt;/f4&gt; o &lt;f5&gt;In basso&lt;/f5&gt; per l'allineamento verticale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All Draw objects have glue points, which are not normally displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094631Z" creationid="manuel" creationdate="20180705T094631Z">
@@ -3996,6 +4004,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145819Z" creationid="manuel" creationdate="20180611T145819Z">
         <seg>Applicare gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrange the position of an object by moving it either forward or backward in relation to the order of objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112539Z" creationid="manuel" creationdate="20180705T112539Z">
+        <seg>Potete disporre la posizione di un oggetto spostandolo in avanti o indietro in relazione all'ordine degli oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arranging, aligning, &lt;i0/&gt;&lt;i1/&gt;&lt;i2/&gt;and distributing objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112523Z" creationid="manuel" creationdate="20180705T112523Z">
+        <seg>Disporre, allineare &lt;i0/&gt;&lt;i1/&gt;&lt;i2/&gt;e distribuire gli oggetti</seg>
       </tuv>
     </tu>
     <tu>
@@ -7227,6 +7251,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192445Z" creationid="Marco Marega" creationdate="20180620T192445Z">
         <seg>Visualizza le informazioni relative alla posizione del cursore o all'elemento selezionato nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Distribute objects so that the space between each of the objects is the same.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112608Z" creationid="manuel" creationdate="20180705T112608Z">
+        <seg>Potete distribuire gli oggetti in modo che lo spazio tra ciascuno degli oggetti sia lo stesso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12159,6 +12191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Draw you can arrange, align, and distribute selected objects in relation to each other:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112536Z" creationid="manuel" creationdate="20180705T112536Z">
+        <seg>In Draw potete disporre, allineare e distribuire gli oggetti selezionati, ciascuno rispetto agli altri:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Figure &lt;t0&gt;46&lt;/t0&gt; the window shows &lt;f1&gt;Applied Styles&lt;/f1&gt;, meaning the list includes only the styles used in the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T134444Z" creationid="manuel" creationdate="20180612T134232Z">
@@ -16840,6 +16880,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See&lt;f0&gt; &lt;/f0&gt;Chapter 5, Combining Multiple Objects, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide &lt;/f2&gt;for more information on arranging and aligning objects in relation to each other.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112702Z" creationid="manuel" creationdate="20180705T112702Z">
+        <seg>Consultare il&lt;f0&gt; &lt;/f0&gt;Capitolo 5 (Combinare oggetti multipli) &lt;f1&gt;nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw &lt;/f2&gt;per maggiori informazioni riguardo alla disposizione e all'allineamento di oggetti ciascuno rispetto agli altri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See&lt;f0&gt; &lt;/f0&gt;Chapter 6, Editing Pictures, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide &lt;/f2&gt;for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105229Z" creationid="manuel" creationdate="20180705T105229Z">
@@ -16852,6 +16900,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105919Z" creationid="manuel" creationdate="20180705T105919Z">
         <seg>Vedere il&lt;f0&gt; &lt;/f0&gt;Capitolo 7 (Lavorare con oggetti tridimensionali) &lt;f1&gt;nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw &lt;/f2&gt;per maggiori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See&lt;f3&gt; &lt;/f3&gt;Chapter 5, Combining Multiple Objects, &lt;f4&gt;in the &lt;/f4&gt;&lt;f5&gt;Draw Guide &lt;/f5&gt;for more information on these functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112432Z" creationid="manuel" creationdate="20180705T112432Z">
+        <seg>Vedere il&lt;f3&gt; &lt;/f3&gt;Capitolo 5 (Combinare oggetti multipli) &lt;f4&gt;nella &lt;/f4&gt;&lt;f5&gt;Guida a Draw &lt;/f5&gt;per maggiori informazioni su queste funzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25478,6 +25534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>aligning</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112449Z" creationid="manuel" creationdate="20180705T112449Z">
+        <seg>allineare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>antialiasing screen font</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084859Z" creationid="manuel" creationdate="20180530T084859Z">
@@ -25490,6 +25554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093712Z" creationid="manuel" creationdate="20180606T093712Z">
         <seg>colori dell'applicazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>arranging</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112442Z" creationid="manuel" creationdate="20180705T112442Z">
+        <seg>disponi</seg>
       </tuv>
     </tu>
     <tu>
@@ -25834,6 +25906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171421Z" creationid="manuel" creationdate="20180615T171421Z">
         <seg>differenze nelle pagine destre e sinistre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>distributing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112507Z" creationid="manuel" creationdate="20180705T112507Z">
+        <seg>distribuire</seg>
       </tuv>
     </tu>
     <tu>
@@ -26314,6 +26394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101928Z" creationid="manuel" creationdate="20180627T101928Z">
         <seg>numerazione delle pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112445Z" creationid="manuel" creationdate="20180705T112445Z">
+        <seg>oggetti</seg>
       </tuv>
     </tu>
     <tu>
