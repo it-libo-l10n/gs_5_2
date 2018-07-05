@@ -2960,6 +2960,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A group can always be undone and the objects that make up the group can always be manipulated separately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145101Z" creationid="manuel" creationdate="20180705T145101Z">
+        <seg>Un gruppo può sempre essere sciolto e gli oggetti facenti parte del gruppo possono essere manipolati separatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A header and a footer are properties of the page style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T093521Z" creationid="manuel" creationdate="20180627T093521Z">
@@ -7643,6 +7651,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175010Z" creationid="Elisabetta Manuele" creationdate="20180627T175010Z">
         <seg>Elenco a discesa dal quale selezionare una voce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Duplication</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145121Z" creationid="manuel" creationdate="20180705T145121Z">
+        <seg>Duplicazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Duplication makes copies of an object while applying a set of changes such as color or rotation to the duplicates that are created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145128Z" creationid="manuel" creationdate="20180705T145128Z">
+        <seg>Con la duplicazione potete fare delle copie di un oggetto mentre applicate delle modifiche al colore o alla rotazione dei duplicati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19745,6 +19769,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The objects within a group also retain their own individual properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145108Z" creationid="manuel" creationdate="20180705T145108Z">
+        <seg>Gli oggetti di un gruppo mantengono le loro proprietà individuali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The one or two hyphens will be replaced by an en-dash.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134206Z" creationid="manuel" creationdate="20180622T134206Z">
@@ -25078,6 +25110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can move the objects as a group and apply global changes to the objects within the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145054Z" creationid="manuel" creationdate="20180705T145054Z">
+        <seg>Potete spostare gli oggetti come un gruppo o applicare ad essi delle modifiche globali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can move the small comment markers to anywhere you wish on the drawing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104125Z" creationid="manuel" creationdate="20180705T104125Z">
@@ -26114,6 +26154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105351Z" creationid="manuel" creationdate="20180705T105351Z">
         <seg>oggetti di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>duplication</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145124Z" creationid="manuel" creationdate="20180705T145124Z">
+        <seg>duplicazione</seg>
       </tuv>
     </tu>
     <tu>
