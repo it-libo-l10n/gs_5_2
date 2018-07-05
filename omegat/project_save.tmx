@@ -14112,6 +14112,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the mouse cursor over one of the icons to show a tooltip with a description of the function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093207Z" creationid="manuel" creationdate="20180705T093207Z">
+        <seg>Spostate il cursore del mouse su una delle icone per mostrare un suggerimento con una descrizione della funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the mouse cursor over the toolbar handle, which is the small vertical bar to the left of a docked toolbar and highlighted in Figure &lt;t0&gt;5&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181752Z" creationid="Marco Marega" creationdate="20180620T181752Z">
@@ -24074,6 +24082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072859Z" creationid="manuel" creationdate="20180531T072859Z">
         <seg>Potete stabilire un sostituto per ogni carattere presente nei documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can display the Text Formatting toolbar (&lt;f4&gt;View &gt; Toolbars&lt;/f4&gt;) or use the Character section in the Properties pane of the Sidebar to select font type, font size, and other text properties before you start typing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093424Z" creationid="manuel" creationdate="20180705T093424Z">
+        <seg>Potete visualizzare la barra degli strumenti Formattazione testo (&lt;f4&gt;Visualizza &gt; Barre degli strumenti&lt;/f4&gt;) oppure utilizzare la sezione Carattere nel riquadro Proprietà della barra laterale per selezionare il tipo di carattere, la dimensione del carattere e altre proprietà del testo prima di iniziare a digitare.</seg>
       </tuv>
     </tu>
     <tu>
