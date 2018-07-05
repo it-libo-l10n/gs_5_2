@@ -7463,6 +7463,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Draw saves graphics and images in the open source format *.odg.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T111502Z" creationid="manuel" creationdate="20180705T111502Z">
+        <seg>Draw salva oggetti grafici e immagini nel formato open source *.odg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drawing &lt;i0/&gt;rectangles or squares</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101405Z" creationid="manuel" creationdate="20180704T101405Z">
@@ -15408,6 +15416,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF export for modules of LibreOffice is described in Chapter 10, Printing, Exporting, and E-mailing, &lt;f0&gt;in&lt;/f0&gt; this guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T111700Z" creationid="manuel" creationdate="20180705T111700Z">
+        <seg>L'esportazione in formato PDF per i moduli di LibreOffice è descritta nel Capitolo 10 (Stampa, esportazione e invio di e-mail) &lt;f0&gt;in&lt;/f0&gt; questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145732Z" creationid="manuel" creationdate="20180611T145732Z">
@@ -19145,6 +19161,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The graphic formats that Draw can export and save to are listed in Appendix B, Open Source, Open Standards, OpenDocument in this guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T111604Z" creationid="manuel" creationdate="20180705T111604Z">
+        <seg>I formati grafici in cui Draw può esportare e salvare sono elencati nell'Appendice B Open Source, Open Standards, OpenDocument in questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The gray sections of the rulers are the margins.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103814Z" creationid="manuel" creationdate="20180627T103814Z">
@@ -21829,6 +21853,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To save a graphic or the entire file in another format, use &lt;f0&gt;File &gt; Export&lt;/f0&gt; and select a format from the list displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T111528Z" creationid="manuel" creationdate="20180705T111528Z">
+        <seg>Per salvare un oggetto grafico o un intero file in un altro formato, usate&lt;f0&gt;File &gt; Esporta&lt;/f0&gt; e selezionate un formato dall'elenco mostrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To save your changes, choose &lt;f1&gt;File &gt; Save &lt;/f1&gt;from the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155359Z" creationid="manuel" creationdate="20180615T155359Z">
@@ -22265,6 +22297,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130243Z" creationid="luke" creationdate="20180515T082610Z">
         <seg>Annullare e ripristinare le modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ungrouping</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T111720Z" creationid="manuel" creationdate="20180705T111720Z">
+        <seg>Sciogliere gruppi</seg>
       </tuv>
     </tu>
     <tu>
@@ -24194,6 +24234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191200Z" creationid="Marco Marega" creationdate="20180528T191200Z">
         <seg>Dallo stesso indirizzo è anche possibile scaricare il software utilizzando un programma Peer-to-Peer, come ad esempio BitTorrent, .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also export Draw files to HTML, XHTML, PDF, or Flash.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T111617Z" creationid="manuel" creationdate="20180705T111617Z">
+        <seg>Potete anche esportare file di Draw in formato HTML, XHTML, PDF, o Flash.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26642,6 +26690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114428Z" creationid="manuel" creationdate="20180611T114428Z">
         <seg>tipi supportati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ungrouping</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T111734Z" creationid="manuel" creationdate="20180705T111728Z">
+        <seg>sciogliere gruppi</seg>
       </tuv>
     </tu>
     <tu>
