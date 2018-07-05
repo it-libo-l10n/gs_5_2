@@ -6317,6 +6317,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connectors</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095603Z" creationid="manuel" creationdate="20180705T095603Z">
+        <seg>Connettori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connectors are especially useful in drawing organization charts, flow diagrams, and mind-maps.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095643Z" creationid="manuel" creationdate="20180705T095643Z">
+        <seg>I connettori sono particolarmente utili per realizzare organigrammi, diagrammi di flusso e mappe mentali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connectors are lines or arrows whose ends automatically snap to a glue point of an object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095637Z" creationid="manuel" creationdate="20180705T095637Z">
+        <seg>I connettori sono linee o frecce la cui fine si aggancia automaticamente da un punto di incollaggio di un oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072730Z" creationid="luke" creationdate="20180515T072730Z">
@@ -8151,6 +8175,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;178&lt;/seq0&gt;: Glue Points toolbar and available tools</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095601Z" creationid="manuel" creationdate="20180705T095601Z">
+        <seg>Figure &lt;seq0&gt;178&lt;/seq0&gt;: barra degli strumenti Punti di incollaggio e strumenti disponibili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083955Z" creationid="manuel" creationdate="20180530T083955Z">
@@ -9059,6 +9091,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164426Z" creationid="manuel" creationdate="20180703T164147Z">
         <seg>Per una descrizione più dettagliata delle tavolozze dei colori e delle relative opzioni, vedere il&lt;f0&gt; &lt;/f0&gt;Capitolo 11 (Draw tecniche avanzate) &lt;f1&gt;nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a more detailed description on the use of glue points, see&lt;f1&gt; &lt;/f1&gt;Chapter 3, Working with Objects and Object Points, and Chapter 8, Connections, Flowcharts, and Organization Charts, &lt;f2&gt;in &lt;s3/&gt;the &lt;/f2&gt;&lt;f4&gt;Draw Guide&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095524Z" creationid="manuel" creationdate="20180705T095524Z">
+        <seg>Per una descrizione più dettagliata sull'utilizzo dei punti di incollaggio, vedere il&lt;f1&gt; &lt;/f1&gt;Capitolo 3 (Lavorare con gli Oggetti e i Punti degli Oggetti) e il Capitolo 8 (Connessioni, diagrammi di flusso e grafici organizzativi) &lt;f2&gt;nella &lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Guida a Draw&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25162,6 +25202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072458Z" creationid="manuel" creationdate="20180609T072458Z">
         <seg>Disposizione testo complesso (CTL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>connectors</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095610Z" creationid="manuel" creationdate="20180705T095610Z">
+        <seg>connettori</seg>
       </tuv>
     </tu>
     <tu>
