@@ -10351,6 +10351,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Modify &gt; Group&lt;/f0&gt; on the Menu bar, or right-click on the selection and select &lt;f1&gt;Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Ctrl+Shift+G&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T141026Z" creationid="manuel" creationdate="20180705T141026Z">
+        <seg>Andate a &lt;f0&gt;Modifica &gt; Gruppo&lt;/f0&gt; nella barra dei menu, oppure fate clic con il pulsante destro del mouse sulla selezione e selezionate&lt;f1&gt;Gruppo&lt;/f1&gt; dal menu a scomparsa oppure usate la scorciatoia da tastiera &lt;f2&gt;Ctrl + Maiusc&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Slide &gt; Hide Slide&lt;/f0&gt; on the Menu bar or right-click on the slide thumbnail and select &lt;f1&gt;Hide Slide&lt;/f1&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085951Z" creationid="luke" creationdate="20180515T085951Z">
@@ -11651,6 +11659,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103754Z" creationid="manuel" creationdate="20180622T103754Z">
         <seg>Se fate clic su &lt;f0&gt;Trova tutto&lt;/f0&gt;, LibreOffice selezionerà tutte le occorrenze della ricerca nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you click on one member of the group, the whole group is selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T141059Z" creationid="manuel" creationdate="20180705T141059Z">
+        <seg>Se fate clic su di un oggetto del gruppo, l'intero gruppo sarà selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17308,6 +17324,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151928Z" creationid="manuel" creationdate="20180621T151928Z">
         <seg>Selezionate la prima porzione di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the group and go to &lt;f0&gt;Modify &gt; Enter Group&lt;/f0&gt;, or right-click and select &lt;f1&gt;Enter Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;F3&lt;/f2&gt;, or double-click on the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T141324Z" creationid="manuel" creationdate="20180705T141324Z">
+        <seg>Selezionate il gruppo e andate su &lt;/f0&gt;Cambia &gt; Modifica gruppo&lt;f0&gt;, o fate clic con il pulsante destro e selezionate &lt;f1&gt;Modifica gruppo&lt;/f1&gt; dal menu a comparsa, o usate la scorciatoia da tastiera &lt;f2&gt;F3&lt;/f2&gt; oppure fate doppio clic sul gruppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23638,6 +23662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When objects are permanently grouped, any editing operations carried out on that group are applied to all members of the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T141053Z" creationid="manuel" creationdate="20180705T141053Z">
+        <seg>Quando degli oggetti sono raggruppati in modo permanente, ogni operazione di modifica applicata a quel gruppo sarà applicata anche a tutti gli oggetti del gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When opening files stored in a remote server, you may be asked to enter your user name and password to log in the server.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T193319Z" creationid="Marco Marega" creationdate="20180621T193319Z">
@@ -23786,6 +23818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084241Z" creationid="manuel" creationdate="20180628T084241Z">
         <seg>Nella creazione di un documento, utilizzate i seguenti stili di paragrafo per i diversi livelli di intestazione (come ad esempio titoli di capitoli e di sezioni): &lt;f0&gt;Intestazione 1&lt;/f0&gt;, &lt;f1&gt;Intestazione 2&lt;/f1&gt;, &lt;f2&gt;Intestazione 3&lt;/f2&gt;, e così via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you deselect your selection, the objects remain grouped together.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T141041Z" creationid="manuel" creationdate="20180705T141041Z">
+        <seg>Quando deselezionate la vostra selezione gli oggetti rimangono raggruppati insieme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24850,6 +24890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154058Z" creationid="manuel" creationdate="20180615T153851Z">
         <seg>Potete modificare il contenuto e gli stili di un modello, e poi, se volete, potete riapplicare gli stili del modello ai documenti creati a partire da quel modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can edit an individual member of a group without ungrouping or breaking the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T141111Z" creationid="manuel" creationdate="20180705T141111Z">
+        <seg>Potete modificare un singolo oggetto del gruppo senza sciogliere il gruppo.</seg>
       </tuv>
     </tu>
     <tu>
