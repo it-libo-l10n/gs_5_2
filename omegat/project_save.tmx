@@ -3104,6 +3104,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A permanent grouping of objects can be created after you have selected your objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T140828Z" creationid="manuel" creationdate="20180705T140828Z">
+        <seg>Potete creare un raggruppamento permanente di oggetti dopo aver selezionato gli oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A polygon without filling will not be closed at the end of the drawing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105115Z" creationid="manuel" creationdate="20180704T105115Z">
