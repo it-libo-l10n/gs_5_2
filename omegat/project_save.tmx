@@ -2433,8 +2433,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Y&lt;/f0&gt;ou can set paragraphs to be checked in a specific language (different from the rest of the document) &lt;f1&gt;using several methods,&lt;/f1&gt; &lt;f2&gt;f&lt;/f2&gt;or example by clicking on the &lt;f3&gt;Text &lt;/f3&gt;Language &lt;f4&gt;field&lt;/f4&gt; on the Status Bar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T065516Z" creationid="manuel" creationdate="20180626T065516Z">
-        <seg>&lt;f0&gt;Potete&lt;/f0&gt; impostare i paragrafi da verificare in una lingua specifica (diversa dal resto del documento) &lt;f1&gt;utilizzando diversi metodi,&lt;/f1&gt; &lt;f2&gt;per&lt;/f2&gt; esempio facendo clic sul &lt;f4&gt;campo&lt;/f4&gt; &lt;f3&gt;Lingua del testo&lt;/f3&gt; sulla barra di stato.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T152204Z" creationid="manuel" creationdate="20180626T065516Z">
+        <seg>&lt;f0&gt;Potete&lt;/f0&gt; impostare i paragrafi da verificare in una lingua specifica (diversa dal resto del documento) &lt;f1&gt;utilizzando diversi metodi,&lt;/f1&gt; &lt;f2&gt;per&lt;/f2&gt; esempio facendo clic sul &lt;f4&gt;campo&lt;/f4&gt; Lingua del &lt;f3&gt;testo&lt;/f3&gt; sulla barra di stato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11921,8 +11921,8 @@
       <tuv lang="EN">
         <seg>If you cannot place the cursor in the table of contents, choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f0&gt;, and then select &lt;f1&gt;Enable &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Cursor&lt;/f3&gt;&lt;/f2&gt; in the &lt;f4&gt;&lt;f5&gt;P&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;rotected areas&lt;/f6&gt; section.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151900Z" creationid="manuel" creationdate="20180628T143145Z">
-        <seg>Se non riuscite a posizionare il cursore all'interno dell'indice, scegliete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Writer &gt; Formattazione&lt;/f0&gt;, quindi spuntate &lt;f1&gt;Permetti&lt;/f1&gt; nella sezione &lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;Cursore in aree protette&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T152111Z" creationid="manuel" creationdate="20180628T143145Z">
+        <seg>Se non riuscite a posizionare il cursore all'interno dell'indice, scegliete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Writer &gt; Formattazione&lt;/f0&gt;, quindi spuntate &lt;f1&gt;Permetti&lt;/f1&gt; nella sezione &lt;f2&gt;&lt;f3&gt;Cursore&lt;/f3&gt;&lt;/f2&gt; in &lt;f4&gt;&lt;f5&gt;a&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;ree protette&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
