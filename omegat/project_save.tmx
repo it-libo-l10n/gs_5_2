@@ -4834,6 +4834,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Callouts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T105641Z" creationid="manuel" creationdate="20180706T105641Z">
+        <seg>Legende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Capitalization</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104538Z" creationid="manuel" creationdate="20180609T104538Z">
@@ -8563,6 +8571,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T105221Z" creationid="manuel" creationdate="20180706T105221Z">
         <seg>Figura &lt;seq0&gt;183&lt;/seq0&gt;: barra degli strumenti Frecce blocchi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;184&lt;/seq0&gt;: Flowcharts toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T105638Z" creationid="manuel" creationdate="20180706T105638Z">
+        <seg>Figura &lt;seq0&gt;184&lt;/seq0&gt;: barra degli strumenti Diagrammi di flusso</seg>
       </tuv>
     </tu>
     <tu>
@@ -19445,6 +19461,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175856Z" creationid="Elisabetta Manuele" creationdate="20180627T175856Z">
         <seg>i cui collaboratori sono elencati di seguito:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The creation of flowcharts, organization charts, and similar planning tools is further described in&lt;f5&gt; &lt;/f5&gt;Chapter 8, Connections, Flowcharts, and Organization Charts &lt;f6&gt;in the &lt;/f6&gt;&lt;f7&gt;Draw Guide&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T105630Z" creationid="manuel" creationdate="20180706T105630Z">
+        <seg>La creazione di diagrammi di flusso, organigrammi e altri strumenti di pianificazione simili è descritta ulteriormente nel&lt;f5&gt; &lt;/f5&gt;Capitolo 8 (Connessioni, diagrammi di flusso e grafici organizzativi) &lt;f6&gt;nella &lt;/f6&gt;&lt;f7&gt;Guida a Draw&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
