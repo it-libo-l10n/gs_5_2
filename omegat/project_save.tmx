@@ -2649,8 +2649,8 @@
       <tuv lang="EN">
         <seg>&lt;f7&gt;If you have selected &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Enable experimental features&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; in &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;, a fifth deck (&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Manage Changes&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;) will appear, and a sixth (&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Design&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;) can be selected in &lt;/f19&gt;&lt;t20/&gt;&lt;f21&gt;&lt;f22&gt;Sidebar Settings &gt; Customization&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.&lt;/f23&gt; Each deck has a corresponding icon on the &lt;i24/&gt;Tab &lt;f25&gt;bar&lt;/f25&gt; to the right of the sidebar, allowing you to switch between them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150428Z" creationid="manuel" creationdate="20180618T105139Z">
-        <seg>&lt;f7&gt;Se avete selezionato &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Abilta caratteristiche sperimentali&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; in &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;, apparirà un quinto pannello ( (&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Gestisci le modifiche&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;), e un sesto (&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Struttura&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;) può essere selezionato in &lt;/f19&gt;&lt;t20/&gt;&lt;f21&gt;&lt;f22&gt;Configurazione barra laterale &gt; Personalizza&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.&lt;/f23&gt;&lt;i24/&gt; Ciascun pannello ha una icona corrispondente sulla barra delle &lt;f25&gt;&lt;/f25&gt;linguette a destra dela barra laterale, consentendovi di passare da una all'altra.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150530Z" creationid="manuel" creationdate="20180618T105139Z">
+        <seg>&lt;f7&gt;Se avete selezionato &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Abilta caratteristiche sperimentali&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; in &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;, apparirà un quinto pannello ( (&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Gestisci le modifiche&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;), e un sesto (&lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Struttura&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;) può essere selezionato in &lt;/f19&gt;&lt;t20/&gt;&lt;f21&gt;&lt;f22&gt;Configurazione barra laterale &gt; Personalizza&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;.&lt;/f23&gt; Ciascun pannello ha una icona corrispondente&lt;i24/&gt; sulla &lt;f25&gt;barra&lt;/f25&gt; delle linguette a destra dela barra laterale, consentendovi di passare da una all'altra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12297,8 +12297,8 @@
       <tuv lang="EN">
         <seg>If you type three or more hyphens (---), underscores (___) or equal signs (===) on a line and then press &lt;f0&gt;Enter&lt;/f0&gt;, the paragraph is replaced by a horizontal line as wide as the &lt;f1&gt;column in the &lt;/f1&gt;page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T161145Z" creationid="manuel" creationdate="20180626T161145Z">
-        <seg>Se digitate tre o più trattini (tratti d'unione) (---), trattini bassi (___) e segni di uguale (===) su una linea e poi premete &lt;f0&gt;Invio&lt;/f0&gt;, il paragrafo verrà sostituito da una linea orizzontale della larghezza della pagina.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150643Z" creationid="manuel" creationdate="20180626T161145Z">
+        <seg>Se digitate tre o più trattini (tratti d'unione) (---), trattini bassi (___) e segni di uguale (===) su una linea e poi premete &lt;f0&gt;Invio&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;, il paragrafo verrà sostituito da una linea orizzontale della larghezza della pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20963,8 +20963,8 @@
       <tuv lang="EN">
         <seg>This deck is an alternate view of the Manage Changes dialog that can be opened from &lt;f1&gt;Edit &gt; Track Changes &gt; Manage Changes&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141136Z" creationid="manuel" creationdate="20180621T101800Z">
-        <seg>Questo pannello è una vista alternativa della finestra di dialogo Gestisci le modifiche che può essere aperta da &lt;f1&gt;Modifica &gt; Traccia le modifiche&gt; Gestisci le modifiche &lt;/ f1&gt; nella barra dei menu.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150631Z" creationid="manuel" creationdate="20180621T101800Z">
+        <seg>Questo pannello è una vista alternativa della finestra di dialogo Gestisci le modifiche che può essere aperta da &lt;f1&gt;Modifica &gt; Traccia le modifiche &gt; Gestisci le modifiche&lt;/f1&gt; nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
