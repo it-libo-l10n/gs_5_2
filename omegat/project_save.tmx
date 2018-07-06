@@ -4080,6 +4080,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arranging objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172452Z" creationid="manuel" creationdate="20180706T172452Z">
+        <seg>Disporre gli oggetti </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arranging, aligning, &lt;i0/&gt;&lt;i1/&gt;&lt;i2/&gt;and distributing objects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112523Z" creationid="manuel" creationdate="20180705T112523Z">
@@ -12743,6 +12751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a complex drawing, several objects may be stacked on top of one another.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172508Z" creationid="manuel" creationdate="20180706T172508Z">
+        <seg>In un disegno complesso, diversi oggetti potrebbero essere sovrapposti uno sull'altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a default LibreOffice installation, the top docked toolbar, just under the Menu bar, is called the &lt;f0&gt;Standard&lt;/f0&gt; toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212004Z" creationid="Marco Marega" creationdate="20180619T212004Z">
@@ -21177,6 +21193,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is a very quick way to reach an object, but it may not be practical if there a large number of objects in a drawing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172447Z" creationid="manuel" creationdate="20180706T172447Z">
+        <seg>Questo è un modo molto veloce per arrivare ad un oggetto, ma potrebbe non essere pratico se c'è un gran numero di oggetti nel disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is important if you want to make the document available to other computers that may have a completely different directory structure, drive or volume names.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144737Z" creationid="manuel" creationdate="20180608T144737Z">
@@ -21955,6 +21979,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To cycle through the objects in reverse order, press &lt;f1&gt;Shift+Tab&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172434Z" creationid="manuel" creationdate="20180706T172434Z">
+        <seg>Per muovervi tra gli oggetti in senso inverso, premete &lt;f1&gt;Maiusc+Tab&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To delete any unwanted styles, in the Styles and Formatting window select each one to be deleted (hold &lt;f0&gt;Ctrl&lt;/f0&gt; while selecting multiple styles), and then right-click on a selected style and select &lt;f1&gt;Delete&lt;/f1&gt; on the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T085233Z" creationid="manuel" creationdate="20180614T085233Z">
@@ -22553,6 +22585,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161822Z" creationid="manuel" creationdate="20180615T161822Z">
         <seg>Per ripristinare il modello predefinito originale di LibreOffice per un tipo di documento come predefinito per quel tipo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To rearrange the stacking order by moving an object forward or backward, select an object, click &lt;f0&gt;Modify &gt; Arrange&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Bring Forward&lt;/f1&gt; or &lt;f2&gt;Send Backward&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172615Z" creationid="manuel" creationdate="20180706T172615Z">
+        <seg>Per modificare l'ordine con il quale gli oggetti sono sovrapposti gli uni sugli altri, spostandoli avanti o indietro, selezionate un oggetto, fate clic su &lt;f0&gt;Cambia &gt; Disponi&lt;/f0&gt; sulla barra dei menu e selezionate &lt;f1&gt;Porta avanti&lt;/f1&gt; o &lt;f2&gt;Porta indietro&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
