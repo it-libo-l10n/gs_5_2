@@ -3098,8 +3098,8 @@
       <tuv lang="EN">
         <seg>A more complex example would be: &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Title&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; followed by &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Author&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; followed by &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Abstract&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; followed by &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Heading 1&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; followed by &lt;/f21&gt;&lt;f22&gt;&lt;f23&gt;Text Body&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164801Z" creationid="manuel" creationdate="20180615T164801Z">
-        <seg>Un esempio più complesso potrebbe essere: &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;Titolo&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt; seguito da &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;Autore&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt; seguito da &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;Estratto&lt;/f17&gt;&lt;f18&gt;&lt;f19&gt; seguito da &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;Intestazione 1&lt;/f20&gt;&lt;f21&gt;&lt;f22&gt; seguito da &lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;Corpo del testo&lt;/f23&gt;&lt;f24&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T145023Z" creationid="manuel" creationdate="20180615T164801Z">
+        <seg>Un esempio più complesso potrebbe essere: &lt;/f10&gt;&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;/f11&gt;Titolo&lt;f12&gt;&lt;/f12&gt; seguito da &lt;f13&gt;&lt;f14&gt;&lt;/f14&gt;Autore&lt;/f13&gt;&lt;f15&gt;&lt;/f15&gt; seguito da &lt;f16&gt;&lt;f17&gt;&lt;/f17&gt;Estratto&lt;/f16&gt;&lt;f18&gt;&lt;/f18&gt; seguito da &lt;f19&gt;&lt;f20&gt;&lt;/f20&gt;Intestazione 1&lt;/f19&gt;&lt;f21&gt;&lt;/f21&gt; seguito da &lt;f22&gt;&lt;f23&gt;&lt;/f23&gt;Corpo del testo&lt;/f22&gt;&lt;f24&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17162,8 +17162,8 @@
       <tuv lang="EN">
         <seg>See the &lt;f0&gt;Draw Guide&lt;/f0&gt; and the &lt;f1&gt;H&lt;/f1&gt;elp for more information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144846Z" creationid="manuel" creationdate="20180629T061125Z">
-        <seg>Vedere la &lt;f0&gt;Guida a Draw&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; e la Guida in linea per maggiori informazioni.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144918Z" creationid="manuel" creationdate="20180629T061125Z">
+        <seg>Vedere la &lt;f0&gt;Guida a Draw&lt;/f0&gt; e la &lt;f1&gt;Guida&lt;/f1&gt; in linea per maggiori informazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22887,8 +22887,8 @@
       <tuv lang="EN">
         <seg>Type a name for this &lt;f1&gt;new &lt;/f1&gt;bookmark in the top box, and then click &lt;f2&gt;&lt;f3&gt;Insert&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164053Z" creationid="manuel" creationdate="20180628T164053Z">
-        <seg>Nell'area superiore, digitate un nome per questo nuovo segnalibro e fate clic su &lt;f2&gt;&lt;f3&gt;Inserisci&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144953Z" creationid="manuel" creationdate="20180628T164053Z">
+        <seg>Nell'area superiore, digitate un nome per questo &lt;f1&gt;nuovo&lt;/f1&gt; segnalibro e fate clic su &lt;f2&gt;&lt;f3&gt;Inserisci&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
