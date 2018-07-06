@@ -6029,8 +6029,8 @@
       <tuv lang="EN">
         <seg>Click on the small triangle to the right of the &lt;f0&gt;Lines and Arrows&lt;/f0&gt; icon on the Drawing toolbar or the &lt;f1&gt;Insert Shapes&lt;/f1&gt; sub-section in Sidebar Properties to open a tool palette containing tools for &lt;i2/&gt;drawing lines and arrows.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T165038Z" creationid="manuel" creationdate="20180704T165038Z">
-        <seg>Fare clic sul piccolo triangolo a destra dell'icona &lt;f0&gt;Linee e frecce&lt;/f0&gt; sulla barra degli strumenti Disegno o sulla sottosezione &lt;f1&gt;Inserisci forme&lt;/ f1&gt; in Proprietà barra laterale per aprire una tavolozza degli strumenti contenente strumenti per &lt;/f1&gt;disegno di linee e frecce.
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144203Z" creationid="manuel" creationdate="20180704T165038Z">
+        <seg>Fare clic sul piccolo triangolo a destra dell'icona &lt;f0&gt;Linee e frecce&lt;/f0&gt; sulla barra degli strumenti Disegno o sulla sottosezione &lt;f1&gt;Inserisci forme&lt;/f1&gt; in Proprietà barra laterale per aprire una tavolozza degli strumenti contenente strumenti per &lt;i2/&gt;disegno di linee e frecce.
 </seg>
       </tuv>
     </tu>
@@ -7625,7 +7625,7 @@
       <tuv lang="EN">
         <seg>Draw &lt;i0/&gt;classifies &lt;f1&gt;arrows&lt;/f1&gt; as a subgroup of lines: lines with arrowheads.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095230Z" creationid="manuel" creationdate="20180704T095230Z">
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144244Z" creationid="manuel" creationdate="20180704T095230Z">
         <seg>In Draw le &lt;f1&gt;frecce&lt;/f1&gt; sono &lt;i0/&gt;classificate come un sottogruppo di linee: linee con punte a freccia.</seg>
       </tuv>
     </tu>
@@ -21259,8 +21259,8 @@
       <tuv lang="EN">
         <seg>This toolbar also includes a rectangle tool identical to the one on the Drawing toolbar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104202Z" creationid="manuel" creationdate="20180706T104202Z">
-        <seg>Questa barra include anche uno strumento rettangolo identico a quello sulla barra degli strumenti Disegno.&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144042Z" creationid="manuel" creationdate="20180706T104202Z">
+        <seg>Questa barra include anche uno strumento rettangolo identico a quello sulla barra degli strumenti Disegno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21467,8 +21467,8 @@
       <tuv lang="EN">
         <seg>To add a layer to your drawing, select &lt;f0&gt;Insert &gt; Layer...&lt;/f0&gt; from the menu bar or right-click any layer tab in the Layers bar on the bottom of the workspace (Figure &lt;t1&gt;163&lt;/t1&gt;) and choose &lt;f2&gt;Insert Layer...&lt;/f2&gt; The Insert Layer dialog opens (Figure &lt;t3&gt;167&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T144442Z" creationid="manuel" creationdate="20180704T144239Z">
-        <seg>Per aggiungere un livello al disegno, selezionate &lt;f0&gt;Inserisci &gt; Livello...&lt;/f0&gt; dalla barra dei menu o fate clic con il pulsante destro del mouse su qualsiasi scheda di livello nella barra Livelli nella parte inferiore dell'area di lavoro (Figura &lt;t1&gt;163&lt;t1&gt;) e scegliete &lt;f2&gt;Inserisci livello...&lt;/f2&gt; Si apre così la finestra di dialogo Inserisci livello (Figura &lt;t3&gt;167&lt;/t3&gt;).
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144248Z" creationid="manuel" creationdate="20180704T144239Z">
+        <seg>Per aggiungere un livello al disegno, selezionate &lt;f0&gt;Inserisci &gt; Livello...&lt;/f0&gt;&lt;t1&gt; dalla barra dei menu o fate clic con il pulsante destro del mouse su qualsiasi scheda di livello nella barra Livelli nella parte inferiore dell'area di lavoro (Figura &lt;/t1&gt;163&lt;t1&gt;) e scegliete &lt;f2&gt;Inserisci livello...&lt;/f2&gt; Si apre così la finestra di dialogo Inserisci livello (Figura &lt;t3&gt;167&lt;/t3&gt;).
 </seg>
       </tuv>
     </tu>
@@ -21926,8 +21926,8 @@
       <tuv lang="EN">
         <seg>To draw a circle, click on the &lt;f2&gt;Ellipse&lt;/f2&gt; icon and hold down the &lt;f3&gt;Shift&lt;/f3&gt; key whilst you draw a circle.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102444Z" creationid="manuel" creationdate="20180704T102444Z">
-        <seg>Per disegnare un cerchio, fate clic sull'icona &lt;f2&gt;Ellisse&lt;/f2&gt; e tenete premuto il tasto &lt;f3&gt;Maiusc&lt;/f3&gt; finché tracciate il cerchio.&lt;/f13&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144058Z" creationid="manuel" creationdate="20180704T102444Z">
+        <seg>Per disegnare un cerchio, fate clic sull'icona &lt;f2&gt;Ellisse&lt;/f2&gt; e tenete premuto il tasto &lt;f3&gt;Maiusc&lt;/f3&gt; finché tracciate il cerchio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21958,8 +21958,8 @@
       <tuv lang="EN">
         <seg>To draw a square, click on the &lt;f1&gt;Rectangle&lt;/f1&gt;&lt;f2&gt; icon &lt;/f2&gt;and hold down the &lt;f3&gt;Shift &lt;/f3&gt;key whil&lt;f4&gt;e&lt;/f4&gt; you draw a square.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101748Z" creationid="manuel" creationdate="20180704T101748Z">
-        <seg>Per disegnare un quadrato, fate clic sull'&lt;f2&gt;icona&lt;/f2&gt; &lt;f1&gt;Rettangolo&lt;/f1&gt; e tenete premuto il tasto &lt;f3&gt;Maiusc&lt;/f3&gt; &lt;f4&gt;mentre&lt;/f4&gt; tracciate il quadrato.&lt;/f11&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144112Z" creationid="manuel" creationdate="20180704T101748Z">
+        <seg>Per disegnare un quadrato, fate clic sull'icona Rettangolo&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; e tenete premuto il tasto &lt;f3&gt;Maiusc&lt;/f3&gt; &lt;f4&gt;mentre&lt;/f4&gt; tracciate il quadrato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26240,8 +26240,8 @@
       <tuv lang="EN">
         <seg>banners</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T105924Z" creationid="manuel" creationdate="20180706T105924Z">
-        <seg>decorazioni (banner) &lt;s0/&gt;195</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144020Z" creationid="manuel" creationdate="20180706T105924Z">
+        <seg>decorazioni (banner)</seg>
       </tuv>
     </tu>
     <tu>
