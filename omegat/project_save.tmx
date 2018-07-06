@@ -2697,8 +2697,8 @@
       <tuv lang="EN">
         <seg>A &lt;f0&gt;special character&lt;/f0&gt; is one not found on a standard &lt;f1&gt;user’s&lt;/f1&gt; keyboard.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151648Z" creationid="manuel" creationdate="20180622T104436Z">
-        <seg>Un carattere che non si trova nella tastiera standard &lt;f1&gt;dell'utente&lt;/f1&gt; è un &lt;f0&gt;carattere speciale&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T152527Z" creationid="manuel" creationdate="20180622T104436Z">
+        <seg>Un carattere che non si trova nella tastiera standard dell'utente è un carattere speciale&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
