@@ -8127,6 +8127,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even if objects are located behind others and not visible, they can still be selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172019Z" creationid="manuel" creationdate="20180706T171957Z">
+        <seg>Anche gli oggetti posti dietro ad altri oggetti, e quindi non visibili, possono essere selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even if you do not select this option, some settings are taken from your LibreOffice installation:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143708Z" creationid="manuel" creationdate="20180608T143708Z">
@@ -11059,6 +11067,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160355Z" creationid="manuel" creationdate="20180626T160355Z">
         <seg>Evidenziazione (con una tavolozza di colori)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Alt&lt;/f0&gt; key and click on the object at the front of where the hidden object is located, then click again to select the hidden object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172025Z" creationid="manuel" creationdate="20180706T172025Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Alt&lt;/f0&gt; e fate clic sull'oggetto davanti a quello nascosto, quindi fate nuovamente clic per selezionare l'oggetto nascosto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26960,8 +26976,8 @@
       <tuv lang="EN">
         <seg>hidden</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171709Z" creationid="manuel" creationdate="20180706T171709Z">
-        <seg>nascosta</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172003Z" creationid="manuel" creationdate="20180706T171709Z">
+        <seg>nascosti</seg>
       </tuv>
     </tu>
     <tu>
