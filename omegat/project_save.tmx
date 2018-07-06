@@ -10185,8 +10185,8 @@
       <tuv lang="EN">
         <seg>For other methods of inserting dashes, see Chapter 3, Working with Text: &lt;f0&gt;Basics&lt;/f0&gt; in the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134506Z" creationid="manuel" creationdate="20180622T134506Z">
-        <seg>Per ulteriori metodi di inserimento dei trattini, consultare Capitolo 3 (Lavorare col testo: le basi) &lt;f0&gt;della Guida a Writer&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151852Z" creationid="manuel" creationdate="20180622T134506Z">
+        <seg>Per ulteriori metodi di inserimento dei trattini, vedere Capitolo 3 (Lavorare col testo: &lt;f0&gt;le basi&lt;/f0&gt;) nella &lt;f1&gt;Guida a Writer&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11921,8 +11921,8 @@
       <tuv lang="EN">
         <seg>If you cannot place the cursor in the table of contents, choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f0&gt;, and then select &lt;f1&gt;Enable &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Cursor&lt;/f3&gt;&lt;/f2&gt; in the &lt;f4&gt;&lt;f5&gt;P&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;rotected areas&lt;/f6&gt; section.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143145Z" creationid="manuel" creationdate="20180628T143145Z">
-        <seg>Se non riuscite a posizionare il cursore all'interno dell'indice, scegliete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Writer &gt; Formattazione&lt;/f0&gt;, quindi spuntate &lt;f1&gt;Permetti&lt;/f1&gt; nella sezione &lt;f2&gt;Cursore in aree protette&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151900Z" creationid="manuel" creationdate="20180628T143145Z">
+        <seg>Se non riuscite a posizionare il cursore all'interno dell'indice, scegliete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Writer &gt; Formattazione&lt;/f0&gt;, quindi spuntate &lt;f1&gt;Permetti&lt;/f1&gt; nella sezione &lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;Cursore in aree protette&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12777,8 +12777,8 @@
       <tuv lang="EN">
         <seg>In cases where you do not want the hyphen to appear at the end of a line, for example in a number such as 123‑4567, you can press &lt;f0&gt;Shift+Ctrl+minus sign&lt;/f0&gt; to insert &lt;i1/&gt;a non-breaking hyphen.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151722Z" creationid="manuel" creationdate="20180622T133700Z">
-        <seg>Nei casi in cui non desiderate che il trattino (tratto d'unione) appaia alla fine di una linea, ad esempio in un numero come 123‑4567, potete premere &lt;f0&gt;Maiusc+Ctrl+segno meno&lt;/f0&gt;&lt;i1/&gt; per inserire un trattino (tratto d'unione) non divisibile.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151739Z" creationid="manuel" creationdate="20180622T133700Z">
+        <seg>Nei casi in cui non desiderate che il trattino (tratto d'unione) appaia alla fine di una linea, ad esempio in un numero come 123‑4567, potete premere &lt;f0&gt;Maiusc+Ctrl+segno meno&lt;/f0&gt; per inserire &lt;i1/&gt;un trattino (tratto d'unione) non divisibile.</seg>
       </tuv>
     </tu>
     <tu>
