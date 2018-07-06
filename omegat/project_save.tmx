@@ -1641,8 +1641,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;lick on the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; tab &lt;f2&gt;in the Sidebar &lt;/f2&gt;to open the Styles and Formatting deck.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T074744Z" creationid="manuel" creationdate="20180627T074744Z">
-        <seg>Fate clic sulla scheda &lt;f1&gt;Stili e formattazione&lt;/f1&gt; &lt;f2&gt;nella barra laterale&lt;/f2&gt; per aprire il pannello Stili e formattazione.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151056Z" creationid="manuel" creationdate="20180627T074744Z">
+        <seg>&lt;f0&gt;Fate clic&lt;/f0&gt; sulla scheda &lt;f1&gt;Stili e formattazione&lt;/f1&gt; &lt;f2&gt;nella barra laterale&lt;/f2&gt; per aprire il pannello Stili e formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10129,8 +10129,8 @@
       <tuv lang="EN">
         <seg>For more information on using Find &amp; Replace, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103726Z" creationid="manuel" creationdate="20180622T103726Z">
-        <seg>Per maggiori informazioni sull'utilizzo di Trova e sostituisci, vedere la &lt;/f0&gt;Guida a Writer&lt;f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150949Z" creationid="manuel" creationdate="20180622T103726Z">
+        <seg>Per maggiori informazioni sull'utilizzo di Trova e sostituisci, vedere la &lt;f0&gt;Guida a Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10177,8 +10177,8 @@
       <tuv lang="EN">
         <seg>For more uses of the Navigator in Writer, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T140956Z" creationid="manuel" creationdate="20180621T140956Z">
-        <seg>Per ulteriori utilizzi del Navigatore in Writer, consultate la &lt;/f0&gt;Guida a Writer&lt;f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150920Z" creationid="manuel" creationdate="20180621T140956Z">
+        <seg>Per ulteriori utilizzi del Navigatore in Writer, consultate la &lt;f0&gt;Guida a Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12297,8 +12297,8 @@
       <tuv lang="EN">
         <seg>If you type three or more hyphens (---), underscores (___) or equal signs (===) on a line and then press &lt;f0&gt;Enter&lt;/f0&gt;, the paragraph is replaced by a horizontal line as wide as the &lt;f1&gt;column in the &lt;/f1&gt;page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150643Z" creationid="manuel" creationdate="20180626T161145Z">
-        <seg>Se digitate tre o più trattini (tratti d'unione) (---), trattini bassi (___) e segni di uguale (===) su una linea e poi premete &lt;f0&gt;Invio&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;, il paragrafo verrà sostituito da una linea orizzontale della larghezza della pagina.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150820Z" creationid="manuel" creationdate="20180626T161145Z">
+        <seg>Se digitate tre o più trattini (tratti d'unione) (---), trattini bassi (___) e segni di uguale (===) su una linea e poi premete &lt;f0&gt;Invio&lt;/f0&gt;, il paragrafo verrà sostituito da una linea orizzontale della &lt;f1&gt;&lt;/f1&gt;larghezza della pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17682,8 +17682,8 @@
       <tuv lang="EN">
         <seg>Select the characters (from any font or mixture of fonts) you wish to insert, in order, then click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105644Z" creationid="manuel" creationdate="20180622T105644Z">
-        <seg>Selezionate i caratteri che volete inserire (da qualsiasi tipo di carattere o insieme parziale di caratteri), nel giusto ordine, poi fate clic su &lt;/f0&gt;OK&lt;f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151010Z" creationid="manuel" creationdate="20180622T105644Z">
+        <seg>Selezionate i caratteri che volete inserire (da qualsiasi tipo di carattere o insieme parziale di caratteri), nel giusto ordine, poi fate clic su &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
