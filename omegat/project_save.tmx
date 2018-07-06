@@ -2439,6 +2439,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can add text to all of these geometric shapes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171012Z" creationid="manuel" creationdate="20180706T171012Z">
+        <seg>&lt;f0&gt;Potete aggiungere testo a tutte queste forme geometriche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can add your own corrections or special characters or change those supplied with LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T111117Z" creationid="manuel" creationdate="20180626T111117Z">
@@ -8603,6 +8611,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T105920Z" creationid="manuel" creationdate="20180706T105920Z">
         <seg>Figura &lt;seq0&gt;185&lt;/seq0&gt;: barra degli strumenti Legende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;186&lt;/seq0&gt;: Stars and Banners toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T170921Z" creationid="manuel" creationdate="20180706T170921Z">
+        <seg>Figura &lt;seq0&gt;188&lt;/seq0&gt;: barra degli strumenti Stelle e decorazioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -18490,8 +18506,8 @@
       <tuv lang="EN">
         <seg>Stars &lt;i0/&gt;and banners</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T105938Z" creationid="manuel" creationdate="20180706T105938Z">
-        <seg>Stelle &lt;i0/&gt;e banner</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T170938Z" creationid="manuel" creationdate="20180706T105938Z">
+        <seg>Stelle &lt;i0/&gt;e decorazioni</seg>
       </tuv>
     </tu>
     <tu>
