@@ -17586,8 +17586,8 @@
       <tuv lang="EN">
         <seg>Select several objects, then go to &lt;f0&gt;Modify &gt; Combine&lt;/f0&gt; on the Menu bar, or right-click on the objects and select &lt;f1&gt;Combine&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Ctrl+Shift+K&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112317Z" creationid="manuel" creationdate="20180705T112317Z">
-        <seg>Selezionate alcuni oggetti, quindi andate su &lt;f0&gt;Cambia &gt; Combina&lt;/f0&gt; sulla barra del Menu, o fate clic con il pulsante destro del mouse sugli oggetti e selezionate &lt;f1&gt;Combina&lt;/f1&gt; dal menu a comparsa, oppure usate la scorciatoia da tastiera &lt;f2&gt;Ctrl+Maiusc+K&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T163824Z" creationid="manuel" creationdate="20180705T112317Z">
+        <seg>Selezionate alcuni oggetti, quindi andate su &lt;f0&gt;Cambia &gt; Combina&lt;/f0&gt; sulla barra del Menu, o fate clic con il pulsante destro del mouse sugli oggetti e selezionate &lt;f1&gt;Combina&lt;/f1&gt; dal menu contestuale, oppure usate la scorciatoia da tastiera &lt;f2&gt;Ctrl+Maiusc+K&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22727,8 +22727,8 @@
       <tuv lang="EN">
         <seg>To ungroup or break apart a group of objects, select the group then go to &lt;f0&gt;Modify &gt; Ungroup&lt;/f0&gt; on the Menu bar, or right-click and select &lt;f1&gt;Ungroup&lt;/f1&gt; from the context menu or use the keyboard shortcut C&lt;f2&gt;trl+Alt+Shift+G&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T163310Z" creationid="manuel" creationdate="20180705T112132Z">
-        <seg>Per sciogliere un gruppo di oggetti, selezionate il gruppo quindi andate su &lt;f0&gt;Cambia &gt; Separa&lt;/f0&gt; sulla barra dei menu, o fate clic con il tasto destro e selezionate &lt;f1&gt;Separa&lt;/f1&gt; dal menu contestuale oppure usate la scorciatoia da tastiera C&lt;f2&gt;trl+Alt+Maiusc+G&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T163758Z" creationid="manuel" creationdate="20180705T112132Z">
+        <seg>Per sciogliere un gruppo di oggetti, selezionate il gruppo quindi andate su &lt;f0&gt;Cambia &gt; Separa&lt;/f0&gt; sulla barra dei menu, o fate clic con il tasto destro e selezionate &lt;f1&gt;Separa&lt;/f1&gt; dal menu contestuale oppure usate la scorciatoia da tastiera &lt;f2&gt;Ctrl+Alt+Maiusc+G&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24336,8 +24336,8 @@
       <tuv lang="EN">
         <seg>When you deselect your selection, the objects remain grouped together.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T141041Z" creationid="manuel" creationdate="20180705T141041Z">
-        <seg>Quando deselezionate la vostra selezione gli oggetti rimangono raggruppati insieme.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T164017Z" creationid="manuel" creationdate="20180705T141041Z">
+        <seg>Quando deselezionate la selezione, gli oggetti rimangono raggruppati insieme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25160,8 +25160,8 @@
       <tuv lang="EN">
         <seg>You can apply basic formatting to parts of the text by selecting it, right-clicking, and choosing from the context menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104049Z" creationid="manuel" creationdate="20180705T104049Z">
-        <seg>Potete applicare una formattazione di base a parti del testo selezionandolo, facendo clic con il pulsante destro, ed effettuando una scelta dal menu a comparsa.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T163903Z" creationid="manuel" creationdate="20180705T104049Z">
+        <seg>Potete applicare una formattazione di base a parti del testo selezionandolo, facendo clic con il pulsante destro, ed effettuando una scelta dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
