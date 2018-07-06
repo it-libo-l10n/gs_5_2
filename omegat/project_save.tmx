@@ -4545,6 +4545,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Block arrows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104258Z" creationid="manuel" creationdate="20180706T104258Z">
+        <seg>Frecce blocchi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Block selection &lt;f0&gt;(Ctrl+Shift+F8)&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065718Z" creationid="manuel" creationdate="20180618T065718Z">
@@ -8507,6 +8515,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T103801Z" creationid="manuel" creationdate="20180705T103801Z">
         <seg>Figura &lt;seq0&gt;180&lt;/seq0&gt;: barra degli strumenti Connettori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;181&lt;/seq0&gt;: Basic Shapes toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104210Z" creationid="manuel" creationdate="20180706T104210Z">
+        <seg>Figura &lt;seq0&gt;181&lt;/seq0&gt;: barra degli strumenti Forme base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;182&lt;/seq0&gt;: Symbol Shapes toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104255Z" creationid="manuel" creationdate="20180706T104255Z">
+        <seg>Figura &lt;seq0&gt;182&lt;/seq0&gt;: barra degli strumenti Forme simboli</seg>
       </tuv>
     </tu>
     <tu>
@@ -18544,6 +18568,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Symbol shapes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104216Z" creationid="manuel" creationdate="20180706T104216Z">
+        <seg>Forme simboli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>T&lt;f0&gt;o close t&lt;/f0&gt;he Find toolbar, click the X button on the left, or press &lt;f1&gt;Esc&lt;/f1&gt; on the keyboard when the text cursor is in the search box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T102109Z" creationid="manuel" creationdate="20180622T102109Z">
@@ -21133,6 +21165,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094328Z" creationid="manuel" creationdate="20180705T094328Z">
         <seg>Tale testo diviene quindi parte dell'oggetto grafico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This toolbar also includes a rectangle tool identical to the one on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104202Z" creationid="manuel" creationdate="20180706T104202Z">
+        <seg>Questa barra include anche uno strumento rettangolo identico a quello sulla barra degli strumenti Disegno.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26122,6 +26162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T150104Z" creationid="manuel" creationdate="20180531T080256Z">
         <seg>vuota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>block arrows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104300Z" creationid="manuel" creationdate="20180706T104300Z">
+        <seg>frecce blocchi</seg>
       </tuv>
     </tu>
     <tu>
