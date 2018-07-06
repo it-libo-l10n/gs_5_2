@@ -2697,8 +2697,8 @@
       <tuv lang="EN">
         <seg>A &lt;f0&gt;special character&lt;/f0&gt; is one not found on a standard &lt;f1&gt;user’s&lt;/f1&gt; keyboard.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T104436Z" creationid="manuel" creationdate="20180622T104436Z">
-        <seg>Un carattere che non si trova nella tastiera standard dell'utente è un &lt;f0&gt;carattere speciale&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151648Z" creationid="manuel" creationdate="20180622T104436Z">
+        <seg>Un carattere che non si trova nella tastiera standard &lt;f1&gt;dell'utente&lt;/f1&gt; è un &lt;f0&gt;carattere speciale&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11657,8 +11657,8 @@
       <tuv lang="EN">
         <seg>If the current language does not have a thesaurus installed, this feature is disabled.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T081219Z" creationid="manuel" creationdate="20180626T081219Z">
-        <seg>Questa funzione è disabilitata se per la lingua corrente non è installato un dizionario dei sinonimi.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151656Z" creationid="manuel" creationdate="20180626T081219Z">
+        <seg>Questa funzione è disabilitata se per la lingua corrente non è installato un dizionario dei sinonimi.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12777,8 +12777,8 @@
       <tuv lang="EN">
         <seg>In cases where you do not want the hyphen to appear at the end of a line, for example in a number such as 123‑4567, you can press &lt;f0&gt;Shift+Ctrl+minus sign&lt;/f0&gt; to insert &lt;i1/&gt;a non-breaking hyphen.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180622T133700Z" creationid="manuel" creationdate="20180622T133700Z">
-        <seg>Nei casi in cui non desiderate che il trattino (tratto d'unione) appaia alla fine di una linea, ad esempio in un numero come 123‑4567, potete premere &lt;f0&gt;Maiusc+Ctrl+segno meno&lt;/f0&gt; per inserire un trattino (tratto d'unione) non divisibile.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151722Z" creationid="manuel" creationdate="20180622T133700Z">
+        <seg>Nei casi in cui non desiderate che il trattino (tratto d'unione) appaia alla fine di una linea, ad esempio in un numero come 123‑4567, potete premere &lt;f0&gt;Maiusc+Ctrl+segno meno&lt;/f0&gt;&lt;i1/&gt; per inserire un trattino (tratto d'unione) non divisibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23144,8 +23144,8 @@
       <tuv lang="EN">
         <seg>Use AutoText to store text, tables, &lt;f0&gt;fields,&lt;/f0&gt; and other items for reuse and assign them to a key combination for easy retrieval.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151250Z" creationid="manuel" creationdate="20180626T143652Z">
-        <seg>La funzione Testo Automatico permette di salvare testo, tabelle, comandi di campo e altri elementi per un uso successivo e assegnarli a una combinazione di tasti per poterli recuperare facilmente.&lt;f0&gt;&lt;/f0&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151555Z" creationid="manuel" creationdate="20180626T143652Z">
+        <seg>La funzione Testo Automatico permette di salvare testo, tabelle, &lt;f0&gt;comandi di campo&lt;/f0&gt; e altri elementi per un uso successivo e assegnarli a una combinazione di tasti per poterli recuperare facilmente.</seg>
       </tuv>
     </tu>
     <tu>
