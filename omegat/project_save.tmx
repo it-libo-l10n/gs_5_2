@@ -5060,8 +5060,8 @@
       <tuv lang="EN">
         <seg>Chapter 1, Introducing LibreOffice, includes instructions on starting new documents, opening existing documents, saving documents, &lt;f0&gt;accessing remote servers, &lt;/f0&gt;and password-protecting documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T141228Z" creationid="manuel" creationdate="20180621T141228Z">
-        <seg>Il Capitolo 1 (Introduzione a LibreOffice) contiene istruzioni su come creare nuovi documenti, aprire documenti esistenti, salvare documenti, accedere a server remoti, e proteggere documenti con password.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151217Z" creationid="manuel" creationdate="20180621T141228Z">
+        <seg>Il Capitolo 1 (Introduzione a LibreOffice) contiene istruzioni su come creare nuovi documenti, aprire documenti esistenti, salvare documenti, &lt;f0&gt;accedere a server remoti,&lt;/f0&gt; e proteggere documenti con password.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15186,8 +15186,8 @@
       <tuv lang="EN">
         <seg>Now you can work with the selected text (copy it, delete it, change the style, &lt;f0&gt;and so on&lt;/f0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152424Z" creationid="manuel" creationdate="20180621T152424Z">
-        <seg>Ora potete lavorare con il testo selezionato (copiarlo, cancellarlo, cambiarne lo stile, e così via).</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151244Z" creationid="manuel" creationdate="20180621T152424Z">
+        <seg>Ora potete lavorare con il testo selezionato (copiarlo, cancellarlo, cambiarne lo stile, &lt;f0&gt;e così via&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22038,8 +22038,8 @@
       <tuv lang="EN">
         <seg>To exit Full Screen view and return to either &lt;f0&gt;Normal&lt;/f0&gt; or Web view, press the &lt;f1&gt;Esc&lt;/f1&gt; key or &lt;f2&gt;toggle&lt;/f2&gt; the Full Screen &lt;f3&gt;button on the floating toolbar&lt;/f3&gt; in the top left-hand corner.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180621T105636Z" creationid="manuel" creationdate="20180621T105636Z">
-        <seg>Per uscire dalla visualizzazione Schermo intero e ritornare alla visualizzazione &lt;f0&gt;Normale&lt;/f0&gt; o Web premete il tasto &lt;f1&gt;Esc&lt;/f1&gt; oppure &lt;f2&gt;fate&lt;/f2&gt; clic sul pulsante Schermo intero della barra strumenti mobili nell'angolo in alto a sinistra.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151141Z" creationid="manuel" creationdate="20180621T105636Z">
+        <seg>Per uscire dalla visualizzazione Schermo intero e ritornare alla visualizzazione &lt;f0&gt;Normale&lt;/f0&gt; o Web premete il tasto &lt;f1&gt;Esc&lt;/f1&gt; oppure &lt;f2&gt;fate&lt;/f2&gt; clic sul pulsante &lt;f3&gt;Schermo intero&lt;/f3&gt; della barra strumenti mobili nell'angolo in alto a sinistra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23144,8 +23144,8 @@
       <tuv lang="EN">
         <seg>Use AutoText to store text, tables, &lt;f0&gt;fields,&lt;/f0&gt; and other items for reuse and assign them to a key combination for easy retrieval.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143652Z" creationid="manuel" creationdate="20180626T143652Z">
-        <seg>La funzione Testo Automatico permette di salvare testo, tabelle, comandi di campo e altri elementi per un uso successivo e assegnarli a una combinazione di tasti per poterli recuperare facilmente.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151250Z" creationid="manuel" creationdate="20180626T143652Z">
+        <seg>La funzione Testo Automatico permette di salvare testo, tabelle, comandi di campo e altri elementi per un uso successivo e assegnarli a una combinazione di tasti per poterli recuperare facilmente.&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
