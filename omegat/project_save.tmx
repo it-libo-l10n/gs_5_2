@@ -7625,8 +7625,8 @@
       <tuv lang="EN">
         <seg>Draw &lt;i0/&gt;classifies &lt;f1&gt;arrows&lt;/f1&gt; as a subgroup of lines: lines with arrowheads.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144244Z" creationid="manuel" creationdate="20180704T095230Z">
-        <seg>In Draw le &lt;f1&gt;frecce&lt;/f1&gt; sono &lt;i0/&gt;classificate come un sottogruppo di linee: linee con punte a freccia.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144353Z" creationid="manuel" creationdate="20180704T095230Z">
+        <seg>In Draw le frecce sono &lt;i0/&gt;&lt;f1&gt;&lt;/f1&gt;classificate come un sottogruppo di linee: linee con punte a freccia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20507,8 +20507,8 @@
       <tuv lang="EN">
         <seg>The tools available in the Draw toolbars are &lt;f0&gt;describ&lt;/f0&gt;ed &lt;f1&gt;below&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T144330Z" creationid="manuel" creationdate="20180703T144330Z">
-        <seg>Di seguito sono spiegati gli strumenti disponibili nelle barre degli strumenti di Draw.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144440Z" creationid="manuel" creationdate="20180703T144330Z">
+        <seg>Di seguito sono spiegati gli strumenti disponibili nelle barre degli strumenti di Draw.&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21467,8 +21467,8 @@
       <tuv lang="EN">
         <seg>To add a layer to your drawing, select &lt;f0&gt;Insert &gt; Layer...&lt;/f0&gt; from the menu bar or right-click any layer tab in the Layers bar on the bottom of the workspace (Figure &lt;t1&gt;163&lt;/t1&gt;) and choose &lt;f2&gt;Insert Layer...&lt;/f2&gt; The Insert Layer dialog opens (Figure &lt;t3&gt;167&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144248Z" creationid="manuel" creationdate="20180704T144239Z">
-        <seg>Per aggiungere un livello al disegno, selezionate &lt;f0&gt;Inserisci &gt; Livello...&lt;/f0&gt;&lt;t1&gt; dalla barra dei menu o fate clic con il pulsante destro del mouse su qualsiasi scheda di livello nella barra Livelli nella parte inferiore dell'area di lavoro (Figura &lt;/t1&gt;163&lt;t1&gt;) e scegliete &lt;f2&gt;Inserisci livello...&lt;/f2&gt; Si apre così la finestra di dialogo Inserisci livello (Figura &lt;t3&gt;167&lt;/t3&gt;).
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144338Z" creationid="manuel" creationdate="20180704T144239Z">
+        <seg>Per aggiungere un livello al disegno, selezionate &lt;f0&gt;Inserisci &gt; Livello...&lt;/f0&gt; dalla barra dei menu o fate clic con il pulsante destro del mouse su qualsiasi scheda di livello nella barra Livelli nella parte inferiore dell'area di lavoro (Figura &lt;t1&gt;163&lt;/t1&gt;) e scegliete &lt;f2&gt;Inserisci livello...&lt;/f2&gt; Si apre così la finestra di dialogo Inserisci livello (Figura &lt;t3&gt;167&lt;/t3&gt;).
 </seg>
       </tuv>
     </tu>
