@@ -7391,6 +7391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Direct selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171301Z" creationid="manuel" creationdate="20180706T171301Z">
+        <seg>Selezione diretta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Directly accesses hardware features of the graphical display adapter to improve the screen display.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055319Z" creationid="manuel" creationdate="20180531T055319Z">
@@ -10199,10 +10207,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information, see&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;Chapter 2, Drawing Basic Shapes, and Chapter 11, Advanced Draw Techniques,&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;in&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; the &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Draw Guide&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171222Z" creationid="manuel" creationdate="20180706T171222Z">
+        <seg>Per maggiori informazioni, vedere il&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;Capitolo 2 (Disegnare forme base), e il Capitolo 11 (Draw tecniche avanzate)&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;nella&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Guida a Draw &lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more uses of the Navigator in Writer, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150920Z" creationid="manuel" creationdate="20180621T140956Z">
         <seg>Per ulteriori utilizzi del Navigatore in Writer, consultate la &lt;f0&gt;Guida a Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For objects that are not filled, click on the object outline to select it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171349Z" creationid="manuel" creationdate="20180706T171349Z">
+        <seg>Per selezionare oggetti privi di riempimento, fate clic sul contorno dell'oggetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15600,6 +15624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One click selects; a second click deselects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171403Z" creationid="manuel" creationdate="20180706T171403Z">
+        <seg>Facendo clic una volta sull'oggetto lo si seleziona; facendo un secondo clic lo si deseleziona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One slide set – multiple presentations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
@@ -19657,6 +19689,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The easiest way to select an object is to click directly on it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171342Z" creationid="manuel" creationdate="20180706T171342Z">
+        <seg>Il modo più semplice per selezionare un oggetto è di fare clic su di esso direttamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The effect varies with the combination of window width and zoom factor in use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071408Z" creationid="manuel" creationdate="20180618T071408Z">
@@ -22601,6 +22641,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085556Z" creationid="luke" creationdate="20180515T085556Z">
         <seg>Per selezionare elementi non consecutivi usando la tastiera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select or deselect more than one object, hold the shift button down while clicking.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171410Z" creationid="manuel" creationdate="20180706T171410Z">
+        <seg>Per selezionare o deselezionare più di un oggetto, tenete premuto il tasto Maiusc mentre fate clic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26810,6 +26858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085507Z" creationid="manuel" creationdate="20180627T085507Z">
         <seg>formattare le pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>framing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171450Z" creationid="manuel" creationdate="20180706T171450Z">
+        <seg>cornice</seg>
       </tuv>
     </tu>
     <tu>
