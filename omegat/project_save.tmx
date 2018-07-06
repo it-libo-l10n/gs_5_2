@@ -2433,8 +2433,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Y&lt;/f0&gt;ou can set paragraphs to be checked in a specific language (different from the rest of the document) &lt;f1&gt;using several methods,&lt;/f1&gt; &lt;f2&gt;f&lt;/f2&gt;or example by clicking on the &lt;f3&gt;Text &lt;/f3&gt;Language &lt;f4&gt;field&lt;/f4&gt; on the Status Bar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T152204Z" creationid="manuel" creationdate="20180626T065516Z">
-        <seg>&lt;f0&gt;Potete&lt;/f0&gt; impostare i paragrafi da verificare in una lingua specifica (diversa dal resto del documento) &lt;f1&gt;utilizzando diversi metodi,&lt;/f1&gt; &lt;f2&gt;per&lt;/f2&gt; esempio facendo clic sul &lt;f4&gt;campo&lt;/f4&gt; Lingua del &lt;f3&gt;testo&lt;/f3&gt; sulla barra di stato.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T153225Z" creationid="manuel" creationdate="20180626T065516Z">
+        <seg>&lt;f0&gt;Potete&lt;/f0&gt; impostare i paragrafi da verificare in una lingua specifica (diversa dal resto del documento) &lt;f1&gt;utilizzando diversi metodi,&lt;/f1&gt; &lt;f2&gt;per&lt;/f2&gt; esempio facendo clic sul &lt;f3&gt;campo&lt;/f3&gt; Lingua del &lt;f4&gt;testo&lt;/f4&gt; sulla barra di stato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2697,8 +2697,8 @@
       <tuv lang="EN">
         <seg>A &lt;f0&gt;special character&lt;/f0&gt; is one not found on a standard &lt;f1&gt;user’s&lt;/f1&gt; keyboard.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T152527Z" creationid="manuel" creationdate="20180622T104436Z">
-        <seg>Un carattere che non si trova nella tastiera standard dell'utente è un carattere speciale&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T153118Z" creationid="manuel" creationdate="20180622T104436Z">
+        <seg>È un &lt;f0&gt;carattere speciale&lt;/f0&gt; quello che non si trova nella tastiera standard &lt;f1&gt;dell'utente&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12153,8 +12153,8 @@
       <tuv lang="EN">
         <seg>If you have enabled experimental features in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt;, the Template&lt;f1&gt;s&lt;/f1&gt; &lt;f2&gt;dialog&lt;/f2&gt; shows a &lt;f3&gt;Repository&lt;/f3&gt; button that you can use to add other template repositories.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T143013Z" creationid="manuel" creationdate="20180616T073815Z">
-        <seg>Se hai abilitato le funzionalità sperimentali in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f0&gt;, la finestra di &lt;f2&gt;dialogo&lt;/f2&gt; &lt;f1&gt;Modello&lt;/f1&gt; mostra un &lt;f3&gt;deposito&lt;/f3&gt; pulsante che è possibile utilizzare per aggiungere altri depositi di modelli.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T153238Z" creationid="manuel" creationdate="20180616T073815Z">
+        <seg>Se hai abilitato le funzionalità sperimentali in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;, la finestra di dialogo Modello&lt;f2&gt;&lt;/f2&gt; mostra un &lt;f3&gt;deposito&lt;/f3&gt; pulsante che è possibile utilizzare per aggiungere altri depositi di modelli.</seg>
       </tuv>
     </tu>
     <tu>
