@@ -4465,6 +4465,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Basic shapes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T103955Z" creationid="manuel" creationdate="20180706T103955Z">
+        <seg>Forme base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Be aware that asking LibreOffice to remember more changes consumes more computer memory.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131550Z" creationid="Marco Marega" creationdate="20180623T131538Z">
@@ -6008,6 +6016,14 @@
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T165038Z" creationid="manuel" creationdate="20180704T165038Z">
         <seg>Fare clic sul piccolo triangolo a destra dell'icona &lt;f0&gt;Linee e frecce&lt;/f0&gt; sulla barra degli strumenti Disegno o sulla sottosezione &lt;f1&gt;Inserisci forme&lt;/ f1&gt; in Proprietà barra laterale per aprire una tavolozza degli strumenti contenente strumenti per &lt;/f1&gt;disegno di linee e frecce.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the triangle to the right of the &lt;f0&gt;Basic Shapes&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; to open the &lt;f4&gt;Basic Shapes&lt;/f4&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104136Z" creationid="manuel" creationdate="20180706T104136Z">
+        <seg>Fate clic sul triangolo a destra dell'icona &lt;f0&gt;Forme base&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; per aprire la barra degli strumenti &lt;f4&gt;Forme base&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10051,6 +10067,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085835Z" creationid="manuel" creationdate="20180627T085835Z">
         <seg>Per maggiori informazioni, vedere il Capitolo &lt;f1&gt;6&lt;/f1&gt; (Formattazione delle pagine) nella &lt;f2&gt;Guida a Writer&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information, see page &lt;bf0&gt;199&lt;/bf0&gt; and&lt;f1&gt; &lt;/f1&gt;Chapter 2, Drawing Basic Shapes, &lt;f2&gt;in the &lt;/f2&gt;&lt;f3&gt;Draw Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T103941Z" creationid="manuel" creationdate="20180706T103941Z">
+        <seg>Per maggiori informazioni, vedere pagina &lt;bf0&gt;199&lt;/bf0&gt; e il&lt;f1&gt; &lt;/f1&gt;Capitolo 2 (Disegnare forme base) &lt;f2&gt;nella &lt;/f2&gt;&lt;f3&gt;Guida a Draw&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19717,6 +19741,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T103446Z" creationid="manuel" creationdate="20180706T103446Z">
         <seg>Le icone per disegnare forme geometriche si trovano sulla barra degli strumenti Disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The icons for geometric shapes displayed on the Drawing toolbar will change shape according to the last tool selected and used to draw an object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T103952Z" creationid="manuel" creationdate="20180706T103952Z">
+        <seg>Le icone per le forme geometriche mostrate sulla barra degli strumenti Disegno cambiano forma a seconda dell'ultimo strumento selezionato ed utilizzato per disegnare un oggetto.</seg>
       </tuv>
     </tu>
     <tu>
