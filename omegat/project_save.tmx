@@ -6333,6 +6333,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on the triangle to the right of the icon on the Drawing toolbar opens a floating toolbar giving access to the tools for that shape.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T103530Z" creationid="manuel" creationdate="20180706T103530Z">
+        <seg>Facendo clic sul triangolo a destra dell'icona sulla barra degli strumenti Disegno si apre una barra mobile che dà accesso agli strumenti per quella forma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking the middle mouse button pastes at the mouse pointer position.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055230Z" creationid="manuel" creationdate="20180531T055230Z">
@@ -19617,6 +19625,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The geometric shapes are explained in the following sections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T103505Z" creationid="manuel" creationdate="20180706T103505Z">
+        <seg>Le forme geometriche sono spiegate nelle seguenti sezioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The graphic formats that Draw can export and save to are listed in Appendix B, Open Source, Open Standards, OpenDocument in this guide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T111604Z" creationid="manuel" creationdate="20180705T111604Z">
@@ -19693,6 +19709,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105917Z" creationid="manuel" creationdate="20180629T105917Z">
         <seg>Le icone e gli elenchi a discesa variano a seconda del tipo di oggetto selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The icons for drawing geometric shapes are located on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T103446Z" creationid="manuel" creationdate="20180706T103446Z">
+        <seg>Le icone per disegnare forme geometriche si trovano sulla barra degli strumenti Disegno.</seg>
       </tuv>
     </tu>
     <tu>
