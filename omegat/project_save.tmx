@@ -17714,8 +17714,8 @@
       <tuv lang="EN">
         <seg>Select the group and go to &lt;f0&gt;Modify &gt; Enter Group&lt;/f0&gt;, or right-click and select &lt;f1&gt;Enter Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;F3&lt;/f2&gt;, or double-click on the group.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T141324Z" creationid="manuel" creationdate="20180705T141324Z">
-        <seg>Selezionate il gruppo e andate su &lt;/f0&gt;Cambia &gt; Modifica gruppo&lt;f0&gt;, o fate clic con il pulsante destro e selezionate &lt;f1&gt;Modifica gruppo&lt;/f1&gt; dal menu a comparsa, o usate la scorciatoia da tastiera &lt;f2&gt;F3&lt;/f2&gt; oppure fate doppio clic sul gruppo.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T140336Z" creationid="manuel" creationdate="20180705T141324Z">
+        <seg>Selezionate il gruppo e andate su &lt;f0&gt;Cambia &gt; Modifica gruppo&lt;/f0&gt;, o fate clic con il pulsante destro e selezionate &lt;f1&gt;Modifica gruppo&lt;/f1&gt; dal menu a comparsa, o usate la scorciatoia da tastiera &lt;f2&gt;F3&lt;/f2&gt; oppure fate doppio clic sul gruppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25512,8 +25512,8 @@
       <tuv lang="EN">
         <seg>You can insert a line break with the &lt;f0&gt;Shift+Enter&lt;/f0&gt; key combination or start a new paragraph with the &lt;f1&gt;Enter&lt;/f1&gt; key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T140045Z" creationid="manuel" creationdate="20180704T105719Z">
-        <seg>Potete inserire un'interruzione di riga con la combinazione di tasti Maiusc+Invio&lt;f0&gt;&lt;/f0&gt; o iniziare un nuovo paragrafo con il tasto &lt;f1&gt;Invio&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T140117Z" creationid="manuel" creationdate="20180704T105719Z">
+        <seg>Potete inserire un'interruzione di riga con la combinazione di tasti &lt;f0&gt;Maiusc+Invio&lt;/f0&gt; o iniziare un nuovo paragrafo con il tasto &lt;f1&gt;Invio&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
