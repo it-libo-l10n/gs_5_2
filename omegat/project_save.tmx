@@ -5748,8 +5748,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to copy the styles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071739Z" creationid="manuel" creationdate="20180614T071739Z">
-        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per copiare gli stili.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T142531Z" creationid="manuel" creationdate="20180614T071739Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per copiare gli stili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9945,8 +9945,8 @@
       <tuv lang="EN">
         <seg>For example, you might name a modified Heading 1 style for an annual report &lt;f0&gt;AR Heading 1&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T142445Z" creationid="manuel" creationdate="20180614T064651Z">
-        <seg>Ad esempio, potresti nominare uno stile Titolo 1 modificato per un rapporto annuale &lt;f0&gt;&lt;/f0&gt; Titolo 1 AR &lt;/ f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T142523Z" creationid="manuel" creationdate="20180614T064651Z">
+        <seg>Ad esempio, potresti nominare uno stile Titolo 1 modificato per un rapporto annuale &lt;f0&gt;Titolo 1 AR&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12153,8 +12153,8 @@
       <tuv lang="EN">
         <seg>If you have enabled experimental features in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt;, the Template&lt;f1&gt;s&lt;/f1&gt; &lt;f2&gt;dialog&lt;/f2&gt; shows a &lt;f3&gt;Repository&lt;/f3&gt; button that you can use to add other template repositories.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180616T073815Z" creationid="manuel" creationdate="20180616T073815Z">
-        <seg>Se hai abilitato le funzionalità sperimentali in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f0&gt;, la finestra di &lt;f2&gt;dialogo&lt;/f2&gt; &lt;f1&gt;Modello&lt;/f1&gt; mostra un &lt;f3&gt;deposito&lt;/f3&gt; pulsante che è possibile utilizzare per aggiungere altri depositi di modelli.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T142558Z" creationid="manuel" creationdate="20180616T073815Z">
+        <seg>Se hai abilitato le funzionalità sperimentali in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;, la finestra di dialogo Modello&lt;f2&gt;&lt;/f2&gt; mostra un &lt;f3&gt;deposito&lt;/f3&gt; pulsante che è possibile utilizzare per aggiungere altri depositi di modelli.</seg>
       </tuv>
     </tu>
     <tu>
