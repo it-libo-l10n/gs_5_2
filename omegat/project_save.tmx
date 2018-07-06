@@ -9913,8 +9913,8 @@
       <tuv lang="EN">
         <seg>For example, you could define a &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Heading 1&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; paragraph to be followed by a &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Text Body&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; paragraph.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T143610Z" creationid="manuel" creationdate="20180615T164837Z">
-        <seg>Per esempio, potreste definire un paragrafo &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Intestazione 1&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; in modo che sia seguito da un paragrafo &lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;Corpo del testo&lt;/f7&gt;&lt;f9&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T143645Z" creationid="manuel" creationdate="20180615T164837Z">
+        <seg>Per esempio, potreste definire un paragrafo &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Intestazione 1&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; in modo che sia seguito da un paragrafo &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Corpo del testo&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17298,8 +17298,8 @@
       <tuv lang="EN">
         <seg>See&lt;f0&gt; &lt;/f0&gt;Chapter 6, Editing Pictures, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide &lt;/f2&gt;for more information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105229Z" creationid="manuel" creationdate="20180705T105229Z">
-        <seg>Vedere il &lt;f0&gt;Capitolo 6 (Modificare immagini)&lt;/f0&gt; nella &lt;f1&gt;Guida a Draw&lt;/f1&gt; per maggiori informazioni.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T143816Z" creationid="manuel" creationdate="20180705T105229Z">
+        <seg>Vedere il&lt;f0&gt; &lt;/f0&gt;Capitolo 6 (Modificare immagini) &lt;f1&gt;nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw&lt;/f2&gt; per maggiori informazioni.</seg>
       </tuv>
     </tu>
     <tu>
