@@ -6036,10 +6036,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the triangle to the right of the &lt;f0&gt;Flowcharts&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; to open the &lt;f4&gt;Flowchart&lt;/f4&gt; toolbar for symbols used in drawing flowcharts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T105352Z" creationid="manuel" creationdate="20180706T105352Z">
+        <seg>Fate clic sul triangolo o freccia alla destra dell'icona &lt;f0&gt;Diagrammi di flusso&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; per aprire la barra degli strumenti &lt;f4&gt;Diagrammi di flusso&lt;/f4&gt;, che mostra i simboli usati nei diagrammi di flusso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the triangle to the right of the &lt;f0&gt;Symbol Shapes&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; to open the &lt;f3&gt;Symbol Shapes&lt;/f3&gt; toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104811Z" creationid="manuel" creationdate="20180706T104811Z">
         <seg>Fate clic sul triangolo a destra dell'icona &lt;f0&gt;Forme simboli&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; per aprire la barra degli strumenti &lt;f3&gt;Forme simboli&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the triangle to the right of the &lt;i0/&gt;&lt;i1/&gt;&lt;f2&gt;Block Arrows&lt;/f2&gt; icon &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt; to open the &lt;f6&gt;Block Arrows&lt;/f6&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T105213Z" creationid="manuel" creationdate="20180706T105213Z">
+        <seg>Fate clic sul triangolo o freccia alla destra dell'icona &lt;i0/&gt;&lt;i1/&gt;&lt;f2&gt;Frecce blocchi&lt;/f2&gt; &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt; per aprire la barra degli strumenti &lt;f6&gt;Frecce blocchi&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8543,6 +8559,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;183&lt;/seq0&gt;: Block Arrows toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T105221Z" creationid="manuel" creationdate="20180706T105221Z">
+        <seg>Figura &lt;seq0&gt;183&lt;/seq0&gt;: barra degli strumenti Frecce blocchi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083955Z" creationid="manuel" creationdate="20180530T083955Z">
@@ -9363,6 +9387,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T182535Z" creationid="Marco Marega" creationdate="20180620T182535Z">
         <seg>Barre strumenti mobili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Flowcharts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T105224Z" creationid="manuel" creationdate="20180706T105224Z">
+        <seg>Diagrammi di flusso</seg>
       </tuv>
     </tu>
     <tu>
