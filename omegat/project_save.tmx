@@ -16690,8 +16690,8 @@
       <tuv lang="EN">
         <seg>Right-click and choose &lt;f0&gt;Update &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;i&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ndex &lt;/f3&gt;from the context menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143044Z" creationid="manuel" creationdate="20180628T143044Z">
-        <seg>Fate clic con il pulsante destro del mouse e scegliete &lt;f0&gt;Aggiorna &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;indice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;dal menu a comparsa.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T160025Z" creationid="manuel" creationdate="20180628T143044Z">
+        <seg>Fate clic con il pulsante destro del mouse e scegliete &lt;f0&gt;Aggiorna &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;indice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16706,8 +16706,8 @@
       <tuv lang="EN">
         <seg>Right-click anywhere in the text area on the page and select &lt;f0&gt;Page&lt;/f0&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180627T172153Z" creationid="manuel" creationdate="20180627T172153Z">
-        <seg>Fate clic con il pulsante destro del mouse in un punto qualsiasi nella pagina e selezionate &lt;f0&gt;Pagina&lt;/f0&gt; dal menu a comparsa.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T155926Z" creationid="manuel" creationdate="20180627T172153Z">
+        <seg>Fate clic con il pulsante destro del mouse in un punto qualsiasi nella pagina e selezionate &lt;f0&gt;Pagina&lt;/f0&gt; dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16722,8 +16722,8 @@
       <tuv lang="EN">
         <seg>Right-click on a comment to open a context menu where you can delete the current comment, all the comments from the same author, or all the comments in the document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081512Z" creationid="manuel" creationdate="20180628T081512Z">
-        <seg>Facendo clic destro su una nota si apre un menu a comparsa che consente di eliminare: il commento corrente, tutti i commenti dello stesso autore o tutti i commenti presenti nel documento.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T155953Z" creationid="manuel" creationdate="20180628T081512Z">
+        <seg>Facendo clic destro su una nota si apre un menu contestuale che consente di eliminare: il commento corrente, tutti i commenti dello stesso autore o tutti i commenti presenti nel documento.</seg>
       </tuv>
     </tu>
     <tu>
