@@ -6036,6 +6036,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the triangle to the right of the &lt;f0&gt;Symbol Shapes&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; to open the &lt;f3&gt;Symbol Shapes&lt;/f3&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104811Z" creationid="manuel" creationdate="20180706T104811Z">
+        <seg>Fate clic sul triangolo a destra dell'icona &lt;f0&gt;Forme simboli&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; per aprire la barra degli strumenti &lt;f3&gt;Forme simboli&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the triangle to the right of the icon to open the tool palette containing tools that are available for drawing curves and polygons (Figure &lt;t5&gt;175&lt;/t5&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093018Z" creationid="manuel" creationdate="20180705T093018Z">
