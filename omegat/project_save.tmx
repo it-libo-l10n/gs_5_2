@@ -2449,8 +2449,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can also see the number of words and characters (and other information including the number of pages, tables, and graphics) in the entire document in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Properties &gt; Statistics&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060239Z" creationid="manuel" creationdate="20180618T060239Z">
-        <seg>Potete inoltre vedere il numero di parole e caratteri (e altre informazioni, &lt;f0&gt;inclusi il numero di pagine, tabelle e immagini&lt;/f0&gt;) dell'intero documento in &lt;f1&gt;File &gt; Proprietà &gt; Statistiche&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T145729Z" creationid="manuel" creationdate="20180618T060239Z">
+        <seg>&lt;f0&gt;Potete inoltre vedere il numero di parole e caratteri (e altre informazioni, inclusi il numero di pagine, tabelle e immagini) dell'intero documento in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Proprietà &gt; Statistiche&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3098,8 +3098,8 @@
       <tuv lang="EN">
         <seg>A more complex example would be: &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Title&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; followed by &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Author&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; followed by &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Abstract&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; followed by &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Heading 1&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; followed by &lt;/f21&gt;&lt;f22&gt;&lt;f23&gt;Text Body&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T145023Z" creationid="manuel" creationdate="20180615T164801Z">
-        <seg>Un esempio più complesso potrebbe essere: &lt;/f10&gt;&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;/f11&gt;Titolo&lt;f12&gt;&lt;/f12&gt; seguito da &lt;f13&gt;&lt;f14&gt;&lt;/f14&gt;Autore&lt;/f13&gt;&lt;f15&gt;&lt;/f15&gt; seguito da &lt;f16&gt;&lt;f17&gt;&lt;/f17&gt;Estratto&lt;/f16&gt;&lt;f18&gt;&lt;/f18&gt; seguito da &lt;f19&gt;&lt;f20&gt;&lt;/f20&gt;Intestazione 1&lt;/f19&gt;&lt;f21&gt;&lt;/f21&gt; seguito da &lt;f22&gt;&lt;f23&gt;&lt;/f23&gt;Corpo del testo&lt;/f22&gt;&lt;f24&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T145544Z" creationid="manuel" creationdate="20180615T164801Z">
+        <seg>Un esempio più complesso potrebbe essere: &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Titolo&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; seguito da &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Autore&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; seguito da &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Estratto&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; seguito da &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Intestazione 1&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; seguito da &lt;/f21&gt;&lt;f22&gt;&lt;f23&gt;Corpo del testo&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15074,8 +15074,8 @@
       <tuv lang="EN">
         <seg>Not all buttons are visible in a standard &lt;t0/&gt;installation, but you can customize the toolbar to include those you use regularly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180626T155819Z" creationid="manuel" creationdate="20180626T155819Z">
-        <seg>Non tutti i pulsanti sono visibili in un'installazione standard, ma potete personalizzare la barra degli strumenti per includere quelli che usate regolarmente.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T145810Z" creationid="manuel" creationdate="20180626T155819Z">
+        <seg>Non tutti i pulsanti sono visibili in un'&lt;t0/&gt;installazione standard, ma potete personalizzare la barra degli strumenti per includere quelli che usate regolarmente.</seg>
       </tuv>
     </tu>
     <tu>
