@@ -11839,6 +11839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there are several hidden objects, keep holding down the &lt;f1&gt;Alt key&lt;/f1&gt; and clicking until you reach the object you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172126Z" creationid="manuel" creationdate="20180706T172126Z">
+        <seg>Se sono presenti diversi oggetti nascosti, continuate a tenere premuto il tasto &lt;f1&gt;Alt&lt;/f1&gt; e a fare clic fino a quando non raggiungete l'oggetto desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If these aids are not available for your language, consider joining the LibreOffice project to help your language community get one.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T105748Z" creationid="manuel" creationdate="20180626T105748Z">
@@ -15372,6 +15380,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074506Z" creationid="manuel" creationdate="20180606T074506Z">
         <seg>Su Windows, LibreOffice utilizza la posizione predefinita di Windows per l'archiviazione e il recupero dei certificati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On a computer using a Linux operating system the &lt;f1&gt;Tab&lt;/f1&gt; key method, described below, has to be used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172357Z" creationid="manuel" creationdate="20180706T172357Z">
+        <seg>Su computer con sistema operativo Linux bisogna usare il metodo che prevede l'utilizzo del tasto &lt;f1&gt;Tab&lt;/f1&gt;, descritto di seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21931,6 +21947,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To cycle through the objects in reverse order, hold down the &lt;f2&gt;Alt+Shift keys&lt;/f2&gt; and click.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172157Z" creationid="manuel" creationdate="20180706T172157Z">
+        <seg>Per spostarvi tra gli oggetti in ordine inverso, premete i tasti &lt;f2&gt;Alt+Maiusc&lt;/f2&gt; e fate clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To delete any unwanted styles, in the Styles and Formatting window select each one to be deleted (hold &lt;f0&gt;Ctrl&lt;/f0&gt; while selecting multiple styles), and then right-click on a selected style and select &lt;f1&gt;Delete&lt;/f1&gt; on the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T085233Z" creationid="manuel" creationdate="20180614T085233Z">
@@ -22673,6 +22697,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T154342Z" creationid="manuel" creationdate="20180606T100603Z">
         <seg>Per salvare le modifiche apportate come &lt;i0/&gt;schema colori, fate clic su &lt;f1&gt;Salva&lt;/f1&gt;, digitate un nome nel campo &lt;f2&gt;Nome dello schema colori&lt;/f2&gt;, e poi fate clic su &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select an object that is covered by another object using the keyboard, use the &lt;f0&gt;Tab&lt;/f0&gt; key to cycle through the objects, stopping at the object you want to select.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172413Z" creationid="manuel" creationdate="20180706T172413Z">
+        <seg>Per selezionare un oggetto nascosto da un altro oggetto utilizzando la tastiera, usate il tasto &lt;f0&gt;Tab&lt;/f0&gt; per passare da un oggetto all'altro, fermandovi sull'oggetto che desiderate selezionare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23814,6 +23846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the &lt;f0&gt;Alt&lt;/f0&gt; key method works on computers using a Windows or Mac operating systems.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172320Z" creationid="manuel" creationdate="20180706T172320Z">
+        <seg>Il metodo che prevede l'utilizzo del tasto &lt;f0&gt;Alt&lt;/f0&gt; funziona su computer con sistemi operativi Windows o Mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the Bullets and Numbering toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164655Z" creationid="manuel" creationdate="20180626T164655Z">
@@ -24434,6 +24474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065543Z" creationid="manuel" creationdate="20180618T065543Z">
         <seg>Facendo clic sul campo un menu contestuale mostra le opzioni disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you click on the selected object, its outline will appear briefly through the objects covering it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172241Z" creationid="manuel" creationdate="20180706T172241Z">
+        <seg>Quando fate clic sull'oggetto selezionato, il suo contorno apparirà brevemente attraverso gli oggetti che lo coprono.</seg>
       </tuv>
     </tu>
     <tu>
