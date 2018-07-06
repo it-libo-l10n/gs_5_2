@@ -9913,8 +9913,8 @@
       <tuv lang="EN">
         <seg>For example, you could define a &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Heading 1&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; paragraph to be followed by a &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Text Body&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; paragraph.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164837Z" creationid="manuel" creationdate="20180615T164837Z">
-        <seg>Per esempio, potreste definire un paragrafo &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Intestazione 1&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; in modo che sia seguito da un paragrafo &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;Corpo del testo&lt;/f8&gt;&lt;f9&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T143610Z" creationid="manuel" creationdate="20180615T164837Z">
+        <seg>Per esempio, potreste definire un paragrafo &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Intestazione 1&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; in modo che sia seguito da un paragrafo &lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;Corpo del testo&lt;/f7&gt;&lt;f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
