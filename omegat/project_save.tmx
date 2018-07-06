@@ -3720,6 +3720,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, right-click the object, select &lt;f3&gt;Arrange&lt;/f3&gt; from the context menu, then &lt;f4&gt;Bring Forward&lt;/f4&gt; or &lt;f5&gt;Send Backward&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T175132Z" creationid="manuel" creationdate="20180706T175132Z">
+        <seg>In alternativa, fate clic con il pulsante destro del mouse sull'oggetto, selezionate &lt;f3&gt;Disponi&lt;/f3&gt; dal menu contestuale, quindi &lt;f4&gt;Porta avanti&lt;/f4&gt; o &lt;f5&gt;Porta indietro&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, use the buttons on the &lt;f3&gt;Standard&lt;/f3&gt; toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161525Z" creationid="manuel" creationdate="20180621T161525Z">
