@@ -17968,6 +17968,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting hidden objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171741Z" creationid="manuel" creationdate="20180706T171741Z">
+        <seg>Selezionare oggetti nascosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting items in a spreadsheet</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181553Z" creationid="Elisabetta Manuele" creationdate="20180620T181553Z">
@@ -18004,6 +18012,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065548Z" creationid="manuel" creationdate="20180608T065548Z">
         <seg>Selezionando questa opzione vengono abilitate delle funzionalità incomplete o aventi difetti conosciuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection &lt;i0/&gt;by framing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171509Z" creationid="manuel" creationdate="20180706T171509Z">
+        <seg>Selezione tramite &lt;i0/&gt;cornice</seg>
       </tuv>
     </tu>
     <tu>
@@ -21025,6 +21041,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This cursor dragging draws a rectangle around the objects and only objects that lie entirely within the rectangle will be selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171529Z" creationid="manuel" creationdate="20180706T171529Z">
+        <seg>Il trascinamento del cursore disegna un rettangolo intorno agli oggetti e solo gli oggetti che si trovano interamente all'interno del rettangolo saranno selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This deck is an alternate view of the Manage Changes dialog that can be opened from &lt;f1&gt;Edit &gt; Track Changes &gt; Manage Changes&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150631Z" creationid="manuel" creationdate="20180621T101800Z">
@@ -22637,6 +22661,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To select multiple objects by framing, the &lt;f0&gt;Select&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Drawing toolbar must be active.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171625Z" creationid="manuel" creationdate="20180706T171625Z">
+        <seg>Per selezionare più oggetti tramite cornice, l'icona &lt;f0&gt;Selezione&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; sulla barra degli strumenti Disegno deve essere attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To select nonconsecutive items using the keyboard:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085556Z" creationid="luke" creationdate="20180515T085556Z">
@@ -24206,6 +24238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When dragging the mouse cursor to select multiple objects, the selection rectangle being drawn is also known as a marquee.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171647Z" creationid="manuel" creationdate="20180706T171647Z">
+        <seg>Quando trascinate il cursore del mouse per selezionare più oggetti, il rettangolo di selezione che viene tracciato è anche detto tenda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When importing numbers from an HTML page, the decimal and thousands separator characters differ according to the locale of the HTML page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155834Z" creationid="manuel" creationdate="20180608T155834Z">
@@ -25146,6 +25186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103940Z" creationid="manuel" creationdate="20180615T103940Z">
         <seg>Nei modelli è anche possibile salvare le personalizzazioni del menu e della barra degli strumenti; vedere &lt;f0&gt;il Capitolo 14 (Personalizzazione di LibreOffice&lt;/f0&gt;) per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also select several objects at once by dragging the mouse cursor around the objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171520Z" creationid="manuel" creationdate="20180706T171520Z">
+        <seg>Potete anche selezionare diversi oggetti contemporaneamente trascinando il cursore del mouse intorno agli oggetti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26906,6 +26954,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171415Z" creationid="manuel" creationdate="20180615T171415Z">
         <seg>intestazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hidden</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171709Z" creationid="manuel" creationdate="20180706T171709Z">
+        <seg>nascosta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hidden objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171653Z" creationid="manuel" creationdate="20180706T171653Z">
+        <seg>oggetti nascosti</seg>
       </tuv>
     </tu>
     <tu>
