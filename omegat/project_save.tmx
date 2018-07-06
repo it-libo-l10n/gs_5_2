@@ -17162,8 +17162,8 @@
       <tuv lang="EN">
         <seg>See the &lt;f0&gt;Draw Guide&lt;/f0&gt; and the &lt;f1&gt;H&lt;/f1&gt;elp for more information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T061125Z" creationid="manuel" creationdate="20180629T061125Z">
-        <seg>Vedere la &lt;f0&gt;Guida a Draw&lt;/f0&gt; e la Guida in linea per maggiori informazioni.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144846Z" creationid="manuel" creationdate="20180629T061125Z">
+        <seg>Vedere la &lt;f0&gt;Guida a Draw&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; e la Guida in linea per maggiori informazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20507,8 +20507,8 @@
       <tuv lang="EN">
         <seg>The tools available in the Draw toolbars are &lt;f0&gt;describ&lt;/f0&gt;ed &lt;f1&gt;below&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144440Z" creationid="manuel" creationdate="20180703T144330Z">
-        <seg>Di seguito sono spiegati gli strumenti disponibili nelle barre degli strumenti di Draw.&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144831Z" creationid="manuel" creationdate="20180703T144330Z">
+        <seg>Gli strumenti disponibili nelle barre degli strumenti di Draw sono &lt;f0&gt;spiegati&lt;/f0&gt; &lt;f1&gt;di seguito&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
