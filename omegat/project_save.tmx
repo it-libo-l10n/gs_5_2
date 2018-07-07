@@ -8815,6 +8815,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;193&lt;/seq0&gt;: Line and Filling toolbar and its available tools</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095130Z" creationid="manuel" creationdate="20180707T095130Z">
+        <seg>Figura &lt;seq0&gt;193&lt;/seq0&gt;: barra degli strumenti Stile e riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;194&lt;/seq0&gt;: Text Formatting toolbar and its available tools</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095412Z" creationid="manuel" creationdate="20180707T095412Z">
+        <seg>Figura &lt;seq0&gt;194&lt;/seq0&gt;: barra degli strumenti Formattazione del testo e strumenti disponibili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Font list (Left) with preview; (Right) without preview</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062642Z" creationid="manuel" creationdate="20180531T062642Z">
@@ -20993,6 +21009,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tools on this toolbar will not become active until text has been selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095330Z" creationid="manuel" creationdate="20180707T095330Z">
+        <seg>Gli strumenti su questa barra non diverranno attivi finché non viene selezionato il testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two boxes below list the OpenCL drivers whitelist and blacklist.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140621Z" creationid="manuel" creationdate="20180608T140621Z">
@@ -26322,6 +26346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104125Z" creationid="manuel" creationdate="20180705T104125Z">
         <seg>Potete spostare i piccoli contrassegni dei commenti in qualsiasi punto del disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can open the Text Formatting toolbar by selecting &lt;f0&gt;View &gt; Toolbars &gt; Text Formatting&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095317Z" creationid="manuel" creationdate="20180707T095317Z">
+        <seg>Potete aprire la barra degli strumenti Formattazione del testo selezionando &lt;f0&gt;Visualizza &gt; Barre degli strumenti &gt; Formattazione del testo&lt;/f0&gt; nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
