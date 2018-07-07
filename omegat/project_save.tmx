@@ -1839,6 +1839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;or more information, &lt;f1&gt;s&lt;/f1&gt;ee&lt;f2&gt; &lt;/f2&gt;Chapter 7, Working with 3D Objects, &lt;f3&gt;in the &lt;/f3&gt;&lt;f4&gt;Draw Guide&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073354Z" creationid="manuel" creationdate="20180707T073354Z">
+        <seg>&lt;f0&gt;Per&lt;/f0&gt; ulteriori informazioni, &lt;f1&gt;&lt;/f1&gt;vedere il&lt;f2&gt; &lt;/f2&gt;Capitolo 7 (Lavorare con oggetti 3D) &lt;f3&gt;nella &lt;/f3&gt;&lt;f4&gt;Guida a Draw&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;16&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Setting general options for LibreOffice&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060547Z" creationid="manuel" creationdate="20180529T060547Z">
@@ -12467,6 +12475,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065520Z" creationid="manuel" creationdate="20180707T065520Z">
         <seg>Se premete il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; mentre ridimensionate un oggetto, le dimensioni dell'oggetto saranno modificate simmetricamente rispetto ai due assi, in modo tale che le proporzioni dell'oggetto rimarranno le stesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you press the &lt;f0&gt;Shift&lt;/f0&gt; key while rotating an object, rotation will be restricted to 15° of movement.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073409Z" creationid="manuel" creationdate="20180707T073409Z">
+        <seg>Se premete il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; mentre ruotate un oggetto, la rotazione verrà limitata a movimenti di 15°.</seg>
       </tuv>
     </tu>
     <tu>
