@@ -7318,6 +7318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Database functions, to arrange, store, and filter data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131636Z" creationid="Marco Marega" creationdate="20180707T131636Z">
+        <seg>Funzioni di database, per disporre, salvare, e filtrare i dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Database integration, including a bibliography database</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160806Z" creationid="manuel" creationdate="20180616T160806Z">
@@ -8067,6 +8075,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150646Z" creationid="manuel" creationdate="20180705T150646Z">
         <seg>Gradienti dinamici &lt;i0/&gt;per la trasparenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dynamic charts; a wide range of 2D and 3D charts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131649Z" creationid="Marco Marega" creationdate="20180707T131649Z">
+        <seg>Grafici dinamici; un ampio insieme di grafici 2D e 3D</seg>
       </tuv>
     </tu>
     <tu>
@@ -10883,6 +10899,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091954Z" creationid="manuel" creationdate="20180530T091954Z">
         <seg>Funzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Functions, which can be used to create formulas to perform complex calculations on data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131628Z" creationid="Marco Marega" creationdate="20180707T131628Z">
+        <seg>Funzioni, che possono essere utilizzate per creare formule per eseguire calcoli complessi sui dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -14952,6 +14976,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macros, for recording and executing repetitive tasks; scripting languages supported include LibreOffice Basic, Python, BeanShell, and JavaScript.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131806Z" creationid="Marco Marega" creationdate="20180707T131806Z">
+        <seg>Macro, per la registrazione e l'esecuzione di compiti ripetitivi; i linguaggi di programmazione supportati comprendono: LibreOffice Basic, Python, BeanShell e JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Magnus Adielsson</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175922Z" creationid="Elisabetta Manuele" creationdate="20180627T175922Z">
@@ -16476,6 +16508,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162851Z" creationid="manuel" creationdate="20180615T162851Z">
         <seg>Gestire i modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other features provided by Calc include:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131611Z" creationid="Marco Marega" creationdate="20180707T131611Z">
+        <seg>Le altre funzionalità fornite da Calc comprendono:</seg>
       </tuv>
     </tu>
     <tu>
