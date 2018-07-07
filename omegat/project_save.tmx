@@ -2367,6 +2367,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Sheet&lt;/f0&gt;&lt;f1&gt; – &lt;s2/&gt;contains the most often used commands for handling sheets, such as &lt;/f1&gt;&lt;f3&gt;Insert&lt;/f3&gt; and &lt;f4&gt;Delete Cells, Columns, Rows&lt;/f4&gt;, and &lt;f5&gt;Sheets&lt;/f5&gt;, as well as &lt;f6&gt;Comments&lt;/f6&gt; and &lt;f7&gt;&lt;f8&gt;Fill c&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;ell&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;s&lt;/f11&gt;&lt;/f10&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T143300Z" creationid="Marco Marega" creationdate="20180707T143300Z">
+        <seg>&lt;f0&gt;Foglio&lt;/f0&gt;&lt;f1&gt; – &lt;s2/&gt;contiene i comandi usati più spesso per lavorare con il foglio di calcolo, come ad esempio&lt;/f1&gt;&lt;f3&gt;Inserisci&lt;/f3&gt; ed &lt;f4&gt;Elimina celle, Colonne, Righe&lt;/f4&gt; e &lt;f5&gt;Fogli&lt;/f5&gt;, così come &lt;f6&gt;Commenti cella&lt;/f6&gt; e  &lt;f7&gt;&lt;f8&gt;Riempi &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;celle&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;/f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Shift&lt;/f0&gt;+⌘+&lt;f1&gt;F5&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173633Z" creationid="Elisabetta Manuele" creationdate="20180627T173633Z">
