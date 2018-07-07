@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1875,6 +1875,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214558Z" creationid="Marco Marega" creationdate="20180616T214558Z">
         <seg>&lt;f0&gt;File&lt;/f0&gt; contiene comandi applicabili a tutto il documento, quali Apri, Salva e Esporta in formato PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;File&lt;/f0&gt; – contains commands that apply to the entire document; for example, &lt;f1&gt;Open&lt;/f1&gt;, &lt;f2&gt;Save&lt;/f2&gt;, &lt;f3&gt;Wizards&lt;/f3&gt;, &lt;f4&gt;Export as PDF&lt;/f4&gt;, &lt;f5&gt;Print&lt;/f5&gt;, &lt;f6&gt;Digital Signatures&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T141045Z" creationid="Marco Marega" creationdate="20180707T141045Z">
+        <seg>&lt;f0&gt;File&lt;/f0&gt; – contiene comandi applicabili a tutto il documento; ad esempio, &lt;f1&gt;Apri&lt;/f1&gt;, &lt;f2&gt;Salva&lt;/f2&gt;, &lt;f3&gt;Procedure guidate&lt;/f3&gt;, &lt;f4&gt;Esporta nel formato PDF PDF&lt;/f4&gt;, &lt;f5&gt;Stampa&lt;/f5&gt;, &lt;f6&gt;Firme digitali&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26410,6 +26418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161324Z" creationid="manuel" creationdate="20180628T161324Z">
         <seg>Potete anche creare dei riferimenti personalizzati; vedere “Impostare riferimenti” nel Capitolo 1&lt;f4&gt;6&lt;/f4&gt; (Lavorare con i comandi di campo) nella &lt;f5&gt;Guida a Writer&lt;/f5&gt; per istruzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also customize the Menu bar; see &lt;f1&gt;Chapter 14 Customizing LibreOffice&lt;/f1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T140813Z" creationid="Marco Marega" creationdate="20180707T140813Z">
+        <seg>Potete anche personalizzare la barra del Menu; per maggiori informazioni vedete il &lt;f1&gt;Capitolo 14 (Personalizzare LibreOffice)&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
