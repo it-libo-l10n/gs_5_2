@@ -7863,6 +7863,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During movement, a ghost image of the object appears to help with repositioning (Figure &lt;t0&gt;189&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065033Z" creationid="manuel" creationdate="20180707T065033Z">
+        <seg>Durante il movimento, appare un'immagine fantasma dell'oggetto per facilitare il riposizionamento (Figura &lt;t0&gt;189&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dynamic &lt;i0/&gt;transparency gradients</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150646Z" creationid="manuel" creationdate="20180705T150646Z">
@@ -22480,6 +22488,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082156Z" creationid="manuel" creationdate="20180530T082156Z">
         <seg>Per caricare &lt;i0/&gt;Quickstart all'avvio del computer, selezionate l'opzione in fondo alla finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To locate the object at its new location, release the mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065053Z" creationid="manuel" creationdate="20180707T065053Z">
+        <seg>Per localizzare l'oggetto nella sua nuova posizione, rilasciate il pulsante del mouse.</seg>
       </tuv>
     </tu>
     <tu>
