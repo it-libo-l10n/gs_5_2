@@ -11255,6 +11255,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Grid points, snap &lt;i0/&gt;points and lines, object frames, individual points on objects, or page edges can all be used with the snap function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111649Z" creationid="manuel" creationdate="20180707T111649Z">
+        <seg>I punti della Griglia, i punti di cattura e le linee, le cornici oggetto, i singoli punti sugli oggetti, o i bordi di pagina possono tutti essere usati con la funzione di cattura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Grouping</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112715Z" creationid="manuel" creationdate="20180705T112715Z">
@@ -13103,6 +13111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Draw, objects can be accurately and consistently positioned using the snap function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111626Z" creationid="manuel" creationdate="20180707T111626Z">
+        <seg>In Draw gli oggetti possono essere posizionati accuratamente e uniformemente usando la funzione di cattura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Figure &lt;t0&gt;46&lt;/t0&gt; the window shows &lt;f1&gt;Applied Styles&lt;/f1&gt;, meaning the list includes only the styles used in the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T134444Z" creationid="manuel" creationdate="20180612T134232Z">
@@ -14131,6 +14147,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180630T165940Z" creationid="manuel" creationdate="20180630T165940Z">
         <seg>Si consiglia di assegnare pagine e oggetti a nomi significativi del disegno in modo che possiate identificarli facilmente quando si utilizza il Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is recommended, however, to activate only the functions that you really need.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111809Z" creationid="manuel" creationdate="20180707T111809Z">
+        <seg>Si consiglia, comunque, di attivare solo le funzioni di cui si ha effettivamente bisogno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18896,6 +18920,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Snap function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111605Z" creationid="manuel" creationdate="20180707T111605Z">
+        <seg>Funzione di cattura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Snap function is easier to work with at the highest zoom values that are practical for your display.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111753Z" creationid="manuel" creationdate="20180707T111753Z">
+        <seg>È più facile utilizzare la funzione di cattura con valori più elevati di zoom, che ben si adattino alla vostra visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some LibreOffice features (wizards and the HSQLDB database engine) require that the Java Runtime Environment (JRE) is installed on your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190618Z" creationid="Marco Marega" creationdate="20180528T190618Z">
@@ -19236,6 +19276,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155957Z" creationid="manuel" creationdate="20180612T155957Z">
         <seg>finestra di dialogo Stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles allow you to define a format (a style) and then apply that format to multiple objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111557Z" creationid="manuel" creationdate="20180707T111557Z">
+        <seg>Gli stili vi permettono di definire un modello (uno stile) e successivamente di applicare quello stile a più oggetti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23917,6 +23965,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Two different snap functions can be used at the same time; for example snapping to a guide line and to the page edge.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111804Z" creationid="manuel" creationdate="20180707T111804Z">
+        <seg>È possibile utilizzare due differenti funzioni di cattura allo stesso tempo; ad esempio cattura ad una linea guida ed al bordo della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Two notable examples are cross-references to headings and the formatting of numbered lists.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152522Z" creationid="manuel" creationdate="20180608T152522Z">
@@ -27974,6 +28030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>grid points</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111623Z" creationid="manuel" creationdate="20180707T111617Z">
+        <seg>punti della griglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>grouping</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112720Z" creationid="manuel" creationdate="20180705T112720Z">
@@ -28594,6 +28658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090017Z" creationid="luke" creationdate="20180515T090017Z">
         <seg>presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>snap function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111620Z" creationid="manuel" creationdate="20180707T111608Z">
+        <seg>funzione di cattura</seg>
       </tuv>
     </tu>
     <tu>
