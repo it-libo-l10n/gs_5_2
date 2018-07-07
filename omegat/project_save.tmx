@@ -2984,6 +2984,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A ghost image of the object being rotated appears and the current angle of rotation is shown in the status bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T072852Z" creationid="manuel" creationdate="20180707T072852Z">
+        <seg>Viene visualizzata un'immagine fantasma dell'oggetto ruotato e l'angolo corrente di rotazione viene mostrato nella barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A graphic object is not dynamic and does not behave like a text frame.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094338Z" creationid="manuel" creationdate="20180705T094338Z">
