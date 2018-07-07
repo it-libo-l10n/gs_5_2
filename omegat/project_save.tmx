@@ -5946,6 +5946,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click and hold the mouse button, then start to move the cursor to rotate the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T071945Z" creationid="manuel" creationdate="20180707T071945Z">
+        <seg>Fate clic e tenete premuto il pulsante del mouse, quindi iniziate a spostare il cursore per ruotare l'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in the Page Number field and type the &lt;f0&gt;sequence&lt;/f0&gt; number of the required page and press &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055558Z" creationid="manuel" creationdate="20180618T055558Z">
@@ -15132,6 +15140,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181752Z" creationid="Marco Marega" creationdate="20180620T181752Z">
         <seg>Spostate il cursore del mouse sopra la maniglia della barra degli strumenti, che è la piccola barra verticale alla sinistra di una barra degli strumenti agganciata, evidenziata nella Figura &lt;t0&gt;5&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the mouse cursor to one of the corner handles and it normally changes to an arc with an arrow at each end.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T071937Z" creationid="manuel" creationdate="20180707T071937Z">
+        <seg>Portate il cursore del mouse su una delle maniglie d'angolo ed esso cambierà in un arco con una freccia a ciascuna estremità.</seg>
       </tuv>
     </tu>
     <tu>
