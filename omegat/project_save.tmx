@@ -3688,6 +3688,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also a rotation point will appear in the center of the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T071650Z" creationid="manuel" creationdate="20180707T071650Z">
+        <seg>Anche un punto di rotazione apparirà al centro dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also provided is a grammar checker, which can be used separately or in combination with the spelling checker.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134704Z" creationid="manuel" creationdate="20180622T134704Z">
@@ -4188,6 +4196,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101517Z" creationid="manuel" creationdate="20180704T101517Z">
         <seg>Non appena disegnate il rettangolo con il cursore del mouse, il rettangolo appare con l'angolo inferiore destro attaccato al cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As you move the mouse cursor over the handles, the cursor changes shape.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T071714Z" creationid="manuel" creationdate="20180707T071714Z">
+        <seg>Quando muovete il cursore del mouse sulle maniglie, il cursore cambia forma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8723,6 +8739,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065457Z" creationid="manuel" creationdate="20180707T065457Z">
         <seg>Figura &lt;seq0&gt;190&lt;/seq0&gt;: ridimensionare un oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;191&lt;/seq0&gt;: Rotating an object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T071908Z" creationid="manuel" creationdate="20180707T071908Z">
+        <seg>Figura &lt;seq0&gt;191&lt;/seq0&gt;: ruotare un oggetto</seg>
       </tuv>
     </tu>
     <tu>
@@ -19749,6 +19773,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175856Z" creationid="Elisabetta Manuele" creationdate="20180627T175856Z">
         <seg>i cui collaboratori sono elencati di seguito:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The corner handles are for rotating an object and the top, bottom and side handles are to slant an object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T071844Z" creationid="manuel" creationdate="20180707T071844Z">
+        <seg>Le maniglie d'angolo servono per ruotare un oggetto e le maniglie superiore, inferiore e laterale servono per inclinare un oggetto.</seg>
       </tuv>
     </tu>
     <tu>
