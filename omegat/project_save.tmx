@@ -22540,6 +22540,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To edit an object or change attributes such as color or border width, the Line and Filling toolbar, the Text Formatting toolbar, the Sidebar Properties section, or a context menu can be used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T084929Z" creationid="manuel" creationdate="20180707T084929Z">
+        <seg>Per modificare un oggetto o cambiarne gli attributi, come colore, spessore del bordo, e così via, potete utilizzare la barra degli strumenti Stile e riempimento, la sezione Proprietà della barra laterale, oppure il menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To edit the current page style or slide design, double-click on this field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191500Z" creationid="Marco Marega" creationdate="20180620T191500Z">
