@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1823,6 +1823,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit&lt;/f0&gt; – contains commands for editing the document; for example, &lt;f1&gt;Undo&lt;/f1&gt;, &lt;f2&gt;Copy&lt;/f2&gt;, &lt;f3&gt;Changes&lt;/f3&gt;, &lt;f4&gt;Fill&lt;/f4&gt;, &lt;f5&gt;Plug-in&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T142128Z" creationid="Marco Marega" creationdate="20180707T141102Z">
+        <seg>&lt;f0&gt;Modifica&lt;/f0&gt; – contiene comandi per modificare il documento; ad esempio, &lt;f1&gt;Annulla&lt;/f1&gt;, &lt;f2&gt;Copia&lt;/f2&gt;, &lt;f3&gt;Traccia le modifiche&lt;/f3&gt;, &lt;f4&gt;Compila&lt;/f4&gt;, &lt;f5&gt;Plugin&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Exception: if the characters are numbers, as in a date or time range, the two hyphens are replaced by an en-dash.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134312Z" creationid="manuel" creationdate="20180622T134312Z">
@@ -2427,6 +2435,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214755Z" creationid="Marco Marega" creationdate="20180616T214755Z">
         <seg>&lt;f0&gt;Visualizza&lt;/f0&gt; include comandi che agiscono sulla visualizzazione del documento, quali lo Zoom e Layout web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for modifying how the Calc user interface looks; for example, &lt;f1&gt;Toolbars&lt;/f1&gt;, &lt;f2&gt;Column &amp; Row Headers&lt;/f2&gt;, &lt;f3&gt;Full Screen&lt;/f3&gt;, &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T142412Z" creationid="Marco Marega" creationdate="20180707T141105Z">
+        <seg>&lt;f0&gt;Visualizza&lt;/f0&gt; – contiene comandi per modificare l'aspetto dell'interfaccia di Calc; ad esempio, &lt;f1&gt;Barre degli strumenti&lt;/f1&gt;, &lt;f2&gt;Intestazioni Riga/Colonna&lt;/f2&gt;, &lt;f3&gt;Schermo intero&lt;/f3&gt;, &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
