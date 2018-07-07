@@ -5098,6 +5098,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc toolbars can be either docked and fixed in place, or floating; you can move a toolbar into a more convenient position on the workspace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T144456Z" creationid="Marco Marega" creationdate="20180707T144456Z">
+        <seg>Le barre degli strumenti di Calc possono essere sia agganciate e fissare in un punto, oppure mobili; potete spostare una barra degli strumenti in un posizione più adeguata all'interno dello spazio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc works with elements called &lt;i0/&gt;&lt;f1&gt;spreadsheets&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T132309Z" creationid="Marco Marega" creationdate="20180707T132309Z">
@@ -20661,6 +20669,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130020Z" creationid="Marco Marega" creationdate="20180623T130020Z">
         <seg>I nomi predefiniti potrebbero non corrispondere alla reale posizione dell'oggetto nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default setting when Calc opens is for the Standard and Formatting toolbars to be docked at the top of the workspace (Figure &lt;t0&gt;86&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T144217Z" creationid="Marco Marega" creationdate="20180707T144217Z">
+        <seg>L'impostazione predefinita all'apertura di Calc è con le barre degli strumenti Standard e Formattazione agganciate in alto sopra lo spazio di lavoro (Figura &lt;t0&gt;86&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
