@@ -8663,6 +8663,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;188&lt;/seq0&gt;: Left end of status bar when moving or adjusting an object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T062023Z" creationid="manuel" creationdate="20180707T062023Z">
+        <seg>Figura &lt;seq0&gt;188&lt;/seq0&gt;: parte sinistra della barra di stato durante lo spostamento o la regolazione di un oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083955Z" creationid="manuel" creationdate="20180530T083955Z">
@@ -10179,6 +10187,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164243Z" creationid="manuel" creationdate="20180703T162944Z">
         <seg>Per maggiori informazioni, vedere il&lt;f0&gt; &lt;/f0&gt;Capitolo 11 ( Draw tecniche avanzate) &lt;f1&gt;nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on moving and adjusting object size, see&lt;f0&gt; &lt;/f0&gt;Chapter 3, Working with Objects and Object Points, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T062012Z" creationid="manuel" creationdate="20180707T062012Z">
+        <seg>Per maggiori informazioni sullo spostamento e sulla regolazione delle dimensioni di un oggetto, vedere il&lt;f0&gt; &lt;/f0&gt;Capitolo 3 (Lavorare con gli oggetti e i punti degli oggetti) &lt;f1&gt;nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15032,6 +15048,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T062026Z" creationid="manuel" creationdate="20180707T062026Z">
+        <seg>Spostare oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving quickly through a document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180107Z" creationid="Elisabetta Manuele" creationdate="20180620T180107Z">
@@ -19497,6 +19521,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The area on the left of the Status bar, from left to right, shows what object is selected, its position on the drawing in X/Y coordinates and dimensions of the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T061756Z" creationid="manuel" creationdate="20180707T061756Z">
+        <seg>L'area a sinistra della barra di stato, da sinistra a destra, mostra quale oggetto è selezionato, la sua posizione nel disegno in coordinate X/Y e le dimensioni dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The arrange options are also available by clicking on the small triangle to the right of the &lt;f0&gt;Arrange&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Line and Filling toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T061444Z" creationid="manuel" creationdate="20180707T061444Z">
@@ -20701,6 +20733,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123603Z" creationid="Marco Marega" creationdate="20180621T123603Z">
         <seg>Il tipo di documento dipende dal componente di LibreOffice aperto ed attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The units of measurement are those selected in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T061824Z" creationid="manuel" creationdate="20180707T061824Z">
+        <seg>Le unità di misura sono quelle selezionate in &lt;f1&gt;Strumenti &gt; Opzioni &gt; LibreOffice Draw &gt; Generale&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
