@@ -3696,6 +3696,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All of these methods open the &lt;f6&gt;Line&lt;/f6&gt; dialog (Figure &lt;t7&gt;172&lt;/t7&gt; on page &lt;t8&gt;199&lt;/t8&gt;), where you can set line properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105615Z" creationid="manuel" creationdate="20180707T105615Z">
+        <seg>Tutti questi metodi aprono la finestra di dialogo &lt;f6&gt;Linea&lt;/f6&gt; (Figura &lt;t7&gt;172&lt;/t7&gt; a pagina &lt;t8&gt;199&lt;/t8&gt;), dove potete impostare le proprietà della linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All the components share a common spelling checker and other tools, which are used consistently across the suite.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184724Z" creationid="Marco Marega" creationdate="20180528T184724Z">
@@ -12619,6 +12627,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142008Z" creationid="manuel" creationdate="20180621T142008Z">
         <seg>Se dovete scambiare documenti con utenti di Microsoft Word che non hanno piacere o non sono in grado di ricevere file .ODT, potete aprire, modificare e salvare i document nel formato Microsoft Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you need to fine tune the appearance of a line, choose &lt;f0&gt;Format &gt; Line&lt;/f0&gt; from the Menu bar, or right-click on the line and select &lt;f1&gt;Line&lt;/f1&gt; from the context menu, or select the &lt;f2&gt;Line&lt;/f2&gt; icon &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt; from the Line and Filling toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105510Z" creationid="manuel" creationdate="20180707T105510Z">
+        <seg>Se avete necessità di rifinire l'aspetto di una linea, scegliete &lt;f0&gt;Formato &gt; Linea&lt;/f0&gt; dalla barra dei menu, oppure fate clic con il pulsante destro sulla linea e selezionate &lt;f1&gt;Linea&lt;/f1&gt; dal menu contestuale, oppure selezionate l'icona &lt;f2&gt;Linea&lt;/f2&gt; &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt; dalla barra degli strumenti Stile e riempimento.</seg>
       </tuv>
     </tu>
     <tu>
