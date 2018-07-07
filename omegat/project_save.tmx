@@ -7799,6 +7799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Draw has help lines to easily allow you to position an object using the rulers at the top and left side of the workspace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T100139Z" creationid="manuel" creationdate="20180707T100139Z">
+        <seg>In Draw è possibile utilizzare linee guida che vi permettono di posizionare più facilmente un oggetto usando i righelli sul lato superiore e sinistro dell'area di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Draw includes a large range of graphic filters so that it can read and display several graphic file formats.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104648Z" creationid="manuel" creationdate="20180705T104648Z">
@@ -8843,6 +8851,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095854Z" creationid="manuel" creationdate="20180707T095854Z">
         <seg>Figura &lt;seq0&gt;195&lt;/seq0&gt;: sottosezioni in Proprietà della barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;196&lt;/seq0&gt;: Example of a context menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T100100Z" creationid="manuel" creationdate="20180707T100100Z">
+        <seg>Figura &lt;seq0&gt;196&lt;/seq0&gt;: esempio di un menu contestuale</seg>
       </tuv>
     </tu>
     <tu>
@@ -10519,6 +10535,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting lines and borders</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T100105Z" creationid="manuel" creationdate="20180707T100105Z">
+        <seg>Formattare linee e bordi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting pages</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180251Z" creationid="Elisabetta Manuele" creationdate="20180620T180251Z">
@@ -11163,6 +11187,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T080825Z" creationid="manuel" creationdate="20180530T080825Z">
         <seg>Aiutate a migliorare LibreOffice: raccogliete dati di utilizzo e inviatelo a The Document Foundation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help lines</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T100137Z" creationid="manuel" creationdate="20180707T100137Z">
+        <seg>Linee guida</seg>
       </tuv>
     </tu>
     <tu>
@@ -14956,6 +14988,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214352Z" creationid="Marco Marega" creationdate="20180616T214352Z">
         <seg>La barra dei menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu entries with a small arrow on the right-hand side contain a submenu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T100037Z" creationid="manuel" creationdate="20180707T100037Z">
+        <seg>Le voci del menu con una piccola freccia sul lato destro contengono un sottomenu.</seg>
       </tuv>
     </tu>
     <tu>
