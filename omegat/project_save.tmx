@@ -2599,6 +2599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Rotate&lt;/f2&gt; and &lt;f3&gt;Flip&lt;/f3&gt; can also be accessed by going to &lt;f4&gt;Modify&lt;/f4&gt; on the Menu bar or by right-clicking on the object and using the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T101357Z" creationid="manuel" creationdate="20180707T101357Z">
+        <seg>Potete accedere ai comandi &lt;f2&gt;Ruota&lt;/f2&gt; e &lt;f3&gt;Ribalta&lt;/f3&gt; anche andando su &lt;f4&gt;Cambia&lt;/f4&gt; sulla barra dei menu o facendo clic con il pulsante destro sull'oggetto e usando il menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Select it&lt;/f2&gt; and click the &lt;f3&gt;Delete&lt;/f3&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T105056Z" creationid="manuel" creationdate="20180616T105056Z">
@@ -6038,6 +6046,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085942Z" creationid="luke" creationdate="20180515T085942Z">
         <seg>Click on a file name to display it in the Preview area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on a graphic object and the selection handles will show.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T101411Z" creationid="manuel" creationdate="20180707T101411Z">
+        <seg>Fate clic su un oggetto grafico, così da fare comparire le maniglie di selezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9667,6 +9683,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151722Z" creationid="Elisabetta Manuele" creationdate="20180625T151722Z">
         <seg>Ulteriori informazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Flipping objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T101401Z" creationid="manuel" creationdate="20180707T101401Z">
+        <seg>Ribaltare oggetti</seg>
       </tuv>
     </tu>
     <tu>
@@ -17128,6 +17152,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click and select &lt;f0&gt;Flip &gt; Vertically&lt;/f0&gt; or &lt;f1&gt;Horizontally&lt;/f1&gt;, or go to &lt;f2&gt;Modify &gt; Flip &gt; Vertically&lt;/f2&gt; or &lt;f3&gt;Horizontally&lt;/f3&gt; on the Menu bar and the selected object will be flipped to face the other direction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T101556Z" creationid="manuel" creationdate="20180707T101556Z">
+        <seg>Fate clic con il pulsante destro e selezionate &lt;f0&gt;Ribalta &gt; Verticale&lt;/f0&gt; o &lt;f1&gt;Orizzontale&lt;/f1&gt;, oppure andate su &lt;f2&gt;Cambia &gt; Rispecchia &gt; Verticale&lt;/f2&gt; oppure &lt;f3&gt;Orizzontale&lt;/f3&gt; sulla barra dei menu e l'oggetto selezionato verrà ribaltato con la faccia nell'altra direzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click anywhere in it and choose &lt;f0&gt;Edit Index&lt;/f0&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143327Z" creationid="manuel" creationdate="20180628T143327Z">
@@ -20821,6 +20853,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T162204Z" creationid="manuel" creationdate="20180627T162115Z">
         <seg>Il puntatore del mouse cambia forma in una freccia a doppia punta e visualizza l'impostazione corrente in un suggerimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The quickest and easiest method to flip an object horizontally or vertically is as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T101406Z" creationid="manuel" creationdate="20180707T101406Z">
+        <seg>Il metodo più semplice e veloce per ribaltare un oggetto orizzontalmente o verticalmente è il seguente:</seg>
       </tuv>
     </tu>
     <tu>
