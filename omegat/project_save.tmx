@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6797,6 +6797,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Configuring the grid</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140702Z" creationid="manuel" creationdate="20180707T140702Z">
+        <seg>Configurare la griglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connectors</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095603Z" creationid="manuel" creationdate="20180705T095603Z">
@@ -7675,6 +7683,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T213024Z" creationid="Marco Marega" creationdate="20180619T213024Z">
         <seg>Visualizzare o nascondere barre di strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displaying the grid</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140643Z" creationid="manuel" creationdate="20180707T140643Z">
+        <seg>Mostrare la griglia</seg>
       </tuv>
     </tu>
     <tu>
@@ -9043,6 +9059,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174729Z" creationid="Elisabetta Manuele" creationdate="20180627T174729Z">
         <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: finestra di dialogo con i controlli più comuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;200&lt;/seq0&gt;: Positioning with snap to grid</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140640Z" creationid="manuel" creationdate="20180707T140640Z">
+        <seg>Figura &lt;seq0&gt;200&lt;/seq0&gt;: posizionamento con cattura alla griglia</seg>
       </tuv>
     </tu>
     <tu>
@@ -11271,6 +11295,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f1&gt;View &gt; Grid &gt; Snap to Grid&lt;/f1&gt; on the Menu bar or click on the &lt;f2&gt;Snap to Grid&lt;/f2&gt; icon on the &lt;f3&gt;Options&lt;/f3&gt; toolbar to turn on or off the snap to grid function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140506Z" creationid="manuel" creationdate="20180707T140506Z">
+        <seg>Andate su&lt;f1&gt;Visualizza &gt; Griglia &gt; Cattura alla griglia&lt;/f1&gt; dalla barra dei menu o fate clic sull'icona &lt;f2&gt;Cattura alla griglia&lt;/f2&gt; sulla barra degli strumenti &lt;f3&gt;Opzioni&lt;/f3&gt; per attivare o disattivare la funzione cattura alla griglia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f3&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f3&gt; and select or deselect the option &lt;f4&gt;Use LibreOffice dialogs&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204228Z" creationid="Marco Marega" creationdate="20180622T204228Z">
@@ -12219,6 +12251,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142648Z" creationid="manuel" creationdate="20180608T142648Z">
         <seg>Se la finestra Opzioni non è aperta, fate clic su &lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Options toolbar is not visible, go to &lt;f4&gt;View &gt; Toolbars &gt; Options&lt;/f4&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140626Z" creationid="manuel" creationdate="20180707T140626Z">
+        <seg>Se la barra degli strumenti Opzioni non è visibile, andate su &lt;f4&gt;Visualizza &gt; Barre degli strumenti &gt; Opzioni&lt;/f4&gt; dalla barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21285,6 +21325,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102258Z" creationid="manuel" creationdate="20180704T102258Z">
         <seg>Il rettangolo o il quadrato utilizza il punto iniziale (dove avete fatto clic con il pulsante del mouse) come centro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The resolution, snap and snap position of the grid points can be configured.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140709Z" creationid="manuel" creationdate="20180707T140709Z">
+        <seg>È possibile configurare la risoluzione, la cattura e la posizione di cattura dei punti della griglia.</seg>
       </tuv>
     </tu>
     <tu>
