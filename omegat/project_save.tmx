@@ -2439,6 +2439,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Sum&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – clicking on the Sum icon totals the numbers in the cells above the selected cell and then places the total in the selected cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T221303Z" creationid="Marco Marega" creationdate="20180707T221303Z">
+        <seg>&lt;f0&gt;Somma&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – facendo clic sull'icona Somma verranno sommati i numeri che si trovano nelle celle sopra a quella selezionata, nella quale verrà posizionato il totale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;o&lt;/f1&gt;ther &lt;f2&gt;o&lt;/f2&gt;ptions include searching only in selected text, searching from the current cursor position backwards toward the beginning of the file, searching for similar words, &lt;f3&gt;and searching in comments&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103457Z" creationid="manuel" creationdate="20180622T103457Z">
@@ -22309,6 +22317,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165544Z" creationid="Elisabetta Manuele" creationdate="20180625T165544Z">
         <seg>Questa e le altre guide utente di LibreOffice, il sistema di aiuto integrato e i sistemi di assistenza agli utenti presuppongono un minimo di familiarità con il computer e con funzioni basilari quali l'avvio di un programma, l'apertura e il salvataggio di file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be very useful because it also shows how the functions are formatted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T221134Z" creationid="Marco Marega" creationdate="20180707T221134Z">
+        <seg>Ciò può tornare molto utile, in quanto essa mostra anche come sono formattate le funzioni.</seg>
       </tuv>
     </tu>
     <tu>
