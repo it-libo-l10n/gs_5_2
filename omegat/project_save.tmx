@@ -1863,6 +1863,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;rom left to right, the Formula Bar consists of the following:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220217Z" creationid="Marco Marega" creationdate="20180707T220217Z">
+        <seg>&lt;f0&gt;Da&lt;/f0&gt; sinistra a destra, la Barra di calcolo è formata dai seguenti elementi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;16&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Setting general options for LibreOffice&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060547Z" creationid="manuel" creationdate="20180529T060547Z">
@@ -2139,6 +2147,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190454Z" creationid="Marco Marega" creationdate="20180528T190454Z">
         <seg>&lt;f0&gt;Microsoft Windows&lt;/f0&gt; XP SP3, Vista, Windows Server 2008, Windows 7, Windows 8/8.1, Windows Server 2012, o Windows 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Name Box&lt;/f0&gt; – gives the current active cell reference using a combination of a letter and number, for example A1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220348Z" creationid="Marco Marega" creationdate="20180707T220348Z">
+        <seg>&lt;f0&gt;Casella del nome&lt;/f0&gt; – fornisce il riferimento alla cella attiva al momento usando una combinazione di una lettera ed un numero, ad esempio A1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9823,6 +9839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;87&lt;/seq0&gt;: Formula bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220142Z" creationid="Marco Marega" creationdate="20180707T220142Z">
+        <seg>Figura &lt;seq0&gt;87&lt;/seq0&gt;: barra di calcolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Properties panel of Sidebar in Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221658Z" creationid="Marco Marega" creationdate="20180620T221658Z">
@@ -12371,6 +12395,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T102725Z" creationid="manuel" creationdate="20180622T102725Z">
         <seg>Se la barra degli strumenti Trova è aperta, fate clic sul pulsante Trova &lt;f2&gt;e&lt;/f2&gt; sostituisci (&lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;) sulla barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Formula Bar is not visible, go to &lt;f5&gt;View&lt;/f5&gt; on the Menu bar and select &lt;f6&gt;Formula Bar&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220128Z" creationid="Marco Marega" creationdate="20180707T220128Z">
+        <seg>Se la Barra di calcolo non è visibile, nella Barra del menu andate in &lt;f5&gt;Visualizza&lt;/f5&gt; e selezionate &lt;f6&gt;Barra di calcolo&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
