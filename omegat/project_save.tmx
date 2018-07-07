@@ -19032,6 +19032,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Snap to grid</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T134829Z" creationid="manuel" creationdate="20180707T134829Z">
+        <seg>Cattura alla griglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some LibreOffice features (wizards and the HSQLDB database engine) require that the Java Runtime Environment (JRE) is installed on your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190618Z" creationid="Marco Marega" creationdate="20180528T190618Z">
@@ -28786,6 +28794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111620Z" creationid="manuel" creationdate="20180707T111608Z">
         <seg>funzione di cattura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>snap to grid</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T134836Z" creationid="manuel" creationdate="20180707T134836Z">
+        <seg>cattura alla griglia</seg>
       </tuv>
     </tu>
     <tu>
