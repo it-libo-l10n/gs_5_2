@@ -20641,6 +20641,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The selection handles will change shape and color (Figure &lt;t0&gt;191&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T071558Z" creationid="manuel" creationdate="20180707T071558Z">
+        <seg>Le maniglie di selezione cambieranno forma e colore (Figura &lt;t0&gt;191&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The sentence boundary detection depends on abbreviations.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T104725Z" creationid="manuel" creationdate="20180609T104725Z">
