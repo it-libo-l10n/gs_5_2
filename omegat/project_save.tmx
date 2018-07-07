@@ -20689,6 +20689,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default set of icons (sometimes called buttons) on toolbars provides a wide range of common commands and functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T215544Z" creationid="Marco Marega" creationdate="20180707T215544Z">
+        <seg>L'insieme delle icone predefinite (a volte chiamate pulsanti) presenti nelle barre degli strumenti fornisce una vasta gamma di funzioni e comandi comuni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default setting when Calc opens is for the Standard and Formatting toolbars to be docked at the top of the workspace (Figure &lt;t0&gt;86&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T144217Z" creationid="Marco Marega" creationdate="20180707T144217Z">
