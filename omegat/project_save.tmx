@@ -9079,6 +9079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;201&lt;/seq0&gt;: Configuring the grid</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T141233Z" creationid="manuel" creationdate="20180707T141233Z">
+        <seg>Figura &lt;seq0&gt;201&lt;/seq0&gt;: configurare la griglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;202&lt;/seq0&gt;: Mode toolbar and its tools</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T104959Z" creationid="manuel" creationdate="20180707T104959Z">
@@ -20545,6 +20553,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default color of the grid is light gray.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T141133Z" creationid="manuel" creationdate="20180707T141133Z">
+        <seg>Il colore predefinito della griglia è grigio chiaro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default currency determines the proper formatting of fields formatted as currency.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062252Z" creationid="manuel" creationdate="20180609T062252Z">
@@ -21333,6 +21349,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135843Z" creationid="Marco Marega" creationdate="20180707T135843Z">
         <seg>Le parti che compongono questa finestra sono descritte qui di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The pixel size of the snap area defines how close you need to bring an object to a snap point or line before it will snap to it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T141118Z" creationid="manuel" creationdate="20180707T141118Z">
+        <seg>La dimensione in pixel dell'area di cattura definisce la vicinanza che deve avere un oggetto al punto o linea di cattura affinché venga catturato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22855,6 +22879,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155931Z" creationid="manuel" creationdate="20180612T155931Z">
         <seg>Per cambiare gli stili in più documenti, è necessario modificare il modello, oppure copiare gli stili negli altri documenti, come descritto a pagina &lt;bf0&gt;68&lt;/bf0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the color of the grid points, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Appearance&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T141225Z" creationid="manuel" creationdate="20180707T141202Z">
+        <seg>Per cambiare il colore dei punti della griglia, andate su &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Aspetto&lt;/f0&gt; dalla barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
