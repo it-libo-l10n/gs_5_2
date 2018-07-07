@@ -3456,6 +3456,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adjusting object size</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065249Z" creationid="manuel" creationdate="20180707T065249Z">
+        <seg>Ridimensionare un oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Administrator rights are needed for the installation process.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190556Z" creationid="Marco Marega" creationdate="20180528T190556Z">
@@ -4164,6 +4172,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130932Z" creationid="Marco Marega" creationdate="20180623T130722Z">
         <seg>Come con la funzione Annulla, fate clic sul triangolo a destra dell'icona per visualizzare un elenco delle modifiche che possono essere ripristinate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As you change the size of the object, a ghosted outline of the object appears (Figure &lt;t0&gt;190&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065417Z" creationid="manuel" creationdate="20180707T065417Z">
+        <seg>Non appena cambiate le dimensioni dell'oggetto, apparirà un contorno ombreggiato dell'oggetto (Figura &lt;t0&gt;190&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8675,6 +8691,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T062023Z" creationid="manuel" creationdate="20180707T062023Z">
         <seg>Figura &lt;seq0&gt;188&lt;/seq0&gt;: parte sinistra della barra di stato durante lo spostamento o la regolazione di un oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;189&lt;/seq0&gt;: Moving an object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065246Z" creationid="manuel" creationdate="20180707T065246Z">
+        <seg>Figura &lt;seq0&gt;190&lt;/seq0&gt;: spostare un oggetto</seg>
       </tuv>
     </tu>
     <tu>
@@ -20321,6 +20345,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The mouse cursor will change shape to indicate the direction of movement for that selection handle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065335Z" creationid="manuel" creationdate="20180707T065335Z">
+        <seg>Il cursore del mouse cambierà forma ad indicare la direzione di movimento per quella maniglia di selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The name of the folder will show in the Places pane.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124223Z" creationid="Marco Marega" creationdate="20180623T124223Z">
@@ -21903,6 +21935,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093621Z" creationid="manuel" creationdate="20180705T093621Z">
         <seg>Per modificare le proprietà per tutto il testo all'interno della cornice, dovete evidenziare tutto il testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the size of a selected object (or a group of selected objects), move the mouse cursor to one of the selection handles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065325Z" creationid="manuel" creationdate="20180707T065325Z">
+        <seg>Per cambiare le dimensioni di un oggetto selezionato (o di un gruppo di oggetti selezionati), spostate il cursore del mouse su una delle maniglie di selezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24690,6 +24730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093558Z" creationid="manuel" creationdate="20180705T093558Z">
         <seg>Al termine della digitazione del testo, fate clic all'esterno della cornice di testo per annullare l'aggiunta o la modifica del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have reached the desired size of the object, release the mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065422Z" creationid="manuel" creationdate="20180707T065422Z">
+        <seg>Quando avete raggiunto la dimensione desiderata dell'oggetto, rilasciate il pulsante del mouse.</seg>
       </tuv>
     </tu>
     <tu>
