@@ -4812,8 +4812,8 @@
       <tuv lang="EN">
         <seg>By default, the Line and Filling toolbar is not shown, but you can display it from the &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T145011Z" creationid="manuel" creationdate="20180703T145011Z">
-        <seg>Per impostazione predefinita, la barra degli strumenti Linea e riempimento non viene visualizzata, ma potetee visualizzarla dal menu &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T090014Z" creationid="manuel" creationdate="20180703T145011Z">
+        <seg>Per impostazione predefinita, la barra degli strumenti Stile e riempimento non viene visualizzata, ma potetee visualizzarla dal menu &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17714,8 +17714,8 @@
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Cross-fading attributes&lt;/f0&gt; to apply a gradual change of line and fill properties between the two objects.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145938Z" creationid="manuel" creationdate="20180705T145938Z">
-        <seg>Selezionate &lt;f0&gt;Includi gli attributi&lt;/f0&gt; per applicare una modifica graduale delle proprietà di linea e riempimento tra i due oggetti.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T090037Z" creationid="manuel" creationdate="20180705T145938Z">
+        <seg>Selezionate &lt;f0&gt;Includi gli attributi&lt;/f0&gt; per applicare una modifica graduale delle proprietà di stile e riempimento tra i due oggetti.</seg>
       </tuv>
     </tu>
     <tu>
