@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11279,6 +11279,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f0&gt; on the Menu bar to open the options dialog for the grid.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140934Z" creationid="manuel" creationdate="20180707T140934Z">
+        <seg>Andate su &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Draw &gt; Griglia&lt;/f0&gt; dalla barra dei menu per aprire la finestra di dialogo delle opzioni per la griglia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122743Z" creationid="Marco Marega" creationdate="20180622T122743Z">
@@ -12363,6 +12371,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200217Z" creationid="Marco Marega" creationdate="20180621T200150Z">
         <seg>Se le password corrispondono, il documento salvato sarà protetto da password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the resolution is 1 cm horizontal and 2 cm vertical, the grid consists of rectangles 2 cm high and 1 cm wide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T141020Z" creationid="manuel" creationdate="20180707T141020Z">
+        <seg>Se la risoluzione impostata è di 1 cm in orizzontale e 2 cm in verticale, la griglia consiste di rettangoli alti 2 cm e larghi 1 cm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16032,6 +16048,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Objects can snap to subdivisions as well as to the corners of the grid.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T141048Z" creationid="manuel" creationdate="20180707T141048Z">
+        <seg>Gli oggetti si ancorano alle suddivisioni così come agli angoli della griglia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often applying a style means applying a whole group of formats at the same time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143400Z" creationid="manuel" creationdate="20180611T143400Z">
@@ -19584,6 +19608,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subdivisions are additional points that appear along the sides of each rectangle or square in the grid.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T141028Z" creationid="manuel" creationdate="20180707T141028Z">
+        <seg>Le suddivisioni sono ulteriori punti che appaiono lungo i lati di ciascun rettangolo o quadrato nella griglia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Superscript, Subscript</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T155924Z" creationid="manuel" creationdate="20180626T155924Z">
@@ -21333,6 +21365,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102258Z" creationid="manuel" creationdate="20180704T102258Z">
         <seg>Il rettangolo o il quadrato utilizza il punto iniziale (dove avete fatto clic con il pulsante del mouse) come centro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The resolution is the size of the squares or rectangles in the grid.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140947Z" creationid="manuel" creationdate="20180707T140947Z">
+        <seg>La risoluzione è la dimensione dei quadrati e dei rettangoli nella griglia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23119,6 +23159,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170120Z" creationid="Elisabetta Manuele" creationdate="20180625T170120Z">
         <seg>Per visualizzare la &lt;f0&gt;Guida in linea&lt;/f0&gt; premete il tasto &lt;f1&gt;F1&lt;/f1&gt; oppure selezionate &lt;f2&gt;Guida di LibreOffice&lt;/f2&gt; dal menu Aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To display the grid in Draw or to switch off the grid, go to &lt;f0&gt;View &gt; Grid &gt; Display Grid&lt;/f0&gt; on the Menu bar or click on the &lt;f1&gt;Display Grid&lt;/f1&gt; icon on the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140851Z" creationid="manuel" creationdate="20180707T140851Z">
+        <seg>Per mostrare o nascondere la griglia in Draw, andate su &lt;f0&gt;Visualizza &gt; Griglia &gt; Mostra Griglia&lt;/f0&gt; dalla barra dei menu oppure fate clic sull'icona &lt;f1&gt;Mostra griglia&lt;/f1&gt; sulla barra degli strumenti Opzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25230,6 +25278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Vertical and horizontal spacing of the dots in the grid.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140903Z" creationid="manuel" creationdate="20180707T140903Z">
+        <seg>Spaziatura verticale ed orizzontale dei punti della griglia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View layout</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071336Z" creationid="manuel" creationdate="20180618T071336Z">
@@ -26378,6 +26434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T082704Z" creationid="manuel" creationdate="20180628T082704Z">
         <seg>Potete anche modificare il tipo di carattere, la dimensione e l'allineamento nel solito modo di modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also change the unit of measurement used in the general Draw options by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140940Z" creationid="manuel" creationdate="20180707T140940Z">
+        <seg>Potete anche cambiare l'unità di misura utilizzata nelle opzioni generali di  Draw andando su &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Draw &gt; Generale&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
