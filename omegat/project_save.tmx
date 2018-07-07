@@ -1759,6 +1759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Data&lt;/f0&gt; – contains commands for manipulating data in the spreadsheet; for example, &lt;f1&gt;Define Database Range&lt;/f1&gt;, &lt;f2&gt;Sort&lt;/f2&gt;, &lt;f3&gt;Statistics, Pivot Tables, Consolidate&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T143430Z" creationid="Marco Marega" creationdate="20180707T143430Z">
+        <seg>&lt;f0&gt;Dati&lt;/f0&gt; – contiene i comandi per manipolare i dati di un foglio di lavoro; ad esempio: &lt;f1&gt;Definisci area&lt;/f1&gt;, &lt;f2&gt;Ordina&lt;/f2&gt;, &lt;f3&gt;Statistica, Tabella Pivot, Consolida&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Date acceptance patterns&lt;/f0&gt; define how LibreOffice recognizes input as dates.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T063348Z" creationid="manuel" creationdate="20180609T063348Z">
