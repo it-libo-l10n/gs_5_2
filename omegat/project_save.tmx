@@ -26822,6 +26822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also edit the contents of a cell directly in the cell itself by double-clicking on the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T222157Z" creationid="Marco Marega" creationdate="20180707T222157Z">
+        <seg>Facendo un doppio clic su di una cella potete anche modificare i contenuti della stessa direttamente al suo interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also export Draw files to HTML, XHTML, PDF, or Flash.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T111617Z" creationid="manuel" creationdate="20180705T111617Z">
