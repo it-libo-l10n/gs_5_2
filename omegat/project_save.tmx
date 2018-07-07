@@ -7831,6 +7831,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Docked toolbars can be undocked and either moved to different docked position on the workspace, or left as a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T144603Z" creationid="Marco Marega" creationdate="20180707T144603Z">
+        <seg>Le barre strumenti agganciate possono essere sganciate, spostate in una nuova posizione agganciata, oppure essere lasciate come barre mobili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Docked toolbars can be undocked and moved to a new docked position or left as a floating toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181612Z" creationid="Marco Marega" creationdate="20180620T181612Z">
@@ -24361,6 +24369,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T175445Z" creationid="Marco Marega" creationdate="20180619T213610Z">
         <seg>Le barre degli strumenti originate da un insieme di strumenti non sono elencate nel Menu visualizza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbars that are floating when opened can be docked into a fixed position on the workspace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T144735Z" creationid="Marco Marega" creationdate="20180707T144735Z">
+        <seg>Le barre degli strumenti che al momento della loro apertura sono mobili, possono essere agganciate in una posizione fissa nello spazio di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
