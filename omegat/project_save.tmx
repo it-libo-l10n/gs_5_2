@@ -21865,6 +21865,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This section is an introduction to some of these effects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T100825Z" creationid="manuel" creationdate="20180707T100817Z">
+        <seg>Questa sezione è un introduzione ad alcuni di questi effetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This setup can also be created with page breaks and page styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144811Z" creationid="manuel" creationdate="20180616T144811Z">
@@ -23473,6 +23481,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T135344Z" creationid="manuel" creationdate="20180626T135344Z">
         <seg>Per disattivare il Completamento delle parole, selezionate &lt;f0&gt;Strumenti &gt; Correzione automatica &gt; Opzioni di correzione automatica &gt; Completamento parola &lt;/f0&gt;e deselezionate &lt;f1&gt;Attiva completamento parole&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To turn on or off the help lines, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; View&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Snap Lines when moving&lt;/f1&gt; option or go to the Options toolbar and click on the &lt;f2&gt;Helplines While Moving&lt;/f2&gt; icon &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T100350Z" creationid="manuel" creationdate="20180707T100350Z">
+        <seg>Per attivare o disattivare le linee guida, andate su &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Draw &gt; Vista&lt;/f0&gt; e selezionate l'opzione &lt;f1&gt;Linee di cattura durante lo spostamento&lt;/f1&gt; oppure andate sulla barra degli strumenti Opzioni e fate clic sull'icona &lt;f2&gt;Linee guida durante lo spostamento&lt;/f2&gt; &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25306,6 +25322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173318Z" creationid="Elisabetta Manuele" creationdate="20180627T173318Z">
         <seg>Windows o Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With Draw, you can apply many special effects to objects and groups of objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T100728Z" creationid="manuel" creationdate="20180707T100728Z">
+        <seg>Con Draw, potete applicare molti effetti speciali a un oggetto o a gruppi di oggetti.</seg>
       </tuv>
     </tu>
     <tu>
