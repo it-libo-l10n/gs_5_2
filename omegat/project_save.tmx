@@ -1967,6 +1967,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Function Wizard&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – &lt;i4/&gt;opens a dialog from which you can search through a list of available functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T221047Z" creationid="Marco Marega" creationdate="20180707T221047Z">
+        <seg>La &lt;f0&gt;Creazione guidata funzione&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – &lt;i4/&gt;apre una finestra di dialogo nella quale potete cercare tra le funzioni disponibili elencate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;GNU/Linux&lt;/f0&gt; Kernel version 2.6.18, glibc2 v2.5 or higher, and gtk v2.10.4 or higher</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190531Z" creationid="Marco Marega" creationdate="20180528T190531Z">
@@ -11127,6 +11135,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Function Wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220848Z" creationid="Marco Marega" creationdate="20180707T220848Z">
+        <seg>Creazione guidata funzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Functions, which can be used to create formulas to perform complex calculations on data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131628Z" creationid="Marco Marega" creationdate="20180707T131628Z">
@@ -13139,6 +13155,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155644Z" creationid="manuel" creationdate="20180628T155644Z">
         <seg>Può risultare difficile mantenere aggiornati dei riferimenti incrociati ad altre parti del documento, se riorganizzate l'ordine degli argomenti, aggiungete o eliminate del materiale, o riformulate un'intestazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you type the name of a named range and press the &lt;f1&gt;Enter&lt;/f1&gt; key, the named range is selected and displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220833Z" creationid="Marco Marega" creationdate="20180707T220833Z">
+        <seg>Se digitale il nome di un intervallo di celle e premete il tasto &lt;f1&gt;Invio&lt;/f1&gt;, verrà selezionato e visualizzato l'intervallo con quel nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26906,6 +26930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123413Z" creationid="Marco Marega" creationdate="20180621T123413Z">
         <seg>Potete anche creare un nuovo documento in uno dei modi seguenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also type a cell reference in the Name Box to jump to the referenced cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220716Z" creationid="Marco Marega" creationdate="20180707T220716Z">
+        <seg>Nella Casella del nome potete anche digitare il riferimento ad un cella in modo da spostarvi alla cella in questione.</seg>
       </tuv>
     </tu>
     <tu>
