@@ -25766,6 +25766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also open the Line dialog by clicking on the &lt;f3&gt;Line&lt;/f3&gt; icon &lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;/df5&gt;&lt;/f4&gt; and the Area dialog by clicking on the &lt;f7&gt;Area&lt;/f7&gt; icon &lt;f8&gt;&lt;df9&gt;&lt;di10/&gt;&lt;/df9&gt;&lt;/f8&gt; for access to more formatting options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T094727Z" creationid="manuel" creationdate="20180707T094727Z">
+        <seg>Potete anche aprire la finestra di dialogo Linea facendo clic sull'icona &lt;f3&gt;Linea&lt;/f3&gt; &lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;/df5&gt;&lt;/f4&gt; e la finestra di dialogo Area facendo clic sull'icona &lt;f7&gt;Area&lt;/f7&gt; &lt;f8&gt;&lt;df9&gt;&lt;di10/&gt;&lt;/df9&gt;&lt;/f8&gt; per accedere ad altre opzioni di formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also open the Template&lt;f5&gt;s dialog&lt;/f5&gt; from the Start Center.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154558Z" creationid="manuel" creationdate="20180615T154558Z">
