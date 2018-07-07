@@ -5962,6 +5962,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click and hold the mouse button, then move the cursor to shear the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073657Z" creationid="manuel" creationdate="20180707T073657Z">
+        <seg>Fate clic e tenete premuto il pulsante del mouse, quindi spostate il cursore per inclinare l'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click and hold the mouse button, then start to move the cursor to rotate the object.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T071945Z" creationid="manuel" creationdate="20180707T071945Z">
@@ -11371,6 +11379,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073447Z" creationid="manuel" creationdate="20180606T073447Z">
         <seg>Tuttavia, un certificato personale rilasciato da un'agenzia esterna (dopo aver verificato l'identità di una persona) ha un grado di fiducia più elevato associato ad esso rispetto a un certificato autofirmato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if &lt;f1&gt;When creating or moving objects&lt;/f1&gt; has been selected in&lt;f2&gt; Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f2&gt;, the action of the &lt;f3&gt;Shift&lt;/f3&gt; key is reversed and rotation will be restricted to 15° of movement &lt;f4&gt;unless&lt;/f4&gt; the &lt;f5&gt;Shift&lt;/f5&gt; key is pressed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073546Z" creationid="manuel" creationdate="20180707T073546Z">
+        <seg>Invece, se è selezionata l'opzione &lt;f1&gt;Nella creazione e nel movimento&lt;/f1&gt; in&lt;f2&gt; Strumenti &gt; Opzioni &gt; LibreOffice Draw &gt; Griglia&lt;/f2&gt;, l'azione del tasto &lt;f3&gt;Maiusc&lt;/f3&gt; è invertita: cioè la rotazione verrà limitata a movimenti di 15° &lt;f4&gt;a meno che&lt;/f4&gt; il tasto &lt;f5&gt;Maiusc&lt;/f5&gt; sia premuto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18504,6 +18520,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slanting an object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073551Z" creationid="manuel" creationdate="20180707T073551Z">
+        <seg>Inclinare un oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Slide advance</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z" creationid="luke" creationdate="20180515T090031Z">
@@ -19705,6 +19729,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The axis used for slanting an object is the object edge directly opposite the midpoint handle being used to slant the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073615Z" creationid="manuel" creationdate="20180707T073615Z">
+        <seg>L'asse utilizzato per inclinare un oggetto è il bordo dell'oggetto direttamente opposto alla maniglia del punto medio utilizzata per inclinare l'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The backup copy gets the extension BAK.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144437Z" creationid="manuel" creationdate="20180608T144437Z">
@@ -20477,6 +20509,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154746Z" creationid="luke" creationdate="20180514T154746Z">
         <seg>The most used application commands were put together in the Styles, Sheets, and Slide menus, respectively.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The mouse cursor changes when it hovers over one of these midpoint handles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073611Z" creationid="manuel" creationdate="20180707T073611Z">
+        <seg>Il cursore del mouse cambia quando viene portato sopra una delle maniglie poste in corrispondenza dei punti medi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21277,6 +21317,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064654Z" creationid="manuel" creationdate="20180618T064654Z">
         <seg>Questa area rimane vuota quando il programma si trova in modalità Inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This axis stays fixed in location while the other sides of the object move in relation to it as you drag the mouse cursor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073620Z" creationid="manuel" creationdate="20180707T073620Z">
+        <seg>Quando trascinate il cursore del mouse questo asse rimane fisso, mentre gli altri lati dell'oggetto si muovono rispetto ad esso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23169,6 +23217,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104224Z" creationid="manuel" creationdate="20180705T104224Z">
         <seg>Per mostrare o nascondere i contrassegni dei commenti, andate su &lt;f0&gt;Visualizza &gt; Commenti&lt;/f0&gt; sulla barra del Menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To slant an object, use the handles located at the midpoints on the top, bottom and sides of a selected object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073555Z" creationid="manuel" creationdate="20180707T073555Z">
+        <seg>Per inclinare un oggetto, usate le maniglie situate nei punti medi, in alto, in basso e ai lati dell'oggetto selezionato.</seg>
       </tuv>
     </tu>
     <tu>
