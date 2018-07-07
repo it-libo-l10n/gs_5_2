@@ -1975,6 +1975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Function&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – clicking on the Function icon inserts an equals (=) sign into the selected cell and the &lt;f4&gt;Input line&lt;/f4&gt;, allowing a formula to be entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T221611Z" creationid="Marco Marega" creationdate="20180707T221611Z">
+        <seg>&lt;f0&gt;Funzione&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – facendo clic sull'icona Funzione, nella cella selezionata viene inserito un segno di uguale (=) e la &lt;f4&gt;Riga di digitazione&lt;/f4&gt; permette l'inserimento di una formula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;GNU/Linux&lt;/f0&gt; Kernel version 2.6.18, glibc2 v2.5 or higher, and gtk v2.10.4 or higher</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190531Z" creationid="Marco Marega" creationdate="20180528T190531Z">
@@ -12595,6 +12603,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084104Z" creationid="manuel" creationdate="20180530T084104Z">
         <seg>Se il testo nei file della Guida o nei menu dell'interfaccia utente di LibreOffice è troppo piccolo o troppo grande, è possibile modificarlo specificando un fattore di scala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there are no numbers above the selected cell, then the cells to the left are totaled.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T221405Z" creationid="Marco Marega" creationdate="20180707T221405Z">
+        <seg>Se non vi sono numeri al di sopra della cella corrente, allora verranno sommate le celle alla sua sinistra.</seg>
       </tuv>
     </tu>
     <tu>
