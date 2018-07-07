@@ -8711,6 +8711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;190&lt;/seq0&gt;: Adjusting object size</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065457Z" creationid="manuel" creationdate="20180707T065457Z">
+        <seg>Figura &lt;seq0&gt;190&lt;/seq0&gt;: ridimensionare un oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Font list (Left) with preview; (Right) without preview</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062642Z" creationid="manuel" creationdate="20180531T062642Z">
@@ -12379,6 +12387,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144741Z" creationid="manuel" creationdate="20180608T144741Z">
         <seg>Se preferite salvare in modo assoluto, tutti i riferimenti ad altri file saranno anche definiti come assoluti, basati sulla rispettiva unità, volume o cartella radice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you press the &lt;f0&gt;Shift&lt;/f0&gt; key while resizing an object, the change in size will be carried out symmetrically with respect to the two axes so that the aspect ratio of the object remains the same.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065520Z" creationid="manuel" creationdate="20180707T065520Z">
+        <seg>Se premete il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; mentre ridimensionate un oggetto, le dimensioni dell'oggetto saranno modificate simmetricamente rispetto ai due assi, in modo tale che le proporzioni dell'oggetto rimarranno le stesse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20537,6 +20553,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The results depend on which selection handle you use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065437Z" creationid="manuel" creationdate="20180707T065437Z">
+        <seg>Il risultato dipende da quale maniglia di selezione usate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The results of combining these selections are given in Table &lt;t3&gt;15&lt;/t3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T145756Z" creationid="manuel" creationdate="20180531T075936Z">
@@ -21093,6 +21117,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143732Z" creationid="manuel" creationdate="20180703T143732Z">
         <seg>Potrebbero non essere uguali alle unità del righello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This &lt;f1&gt;Shift&lt;/f1&gt; key behavior works on all selection handles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065526Z" creationid="manuel" creationdate="20180707T065526Z">
+        <seg>Questo comportamento del tasto &lt;f1&gt;Maiusc&lt;/f1&gt; funziona con tutte le maniglie di selezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22801,6 +22833,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103232Z" creationid="manuel" creationdate="20180622T103232Z">
         <seg>Per sostituire il testo trovato con uno diverso, digitate il nuovo testo nella casella &lt;f0&gt;Sostituisci&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To resize along both axes, use a corner handle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065444Z" creationid="manuel" creationdate="20180707T065444Z">
+        <seg>Per ridimensionare lungo entrambi gli assi, usate una maniglia d'angolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To resize an object along one axis, use a side handle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065441Z" creationid="manuel" creationdate="20180707T065441Z">
+        <seg>Per ridimensionare un oggetto lungo un asse, usate una maniglia laterale.</seg>
       </tuv>
     </tu>
     <tu>
