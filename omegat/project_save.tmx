@@ -2031,6 +2031,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Insert&lt;/f0&gt; – contains commands for inserting elements into a spreadsheet; for example, &lt;f1&gt;Pictures, Frames, Special Characters, Charts, Functions&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T142714Z" creationid="Marco Marega" creationdate="20180707T142714Z">
+        <seg>&lt;f0&gt;Inserisci&lt;/f0&gt; – contiene comandi per inserire elementi in un foglio di lavoro; ad esempio, &lt;f1&gt;Immagine, Cornice mobile, Carattere speciale, Grafico, Funzione&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Insert&lt;/f0&gt; – contains commands for inserting elements into your document such as Header, Footer, and Image.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214842Z" creationid="Marco Marega" creationdate="20180616T214842Z">
