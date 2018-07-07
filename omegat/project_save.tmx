@@ -2631,6 +2631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;Y&lt;/f3&gt;ou &lt;f4&gt;can use the Flip tool to&lt;/f4&gt; change the position and angle that the object flips over, a&lt;f5&gt;s&lt;/f5&gt; described in&lt;f6&gt; &lt;/f6&gt;Chapter 4, Changing Object Attributes, &lt;f7&gt;in the &lt;/f7&gt;&lt;f8&gt;Draw Guide.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T104853Z" creationid="manuel" creationdate="20180707T104853Z">
+        <seg>&lt;f3&gt;Potete&lt;/f3&gt; &lt;f4&gt;usare lo strumento Rispecchia per&lt;/f4&gt; cambiare la posizione e l'angolo dell'oggetto su cui gira l'oggetto, &lt;f5&gt;come&lt;/f5&gt; descritto nel&lt;f6&gt; &lt;/f6&gt;Capitolo 4 (Modificare gli attributi degli oggetti) &lt;f7&gt;nella &lt;/f7&gt;&lt;f8&gt;Guida a Draw.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;A standard file browser window opens.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143051Z" creationid="manuel" creationdate="20180616T143051Z">
@@ -8891,6 +8899,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174729Z" creationid="Elisabetta Manuele" creationdate="20180627T174729Z">
         <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: finestra di dialogo con i controlli più comuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;202&lt;/seq0&gt;: Mode toolbar and its tools</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T104959Z" creationid="manuel" creationdate="20180707T104959Z">
+        <seg>Figura &lt;seq0&gt;202&lt;/seq0&gt;: barre degli strumenti Modo e strumenti disponibili</seg>
       </tuv>
     </tu>
     <tu>
