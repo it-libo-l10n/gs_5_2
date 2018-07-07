@@ -11303,6 +11303,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if &lt;f1&gt;When creating or moving objects&lt;/f1&gt; has been selected in&lt;f2&gt; Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f2&gt;, the action of the &lt;f3&gt;Shift&lt;/f3&gt; key is reversed and the aspect ratio will be preserved &lt;f4&gt;unless&lt;/f4&gt; the &lt;f5&gt;Shift&lt;/f5&gt; key is pressed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T070542Z" creationid="manuel" creationdate="20180707T070542Z">
+        <seg>Invece, se è selezionata l'opzione &lt;f1&gt;Nella creazione e nel movimento&lt;/f1&gt; in&lt;f2&gt; Strumenti &gt; Opzioni &gt; LibreOffice Draw &gt; Griglia&lt;/f2&gt;, l'azione del tasto &lt;f3&gt;Maiusc&lt;/f3&gt; è invertita e cioè le proporzioni verranno mantenute &lt;f4&gt;a meno che&lt;/f4&gt; sia premuto il tasto &lt;f5&gt;Maiusc&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if the &lt;f1&gt;Snap to Grid&lt;/f1&gt; option on the &lt;f2&gt;View &gt; Grid&lt;/f2&gt; menu has been selected, the &lt;f3&gt;Ctrl&lt;/f3&gt; key deactivates the snap to grid activity.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T172633Z" creationid="manuel" creationdate="20180703T172633Z">
