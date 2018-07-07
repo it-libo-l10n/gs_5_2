@@ -26766,6 +26766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also remove or add icons to toolbars; see &lt;f0&gt;Chapter 14 Customizing LibreOffice&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T215648Z" creationid="Marco Marega" creationdate="20180707T215648Z">
+        <seg>Potete anche eliminare o aggiungere icone alle barre degli strumenti; per maggiori informazioni vedete il &lt;f0&gt;Capitolo 14 (Personalizzare LibreOffice)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also save menu and toolbar customizations in templates; see &lt;f0&gt;Chapter 14, Customizing LibreOffice&lt;/f0&gt;, for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103940Z" creationid="manuel" creationdate="20180615T103940Z">
