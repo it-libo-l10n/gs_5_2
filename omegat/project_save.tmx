@@ -10399,6 +10399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on special effects, see&lt;f0&gt; &lt;/f0&gt;Chapter 4, Changing Object Attributes,&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;in the &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Draw Guide.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T101033Z" creationid="manuel" creationdate="20180707T101033Z">
+        <seg>Per maggiori informazioni sugli effetti speciali, vedere il&lt;f0&gt; &lt;/f0&gt;Capitolo 4 (Modificare gli attributi degli oggetti)&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;nella &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Guida a Draw.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on using Find &amp; Replace, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150949Z" creationid="manuel" creationdate="20180622T103726Z">
@@ -22061,6 +22069,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T184510Z" creationid="Marco Marega" creationdate="20180620T184510Z">
         <seg>Per accedere alle opzioni di personalizzazione di una barra strumenti, fate clic con il pulsante destro del mouse su di uno spazio vuoto tra le icone della barra strumenti, in modo da aprire un menu contestuale cose segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the tools used for special effects, go to &lt;f0&gt;View &gt; Toolbars &gt; Mode&lt;/f0&gt; (Figure &lt;t1&gt;202&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T101149Z" creationid="manuel" creationdate="20180707T101149Z">
+        <seg>Per accedere agli strumenti per gli effetti speciali, andate su &lt;f0&gt;Visualizza &gt; Barre degli strumenti &gt; Modo&lt;/f0&gt; (Figura &lt;t1&gt;202&lt;/t1&gt;).(</seg>
       </tuv>
     </tu>
     <tu>
