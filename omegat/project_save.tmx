@@ -2455,6 +2455,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Tools&lt;/f0&gt; – contains various functions to help you check and customize the spreadsheet; for example, &lt;f1&gt;Spelling&lt;/f1&gt;, &lt;f2&gt;Share Document&lt;/f2&gt;, &lt;f3&gt;Gallery&lt;/f3&gt;, &lt;f4&gt;Macros&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T143625Z" creationid="Marco Marega" creationdate="20180707T143625Z">
+        <seg>&lt;f0&gt;Strumenti&lt;/f0&gt; – contiene diverse funzioni di supporto per il controllo e la personalizzazione del foglio di lavoro; ad esempio, &lt;f1&gt;Controllo ortografico&lt;/f1&gt;, &lt;f2&gt;Condividi documento&lt;/f2&gt;, &lt;f3&gt;Galleria&lt;/f3&gt;, &lt;f4&gt;Macro&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Up One Level&lt;/f0&gt; – moves up one folder in the folder hierarchy.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204829Z" creationid="Marco Marega" creationdate="20180622T204829Z">
@@ -2483,6 +2491,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215352Z" creationid="Marco Marega" creationdate="20180616T215352Z">
         <seg>&lt;f0&gt;Finestra&lt;/f0&gt; contiene i comandi che agiscono sul contenuto dello schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Window&lt;/f0&gt; – contains commands for the display window; for example, &lt;f1&gt;New Window&lt;/f1&gt;, &lt;f2&gt;Split&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T143826Z" creationid="Marco Marega" creationdate="20180707T143826Z">
+        <seg>&lt;f0&gt;Finestra&lt;/f0&gt; – contiene i comandi che agiscono sul contenuto dello schermo; ad esempio, &lt;f1&gt;Nuova finestra&lt;/f1&gt;, &lt;f2&gt;Dividi&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
