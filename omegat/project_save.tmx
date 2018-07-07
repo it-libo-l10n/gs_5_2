@@ -8959,6 +8959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;199&lt;/seq0&gt;: Different types of area fill</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111510Z" creationid="manuel" creationdate="20180707T111510Z">
+        <seg>Figura &lt;seq0&gt;199&lt;/seq0&gt;: differenti tipi di riempimento d'area</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Font list (Left) with preview; (Right) without preview</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062642Z" creationid="manuel" creationdate="20180531T062642Z">
@@ -10459,6 +10467,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
         <seg>For more information and details about using the Presenter Console, see the &lt;f0&gt;Impress Guide Chapter 9 Slide Shows&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on area fill, see&lt;f3&gt; &lt;/f3&gt;Chapter 4, Changing Object Attributes, &lt;f4&gt;in the &lt;/f4&gt;&lt;f5&gt;Draw Guide.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111454Z" creationid="manuel" creationdate="20180707T111454Z">
+        <seg>Per maggiori informazioni sul riempimento d'area, vedere il&lt;f3&gt; &lt;/f3&gt;Capitolo 4 (Modificare gli attributi degli oggetti) &lt;f4&gt;nella &lt;/f4&gt;&lt;f5&gt;Guida a Draw.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19312,6 +19328,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Suppose that you want to apply the same area fill, line thickness, and border to a set of objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111517Z" creationid="manuel" creationdate="20180707T111517Z">
+        <seg>Supponete di voler applicare lo stesso riempimento di area, spessore della linea e bordo ad un gruppo di oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Symbol shapes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104216Z" creationid="manuel" creationdate="20180706T104216Z">
@@ -22045,6 +22069,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152250Z" creationid="manuel" creationdate="20180621T152250Z">
         <seg>In questo modo Writer passa in modalità di “Selezione con aggiunta”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This repetitive process can be greatly simplified by the use of styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111522Z" creationid="manuel" creationdate="20180707T111522Z">
+        <seg>Questa operazione ripetitiva può essere semplificata con l'utilizzo degli stili.</seg>
       </tuv>
     </tu>
     <tu>
