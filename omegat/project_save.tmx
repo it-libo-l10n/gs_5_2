@@ -17080,6 +17080,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rotation works differently for 3D objects because rotation occurs around global axes and not around a single axis.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T072954Z" creationid="manuel" creationdate="20180707T072954Z">
+        <seg>La rotazione funziona in maniera diversa per gli oggetti tridimensionali (3D) perché avviene rispetto agli assi globali invece che su un singolo asse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rulers</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105034Z" creationid="manuel" creationdate="20180629T105034Z">
@@ -20665,6 +20673,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The rotation point is normally located at the center of an object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073027Z" creationid="manuel" creationdate="20180707T073027Z">
+        <seg>Il punto di rotazione è normalmente situato al centro di un oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rulers show the size of a selected object on the page using double lines (highlighted in Figure &lt;t2&gt;164&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180630T170136Z" creationid="manuel" creationdate="20180630T170136Z">
@@ -21601,6 +21617,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This rotation point can even be outside of the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073035Z" creationid="manuel" creationdate="20180707T073035Z">
+        <seg>Il punto di rotazione può anche essere situato al di fuori dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This section covers only some aspects; more advanced techniques are explained in the &lt;f2&gt;Impress Guide Chapter 9 Slide Shows&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
@@ -22063,6 +22087,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060253Z" creationid="manuel" creationdate="20180618T060253Z">
         <seg>Per applicare uno stile diverso alla pagina, fate clic con il tasto destro su questo campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the position of the rotation point, click on the object with the mouse cursor and drag the object until the rotation point is at the desired position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073030Z" creationid="manuel" creationdate="20180707T073030Z">
+        <seg>Per cambiare la posizione del punto di rotazione, fate clic sull'oggetto con il cursore del mouse e trascinate l'oggetto fino a quando il punto di rotazione non si trova nella posizione desiderata.</seg>
       </tuv>
     </tu>
     <tu>
