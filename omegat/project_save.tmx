@@ -3800,6 +3800,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, use the &lt;f12&gt;Line&lt;/f12&gt; sub-section in Sidebar Properties to change the appearance of a line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105825Z" creationid="manuel" creationdate="20180707T105825Z">
+        <seg>In alternativa, utilizzate la sottosezione &lt;f12&gt;Linea&lt;/f12&gt; in Proprietà della barra laterale per modificare l'aspetto di una linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, use the buttons on the &lt;f3&gt;Standard&lt;/f3&gt; toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161525Z" creationid="manuel" creationdate="20180621T161525Z">
@@ -4188,6 +4196,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095124Z" creationid="manuel" creationdate="20180704T095124Z">
         <seg>Le frecce sono disegnate come le linee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrows, &lt;i0/&gt;arrowheads, and line endings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105842Z" creationid="manuel" creationdate="20180707T105842Z">
+        <seg>Frecce,&lt;i0/&gt; punte delle frecce ed estremità della linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrows, arrowheads, and other line endings are usually referred to as arrows and can be treated the same as lines when editing and changing attributes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105900Z" creationid="manuel" creationdate="20180707T105900Z">
+        <seg>Le frecce, le punte delle frecce e altre estremità della linea sono normalmente indicate come frecce e possono essere trattate come le linee in fase di modifica e di cambiamento degli attributi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21701,6 +21725,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T083252Z" creationid="manuel" creationdate="20180621T083252Z">
         <seg>Questo piano è simile alla barra degli strumenti mobile che può essere aperta da &lt;f1&gt;Visualizza &gt; Navigatore&lt;/f1&gt; nella barra dei menu o dal pulsante &lt;f2&gt;Navigatore&lt;/f2&gt; nella barra degli strumenti standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog consists of three pages: &lt;f9&gt;Line&lt;/f9&gt;, &lt;f10&gt;Line Styles&lt;/f10&gt;, and &lt;f11&gt;Arrow Styles&lt;/f11&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105737Z" creationid="manuel" creationdate="20180707T105737Z">
+        <seg>Questa finestra di dialogo è composta da tre schede: &lt;f9&gt;Linea&lt;/f9&gt;, &lt;f10&gt;Stili linee&lt;/f10&gt;, ed &lt;f11&gt;Estremità linee&lt;/f11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
