@@ -22557,6 +22557,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To move an object (or a group of objects), select it and then click within the object borders and hold down the left mouse button while dragging the mouse.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T062053Z" creationid="manuel" creationdate="20180707T062053Z">
+        <seg>Per spostare un oggetto (o un gruppo di oggetti), selezionatelo e fate clic all'interno dei bordi dell'oggetto, quindi tenete premuto il pulsante sinistro del mouse mentre trascinate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To navigate from one comment to another, open the Navigator (&lt;f0&gt;F5&lt;/f0&gt;), expand the Comments section, and click on the comment text to move the cursor to the anchor point of the comment in the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T082928Z" creationid="manuel" creationdate="20180628T082928Z">
