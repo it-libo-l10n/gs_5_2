@@ -18568,6 +18568,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sidebar Properties</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095430Z" creationid="manuel" creationdate="20180707T095430Z">
+        <seg>Proprietà della barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Similarly, if you click &lt;f1&gt;Replace All&lt;/f1&gt;, LibreOffice replaces all matches, &lt;f2&gt;without stopping for you to accept each instance&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103914Z" creationid="manuel" creationdate="20180622T103914Z">
@@ -25134,6 +25142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you select an object in your drawing, the sub-sections in Sidebar Properties become active (Figure &lt;t0&gt;195&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095526Z" creationid="manuel" creationdate="20180707T095526Z">
+        <seg>Quando selezionate un oggetto nel disegno, le sottosezioni in Proprietà  della barra laterale diventano attive (Figura &lt;t0&gt;195&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you select one of the menus listed below, a sub-menu drops down to show commands.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214514Z" creationid="Marco Marega" creationdate="20180616T214514Z">
@@ -25962,6 +25978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105157Z" creationid="manuel" creationdate="20180629T105157Z">
         <seg>Potete cambiare i margini direttamente dai righelli trascinandoli con il mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the properties or options of an object without having to open a dialog or use any of the available tools on the various toolbars provided by Draw.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095603Z" creationid="manuel" creationdate="20180707T095603Z">
+        <seg>Potete modificare le proprietà o le opzioni di un oggetto senza dover aprire una finestra di dialogo o utilizzare uno degli strumenti disponibili nelle varie barre degli strumenti fornite da Draw.</seg>
       </tuv>
     </tu>
     <tu>
