@@ -2015,6 +2015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Help&lt;/f0&gt; – contains links to the LibreOffice help system and other miscellaneous functions; for example, &lt;f1&gt;Help&lt;/f1&gt;, &lt;f2&gt;License Information&lt;/f2&gt;, and &lt;f3&gt;Check for Updates&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T144016Z" creationid="Marco Marega" creationdate="20180707T143918Z">
+        <seg>&lt;f0&gt;Aiuto&lt;/f0&gt; – contiene i collegamenti al sistema di aiuto di LibreOffice e varie altre funzioni; ad esempio, &lt;f1&gt;Aiuto&lt;/f1&gt;, &lt;f2&gt;Informazioni sulla licenza&lt;/f2&gt; e &lt;f3&gt;Controlla aggiornamenti&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If&lt;/f0&gt; you se&lt;f1&gt;lec&lt;/f1&gt;t&lt;f2&gt;ed&lt;/f2&gt; &lt;f3&gt;Add caption to each slide&lt;/f3&gt;, &lt;f4&gt;t&lt;/f4&gt;here will be a placeholder for the image caption &lt;f5&gt;(title) on each slide.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085946Z" creationid="luke" creationdate="20180515T085946Z">
