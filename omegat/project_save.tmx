@@ -1935,6 +1935,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Format&lt;/f0&gt; – contains commands for modifying the layout of a spreadsheet; for example, &lt;f1&gt;Cells&lt;/f1&gt;, &lt;f2&gt;Page&lt;/f2&gt;, &lt;f3&gt;Styles and Formatting&lt;/f3&gt;, &lt;f4&gt;Alignment&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T142812Z" creationid="Marco Marega" creationdate="20180707T142812Z">
+        <seg>&lt;f0&gt;Formato&lt;/f0&gt; – contiene comandi per modificare l'aspetto di un foglio di lavoro; ad esempio, &lt;f1&gt;Celle&lt;/f1&gt;, &lt;f2&gt;Pagina&lt;/f2&gt;, &lt;f3&gt;Stili e formattazione&lt;/f3&gt;, &lt;f4&gt;Allineamento&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Frame styles&lt;/f0&gt; are used to format graphic and text frames, including text wrap, borders, backgrounds, and columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144454Z" creationid="manuel" creationdate="20180611T144454Z">
