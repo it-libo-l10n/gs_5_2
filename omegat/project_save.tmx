@@ -1895,6 +1895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;For m&lt;/f0&gt;ore information on editing objects and changing attributes, &lt;f1&gt;see&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Chapter 4, Changing Object Attributes, in the &lt;f3&gt;Draw Guide.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T085246Z" creationid="manuel" creationdate="20180707T085246Z">
+        <seg>&lt;f0&gt;Per&lt;/f0&gt; maggiori informazioni sulla modifica degli oggetti e dei loro attributi, &lt;f1&gt;vedere&lt;/f1&gt; il&lt;f2&gt; &lt;/f2&gt;Capitolo 4 (Modificare gli attributi degli oggetti) nella &lt;f3&gt;Guida a Draw.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;For more information, refer to the Help or to Chapter 17, Fields, in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Writer Guide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T062402Z" creationid="manuel" creationdate="20180628T172644Z">
