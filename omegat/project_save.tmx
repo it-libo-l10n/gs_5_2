@@ -6725,6 +6725,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Context menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095917Z" creationid="manuel" creationdate="20180707T095917Z">
+        <seg>Menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Context menus</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190433Z" creationid="Marco Marega" creationdate="20180620T190433Z">
@@ -8827,6 +8835,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095412Z" creationid="manuel" creationdate="20180707T095412Z">
         <seg>Figura &lt;seq0&gt;194&lt;/seq0&gt;: barra degli strumenti Formattazione del testo e strumenti disponibili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;195&lt;/seq0&gt;: Sub-sections in Sidebar Properties</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095854Z" creationid="manuel" creationdate="20180707T095854Z">
+        <seg>Figura &lt;seq0&gt;195&lt;/seq0&gt;: sottosezioni in Proprietà della barra laterale</seg>
       </tuv>
     </tu>
     <tu>
@@ -22684,6 +22700,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To expand a sub-section, click on the plus (+) sign or arrow next to the sub-section title.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095754Z" creationid="manuel" creationdate="20180707T095754Z">
+        <seg>Per espandere una sottosezione, fate clic su simbolo più (+) oppure sulla  freccia vicino al titolo della sottosezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To export a template from a template &lt;f0&gt;category&lt;/f0&gt; to another location &lt;f1&gt;in your computer or network&lt;/f1&gt;:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143434Z" creationid="manuel" creationdate="20180616T143434Z">
@@ -24830,6 +24854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When an object is selected and you right-click on the object, a context menu (Figure &lt;t0&gt;196&lt;/t0&gt;) opens that applies to the selected object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095950Z" creationid="manuel" creationdate="20180707T095950Z">
+        <seg>Quando un oggetto è selezionato e fate clic su di esso con il pulsante destro del mouse, si apre un menu contestuale (Figura &lt;t0&gt;196&lt;/t0&gt;) relativo all'oggetto selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When asked, confirm that you want to overwrite the old file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101346Z" creationid="manuel" creationdate="20180615T162723Z">
@@ -25144,8 +25176,8 @@
       <tuv lang="EN">
         <seg>When you select an object in your drawing, the sub-sections in Sidebar Properties become active (Figure &lt;t0&gt;195&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095526Z" creationid="manuel" creationdate="20180707T095526Z">
-        <seg>Quando selezionate un oggetto nel disegno, le sottosezioni in Proprietà  della barra laterale diventano attive (Figura &lt;t0&gt;195&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095906Z" creationid="manuel" creationdate="20180707T095526Z">
+        <seg>Quando selezionate un oggetto nel disegno, le sottosezioni in Proprietà della barra laterale diventano attive (Figura &lt;t0&gt;195&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25954,6 +25986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063427Z" creationid="manuel" creationdate="20180626T063427Z">
         <seg>Potete cambiare la lingua del &lt;i0/&gt;dizionario (ad esempio Spagnolo, Francese o Tedesco) nella finestra di dialogo Controllo ortografico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change object attributes without having to open a dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T100023Z" creationid="manuel" creationdate="20180707T100023Z">
+        <seg>Potete modificare gli attributi dell'oggetto senza dover aprire una finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
