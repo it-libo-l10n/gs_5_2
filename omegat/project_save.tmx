@@ -8887,6 +8887,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;197&lt;/seq0&gt;: Common line properties (style, color, width)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105305Z" creationid="manuel" creationdate="20180707T105305Z">
+        <seg>Figura &lt;seq0&gt;197&lt;/seq0&gt;: proprietà comuni alle linee (stile, colore, spessore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Font list (Left) with preview; (Right) without preview</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062642Z" creationid="manuel" creationdate="20180531T062642Z">
@@ -13047,6 +13055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In LibreOffice the term &lt;f0&gt;line&lt;/f0&gt; indicates both a freestanding segment (line), outer edge of a shape (border), or an arrow.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105107Z" creationid="manuel" creationdate="20180707T105107Z">
+        <seg>In LibreOffice il termine &lt;f0&gt;linea&lt;/f0&gt; indica sia un segmento di retta a sé (linea), sia il margine esterno di una forma (bordo), sia una freccia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In LibreOffice, select &lt;f0&gt;Tools &gt; Extension Manager&lt;/f0&gt; from the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160450Z" creationid="manuel" creationdate="20180615T160450Z">
@@ -13259,6 +13275,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T161041Z" creationid="manuel" creationdate="20180626T161041Z">
         <seg>Nella maggiora parte dei casi Annulla (&lt;f0&gt;Ctrl+Z&lt;/f0&gt;) corregge il problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases the properties of the line you can modify are its style (solid, dashed, invisible, and so on), its width, and its color.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105155Z" creationid="manuel" creationdate="20180707T105155Z">
+        <seg>Nella maggior parte dei casi le proprietà della linea che potete modificare sono il suo stile (piena, tratteggiata, invisibile, e così via), il suo spessore e il suo colore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18228,6 +18252,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T064308Z" creationid="manuel" creationdate="20180609T064308Z">
         <seg>Seleziona le lingue utilizzate per il correttore ortografico, il dizionario e le funzioni di sillabazione di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the line you need to format and then use the controls on the Line and Filling toolbar to change the most common options (highlighted in Figure &lt;t0&gt;197&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105252Z" creationid="manuel" creationdate="20180707T105252Z">
+        <seg>Selezionate la linea che dovete formattare e poi usate i controlli sulla barra degli strumenti Stile e riempimento per cambiare le più comuni opzioni (evidenziate in Figura &lt;t0&gt;197&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
