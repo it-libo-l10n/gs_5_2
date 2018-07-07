@@ -4812,8 +4812,8 @@
       <tuv lang="EN">
         <seg>By default, the Color Bar is displayed below the workspace.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180704T150604Z" creationid="manuel" creationdate="20180704T150604Z">
-        <seg>Per impostazione predefinita, la barra dei colori viene visualizzata sotto lo spazio di lavoro.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T091119Z" creationid="manuel" creationdate="20180704T150604Z">
+        <seg>Per impostazione predefinita, la barra dei colori viene visualizzata sotto l'area di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14546,8 +14546,8 @@
       <tuv lang="EN">
         <seg>Line style, line width, and line color can also be changed using the controls in the Line and Filling toolbar at the top of the workspace.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180703T173139Z" creationid="manuel" creationdate="20180703T173139Z">
-        <seg>Lo stile, la larghezza e il colore della linea possono essere modificati anche usando i controlli sulla barra degli strumenti Stile e riempimento, nella parte alta dello spazio di lavoro.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T091138Z" creationid="manuel" creationdate="20180703T173139Z">
+        <seg>Lo stile, la larghezza e il colore della linea possono essere modificati anche usando i controlli sulla barra degli strumenti Stile e riempimento, nella parte alta dell'area di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20533,6 +20533,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161133Z" creationid="manuel" creationdate="20180616T161133Z">
         <seg>Menu e barre degli strumenti sono descritti nel Capitolo 1 (Introduzione a LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most common object attributes can be edited using this toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T091337Z" creationid="manuel" creationdate="20180707T091337Z">
+        <seg>Gli attributi degli oggetti più comuni possono essere modificati utilizzando questa barra degli strumenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26832,8 +26840,8 @@
       <tuv lang="EN">
         <seg>You should &lt;i0/&gt;see rulers (bars with numbers) on the upper and left-hand sides of the workspace.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105110Z" creationid="manuel" creationdate="20180629T105110Z">
-        <seg>Dovreste &lt;i0/&gt;vedere i righelli (barre con numeri) sui lati superiore e sinistro dello spazio di lavoro.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T091202Z" creationid="manuel" creationdate="20180629T105110Z">
+        <seg>Dovreste &lt;i0/&gt;vedere i righelli (barre con numeri) sui lati superiore e sinistro dell'area di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
