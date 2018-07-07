@@ -3888,6 +3888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An area fill can be made partly or wholly transparent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T110052Z" creationid="manuel" creationdate="20180707T110052Z">
+        <seg>Il riempimento dell'area può essere parzialmente o totalmente trasparente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example is shown in Figure &lt;t5&gt;29&lt;/t5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093050Z" creationid="manuel" creationdate="20180606T093050Z">
@@ -4188,6 +4196,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184624Z" creationid="Elisabetta Manuele" creationdate="20180620T184624Z">
         <seg>Disporre, allineare e distribuire gli oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrowheads are only applicable to lines and they have no effect on the border of an object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T110021Z" creationid="manuel" creationdate="20180707T110021Z">
+        <seg>I terminali possono essere applicati solo alle linee e non hanno effetto sul bordo di un oggetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8103,6 +8119,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each end of a line can have a different arrowhead or no arrowhead).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T110014Z" creationid="manuel" creationdate="20180707T110014Z">
+        <seg>Ogni estremità di linea può avere un diverso terminale, oppure non averne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each mouse click sets a corner point and allows you to continue drawing another straight line from the corner point.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T103842Z" creationid="manuel" creationdate="20180704T103842Z">
@@ -8923,6 +8947,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105305Z" creationid="manuel" creationdate="20180707T105305Z">
         <seg>Figura &lt;seq0&gt;197&lt;/seq0&gt;: proprietà comuni alle linee (stile, colore, spessore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;198&lt;/seq0&gt;: Arrowheads menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T110005Z" creationid="manuel" creationdate="20180707T110005Z">
+        <seg>Figura &lt;seq0&gt;198&lt;/seq0&gt;: menu Estremità linea</seg>
       </tuv>
     </tu>
     <tu>
@@ -13347,6 +13379,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175114Z" creationid="Elisabetta Manuele" creationdate="20180627T175114Z">
         <seg>Generalmente, potete interagire solo con la finestra di dialogo (e non con il documento stesso) finché la finestra di dialogo rimane aperta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases, you will choose one of the standard fill options, which are all available from the Line and Filling toolbar, or the &lt;f2&gt;Area&lt;/f2&gt; sub-section in Sidebar Properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T110229Z" creationid="manuel" creationdate="20180707T110229Z">
+        <seg>Nella maggior parte dei casi sceglierete una delle opzioni predefinite di riempimento, disponibili sulla barra degli strumenti Stile e riempimento, o dalla sottosezione &lt;f2&gt;Area&lt;/f2&gt; nelle Proprietà della barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18064,6 +18104,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a line and click on the &lt;f0&gt;Arrow Style&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; from the Line and Filling toolbar to open the &lt;f3&gt;Arrowheads&lt;/f3&gt; menu (Figure &lt;t4&gt;198&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105954Z" creationid="manuel" creationdate="20180707T105954Z">
+        <seg>Selezionate una linea e fate clic sull'icona &lt;f0&gt;Stile estremità linea&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; dalla barra degli strumenti Stile e riempimento per aprire il menu &lt;f3&gt;Estremità linea&lt;/f3&gt; (Figura &lt;t4&gt;198&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select an object with a single click.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072456Z" creationid="luke" creationdate="20180515T072456Z">
@@ -18652,6 +18700,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204616Z" creationid="Marco Marega" creationdate="20180531T213426Z">
         <seg>Numerose estensioni vengono installate con il programma e potete ottenerne delle altre dall'archivio ufficiale delle estensioni, &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Several types of arrowheads are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T110007Z" creationid="manuel" creationdate="20180707T110007Z">
+        <seg>Sono disponibili differenti tipi di estremità di linea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21157,6 +21213,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T074819Z" creationid="manuel" creationdate="20180616T074819Z">
         <seg>I modelli sono disponibili per l'uso attraverso &lt;f0&gt;File &gt; Modelli &gt; Gestisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;modelli&lt;/f2&gt;&lt;/f1&gt; e &lt;f3&gt;File &gt; Nuovo &gt; Modelli&lt;/f3&gt; e le estensioni sono elencati in Gestione estensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The term &lt;f0&gt;area fill&lt;/f0&gt; refers to the inside of an object, which can be a uniform color, gradient, hatching pattern, or bitmap (Figure &lt;t1&gt;199&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T110045Z" creationid="manuel" creationdate="20180707T110045Z">
+        <seg>Il termine &lt;f0&gt;riempimento dell'area&lt;/f0&gt; si riferisce all'interno di un oggetto, che può essere un colore uniforme, una sfumatura, un tratteggio, o bitmap (Figura &lt;t1&gt;199&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25978,6 +26042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161324Z" creationid="manuel" creationdate="20180628T161324Z">
         <seg>Potete anche creare dei riferimenti personalizzati; vedere “Impostare riferimenti” nel Capitolo 1&lt;f4&gt;6&lt;/f4&gt; (Lavorare con i comandi di campo) nella &lt;f5&gt;Guida a Writer&lt;/f5&gt; per istruzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also define your own area fills.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T110238Z" creationid="manuel" creationdate="20180707T110238Z">
+        <seg>Potete anche definire riempimenti d'area personalizzati.</seg>
       </tuv>
     </tu>
     <tu>
