@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9679,6 +9679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;86&lt;/seq0&gt;: Calc main &lt;f1&gt;window&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T140312Z" creationid="Marco Marega" creationdate="20180707T140312Z">
+        <seg>Figura &lt;seq0&gt;86&lt;/seq0&gt;: la &lt;f1&gt;finestra&lt;/f1&gt; principale di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Properties panel of Sidebar in Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221658Z" creationid="Marco Marega" creationdate="20180620T221658Z">
@@ -13201,8 +13209,8 @@
       <tuv lang="EN">
         <seg>In Calc, each sheet can have a maximum of 1,048,576 rows (65,536 rows in Calc 3.2 and earlier) and a maximum of 1024 columns.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135640Z" creationid="Marco Marega" creationdate="20180707T135640Z">
-        <seg>In Calc, ogni foglio può avere un massimo di 1.048.576 righe (65.536 righe in Calc 3.2 e precedenti) e 1024 colonne.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T140159Z" creationid="Marco Marega" creationdate="20180707T135640Z">
+        <seg>In Calc, ogni foglio di lavoro può avere un massimo di 1.048.576 righe (65.536 righe in Calc 3.2 e precedenti) e 1024 colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19322,8 +19330,8 @@
       <tuv lang="EN">
         <seg>Spreadsheets consist of a number of individual &lt;i2/&gt;&lt;f3&gt;sheets&lt;/f3&gt;, each sheet containing cells arranged in rows and columns.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T132456Z" creationid="Marco Marega" creationdate="20180707T132456Z">
-        <seg>I fogli elettronici sono formati da un certo numero di singoli &lt;i2/&gt;&lt;f3&gt;fogli&lt;/f3&gt;, ognuno contenente delle celle disposte in righe e colonne.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T140233Z" creationid="Marco Marega" creationdate="20180707T132456Z">
+        <seg>I fogli elettronici sono formati da un certo numero di &lt;i2/&gt;&lt;f3&gt;fogli di lavoro&lt;/f3&gt; singoli, ognuno contenente delle celle disposte in righe e colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19836,6 +19844,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104908Z" creationid="manuel" creationdate="20180615T104908Z">
         <seg>Si apre la finestra &lt;f4&gt;Salva come modello&lt;/f4&gt; (Figura &lt;t5&gt;53&lt;/t5&gt;), che mostra le &lt;f6&gt;categorie esistenti e una casella di testo per inserire un nome per il nuovo modello.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;i0/&gt;Title bar, located at the top, shows the name of the current spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135928Z" creationid="Marco Marega" creationdate="20180707T135928Z">
+        <seg>La &lt;i0/&gt;barra del titolo, posizionata nella parte superiore della finestra, mostra il nome del foglio elettronico attualmente in uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21233,6 +21249,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The parts of this window are described below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135843Z" creationid="Marco Marega" creationdate="20180707T135843Z">
+        <seg>Le parti che compongono questa finestra sono descritte qui di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The pointer turns into a double-headed arrow and displays the current setting in a tool-tip.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T162204Z" creationid="manuel" creationdate="20180627T162115Z">
@@ -22405,6 +22429,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085940Z" creationid="luke" creationdate="20180515T085940Z">
         <seg>Suggerimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Title bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135847Z" creationid="Marco Marega" creationdate="20180707T135847Z">
+        <seg>Barra del titolo</seg>
       </tuv>
     </tu>
     <tu>
@@ -25318,6 +25350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When Calc is started, the &lt;i0/&gt;main window opens (Figure &lt;t1&gt;86&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135805Z" creationid="Marco Marega" creationdate="20180707T135805Z">
+        <seg>Quando Calc viene avviato, si apre la &lt;i0/&gt;finestra principale (Figura &lt;t1&gt;86&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When LibreOffice is installed on computers running Windows or Linux, a Quickstarter feature may also be installed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203417Z" creationid="Marco Marega" creationdate="20180607T203417Z">
@@ -25386,6 +25426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T105413Z" creationid="manuel" creationdate="20180616T105413Z">
         <seg>Quando appare una finsetra di dialogo in cui vi chiede conferma dell'eliminazione, fate clic &lt;f4&gt;Sì&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a spreadsheet is newly created from a template or a blank document, its name is &lt;f1&gt;Untitled X&lt;/f1&gt;, where &lt;f2&gt;X&lt;/f2&gt; is a number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T140136Z" creationid="Marco Marega" creationdate="20180707T140136Z">
+        <seg>Quando un foglio elettronico viene creato da un modello o come documento vuoto, il suo nome è &lt;f1&gt;Senza nome X&lt;/f1&gt;, dove &lt;f2&gt;X&lt;/f2&gt; è un numero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25706,6 +25754,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143503Z" creationid="manuel" creationdate="20180608T143503Z">
         <seg>Durante il salvataggio, queste impostazioni vengono salvate con il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you save a spreadsheet for the first time, you are prompted to enter a name of your choice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T140249Z" creationid="Marco Marega" creationdate="20180707T140249Z">
+        <seg>Quando salvate un foglio elettronico per la prima volta, vi sarà richiesto di inserire un nome di vostra scelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you select an item on the &lt;i0/&gt;Menu bar, a sub-menu drops down to show commands.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T140455Z" creationid="Marco Marega" creationdate="20180707T140455Z">
+        <seg>Quando selezionate un elemento nella barra del &lt;i0/&gt;Menu, compare un sotto-menu che mostra i comandi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28430,6 +28494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>main window, description</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135725Z" creationid="Marco Marega" creationdate="20180707T135725Z">
+        <seg>finestra principale, descrizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>manual</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084958Z" creationid="manuel" creationdate="20180627T084958Z">
@@ -28458,6 +28530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T142307Z" creationid="manuel" creationdate="20180530T081315Z">
         <seg>opzioni memoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>menu bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T140318Z" creationid="Marco Marega" creationdate="20180707T140318Z">
+        <seg>barra dei menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -28954,6 +29034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T094056Z" creationid="manuel" creationdate="20180606T094056Z">
         <seg>margini di testo (mostra/nascondi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>title bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135855Z" creationid="Marco Marega" creationdate="20180707T135855Z">
+        <seg>barra del titolo</seg>
       </tuv>
     </tu>
     <tu>
