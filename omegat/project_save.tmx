@@ -4802,6 +4802,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the &lt;f0&gt;Line and Filling&lt;/f0&gt; toolbar is not shown in Draw.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T090249Z" creationid="manuel" creationdate="20180707T090249Z">
+        <seg>Per impostazione predefinita, la barra degli strumenti &lt;f0&gt;Stile e riempimento&lt;/f0&gt; non viene visualizzata in Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the Color Bar is displayed below the workspace.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T150604Z" creationid="manuel" creationdate="20180704T150604Z">
@@ -4812,8 +4820,8 @@
       <tuv lang="EN">
         <seg>By default, the Line and Filling toolbar is not shown, but you can display it from the &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T090014Z" creationid="manuel" creationdate="20180703T145011Z">
-        <seg>Per impostazione predefinita, la barra degli strumenti Stile e riempimento non viene visualizzata, ma potetee visualizzarla dal menu &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T090304Z" creationid="manuel" creationdate="20180703T145011Z">
+        <seg>Per impostazione predefinita, la barra degli strumenti Stile e riempimento non viene visualizzata, ma potete visualizzarla dal menu &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
