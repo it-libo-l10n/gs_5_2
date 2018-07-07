@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10017,8 +10017,8 @@
       <tuv lang="EN">
         <seg>For a more detailed description on the use of glue points, see&lt;f1&gt; &lt;/f1&gt;Chapter 3, Working with Objects and Object Points, and Chapter 8, Connections, Flowcharts, and Organization Charts, &lt;f2&gt;in &lt;s3/&gt;the &lt;/f2&gt;&lt;f4&gt;Draw Guide&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095524Z" creationid="manuel" creationdate="20180705T095524Z">
-        <seg>Per una descrizione più dettagliata sull'utilizzo dei punti di incollaggio, vedere il&lt;f1&gt; &lt;/f1&gt;Capitolo 3 (Lavorare con gli Oggetti e i Punti degli Oggetti) e il Capitolo 8 (Connessioni, diagrammi di flusso e grafici organizzativi) &lt;f2&gt;nella &lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Guida a Draw&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T135657Z" creationid="manuel" creationdate="20180705T095524Z">
+        <seg>Per una descrizione più dettagliata sull'utilizzo dei punti di incollaggio, vedere il&lt;f1&gt; &lt;/f1&gt;Capitolo 3 (Lavorare con gli oggetti e i punti degli oggetti) e il Capitolo 8 (Connessioni, diagrammi di flusso e grafici organizzativi) &lt;f2&gt;nella &lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Guida a Draw&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
