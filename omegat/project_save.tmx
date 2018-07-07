@@ -22419,6 +22419,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To display it, go to &lt;f1&gt;View &gt; Toolbars &gt; Line and Filling&lt;/f1&gt; on the Menu bar to open the toolbar (Figure &lt;t2&gt;193&lt;/t2&gt;) at the top of the workspace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T091051Z" creationid="manuel" creationdate="20180707T091051Z">
+        <seg>Per visualizzarlo, andate su &lt;f1&gt;Visualizza &gt; Barre degli strumenti &gt; Stile e riempimento&lt;/f1&gt; nella barra dei menu per aprire la barra degli strumenti (Figura &lt;t2&gt;193&lt;/t2&gt;) nella parte superiore dell'area di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To display or hide the various &lt;i0/&gt;Draw toolbars&lt;i1/&gt;, go to &lt;f2&gt;View &gt; Toolbars&lt;/f2&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T144443Z" creationid="manuel" creationdate="20180703T144119Z">
