@@ -12975,6 +12975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have selected a range of cells that is also a named range, the name of the range is shown in this box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220600Z" creationid="Marco Marega" creationdate="20180707T220600Z">
+        <seg>Se avete selezionato un intervallo di celle al quale è stato anche assegnato un nome, il nome dell'intervallo verrà visualizzato in questa casella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have this option set, recovering your document after a system crash will be easier.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144305Z" creationid="manuel" creationdate="20180608T144305Z">
@@ -21181,6 +21189,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T101516Z" creationid="manuel" creationdate="20180629T101516Z">
         <seg>La barra dei livelli è posizionata nella parte inferiore dell'area di lavoro e contiene le guide per la selezione dei livelli e il comando di livello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The letter indicates the column and the number indicates the row of the selected cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220419Z" creationid="Marco Marega" creationdate="20180707T220419Z">
+        <seg>La lettera indica la colonna ed il numero la riga della cella selezionata.</seg>
       </tuv>
     </tu>
     <tu>
