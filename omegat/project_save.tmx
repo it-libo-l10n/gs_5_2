@@ -8655,6 +8655,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;187&lt;/seq0&gt;: Position toolbar and available tools</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T061602Z" creationid="manuel" creationdate="20180707T061602Z">
+        <seg>Figura &lt;seq0&gt;187&lt;/seq0&gt;: barre degli strumenti Posizione e strumenti disponibili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083955Z" creationid="manuel" creationdate="20180530T083955Z">
@@ -19489,6 +19497,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The arrange options are also available by clicking on the small triangle to the right of the &lt;f0&gt;Arrange&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Line and Filling toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T061444Z" creationid="manuel" creationdate="20180707T061444Z">
+        <seg>Queste opzioni sono anche disponibili facendo clic sul piccolo triangolo o freccia a destra dell'icona &lt;f0&gt;Disponi&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; sulla barra degli strumenti Linea e riempimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The arrowhead is drawn at the end point of the arrow when you release the mouse button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T162336Z" creationid="manuel" creationdate="20180704T162336Z">
@@ -21293,6 +21309,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064757Z" creationid="manuel" creationdate="20180614T064757Z">
         <seg>Il nuovo stile viene applicato soltanto al documento attuale e non viene salvato nel modello di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This opens the &lt;f3&gt;Position&lt;/f3&gt; toolbar giving access to the various arrangement options (Figure &lt;t4&gt;187&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T061526Z" creationid="manuel" creationdate="20180707T061526Z">
+        <seg>In tal modo si apre la barra degli strumenti &lt;f3&gt;Posizione&lt;/f3&gt; che dà accesso alle varie opzioni di disposizione (Figura &lt;t4&gt;187&lt;/t4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24354,6 +24378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155834Z" creationid="manuel" creationdate="20180608T155834Z">
         <seg>Nell'importazione di numeri da una pagina HTML, i caratteri separatori dei decimali e delle migliaia differiscono a seconda dell'area geografica della pagina HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When moving an object or changing its size, check the left-hand area of the status bar at the bottom of the Draw window (Figure &lt;t0&gt;188&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T061637Z" creationid="manuel" creationdate="20180707T061637Z">
+        <seg>Quando spostate un oggetto o ne modificate le dimensioni, controllate l'area sinistra della barra di stato, nella parte bassa della finestra di Draw (Figura &lt;t0&gt;188&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
