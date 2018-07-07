@@ -13655,6 +13655,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a spreadsheet the term “function” covers much more than just mathematical functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T222446Z" creationid="Marco Marega" creationdate="20180707T222446Z">
+        <seg>In un foglio elettronico il termine “funzione” comprende molto di più delle sole funzioni matematiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to alphabetical indexes, other types of indexes supplied with Writer include those for illustrations, tables, and objects, and you can even create a user-defined index.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144238Z" creationid="manuel" creationdate="20180628T144238Z">
@@ -26122,6 +26130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151410Z" creationid="manuel" creationdate="20180630T151410Z">
         <seg>Quando modificate uno stile, le modifiche vengono applicate automaticamente a tutti gli elementi formattati con questo stile di immagine nel vostro disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you enter new data into a cell, the Sum and Function icons change to &lt;f0&gt;Cancel&lt;/f0&gt; and &lt;f1&gt;Accept&lt;/f1&gt; icons &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T222313Z" creationid="Marco Marega" creationdate="20180707T222313Z">
+        <seg>Mentre inserite dei nuovi dati in una cella, le icone Somma e Funzione si trasformano nelle icone &lt;f0&gt;Annulla&lt;/f0&gt; ed &lt;f1&gt;Accetta&lt;/f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
