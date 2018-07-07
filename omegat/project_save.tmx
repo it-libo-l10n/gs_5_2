@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3312,6 +3312,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ability to open, edit, and save Microsoft Excel spreadsheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131832Z" creationid="Marco Marega" creationdate="20180707T131832Z">
+        <seg>Possibilità di aprire, modificare, e salvare fogli elettronici di Microsoft Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access setup options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173358Z" creationid="Elisabetta Manuele" creationdate="20180627T173358Z">
@@ -4998,6 +5006,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181436Z" creationid="Elisabetta Manuele" creationdate="20180620T181436Z">
         <seg>Finestra principale di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc works with elements called &lt;i0/&gt;&lt;f1&gt;spreadsheets&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T132309Z" creationid="Marco Marega" creationdate="20180707T132309Z">
+        <seg>Calc lavora con degli elementi chiamati &lt;i0/&gt;&lt;f1&gt;fogli elettronici&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12951,6 +12967,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to use macros written in Microsoft Excel using the VBA macro code in LibreOffice, you must first edit the code in the LibreOffice Basic IDE editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T132029Z" creationid="Marco Marega" creationdate="20180707T132029Z">
+        <seg>Se volete utilizzare in LibreOffice le macro scritte in Microsoft Excel usando il codice VBA, dovrete prima modificare il codice nell'editor IDE Basic di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want your new style to be linked with an existing style, first select that style and then right-click and select &lt;f0&gt;New&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063429Z" creationid="manuel" creationdate="20180614T063429Z">
@@ -13011,6 +13035,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105301Z" creationid="manuel" creationdate="20180705T105301Z">
         <seg>Immagini create da altri programmi, incluse fotografie prese con macchine fotografiche digitali (&lt;f0&gt;Inserisci  &gt;Immagine &gt; Da File&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import and export of spreadsheets in multiple formats, including HTML, CSV, PDF, and PostScript.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131907Z" creationid="Marco Marega" creationdate="20180707T131907Z">
+        <seg>Importazione ed esportazione di fogli elettronici in molteplici formati, inclusi HTML, CSV, PDF, e PostScript</seg>
       </tuv>
     </tu>
     <tu>
@@ -17664,6 +17696,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;f0&gt;Chapter 13 Getting Started with Macros&lt;/f0&gt; and &lt;f1&gt;Calc Guide Chapter 12 Calc Macros&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T132157Z" creationid="Marco Marega" creationdate="20180707T132157Z">
+        <seg>Vedete il &lt;f0&gt;Capitolo 13 (Primi passi con le macro)&lt;/f0&gt; ed il &lt;f1&gt;Capitolo 12 (Macro) della Guida a Calc&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;f1&gt;Assistive Tools in LibreOffice&lt;/f1&gt; in the Help for other requirements and information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T062221Z" creationid="manuel" creationdate="20180606T104401Z">
@@ -19220,6 +19260,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174941Z" creationid="Elisabetta Manuele" creationdate="20180627T174941Z">
         <seg>Casella numerica (fate clic sulle frecce su e giù per modificare il numero visualizzato nella casella di testo adiacente, oppure digitate nella casella di testo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spreadsheets consist of a number of individual &lt;i2/&gt;&lt;f3&gt;sheets&lt;/f3&gt;, each sheet containing cells arranged in rows and columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T132456Z" creationid="Marco Marega" creationdate="20180707T132456Z">
+        <seg>I fogli elettronici sono formati da un certo numero di singoli &lt;i2/&gt;&lt;f3&gt;fogli&lt;/f3&gt;, ognuno contenente delle celle disposte in righe e colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28710,6 +28758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T132222Z" creationid="Marco Marega" creationdate="20180707T132222Z">
+        <seg>fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sizes for HTML</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155509Z" creationid="manuel" creationdate="20180608T155509Z">
@@ -28754,6 +28810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T082145Z" creationid="manuel" creationdate="20180609T082145Z">
         <seg>opzioni del controllo ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T132205Z" creationid="Marco Marega" creationdate="20180707T132205Z">
+        <seg>fogli elettronici</seg>
       </tuv>
     </tu>
     <tu>
