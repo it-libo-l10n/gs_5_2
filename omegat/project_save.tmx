@@ -13191,6 +13191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Calc, each sheet can have a maximum of 1,048,576 rows (65,536 rows in Calc 3.2 and earlier) and a maximum of 1024 columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135640Z" creationid="Marco Marega" creationdate="20180707T135640Z">
+        <seg>In Calc, ogni foglio può avere un massimo di 1.048.576 righe (65.536 righe in Calc 3.2 e precedenti) e 1024 colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Calc, page styles also include the sequence for printing sheets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144204Z" creationid="manuel" creationdate="20180611T144204Z">
@@ -14579,6 +14587,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164039Z" creationid="manuel" creationdate="20180608T164039Z">
         <seg>Le macro di LibreOffice Basic devono essere situate nell'intestazione del documento HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice Calc can hold up to 32,000 sheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135713Z" creationid="Marco Marega" creationdate="20180707T135713Z">
+        <seg>LibreOffice Calc può contenere fino a 32.000.</seg>
       </tuv>
     </tu>
     <tu>
