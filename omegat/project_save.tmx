@@ -10519,6 +10519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more detailed information about the snap function, see&lt;f0&gt; &lt;/f0&gt;Chapter 3, Working with Objects and Object Points, and Chapter 11, Advanced Draw Techniques, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140006Z" creationid="manuel" creationdate="20180707T140006Z">
+        <seg>Per informazioni più dettagliate sulla funzione di cattura, vedere il&lt;f0&gt; &lt;/f0&gt;Capitolo 3 (Lavorare con gli oggetti e i punti degli oggetti) e il Capitolo 11 (Draw tecniche avanzate) &lt;f1&gt;nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information about text, see&lt;f0&gt; &lt;/f0&gt;Chapter 2, Drawing Basic Shapes, and Chapter 9, Adding and Formatting Text, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094549Z" creationid="manuel" creationdate="20180705T094549Z">
@@ -24410,6 +24418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T172929Z" creationid="manuel" creationdate="20180612T135946Z">
         <seg>Potete utilizzare Formato riempimento per applicare uno stile a più aree differenti velocemente senza dover ritornare alla finestra Stili e Formattazione e fare doppio clic ogni volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Snap &lt;i0/&gt;to grid to position an object to a grid point.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140120Z" creationid="manuel" creationdate="20180707T140113Z">
+        <seg>Usate la cattura  &lt;i0/&gt;alla griglia per posizionare un oggetto su un punto della griglia.</seg>
       </tuv>
     </tu>
     <tu>
