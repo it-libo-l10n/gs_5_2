@@ -10535,6 +10535,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on styles, see Chapter 3, Using Styles and Templates, in this guide;&lt;f0&gt; &lt;/f0&gt;Chapter &lt;f1&gt;8,&lt;/f1&gt; Introduction to Styles, &lt;f2&gt;in the &lt;/f2&gt;&lt;f3&gt;Writer Guide; &lt;/f3&gt;and&lt;f4&gt; &lt;/f4&gt;Chapter 4, Changing Object Attributes, &lt;f5&gt;in &lt;s6/&gt;the &lt;/f5&gt;&lt;f7&gt;Draw Guide.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T112152Z" creationid="manuel" creationdate="20180707T112152Z">
+        <seg>Per maggiori informazioni sugli stili, vedere il Capitolo 3 (Uso di stili e modelli) in questa guida, il&lt;f0&gt; &lt;/f0&gt;Capitolo &lt;f1&gt;8&lt;/f1&gt; (Introduzione agli stili) &lt;f2&gt;nella &lt;/f2&gt;&lt;f3&gt;Guida a Writer &lt;/f3&gt;e il&lt;f4&gt; &lt;/f4&gt;Capitolo 4 (Modificare gli attributi degli oggetti) &lt;f5&gt;nella&lt;s6/&gt; &lt;/f5&gt;&lt;f7&gt;Guida a Draw.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on using Find &amp; Replace, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150949Z" creationid="manuel" creationdate="20180622T103726Z">
@@ -11257,8 +11265,8 @@
       <tuv lang="EN">
         <seg>Grid points, snap &lt;i0/&gt;points and lines, object frames, individual points on objects, or page edges can all be used with the snap function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111649Z" creationid="manuel" creationdate="20180707T111649Z">
-        <seg>I punti della Griglia, i punti di cattura e le linee, le cornici oggetto, i singoli punti sugli oggetti, o i bordi di pagina possono tutti essere usati con la funzione di cattura.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180707T112226Z" creationid="manuel" creationdate="20180707T111649Z">
+        <seg>I punti della Griglia, i &lt;i0/&gt;punti di cattura e le linee, le cornici oggetto, i singoli punti sugli oggetti, o i bordi di pagina possono tutti essere usati con la funzione di cattura.</seg>
       </tuv>
     </tu>
     <tu>
