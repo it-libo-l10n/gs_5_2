@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3816,6 +3816,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, you can enter data and then use Calc in a “What if...” manner by changing some of the data and observing the results without having to retype the entire spreadsheet or sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131451Z" creationid="Marco Marega" creationdate="20180707T131451Z">
+        <seg>Altrimenti, potete inserire i dati e poi usare Calc in modo "What if..." (Cosa succede se...), cambiando alcuni dati ed osservando i risultati, senza dover riscrivere l'intero foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although Draw does not match the functionality of the leading drawing or picture editing programs, it is capable of producing and editing very good 3D drawings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105414Z" creationid="manuel" creationdate="20180705T105414Z">
@@ -4980,8 +4988,8 @@
       <tuv lang="EN">
         <seg>Calc is the spreadsheet component of LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134627Z" creationid="Marco Marega" creationdate="20180623T134627Z">
-        <seg>Calc è il componente per fogli elettronici di LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131037Z" creationid="Marco Marega" creationdate="20180623T134627Z">
+        <seg>Calc è il componente di LibreOffice per i fogli elettronici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26666,6 +26674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T071148Z" creationid="manuel" creationdate="20180606T071148Z">
         <seg>Potete inserire la password principale per abilitare un facile accesso ai siti web che richiedono user name e password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can enter data (usually numerical) in a spreadsheet and then manipulate this data to produce certain results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131141Z" creationid="Marco Marega" creationdate="20180707T131141Z">
+        <seg>Potete inserire dei dati (solitamente numerici) in un foglio elettronico e poi manipolarli per ottenere determinati risultati.</seg>
       </tuv>
     </tu>
     <tu>
