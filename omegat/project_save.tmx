@@ -2007,6 +2007,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Functions&lt;/f0&gt;: This deck contains a single panel, which is the same as the window opened by selecting &lt;f1&gt;Insert &gt; Function...&lt;/f1&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T185707Z" creationid="Marco Marega" creationdate="20180708T185707Z">
+        <seg>&lt;f0&gt;Funzioni&lt;/f0&gt;: Questo pannello contiene un'unica area, che è la stessa della finestra che si apre selezionando &lt;f1&gt;Inserisci &gt; Funzione...&lt;/f1&gt; nella barra del Menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;GNU/Linux&lt;/f0&gt; Kernel version 2.6.18, glibc2 v2.5 or higher, and gtk v2.10.4 or higher</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190531Z" creationid="Marco Marega" creationdate="20180528T190531Z">
@@ -16780,6 +16788,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104511Z" creationid="manuel" creationdate="20180629T104511Z">
         <seg>Può essere aperta solo una sezione per volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the &lt;f4&gt;Contents&lt;/f4&gt; button is absent in the Sidebar’s Navigator panel.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T185606Z" creationid="Marco Marega" creationdate="20180708T185606Z">
+        <seg>Con l'eccezione che il pulsante &lt;f4&gt;Contenuti&lt;/f4&gt; è assente nel pannello del Navigatore nella barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
