@@ -2231,6 +2231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Number Format:&lt;/f0&gt; Quickly change the format of numbers including decimals, currency, dates, or numeric text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T183953Z" creationid="Marco Marega" creationdate="20180708T183953Z">
+        <seg>&lt;f0&gt;Formato numero:&lt;/f0&gt; modifica velocemente il formato dei numeri compresi decimali, valute, date o testi numerici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;ODF format version.&lt;/f0&gt; LibreOffice by default saves documents &lt;i1/&gt;in OpenDocument Format (ODF) version 1.2 Extended.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144841Z" creationid="manuel" creationdate="20180608T144841Z">
@@ -16300,6 +16308,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101932Z" creationid="manuel" creationdate="20180627T101932Z">
         <seg>Numerazione delle pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Numerical and label field controls for Forms are also available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T184204Z" creationid="Marco Marega" creationdate="20180708T184204Z">
+        <seg>Sono inoltre disponibili campi di controllo numerici e testuali.</seg>
       </tuv>
     </tu>
     <tu>
