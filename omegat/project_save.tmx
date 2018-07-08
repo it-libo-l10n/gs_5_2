@@ -20152,6 +20152,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;i0/&gt;Calc status bar (Figure &lt;t1&gt;88&lt;/t1&gt;) provides information about the spreadsheet as well as quick and convenient ways to change some of its features.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T181115Z" creationid="Marco Marega" creationdate="20180708T181115Z">
+        <seg>La &lt;i0/&gt;barra di stato di Calc (Figura &lt;t1&gt;88&lt;/t1&gt;) fornisce informazioni sia sul foglio elettronico, che su modi rapidi e comodi per cambiarne alcune caratteristiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;i0/&gt;Formula Bar &lt;f1&gt;(Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;87&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt; is located at the top of the sheet in the Calc workspace.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T215925Z" creationid="Marco Marega" creationdate="20180707T215925Z">
