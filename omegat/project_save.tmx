@@ -1590,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Alignment&lt;/f0&gt;: Controls to align the text in various ways, including horizontal and vertical alignment, wrapping, indenting, merging, text orientation, and vertical stacking.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T184431Z" creationid="Marco Marega" creationdate="20180708T184431Z">
+        <seg>&lt;f0&gt;Allineamento&lt;/f0&gt;: Campi di controllo Controls per allineare i testi in vari modi, compreso l'allineamento orizzontale e verticale, il ritorno a capo, il rientro, l'unione di celle, l'orientamento del testo e la sovrapposizione verticale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Area:&lt;/f0&gt; Fill and transparency edits are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T143805Z" creationid="manuel" creationdate="20180618T143805Z">
