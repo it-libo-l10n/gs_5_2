@@ -27110,6 +27110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can calculate average &lt;f1&gt;and&lt;/f1&gt; sum, count elements, and more on &lt;f2&gt;the&lt;/f2&gt; selection by &lt;f3&gt;right-&lt;/f3&gt;click&lt;f4&gt;ing&lt;/f4&gt; over the cell information area of the status bar &lt;f5&gt;and selecting the operations you want to display in the status bar.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T181915Z" creationid="Marco Marega" creationdate="20180708T181915Z">
+        <seg>Potete calcolare la media &lt;f1&gt;e&lt;/f1&gt; la somma, contare gli elementi ed effettuare altre operazioni &lt;f2&gt;sulla &lt;/f2&gt; selezione facendo un &lt;f3&gt;clic con il pulsante destro del mouse&lt;/f3&gt; &lt;f4&gt;sopra&lt;/f4&gt; l'area relativa alle informazioni sulla cella presente nella barra di stato&lt;f5&gt; e selezionando le operazioni che volete visualizzare nella barra di stato stessa.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change &lt;i0/&gt;the dictionary language (for example, Spanish, French or German) on the Spelling and Grammar dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063427Z" creationid="manuel" creationdate="20180626T063427Z">
