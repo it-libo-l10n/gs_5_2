@@ -14255,6 +14255,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Individual cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T190212Z" creationid="Marco Marega" creationdate="20180708T190212Z">
+        <seg>Singole celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information about automatic updating for links, field functions and charts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143724Z" creationid="manuel" creationdate="20180608T143724Z">
@@ -19784,6 +19792,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spreadsheet layout</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T190207Z" creationid="Marco Marega" creationdate="20180708T190207Z">
+        <seg>Layout del foglio di lavoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spreadsheets consist of a number of individual &lt;i2/&gt;&lt;f3&gt;sheets&lt;/f3&gt;, each sheet containing cells arranged in rows and columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T140233Z" creationid="Marco Marega" creationdate="20180707T132456Z">
@@ -23218,6 +23234,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To adjust the deck width, drag on the left edge of the sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T190148Z" creationid="Marco Marega" creationdate="20180708T190148Z">
+        <seg>Per regolare la larghezza del pannello, trascinate il bordo sinistro della barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To apply a character style to more than one word, select the characters first.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161738Z" creationid="manuel" creationdate="20180611T161738Z">
@@ -23904,6 +23928,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222550Z" creationid="Marco Marega" creationdate="20180620T222550Z">
         <seg>Per nascondere la Barra laterale, fate clic sul pulsante grigio &lt;f0&gt;Nascondi&lt;/f0&gt; alla sua sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To hide the Sidebar, or reveal it if already hidden, click on the edge Hide/Show button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T190102Z" creationid="Marco Marega" creationdate="20180708T190102Z">
+        <seg>Per nascondere la barra laterale, o visualizzarla se è già nascosta, fate clic sul pulsante Nascondi/Mostra presente sul suo bordo.</seg>
       </tuv>
     </tu>
     <tu>
