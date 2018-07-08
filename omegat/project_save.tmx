@@ -2023,6 +2023,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Gallery&lt;/f0&gt;: This deck contains a single panel, which is the same as that opened by selecting &lt;f1&gt;Gallery&lt;/f1&gt; from the Standard toolbar or &lt;f2&gt;Tools &gt; Gallery&lt;/f2&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T185241Z" creationid="Marco Marega" creationdate="20180708T185241Z">
+        <seg>&lt;f0&gt;Galleria&lt;/f0&gt;: Questo pannello contiene un'unica area, che è la stessa che si apre selezionando &lt;f1&gt;Galleria&lt;/f1&gt; nella barre degli strumenti Standard oppure &lt;f2&gt;Strumenti &gt; Galleria&lt;/f2&gt; nella barra del Menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Getting Started&lt;/f0&gt; Guide</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T111943Z" creationid="luke" creationdate="20180515T082726Z">
@@ -2211,6 +2219,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T083149Z" creationid="manuel" creationdate="20180621T083149Z">
         <seg>&lt;f0&gt;Navigatore&lt;/f0&gt;: sfoglia il documento e riorganizza il suo contenuto selezionando diverse categorie di contenuti, come titoli, tabelle, cornici, grafici, ecc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Navigator&lt;/f0&gt;: This deck contains a single panel, which is essentially the same as the Navigator window opened by clicking the &lt;f1&gt;Navigator&lt;/f1&gt; button on the Standard toolbar or selecting &lt;f2&gt;View &gt; Navigator&lt;/f2&gt; (&lt;f3&gt;F5&lt;/f3&gt;) from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T185421Z" creationid="Marco Marega" creationdate="20180708T185421Z">
+        <seg>&lt;f0&gt;Navigatore&lt;/f0&gt;: Questo pannello contiene un'unica area, che è sostanzialmente la stessa della finestra Navigatore che si apre facendo clic sul pulsante &lt;f1&gt;Navigatore&lt;/f1&gt; nella barre degli strumenti Standard oppure selezionando &lt;f2&gt;Visualizza &gt; Navigatore&lt;/f2&gt; (&lt;f3&gt;F5&lt;/f3&gt;) nella barra del Menu.</seg>
       </tuv>
     </tu>
     <tu>
