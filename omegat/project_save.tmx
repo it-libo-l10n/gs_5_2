@@ -2479,6 +2479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Styles and Formatting:&lt;/f0&gt; This deck contains a single panel, which is the same as that opened by selecting the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; button (&lt;f2&gt;F11&lt;/f2&gt;) from the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T185114Z" creationid="Marco Marega" creationdate="20180708T185114Z">
+        <seg>&lt;f0&gt;Stili e formattazione:&lt;/f0&gt; Questo pannello contiene un'unica area, che è la stessa che si apre selezionando il pulsante &lt;f1&gt;Stili e formattazione&lt;/f1&gt; (&lt;f2&gt;F11&lt;/f2&gt;) nella barra degli strumenti Formattazione del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Styles and Formatting&lt;/f0&gt;: Manage the styles used in the document, apply existing styles, create new ones or modify them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T082421Z" creationid="manuel" creationdate="20180621T082421Z">
@@ -8419,6 +8427,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104456Z" creationid="manuel" creationdate="20180704T104456Z">
         <seg>Ogni clic del mouse imposta un angolo e permette di continuare a disegnare un'altra linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each of these panels has a &lt;f0&gt;More Options&lt;/f0&gt; button, which opens a dialog giving a greater number of options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T184906Z" creationid="Marco Marega" creationdate="20180708T184906Z">
+        <seg>Ognuno di questi pannelli contiene un pulsante &lt;f0&gt;Altre opzioni&lt;/f0&gt;, che apre una finestra di dialogo contenente un maggior numero di opzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22293,6 +22309,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163525Z" creationid="manuel" creationdate="20180703T163525Z">
         <seg>Questi colori saranno correttamente rappresentati su computer con schermi in grado di visualizzare almeno 256 colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These dialogs lock the document for editing until they are closed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T184956Z" creationid="Marco Marega" creationdate="20180708T184956Z">
+        <seg>Queste finestre di dialogo impediscono l'accesso al documento per la modifica fino a quando non vengono chiuse.</seg>
       </tuv>
     </tu>
     <tu>
