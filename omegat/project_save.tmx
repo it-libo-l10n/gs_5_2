@@ -2319,6 +2319,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Properties&lt;/f0&gt;: This deck includes &lt;f1&gt;five&lt;/f1&gt; content panels.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T183140Z" creationid="Marco Marega" creationdate="20180708T183140Z">
+        <seg>&lt;f0&gt;Proprietà&lt;/f0&gt;: Questo pannello comprende &lt;f1&gt;cinque&lt;/f1&gt; aree di contenuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Published &lt;/f0&gt;&lt;f1&gt;16 February&lt;/f1&gt;&lt;f2&gt; 201&lt;/f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173241Z" creationid="Elisabetta Manuele" creationdate="20180620T173241Z">
@@ -2451,6 +2459,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T140558Z" creationid="manuel" creationdate="20180618T140558Z">
         <seg>&lt;f0&gt;Stili:&lt;/f0&gt;&lt;f1&gt;applica&lt;/f1&gt; uno stile di paragrafo nella posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Styles:&lt;/f0&gt; Access to the available cell styles, update cell styles, and new cell styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T183332Z" creationid="Marco Marega" creationdate="20180708T183332Z">
+        <seg>&lt;f0&gt;Stili:&lt;/f0&gt; applica gli stili di cella disponibili, aggiorna gli stili di cella disponibili e crea nuovi stili di cella.</seg>
       </tuv>
     </tu>
     <tu>
