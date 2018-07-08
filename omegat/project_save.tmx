@@ -1663,6 +1663,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Cell Appearance:&lt;/f0&gt; Controls to set the appearance options, including cell background color, cell border formats including line color and style, and grid lines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T184740Z" creationid="Marco Marega" creationdate="20180708T184740Z">
+        <seg>&lt;f0&gt;Aspetto cella:&lt;/f0&gt; Campi di controllo per impostare le opzioni relative all'aspetto, compreso lo sfondo delle celle, il formato dei bordi incluso il loro colore e stile e le linee della griglia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Cell styles&lt;/f0&gt; include fonts, alignment, borders, background, number formats (for example, currency, date, number), and cell protection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144601Z" creationid="manuel" creationdate="20180611T144601Z">
