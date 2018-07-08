@@ -1671,6 +1671,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Character&lt;/f0&gt;: Controls for formatting the text, such as font family, size, and color.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T183539Z" creationid="Marco Marega" creationdate="20180708T183539Z">
+        <seg>&lt;f0&gt;Carattere&lt;/f0&gt;: Campi di controllo per la formattazione del testo, come il tipo di carattere, le sue dimensioni ed il suo colore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Character&lt;/f0&gt;: Modify text by the font type, size, color, weight, style and spacing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T140722Z" creationid="manuel" creationdate="20180618T140722Z">
