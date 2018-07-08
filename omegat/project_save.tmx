@@ -9879,6 +9879,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;88&lt;/seq0&gt;: Calc status bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T181310Z" creationid="Marco Marega" creationdate="20180708T181310Z">
+        <seg>Figura &lt;seq0&gt;88&lt;/seq0&gt;: la barra di stato di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Properties panel of Sidebar in Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221658Z" creationid="Marco Marega" creationdate="20180620T221658Z">
@@ -15796,6 +15804,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T160356Z" creationid="manuel" creationdate="20180608T142727Z">
         <seg>La maggior parte delle voci nella pagina &lt;f0&gt;Carica/salva – Generale&lt;/f0&gt; saranno familiari agli utenti di altre suite per ufficio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of the fields are similar to those in other components of LibreOffice; see &lt;f2&gt;Chapter 1 Introducing LibreOffice&lt;/f2&gt; in this guide and the &lt;f3&gt;Calc Guide Chapter 1 Introducing Calc&lt;/f3&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T181257Z" creationid="Marco Marega" creationdate="20180708T181257Z">
+        <seg>La maggior parte dei campi sono simili a quelli degli altri componenti di LibreOffice; per maggiori informazioni vedete il &lt;f2&gt;Capitolo 1 (Introduzione a LibreOffice)&lt;/f2&gt; di questa guida e il &lt;f3&gt;Capitolo 1 (Introduzione a Calc) della Guida a Calc&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21797,6 +21813,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T145840Z" creationid="manuel" creationdate="20180704T145840Z">
         <seg>L'ordine di sovrapposizione degli oggetti è determinato dalla sequenza in cui aggiungete gli oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The status bar has a quick way to do some math operations on selected cells &lt;f0&gt;in&lt;/f0&gt; the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T181445Z" creationid="Marco Marega" creationdate="20180708T181445Z">
+        <seg>La barra di stato mette a disposizione un modo rapido per effettuare alcune operazioni matematiche sulle celle selezionate &lt;f0&gt;nel&lt;/f0&gt; foglio di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
