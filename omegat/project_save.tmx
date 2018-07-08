@@ -14495,6 +14495,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is a mixture of toolbar and dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T182639Z" creationid="Marco Marega" creationdate="20180708T182639Z">
+        <seg>E' una via di mezzo tra una barra degli strumenti ed una finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is also recommended to save relatively if you want to create a directory structure on an Internet server.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144739Z" creationid="manuel" creationdate="20180608T144739Z">
@@ -19898,8 +19906,8 @@
       <tuv lang="EN">
         <seg>Tab panel</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180618T104230Z" creationid="manuel" creationdate="20180618T104230Z">
-        <seg>Pannello linguettal</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T182436Z" creationid="manuel" creationdate="20180618T104230Z">
+        <seg>Pannello linguetta</seg>
       </tuv>
     </tu>
     <tu>
@@ -20220,6 +20228,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T063552Z" creationid="manuel" creationdate="20180627T063212Z">
         <seg>Le funzioni Elenchi puntati e numerati (palette di strumenti a discesa) nel pannello Paragrafo del pannello Proprietà della barra laterale possono anche essere utilizzate per creare elenchi annidati e accedere alla finestra di dialogo Elenchi puntati e numerati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Calc Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) is located on the right side of the window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T182523Z" creationid="Marco Marega" creationdate="20180708T182523Z">
+        <seg>La barra laterale di Calc (&lt;f0&gt;Visualizza &gt; Barra laterale&lt;/f0&gt;) è situata sul lato destro della finestra.</seg>
       </tuv>
     </tu>
     <tu>
