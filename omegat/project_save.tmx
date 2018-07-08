@@ -19496,6 +19496,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some controls, such as superscript, only become active when the text cursor is active in the Input line of the Formula bar or the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T183828Z" creationid="Marco Marega" creationdate="20180708T183828Z">
+        <seg>Alcuni campi di controllo, come l'apice, diventano attivi solo se è attivo il cursore di testo all'interno della riga di digitazione della barra di calcolo o nella cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some dialogs can be left open as you work, so you can switching back and forth between the dialog and the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175348Z" creationid="Elisabetta Manuele" creationdate="20180627T175348Z">
