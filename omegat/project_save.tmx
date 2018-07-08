@@ -28486,6 +28486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>decks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T182426Z" creationid="Marco Marega" creationdate="20180708T182426Z">
+        <seg>pannelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>default file format</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144747Z" creationid="manuel" creationdate="20180608T144747Z">
