@@ -6853,6 +6853,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on any Tab button reopens the deck.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T185932Z" creationid="Marco Marega" creationdate="20180708T185932Z">
+        <seg>Facendo clic su uno qualsiasi dei pulsanti delle Schede si riapre il pannello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking on the LibreOffice menu entry, desktop icon, or tile opens the LibreOffice Start Center (Figure &lt;t0&gt;2&lt;/t0&gt;) from where you can select the individual components of LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204736Z" creationid="Marco Marega" creationdate="20180531T214616Z">
@@ -24537,6 +24545,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212052Z" creationid="Marco Marega" creationdate="20180616T212052Z">
         <seg>Per chiudere temporaneamente Quickstart su di un computer con sistema operativo Windows, fate clic con il tasto destro del mouse sull'icona di &lt;f0&gt;Quickstart&lt;/f0&gt; nell'area di notifica e nel menu a comparsa selezionate &lt;f1&gt;Termina Quickstart&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To the right side of the title bar of each open deck is a &lt;f0&gt;Close&lt;/f0&gt; button (&lt;f1&gt;X&lt;/f1&gt;), which closes the deck to leave only the Tab bar open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T185856Z" creationid="Marco Marega" creationdate="20180708T185856Z">
+        <seg>Alla destra della barra del titolo di ciascun pannello aperto è presente un pulsante &lt;f0&gt;Chiudi&lt;/f0&gt; (&lt;f1&gt;X&lt;/f1&gt;), che chiude il pannello lasciando aperte solo le icone delle Schede.</seg>
       </tuv>
     </tu>
     <tu>
