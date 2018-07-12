@@ -5210,6 +5210,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CSV files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213227Z" creationid="Marco Marega" creationdate="20180712T213227Z">
+        <seg>file CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc (spreadsheet)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200328Z" creationid="Marco Marega" creationdate="20180527T200328Z">
@@ -18816,6 +18824,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a color and click &lt;f2&gt;OK&lt;/f2&gt; when finished to close the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213037Z" creationid="Marco Marega" creationdate="20180712T213037Z">
+        <seg>Selezionate un colore e quando avete finito fate clic su &lt;f2&gt;OK&lt;/f2&gt; per chiudere la finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a file and then right click to open a context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203400Z" creationid="Marco Marega" creationdate="20180622T203400Z">
@@ -23334,6 +23350,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124202Z" creationid="Marco Marega" creationdate="20180623T124202Z">
         <seg>Per aggiungere una risorsa, navigate fino alla cartella in cui si trova il vostro documento e fate clic sul pulsante &lt;f0&gt;+&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add new colors to this color palette, see &lt;f3&gt;Chapter 14 Customizing LibreOffice&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213119Z" creationid="Marco Marega" creationdate="20180712T213119Z">
+        <seg>Per aggiungere altri colori a questa tavolozza, vedete il &lt;f3&gt;Capitolo 14 (Personalizzare LibreOffice)&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28658,6 +28682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163056Z" creationid="manuel" creationdate="20180703T163056Z">
         <seg>Colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>comma separated values (CSV)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213135Z" creationid="Marco Marega" creationdate="20180712T213135Z">
+        <seg>valori separati da virgola (comma separated values - CSV)</seg>
       </tuv>
     </tu>
     <tu>
