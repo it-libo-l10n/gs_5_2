@@ -4625,6 +4625,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the top of the columns and the left end of the rows are a series of header boxes containing letters and numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211030Z" creationid="Marco Marega" creationdate="20180712T211030Z">
+        <seg>Sopra le colonne e alla sinistra delle righe vi sono una serie di caselle di intestazione contenenti lettere e numeri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Authors and reviewers often use &lt;i0/&gt;comments to exchange ideas, ask for suggestions, or mark items needing attention.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T070810Z" creationid="manuel" creationdate="20180628T070810Z">
@@ -8411,6 +8419,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T172021Z" creationid="manuel" creationdate="20180628T171153Z">
         <seg>Ogni categoria ha &lt;f1&gt;quattro&lt;/f1&gt; livelli BAILS (Business Authorization Identification and Labeling Scheme - schema di etichettatura e identificazione di autorizzazione aziendale): Non-Business (non affari), General Business (affari generali), Confidential (riservato), Internal Only (solo interno).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each cell is formed by the intersection of one column and one row in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T210944Z" creationid="Marco Marega" creationdate="20180712T210835Z">
+        <seg>Ciascuna cella è formata dall'intersezione di una colonna e di una riga del foglio di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20893,6 +20909,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072621Z" creationid="manuel" creationdate="20180531T072621Z">
         <seg>La finestra del colore sulla sinistra è collegata direttamente con i campi di inserimento del colore sulla destra; quando scegliete un colore nella finestra, i numeri cambiano di conseguenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The column headers use an alpha character starting at A and go on to the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211205Z" creationid="Marco Marega" creationdate="20180712T211205Z">
+        <seg>Le intestazioni delle colonne cominciano utilizzano un carattere alfabetico partendo dalla A e proseguono verso destra.</seg>
       </tuv>
     </tu>
     <tu>
