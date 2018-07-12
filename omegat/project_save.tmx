@@ -22225,6 +22225,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The rest, including numbers formatted in scientific notation, will be imported as text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221224Z" creationid="Marco Marega" creationdate="20180712T221134Z">
+        <seg>Gli altri, compresi i numeri formattati in notazione scientifica, saranno importati come testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The result is a multiple selection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065716Z" creationid="manuel" creationdate="20180618T065716Z">
@@ -26682,6 +26690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173119Z" creationid="manuel" creationdate="20180612T150913Z">
         <seg>Se il Modo riempimento è attivo, è sufficiente fare clic con il pulsante destro del mouse in un punto qualsiasi del documento per annullare l'ultima operazione di appplicazione di stile eseguita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this option is disabled, Calc will detect and convert only decimal numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221140Z" creationid="Marco Marega" creationdate="20180712T221124Z">
+        <seg>Se questa opzione è disattivata, Calc individuerà e convertirà solo i numeri in formato decimale.</seg>
       </tuv>
     </tu>
     <tu>
