@@ -16008,6 +16008,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most CSV files come from databases tables, queries, or reports, where further calculations and charting are required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213829Z" creationid="Marco Marega" creationdate="20180712T213829Z">
+        <seg>La maggior parte dei file CSV proviene da tabelle, query o rapporti di database, nei quali è necessaria l'esecuzione di ulteriori di calcoli o la creazione di grafici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most default settings, such as page size and page margins, can be changed in &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;, but those changes apply only to the document you are working on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T075210Z" creationid="manuel" creationdate="20180616T075210Z">
