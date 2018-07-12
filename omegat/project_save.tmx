@@ -23483,6 +23483,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the default name for a sheet (Sheet1, Sheet2, and so on), right-click on a sheet tab and select &lt;f0&gt;Rename Sheet&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T212616Z" creationid="Marco Marega" creationdate="20180712T212616Z">
+        <seg>Per modificare il nome predefinito di un foglio (Foglio1, Foglio2, ecc.), fate clic sulla linguetta di un foglio con il pulsante destro del mouse e dal menu contestuale selezionate &lt;f0&gt;Rinomina foglio&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the download destination, click the &lt;f2&gt;Change&lt;/f2&gt; button and select the required folder in the file browser window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071931Z" creationid="manuel" creationdate="20180608T071931Z">
@@ -27282,6 +27290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103940Z" creationid="manuel" creationdate="20180615T103940Z">
         <seg>Nei modelli è anche possibile salvare le personalizzazioni del menu e della barra degli strumenti; vedere &lt;f0&gt;il Capitolo 14 (Personalizzazione di LibreOffice&lt;/f0&gt;) per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also select multiple sheets by holding down the &lt;f1&gt;Ctrl&lt;/f1&gt; key while clicking on the sheet tabs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T212427Z" creationid="Marco Marega" creationdate="20180712T212427Z">
+        <seg>Potete anche selezionare più schede contemporaneamente tenendo premuto il tasto &lt;f1&gt;Ctrl&lt;/f1&gt; mentre fate clic sulle linguette dei fogli.</seg>
       </tuv>
     </tu>
     <tu>
