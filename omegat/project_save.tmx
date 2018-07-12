@@ -2007,6 +2007,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;From Row&lt;/f0&gt; – specifies the row where you want to start the import.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215313Z" creationid="Marco Marega" creationdate="20180712T215313Z">
+        <seg>&lt;f0&gt;Dalla riga&lt;/f0&gt; – specifica la riga  a partire dalla quale volete iniziare l'importazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Function Wizard&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – &lt;i4/&gt;opens a dialog from which you can search through a list of available functions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T221047Z" creationid="Marco Marega" creationdate="20180707T221047Z">
@@ -12431,6 +12439,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Language is set to a specific language, that language will be used when importing numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215233Z" creationid="Marco Marega" creationdate="20180712T215233Z">
+        <seg>Se invece è impostata una Lingua specifica, questa verrà utilizzata per l'importazione dei numeri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If LibreOffice Writer is selected, specific LibreOffice Writer instructions are exported.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160227Z" creationid="manuel" creationdate="20180608T160227Z">
@@ -22173,6 +22189,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211251Z" creationid="Marco Marega" creationdate="20180712T211251Z">
         <seg>Le intestazioni delle righe utilizzano un carattere numerico a partire da 1 e proseguono verso il basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rows are visible in the preview window at the bottom of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215351Z" creationid="Marco Marega" creationdate="20180712T215351Z">
+        <seg>Le righe sono visibili nell'anteprima nella parte bassa della finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
