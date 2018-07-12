@@ -5098,6 +5098,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, a CSV file has the extension &lt;f1&gt;.csv&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214234Z" creationid="Marco Marega" creationdate="20180712T214234Z">
+        <seg>Per convenzione un file CSV ha l'estensione &lt;f1&gt;.csv&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, a toolbar will dock at the top of the workspace.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T185257Z" creationid="Marco Marega" creationdate="20180620T185238Z">
@@ -11951,6 +11959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can select the various options available when importing a CSV file into a Calc spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214504Z" creationid="Marco Marega" creationdate="20180712T214504Z">
+        <seg>Nella quale potete selezionare diverse opzioni disponibili per l'importazione di un file CSV in un foglio elettronico di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can specify the address (URL) and log-in information for a wiki.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T140837Z" creationid="manuel" creationdate="20180609T140837Z">
@@ -12203,6 +12219,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150619Z" creationid="manuel" creationdate="20180705T150333Z">
         <seg>Comunque, il comando può essere emulato usando lo strumento &lt;f0&gt;Ribalta&lt;/f0&gt;, come descritto &lt;f1&gt;al&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Capitolo 4 (Modificare gli attributi degli oggetti) nella &lt;f3&gt;Guida a Draw.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, some CSV files may have a &lt;f2&gt;.txt&lt;/f2&gt; extension.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214320Z" creationid="Marco Marega" creationdate="20180712T214320Z">
+        <seg>Ciò nonostante alcuni file CSV potrebbero avere l'estensione &lt;f2&gt;.txt&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19104,6 +19128,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the file and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214158Z" creationid="Marco Marega" creationdate="20180712T214158Z">
+        <seg>Selezionate il file e fate clic su &lt;f0&gt;Apri&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the first piece of text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151928Z" creationid="manuel" creationdate="20180621T151928Z">
@@ -20420,6 +20452,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104155Z" creationid="manuel" creationdate="20180606T104155Z">
         <seg>L'opzione &lt;f0&gt;Strumenti per il supporto con tecnologia assistiva&lt;/f0&gt; non viene mostrata in tutte le installazioni di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Text Import&lt;/f0&gt; dialog (Figure &lt;t1&gt;89&lt;/t1&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214356Z" creationid="Marco Marega" creationdate="20180712T214356Z">
+        <seg>Si aprirà la finestra di dialogo &lt;f0&gt;Importazione testo&lt;/f0&gt; (Figura &lt;t1&gt;89&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
