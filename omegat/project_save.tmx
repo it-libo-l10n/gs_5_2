@@ -6242,6 +6242,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to open and import the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214522Z" creationid="Marco Marega" creationdate="20180712T214522Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per aprire ed importare il file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the new style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065155Z" creationid="manuel" creationdate="20180614T065155Z">
@@ -10095,6 +10103,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;89&lt;/seq0&gt;: Text Import dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214648Z" creationid="Marco Marega" creationdate="20180712T214648Z">
+        <seg>Figura &lt;seq0&gt;89&lt;/seq0&gt;: finestra di dialogo Importazione testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Properties panel of Sidebar in Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221658Z" creationid="Marco Marega" creationdate="20180620T221658Z">
@@ -13587,6 +13603,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105301Z" creationid="manuel" creationdate="20180705T105301Z">
         <seg>Immagini create da altri programmi, incluse fotografie prese con macchine fotografiche digitali (&lt;f0&gt;Inserisci  &gt;Immagine &gt; Da File&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214806Z" creationid="Marco Marega" creationdate="20180712T214806Z">
+        <seg>Importa</seg>
       </tuv>
     </tu>
     <tu>
@@ -21933,6 +21957,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T064053Z" creationid="manuel" creationdate="20180531T064053Z">
         <seg>L'opzione &lt;f0&gt;PDF come formato di lavoro di stampa standard&lt;/f0&gt; non è disponibile su Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The options for importing CSV files into a Calc spreadsheet are as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214727Z" creationid="Marco Marega" creationdate="20180712T214727Z">
+        <seg>Le opzioni per importare file CSV in un foglio elettronico di Calc sono le seguenti:</seg>
       </tuv>
     </tu>
     <tu>
