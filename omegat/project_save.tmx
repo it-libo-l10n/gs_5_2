@@ -21561,6 +21561,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main section of the workspace in Calc displays the &lt;i0/&gt;cells in the form of a grid.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T210825Z" creationid="Marco Marega" creationdate="20180712T210825Z">
+        <seg>La sezione principale dello spazio di lavoro mostra le celle disposte &lt;i0/&gt;a griglia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main window is similar for each component of LibreOffice, although some details vary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214007Z" creationid="Marco Marega" creationdate="20180616T214007Z">
