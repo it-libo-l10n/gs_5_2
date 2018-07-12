@@ -7053,6 +7053,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comma-separated-values (CSV) files are spreadsheet files in a text format where cell contents are separated by a character, for example a comma or semicolon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213406Z" creationid="Marco Marega" creationdate="20180712T213406Z">
+        <seg>I file con valori separati da virgole [Comma-separated-values (CSV)] sono dei filedi fogli elettronici in formato testuale, nei quali i contenuti delle celle sono separati da un catattere, ad esempio da una virgola o da un punto e virgola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comments can be printed next to the text in the right margin as they appear on screen.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T083052Z" creationid="manuel" creationdate="20180628T083052Z">
@@ -8507,6 +8515,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T110014Z" creationid="manuel" creationdate="20180707T110014Z">
         <seg>Ogni estremità di linea può avere un diverso terminale, oppure non averne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each line in a CSV text file represents a row in a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213438Z" creationid="Marco Marega" creationdate="20180712T213438Z">
+        <seg>Ogni linea in un file CSV rappresenta una riga di un foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20244,6 +20260,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094246Z" creationid="manuel" creationdate="20180705T094246Z">
         <seg>Le cornici di testo possono anche avere colori di riempimento, ombre e altri attributi, proprio come ogni altro oggetto di Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text is entered between quotation marks; numbers are entered without quotation marks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213526Z" creationid="Marco Marega" creationdate="20180712T213526Z">
+        <seg>Il testo viene inserito tra virgolette, i numeri invece senza le virgolette.</seg>
       </tuv>
     </tu>
     <tu>
