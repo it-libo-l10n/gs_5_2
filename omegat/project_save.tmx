@@ -5210,6 +5210,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CSV file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214024Z" creationid="Marco Marega" creationdate="20180712T214024Z">
+        <seg>file CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CSV files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213227Z" creationid="Marco Marega" creationdate="20180712T213227Z">
@@ -5886,6 +5894,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T162705Z" creationid="manuel" creationdate="20180621T162705Z">
         <seg>Scegliete &lt;f0&gt;Modifica &gt; Incolla speciale&lt;/f0&gt;, oppure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File &gt; Open&lt;/f0&gt; on the Menu bar and locate the CSV file that you want to open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214134Z" creationid="Marco Marega" creationdate="20180712T214134Z">
+        <seg>Scegliete &lt;f0&gt;File &gt; Apri&lt;/f0&gt; nella barra del menu ed individuate il file CSV che desiderate aprire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16568,6 +16584,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On Microsoft Windows, CSV files often have the XLS file name extension to look like an Excel file, but they are still CSV files internally.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214011Z" creationid="Marco Marega" creationdate="20180712T214011Z">
+        <seg>In Microsoft Windows, i file CSV hanno spesso un nome file con l'estensione XLS per sembrare dei file di Excel, nonostante ciò internamente rimangono dei file CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On Windows and Linux, the document closes and the LibreOffice Start Center opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133035Z" creationid="Marco Marega" creationdate="20180623T133035Z">
@@ -24365,6 +24389,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To open a CSV file in Calc:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214034Z" creationid="Marco Marega" creationdate="20180712T214034Z">
+        <seg>Per aprire un file CSV in Calc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To open the AutoCorrect dialog, click &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141127Z" creationid="manuel" creationdate="20180609T141127Z">
@@ -29546,6 +29578,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112445Z" creationid="manuel" creationdate="20180705T112445Z">
         <seg>oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214018Z" creationid="Marco Marega" creationdate="20180712T214018Z">
+        <seg>aprire</seg>
       </tuv>
     </tu>
     <tu>
