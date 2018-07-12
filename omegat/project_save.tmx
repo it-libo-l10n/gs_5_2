@@ -12647,6 +12647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the headers are not visible on the spreadsheet, go to &lt;f1&gt;View&lt;/f1&gt; on the Menu bar and select &lt;f2&gt;Column &amp; Row Headers&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211656Z" creationid="Marco Marega" creationdate="20180712T211656Z">
+        <seg>Se le intestazioni non sono visibili nel foglio di lavoro, andate in &lt;f1&gt;Visualizza&lt;/f1&gt; nella barra del Menu e Selezionate &lt;f2&gt;Intestazioni riga/colonna&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the locale setting is changed, the default currency changes automatically.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062353Z" creationid="manuel" creationdate="20180609T062353Z">
@@ -19388,6 +19396,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181639Z" creationid="Elisabetta Manuele" creationdate="20180620T181639Z">
         <seg>Condivisione di contenuti tra fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sheet tabs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211716Z" creationid="Marco Marega" creationdate="20180712T211716Z">
+        <seg>Schede dei fogli</seg>
       </tuv>
     </tu>
     <tu>
