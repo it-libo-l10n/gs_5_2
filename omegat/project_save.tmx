@@ -3159,6 +3159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dialog opens, in which you can type a new name for the sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T212650Z" creationid="Marco Marega" creationdate="20180712T212650Z">
+        <seg>Si aprirà una finestra di dialogo, nella quale potrete digitare un nuovo nome per il foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A digital signature requires a personal signing certificate.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073330Z" creationid="manuel" creationdate="20180606T073330Z">
@@ -6270,6 +6278,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T075428Z" creationid="manuel" creationdate="20180627T075428Z">
         <seg>Fate clic su &lt;f1&gt;OK&lt;/f1&gt; per salvare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f1&gt;OK&lt;/f1&gt; when finished to close the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T212720Z" creationid="Marco Marega" creationdate="20180712T212720Z">
+        <seg>Quando avete finito fate clic su &lt;f1&gt;OK&lt;/f1&gt; per chiudere la finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23463,6 +23479,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155931Z" creationid="manuel" creationdate="20180612T155931Z">
         <seg>Per cambiare gli stili in più documenti, è necessario modificare il modello, oppure copiare gli stili negli altri documenti, come descritto a pagina &lt;bf0&gt;68&lt;/bf0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the color of a sheet tab, right-click on the tab and select &lt;f0&gt;Tab Color&lt;/f0&gt; from the context menu to open the &lt;f1&gt;Tab Color&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213003Z" creationid="Marco Marega" creationdate="20180712T213003Z">
+        <seg>Per modificare il colore della linguetta di un foglio, fateci clic sopra con il pulsante destro del mouse e dal menu contestuale selezionate &lt;f0&gt;Colore scheda&lt;/f0&gt; per aprire l'omonima finestra di dialogo &lt;f1&gt;Colore scheda&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
