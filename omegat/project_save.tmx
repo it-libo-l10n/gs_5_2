@@ -2439,6 +2439,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Quoted fields as text&lt;/f0&gt; – when this option is enabled, fields or cells whose values are quoted in their entirety (the first and last characters of the value equal the text delimiter) are imported as text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T220634Z" creationid="Marco Marega" creationdate="20180712T220634Z">
+        <seg>&lt;f0&gt;Campo tra virgolette come testo&lt;/f0&gt; – se questa opzione è abilitata, i campi o le celle i cui valori sono quotati per intero (il primo e l'ultimo carattere del  valore sono uguali al separatore di testo) vengono importati come testi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Right-click on the selected template and c&lt;/f0&gt;lick the &lt;f1&gt;Set as default&lt;/f1&gt; button (see Figure &lt;t2&gt;52&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T084047Z" creationid="manuel" creationdate="20180616T084047Z">
@@ -17348,6 +17356,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T114307Z" creationid="manuel" creationdate="20180609T114307Z">
         <seg>Controllo della frase in altre lingue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T220310Z" creationid="Marco Marega" creationdate="20180712T220310Z">
+        <seg>Altre opzioni</seg>
       </tuv>
     </tu>
     <tu>
