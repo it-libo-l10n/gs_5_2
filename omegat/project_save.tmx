@@ -2143,6 +2143,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide&lt;/f0&gt; – the data in the column are not imported.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T222054Z" creationid="Marco Marega" creationdate="20180712T222054Z">
+        <seg>&lt;f0&gt;Nascondi&lt;/f0&gt; – i dati nella colonna non verranno importati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If&lt;/f0&gt; you se&lt;f1&gt;lec&lt;/f1&gt;t&lt;f2&gt;ed&lt;/f2&gt; &lt;f3&gt;Add caption to each slide&lt;/f3&gt;, &lt;f4&gt;t&lt;/f4&gt;here will be a placeholder for the image caption &lt;f5&gt;(title) on each slide.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085946Z" creationid="luke" creationdate="20180515T085946Z">
@@ -3532,6 +3540,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065714Z" creationid="manuel" creationdate="20180618T065714Z">
         <seg>Alla selezione esistente viene aggiunta una nuova selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A number format is not applied.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221924Z" creationid="Marco Marega" creationdate="20180712T221924Z">
+        <seg>Non gli vengono applicati altri formattati numerici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13027,6 +13043,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084104Z" creationid="manuel" creationdate="20180530T084104Z">
         <seg>Se il testo nei file della Guida o nei menu dell'interfaccia utente di LibreOffice è troppo piccolo o troppo grande, è possibile modificarlo specificando un fattore di scala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there are no US English entries, the &lt;f1&gt;Standard&lt;/f1&gt; format is applied.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T222018Z" creationid="Marco Marega" creationdate="20180712T222018Z">
+        <seg>Se non sono presenti elementi in formato Inglese US, verrà applicato il formato &lt;f1&gt;Standard&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29806,6 +29830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>methods</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T222108Z" creationid="Marco Marega" creationdate="20180712T222108Z">
+        <seg>metodi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>middle mouse button function</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085533Z" creationid="manuel" creationdate="20180530T085533Z">
@@ -30122,6 +30154,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144458Z" creationid="manuel" creationdate="20180608T144458Z">
         <seg>Salvare URL relativi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>saving</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T222100Z" creationid="Marco Marega" creationdate="20180712T222100Z">
+        <seg>salvare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>saving spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T222134Z" creationid="Marco Marega" creationdate="20180712T222134Z">
+        <seg>salvare i fogli elettronici</seg>
       </tuv>
     </tu>
     <tu>
