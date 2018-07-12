@@ -4120,6 +4120,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An active sheet is indicated with a white tab (default Calc setup).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T212310Z" creationid="Marco Marega" creationdate="20180712T212310Z">
+        <seg>Un foglio attivo è indicato da una linguetta bianca (impostazione predefinita di Calc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An active toolbar shows a check-mark beside its name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T213254Z" creationid="Marco Marega" creationdate="20180619T213254Z">
