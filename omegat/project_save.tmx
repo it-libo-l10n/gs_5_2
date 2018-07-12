@@ -1959,6 +1959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Fixed width&lt;/f0&gt; – separates fixed-width data (equal number of characters) into columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215718Z" creationid="Marco Marega" creationdate="20180712T215718Z">
+        <seg>&lt;f0&gt;Larghezza fissa&lt;/f0&gt; – separa i dati in colonne sulla base di larghezze fisse (un numero di caratteri uguale).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;For details on using master documents, s&lt;/f0&gt;ee Chapter 1&lt;f1&gt;5&lt;/f1&gt;, Master Documents, in the &lt;f2&gt;Writer Guide&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170202Z" creationid="manuel" creationdate="20180628T170202Z">
@@ -2491,6 +2499,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Separator Options&lt;/f0&gt; – specifies whether the data uses separators or fixed widths as delimiters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215509Z" creationid="Marco Marega" creationdate="20180712T215509Z">
+        <seg>&lt;f0&gt;Opzioni di separazione&lt;/f0&gt; – specifica se i dati sono delimitati da separatori o se hanno una larghezza fissa.</seg>
       </tuv>
     </tu>
     <tu>
