@@ -4600,6 +4600,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the bottom of the grid of cells in a spreadsheet &lt;i0/&gt;are sheet tabs indicating how many sheets there are in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T212003Z" creationid="Marco Marega" creationdate="20180712T212003Z">
+        <seg>Alla base della griglia delle celle del foglio di lavoro &lt;i0/&gt;ci sono delle linguette che indicano quanti fogli sono presenti nel foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the end of the chapter, insert a manual page break and specify the next page to have the &lt;f3&gt;First Page&lt;/f3&gt; style to start the next chapter, as shown in Figure &lt;t4&gt;60&lt;/t4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144618Z" creationid="manuel" creationdate="20180616T144618Z">
@@ -6857,6 +6865,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065651Z" creationid="manuel" creationdate="20180618T065651Z">
         <seg>Facendo clic nel testo potete estendere o ridurre la selezione corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking on a tab enables access to each individual sheet and displays that sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T212201Z" creationid="Marco Marega" creationdate="20180712T212201Z">
+        <seg>Facendo clic su una linguetta si abilita l'accesso al singolo foglio e lo si visualizza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13627,6 +13643,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144204Z" creationid="manuel" creationdate="20180611T144204Z">
         <seg>In Calc, gli stili di pagina includono anche la sequenza di stampa dei fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Calc, you can have more than one sheet in a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211824Z" creationid="Marco Marega" creationdate="20180712T211824Z">
+        <seg>In Calc, potete avere più di un foglio per ciascuno foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29706,6 +29730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083206Z" creationid="manuel" creationdate="20180528T083206Z">
         <seg>opzioni di installazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sheet tabs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211740Z" creationid="Marco Marega" creationdate="20180712T211740Z">
+        <seg>Schede dei fogli</seg>
       </tuv>
     </tu>
     <tu>
