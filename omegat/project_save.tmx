@@ -1751,6 +1751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Column type&lt;/f0&gt; – select a column in the preview window and select the data type to be applied the imported data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221637Z" creationid="Marco Marega" creationdate="20180712T221637Z">
+        <seg>&lt;f0&gt;Tipo colonna&lt;/f0&gt; – selezionate una colonna nella finestra dell'anteprima ed impostate un tipo di dati da applicare alla colonna una volta importata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel,” making them easy to use and master.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203823Z" creationid="Marco Marega" creationdate="20180527T212724Z">
@@ -2591,6 +2599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Standard &lt;/f0&gt;– Calc determines the type of data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221705Z" creationid="Marco Marega" creationdate="20180712T221705Z">
+        <seg>&lt;f0&gt;Standard &lt;/f0&gt;– Calc determina automaticamente il tipo di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Styles and Formatting:&lt;/f0&gt; This deck contains a single panel, which is the same as that opened by selecting the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; button (&lt;f2&gt;F11&lt;/f2&gt;) from the Text Formatting toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T185114Z" creationid="Marco Marega" creationdate="20180708T185114Z">
@@ -2655,6 +2671,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; – imported data are treated as text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221725Z" creationid="Marco Marega" creationdate="20180712T221725Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; – i dati importati vengono trattati come testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The Sidebar (Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;65&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;) is normally open by default on the right side of the Writer window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T074757Z" creationid="manuel" creationdate="20180618T074757Z">
@@ -2691,6 +2715,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T143625Z" creationid="Marco Marega" creationdate="20180707T143625Z">
         <seg>&lt;f0&gt;Strumenti&lt;/f0&gt; – contiene diverse funzioni di supporto per il controllo e la personalizzazione del foglio di lavoro; ad esempio, &lt;f1&gt;Controllo ortografico&lt;/f1&gt;, &lt;f2&gt;Condividi documento&lt;/f2&gt;, &lt;f3&gt;Galleria&lt;/f3&gt;, &lt;f4&gt;Macro&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;US English&lt;/f0&gt; – numbers formatted in US English are searched for and included regardless of the system language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221854Z" creationid="Marco Marega" creationdate="20180712T221854Z">
+        <seg>&lt;f0&gt;Inglese US&lt;/f0&gt; – vengono ricercati i numeri formattati in Inglese US ed inseriti indipendentemente dalla lingua di sistema.</seg>
       </tuv>
     </tu>
     <tu>
