@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214948Z" creationid="Marco Marega" creationdate="20180712T214948Z">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;(Not shown in illustration.)&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141927Z" creationid="manuel" creationdate="20180529T070022Z">
@@ -1675,6 +1683,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144601Z" creationid="manuel" creationdate="20180611T144601Z">
         <seg>Gli &lt;f0&gt;Stili di cella&lt;/f0&gt; contengono tipo di carattere, allineamento, bordi, sfondo, formati dei numeri (ad esempio, valuta, data o numero) e protezione delle celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Character Set&lt;/f0&gt; – specifies the character set to be used in the imported file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214857Z" creationid="Marco Marega" creationdate="20180712T214857Z">
+        <seg>&lt;f0&gt;Tipo di carattere&lt;/f0&gt; – specifica il set di caratteri usato nel file da importare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2155,6 +2171,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T105947Z" creationid="manuel" creationdate="20180626T105947Z">
         <seg>&lt;f0&gt;Include anche i codici per l'inserimento di caratteri speciali, emoji e altri simboli.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Language&lt;/f0&gt; – determines how the number strings are imported.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214938Z" creationid="Marco Marega" creationdate="20180712T214938Z">
+        <seg>&lt;f0&gt;Lingua&lt;/f0&gt; – determina come vengono considerati i numeri e le stringhe.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12395,6 +12419,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105156Z" creationid="manuel" creationdate="20180704T105156Z">
         <seg>Se è selezionata Linea a mano libera piena, il primo e l'ultimo punto saranno uniti automaticamente e l'oggetto verrà riempito con il colore appropriato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Language is set to Default for CSV import, Calc will use the globally set language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215120Z" creationid="Marco Marega" creationdate="20180712T215120Z">
+        <seg>Se la lingua per l'importazione del file CSV è impostata su Predefinita, Calc userà la lingua impostata nel sistema.</seg>
       </tuv>
     </tu>
     <tu>
