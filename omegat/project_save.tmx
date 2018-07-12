@@ -20915,8 +20915,8 @@
       <tuv lang="EN">
         <seg>The column headers use an alpha character starting at A and go on to the right.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211205Z" creationid="Marco Marega" creationdate="20180712T211205Z">
-        <seg>Le intestazioni delle colonne cominciano utilizzano un carattere alfabetico partendo dalla A e proseguono verso destra.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211258Z" creationid="Marco Marega" creationdate="20180712T211205Z">
+        <seg>Le intestazioni delle colonne cominciano utilizzano un carattere alfabetico a partire dalla A e proseguono verso destra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21929,6 +21929,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The row headers use a numerical character starting at 1 and go down.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211251Z" creationid="Marco Marega" creationdate="20180712T211251Z">
+        <seg>Le intestazioni delle righe utilizzano un carattere numerico a partire da 1 e proseguono verso il basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rulers show the size of a selected object on the page using double lines (highlighted in Figure &lt;t2&gt;164&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180630T170136Z" creationid="manuel" creationdate="20180630T170136Z">
@@ -22397,6 +22405,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163525Z" creationid="manuel" creationdate="20180703T163525Z">
         <seg>Questi colori saranno correttamente rappresentati su computer con schermi in grado di visualizzare almeno 256 colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These column and row headers form the cell references that appear in the Name Box on the Formula Bar (Figure &lt;t0&gt;87&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211440Z" creationid="Marco Marega" creationdate="20180712T211440Z">
+        <seg>Le intestazioni di colonna e riga formano i riferimenti di cella che appaiono nella Casella del nome all'interno della Barra di calcolo (Figura &lt;t0&gt;87&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
