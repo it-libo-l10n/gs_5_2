@@ -2247,6 +2247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Merge delimiters&lt;/f0&gt; – combines consecutive delimiters and removes blank data fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T220204Z" creationid="Marco Marega" creationdate="20180712T220204Z">
+        <seg>&lt;f0&gt;Raggruppa i separatori di campo&lt;/f0&gt; – raggruppa i separatori consecutivi e rimuove i campi di dati vuoti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Microsoft Windows&lt;/f0&gt; XP SP3, Vista, Windows Server 2008, Windows 7, Windows 8/8.1, Windows Server 2012, or Windows 10.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190454Z" creationid="Marco Marega" creationdate="20180528T190454Z">
@@ -2611,6 +2619,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215210Z" creationid="Marco Marega" creationdate="20180616T215210Z">
         <seg>&lt;f0&gt;Tabella&lt;/f0&gt; visualizza i comandi per inserire e modificare una tabella in un documento di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Text delimiter&lt;/f0&gt; – select a character to delimit text data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T220256Z" creationid="Marco Marega" creationdate="20180712T220256Z">
+        <seg>&lt;f0&gt;Separatore di testo&lt;/f0&gt; – seleziona il carattere che delimita le stringhe di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22965,6 +22981,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171529Z" creationid="manuel" creationdate="20180706T171529Z">
         <seg>Il trascinamento del cursore disegna un rettangolo intorno agli oggetti e solo gli oggetti che si trovano interamente all'interno del rettangolo saranno selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This custom separator must also be contained in the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T220038Z" creationid="Marco Marega" creationdate="20180712T220038Z">
+        <seg>Questo separatore personalizzato deve essere presente nei dati.</seg>
       </tuv>
     </tu>
     <tu>
