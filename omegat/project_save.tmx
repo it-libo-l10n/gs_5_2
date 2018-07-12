@@ -1815,6 +1815,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Detect special numbers&lt;/f0&gt; – when this option is enabled, Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T220821Z" creationid="Marco Marega" creationdate="20180712T220821Z">
+        <seg>&lt;f0&gt;Individua numeri speciali&lt;/f0&gt; – se questa opzione è abilitata, Calc individuerà automaticamente tutti i formati numerici, compresi quelli speciali come le date, gli orari e le notazioni scientifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Dimension lines&lt;/f0&gt;: Here you place the dimension lines for your object, if relevant.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T161003Z" creationid="manuel" creationdate="20180703T160734Z">
@@ -22285,6 +22293,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212144Z" creationid="Marco Marega" creationdate="20180619T212144Z">
         <seg>La seconda barra degli strumenti in alto, in un'installazione standard di LibreOffice, è la barra di &lt;f0&gt;Formattazione&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected language also influences how such special numbers are detected, since different languages and regions many have different conventions for such special numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221041Z" creationid="Marco Marega" creationdate="20180712T221041Z">
+        <seg>Anche la lingua selezionata influenza il modo in cui vengono individuati i numeri speciali, in quanto lingue e aree geografiche diverse possono avere convenzioni differenti per il trattamento di questi numeri speciali.</seg>
       </tuv>
     </tu>
     <tu>
