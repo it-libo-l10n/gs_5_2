@@ -1919,6 +1919,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Fields&lt;/f0&gt; – shows how the data will look when it is separated into columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221518Z" creationid="Marco Marega" creationdate="20180712T221518Z">
+        <seg>&lt;f0&gt;Campi&lt;/f0&gt; – mostra come appariranno i dati una volta separati in colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;16&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Setting general options for LibreOffice&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060547Z" creationid="manuel" creationdate="20180529T060547Z">
@@ -3219,6 +3227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104015Z" creationid="manuel" creationdate="20180704T104015Z">
         <seg>Una curva senza riempimento non sarà automaticamente chiusa a tracciamento ultimato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A decimal number string can have digits 0-9, thousands separators, and a decimal separator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221335Z" creationid="Marco Marega" creationdate="20180712T221335Z">
+        <seg>Una stringa che rappresenta un numero in formato decimale può contenere le cifre 0-9, i separatori delle migliaia ed il separatore dei decimali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23413,6 +23429,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T114106Z" creationid="manuel" creationdate="20180609T114106Z">
         <seg>Migliaia di separazione di grandi numeri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thousands separators and decimal separators may vary with the selected language and region.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221426Z" creationid="Marco Marega" creationdate="20180712T221426Z">
+        <seg>I separatori delle migliaia e dei decimali possono variare a seconda della lingua e dell'area geografica selezionate.</seg>
       </tuv>
     </tu>
     <tu>
