@@ -2503,6 +2503,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Separated by&lt;/f0&gt; – select the separator used in the data to delimit the data into columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215928Z" creationid="Marco Marega" creationdate="20180712T215928Z">
+        <seg>&lt;f0&gt;Separato da&lt;/f0&gt; – seleziona il separatore utilizzato nei dati per delimitare le colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Separator Options&lt;/f0&gt; – specifies whether the data uses separators or fixed widths as delimiters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215509Z" creationid="Marco Marega" creationdate="20180712T215509Z">
@@ -6599,6 +6607,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163246Z" creationid="manuel" creationdate="20180628T163246Z">
         <seg>Fate clic sull'elemento desiderato nell'elenco &lt;f0&gt;Selezione&lt;/f0&gt;, che mostra tutti gli elementi del tipo selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the ruler in the preview window to set the width.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215810Z" creationid="Marco Marega" creationdate="20180712T215810Z">
+        <seg>Per impostare la larghezza fate clic sul righello nella finestra dell'anteprima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13483,6 +13499,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161102Z" creationid="manuel" creationdate="20180628T161102Z">
         <seg>Se salvate un documento di Writer in HTML, i collegamenti ipertestuali, a differenza dei riferimenti incrociati, rimangono attivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select &lt;f1&gt;Other&lt;/f1&gt;, specify the character used to separate data into columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T220016Z" creationid="Marco Marega" creationdate="20180712T220016Z">
+        <seg>Se selezionate &lt;f1&gt;Altro&lt;/f1&gt;, specificate il carattere da usare per suddividere i dati in colonne.</seg>
       </tuv>
     </tu>
     <tu>
