@@ -5554,6 +5554,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cell references are case-insensitive: for example, typing either a3 or A3 will move the focus to cell A3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183740Z" creationid="Marco Marega" creationdate="20180713T183740Z">
+        <seg>I riferimenti alle celle non fanno distinzione tra maiuscole e minuscole: ad esempio, digitando indifferentemente a3 o A3 il focus si sposterà sulla cella A3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cells hold the individual elements – text, numbers, formulas, and so on – that make up the data to display and manipulate.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135225Z" creationid="Marco Marega" creationdate="20180707T135225Z">
@@ -25609,6 +25617,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104010Z" creationid="manuel" creationdate="20180705T104010Z">
         <seg>Scrivete o incollate il vostro commento nella casella di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the new cell reference of the cell you want to move to and press &lt;f4&gt;Enter&lt;/f4&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183613Z" creationid="Marco Marega" creationdate="20180713T183613Z">
+        <seg>Digitate il riferimento della cella sulla quale volete spostarvi e premete il tasto &lt;f4&gt;Invio&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
