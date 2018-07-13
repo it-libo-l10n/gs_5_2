@@ -2767,6 +2767,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the Tab key&lt;/f0&gt; – pressing Tab moves the cell focus right in a row to the next column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184424Z" creationid="Marco Marega" creationdate="20180713T184424Z">
+        <seg>&lt;f0&gt;Usando il tasto Tab&lt;/f0&gt; – premendo il tasto Tab il focus della cella si sposta verso destra alla colonna successiva nella stessa riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using the mouse&lt;/f0&gt; – place the mouse pointer over the cell and click the left mouse button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124644Z" creationid="Marco Marega" creationdate="20180713T124644Z">
@@ -18048,6 +18056,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pressing &lt;f1&gt;Shift+Tab&lt;/f1&gt; moves the focus to the left in a row to the previous column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184516Z" creationid="Marco Marega" creationdate="20180713T184516Z">
+        <seg>Premendo &lt;f1&gt;Maiusc+Tab&lt;/f1&gt; il focus della cella si sposta verso sinistra alla colonna precedente nella stessa colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pressing &lt;f2&gt;Shift+Enter&lt;/f2&gt; moves the focus up in a column to the previous row.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184314Z" creationid="Marco Marega" creationdate="20180713T184201Z">
@@ -29214,6 +29230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>arrow keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184540Z" creationid="Marco Marega" creationdate="20180713T184540Z">
+        <seg>Tasti freccia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>arrows</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T095111Z" creationid="manuel" creationdate="20180704T095111Z">
@@ -29982,6 +30006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>keyboard keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184620Z" creationid="Marco Marega" creationdate="20180713T184620Z">
+        <seg>tasti della tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>landscape page</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102400Z" creationid="manuel" creationdate="20180616T102400Z">
@@ -30162,6 +30194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124044Z" creationid="Marco Marega" creationdate="20180713T124044Z">
         <seg>navigazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>navigating within spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184535Z" creationid="Marco Marega" creationdate="20180713T184535Z">
+        <seg>Navigare all'interno dei fogli elettronici</seg>
       </tuv>
     </tu>
     <tu>
