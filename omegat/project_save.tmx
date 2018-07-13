@@ -2743,6 +2743,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using a cell reference&lt;/f0&gt;&lt;re1/&gt; – highlight or delete the existing cell reference in the Name Box on the Formula Bar (Figure &lt;t2&gt;87&lt;/t2&gt; on page &lt;t3&gt;115&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183518Z" creationid="Marco Marega" creationdate="20180713T183518Z">
+        <seg>&lt;f0&gt;Usando un riferimento di cella&lt;/f0&gt;&lt;re1/&gt; – selezionate o cancellate il riferimento di cella esistente nella Casella del nome sulla barra della formula (Figura &lt;t2&gt;87&lt;/t2&gt; a pagina &lt;t3&gt;115&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using the mouse&lt;/f0&gt; – place the mouse pointer over the cell and click the left mouse button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124644Z" creationid="Marco Marega" creationdate="20180713T124644Z">
@@ -24857,6 +24865,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T062053Z" creationid="manuel" creationdate="20180707T062053Z">
         <seg>Per spostare un oggetto (o un gruppo di oggetti), selezionatelo e fate clic all'interno dei bordi dell'oggetto, quindi tenete premuto il pulsante sinistro del mouse mentre trascinate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move the focus to another cell using the mouse, simply move the mouse pointer to the cell where you want the focus to be and click the left mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183258Z" creationid="Marco Marega" creationdate="20180713T183258Z">
+        <seg>Per spostare il focus ad un'altra cella usando il mouse, spostate semplicemente il puntatore del mouse sopra la cella che volete selezionare e fare clic con il tasto sinistro del mouse.</seg>
       </tuv>
     </tu>
     <tu>
