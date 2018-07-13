@@ -5410,6 +5410,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc can also save spreadsheets in a range of formats and also export spreadsheets to PDF, HTML, and XHTML file formats; see the &lt;f1&gt;Calc Guide Chapter 6 Printing, Exporting, and E-mailing&lt;/f1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T121618Z" creationid="Marco Marega" creationdate="20180713T121618Z">
+        <seg>Calc può salvare i fogli elettronici in una varietà di formati e può anche esportarli nei formati  PDF, HTML e XHTML; per maggiori informazioni vedete il &lt;f1&gt;Capitolo 6 della Guida a Calc (Stampare, Esportare ed inviare per e-mail)&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc generates 2D and 3D charts, which can be integrated into other LibreOffice documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201942Z" creationid="Marco Marega" creationdate="20180527T200640Z">
@@ -24953,6 +24961,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T111528Z" creationid="manuel" creationdate="20180705T111528Z">
         <seg>Per salvare un oggetto grafico o un intero file in un altro formato, usate&lt;f0&gt;File &gt; Esporta&lt;/f0&gt; e selezionate un formato dall'elenco mostrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To save a spreadsheet, see &lt;f0&gt;Chapter 1 Introducing LibreOffice&lt;/f0&gt; for more details on how to save files manually or automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T121125Z" creationid="Marco Marega" creationdate="20180713T121125Z">
+        <seg>Per salvare un foglio elettronico e per maggiori dettagli su come farlo manualmente o in modo automatico, vedete il &lt;f0&gt;Capitolo 1 (Introduzione a LibreOffice)&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
