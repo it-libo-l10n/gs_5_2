@@ -2751,6 +2751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the Enter key&lt;/f0&gt; – pressing &lt;f1&gt;Enter&lt;/f1&gt; moves the cell focus down in a column to the next row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184222Z" creationid="Marco Marega" creationdate="20180713T184149Z">
+        <seg>&lt;f0&gt;Usando il tasto Invio&lt;/f0&gt; – premendo il tasto &lt;f1&gt;Invio&lt;/f1&gt; il focus della cella si sposta verso il basso alla riga successiva nella stessa colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – press the &lt;f1&gt;F5&lt;/f1&gt; key to open the Navigator dialog (Figure &lt;t2&gt;93&lt;/t2&gt;) or click the &lt;f3&gt;Navigator &lt;/f3&gt;button in the open Sidebar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183855Z" creationid="Marco Marega" creationdate="20180713T183855Z">
@@ -18036,6 +18044,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
         <seg>Press the spacebar on the keyboard to advance to the next slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;f2&gt;Shift+Enter&lt;/f2&gt; moves the focus up in a column to the previous row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184314Z" creationid="Marco Marega" creationdate="20180713T184201Z">
+        <seg>Premendo &lt;f2&gt;Maiusc+Invio&lt;/f2&gt; il focus si sposta verso l'alto alla riga precedente nella stessa colonna.</seg>
       </tuv>
     </tu>
     <tu>
