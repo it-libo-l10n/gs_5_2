@@ -2807,6 +2807,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – when the Navigator is open (Figure &lt;t1&gt;93&lt;/t1&gt;), double-click on any of the listed sheets to select the sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T193546Z" creationid="Marco Marega" creationdate="20180713T193546Z">
+        <seg>&lt;f0&gt;Usando il Navigatore&lt;/f0&gt; – Quando il Navigatore è aperto (Figura &lt;t1&gt;93&lt;/t1&gt;), fate  doppio-clic su uno qualsiasi dei fogli elencati per selezionarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using the Tab key&lt;/f0&gt; – pressing Tab moves the cell focus right in a row to the next column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184424Z" creationid="Marco Marega" creationdate="20180713T184424Z">
@@ -2819,6 +2827,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184725Z" creationid="Marco Marega" creationdate="20180713T184725Z">
         <seg>&lt;f0&gt;Usando i tasti freccia&lt;/f0&gt; – premendo&lt;i1/&gt;&lt;i2/&gt; i tasti freccia della tastiera il focus della cella si sposta nella direzione della freccia premuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the keyboard&lt;/f0&gt; – use key combinations &lt;f1&gt;Ctrl+Page Down&lt;/f1&gt; to move one sheet to the right and &lt;f2&gt;Ctrl+Page Up&lt;/f2&gt; to move one sheet to the left.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T193815Z" creationid="Marco Marega" creationdate="20180713T193815Z">
+        <seg>&lt;f0&gt;Usando la tastiera&lt;/f0&gt; – premete la combinazione di tasti &lt;f1&gt;Ctrl+Pag Giù&lt;/f1&gt; per spostarvi a destra di un foglio e &lt;f2&gt;Ctrl+Pag Su&lt;/f2&gt; per spostarvi di un foglio a sinistra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23021,6 +23037,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164031Z" creationid="manuel" creationdate="20180626T164031Z">
         <seg>È possibile creare elenchi numerati o puntati in diversi modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are three ways to navigate between sheets in a spreadsheet:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T193423Z" creationid="Marco Marega" creationdate="20180713T193423Z">
+        <seg>Ci sono tre modi per navigare tra i diversi fogli di un foglio elettronico:</seg>
       </tuv>
     </tu>
     <tu>
