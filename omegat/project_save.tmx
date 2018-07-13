@@ -10503,6 +10503,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;94&lt;/seq0&gt;: Navigating sheet tabs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T195003Z" creationid="Marco Marega" creationdate="20180713T195003Z">
+        <seg>Figura &lt;seq0&gt;94&lt;/seq0&gt;: Navigazione tra le linguette dei fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;95&lt;/seq0&gt;: Right-click any arrow button</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T195041Z" creationid="Marco Marega" creationdate="20180713T195041Z">
+        <seg>Figura &lt;seq0&gt;95&lt;/seq0&gt;: facendo clic con il pulsante destro del mouse sul pulsante di una freccia qualsiasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Floating (undocking) or docking the Sidebar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222903Z" creationid="Marco Marega" creationdate="20180620T222903Z">
@@ -15327,6 +15343,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is recommended to rename sheets in a spreadsheet to make them more recognizable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T194934Z" creationid="Marco Marega" creationdate="20180713T194934Z">
+        <seg>E' consigliabile rinominare i fogli di un foglio elettronico in modo da renderli maggiormente riconoscibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is recommended, however, to activate only the functions that you really need.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111809Z" creationid="manuel" creationdate="20180707T111809Z">
@@ -15531,6 +15555,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123011Z" creationid="Marco Marega" creationdate="20180622T123011Z">
         <seg>Conservare i file su server remoti vi consente di lavorare con i documenti usando diversi computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyboard navigation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T195103Z" creationid="Marco Marega" creationdate="20180713T195103Z">
+        <seg>Navigazione da tastiera</seg>
       </tuv>
     </tu>
     <tu>
