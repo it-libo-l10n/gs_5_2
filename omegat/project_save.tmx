@@ -2151,6 +2151,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Home&lt;/f0&gt; moves the cell focus to the start of a row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184903Z" creationid="Marco Marega" creationdate="20180713T184903Z">
+        <seg>&lt;f0&gt;Inizio&lt;/f0&gt; sposta il focus della cella all'inizio della riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If&lt;/f0&gt; you se&lt;f1&gt;lec&lt;/f1&gt;t&lt;f2&gt;ed&lt;/f2&gt; &lt;f3&gt;Add caption to each slide&lt;/f3&gt;, &lt;f4&gt;t&lt;/f4&gt;here will be a placeholder for the image caption &lt;f5&gt;(title) on each slide.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085946Z" creationid="luke" creationdate="20180515T085946Z">
@@ -2743,6 +2751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using Home&lt;/f0&gt;, &lt;f1&gt;End&lt;/f1&gt;, &lt;f2&gt;Page Up&lt;/f2&gt; and &lt;f3&gt;Page Down&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184909Z" creationid="Marco Marega" creationdate="20180713T184809Z">
+        <seg>&lt;f0&gt;Usando Inizio&lt;/f0&gt;, &lt;f1&gt;Fine&lt;/f1&gt;, &lt;f2&gt;PagSu&lt;/f2&gt; e &lt;f3&gt;PagGiù&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using a cell reference&lt;/f0&gt;&lt;re1/&gt; – highlight or delete the existing cell reference in the Name Box on the Formula Bar (Figure &lt;t2&gt;87&lt;/t2&gt; on page &lt;t3&gt;115&lt;/t3&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183518Z" creationid="Marco Marega" creationdate="20180713T183518Z">
@@ -2771,6 +2787,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184424Z" creationid="Marco Marega" creationdate="20180713T184424Z">
         <seg>&lt;f0&gt;Usando il tasto Tab&lt;/f0&gt; – premendo il tasto Tab il focus della cella si sposta verso destra alla colonna successiva nella stessa riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the arrow keys&lt;/f0&gt; – pressing&lt;i1/&gt;&lt;i2/&gt; the arrow keys on the keyboard moves the cell focus in the direction of the arrow pressed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184725Z" creationid="Marco Marega" creationdate="20180713T184725Z">
+        <seg>&lt;f0&gt;Usando i tasti freccia&lt;/f0&gt; – premendo&lt;i1/&gt;&lt;i2/&gt; i tasti freccia della tastiera il focus della cella si sposta nella direzione della freccia premuta.</seg>
       </tuv>
     </tu>
     <tu>
