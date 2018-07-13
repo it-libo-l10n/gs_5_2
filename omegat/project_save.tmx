@@ -1895,6 +1895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;End&lt;/f0&gt; moves the cell focus to the last cell on the right in the&lt;f1&gt; &lt;/f1&gt;row &lt;f2&gt;in the right-most column that contains data.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T185039Z" creationid="Marco Marega" creationdate="20180713T185039Z">
+        <seg>&lt;f0&gt;Fine&lt;/f0&gt; Sposta il focus della cella all'ultima cella della &lt;f1&gt; &lt;/f1&gt;riga &lt;f2&gt;nella colonna più a destra contente dati.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Exception: if the characters are numbers, as in a date or time range, the two hyphens are replaced by an en-dash.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134312Z" creationid="manuel" creationdate="20180622T134312Z">
@@ -2387,6 +2395,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203514Z" creationid="Marco Marega" creationdate="20180527T212159Z">
         <seg>&lt;f0&gt;Open source.&lt;/f0&gt; Nel rispetto delle licenze Open Source di LibreOffice potete distribuire, copiare e modificare il software come desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Page Down&lt;/f0&gt; moves the cell focus down one complete screen display.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T185140Z" creationid="Marco Marega" creationdate="20180713T185140Z">
+        <seg>&lt;f0&gt;PagGiù&lt;/f0&gt; sposta il focus della cella verso il basso di un'intera videata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Page Up&lt;/f0&gt; moves the cell focus up one complete screen display.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T185210Z" creationid="Marco Marega" creationdate="20180713T185210Z">
+        <seg>&lt;f0&gt;PagSù&lt;/f0&gt; sposta il focus della cella verso l'alto di un'intera videata.</seg>
       </tuv>
     </tu>
     <tu>
