@@ -2743,6 +2743,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the mouse&lt;/f0&gt; – place the mouse pointer over the cell and click the left mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124644Z" creationid="Marco Marega" creationdate="20180713T124644Z">
+        <seg>&lt;f0&gt;Utilizzo del mouse&lt;/f0&gt; – posizionate il puntatore del mouse sulla cella e fate clic con il pulsante sinistro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for controlling the display of the document such as Zoom and Web Layout.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214755Z" creationid="Marco Marega" creationdate="20180616T214755Z">
@@ -21445,6 +21453,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072625Z" creationid="manuel" creationdate="20180531T072625Z">
         <seg>Il campo di colore in basso a sinistra mostra il valore del colore selezionato sulla sinistra e il valore correntemente impostato nei campi relativi al valore del colore sulla destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The color of the cell border emphasis and the color of a group of selected cells depends on the operating system being used and how you have set up LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124551Z" creationid="Marco Marega" creationdate="20180713T124551Z">
+        <seg>Il colore del bordo rimarcato della cella attiva ed il colore di un gruppo di celle selezionate dipende dal sistema operativo usato e da come avete impostato LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
