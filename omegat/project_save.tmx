@@ -5530,6 +5530,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cell navigation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124156Z" creationid="Marco Marega" creationdate="20180713T124156Z">
+        <seg>Navigazione tra celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cells hold the individual elements – text, numbers, formulas, and so on – that make up the data to display and manipulate.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135225Z" creationid="Marco Marega" creationdate="20180707T135225Z">
@@ -26742,6 +26750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When a cell is selected or in focus, the cell borders are emphasized.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124348Z" creationid="Marco Marega" creationdate="20180713T124348Z">
+        <seg>Quando una cella è selezionata o è attiva, i suoi bordi sono più marcati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When a context menu opens, the functions or options available will depend on the object that has been selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190636Z" creationid="Marco Marega" creationdate="20180620T190636Z">
@@ -26762,6 +26778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152507Z" creationid="manuel" creationdate="20180608T152507Z">
         <seg>Quando un file salvato in ODF 1.2 Esteso viene aperto con un editor che utilizza versioni precedenti di ODF (1.0/1.1), alcune delle caratteristiche avanzate potrebbero perdersi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a group of cells is selected, the cell area is colored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124430Z" creationid="Marco Marega" creationdate="20180713T124430Z">
+        <seg>Se è selezionato un gruppo di celle, l'area di quelle celle è colorata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28322,6 +28346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131141Z" creationid="Marco Marega" creationdate="20180707T131141Z">
         <seg>Potete inserire dei dati (solitamente numerici) in un foglio elettronico e poi manipolarli per ottenere determinati risultati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can generally use the method you prefer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124144Z" creationid="Marco Marega" creationdate="20180713T124144Z">
+        <seg>In generale potete usare il metodo che preferite.</seg>
       </tuv>
     </tu>
     <tu>
