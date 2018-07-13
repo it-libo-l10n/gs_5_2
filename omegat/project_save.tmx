@@ -2839,6 +2839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the mouse&lt;/f0&gt; – click on one of the sheet tabs at the bottom of the spreadsheet to select that sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T193924Z" creationid="Marco Marega" creationdate="20180713T193924Z">
+        <seg>&lt;f0&gt;Usando il mouse&lt;/f0&gt; – per selezionare un foglio fate clic sulla sua linguetta in calce al foglio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using the mouse&lt;/f0&gt; – place the mouse pointer over the cell and click the left mouse button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124644Z" creationid="Marco Marega" creationdate="20180713T124644Z">
