@@ -8887,6 +8887,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each sheet in a spreadsheet is independent of the other sheets, though references can be linked from one sheet to another.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T193334Z" creationid="Marco Marega" creationdate="20180713T193334Z">
+        <seg>Ciascun foglio di un foglio elettronico è indipendente dagli altri, anche se può essere collegato ad un altro con dei riferimenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each spreadsheet can have several sheets, and each sheet can have many individual cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135434Z" creationid="Marco Marega" creationdate="20180707T135434Z">
@@ -20036,6 +20044,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181639Z" creationid="Elisabetta Manuele" creationdate="20180620T181639Z">
         <seg>Condivisione di contenuti tra fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sheet navigation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T193152Z" creationid="Marco Marega" creationdate="20180713T193152Z">
+        <seg>Navigazione tra fogli</seg>
       </tuv>
     </tu>
     <tu>
