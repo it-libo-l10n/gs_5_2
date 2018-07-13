@@ -8551,6 +8551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dragging the scroll bar edge to the right may reveal all the tabs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T194334Z" creationid="Marco Marega" creationdate="20180713T194334Z">
+        <seg>Trascinando verso destra il margine della barra di scorrimento potrebbe essere possibile rendere visibili tutte le linguette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Draw (vector graphics)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210653Z" creationid="Marco Marega" creationdate="20180527T210653Z">
@@ -13335,6 +13343,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this is the case:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T194042Z" creationid="Marco Marega" creationdate="20180713T194042Z">
+        <seg>In tal caso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is &lt;f0&gt;not&lt;/f0&gt; selected, numbers will be interpreted according to the &lt;f1&gt;Locale setting&lt;/f1&gt; in &lt;f2&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f2&gt; (see page &lt;bf3&gt;57&lt;/bf3&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T164623Z" creationid="manuel" creationdate="20180608T160017Z">
@@ -14003,6 +14019,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065937Z" creationid="manuel" creationdate="20180531T065937Z">
         <seg>Se le stampe non sono ben posizionate nella pagina o sono troncate in alto, in basso o ai lati, o se la stampante si rifiuta di stampare, probabilmente è un problema di incompatibilità di dimensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your spreadsheet contains a lot of sheets, then some of the sheet tabs may be hidden behind the horizontal scroll bar at the bottom of the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T194034Z" creationid="Marco Marega" creationdate="20180713T194034Z">
+        <seg>Se il foglio elettronico contiene molti fogli, le linguette di alcuni fogli potrebbero essere nascoste nella barra di scorrimento orizzontale in fondo allo schermo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26634,6 +26658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T071342Z" creationid="manuel" creationdate="20180627T071342Z">
         <seg>L'utilizzo della spaziatura di tabulazione predefinita può causare problemi di formattazione se condividete documenti con altre persone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the four buttons to the left of the sheet tabs can move the tabs into view (Figure &lt;t0&gt;94&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T194213Z" creationid="Marco Marega" creationdate="20180713T194213Z">
+        <seg>Usando i quattro pulsanti alla loro sinistra potete spostare le linguette rendendole visibili (Figura &lt;t0&gt;94&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
