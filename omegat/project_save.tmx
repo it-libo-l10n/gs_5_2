@@ -7902,6 +7902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+→</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200609Z" creationid="Marco Marega" creationdate="20180713T200609Z">
+        <seg>Ctrl+→</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl-click required to follow hyperlinks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084031Z" creationid="manuel" creationdate="20180606T084031Z">
@@ -15567,10 +15575,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyboard cell navigation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200447Z" creationid="Marco Marega" creationdate="20180713T200447Z">
+        <seg>Navigazione tra celle con la tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyboard navigation</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T195103Z" creationid="Marco Marega" creationdate="20180713T195103Z">
         <seg>Navigazione da tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyboard shortcut</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200452Z" creationid="Marco Marega" creationdate="20180713T200452Z">
+        <seg>Scorciatoie da tastiera</seg>
       </tuv>
     </tu>
     <tu>
@@ -16764,6 +16788,46 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T071937Z" creationid="manuel" creationdate="20180707T071937Z">
         <seg>Portate il cursore del mouse su una delle maniglie d'angolo ed esso cambierà in un arco con una freccia a ciascuna estremità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus down one cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200553Z" creationid="Marco Marega" creationdate="20180713T200553Z">
+        <seg>Sposta il focus di una cella in basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus left one cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200527Z" creationid="Marco Marega" creationdate="20180713T200527Z">
+        <seg>Sposta il focus di una cella a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus right one cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200518Z" creationid="Marco Marega" creationdate="20180713T200518Z">
+        <seg>Sposta il focus di una cella a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus to the first column on the right containing data in that row if cell focus is on a blank cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200713Z" creationid="Marco Marega" creationdate="20180713T200713Z">
+        <seg>Se il focus si trova su di una cella vuota, lo sposta alla prima colonna a destra sulla stessa riga che contiene dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus up one cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200546Z" creationid="Marco Marega" creationdate="20180713T200546Z">
+        <seg>Sposta il focus di una cella in alto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20892,6 +20956,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145650Z" creationid="manuel" creationdate="20180611T145650Z">
         <seg>Tabella &lt;seq0&gt;3&lt;/seq0&gt;: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;4&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200427Z" creationid="Marco Marega" creationdate="20180713T200427Z">
+        <seg>Tabella &lt;seq0&gt;4&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31098,6 +31170,38 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070047Z" creationid="manuel" creationdate="20180529T070047Z">
         <seg>anno (due cifre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>←</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200519Z" creationid="Marco Marega" creationdate="20180713T200519Z">
+        <seg>←</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>↑</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200529Z" creationid="Marco Marega" creationdate="20180713T200529Z">
+        <seg>↑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>→</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200455Z" creationid="Marco Marega" creationdate="20180713T200455Z">
+        <seg>→</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>↓</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200546Z" creationid="Marco Marega" creationdate="20180713T200546Z">
+        <seg>↓</seg>
       </tuv>
     </tu>
     <tu>
