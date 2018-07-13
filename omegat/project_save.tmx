@@ -8190,6 +8190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on which sheet is open when you insert a new sheet, and the &lt;f0&gt;insertion &lt;/f0&gt;method you use, the new sheet may not be in &lt;f1&gt;its correct&lt;/f1&gt; numerical &lt;f2&gt;position&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T194856Z" creationid="Marco Marega" creationdate="20180713T194856Z">
+        <seg>A seconda di quale foglio è attivo nel momento in cui inserite il nuovo foglio e del metodo usato per &lt;f0&gt;inserirlo &lt;/f0&gt;, questo potrebbe non trovarsi nella &lt;f1&gt;sua corretta&lt;/f1&gt; posizione &lt;f2&gt;numerica&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on which type you choose, there are different methods of editing of a 3D object (rotation, illumination, perspective, and so on) with 3D shapes being simpler to set up and edit than 3D bodies.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105445Z" creationid="manuel" creationdate="20180705T105445Z">
@@ -27378,6 +27386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171058Z" creationid="manuel" creationdate="20180615T171058Z">
         <seg>Quando inserite una intestazione su uno stile di pagina impostato per pagine rispecchiate o per pagine destre-e-sinistre, potete fare in modo che i contenuti dell'intestazione siano i medesimi su tutte le pagine o siano diversi sulle pagine destre e sinistre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you insert a new sheet into a spreadsheet, Calc automatically uses the next number in the numeric sequence as a name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T194642Z" creationid="Marco Marega" creationdate="20180713T194642Z">
+        <seg>Quando inserite un nuovo foglio all'interno del foglio elettronico, Calc usa automaticamente il primo numero libero per assegnarli il nome.</seg>
       </tuv>
     </tu>
     <tu>
