@@ -6498,6 +6498,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f3&gt;Use [xxx] Format&lt;/f3&gt; to continue saving in your selected spreadsheet format or click &lt;f4&gt;Use ODF Format&lt;/f4&gt; to save the spreadsheet in Calc ODS format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T123233Z" creationid="Marco Marega" creationdate="20180713T123233Z">
+        <seg>Fate clic su &lt;f3&gt;Usa il Formato [xxx]&lt;/f3&gt; per proseguire salvando nel formato di foglio elettronico che avete selezionato, oppure fate clic su &lt;f4&gt;Usa il formato ODF&lt;/f4&gt; per salvare il foglio di calcolo nel formato ODS di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f6&gt;Yes&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142301Z" creationid="manuel" creationdate="20180616T142301Z">
@@ -8779,6 +8787,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192104Z" creationid="Marco Marega" creationdate="20180620T192104Z">
         <seg>Ogni volta che viene premuto il tasto &lt;f0&gt;Ins&lt;/f0&gt;, o fate clic su questo campo, il modo passa da Inserimento a Sovrascrittura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each time you click &lt;f0&gt;Save&lt;/f0&gt;, the &lt;f1&gt;Confirm File Format&lt;/f1&gt; dialog opens (Figure &lt;t2&gt;91&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T123026Z" creationid="Marco Marega" creationdate="20180713T123026Z">
+        <seg>Ogni volta che fate clic su &lt;f0&gt;Salva&lt;/f0&gt;, si aprirà la finestra di dialogo &lt;f1&gt;Conferma formato file&lt;/f1&gt; (Figura &lt;t2&gt;91&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
