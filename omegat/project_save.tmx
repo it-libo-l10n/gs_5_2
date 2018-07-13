@@ -6450,6 +6450,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Save&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122859Z" creationid="Marco Marega" creationdate="20180713T122859Z">
+        <seg>Fate clic su &lt;f0&gt;Salva&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Slide Show &gt; Start from first Slide&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z" creationid="luke" creationdate="20180515T090036Z">
@@ -10287,6 +10295,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;90&lt;/seq0&gt;: Save As dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122926Z" creationid="Marco Marega" creationdate="20180713T122926Z">
+        <seg>Figura &lt;seq0&gt;90&lt;/seq0&gt;: Finestra di dialogo Salva con nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Floating (undocking) or docking the Sidebar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222903Z" creationid="Marco Marega" creationdate="20180620T222903Z">
@@ -12551,6 +12567,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;f0&gt;Automatic file name extension&lt;/f0&gt; is selected, the correct file extension for the spreadsheet format you have selected will be added to the file name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122843Z" creationid="Marco Marega" creationdate="20180713T122843Z">
+        <seg>Se l'opzione &lt;f0&gt;Estensione automatica del nome file&lt;/f0&gt; è selezionata, al nome file verrà aggiunta l'estensione corretta per il formato di foglio di lavoro che avete selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Character Styles are active, the character style will be added to the list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070445Z" creationid="manuel" creationdate="20180614T070445Z">
@@ -13939,6 +13963,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122606Z" creationid="Marco Marega" creationdate="20180713T122606Z">
         <seg>In &lt;f0&gt;Nome file&lt;/f0&gt;, potete inserire un nuovo nome per il foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;f0&gt;File type&lt;/f0&gt; drop-down menu, select the type of spreadsheet format you want to use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122712Z" creationid="Marco Marega" creationdate="20180713T122712Z">
+        <seg>Nel menu a discesa &lt;f0&gt;Tipo di file&lt;/f0&gt;, selezionate il tipo di formato di foglio di lavoro che volete usare.</seg>
       </tuv>
     </tu>
     <tu>
