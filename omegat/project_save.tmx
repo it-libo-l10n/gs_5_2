@@ -16824,6 +16824,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves cell focus to the last column on the right in the same range of occupied cells in that row if cell focus is on a cell containing data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200938Z" creationid="Marco Marega" creationdate="20180713T200938Z">
+        <seg>Se il focus si trova su di una cella che contiene dati, lo sposta all'ultima colonna a destra del gruppo di celle contenenti dati sulla stessa riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus to the last column on the right in the spreadsheet if there are no more cells containing data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T201042Z" creationid="Marco Marega" creationdate="20180713T201042Z">
+        <seg>Se non ci sono altre celle che contengono dati, sposta il focus all'ultima colonna a destra del foglio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves cell focus up one cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200546Z" creationid="Marco Marega" creationdate="20180713T200546Z">
