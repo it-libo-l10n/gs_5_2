@@ -5450,6 +5450,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc provides many ways &lt;i0/&gt;to navigate within a spreadsheet from cell to cell and sheet to sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124130Z" creationid="Marco Marega" creationdate="20180713T124130Z">
+        <seg>Calc offre diversi modi per &lt;i0/&gt;navigare in un foglio elettronico da cella a cella e da foglio a foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc toolbars can be either docked and fixed in place, or floating; you can move a toolbar into a more convenient position on the workspace.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T144456Z" creationid="Marco Marega" creationdate="20180707T144456Z">
@@ -14019,6 +14027,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122712Z" creationid="Marco Marega" creationdate="20180713T122712Z">
         <seg>Nel menu a discesa &lt;f0&gt;Tipo di file&lt;/f0&gt;, selezionate il tipo di formato di foglio di lavoro che volete usare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;f1&gt;Default file format&lt;/f1&gt; and &lt;f2&gt;ODF settings &gt; Document type&lt;/f2&gt;, select &lt;f3&gt;Spreadsheet,&lt;/f3&gt; then in &lt;f4&gt;Always save as&lt;/f4&gt;, select your preferred file format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124037Z" creationid="Marco Marega" creationdate="20180713T124037Z">
+        <seg>Nella sezione chiamata &lt;f1&gt;Formato file predefinito e impostazioni ODF&lt;/f1&gt;, come &lt;f2&gt;Tipo documento&lt;/f2&gt;, selezionate &lt;f3&gt;Foglio elettronico,&lt;/f3&gt; quindi in &lt;f4&gt;Salva sempre come&lt;/f4&gt;, selezionate il formato file che preferite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29142,6 +29158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cells, in Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124048Z" creationid="Marco Marega" creationdate="20180713T124048Z">
+        <seg>celle, in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>change tracking</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154512Z" creationid="manuel" creationdate="20180628T154512Z">
@@ -30002,6 +30026,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085525Z" creationid="manuel" creationdate="20180530T085525Z">
         <seg>posizionamento del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>navigate</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124054Z" creationid="Marco Marega" creationdate="20180713T124054Z">
+        <seg>navigare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>navigating</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124044Z" creationid="Marco Marega" creationdate="20180713T124044Z">
+        <seg>navigazione</seg>
       </tuv>
     </tu>
     <tu>
