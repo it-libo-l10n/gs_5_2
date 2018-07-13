@@ -2751,6 +2751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – press the &lt;f1&gt;F5&lt;/f1&gt; key to open the Navigator dialog (Figure &lt;t2&gt;93&lt;/t2&gt;) or click the &lt;f3&gt;Navigator &lt;/f3&gt;button in the open Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183855Z" creationid="Marco Marega" creationdate="20180713T183855Z">
+        <seg>&lt;f0&gt;Usando il navigatore&lt;/f0&gt; – premete il tasto &lt;f1&gt;F5&lt;/f1&gt; per aprire la finestra di dialogo del Navigatore (Figura &lt;t2&gt;93&lt;/t2&gt;) oppure fate clic sul pulsante &lt;f3&gt;Navigatore &lt;/f3&gt;nella barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using the mouse&lt;/f0&gt; – place the mouse pointer over the cell and click the left mouse button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124644Z" creationid="Marco Marega" creationdate="20180713T124644Z">
@@ -10371,6 +10379,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T123706Z" creationid="Marco Marega" creationdate="20180713T123706Z">
         <seg>Figura &lt;seq0&gt;92&lt;/seq0&gt;: finestra di dialogo Esportazione file di testo per i file CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;93&lt;/seq0&gt;: Navigator in Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184005Z" creationid="Marco Marega" creationdate="20180713T184005Z">
+        <seg>Figura &lt;seq0&gt;93&lt;/seq0&gt;: il Navigatore in Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -25617,6 +25633,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104010Z" creationid="manuel" creationdate="20180705T104010Z">
         <seg>Scrivete o incollate il vostro commento nella casella di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the cell reference into the Column and Row fields and press the &lt;f4&gt;Enter&lt;/f4&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183935Z" creationid="Marco Marega" creationdate="20180713T183935Z">
+        <seg>Digitata il riferimento alla cella nei campi Colonna e Riga e premete il tasto &lt;f4&gt;Invio&lt;/f4&gt; key.</seg>
       </tuv>
     </tu>
     <tu>
