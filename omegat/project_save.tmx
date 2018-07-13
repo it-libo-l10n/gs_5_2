@@ -8793,8 +8793,8 @@
       <tuv lang="EN">
         <seg>Each time you click &lt;f0&gt;Save&lt;/f0&gt;, the &lt;f1&gt;Confirm File Format&lt;/f1&gt; dialog opens (Figure &lt;t2&gt;91&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T123026Z" creationid="Marco Marega" creationdate="20180713T123026Z">
-        <seg>Ogni volta che fate clic su &lt;f0&gt;Salva&lt;/f0&gt;, si aprirà la finestra di dialogo &lt;f1&gt;Conferma formato file&lt;/f1&gt; (Figura &lt;t2&gt;91&lt;/t2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T123317Z" creationid="Marco Marega" creationdate="20180713T123026Z">
+        <seg>Ogni volta che fate clic su &lt;f0&gt;Salva&lt;/f0&gt;, si aprirà la finestra di dialogo &lt;f1&gt;Conferma il formato del file&lt;/f1&gt; (Figura &lt;t2&gt;91&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10315,6 +10315,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122926Z" creationid="Marco Marega" creationdate="20180713T122926Z">
         <seg>Figura &lt;seq0&gt;90&lt;/seq0&gt;: Finestra di dialogo Salva con nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;91&lt;/seq0&gt;: Confirm File Format dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T123309Z" creationid="Marco Marega" creationdate="20180713T123309Z">
+        <seg>Figura &lt;seq0&gt;91&lt;/seq0&gt;: finestra di dialogo Conferma il formato del file</seg>
       </tuv>
     </tu>
     <tu>
@@ -13659,6 +13667,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161102Z" creationid="manuel" creationdate="20180628T161102Z">
         <seg>Se salvate un documento di Writer in HTML, i collegamenti ipertestuali, a differenza dei riferimenti incrociati, rimangono attivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select &lt;f0&gt;Text CSV&lt;/f0&gt; format (&lt;f1&gt;*.csv&lt;/f1&gt;) for your spreadsheet, the &lt;f2&gt;Export Text File&lt;/f2&gt; dialog (Figure &lt;t3&gt;92&lt;/t3&gt;) &lt;f4&gt;may &lt;/f4&gt;open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T123512Z" creationid="Marco Marega" creationdate="20180713T123512Z">
+        <seg>Se per il vostro foglio elettronico selezionate il formato &lt;f0&gt;Testo CSV&lt;/f0&gt; (&lt;f1&gt;*.csv&lt;/f1&gt;), potrebbe aprirsi la finestra di dialogo &lt;f2&gt;Esportazione file di testo&lt;/f2&gt; (Figura &lt;t3&gt;92&lt;/t3&gt;) &lt;f4&gt;&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
