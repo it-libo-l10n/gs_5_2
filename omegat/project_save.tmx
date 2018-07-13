@@ -10823,6 +10823,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a key combination, press more than one key at the same time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200340Z" creationid="Marco Marega" creationdate="20180713T200340Z">
+        <seg>Per una combinazione di tasti, premete più di un tasto contemporaneamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a long document, this simple task can require making individual changes in dozens of places.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143906Z" creationid="manuel" creationdate="20180611T143906Z">
@@ -20888,6 +20896,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;t0&gt;86&lt;/t0&gt; lists the keys and key combinations you can use for spreadsheet navigation in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200420Z" creationid="Marco Marega" creationdate="20180713T200420Z">
+        <seg>Tabella &lt;t0&gt;86&lt;/t0&gt; elenco dei tasti e delle combinazioni di tasti che potete usare per spostarvi in un foglio di lavoro di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Templates and styles (see Chapter 3)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160643Z" creationid="manuel" creationdate="20180616T160643Z">
@@ -25097,6 +25113,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183258Z" creationid="Marco Marega" creationdate="20180713T183258Z">
         <seg>Per spostare il focus ad un'altra cella usando il mouse, spostate semplicemente il puntatore del mouse sopra la cella che volete selezionare e fare clic con il tasto sinistro del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To navigate a spreadsheet using the keyboard, pressing a key or a combination of keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200239Z" creationid="Marco Marega" creationdate="20180713T200239Z">
+        <seg>Navigare in un foglio di lavoro usando la tastiera premendo un tasto o una combinazione di tasti.</seg>
       </tuv>
     </tu>
     <tu>
