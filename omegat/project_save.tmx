@@ -5412,8 +5412,8 @@
       <tuv lang="EN">
         <seg>Calc can also save spreadsheets in a range of formats and also export spreadsheets to PDF, HTML, and XHTML file formats; see the &lt;f1&gt;Calc Guide Chapter 6 Printing, Exporting, and E-mailing&lt;/f1&gt; for more information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T121618Z" creationid="Marco Marega" creationdate="20180713T121618Z">
-        <seg>Calc può salvare i fogli elettronici in una varietà di formati e può anche esportarli nei formati  PDF, HTML e XHTML; per maggiori informazioni vedete il &lt;f1&gt;Capitolo 6 della Guida a Calc (Stampare, Esportare ed inviare per e-mail)&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122028Z" creationid="Marco Marega" creationdate="20180713T121618Z">
+        <seg>Calc può salvare i fogli elettronici in una varietà di formati e può anche esportarli nei formati  PDF, HTML e XHTML; per maggiori informazioni vedete il &lt;f1&gt;Capitolo 6 della Guida a Calc (Stampa, esportazione e invio di e-mail)&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13519,6 +13519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need to exchange files with users who are unable to receive spreadsheet files in Open Document Format (ODF) (&lt;f0&gt;*.ods&lt;/f0&gt;), which Calc uses as default format, you can save a spreadsheet in another format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122356Z" creationid="Marco Marega" creationdate="20180713T122356Z">
+        <seg>Se avete la necessità di scambiare dei file con utenti che non sono in grado di ricevere fogli elettronici in formato Open Document Format (ODF) (&lt;f0&gt;*.ods&lt;/f0&gt;), che Calc usa come formato predefinito, potete salvare i fogli di lavoro in un altro formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need to fine tune the appearance of a line, choose &lt;f0&gt;Format &gt; Line&lt;/f0&gt; from the Menu bar, or right-click on the line and select &lt;f1&gt;Line&lt;/f1&gt; from the context menu, or select the &lt;f2&gt;Line&lt;/f2&gt; icon &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt; from the Line and Filling toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105510Z" creationid="manuel" creationdate="20180707T105510Z">
@@ -18532,6 +18540,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143504Z" creationid="manuel" creationdate="20180621T143504Z">
         <seg>Il salvataggio in formato ODF vi offre la possibilità di ripetere il documento se il destinatario del documento presenta problemi con il formato Microsoft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving in other spreadsheet formats</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122128Z" creationid="Marco Marega" creationdate="20180713T122128Z">
+        <seg>Salvare in altri formati di fogli elettronici</seg>
       </tuv>
     </tu>
     <tu>
@@ -30178,6 +30194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T222100Z" creationid="Marco Marega" creationdate="20180712T222100Z">
         <seg>salvare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>saving as Microsoft Excel</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122056Z" creationid="Marco Marega" creationdate="20180713T122056Z">
+        <seg>salvare nel formato di Microsoft Excel</seg>
       </tuv>
     </tu>
     <tu>
