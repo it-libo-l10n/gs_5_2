@@ -13935,6 +13935,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;f0&gt;File name&lt;/f0&gt;, you can enter a new file name for the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122606Z" creationid="Marco Marega" creationdate="20180713T122606Z">
+        <seg>In &lt;f0&gt;Nome file&lt;/f0&gt;, potete inserire un nuovo nome per il foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Calc it shows Sheets, Range Names, Database Ranges, Graphics, Drawing Objects, and other items.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124822Z" creationid="Marco Marega" creationdate="20180623T124822Z">
@@ -18488,6 +18496,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save the spreadsheet in Calc spreadsheet file format (&lt;f0&gt;*.ods&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122427Z" creationid="Marco Marega" creationdate="20180713T122427Z">
+        <seg>Salvare i fogli elettronici nel formato file di Calc (&lt;f0&gt;*.ods&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save versions that are stored as part of the original file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154808Z" creationid="manuel" creationdate="20180628T154808Z">
@@ -19036,6 +19052,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T124742Z" creationid="Marco Marega" creationdate="20180622T124639Z">
         <seg>Selezionate &lt;f0&gt;File &gt; Apri file remoto...&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Save As&lt;/f1&gt; dialog (Figure &lt;t2&gt;90&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122531Z" creationid="Marco Marega" creationdate="20180713T122531Z">
+        <seg>Nella barra del menu selezionate &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt; in modo da aprire la finestra di dialogo &lt;f1&gt;Salva con nome&lt;/f1&gt; (Figura &lt;t2&gt;90&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
