@@ -10327,6 +10327,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;92&lt;/seq0&gt;: Export Text File dialog for CSV files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T123706Z" creationid="Marco Marega" creationdate="20180713T123706Z">
+        <seg>Figura &lt;seq0&gt;92&lt;/seq0&gt;: finestra di dialogo Esportazione file di testo per i file CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Floating (undocking) or docking the Sidebar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222903Z" creationid="Marco Marega" creationdate="20180620T222903Z">
@@ -12179,6 +12187,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072618Z" creationid="manuel" creationdate="20180531T072618Z">
         <seg>Qui potete selezionare un colore dalla finestra sulla sinistra, oppure potete inserire dei valori di vostra scelta sulla destra, per RGB, CMYK, o HSB (Hue, Saturation and Brightness - Tono, Saturazione e Luminosità).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you can select the character set, field delimiter, text delimiter, and so on to be used for the CSV file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T123636Z" creationid="Marco Marega" creationdate="20180713T123636Z">
+        <seg>Qui potete selezionare il set di caratteri, i separatori di campo e di testo ed altre opzione da usare nel file CSV.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24536,6 +24552,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T151813Z" creationid="manuel" creationdate="20180616T151813Z">
         <seg>Per tornare allo stile della pagina verticale, inserite un'altra interruzione di pagina e selezionate lo stile predefinito della pagina verticale del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To have Calc save documents by default in a file format other than the default ODF format, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T123832Z" creationid="Marco Marega" creationdate="20180713T123832Z">
+        <seg>Per fare in modo che Calc salvi in modo predefinito i documenti in un formato diverso da ODF, andate in Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale.</seg>
       </tuv>
     </tu>
     <tu>
