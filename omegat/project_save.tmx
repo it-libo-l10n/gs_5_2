@@ -7902,6 +7902,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+End</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141002Z" creationid="Marco Marega" creationdate="20180714T141002Z">
+        <seg>Ctrl+Fine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Home</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140912Z" creationid="Marco Marega" creationdate="20180714T140912Z">
+        <seg>Ctrl+Inizio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+←</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T201047Z" creationid="Marco Marega" creationdate="20180713T201047Z">
@@ -16836,6 +16852,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140809Z" creationid="Marco Marega" creationdate="20180714T140809Z">
         <seg>Sposta il focus da una cella vuota alla prima cella verso il basso che contiene dati nella stessa colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus from anywhere on the spreadsheet to Cell A1 on the same sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140959Z" creationid="Marco Marega" creationdate="20180714T140959Z">
+        <seg>Sposta il focus della cella da un punto qualsiasi del foglio elettronico alla cella A1 dello stesso foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus from anywhere on the spreadsheet to the last cell in the lower right-hand corner of the rectangular area of cells containing data on the same sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141155Z" creationid="Marco Marega" creationdate="20180714T141155Z">
+        <seg>Sposta il focus della cella da un punto qualsiasi del foglio elettronico all'ultima cella nell'angolo in basso a destra di un'area rettangolare formata da celle dello stesso foglio che contengono dati.</seg>
       </tuv>
     </tu>
     <tu>
