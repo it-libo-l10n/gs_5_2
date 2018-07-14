@@ -6826,6 +6826,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on all of the subsequent columns or rows while holding down the &lt;f0&gt;Ctrl&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145647Z" creationid="Marco Marega" creationdate="20180714T145647Z">
+        <seg>Fate clic su tutte le colonne o righe da aggiungere tenendo premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on an object or group of objects and go to &lt;f0&gt;Edit &gt; Duplicate&lt;/f0&gt; on the Menu bar or use the keyboard shortcut &lt;f1&gt;Shift+F3&lt;/f1&gt; to open the &lt;f2&gt;Duplicate&lt;/f2&gt; dialog (Figure &lt;t3&gt;203&lt;/t3&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172958Z" creationid="manuel" creationdate="20180705T145536Z">
@@ -6903,6 +6911,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T084632Z" creationid="manuel" creationdate="20180707T070917Z">
         <seg>Fate clic sull'icona ruota &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; sulla barra degli strumenti Stile e riempimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the first column or row in the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145517Z" creationid="Marco Marega" creationdate="20180714T145517Z">
+        <seg>Fate clic sulla prima colonna o riga del gruppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7209,6 +7225,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142712Z" creationid="manuel" creationdate="20180608T142712Z">
         <seg>Fate clic sul segno di espansione (+ o triangolo) alla sinistra di &lt;f1&gt;Carica/Salva&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the last column or row in the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145534Z" creationid="Marco Marega" creationdate="20180714T145534Z">
+        <seg>Fate clic sull'ultima colonna o riga del gruppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9275,6 +9299,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184730Z" creationid="Elisabetta Manuele" creationdate="20180620T184730Z">
         <seg>Inserimento dei dati tramite formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entire sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145658Z" creationid="Marco Marega" creationdate="20180714T145658Z">
+        <seg>Intero foglio</seg>
       </tuv>
     </tu>
     <tu>
@@ -12639,6 +12671,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145550Z" creationid="Marco Marega" creationdate="20180714T145550Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142626Z" creationid="Marco Marega" creationdate="20180714T142626Z">
@@ -12659,6 +12699,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T103303Z" creationid="manuel" creationdate="20180704T103303Z">
         <seg>Tenendo premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; quando tracciate linee con gli strumenti Curva o Poligono, gli angoli tra le linee verranno limitati a 45 o 90 gradi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145528Z" creationid="Marco Marega" creationdate="20180714T145528Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17252,6 +17300,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T065921Z" creationid="manuel" creationdate="20180629T065921Z">
         <seg>I disegni su più pagine sono utilizzati principalmente nelle presentazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple columns or rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145500Z" creationid="Marco Marega" creationdate="20180714T145500Z">
+        <seg>Colonne o righe multiple</seg>
       </tuv>
     </tu>
     <tu>
@@ -26037,10 +26093,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To select a single row, click on the row header.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145439Z" creationid="Marco Marega" creationdate="20180714T145439Z">
+        <seg>Per selezionare una singola riga, fate clic sull'intestazione della riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To select an object that is covered by another object using the keyboard, use the &lt;f0&gt;Tab&lt;/f0&gt; key to cycle through the objects, stopping at the object you want to select.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172413Z" creationid="manuel" creationdate="20180706T172413Z">
         <seg>Per selezionare un oggetto nascosto da un altro oggetto utilizzando la tastiera, usate il tasto &lt;f0&gt;Tab&lt;/f0&gt; per passare da un oggetto all'altro, fermandovi sull'oggetto che desiderate selezionare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select multiple columns or rows that are contiguous:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145510Z" creationid="Marco Marega" creationdate="20180714T145510Z">
+        <seg>Per selezionare più colonne o righe contigue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select multiple columns or rows that are not contiguous:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145539Z" creationid="Marco Marega" creationdate="20180714T145539Z">
+        <seg>Per selezionare più colonne o righe non contigue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26065,6 +26145,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171410Z" creationid="manuel" creationdate="20180706T171410Z">
         <seg>Per selezionare o deselezionare più di un oggetto, tenete premuto il tasto Maiusc mentre fate clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select the entire sheet, click on the small box between the column headers and the row headers (Figure &lt;t0&gt;97&lt;/t0&gt;), or use the key combination &lt;f1&gt;Ctrl+A&lt;/f1&gt; to select the entire sheet, or go to &lt;f2&gt;Edit&lt;/f2&gt; on the Menu bar and select &lt;f3&gt;Select All&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150012Z" creationid="Marco Marega" creationdate="20180714T150012Z">
+        <seg>Per selezionare l'intero foglio, fate clic sul piccolo rettangolo tra le intestazioni delle colonne e delle righe (Figura &lt;t0&gt;97&lt;/t0&gt;), altrimenti usate la combinazione di tasti &lt;f1&gt;Ctrl+A&lt;/f1&gt;, oppure nella barra del menu andate in &lt;f2&gt;Modifica&lt;/f2&gt; e scegliete &lt;f3&gt;Seleziona tutto&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
