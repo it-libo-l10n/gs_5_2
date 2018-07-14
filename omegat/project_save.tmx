@@ -6786,6 +6786,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click into the Name Box on the Formula Bar (Figure &lt;t0&gt;87&lt;/t0&gt; on page &lt;t1&gt;115&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144909Z" creationid="Marco Marega" creationdate="20180714T144909Z">
+        <seg>Fate clic nella Casella del nome nella Barra della formula (Figura &lt;t0&gt;87&lt;/t0&gt; a pagina &lt;t1&gt;115&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on &lt;f0&gt;OK&lt;/f0&gt; and the result is a new group of objects with the first object selected as the start object and the second object selected as the end object.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145952Z" creationid="manuel" creationdate="20180705T145952Z">
@@ -11219,6 +11227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105932Z" creationid="manuel" creationdate="20180629T105932Z">
         <seg>Ad esempio, per cambiare lo stile di una linea, fate clic sulle frecce verso l'alto e verso il basso per lo Stile linea e selezionate lo stile desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, to select the range that would go from A3 to C6, you would enter &lt;f2&gt;A3:C6&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145033Z" creationid="Marco Marega" creationdate="20180714T145033Z">
+        <seg>Ad esempio, per selezionare l'intervallo da A3 a C6, dovrete digitare A3:C6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16960,6 +16976,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the mouse pointer to the start of the next range or single cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145123Z" creationid="Marco Marega" creationdate="20180714T145123Z">
+        <seg>Portate il puntatore del mouse all'inizio dell'intervallo successivo o su di una cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the mouse to the opposite corner of the range of cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142612Z" creationid="Marco Marega" creationdate="20180714T142612Z">
@@ -18808,6 +18832,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Range of non-contiguous cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145038Z" creationid="Marco Marega" creationdate="20180714T145038Z">
+        <seg>Intervallo di celle non contigue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rather than having to create a new presentation, you can use two tools that Impress offers: hiding slides and custom slide shows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
@@ -20140,6 +20172,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T102207Z" creationid="manuel" creationdate="20180622T100851Z">
         <seg>Seleziona il pulsante a destra di Maiuscole/minuscole (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) per aprire la finestra di dialogo Trova e sostituisci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the cell or range of cells using one of the methods above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145044Z" creationid="Marco Marega" creationdate="20180714T145044Z">
+        <seg>Selezionate la cella o l'intervallo di celle usando uno dei metodi precedenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25945,6 +25985,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144625Z" creationid="Marco Marega" creationdate="20180714T144625Z">
         <seg>Per selezionare un intervallo di celle senza usare il mouse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select a range of cells, enter the cell reference for the upper left-hand cell, followed by a colon (:), and then the lower right-hand cell reference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145007Z" creationid="Marco Marega" creationdate="20180714T145007Z">
+        <seg>Per selezionare un intervallo di celle, inserite il riferimento della prima cella in alto a sinistra, seguito dai due punti (:) e dal riferimento dell'ultima cella in basso a destra.</seg>
       </tuv>
     </tu>
     <tu>
