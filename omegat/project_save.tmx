@@ -15327,6 +15327,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inserting columns and rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T151037Z" creationid="Marco Marega" creationdate="20180714T151037Z">
+        <seg>Inserire colonne e righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inserting comments in a drawing</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184646Z" creationid="Elisabetta Manuele" creationdate="20180620T184646Z">
@@ -30510,6 +30518,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>columns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T151025Z" creationid="Marco Marega" creationdate="20180714T151025Z">
+        <seg>colonne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>columns and rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T151010Z" creationid="Marco Marega" creationdate="20180714T151010Z">
+        <seg>colonne e righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>columns, in Calc</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144729Z" creationid="Marco Marega" creationdate="20180714T144729Z">
@@ -31126,6 +31150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>inserting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T151017Z" creationid="Marco Marega" creationdate="20180714T151017Z">
+        <seg>inserimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>inserting references</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161327Z" creationid="manuel" creationdate="20180628T161327Z">
@@ -31626,6 +31658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154835Z" creationid="manuel" creationdate="20180628T154835Z">
         <seg>marcatura di revisione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T151022Z" creationid="Marco Marega" creationdate="20180714T151022Z">
+        <seg>righe</seg>
       </tuv>
     </tu>
     <tu>
