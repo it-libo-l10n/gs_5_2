@@ -10631,6 +10631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;96&lt;/seq0&gt;: Customizing the Enter key</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142327Z" creationid="Marco Marega" creationdate="20180714T142327Z">
+        <seg>Figura &lt;seq0&gt;96&lt;/seq0&gt;: Personalizzazione del tasto Invio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Floating (undocking) or docking the Sidebar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222903Z" creationid="Marco Marega" creationdate="20180620T222903Z">
@@ -15775,6 +15783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left-click in the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142353Z" creationid="Marco Marega" creationdate="20180714T142353Z">
+        <seg>Fate clic nella cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Let LibreOffice use the video card GPU to perform numerical calculation with great speed gain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140524Z" creationid="manuel" creationdate="20180608T140524Z">
@@ -20304,6 +20320,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142341Z" creationid="Marco Marega" creationdate="20180714T142341Z">
+        <seg>Selezionare celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting hidden objects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171741Z" creationid="manuel" creationdate="20180706T171741Z">
@@ -20636,6 +20660,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114422Z" creationid="manuel" creationdate="20180611T114422Z">
         <seg>Dalla versione 4.4 di LibreOffice, potete creare modelli per documenti master e per documenti ordinari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Single cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142348Z" creationid="Marco Marega" creationdate="20180714T142348Z">
+        <seg>Singola cella</seg>
       </tuv>
     </tu>
     <tu>
@@ -21492,6 +21524,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161218Z" creationid="manuel" creationdate="20180628T161218Z">
         <seg>La scheda &lt;f2&gt;Riferimenti incrociati&lt;/f2&gt; nella finestra di dialogo Comandi di campo elenca alcuni elementi, come ad esempio intestazioni, &lt;i3/&gt;segnalibri, figure, tabelle, ed altri elementi numerati come i passi di una procedura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f2&gt;Enter&lt;/f2&gt; key can also be used to switch into and out of editing mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142204Z" creationid="Marco Marega" creationdate="20180714T142204Z">
+        <seg>Il tasto &lt;/f2&gt;Invio&lt;/f1&gt;&lt;f2&gt; può essere usato anche per entrare ed uscire dal modo modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26590,6 +26630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the first two options under &lt;f3&gt;Input settings&lt;/f3&gt; in Figure &lt;t4&gt;96&lt;/t4&gt; to change the &lt;f5&gt;Enter&lt;/f5&gt; key settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142301Z" creationid="Marco Marega" creationdate="20180714T142301Z">
+        <seg>Utilizzate le prime due opzioni sotto la voce &lt;f3&gt;Impostazioni di immissione&lt;/f3&gt; in Figura &lt;t4&gt;96&lt;/t4&gt; per modificare le impostazioni del tasto &lt;f5&gt;Invio&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+N&lt;/f0&gt; to create a new document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123532Z" creationid="Marco Marega" creationdate="20180621T123532Z">
@@ -31170,6 +31218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T090931Z" creationid="manuel" creationdate="20180530T090931Z">
         <seg>appunti di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>selection, in Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142333Z" creationid="Marco Marega" creationdate="20180714T142333Z">
+        <seg>selezione, in Calc</seg>
       </tuv>
     </tu>
     <tu>
