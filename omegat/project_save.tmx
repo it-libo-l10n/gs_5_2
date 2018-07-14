@@ -7942,6 +7942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Page Up</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141451Z" creationid="Marco Marega" creationdate="20180714T141451Z">
+        <seg>Ctrl+PagSu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+←</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T201047Z" creationid="Marco Marega" creationdate="20180713T201047Z">
@@ -8018,6 +8026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T183912Z" creationid="Marco Marega" creationdate="20180620T183912Z">
         <seg>Personalizzare le barre degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing&lt;i0/&gt; the Enter key</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141810Z" creationid="Marco Marega" creationdate="20180714T141810Z">
+        <seg>Personalizzare&lt;i0/&gt; il tasto Invio</seg>
       </tuv>
     </tu>
     <tu>
@@ -9171,6 +9187,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T073631Z" creationid="manuel" creationdate="20180609T073120Z">
         <seg>Supporto avanzato della lingua – Ignora la lingua di input del sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141622Z" creationid="Marco Marega" creationdate="20180714T141622Z">
+        <seg>Invio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter key</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141717Z" creationid="Marco Marega" creationdate="20180714T141717Z">
+        <seg>Tasto Invio</seg>
       </tuv>
     </tu>
     <tu>
@@ -16864,6 +16896,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves cell focus down one cell (unless changed by user).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141650Z" creationid="Marco Marega" creationdate="20180714T141650Z">
+        <seg>Sposta il focus di una cella in basso (salvo personalizzazioni dell'utente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves cell focus from a blank cell to the first cell above containing data in the same column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140438Z" creationid="Marco Marega" creationdate="20180714T140438Z">
@@ -17008,10 +17048,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves cell focus to the next cell on the left.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141619Z" creationid="Marco Marega" creationdate="20180714T141619Z">
+        <seg>Sposta il focus alla cella successiva a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus to the next cell on the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141600Z" creationid="Marco Marega" creationdate="20180714T141600Z">
+        <seg>Sposta il focus alla cella successiva a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus to the same cell on the next sheet to the left in sheet tabs if the spreadsheet has more than on sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141528Z" creationid="Marco Marega" creationdate="20180714T141528Z">
+        <seg>Se il foglio elettronico contiene più fogli, sposta il focus alla stessa cella nel foglio precedente, a sinistra nelle linguette dei fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves cell focus to the same cell on the next sheet to the right in sheet tabs if the spreadsheet has more than on sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141446Z" creationid="Marco Marega" creationdate="20180714T141446Z">
         <seg>Se il foglio elettronico contiene più fogli, sposta il focus alla stessa cella nel foglio successivo, a destra nelle linguette dei fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus up one cell (unless changed by user).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141709Z" creationid="Marco Marega" creationdate="20180714T141709Z">
+        <seg>Sposta il focus di una cella in alto (salvo personalizzazioni dell'utente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20424,6 +20496,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Enter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141656Z" creationid="Marco Marega" creationdate="20180714T141656Z">
+        <seg>Maiusc+Invio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Tab</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141607Z" creationid="Marco Marega" creationdate="20180714T141607Z">
+        <seg>Maiusc+Tab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcut keys for drawing objects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152350Z" creationid="Elisabetta Manuele" creationdate="20180625T152350Z">
@@ -21100,6 +21188,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074618Z" creationid="manuel" creationdate="20180606T074618Z">
         <seg>TSAs - Time Stamping&lt;f0&gt;&lt;/f0&gt; Authorities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141530Z" creationid="Marco Marega" creationdate="20180714T141530Z">
+        <seg>Tab</seg>
       </tuv>
     </tu>
     <tu>
@@ -30010,6 +30106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T142445Z" creationid="manuel" creationdate="20180609T091135Z">
         <seg>dizionario personalizzato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>customizing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141721Z" creationid="Marco Marega" creationdate="20180714T141721Z">
+        <seg>personalizzazione</seg>
       </tuv>
     </tu>
     <tu>
