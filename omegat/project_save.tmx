@@ -4216,6 +4216,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150759Z" creationid="Marco Marega" creationdate="20180714T150759Z">
+        <seg>Tutti i fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All tabs between these two selections will turn white (default Calc setup).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150539Z" creationid="Marco Marega" creationdate="20180714T150539Z">
@@ -12695,6 +12703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and click on the sheet tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150721Z" creationid="Marco Marega" creationdate="20180714T150721Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; e fate clic sulla linguetta del foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and click or click-and-drag to select another range of cells to add to the first range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145224Z" creationid="Marco Marega" creationdate="20180714T145224Z">
@@ -17096,6 +17112,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the mouse pointer over the sheet tab for the second desired sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150708Z" creationid="Marco Marega" creationdate="20180714T150708Z">
+        <seg>Spostate il puntatore del mouse sopra la linguetta del secondo foglio da selezionare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the mouse pointer to the start of the next range or single cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145123Z" creationid="Marco Marega" creationdate="20180714T145123Z">
@@ -19244,6 +19268,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173402Z" creationid="Elisabetta Manuele" creationdate="20180627T173402Z">
         <seg>Pulsante destro del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click a sheet tab and choose &lt;f0&gt;Select All Sheets&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150958Z" creationid="Marco Marega" creationdate="20180714T150958Z">
+        <seg>Fate clic con il pulsante destro del mouse su una linguetta dei fogli e nel menu a comparsa scegliete &lt;f0&gt;Seleziona tutti i fogli&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23529,6 +23561,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The selected tabs will turn white (default Calc setup).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150756Z" creationid="Marco Marega" creationdate="20180714T150756Z">
+        <seg>Le linguette selezionate diventeranno bianche (configurazione predefinita di Calc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The selection handle at the starting point of the line is slightly larger than the other selection handle.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164931Z" creationid="manuel" creationdate="20180703T164931Z">
@@ -26233,6 +26273,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150423Z" creationid="Marco Marega" creationdate="20180714T150423Z">
         <seg>Per selezionare fogli multipli contigui:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select multiple non-contiguous sheets:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150639Z" creationid="Marco Marega" creationdate="20180714T150639Z">
+        <seg>Per selezionare fogli multipli non contigui:</seg>
       </tuv>
     </tu>
     <tu>
