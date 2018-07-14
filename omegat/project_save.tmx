@@ -7926,6 +7926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140754Z" creationid="Marco Marega" creationdate="20180714T140754Z">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl-click required to follow hyperlinks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084031Z" creationid="manuel" creationdate="20180606T084031Z">
@@ -16824,6 +16832,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves cell focus from a blank cell to the first cell below containing data in the same column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140809Z" creationid="Marco Marega" creationdate="20180714T140809Z">
+        <seg>Sposta il focus da una cella vuota alla prima cella verso il basso che contiene dati nella stessa colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus from the last cell containing data to the cell in the same column in the &lt;f0&gt;fir&lt;/f0&gt;st row of the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140751Z" creationid="Marco Marega" creationdate="20180714T140751Z">
+        <seg>Sposta il focus dall'ultima cella che contiene dati alla cella della stessa colonna nella &lt;f0&gt;prima&lt;/f0&gt; riga del foglio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus from the last cell containing data to the cell in the same column in the last row of the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140901Z" creationid="Marco Marega" creationdate="20180714T140901Z">
+        <seg>Sposta il focus dall'ultima cella che contiene dati alla cella della stessa colonna nell'ultima riga del foglio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves cell focus left one cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200527Z" creationid="Marco Marega" creationdate="20180713T200527Z">
@@ -16892,6 +16924,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T201042Z" creationid="Marco Marega" creationdate="20180713T201042Z">
         <seg>Se non ci sono altre celle che contengono dati, sposta il focus all'ultima colonna a destra del foglio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus to the last row in the same range of occupied cells in that column if cell focus is on a cell containing data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140831Z" creationid="Marco Marega" creationdate="20180714T140831Z">
+        <seg>Se il focus si trova su di una cella che contiene dati, lo sposta all'ultima riga dello stesso gruppo di celle contenenti dati.</seg>
       </tuv>
     </tu>
     <tu>
