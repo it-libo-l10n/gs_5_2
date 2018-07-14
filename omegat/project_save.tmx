@@ -28734,6 +28734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also select a contiguous range of cells by first clicking in the &lt;f0&gt;Selection mode&lt;/f0&gt; field on the Status Bar (Figure &lt;t1&gt;88&lt;/t1&gt; on page &lt;t2&gt;116&lt;/t2&gt;) and selecting &lt;f3&gt;Extending selection&lt;/f3&gt; before clicking in the opposite corner of the range of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144509Z" creationid="Marco Marega" creationdate="20180714T144509Z">
+        <seg>Potete selezionare un intervallo di celle contigue anche facendo prima clic sul campo &lt;f0&gt;Modo selezione&lt;/f0&gt; nella Barra di stato (Figura &lt;t1&gt;88&lt;/t1&gt; a pagina &lt;t2&gt;116&lt;/t2&gt;) e selezionando &lt;f3&gt;Selezione estesa&lt;/f3&gt; e poi facendo clic nell'angolo opposto dell'intervallo di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also select multiple sheets by holding down the &lt;f1&gt;Ctrl&lt;/f1&gt; key while clicking on the sheet tabs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T212427Z" creationid="Marco Marega" creationdate="20180712T212427Z">
