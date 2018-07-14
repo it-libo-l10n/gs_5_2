@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7906,6 +7906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T201047Z" creationid="Marco Marega" creationdate="20180713T201047Z">
         <seg>Ctrl+←</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+↑</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140300Z" creationid="Marco Marega" creationdate="20180714T140300Z">
+        <seg>Ctrl+↑</seg>
       </tuv>
     </tu>
     <tu>
@@ -16808,6 +16816,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves cell focus from a blank cell to the first cell above containing data in the same column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140438Z" creationid="Marco Marega" creationdate="20180714T140438Z">
+        <seg>Sposta il focus da una cella vuota alla prima cella verso l'altro che contiene dati nella stessa colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves cell focus left one cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200527Z" creationid="Marco Marega" creationdate="20180713T200527Z">
@@ -16844,6 +16860,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200713Z" creationid="Marco Marega" creationdate="20180713T200713Z">
         <seg>Se il focus si trova su di una cella vuota, lo sposta alla prima colonna a destra sulla stessa riga che contiene dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus to the first row in the same range of occupied cells if cell focus is on a cell containing data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140617Z" creationid="Marco Marega" creationdate="20180714T140617Z">
+        <seg>Se il focus si trova su di una cella che contiene dati, lo sposta alla prima riga dello stesso gruppo di celle contenenti dati.</seg>
       </tuv>
     </tu>
     <tu>
