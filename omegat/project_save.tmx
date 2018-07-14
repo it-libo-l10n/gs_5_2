@@ -4272,6 +4272,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alt+Page Down</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141207Z" creationid="Marco Marega" creationdate="20180714T141207Z">
+        <seg>Alt+PagGiù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alt+Page Up</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141238Z" creationid="Marco Marega" creationdate="20180714T141238Z">
+        <seg>Alt+PagSu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, click on the Properties icon on the Sidebar and open the Line sub-section.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T152204Z" creationid="manuel" creationdate="20180704T152204Z">
@@ -7914,6 +7930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140912Z" creationid="Marco Marega" creationdate="20180714T140912Z">
         <seg>Ctrl+Inizio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Page Down</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141258Z" creationid="Marco Marega" creationdate="20180714T141258Z">
+        <seg>Ctrl+PagGiù</seg>
       </tuv>
     </tu>
     <tu>
@@ -16896,6 +16920,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves cell focus one screen to the left (if possible).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141249Z" creationid="Marco Marega" creationdate="20180714T141249Z">
+        <seg>Sposta il focus di una videata a sinistra (se possibile).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus one screen to the right (if possible).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141234Z" creationid="Marco Marega" creationdate="20180714T141234Z">
+        <seg>Sposta il focus di una videata a destra (se possibile).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves cell focus right one cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200518Z" creationid="Marco Marega" creationdate="20180713T200518Z">
@@ -16964,6 +17004,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140831Z" creationid="Marco Marega" creationdate="20180714T140831Z">
         <seg>Se il focus si trova su di una cella che contiene dati, lo sposta all'ultima riga dello stesso gruppo di celle contenenti dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus to the same cell on the next sheet to the right in sheet tabs if the spreadsheet has more than on sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141446Z" creationid="Marco Marega" creationdate="20180714T141446Z">
+        <seg>Se il foglio elettronico contiene più fogli, sposta il focus alla stessa cella nel foglio successivo, a destra nelle linguette dei fogli.</seg>
       </tuv>
     </tu>
     <tu>
