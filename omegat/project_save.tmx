@@ -3704,6 +3704,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A range of cells can be selected using the keyboard or the mouse.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142505Z" creationid="Marco Marega" creationdate="20180714T142505Z">
+        <seg>Potete selezionare un intervallo di celle usando la tastiera o il mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A relative address always starts from the directory in which the current document is located.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144530Z" creationid="manuel" creationdate="20180608T144530Z">
@@ -6738,10 +6746,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click in a cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142526Z" creationid="Marco Marega" creationdate="20180714T142526Z">
+        <seg>Fate clic in una cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in the Page Number field and type the &lt;f0&gt;sequence&lt;/f0&gt; number of the required page and press &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055558Z" creationid="manuel" creationdate="20180618T055558Z">
         <seg>Fate clic sul campo del Numero di Pagina, digitate il numero &lt;f0&gt;sequenziale&lt;/f0&gt; della pagina desiderata, e premete &lt;f1&gt;Invio&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the cell which is to be one corner of the range of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142603Z" creationid="Marco Marega" creationdate="20180714T142603Z">
+        <seg>Fate clic nella cella che si troverà ad uno degli angoli dell'intervallo di celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12591,6 +12615,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142626Z" creationid="Marco Marega" creationdate="20180714T142626Z">
+        <seg>Tenendo premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; e fate clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and select the next piece of text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152356Z" creationid="manuel" creationdate="20180621T152356Z">
@@ -16888,6 +16920,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the mouse around the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142538Z" creationid="Marco Marega" creationdate="20180714T142538Z">
+        <seg>Muovete il mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the mouse cursor over one of the icons to show a tooltip with a description of the function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093207Z" creationid="manuel" creationdate="20180705T093207Z">
@@ -16908,6 +16948,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T071937Z" creationid="manuel" creationdate="20180707T071937Z">
         <seg>Portate il cursore del mouse su una delle maniglie d'angolo ed esso cambierà in un arco con una freccia a ciascuna estremità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the mouse to the opposite corner of the range of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142612Z" creationid="Marco Marega" creationdate="20180714T142612Z">
+        <seg>Portate il mouse all'angolo opposto dell'intervallo desiderato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17808,6 +17856,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the desired block of cells is highlighted, release the left mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142546Z" creationid="Marco Marega" creationdate="20180714T142546Z">
+        <seg>Dopo aver evidenziato il blocco di celle desiderato, rilasciate il pulsante sinistro del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once this option is activated, white space is also hidden in Full Screen view.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T134706Z" creationid="manuel" creationdate="20180621T134706Z">
@@ -18536,6 +18592,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press and hold down the left mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142531Z" creationid="Marco Marega" creationdate="20180714T142531Z">
+        <seg>Tenete premuto il pulsante sinistro del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press and hold the left mouse button and drag the cursor to the line shape you require.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105138Z" creationid="manuel" creationdate="20180704T105138Z">
@@ -18724,6 +18788,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174834Z" creationid="Elisabetta Manuele" creationdate="20180627T174834Z">
         <seg>Pulsanti di selezione (Radio) (permettono una singola scelta esclusiva).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Range of contiguous cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142449Z" creationid="Marco Marega" creationdate="20180714T142449Z">
+        <seg>Intervallo di celle contigue</seg>
       </tuv>
     </tu>
     <tu>
@@ -25837,6 +25909,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To select a range of cells by dragging the mouse cursor:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142522Z" creationid="Marco Marega" creationdate="20180714T142522Z">
+        <seg>Per selezionare un intervallo di celle trascinando il cursore del mouse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select a range of cells without dragging the mouse:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142550Z" creationid="Marco Marega" creationdate="20180714T142550Z">
+        <seg>Per selezionare un intervallo di celle senza trascinare il mouse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To select an object that is covered by another object using the keyboard, use the &lt;f0&gt;Tab&lt;/f0&gt; key to cycle through the objects, stopping at the object you want to select.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172413Z" creationid="manuel" creationdate="20180706T172413Z">
@@ -29550,6 +29638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can verify your selection by looking in the Name Box on the Formula Bar (Figure &lt;t0&gt;87&lt;/t0&gt; on page &lt;t1&gt;115&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142444Z" creationid="Marco Marega" creationdate="20180714T142444Z">
+        <seg>Potete verificare la selezione guardando la Casella del nome nella barra della formula (Figura &lt;t0&gt;87&lt;/t0&gt; a pagina &lt;t1&gt;115&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can, however, change the default whenever you choose.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T075040Z" creationid="manuel" creationdate="20180616T075040Z">
@@ -31034,6 +31130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143846Z" creationid="manuel" creationdate="20180608T143846Z">
         <seg>impostazioni della stampante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142456Z" creationid="Marco Marega" creationdate="20180714T142456Z">
+        <seg>intervallo</seg>
       </tuv>
     </tu>
     <tu>
