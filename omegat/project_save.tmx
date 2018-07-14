@@ -10703,6 +10703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;97&lt;/seq0&gt;: Select All box</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150031Z" creationid="Marco Marega" creationdate="20180714T150031Z">
+        <seg>Figura &lt;seq0&gt;97&lt;/seq0&gt;: il riquadro Seleziona tutto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Floating (undocking) or docking the Sidebar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222903Z" creationid="Marco Marega" creationdate="20180620T222903Z">
@@ -15427,6 +15435,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211226Z" creationid="Marco Marega" creationdate="20180527T211226Z">
         <seg>Il programma può anche elaborare database in formato dBASE, Microsoft Access, MySQL, Oracle o qualsiasi altro database compatibile con ODBC o JDBC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can be advantageous to select multiple sheets, especially when you want to make changes to many sheets at once.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150339Z" creationid="Marco Marega" creationdate="20180714T150339Z">
+        <seg>Può essere utile selezionare più fogli, specialmente se si vogliono apportare modifiche a più fogli contemporaneamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20564,6 +20580,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152325Z" creationid="Elisabetta Manuele" creationdate="20180625T152325Z">
         <seg>Selezionare righe e colonne in una tabella di database aperta tramite combinazione Ctrl+Maiusc+F4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150047Z" creationid="Marco Marega" creationdate="20180714T150047Z">
+        <seg>Selezionare i fogli</seg>
       </tuv>
     </tu>
     <tu>
@@ -29710,6 +29734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can select one or multiple sheets in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150110Z" creationid="Marco Marega" creationdate="20180714T150110Z">
+        <seg>In Calc potete selezionare uno o più fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can select various options such as matching the case, matching whole words only, or doing a search for similar words.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103308Z" creationid="manuel" creationdate="20180622T103308Z">
@@ -31602,6 +31634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T132222Z" creationid="Marco Marega" creationdate="20180707T132222Z">
         <seg>fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sheets, in Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150037Z" creationid="Marco Marega" creationdate="20180714T150037Z">
+        <seg>fogli, in Calc</seg>
       </tuv>
     </tu>
     <tu>
