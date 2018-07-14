@@ -4216,6 +4216,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All tabs between these two selections will turn white (default Calc setup).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150539Z" creationid="Marco Marega" creationdate="20180714T150539Z">
+        <seg>Tutte le schede comprese tra questi due fogli diventeranno bianche (configurazione predefinita di Calc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All the components share a common spelling checker and other tools, which are used consistently across the suite.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184724Z" creationid="Marco Marega" creationdate="20180528T184724Z">
@@ -4532,6 +4540,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172028Z" creationid="Elisabetta Manuele" creationdate="20180625T172028Z">
         <seg>Risposte alle Domande frequenti&lt;f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any actions that you perform will now affect all highlighted sheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150631Z" creationid="Marco Marega" creationdate="20180714T150631Z">
+        <seg>Ora ogni azione che eseguirete avrà effetto su tutti i fogli evidenziati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6943,6 +6959,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222613Z" creationid="Marco Marega" creationdate="20180620T222613Z">
         <seg>Fate clic sullo stesso pulsante per visualizzare nuovamente la Barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the sheet tab for the first desired sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150438Z" creationid="Marco Marega" creationdate="20180714T150438Z">
+        <seg>Fate clic sulla linguetta del primo foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the sheet tab for the sheet you want to select.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150443Z" creationid="Marco Marega" creationdate="20180714T150348Z">
+        <seg>Fate clic sulla linguetta del foglio che desiderate selezionare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12687,6 +12719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click on the sheet tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150513Z" creationid="Marco Marega" creationdate="20180714T150513Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; e fate clic sulla linguetta del foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142626Z" creationid="Marco Marega" creationdate="20180714T142626Z">
@@ -17048,6 +17088,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the mouse pointer over the sheet tab for the last desired sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150504Z" creationid="Marco Marega" creationdate="20180714T150504Z">
+        <seg>Spostate il puntatore del mouse sopra la linguetta dell'ultimo foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the mouse pointer to the start of the next range or single cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145123Z" creationid="Marco Marega" creationdate="20180714T145123Z">
@@ -17328,10 +17376,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multiple contiguous sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150420Z" creationid="Marco Marega" creationdate="20180714T150420Z">
+        <seg>Fogli multipli contigui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiple copies of a document to send to a list of different recipients (form letters)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T152457Z" creationid="manuel" creationdate="20180628T152457Z">
         <seg>Copie multiple di un documento da spedire ad un elenco di destinatari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple non-contiguous sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150635Z" creationid="Marco Marega" creationdate="20180714T150635Z">
+        <seg>Fogli multipli non contigui</seg>
       </tuv>
     </tu>
     <tu>
@@ -20912,6 +20976,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Single sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150344Z" creationid="Marco Marega" creationdate="20180714T150344Z">
+        <seg>Foglio singolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Slanting an object</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073551Z" creationid="manuel" creationdate="20180707T073551Z">
@@ -23545,6 +23617,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tab for the selected sheet becomes white (default Calc setup).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150452Z" creationid="Marco Marega" creationdate="20180714T150416Z">
+        <seg>La linguetta del foglio attivo diventa bianca (configurazione predefinita di Calc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The table below gives some common substitutions for the instructions in this book.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173248Z" creationid="Elisabetta Manuele" creationdate="20180627T173248Z">
@@ -26145,6 +26225,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145539Z" creationid="Marco Marega" creationdate="20180714T145539Z">
         <seg>Per selezionare più colonne o righe non contigue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select multiple contiguous sheets:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150423Z" creationid="Marco Marega" creationdate="20180714T150423Z">
+        <seg>Per selezionare fogli multipli contigui:</seg>
       </tuv>
     </tu>
     <tu>
