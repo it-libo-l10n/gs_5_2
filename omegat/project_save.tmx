@@ -8262,6 +8262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on the file being used or the type of data being entered, setting a different direction can be useful.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142121Z" creationid="Marco Marega" creationdate="20180714T142121Z">
+        <seg>A seconda del file usato o del tipo di dati che vengono immessi, può tornare utile impostare una direzione differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the type of file service you choose in the &lt;f0&gt;Type&lt;/f0&gt; listbox, different parameters are necessary to fully qualify the connection to the remote server.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125235Z" creationid="Marco Marega" creationdate="20180622T125235Z">
@@ -20064,6 +20072,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the direction cell focus moves from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142037Z" creationid="Marco Marega" creationdate="20180714T142037Z">
+        <seg>Selezionate dall'elenco a comparsa la direzione di spostamento del focus della cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the file and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214158Z" creationid="Marco Marega" creationdate="20180712T214158Z">
@@ -28898,6 +28914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143159Z" creationid="manuel" creationdate="20180628T143159Z">
         <seg>Potete personalizzare un indice generale in qualsiasi momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can customize the direction in which the &lt;f0&gt;Enter&lt;/f0&gt; key moves the cell focus by going to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; General&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141943Z" creationid="Marco Marega" creationdate="20180714T141943Z">
+        <seg>Potete personalizzare la direzione in cui il tasto &lt;f0&gt;Invio&lt;/f0&gt; sposta il focus della cella, per farlo andate in &lt;f1&gt;Strumenti&gt; Opzioni &gt; LibreOffice Calc &gt; Generale&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
