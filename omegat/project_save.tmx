@@ -16400,6 +16400,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure to change back to &lt;f4&gt;Standard selection&lt;/f4&gt; or you may find yourself extending a cell selection unintentionally.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144616Z" creationid="Marco Marega" creationdate="20180714T144616Z">
+        <seg>Assicuratevi poi di ripristinare la &lt;f4&gt;Selezione Standard&lt;/f4&gt; altrimenti potreste ritrovarvi ad estendere involontariamente una selezione di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make your &lt;i0/&gt;changes to a copy of the document (stored in a different folder, or under a different name, or both), then use Writer to combine the two files and show the differences.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154536Z" creationid="manuel" creationdate="20180628T154536Z">
@@ -20132,6 +20140,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T102207Z" creationid="manuel" creationdate="20180622T100851Z">
         <seg>Seleziona il pulsante a destra di Maiuscole/minuscole (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) per aprire la finestra di dialogo Trova e sostituisci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the cell that will be one of the corners in the range of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144632Z" creationid="Marco Marega" creationdate="20180714T144632Z">
+        <seg>Selezionate la cella che si troverà ad uno degli angoli dell'intervallo di celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25925,6 +25941,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To select a range of cells without using the mouse:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144625Z" creationid="Marco Marega" creationdate="20180714T144625Z">
+        <seg>Per selezionare un intervallo di celle senza usare il mouse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To select an object that is covered by another object using the keyboard, use the &lt;f0&gt;Tab&lt;/f0&gt; key to cycle through the objects, stopping at the object you want to select.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172413Z" creationid="manuel" creationdate="20180706T172413Z">
@@ -28030,6 +28054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While holding down the &lt;f0&gt;Shift&lt;/f0&gt; key, use the cursor arrows to select the rest of the range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144655Z" creationid="Marco Marega" creationdate="20180714T144655Z">
+        <seg>Tenendo premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt;, usate le frecce per selezionare il resto dell'intervallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>While it is most commonly used &lt;t0/&gt;to create formulas in other documents, such as Writer and Impress files, Math can also work as a standalone tool.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203140Z" creationid="Marco Marega" creationdate="20180527T211452Z">
@@ -28602,6 +28634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T110238Z" creationid="manuel" creationdate="20180707T110238Z">
         <seg>Potete anche definire riempimenti d'area personalizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also directly select a range of cells using the Name Box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144838Z" creationid="Marco Marega" creationdate="20180714T144838Z">
+        <seg>Potete selezionare direttamente un intervallo di celle anche usando la Casella del nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30126,6 +30166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>columns, in Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144729Z" creationid="Marco Marega" creationdate="20180714T144729Z">
+        <seg>colonne, in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>comma separated values (CSV)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213135Z" creationid="Marco Marega" creationdate="20180712T213135Z">
@@ -31234,6 +31282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154835Z" creationid="manuel" creationdate="20180628T154835Z">
         <seg>marcatura di revisione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rows, in Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144739Z" creationid="Marco Marega" creationdate="20180714T144739Z">
+        <seg>righe, in Calc</seg>
       </tuv>
     </tu>
     <tu>
