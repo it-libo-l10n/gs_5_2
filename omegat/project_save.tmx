@@ -12623,6 +12623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and click or click-and-drag to select another range of cells to add to the first range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145224Z" creationid="Marco Marega" creationdate="20180714T145224Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; e fate clic, oppure fate clic e trascinate per selezionare un altro intervallo di celle da aggiungere al primo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and use the mouse to select the next piece of text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151950Z" creationid="manuel" creationdate="20180621T151950Z">
@@ -18976,6 +18984,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repeat as necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145246Z" creationid="Marco Marega" creationdate="20180714T145246Z">
+        <seg>Ripetete l'operazione quante volte è necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repeat as often as needed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151955Z" creationid="manuel" creationdate="20180621T151955Z">
@@ -20504,6 +20520,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting&lt;i0/&gt; columns and rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145255Z" creationid="Marco Marega" creationdate="20180714T145255Z">
+        <seg>Selezionare&lt;i0/&gt; colonne e righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selection &lt;i0/&gt;by framing</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171509Z" creationid="manuel" creationdate="20180706T171509Z">
@@ -20796,6 +20820,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142348Z" creationid="Marco Marega" creationdate="20180714T142348Z">
         <seg>Singola cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Single column or row</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145317Z" creationid="Marco Marega" creationdate="20180714T145317Z">
+        <seg>Colonna o riga singola</seg>
       </tuv>
     </tu>
     <tu>
@@ -25993,6 +26025,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145007Z" creationid="Marco Marega" creationdate="20180714T145007Z">
         <seg>Per selezionare un intervallo di celle, inserite il riferimento della prima cella in alto a sinistra, seguito dai due punti (:) e dal riferimento dell'ultima cella in basso a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select a single column, click on the column header (Figure &lt;t0&gt;86&lt;/t0&gt; on page &lt;t1&gt;114&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145419Z" creationid="Marco Marega" creationdate="20180714T145419Z">
+        <seg>Per selezionare una singola colonna, fate clic sull'intestazione della colonna (Figura &lt;t0&gt;86&lt;/t0&gt; a pagina &lt;t1&gt;114&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
