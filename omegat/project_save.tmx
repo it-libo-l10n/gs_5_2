@@ -4920,6 +4920,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As you create a database, you should save your work regularly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163049Z" creationid="manuel" creationdate="20180715T163049Z">
+        <seg>Una volta creato un database, ricordate di salvare il vostro lavoro regolarmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As you draw the rectangle with the mouse cursor, the rectangle appears with its bottom right corner attached to the cursor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101517Z" creationid="manuel" creationdate="20180704T101517Z">
@@ -5473,6 +5481,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But it is only when you save the database file that the table is written to disk.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163508Z" creationid="manuel" creationdate="20180715T163317Z">
+        <seg>Ma tale tabella è scritta sul disco solo quando salvate il file del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But it would be nice if there was a way to write notes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154857Z" creationid="manuel" creationdate="20180715T154857Z">
@@ -5878,6 +5894,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160801Z" creationid="manuel" creationdate="20180616T160801Z">
         <seg>Annotazione delle modifiche durante le revisioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changes can then be made to the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163009Z" creationid="manuel" creationdate="20180715T163009Z">
+        <seg>A questo punto potete eseguire modifiche al database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6806,6 +6830,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163705Z" creationid="manuel" creationdate="20180628T163705Z">
         <seg>Fate clic su &lt;f7&gt;Inserisci&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click Finish&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T161246Z" creationid="manuel" creationdate="20180715T161246Z">
+        <seg>Fate clic su Fine&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8302,6 +8334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Database files in Open Document Format are stored with the &lt;f0&gt;*.odb&lt;/f0&gt; extension.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163739Z" creationid="manuel" creationdate="20180715T163739Z">
+        <seg>I file del database sono registrati in Formato Open Document con l'estensione &lt;f0&gt;*.odb&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Database functions, to arrange, store, and filter data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131636Z" creationid="Marco Marega" creationdate="20180707T131636Z">
@@ -9543,6 +9583,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Every time the &lt;f0&gt;Automobile&lt;/f0&gt; database is opened, the &lt;f1&gt;Automobile – LibreOffice Base &lt;/f1&gt;window opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163004Z" creationid="manuel" creationdate="20180715T163004Z">
+        <seg>Ogni volta che viene aperto il database &lt;f0&gt;Automobile&lt;/f0&gt;, si apre la finestra &lt;f1&gt;Automobile – LibreOffice Base&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Examples</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144612Z" creationid="manuel" creationdate="20180608T144612Z">
@@ -10219,6 +10267,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104236Z" creationid="manuel" creationdate="20180705T104236Z">
         <seg>Figura &lt;seq0&gt;207&lt;/seq0&gt;: inserire commenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;208&lt;/seq0&gt;: Creating database tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T162926Z" creationid="manuel" creationdate="20180715T162926Z">
+        <seg>La figura &lt;seq0&gt;208&lt;/seq0&gt;: creazione delle tabelle di un database</seg>
       </tuv>
     </tu>
     <tu>
@@ -10943,6 +10999,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;t1&gt;208&lt;/t1&gt; shows part of this window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T162839Z" creationid="manuel" creationdate="20180715T162828Z">
+        <seg>La figura &lt;t1&gt;208&lt;/t1&gt; mostra una parte di questa finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t2&gt;179&lt;/t2&gt; shows an example of two objects and a connector.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T101830Z" creationid="manuel" creationdate="20180705T095738Z">
@@ -11539,6 +11603,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145731Z" creationid="manuel" creationdate="20180705T145731Z">
         <seg>Ad esempio, quando le opzioni nella finestra di dialogo vengono applicate a un rettangolo, producono il risultato mostrato in Figura &lt;t0&gt;204&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, when you create your first table, you must save it before you can close it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163106Z" creationid="manuel" creationdate="20180715T163106Z">
+        <seg>Per esempio, quando create la vostra prima tabella dovrete salvarla prima di poterla chiudere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13415,6 +13487,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a database is not registered, this window will not contain it, so you cannot access the database in Writer or Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T162621Z" creationid="manuel" creationdate="20180715T162621Z">
+        <seg>Se un database non è registrato, questa finestra non lo conterrà, così non potrete accedervi da Writer o Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a document is already open in LibreOffice, click on the small triangle to the right of the &lt;f0&gt;New&lt;/f0&gt; icon on the Standard toolbar and select the type of document from the context menu that opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124053Z" creationid="Marco Marega" creationdate="20180621T124053Z">
@@ -14815,6 +14895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Calc, press &lt;f1&gt;Ctrl+Shift+F4&lt;/f1&gt; to open the Data Source window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T162323Z" creationid="manuel" creationdate="20180715T162323Z">
+        <seg>In Calc, premete &lt;f1&gt;Ctrl+Maiusc+F4&lt;/f1&gt; per aprire la finestra Sorgente dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Calc, you can have more than one sheet in a spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211824Z" creationid="Marco Marega" creationdate="20180712T211824Z">
@@ -14923,6 +15011,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134100Z" creationid="Marco Marega" creationdate="20180623T134100Z">
         <seg>In Windows e Linux – &lt;f0&gt;Ctrl+Q&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Writer, the &lt;f0&gt;F4&lt;/f0&gt; key opens and closes the Data Source window containing the list of registered databases.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T162228Z" creationid="manuel" creationdate="20180715T162228Z">
+        <seg>In Writer, il tasto &lt;f0&gt;F4&lt;/f0&gt; apre e chiude la finestra Sorgente dati che contiene la lista dei database registrati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16860,6 +16956,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181945Z" creationid="Elisabetta Manuele" creationdate="20180620T181945Z">
         <seg>Finestra principale di Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure the choice for the first question is &lt;f0&gt;Yes, register the database for me&lt;/f0&gt; and the choice for the second question is &lt;f1&gt;Open the database for editing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T161230Z" creationid="manuel" creationdate="20180715T161230Z">
+        <seg>Assicuratevi che la scelta per la prima domanda sia &lt;f0&gt;Sì, registra il database&lt;/f0&gt; e la scelta per la seconda domanda sia &lt;f1&gt;Apri il database per la modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19852,6 +19956,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194026Z" creationid="Marco Marega" creationdate="20180621T194026Z">
         <seg>Comando Salva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save the new database with the name &lt;f0&gt;Automobile&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T162705Z" creationid="manuel" creationdate="20180715T162705Z">
+        <seg>Salvate il nuovo database con il nome &lt;f0&gt;Automobile&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24209,6 +24321,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The title for this window is always &lt;database name&gt; – LibreOffice Base.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163040Z" creationid="manuel" creationdate="20180715T163040Z">
+        <seg>Il titolo di questa finestra è sempre &lt;nome del database&gt; – LibreOffice Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The title should appear on a gray background (which does not show when printed and can be turned off).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101713Z" creationid="manuel" creationdate="20180627T101713Z">
@@ -24993,6 +25113,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This makes it part of the database in memory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163527Z" creationid="manuel" creationdate="20180715T163111Z">
+        <seg>Questa diviene parte del database in memoria principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means more than saving what you have just created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163055Z" creationid="manuel" creationdate="20180715T163055Z">
+        <seg>Ciò non significa solo salvare quello che avete appena modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This menu is also found in the English dictionaries extension installed by default by LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T093018Z" creationid="manuel" creationdate="20180609T092939Z">
@@ -25021,6 +25157,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T061526Z" creationid="manuel" creationdate="20180707T061526Z">
         <seg>In tal modo si apre la barra degli strumenti &lt;f3&gt;Posizione&lt;/f3&gt; che dà accesso alle varie opzioni di disposizione (Figura &lt;t4&gt;187&lt;/t4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This opens the Automobile – LibreOffice Base window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T162754Z" creationid="manuel" creationdate="20180715T162754Z">
+        <seg>Questo apre la finestra Automobile – LibreOffice Base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30882,6 +31026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164035Z" creationid="manuel" creationdate="20180608T164035Z">
         <seg>Dovete attivare questa opzione &lt;f0&gt;prima&lt;/f0&gt; di creare la macro di LibreOffice Basic; altrimenti lo script non verrà inserito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must save the whole database as well.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163059Z" creationid="manuel" creationdate="20180715T163059Z">
+        <seg>Dovete salvare l'intero database.</seg>
       </tuv>
     </tu>
     <tu>
