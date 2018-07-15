@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3087,6 +3087,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;Forms&lt;/f3&gt; are for data entry into the fields of one or more tables which have been associated with the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152645Z" creationid="manuel" creationdate="20180715T152645Z">
+        <seg>I &lt;f3&gt;Formulari&lt;/f3&gt; servono per inserire i dati nei campi di una o più tabelle associate al medesimo formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;If you do not have the offline help installed on your computer, your default browser will open a page on the LibreOffice wiki if you are connected to the Internet.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170217Z" creationid="Elisabetta Manuele" creationdate="20180625T170217Z">
@@ -3199,6 +3207,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;database&lt;/f0&gt; consists of a number of &lt;f1&gt;fields&lt;/f1&gt; that contain the individual pieces of data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152515Z" creationid="manuel" creationdate="20180715T152515Z">
+        <seg>Un &lt;f0&gt;database&lt;/f0&gt; è costituito da un numero di &lt;f1&gt;campi&lt;/f1&gt; i quali contengono ciascuno delle parti di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;special character&lt;/f0&gt; is one not found on a standard &lt;f1&gt;user’s&lt;/f1&gt; keyboard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T153118Z" creationid="manuel" creationdate="20180622T104436Z">
@@ -3215,10 +3231,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f4&gt;query&lt;/f4&gt; creates a new table from the existing tables based upon how you create the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152746Z" creationid="manuel" creationdate="20180715T152746Z">
+        <seg>Una &lt;f4&gt;ricerca&lt;/f4&gt; crea una nuova tabella estrapolando i dati che vi interessano da tabelle già esistenti, basandosi sui criteri con i quali la ricerca stessa viene impostata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;f5&gt;report&lt;/f5&gt; organizes the information from the fields of a query into a document according to your requirements.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152753Z" creationid="manuel" creationdate="20180715T152753Z">
+        <seg>Un &lt;f5&gt;rapporto&lt;/f5&gt; organizza le informazioni contenute nei campi di una ricerca in un documento, a seconda delle vostre necessità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;i0/&gt;&lt;f1&gt;template&lt;/f1&gt; is a model document that you use to create other documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112155Z" creationid="manuel" creationdate="20180611T112155Z">
         <seg>Un &lt;i0/&gt;&lt;f1&gt;modello&lt;/f1&gt; è un documento che si usa per creare altri documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;i0/&gt;data source, or database, is a collection of pieces of information that can be accessed or managed by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T151406Z" creationid="manuel" creationdate="20180715T151406Z">
+        <seg>Una &lt;i0/&gt;sorgente dati, o database, è un insieme organizzato di informazioni a cui si può accedere o gestire con LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3744,6 +3784,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A shop stock list could be a data source managed through LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T151456Z" creationid="manuel" creationdate="20180715T151456Z">
+        <seg>Anche il catalogo di un negozio potrebbe essere una sorgente dati gestibile tramite LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A short history of LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152526Z" creationid="Elisabetta Manuele" creationdate="20180625T152526Z">
@@ -4204,6 +4252,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112315Z" creationid="manuel" creationdate="20180611T112315Z">
         <seg>Tutti i documenti in LibreOffice sono basati su modelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All of the files created by this engine, including the database forms, are kept in one zipped file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153043Z" creationid="manuel" creationdate="20180715T153043Z">
+        <seg>Tutti i file creati da questo motore, inclusi i formulari del database, vengono tenuti in un file .zip compresso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5161,6 +5217,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Base creates &lt;f0&gt;relational databases&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153819Z" creationid="manuel" creationdate="20180715T153819Z">
+        <seg>Base crea &lt;f0&gt;database relazionali&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base incorporates two relational database engines, HSQLDB and PostgreSQL.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211150Z" creationid="Marco Marega" creationdate="20180527T211150Z">
@@ -6092,8 +6156,8 @@
       <tuv lang="EN">
         <seg>Chapter 8 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T083404Z" creationid="luke" creationdate="20180515T083404Z">
-        <seg>Chapter 8 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T151202Z" creationid="luke" creationdate="20180515T083404Z">
+        <seg>Capitolo 8 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7589,6 +7653,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consider an employment database for the same library.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153936Z" creationid="manuel" creationdate="20180715T153936Z">
+        <seg>Considerate un database degli impiegati per la stessa biblioteca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072730Z" creationid="luke" creationdate="20180515T072730Z">
@@ -9011,6 +9083,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185731Z" creationid="luke" creationdate="20180514T154643Z">
         <seg>Invio di documenti tramite posta elettronica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each &lt;f2&gt;table&lt;/f2&gt; of the database is a group of fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152521Z" creationid="manuel" creationdate="20180715T152521Z">
+        <seg>Ogni &lt;f2&gt;tabella&lt;/f2&gt; del database è costituita da un gruppo di campi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11047,6 +11127,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For Linux, you can download it from the same website or you can use openjdk-7-jre, available from the repository of your Linux version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153719Z" creationid="manuel" creationdate="20180715T153719Z">
+        <seg>Per Linux, potete scaricarlo dallo stesso sito, oppure potete usare openjdk-7-jre, disponibile dal repository della versione di Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Windows, you need to get Java from &lt;a0&gt;www.java.com&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153511Z" creationid="manuel" creationdate="20180715T153511Z">
+        <seg>Per Windows, dovete scaricare Java da &lt;a0&gt;www.java.com&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a closing tag, an HTML_OFF will be created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160120Z" creationid="manuel" creationdate="20180608T160120Z">
@@ -11179,6 +11275,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103424Z" creationid="manuel" creationdate="20180615T103424Z">
         <seg>Per esempio, un modello di lettera potrebbe contenere il vostro nome, indirizzo e formula di saluto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, a list of names and addresses is a data source that could be used for producing a mail merge letter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T151437Z" creationid="manuel" creationdate="20180715T151437Z">
+        <seg>Ad esempio, una lista di nomi e indirizzi è una sorgente dati che può essere impiegata per produrre la stampa in serie di una lettera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11515,6 +11619,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163513Z" creationid="manuel" creationdate="20180703T163513Z">
         <seg>Per esempio,&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;web.soc&lt;/f3&gt; è una tavolozza di colori adatta a creare disegni da utilizzare nella realizzazione di pagine web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example: Consider a database for a library.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153837Z" creationid="manuel" creationdate="20180715T153837Z">
+        <seg>Per esempio: Considerate il database di una biblioteca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12115,6 +12227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085820Z" creationid="luke" creationdate="20180515T083543Z">
         <seg>Guida introduttiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting Started with Base</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T151225Z" creationid="manuel" creationdate="20180715T151225Z">
+        <seg>Introduzione a Base</seg>
       </tuv>
     </tu>
     <tu>
@@ -13167,6 +13287,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a JRE is not already installed, you will need to download and install one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153432Z" creationid="manuel" creationdate="20180715T153432Z">
+        <seg>Se non è installato alcun JRE, dovete scaricarne uno ed installarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a document is already open in LibreOffice, click on the small triangle to the right of the &lt;f0&gt;New&lt;/f0&gt; icon on the Standard toolbar and select the type of document from the context menu that opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124053Z" creationid="Marco Marega" creationdate="20180621T124053Z">
@@ -13731,6 +13859,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105835Z" creationid="manuel" creationdate="20180606T105835Z">
         <seg>Se siete amministratori di sistema, programmatori o comunque persone che personalizzano installazioni JRE, potete usare le pagine Parametri e Classpath (accessibili dalla pagina Java) per specificare queste informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are acquainted with mathematical sets, a relational database can easily be explained in terms of sets: elements, subsets, unions, and intersections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154026Z" creationid="manuel" creationdate="20180715T154026Z">
+        <seg>Se avete dimestichezza con gli insiemi matematici, un database relazionale può facilmente essere spiegato in termini di insiemi: elementi, sottoinsiemi, unioni, e intersezioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15727,6 +15863,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will contain a field for the names of the authors and another field for the names of the books.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153846Z" creationid="manuel" creationdate="20180715T153846Z">
+        <seg>Conterrà un campo per i nomi degli autori ed un altro campo per i titoli dei libri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Its Smart Connectors feature allows you to define your own connection points.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210847Z" creationid="Marco Marega" creationdate="20180527T210847Z">
@@ -16031,6 +16175,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice Base uses the HSQL database engine.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153009Z" creationid="manuel" creationdate="20180715T153009Z">
+        <seg>LibreOffice Base usa HSQL come motore del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice Basic macros must be located in the header of the HTML document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164039Z" creationid="manuel" creationdate="20180608T164039Z">
@@ -16304,6 +16456,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice uses the terms “Data Source” and “Database” to refer to the same thing, which could be a database such as &lt;is0/&gt;MySQL&lt;ie1/&gt; or dBase or a spreadsheet or text document holding data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152502Z" creationid="manuel" creationdate="20180715T152502Z">
+        <seg>LibreOffice utilizza i termini “Sorgente dati” e “Database” come sinonimi, per riferirsi di volta in volta a database come &lt;is0/&gt;MySQL&lt;ie1/&gt; o dBase oppure a un foglio elettronico o un documento di testo contenente dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice will always correctly interpret dates entered in ISO 8601 format as Y-M-D and YYYY-MM-DD.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T063845Z" creationid="manuel" creationdate="20180609T063845Z">
@@ -16460,6 +16620,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191501Z" creationid="Marco Marega" creationdate="20180528T191501Z">
         <seg>Gli utenti di Mac OS X possono ottenere dall'App Store due versioni di LibreOffice: LibreOffice Vanilla (libero) e LibreOffice-from-Collabora (una versione orientata alle imprese; con un piccolo onere).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X users can install a JRE from Apple Inc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153808Z" creationid="manuel" creationdate="20180715T153808Z">
+        <seg>Gli utenti di Mac OS X possono installare un JRE da Apple Inc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16948,6 +17116,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T075210Z" creationid="manuel" creationdate="20180616T075210Z">
         <seg>La maggior parte delle impostazioni predefinite, come la dimensione della pagina e i margini della pagina, possono essere modificate in &lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt;, ma tali modifiche si applicano solo al documento su cui state lavorando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most if not all the relationships in such a database are one-to-many relationships.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153924Z" creationid="manuel" creationdate="20180715T153924Z">
+        <seg>La maggior parte, se non tutte, le relazioni in un database di questo tipo sono di uno a molti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18096,6 +18272,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One of the fields contains the names of the employees while others contain the social security numbers, and other personal data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153947Z" creationid="manuel" creationdate="20180715T153947Z">
+        <seg>Uno dei campi riporterà i nomi degli impiegati mentre gli altri conterranno il codice fiscale e altri dati personali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One slide set – multiple presentations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
@@ -18704,6 +18888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt; to select a JRE from those installed on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153345Z" creationid="manuel" creationdate="20180715T153345Z">
+        <seg>Per piacere andate su &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f0&gt; per selezionare un JRE tra quelli installati sul computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Point to &lt;f0&gt;Reset Default Template&lt;/f0&gt; on the drop-down menu, and click &lt;f1&gt;Text Document&lt;/f1&gt; (or other template type).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T095623Z" creationid="manuel" creationdate="20180616T095623Z">
@@ -19068,6 +19260,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170111Z" creationid="Elisabetta Manuele" creationdate="20180620T170111Z">
         <seg>Reizinger Zoltán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Relational Databases in LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T151256Z" creationid="manuel" creationdate="20180715T151256Z">
+        <seg>Database relazionali in LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Relationships are defined in terms of unions and intersections of the subsets (tables).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154052Z" creationid="manuel" creationdate="20180715T154052Z">
+        <seg>Le relazioni vengono definite in termini di unioni ed intersezioni tra i sottoinsiemi (tabelle).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22761,6 +22969,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The fields of a database are the &lt;t0/&gt;elements.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154042Z" creationid="manuel" creationdate="20180715T154042Z">
+        <seg>I campi di un database costituiscono gli &lt;t0/&gt;elementi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The fields you can use in Impress are as follows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085934Z" creationid="luke" creationdate="20180515T085934Z">
@@ -22789,6 +23005,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163205Z" creationid="manuel" creationdate="20180703T163205Z">
         <seg>Il primo quadrato nel pannello corrisponde a nessuno (assenza di colore).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first step in creating a database is to ask yourself many questions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154131Z" creationid="manuel" creationdate="20180715T154131Z">
+        <seg>Il primo passo nella creazione di un database è farsi una serie di domande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23061,6 +23285,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220419Z" creationid="Marco Marega" creationdate="20180707T220419Z">
         <seg>La lettera indica la colonna ed il numero la riga della cella selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The library may contain more than one book by the same author.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153903Z" creationid="manuel" creationdate="20180715T153903Z">
+        <seg>La biblioteca potrà avere più di un libro dello stesso autore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23457,6 +23689,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The relationship between the names and social security numbers is one-to-one: only one social security number for each name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154014Z" creationid="manuel" creationdate="20180715T154014Z">
+        <seg>La relazione tra il nome e il codice fiscale è di tipo uno a uno: un solo codice fiscale corrispondente ad ogni singolo nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The resolution is the size of the squares or rectangles in the grid.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140947Z" creationid="manuel" creationdate="20180707T140947Z">
@@ -23677,6 +23917,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173248Z" creationid="Elisabetta Manuele" creationdate="20180627T173248Z">
         <seg>La tabella seguente fornisce le sostituzioni più comuni per le istruzioni di questo capitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tables are subsets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154046Z" creationid="manuel" creationdate="20180715T154046Z">
+        <seg>Le tabelle costituiscono i sottoinsiemi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23929,6 +24177,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is an obvious relationship between the authors and the books they have written.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153855Z" creationid="manuel" creationdate="20180715T153855Z">
+        <seg>Vi è una chiara relazione tra gli autori ed i libri che ciascuno ha scritto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There you can choose whether to check uppercase words and words with numbers, and you can manage custom dictionaries, that is, add or delete dictionaries and add or delete words in a dictionary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T064741Z" creationid="manuel" creationdate="20180626T064741Z">
@@ -24161,6 +24417,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They can also be used for viewing fields from one or more tables associated with the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152655Z" creationid="manuel" creationdate="20180715T152655Z">
+        <seg>Possono essere anche usati per visualizzare i campi di una o più tabelle associate al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They might not be the same as the ruler units.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143732Z" creationid="manuel" creationdate="20180703T143732Z">
@@ -24269,6 +24533,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131209Z" creationid="Marco Marega" creationdate="20180623T130951Z">
         <seg>Questo può risparmiare diversi clic e ripetute navigazioni all'interno dei menu o diverse pressioni di combinazioni di tasti, specialmente quando il comando si trova in un menu secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This chapter covers creating a database, showing what is contained in a database and how the different parts are used by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T151519Z" creationid="manuel" creationdate="20180715T151519Z">
+        <seg>In questo capitolo verrà spiegato come creare un database, cosa un database contiene, nonché come vengono utilizzate le sue componenti da LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24465,6 +24737,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is what is known as a one-to-many relationship: one author and more than one book.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153921Z" creationid="manuel" creationdate="20180715T153921Z">
+        <seg>Questo è ciò che viene definita relazione uno a molti: un autore e molti libri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This lets you draw lines by starting from the middle of the line.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T173040Z" creationid="manuel" creationdate="20180703T173040Z">
@@ -24485,6 +24765,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082201Z" creationid="manuel" creationdate="20180530T082201Z">
         <seg>In questo modo LibreOffice si aprirà più velocemente, ma impegnerà parte della memoria anche quando non viene utilizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This makes it fairly easy to create a database in which the fields of the database have relationships with each other.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153832Z" creationid="manuel" creationdate="20180715T153832Z">
+        <seg>Ciò rende abbastanza semplice la creazione di database dove i campi dati si trovano in relazione tra loro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25596,6 +25884,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To explain how a database works and how to to use it, we will create one for automobile expenses.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154115Z" creationid="manuel" creationdate="20180715T154115Z">
+        <seg>Per spiegare come funziona un database e come utilizzarlo, ne creeremo uno riguardante le spese per un'automobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To export a template from a template &lt;f0&gt;category&lt;/f0&gt; to another location &lt;f1&gt;in your computer or network&lt;/f1&gt;:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143434Z" creationid="manuel" creationdate="20180616T143434Z">
@@ -26521,6 +26817,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155824Z" creationid="manuel" creationdate="20180615T155824Z">
         <seg>Aggiornare il documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use Base, you need to use a Java Runtime Environment (JRE).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153146Z" creationid="manuel" creationdate="20180715T153146Z">
+        <seg>Per usare Base, avete bisogno di usare un Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28018,6 +28322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T153855Z" creationid="manuel" creationdate="20180626T153855Z">
         <seg>Quando si cancella la formattazione diretta, la formattazione del testo tornerà allo stile di paragrafo applicato e non allo stile di paragrafo predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When creating a table, you also determine the characteristics of each field within it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152633Z" creationid="manuel" creationdate="20180715T152633Z">
+        <seg>Quando create una tabella, determinate anche le caratteristiche di ogni campo della tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30718,6 +31030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>data source</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T151314Z" creationid="manuel" creationdate="20180715T151314Z">
+        <seg>sorgente dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>decks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T182426Z" creationid="Marco Marega" creationdate="20180708T182426Z">
@@ -31530,6 +31850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060230Z" creationid="manuel" creationdate="20180629T060230Z">
         <seg>pixel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>planning</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154118Z" creationid="manuel" creationdate="20180715T154118Z">
+        <seg>pianificare</seg>
       </tuv>
     </tu>
     <tu>
