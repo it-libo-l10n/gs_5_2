@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Fuel economy need not be included, as it can be calculated using a query.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154822Z" creationid="manuel" creationdate="20180715T154822Z">
+        <seg>(non è necessario includere il consumo di carburante, in quanto può essere calcolato con una ricerca).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you do not have this font on your system, it will not appear in the drop-down list in this box, so you need to type it in.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073809Z" creationid="manuel" creationdate="20180531T073809Z">
@@ -4976,6 +4984,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At least some of the answers should seem obvious after you take some time to think.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154153Z" creationid="manuel" creationdate="20180715T154153Z">
+        <seg>Alcune delle risposte dovrebbero essere abbastanza ovvie prendendosi il giusto tempo per pensarci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the bottom of the Styles and Formatting window is a drop-down list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140334Z" creationid="manuel" creationdate="20180611T161747Z">
@@ -5377,6 +5393,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both methods open the Database Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T160622Z" creationid="manuel" creationdate="20180715T160622Z">
+        <seg>Entrambi i metodi apriranno la procedura guidata Database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both methods take you to the same tab on the Page Style dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101551Z" creationid="manuel" creationdate="20180627T101551Z">
@@ -5389,6 +5413,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150717Z" creationid="manuel" creationdate="20180705T150717Z">
         <seg>Entrambi i tipi di gradiente possono essere usati insieme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Breakfast, lunch, supper, and snacks seem to fit.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155023Z" creationid="manuel" creationdate="20180715T155023Z">
+        <seg>Colazione, pranzo, cena e spuntini dovrebbero andare bene.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5437,6 +5469,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141041Z" creationid="manuel" creationdate="20180609T141041Z">
         <seg>Ma se trovate modifiche inspiegabili nel documento, è possibile che la causa sia proprio da attribuire alla Correzione automatica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But it would be nice if there was a way to write notes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154857Z" creationid="manuel" creationdate="20180715T154857Z">
+        <seg>Sarebbe anche utile se ci fosse un modo per scrivere delle note.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8294,6 +8334,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Date appears in all of the areas as does odometer reading and payment type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155110Z" creationid="manuel" creationdate="20180715T155110Z">
+        <seg>Il campo Data compare in tutte le categorie, così come la lettura chilometrica ed il tipo di pagamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date of service, odometer reading, type of service, cost of service, and next scheduled service of this type (for example, for oil changes, list when the next oil change should be).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154844Z" creationid="manuel" creationdate="20180715T154844Z">
+        <seg>Data del servizio, lettura chilometrica, tipo di servizio, costo del servizio, e prossima scadenza dello stesso tipo (ad esempio, nel caso di un cambio dell'olio, quando sarà necessario sostituirlo la volta successiva).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date purchased, odometer reading, fuel cost, fuel quantity, and payment method for it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154813Z" creationid="manuel" creationdate="20180715T154813Z">
+        <seg>Data acquisto, lettura chilometrica, costo carburante, quantità carburante e metodo di pagamento dovrebbero essere adatti </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date, odometer reading, fuel (including all the fields of the fuel table), food (including meals and snacks), motel, total tolls, and miscellaneous.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154948Z" creationid="manuel" creationdate="20180715T154948Z">
+        <seg>Data, lettura chilometrica, carburante (includendo tutti i campi della tabella carburante), cibo (includendo pasti e spuntini), motel, totale pedaggi, altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>David Michel</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170054Z" creationid="Elisabetta Manuele" creationdate="20180620T170054Z">
@@ -8651,6 +8723,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144338Z" creationid="manuel" creationdate="20180616T144338Z">
         <seg>Dividere un documento in capitoli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do I list all the snacks individually or list the total cost for snacks for the day?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155030Z" creationid="manuel" creationdate="20180715T155030Z">
+        <seg>È opportuno elencare tutti gli spuntini singolarmente o elencare il costo totale degli spuntini della giornata?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11417,8 +11497,8 @@
       <tuv lang="EN">
         <seg>For example, to select the range that would go from A3 to C6, you would enter &lt;f2&gt;A3:C6&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145033Z" creationid="Marco Marega" creationdate="20180714T145033Z">
-        <seg>Ad esempio, per selezionare l'intervallo da A3 a C6, dovrete digitare A3:C6.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T160437Z" creationid="Marco Marega" creationdate="20180714T145033Z">
+        <seg>Ad esempio, per selezionare l'intervallo da A3 a C6, dovrete digitare &lt;f2&gt;A3:C6&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12695,6 +12775,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here are some of the questions and answers I developed before I created a database for automobile expenses.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154337Z" creationid="manuel" creationdate="20180715T154337Z">
+        <seg>Seguono alcune domande e risposte che sono state sviluppate prima di creare il database sulle spese per l'automobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here are the common ways of using them:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154818Z" creationid="manuel" creationdate="20180703T154818Z">
@@ -12983,6 +13071,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How will I use this information about these three fields?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155114Z" creationid="manuel" creationdate="20180715T155114Z">
+        <seg>Come utilizzare le informazioni su questi tre campi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, 3D bodies currently allow for more customization.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105529Z" creationid="manuel" creationdate="20180705T105529Z">
@@ -13167,10 +13263,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I also need a payment type for each of these: breakfast, lunch, supper, and total cost of snacks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155050Z" creationid="manuel" creationdate="20180715T155050Z">
+        <seg>È necessario anche un tipo di pagamento per ciascuna di queste voci: colazione, pranzo, cena e costo totale degli spuntini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I am writing a software application.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181213Z" creationid="Elisabetta Manuele" creationdate="20180627T181213Z">
         <seg>Sto scrivendo un'applicazione software, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I chose to divide snacks into two fields: number of snacks and total cost of snacks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155038Z" creationid="manuel" creationdate="20180715T155038Z">
+        <seg>Si opta per la divisione in due campi degli spuntini: numero di spuntini e costo totale degli spuntini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I had an idea of what I wanted before I started, but as I began asking questions and listing the answers, I discovered that I needed additional tables and fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154722Z" creationid="manuel" creationdate="20180715T154722Z">
+        <seg>Avendo un'idea iniziale prima di cominciare, man mano che vengono in mente le domande e si elencano le risposte, si può realizzare di avere bisogno di tabelle e campi aggiuntivi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15047,10 +15167,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other tables such as the payment type, an additional field for the primary key must be created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155347Z" creationid="manuel" creationdate="20180715T155347Z">
+        <seg>In altre tabelle, come quella del tipo di pagamento, deve essere creato un campo aggiuntivo per la chiave primaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other words, using styles means that you shift the emphasis from what the text (or page, or other element) looks like, to what the text &lt;f1&gt;is&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143732Z" creationid="manuel" creationdate="20180611T143732Z">
         <seg>In altre parole, l'utilizzo degli stili sposta l'enfasi dall'aspetto esteriore del testo (o della pagina, o di qualsiasi altro elemento) a ciò che il testo stesso &lt;f1&gt;rappresenta&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some tables, a suitable field for the primary key has already been listed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155339Z" creationid="manuel" creationdate="20180715T155339Z">
+        <seg>In alcune tabelle il campo per la chiave primaria è già stato elencato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15859,6 +15995,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055130Z" creationid="manuel" creationdate="20180529T055130Z">
         <seg>Reimposta le opzioni sui valori presenti all'apertura della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will be a table of its own: license fees.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154756Z" creationid="manuel" creationdate="20180715T154756Z">
+        <seg>Sarà quindi necessaria una tabella specifica: tasse e patente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17616,6 +17760,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>My expenses divided into three broad areas: fuel purchases, maintenance, and vacations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154733Z" creationid="manuel" creationdate="20180715T154733Z">
+        <seg>Le spese si dividono in tre principali categorie: acquisto carburante, manutenzione e vacanze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name of Fax</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143717Z" creationid="manuel" creationdate="20180608T143717Z">
@@ -18204,6 +18356,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103014Z" creationid="manuel" creationdate="20180627T103014Z">
         <seg>Sulla scheda Flusso di testo della finestra di dialogo Paragrafo (Figura &lt;t0&gt;78&lt;/t0&gt; alla pagina &lt;t1&gt;101&lt;/t1&gt;), selezionate &lt;f2&gt;Interruzioni&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the first page of the Database Wizard, select &lt;f0&gt;Create a new database&lt;/f0&gt; and then click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T160746Z" creationid="manuel" creationdate="20180715T160746Z">
+        <seg>Nella prima pagina della procedura guidata Database, selezionate &lt;f0&gt;Crea un nuovo database&lt;/f0&gt; e poi fate clic su &lt;f1&gt;Avanti&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21208,6 +21368,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since these purchases are made by one of two bank cards or with cash, I want a field to state which payment type was used for each item.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155000Z" creationid="manuel" creationdate="20180715T155000Z">
+        <seg>Siccome questi acquisti sono pagati con carte di credito o in contanti, è utile un campo che indichi il tipo di pagamento usato per ogni articolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Single cell</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142348Z" creationid="Marco Marega" creationdate="20180714T142348Z">
@@ -21292,6 +21460,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T134829Z" creationid="manuel" creationdate="20180707T134829Z">
         <seg>Cattura alla griglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So a field for notes was added to the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154919Z" creationid="manuel" creationdate="20180715T154919Z">
+        <seg>Così alla lista può essere aggiunto un nuovo campo, per contenere le note.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So we will create a table with a field for the type of payment and use it in list boxes in the forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155203Z" creationid="manuel" creationdate="20180715T155203Z">
+        <seg>Verrà quindi creata una tabella con un campo per il tipo di pagamento, che verrà usata in un elenco a tendina nei formulari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22090,8 +22274,8 @@
       <tuv lang="EN">
         <seg>The &lt;f2&gt;Enter&lt;/f2&gt; key can also be used to switch into and out of editing mode.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142204Z" creationid="Marco Marega" creationdate="20180714T142204Z">
-        <seg>Il tasto &lt;/f2&gt;Invio&lt;/f1&gt;&lt;f2&gt; può essere usato anche per entrare ed uscire dal modo modifica.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T160324Z" creationid="Marco Marega" creationdate="20180714T142204Z">
+        <seg>Il tasto &lt;f2&gt;Invio&lt;/f2&gt; può essere usato anche per entrare ed uscire dal modo modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22553,6 +22737,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The annual cost for the car’s license plate and driver’s license every four years did not fit into any of these.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154749Z" creationid="manuel" creationdate="20180715T154749Z">
+        <seg>Il costo annuale per la tassa di circolazione e il rinnovo della patente ogni quattro anni non rientrano in queste categorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The appearance of the toolbar icons may vary depending on your operating system and the selection of icon size and style in &lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105720Z" creationid="manuel" creationdate="20180629T105720Z">
@@ -22765,6 +22957,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144224Z" creationid="manuel" creationdate="20180608T144224Z">
         <seg>Le impostazioni della stampante corrente verranno salvate con il documento anche se questa opzione non è selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The date fields suggest a relationship between the vacation table and the dates in each of these tables: fuel and food, This means that the date fields in these tables will be linked as we create the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155136Z" creationid="manuel" creationdate="20180715T155136Z">
+        <seg>I campi data suggeriscono una relazione tra la tabella vacanze e le date presenti nelle tabelle carburante e cibo. Questo significa che i campi data di queste tabelle saranno collegati durante la creazione del database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23785,6 +23985,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The second page has two questions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T160804Z" creationid="manuel" creationdate="20180715T160804Z">
+        <seg>La seconda pagina presenta due domande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second toolbar at the top, in a default LibreOffice installation, is the &lt;f0&gt;Formatting&lt;/f0&gt; bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212144Z" creationid="Marco Marega" creationdate="20180619T212144Z">
@@ -24069,6 +24277,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123603Z" creationid="Marco Marega" creationdate="20180621T123603Z">
         <seg>Il tipo di documento dipende dal componente di LibreOffice aperto ed attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The type of payment includes two bank cards and cash.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155152Z" creationid="manuel" creationdate="20180715T155152Z">
+        <seg>Il tipo di pagamento include due carte di credito e il contante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25555,6 +25771,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a new database, select &lt;f0&gt;File &gt; New &gt; Database&lt;/f0&gt; from the menu bar, or click the arrow next to the &lt;f1&gt;&lt;f2&gt;New&lt;/f2&gt;&lt;/f1&gt; icon on the Standard toolbar and select &lt;f3&gt;Database&lt;/f3&gt; from the drop-down menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T160159Z" creationid="manuel" creationdate="20180715T160159Z">
+        <seg>Per creare un nuovo database, selezionate &lt;f0&gt;File &gt; Nuovo &gt; Database&lt;/f0&gt; dalla barra dei menu, oppure fate clic sulla freccia di fianco all'icona &lt;f1&gt;&lt;f2&gt;Nuovo&lt;/f2&gt;&lt;/f1&gt; sulla barra degli strumenti Standard e selezionate &lt;f3&gt;Database&lt;/f3&gt; dal menu a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create a new style using &lt;i0/&gt;the Style dialog, right-click in the Styles and Formatting window and select &lt;f1&gt;New&lt;/f1&gt; from the pop-up menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063414Z" creationid="manuel" creationdate="20180614T063414Z">
@@ -25926,8 +26150,8 @@
       <tuv lang="EN">
         <seg>To have Calc save documents by default in a file format other than the default ODF format, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T123832Z" creationid="Marco Marega" creationdate="20180713T123832Z">
-        <seg>Per fare in modo che Calc salvi in modo predefinito i documenti in un formato diverso da ODF, andate in Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T160255Z" creationid="Marco Marega" creationdate="20180713T123832Z">
+        <seg>Per fare in modo che Calc salvi in modo predefinito i documenti in un formato diverso da ODF, andate in &lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27694,6 +27918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using a text document for these questions and answers makes it easier to move the questions around, add additional questions, or change the answers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154656Z" creationid="manuel" creationdate="20180715T154323Z">
+        <seg>Usare un documento di testo per scrivere queste domande e risposte rende più semplice spostare le domande, aggiungerne altre o cambiare le risposte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using bookmarks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163900Z" creationid="manuel" creationdate="20180628T163900Z">
@@ -28086,10 +28318,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What are the fields going to be?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154727Z" creationid="manuel" creationdate="20180715T154727Z">
+        <seg>Quali sono i campi necessari?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What are the fields that are common to more than one area?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155055Z" creationid="manuel" creationdate="20180715T155055Z">
+        <seg>Quali sono i campi comuni a più categorie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What are “open standards”?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152610Z" creationid="Elisabetta Manuele" creationdate="20180625T152610Z">
         <seg>Che cosa sono gli “standard aperti”?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What fields fit into the food category?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155017Z" creationid="manuel" creationdate="20180715T155017Z">
+        <seg>Quali campi sono adatti per la categoria cibo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What fields fit the fuel purchases area?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154803Z" creationid="manuel" creationdate="20180715T154803Z">
+        <seg>Quali campi sono adatti per la categoria acquisti carburante?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What fields fit the maintenance area?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154826Z" creationid="manuel" creationdate="20180715T154826Z">
+        <seg>Quali campi sono adatti per la categoria manutenzione?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What fields fit the vacations area?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154930Z" creationid="manuel" creationdate="20180715T154930Z">
+        <seg>Quali campi sono adatti per la categoria vacanze?</seg>
       </tuv>
     </tu>
     <tu>
@@ -28726,6 +29006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While on vacation, I want the expenses for each day to be listed together.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155122Z" creationid="manuel" creationdate="20180715T155122Z">
+        <seg>Mentre si è in vacanza, potrebbe essere desiderabile che le spese di ogni giorno vengano elencate insieme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>While this allows for improved functionality, there may be backwards compatibility issues.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144846Z" creationid="manuel" creationdate="20180608T144846Z">
@@ -28738,6 +29026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T165745Z" creationid="manuel" creationdate="20180628T165745Z">
         <seg>Mentre questa è una funzionalità, è anche un &lt;f6&gt;potenziale&lt;/f6&gt; &lt;f7&gt;rischio&lt;/f7&gt; di sicurezza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While we have listed fields we will create in the tables of the database, there is one more field that may be needed in a table: the field for the primary key, an identifier unique to each record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155329Z" creationid="manuel" creationdate="20180715T155329Z">
+        <seg>Oltre ai campi elencati, che verranno creati nelle tabelle del database, c'è un ulteriore campo che potrebbe essere necessario: quello per la chiave primaria, un identificatore univoco per ogni record di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28938,6 +29234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181951Z" creationid="Elisabetta Manuele" creationdate="20180620T181951Z">
         <seg>Vista Area di lavoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Write them down, and leave some space between the questions to write the answers later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154141Z" creationid="manuel" creationdate="20180715T154141Z">
+        <seg>Scrivetele e lasciate uno spazio libero tra le domande, dove successivamente scriverete le risposte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30510,6 +30814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may have to go through this process a few times before everything becomes clear in your mind and on paper.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154208Z" creationid="manuel" creationdate="20180715T154208Z">
+        <seg>Potrebbe essere necessario passare più volte attraverso questo processo prima che tutto diventi chiaro nella vostra mente e sulla carta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may know that Microsoft Word employs a &lt;f0&gt;normal.dot&lt;/f0&gt; or &lt;f1&gt;normal.dotx&lt;/f1&gt; file for its default template and how to regenerate it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161253Z" creationid="manuel" creationdate="20180615T161253Z">
@@ -30938,6 +31250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121117Z" creationid="manuel" creationdate="20180615T121117Z">
         <seg>creazione tramite procedura guidata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>creating</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155352Z" creationid="manuel" creationdate="20180715T155352Z">
+        <seg>creare</seg>
       </tuv>
     </tu>
     <tu>
