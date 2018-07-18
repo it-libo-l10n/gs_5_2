@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12551,6 +12551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select either &lt;f1&gt;Insert &gt; Columns &gt; Columns Left&lt;/f1&gt; or &gt; &lt;f2&gt;Columns Right &lt;/f2&gt;or&lt;f3&gt; Insert &gt; Rows &gt; Rows Above&lt;/f3&gt; or &gt; &lt;f4&gt;Rows Below&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T123114Z" creationid="Marco Marega" creationdate="20180718T123114Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Foglio&lt;/f0&gt; on the Menu bar and select either &lt;f1&gt;Insert &gt; Columns &gt; Columns Left&lt;/f1&gt; or &gt; &lt;f2&gt;Columns Right &lt;/f2&gt;or&lt;f3&gt; Insert &gt; Rows &gt; Rows Above&lt;/f3&gt; or &gt; &lt;f4&gt;Rows Below&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Slide &gt; Hide Slide&lt;/f0&gt; on the Menu bar or right-click on the slide thumbnail and select &lt;f1&gt;Hide Slide&lt;/f1&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085951Z" creationid="luke" creationdate="20180515T085951Z">
@@ -20640,6 +20648,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a cell, column, or row where you want the new column or row inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T123044Z" creationid="Marco Marega" creationdate="20180718T123044Z">
+        <seg>Selezionate la cella, colonna o riga dove volete venga inserita la nuova colonna o riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a color and click &lt;f2&gt;OK&lt;/f2&gt; when finished to close the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213037Z" creationid="Marco Marega" creationdate="20180712T213037Z">
@@ -28206,6 +28222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the &lt;f0&gt;Sheet&lt;/f0&gt; menu:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T122955Z" creationid="Marco Marega" creationdate="20180718T122955Z">
+        <seg>Usare il menu &lt;f0&gt;Fogli&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the Bullets and Numbering toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164655Z" creationid="manuel" creationdate="20180626T164655Z">
@@ -29066,6 +29090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T194642Z" creationid="Marco Marega" creationdate="20180713T194642Z">
         <seg>Quando inserite un nuovo foglio all'interno del foglio elettronico, Calc usa automaticamente il primo numero libero per assegnarli il nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you insert columns or rows, the cells take the formatting of the corresponding cells in the next column to left or the row above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T122939Z" creationid="Marco Marega" creationdate="20180718T122939Z">
+        <seg>Quando inserite delle colonne o delle righe, le celle prendono la formattazione dalle celle corrispondenti della colonna adiacente a sinistra o della riga superiore.</seg>
       </tuv>
     </tu>
     <tu>
