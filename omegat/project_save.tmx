@@ -19720,6 +19720,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Renaming sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T214501Z" creationid="Marco Marega" creationdate="20180718T214501Z">
+        <seg>Rinominare i fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repeat as necessary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145246Z" creationid="Marco Marega" creationdate="20180714T145246Z">
@@ -32626,6 +32634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083924Z" creationid="manuel" creationdate="20180606T083924Z">
         <seg>rimuovi le informazioni personali al salvataggio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>renaming</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T214443Z" creationid="Marco Marega" creationdate="20180718T214443Z">
+        <seg>rinominare</seg>
       </tuv>
     </tu>
     <tu>
