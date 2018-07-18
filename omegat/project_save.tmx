@@ -21000,6 +21000,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the columns or rows, see “&lt;bf0&gt;Multiple columns or rows&lt;/bf0&gt;” on page &lt;bf1&gt;125&lt;/bf1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T214212Z" creationid="Marco Marega" creationdate="20180718T214212Z">
+        <seg>Selezionate le colonne o le righe, per maggiori informazioni vedete “&lt;bf0&gt;Colonne o righe multiple&lt;/bf0&gt;” a pagina &lt;bf1&gt;125&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the desired transition, the speed of the animation, and whether the transition should happen when you click the mouse (preferred) or automatically after a certain number of seconds.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090028Z" creationid="luke" creationdate="20180515T090028Z">
