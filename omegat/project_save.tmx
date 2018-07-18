@@ -12599,6 +12599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Delete Cells&lt;/f1&gt;, or right-click and select &lt;f2&gt;Delete Columns&lt;/f2&gt; or &lt;f3&gt;Delete Rows&lt;/f3&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T214347Z" creationid="Marco Marega" creationdate="20180718T214347Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Foglio&lt;/f0&gt; e selezionate &lt;f1&gt;Elimina celle&lt;/f1&gt;, oppure fare clic con il pulsante destro del mouse e nel menu contestuale selezionate &lt;f2&gt;Elimina colonne&lt;/f2&gt; o &lt;f3&gt;Elimina righe&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select either &lt;f1&gt;Insert &gt; Columns &gt; Columns Left&lt;/f1&gt; or &gt; &lt;f2&gt;Columns Right &lt;/f2&gt;or&lt;f3&gt; Insert &gt; Rows &gt; Rows Above&lt;/f3&gt; or &gt; &lt;f4&gt;Rows Below&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T123827Z" creationid="Marco Marega" creationdate="20180718T123114Z">
@@ -15787,6 +15795,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101553Z" creationid="manuel" creationdate="20180627T101553Z">
         <seg>Inserimento dei contenuti in intestazioni e piè di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserting new sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T214404Z" creationid="Marco Marega" creationdate="20180718T214404Z">
+        <seg>Inserire nuovi fogli</seg>
       </tuv>
     </tu>
     <tu>
@@ -31538,6 +31554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153757Z" creationid="manuel" creationdate="20180621T153757Z">
         <seg>copiare e incollare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>copying sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T214416Z" creationid="Marco Marega" creationdate="20180718T214416Z">
+        <seg>copiare fogli</seg>
       </tuv>
     </tu>
     <tu>
