@@ -12585,8 +12585,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Delete Cells&lt;/f1&gt; or right-click and select &lt;f2&gt;Delete Columns&lt;/f2&gt; or &lt;f3&gt;Delete Rows&lt;/f3&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124956Z" creationid="Marco Marega" creationdate="20180718T124956Z">
-        <seg>Nella barra del menu andate in &lt;f0&gt;Foglio&lt;/f0&gt; e selezionate &lt;f1&gt;Elimina cella&lt;/f1&gt; oppure fare clic con il pulsante destro del mouse e nel menu contestuale selezionate &lt;f2&gt;Elimina colonne&lt;/f2&gt; o &lt;f3&gt;Delete Rows&lt;/f3&gt; from the context menu.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T125012Z" creationid="Marco Marega" creationdate="20180718T124956Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Foglio&lt;/f0&gt; e selezionate &lt;f1&gt;Elimina cella&lt;/f1&gt; oppure fare clic con il pulsante destro del mouse e nel menu contestuale selezionate &lt;f2&gt;Elimina colonne&lt;/f2&gt; o &lt;f3&gt;Elimina righe&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17890,7 +17890,7 @@
       <tuv lang="EN">
         <seg>Multiple columns or rows</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145500Z" creationid="Marco Marega" creationdate="20180714T145500Z">
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T125021Z" creationid="Marco Marega" creationdate="20180714T145500Z">
         <seg>Colonne o righe multiple</seg>
       </tuv>
     </tu>
@@ -26127,6 +26127,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T085233Z" creationid="manuel" creationdate="20180614T085233Z">
         <seg>Per eliminare gli stili indesiderati, nella finestra Stili e formattazione selezionate tutti quelli da eliminare (tenete premuto &lt;f0&gt;Ctrl&lt;/f0&gt; mentre selezionate più stili), quindi fate clic con il pulsante destro del mouse su uno stile selezionato e selezionate &lt;f1&gt;Elimina&lt;/f1&gt; nel menu di scelta rapida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To delete multiple columns or rows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T125042Z" creationid="Marco Marega" creationdate="20180718T125042Z">
+        <seg>Per eliminare più colonne o righe:</seg>
       </tuv>
     </tu>
     <tu>
