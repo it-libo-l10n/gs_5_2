@@ -12553,8 +12553,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select either &lt;f1&gt;Insert &gt; Columns &gt; Columns Left&lt;/f1&gt; or &gt; &lt;f2&gt;Columns Right &lt;/f2&gt;or&lt;f3&gt; Insert &gt; Rows &gt; Rows Above&lt;/f3&gt; or &gt; &lt;f4&gt;Rows Below&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T123114Z" creationid="Marco Marega" creationdate="20180718T123114Z">
-        <seg>Nella barra del menu andate in &lt;f0&gt;Foglio&lt;/f0&gt; on the Menu bar and select either &lt;f1&gt;Insert &gt; Columns &gt; Columns Left&lt;/f1&gt; or &gt; &lt;f2&gt;Columns Right &lt;/f2&gt;or&lt;f3&gt; Insert &gt; Rows &gt; Rows Above&lt;/f3&gt; or &gt; &lt;f4&gt;Rows Below&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T123827Z" creationid="Marco Marega" creationdate="20180718T123114Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Foglio&lt;/f0&gt; e selezionate &lt;f1&gt;Inserisci Colonne &gt; Colonne a sinistra&lt;/f1&gt; o &gt; &lt;f2&gt;Colonne a destra &lt;/f2&gt;oppure&lt;f3&gt; Inserisci Righe &gt; Righe sopra&lt;/f3&gt; o &gt; &lt;f4&gt;Righe sotto&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28224,8 +28224,8 @@
       <tuv lang="EN">
         <seg>Using the &lt;f0&gt;Sheet&lt;/f0&gt; menu:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T122955Z" creationid="Marco Marega" creationdate="20180718T122955Z">
-        <seg>Usare il menu &lt;f0&gt;Fogli&lt;/f0&gt;:</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T123318Z" creationid="Marco Marega" creationdate="20180718T122955Z">
+        <seg>Usando il menu &lt;f0&gt;Foglio&lt;/f0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28338,6 +28338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181624Z" creationid="Elisabetta Manuele" creationdate="20180620T181624Z">
         <seg>Usare la tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the mouse:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T123357Z" creationid="Marco Marega" creationdate="20180718T123313Z">
+        <seg>Usando il mouse:</seg>
       </tuv>
     </tu>
     <tu>
