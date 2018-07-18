@@ -4432,6 +4432,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124800Z" creationid="Marco Marega" creationdate="20180718T124800Z">
+        <seg>In alternativa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although Draw does not match the functionality of the leading drawing or picture editing programs, it is capable of producing and editing very good 3D drawings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105414Z" creationid="manuel" creationdate="20180705T105414Z">
@@ -6926,6 +6934,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142603Z" creationid="Marco Marega" creationdate="20180714T142603Z">
         <seg>Fate clic nella cella che si troverà ad uno degli angoli dell'intervallo di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the column or header to select the column or row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124842Z" creationid="Marco Marega" creationdate="20180718T124842Z">
+        <seg>Fate clic sull'intestazione per selezionare la colonna o la riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10975,6 +10991,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;98&lt;/seq0&gt;: Delete Cells dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124750Z" creationid="Marco Marega" creationdate="20180718T124750Z">
+        <seg>Figura &lt;seq0&gt;98&lt;/seq0&gt;: finestra di dialogo Elimina celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Floating (undocking) or docking the Sidebar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222903Z" creationid="Marco Marega" creationdate="20180620T222903Z">
@@ -12555,6 +12579,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T173025Z" creationid="manuel" creationdate="20180705T141026Z">
         <seg>Andate a &lt;f0&gt;Modifica &gt; Gruppo&lt;/f0&gt; nella barra dei menu, oppure fate clic con il pulsante destro del mouse sulla selezione e selezionate&lt;f1&gt;Gruppo&lt;/f1&gt; dal menu a scomparsa oppure usate la scorciatoia da tastiera &lt;f2&gt;Ctrl+Maiusc+G&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Delete Cells&lt;/f1&gt; or right-click and select &lt;f2&gt;Delete Columns&lt;/f2&gt; or &lt;f3&gt;Delete Rows&lt;/f3&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124956Z" creationid="Marco Marega" creationdate="20180718T124956Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Foglio&lt;/f0&gt; e selezionate &lt;f1&gt;Elimina cella&lt;/f1&gt; oppure fare clic con il pulsante destro del mouse e nel menu contestuale selezionate &lt;f2&gt;Elimina colonne&lt;/f2&gt; o &lt;f3&gt;Delete Rows&lt;/f3&gt; from the context menu.</seg>
       </tuv>
     </tu>
     <tu>
