@@ -8526,6 +8526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleting&lt;i0/&gt; columns and rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124409Z" creationid="Marco Marega" creationdate="20180718T124409Z">
+        <seg>Eliminare&lt;i0/&gt; colonne e righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Demote One Level</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165854Z" creationid="manuel" creationdate="20180626T165854Z">
@@ -12547,6 +12555,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T173025Z" creationid="manuel" creationdate="20180705T141026Z">
         <seg>Andate a &lt;f0&gt;Modifica &gt; Gruppo&lt;/f0&gt; nella barra dei menu, oppure fate clic con il pulsante destro del mouse sulla selezione e selezionate&lt;f1&gt;Gruppo&lt;/f1&gt; dal menu a scomparsa oppure usate la scorciatoia da tastiera &lt;f2&gt;Ctrl+Maiusc+G&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Delete Cells&lt;/f1&gt; or right-click and select &lt;f2&gt;Delete&lt;/f2&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124625Z" creationid="Marco Marega" creationdate="20180718T124625Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Foglio&lt;/f0&gt; e selezionate &lt;f1&gt;Elimina celle&lt;/f1&gt; oppure fare clic con il pulsante destro del mouse e nel menu contestuale selezionate &lt;f2&gt;Elimina&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19352,6 +19368,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proceed as for inserting a single column or row above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124400Z" creationid="Marco Marega" creationdate="20180718T124400Z">
+        <seg>Procedete come per l'inserimento di una singola colonna o riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proceed entering your credentials.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T202320Z" creationid="Marco Marega" creationdate="20180622T202320Z">
@@ -20680,6 +20704,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a cell in the column or row you want to delete.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124504Z" creationid="Marco Marega" creationdate="20180718T124504Z">
+        <seg>Selezionate una cella nella colonna o nella riga che volete cancellare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a cell, column, or row where you want the new column or row inserted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T123044Z" creationid="Marco Marega" creationdate="20180718T123044Z">
@@ -20996,6 +21028,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085942Z" creationid="luke" creationdate="20180515T085942Z">
         <seg>Select the number of images per slide in the &lt;f0&gt;Slide layout&lt;/f0&gt; list box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the option you require from the Delete Cells dialog (Figure &lt;t0&gt;98&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124737Z" creationid="Marco Marega" creationdate="20180718T124737Z">
+        <seg>Nella finestra di dialogo Elimina celle selezionate l'opzione che desiderata (Figura &lt;t0&gt;98&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26039,6 +26079,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172434Z" creationid="manuel" creationdate="20180706T172434Z">
         <seg>Per muovervi tra gli oggetti in senso inverso, premete &lt;f1&gt;Maiusc+Tab&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To delete a single column or row:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124441Z" creationid="Marco Marega" creationdate="20180718T124441Z">
+        <seg>Per eliminare una singola colonna o una singola riga:</seg>
       </tuv>
     </tu>
     <tu>
