@@ -12967,6 +12967,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Highlight the required number of columns or rows by holding down the left mouse button on the first one and then dragging across the required number of identifiers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124343Z" creationid="Marco Marega" creationdate="20180718T124343Z">
+        <seg>Evidenziate il numero di colonne o di righe necessarie facendo clic sulla prima e trascinando il mouse tenendo premuto il pulsante sinistro fino a ottenerne il numero desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlighting (with a palette of colors)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160355Z" creationid="manuel" creationdate="20180626T160355Z">
@@ -17836,6 +17844,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145500Z" creationid="Marco Marega" creationdate="20180714T145500Z">
         <seg>Colonne o righe multiple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple columns or rows can be inserted at once rather than inserting them one at a time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124146Z" creationid="Marco Marega" creationdate="20180718T124146Z">
+        <seg>Potete inserire più colonne o righe contemporaneamente anziché inserirne una alla volta.</seg>
       </tuv>
     </tu>
     <tu>
