@@ -11015,6 +11015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;99&lt;/seq0&gt;: Insert Sheet dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T122907Z" creationid="Marco Marega" creationdate="20180719T122907Z">
+        <seg>Figura &lt;seq0&gt;99&lt;/seq0&gt;: Finestra di dialogo Inserisci foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Floating (undocking) or docking the Sidebar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222903Z" creationid="Marco Marega" creationdate="20180620T222903Z">
@@ -17880,6 +17888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving and &lt;i0/&gt;copying sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T123346Z" creationid="Marco Marega" creationdate="20180719T123346Z">
+        <seg>Spostare e &lt;i0/&gt;copiare fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving and adjusting object size</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184458Z" creationid="Elisabetta Manuele" creationdate="20180620T184458Z">
@@ -19916,6 +19932,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
         <seg>Right-click anywhere on the screen to open a context menu where you can navigate through the slides and set other options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click in the empty space at the end of the sheet tabs and select &lt;f0&gt;Insert Sheet&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T122852Z" creationid="Marco Marega" creationdate="20180719T122852Z">
+        <seg>Fare clic con il pulsante destro del mouse in un punto vuoto dopo le linguette dei fogli e nel menu contestuale selezionate &lt;f0&gt;Inserisci foglio&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
