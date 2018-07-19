@@ -7026,6 +7026,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Add Sheet&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; on the bottom of the screen to insert a new sheet after the last sheet in the spreadsheet without opening the &lt;f4&gt;Insert Sheet&lt;/f4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T122203Z" creationid="Marco Marega" creationdate="20180719T122203Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Aggiungi foglio&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; nella parte bassa dello schermo così da inserire un nuovo foglio dopo l'ultimo presente nel foglio elettronico, senza dover aprire la finestra di dialogo &lt;f4&gt;Inserisci foglio&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the &lt;f0&gt;Apply to All Slides&lt;/f0&gt; button to apply the same display time to all slides.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090033Z" creationid="luke" creationdate="20180515T090033Z">
