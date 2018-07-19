@@ -8975,6 +8975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dragging and dropping</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T123737Z" creationid="Marco Marega" creationdate="20180719T123737Z">
+        <seg>Trascinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dragging and dropping to create a style</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065211Z" creationid="manuel" creationdate="20180614T065211Z">
@@ -30736,8 +30744,8 @@
       <tuv lang="EN">
         <seg>You can move or copy sheets within the same spreadsheet by dragging and dropping, or &lt;f0&gt;by&lt;/f0&gt; using the &lt;f1&gt;Move/Copy Sheet&lt;/f1&gt; dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T123541Z" creationid="Marco Marega" creationdate="20180719T123541Z">
-        <seg>Potete spostare o copiare fogli all'interno del medesimo foglio elettronico sia trascinandoli e e rilasciandoli (drag and drop), sia usando la finestra di dialogo Sposta/Copia foglio.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T123719Z" creationid="Marco Marega" creationdate="20180719T123541Z">
+        <seg>Potete spostare o copiare fogli all'interno del medesimo foglio elettronico sia trascinandoli e e rilasciandoli (drag and drop), sia &lt;f0&gt;usando&lt;/f0&gt; la finestra di dialogo &lt;f1&gt;Sposta/Copia foglio&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
