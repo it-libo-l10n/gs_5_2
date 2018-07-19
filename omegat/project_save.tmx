@@ -6946,6 +6946,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click in the empty space at the end of the sheet tabs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T122740Z" creationid="Marco Marega" creationdate="20180719T122740Z">
+        <seg>Fate clic in un punto vuoto dopo le linguette dei fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in the text where you want to position the cursor; click in a cell to make it the active cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065606Z" creationid="manuel" creationdate="20180618T065606Z">
@@ -19960,6 +19968,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the sheet tab where you want to insert a new sheet and select &lt;f0&gt;Insert Sheet&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T122651Z" creationid="Marco Marega" creationdate="20180719T122651Z">
+        <seg>Fare clic con il pulsante destro del mouse sulla linguetta del foglio nel punto in cui volete inserirne uno nuovo e dal menu contestuale selezionate &lt;f0&gt;Inserisci foglio&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click the &lt;f0&gt;Quickstarter&lt;/f0&gt; icon in the system tray to open a pop-up menu (Figure &lt;t1&gt;3&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T204906Z" creationid="Marco Marega" creationdate="20180614T210305Z">
@@ -21124,6 +21140,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T091446Z" creationid="manuel" creationdate="20180614T091446Z">
         <seg>Selezionate il modello richiesto &lt;f0&gt;e fate clic su&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, o fate doppio clic sul modello selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the sheet where you want to insert a new sheet, then go to &lt;f0&gt;Sheet &gt; Insert Sheet...&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T122550Z" creationid="Marco Marega" creationdate="20180719T122550Z">
+        <seg>Selezionate il foglio nel punto in cui volete inserirne uno nuovo, poi, nella barra del menu andate in &lt;f0&gt;Foglio &gt; Inserisci foglio...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
