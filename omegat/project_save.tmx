@@ -26797,6 +26797,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To move or copy a sheet into a different spreadsheet, you have to use the &lt;f2&gt;Move/Copy Sheet&lt;/f2&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T123655Z" creationid="Marco Marega" creationdate="20180719T123655Z">
+        <seg>Per spostare o copiare un foglio in un altro foglio elettronico, dovete usare la finestra di dialogo &lt;f2&gt;Sposta/Copia Foglio&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To move the focus to another cell using the mouse, simply move the mouse pointer to the cell where you want the focus to be and click the left mouse button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183258Z" creationid="Marco Marega" creationdate="20180713T183258Z">
@@ -30722,6 +30730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164850Z" creationid="manuel" creationdate="20180626T164850Z">
         <seg>Potete spostare gli elementi in alto o in basso nell'elenco, creare punti secondari, modificare lo stile dei punti elenco e accedere alla finestra di dialogo Elenchi puntati e numerati, che contiene controlli più dettagliati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can move or copy sheets within the same spreadsheet by dragging and dropping, or &lt;f0&gt;by&lt;/f0&gt; using the &lt;f1&gt;Move/Copy Sheet&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T123541Z" creationid="Marco Marega" creationdate="20180719T123541Z">
+        <seg>Potete spostare o copiare fogli all'interno del medesimo foglio elettronico sia trascinandoli e e rilasciandoli (drag and drop), sia usando la finestra di dialogo Sposta/Copia foglio.</seg>
       </tuv>
     </tu>
     <tu>
