@@ -23505,6 +23505,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following methods open the &lt;f5&gt;Insert Sheet&lt;/f5&gt; dialog (Figure &lt;t6&gt;99&lt;/t6&gt;), where you can position the new sheet, create more than one sheet, name the new sheet, or select a sheet from a file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T122413Z" creationid="Marco Marega" creationdate="20180719T122413Z">
+        <seg>I metodi che seguono aprono la finestra di dialogo &lt;f5&gt;Inserisci foglio&lt;/f5&gt; (Figura &lt;t6&gt;99&lt;/t6&gt;), nella quale potete indicare la posizione del nuovo foglio, crearne più di uno, assegnargli un nome, oppure selezionare un foglio da un file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following options are on the Security options and warnings dialog (Figure &lt;t0&gt;27&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083855Z" creationid="manuel" creationdate="20180606T083855Z">
