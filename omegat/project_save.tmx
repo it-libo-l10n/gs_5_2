@@ -2551,6 +2551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Sample tables&lt;/f0&gt;: Select &lt;f1&gt;CD-Collection&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T154325Z" creationid="manuel" creationdate="20180721T154325Z">
+        <seg>&lt;f0&gt;Esempi di tabelle&lt;/f0&gt;: Selezionate: &lt;f1&gt;Collezione_CD&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Save All&lt;/f0&gt; - use to save all the open files open in your current session.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T193956Z" creationid="Marco Marega" creationdate="20180621T193956Z">
@@ -2603,6 +2611,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Selected Fields from another sample &lt;/f0&gt;table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T155111Z" creationid="manuel" creationdate="20180721T155111Z">
+        <seg>&lt;f0&gt;Campi selezionati da un'altra tabella di &lt;/f0&gt;esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Selected fields&lt;/f0&gt;: Using the &lt;f1&gt;&gt; &lt;/f1&gt;button, move the following fields from the &lt;f2&gt;Available fields &lt;/f2&gt;window to the &lt;f3&gt;Selected fields&lt;/f3&gt; window in this order: &lt;f4&gt;CollectionID, AlbumTitle, Artist, DatePurchased, Format, Notes, &lt;/f4&gt;and &lt;f5&gt;NumberofTracks&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T155053Z" creationid="manuel" creationdate="20180721T155053Z">
+        <seg>&lt;f0&gt;Campi selezionati&lt;/f0&gt;: Usando il pulsante &lt;f1&gt;&gt;&lt;/f1&gt;, spostate i seguenti campi dal riquadro &lt;f2&gt;Campi disponibili &lt;/f2&gt;al riquadro &lt;f3&gt;Campi selezionati&lt;/f3&gt;, in questo ordine: &lt;f4&gt;ID_Collezione, TitoloAlbum, Interprete, DataAcquisto, Formato, Note, &lt;/f4&gt;e &lt;f5&gt;NumeroTracce&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6878,6 +6902,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163705Z" creationid="manuel" creationdate="20180628T163705Z">
         <seg>Fate clic su &lt;f7&gt;Inserisci&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click Business as the Category.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T155114Z" creationid="manuel" creationdate="20180721T155114Z">
+        <seg>Fate clic sulla Categoria Lavoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20896,6 +20928,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f1&gt;Employees&lt;/f1&gt; from the drop down list of sample tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T155148Z" creationid="manuel" creationdate="20180721T155148Z">
+        <seg>Selezionate &lt;f1&gt;Dipendenti&lt;/f1&gt; dall'elenco a discesa Esempi di tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f1&gt;Match Case&lt;/f1&gt; to find only the instances that exactly match the search term.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101411Z" creationid="manuel" creationdate="20180622T095356Z">
@@ -22732,6 +22772,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123542Z" creationid="Marco Marega" creationdate="20180623T123542Z">
         <seg>Nella barra degli strumenti Standard l'icona &lt;f1&gt;Modifica file&lt;/f1&gt; diventa attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f2&gt;Available fields&lt;/f2&gt; box changes to a list of available fields for this table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T154432Z" creationid="manuel" creationdate="20180721T154432Z">
+        <seg>Il riquadro &lt;f2&gt;Campi disponibili&lt;/f2&gt; cambia e mostra un elenco di campi disponibili per questa tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24861,6 +24909,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055643Z" creationid="manuel" creationdate="20180618T055643Z">
         <seg>Il conteggio delle parole e dei caratteri viene mostrato nella barra di stato, e viene aggiornato durante la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The&lt;f2&gt; Sample Tables&lt;/f2&gt; drop down list changes to a list of personal sample tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T154224Z" creationid="manuel" creationdate="20180721T154224Z">
+        <seg>L'elenco a discesa &lt;f2&gt;Esempi di tabelle&lt;/f2&gt; viene modificato in un elenco di esempi di tabelle appartenenti alla categoria personale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33305,8 +33361,8 @@
       <tuv lang="EN">
         <seg>table Wizard</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134329Z" creationid="manuel" creationdate="20180721T134329Z">
-        <seg>Creazione guidata Tabella &lt;s0/&gt;215</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T155222Z" creationid="manuel" creationdate="20180721T134329Z">
+        <seg>Creazione guidata Tabella</seg>
       </tuv>
     </tu>
     <tu>
