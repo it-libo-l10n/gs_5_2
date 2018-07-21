@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(What this field does will be explained later.) We will use this field to number our entries and want that number to automatically increase as we add each entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134323Z" creationid="manuel" creationdate="20180721T134323Z">
+        <seg>Verrà in seguito spiegato a cosa serve questo campo, che verrà usato per numerare progressivamente le voci inserite e si incrementerà automaticamente ad ogni nuovo inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(When in Full Screen view, press the &lt;f4&gt;Esc&lt;/f4&gt; key to return to either &lt;f5&gt;Normal&lt;/f5&gt; or Web view.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T104712Z" creationid="manuel" creationdate="20180621T104712Z">
@@ -1675,6 +1683,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064919Z" creationid="manuel" creationdate="20180618T064919Z">
         <seg>&lt;f0&gt;Fate clic&lt;/f0&gt; per passare alla modalità &lt;f1&gt;Sovrascrittura&lt;/f1&gt;; fate clic &lt;f2&gt;ancora&lt;/f2&gt; per ritornare alla modalità Inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Category&lt;/f0&gt;: Select &lt;f1&gt;Personal&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T135724Z" creationid="manuel" creationdate="20180721T135724Z">
+        <seg>&lt;f0&gt;Categoria&lt;/f0&gt;: selezionate &lt;f1&gt;Personale&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3516,6 +3532,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060646Z" creationid="manuel" creationdate="20180629T060646Z">
         <seg>Alcuni esempi delle funzioni di disegno sono: gestione dei livelli, griglia magnetica, visualizzazione di dimensioni e misure, connettori per creare organigrammi, funzioni 3D per creare piccoli disegni tridimensionali (con trame ed effetti di luce), integrazione di disegni e stili di pagina, e le curve di Bézier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A field in a table is one bit of information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134119Z" creationid="manuel" creationdate="20180721T134119Z">
+        <seg>Un campo in una tabella rappresenta un pezzo di informazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6810,6 +6834,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Use Wizard to Create Table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T135305Z" creationid="manuel" creationdate="20180721T135305Z">
+        <seg>Fate clic su &lt;f0&gt;Usa procedura guidata per la creazione di tabelle...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f1&gt;OK&lt;/f1&gt; to save.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T075428Z" creationid="manuel" creationdate="20180627T075428Z">
@@ -9655,6 +9687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Every table requires a &lt;f0&gt;Primary key field&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134241Z" creationid="manuel" creationdate="20180721T134241Z">
+        <seg>Ogni tabella richiede un &lt;f0&gt;campo per la Chiave primaria&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Every time LibreOffice creates a backup copy, the previous backup copy is replaced.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144424Z" creationid="manuel" creationdate="20180608T144424Z">
@@ -11523,6 +11563,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T151437Z" creationid="manuel" creationdate="20180715T151437Z">
         <seg>Ad esempio, una lista di nomi e indirizzi è una sorgente dati che può essere impiegata per produrre la stampa in serie di una lettera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, a price list table might have one field for item name, one for the description, and a third for the price.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134134Z" creationid="manuel" creationdate="20180721T134134Z">
+        <seg>Per esempio, in una tabella per un listino prezzi, occorre un campo per il nome articolo, uno per la sua descrizione ed un terzo per il prezzo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21768,6 +21816,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since none of the fields we need for our Automobile database are contained in any of the sample wizard tables, we will create a simple table using the wizard that has nothing to do with our database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134201Z" creationid="manuel" creationdate="20180721T134201Z">
+        <seg>Poiché nessuno dei campi che occorrono per il database Automobile è compreso nelle tabelle d'esempio della Creazione guidata, usando questa procedura verrà creata una semplice tabella, la quale non ha nulla a che vedere con il database Automobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since these purchases are made by one of two bank cards or with cash, I want a field to state which payment type was used for each item.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155000Z" creationid="manuel" creationdate="20180715T155000Z">
@@ -22228,6 +22284,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180000Z" creationid="Elisabetta Manuele" creationdate="20180627T180000Z">
         <seg>Stefan A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Select fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T135424Z" creationid="manuel" creationdate="20180721T135424Z">
+        <seg>Passo 1: Selezione dei campi</seg>
       </tuv>
     </tu>
     <tu>
@@ -23117,6 +23181,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154411Z" creationid="manuel" creationdate="20180615T154411Z">
         <seg>Si apre la finestra di dialogo &lt;f4&gt;Modelli&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Wizard permits the fields of the table to come from more than one suggested table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134218Z" creationid="manuel" creationdate="20180721T134218Z">
+        <seg>La Procedura guidata consente l'inserimento di campi nella tabella prelevandoli da una serie di tabelle preimpostate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25497,6 +25569,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This opens &lt;i1/&gt;the &lt;i2/&gt;Table Wizard (Figure &lt;t3&gt;209&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T135358Z" creationid="manuel" creationdate="20180721T135358Z">
+        <seg>In tal modo si apre &lt;i1/&gt;la &lt;i2/&gt;Creazione guidata tabella (Figura &lt;t3&gt;209&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This opens the &lt;f3&gt;Position&lt;/f3&gt; toolbar giving access to the various arrangement options (Figure &lt;t4&gt;187&lt;/t4&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T061526Z" creationid="manuel" creationdate="20180707T061526Z">
@@ -25621,6 +25701,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T100825Z" creationid="manuel" creationdate="20180707T100817Z">
         <seg>Questa sezione è un introduzione ad alcuni di questi effetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This section is merely an exercise in explaining how the Wizard works.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134208Z" creationid="manuel" creationdate="20180721T134208Z">
+        <seg>Questa sezione è solamente un esercizio che illustra il funzionamento della Procedura guidata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28830,10 +28918,35 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We can delete some of these fields and add other fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134111Z" creationid="manuel" creationdate="20180721T134111Z">
+        <seg>È possibile eliminare alcuni di questi campi e aggiungerne degli altri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T182113Z" creationid="Elisabetta Manuele" creationdate="20180620T181343Z">
         <seg>Inoltre, richiediamo che condividiate con il progetto parte dei profitti ottenuti dalla vendita delle Guide, in considerazione di tutto il lavoro svolto per produrle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will create a table with fields from three different suggested tables in the Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134227Z" creationid="manuel" creationdate="20180721T134227Z">
+        <seg>Verrà creata una tabella con i campi provenienti da tre differenti tabelle suggerite nella Creazione guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will use the &lt;f0&gt;CD-Collection&lt;/f0&gt; Sample table in the Personal category and Employees in the Business category to select the fields we need.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T135653Z" creationid="manuel" creationdate="20180721T135653Z">
+        <seg>Utilizzeremo la tabella di esempio &lt;f0&gt;Raccolta_CD&lt;/f0&gt; nella categoria Personale e Dipendenti nella categoria Affari per selezionare i campi di cui abbiamo bisogno.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -31950,6 +32063,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>databasa</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134338Z" creationid="manuel" creationdate="20180721T134338Z">
+        <seg>database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>database table</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T113929Z" creationid="manuel" creationdate="20180721T113929Z">
@@ -33174,6 +33295,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>table (database)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134345Z" creationid="manuel" creationdate="20180721T134345Z">
+        <seg>tabella (database)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>table Wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134329Z" creationid="manuel" creationdate="20180721T134329Z">
+        <seg>Creazione guidata Tabella &lt;s0/&gt;215</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>table of contents, automated</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T083132Z" creationid="manuel" creationdate="20180628T083132Z">
@@ -33354,6 +33491,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141342Z" creationid="manuel" creationdate="20180621T165553Z">
         <seg>caratteri jolly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134348Z" creationid="manuel" creationdate="20180721T134348Z">
+        <seg>procedura guidata</seg>
       </tuv>
     </tu>
     <tu>
