@@ -9287,6 +9287,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each category contains sample tables from which to choose.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T114140Z" creationid="manuel" creationdate="20180721T114140Z">
+        <seg>Ogni categoria contiene esempi di tabelle fra cui scegliere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each category has &lt;f1&gt;four&lt;/f1&gt; BAILS (Business Authorization Identification and Labeling Scheme) levels: Non-Business, General Business, Confidential, and Internal Only.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T172021Z" creationid="manuel" creationdate="20180628T171153Z">
@@ -9395,6 +9403,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135434Z" creationid="Marco Marega" creationdate="20180707T135434Z">
         <seg>Ciascun foglio elettronico può contenere diversi fogli, e ciascun foglio può avere molte celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each table has a list of available fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T114144Z" creationid="manuel" creationdate="20180721T114144Z">
+        <seg>Ciascuna tabella presenta una lista di campi disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22032,6 +22048,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes this is not sufficient for what we want; in those cases we can use a wizard as a starting point and then build upon what it produces.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T114050Z" creationid="manuel" creationdate="20180721T114050Z">
+        <seg>A volte però ciò potrebbe non essere sufficiente per le vostre necessità; in questi casi si può usare una procedura guidata come punto d'inizio e poi costruire su quanto creato dalla procedura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorting records</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181857Z" creationid="Elisabetta Manuele" creationdate="20180620T181857Z">
@@ -23077,6 +23101,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155607Z" creationid="manuel" creationdate="20180611T155607Z">
         <seg>Il menu Stili in Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Table Wizard in Base contains two categories of suggested tables: business and personal.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T114112Z" creationid="manuel" creationdate="20180721T114112Z">
+        <seg>La Procedura (o Creazione) guidata Tabella in Base contiene due categorie di tabelle: lavoro e personale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24613,6 +24645,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204401Z" creationid="Marco Marega" creationdate="20180622T204401Z">
         <seg>Le tre icone in alto a destra di queste finestre di dialogo sono le seguenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The three tasks that you can perform on a table are in the &lt;f3&gt;Tasks&lt;/f3&gt; list (see Figure &lt;t4&gt;208&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T113921Z" creationid="manuel" creationdate="20180721T113921Z">
+        <seg>Le tre attività che potete eseguire su una tabella sono elencate nel riquadro &lt;f3&gt;Attività&lt;/f3&gt; (vedere la Figura &lt;t4&gt;208&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28550,6 +28590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the &lt;i0/&gt;Wizard to create a table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T114012Z" creationid="manuel" creationdate="20180721T114012Z">
+        <seg>Usare la &lt;i0/&gt;procedura guidata per creare una tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the Bullets and Numbering toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164655Z" creationid="manuel" creationdate="20180626T164655Z">
@@ -29602,6 +29650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150719Z" creationid="manuel" creationdate="20180705T150719Z">
         <seg>Con un gradiente di  trasparenza, la direzione e il grado del colore di riempimento di un oggetto cambia da opaco a trasparente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wizards are designed to do the basic work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T114019Z" creationid="manuel" creationdate="20180721T114019Z">
+        <seg>Le procedure guidate sono disegnate per effettuare il lavoro di base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31890,6 +31946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T151314Z" creationid="manuel" creationdate="20180715T151314Z">
         <seg>sorgente dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>database table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T113929Z" creationid="manuel" creationdate="20180721T113929Z">
+        <seg>tabella database</seg>
       </tuv>
     </tu>
     <tu>
