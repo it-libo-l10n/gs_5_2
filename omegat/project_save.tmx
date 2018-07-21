@@ -28944,8 +28944,8 @@
       <tuv lang="EN">
         <seg>We will use the &lt;f0&gt;CD-Collection&lt;/f0&gt; Sample table in the Personal category and Employees in the Business category to select the fields we need.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T135653Z" creationid="manuel" creationdate="20180721T135653Z">
-        <seg>Utilizzeremo la tabella di esempio &lt;f0&gt;Raccolta_CD&lt;/f0&gt; nella categoria Personale e Dipendenti nella categoria Affari per selezionare i campi di cui abbiamo bisogno.
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180721T135754Z" creationid="manuel" creationdate="20180721T135653Z">
+        <seg>Utilizzeremo la tabella di esempio &lt;f0&gt;Collezione_CD&lt;/f0&gt; nella categoria Personale e Dipendenti nella categoria Affari per selezionare i campi di cui abbiamo bisogno.
 </seg>
       </tuv>
     </tu>
