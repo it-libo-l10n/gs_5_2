@@ -6762,6 +6762,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Next&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180724T170114Z" creationid="manuel" creationdate="20180724T170114Z">
+        <seg>Fate clic su &lt;f0&gt;Avanti&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and the dialog closes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200103Z" creationid="Marco Marega" creationdate="20180621T200103Z">
@@ -10427,6 +10435,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T162926Z" creationid="manuel" creationdate="20180715T162926Z">
         <seg>La figura &lt;seq0&gt;208&lt;/seq0&gt;: creazione delle tabelle di un database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;209&lt;/seq0&gt;: Selecting fields for the table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180724T170129Z" creationid="manuel" creationdate="20180724T170129Z">
+        <seg>Figura &lt;seq0&gt;209&lt;/seq0&gt;: selezione dei campi per la tabella</seg>
       </tuv>
     </tu>
     <tu>
@@ -14623,6 +14639,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you make a mistake in selecting fields, click on the field name in the &lt;f0&gt;Selected fields&lt;/f0&gt; list and use the &lt;f1&gt;&lt;&lt;/f1&gt; button to move it from the &lt;f2&gt;Selected fields&lt;/f2&gt; list back to the &lt;f3&gt;Available fields&lt;/f3&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180724T165939Z" creationid="manuel" creationdate="20180724T165939Z">
+        <seg>Se fate un errore selezionando i campi, fate clic sul nome del campo nell'elenco &lt;f0&gt;Campi selezionati&lt;/f0&gt; e usate il pulsante &lt;f1&gt;&lt;&lt;/f1&gt; per spostarlo dall'elenco &lt;f2&gt;Campi selezionati&lt;/f2&gt; di nuovo all'elenco &lt;f3&gt;Campi disponibili&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you make a mistake in the order of the selected fields, click on the field name that is in the wrong order and use the &lt;f0&gt;Up&lt;/f0&gt; or &lt;f1&gt;Down arrow &lt;/f1&gt;on the right side of the Selected fields list to move the field name to the correct position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180724T170109Z" creationid="manuel" creationdate="20180724T170109Z">
+        <seg>Se fate un errore nell'ordine dei campi selezionati, fate clic sul nome del campo che si trova nella posizione errata e usate le frecce &lt;f0&gt;Su&lt;/f0&gt; o &lt;f1&gt;Giù&lt;/f1&gt;, alla destra dell'elenco Campi selezionati, per spostare il nome del campo nella posizione corretta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you make any changes to a template and its styles, the next time you open a document that was created from the template before the changes, a confirmation message is displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155800Z" creationid="manuel" creationdate="20180615T155800Z">
@@ -16347,6 +16379,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154756Z" creationid="manuel" creationdate="20180715T154756Z">
         <seg>Sarà quindi necessaria una tabella specifica: tasse e patente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will be at the bottom of the list directly below the &lt;f6&gt;NumberofTracks&lt;/f6&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180724T165816Z" creationid="manuel" creationdate="20180724T165816Z">
+        <seg>Verrà inserito al fondo della lista, direttamente sotto il campo &lt;f6&gt;NumeroTracce&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28246,6 +28286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the &lt;f2&gt;&gt;&lt;/f2&gt; button to move the &lt;f3&gt;Photo&lt;/f3&gt; field from the &lt;f4&gt;Available fields&lt;/f4&gt; window to the &lt;f5&gt;Selected fields&lt;/f5&gt; window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180724T165747Z" creationid="manuel" creationdate="20180724T165747Z">
+        <seg>Utilizzate il pulsante &lt;f2&gt;&gt;&lt;/f2&gt; per spostare il campo &lt;f3&gt;Foto&lt;/f3&gt; dal riquadro &lt;f4&gt;Campi disponibili&lt;/f4&gt; al riquadro &lt;f5&gt;Campi selezionati&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the Numbering and Bullets buttons on the Formatting toolbar or on the Paragraph panel of the Sidebar’s Properties deck: select the paragraphs for the list, and then click the appropriate button on the toolbar or in the Sidebar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164611Z" creationid="manuel" creationdate="20180626T164611Z">
@@ -32363,6 +32411,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160429Z" creationid="manuel" creationdate="20180616T160429Z">
         <seg>caratteristiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>field types and formats</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180724T170139Z" creationid="manuel" creationdate="20180724T170139Z">
+        <seg>tipi e formati di campo</seg>
       </tuv>
     </tu>
     <tu>
