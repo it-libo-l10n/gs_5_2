@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(See Figure &lt;t0&gt;210&lt;/t0&gt;.) You can then make changes to meet your needs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180725T063051Z" creationid="manuel" creationdate="20180725T063051Z">
+        <seg>(Vedere la &lt;t0&gt;Figura 210&lt;/t0&gt;.) Diviene quindi possibile effettuare tutte le modifiche necessarie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The objects are still in the file even if you cannot see them on screen.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082053Z" creationid="manuel" creationdate="20180530T082053Z">
@@ -2695,6 +2703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Step 2: &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Set field types and formats&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180725T062916Z" creationid="manuel" creationdate="20180725T062916Z">
+        <seg>&lt;f0&gt;Passo 2: Impostazione &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;dei tipi e dei formati di campo&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Styles and Formatting:&lt;/f0&gt; This deck contains a single panel, which is the same as that opened by selecting the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; button (&lt;f2&gt;F11&lt;/f2&gt;) from the Text Formatting toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T185114Z" creationid="Marco Marega" creationdate="20180708T185114Z">
@@ -3387,6 +3403,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072109Z" creationid="manuel" creationdate="20180627T072109Z">
         <seg>Una migliore strategia è quella di definire le tabulazioni per lo &lt;f0&gt;stile&lt;/f0&gt; di paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A blank field will then not be allowed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180725T063236Z" creationid="manuel" creationdate="20180725T063236Z">
+        <seg>Un campo vuoto non sarà quindi permesso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6994,6 +7018,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click each field, one at a time, and make the changes listed below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180725T063059Z" creationid="manuel" creationdate="20180725T063059Z">
+        <seg>Fate clic su ciascun campo, uno alla volta, ed effettuate le modifiche sotto riportate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in a cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142526Z" creationid="Marco Marega" creationdate="20180714T142526Z">
@@ -10455,6 +10487,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;210&lt;/seq0&gt;: Changing field types</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180725T062926Z" creationid="manuel" creationdate="20180725T062926Z">
+        <seg>Figura &lt;seq0&gt;210&lt;/seq0&gt;: impostazione dei tipi di campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Viewing the paths of files used by LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070137Z" creationid="manuel" creationdate="20180531T070137Z">
@@ -13831,6 +13871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If any of these fields requires a mandatory entry, set &lt;f0&gt;Entry required&lt;/f0&gt; to &lt;f1&gt;Yes&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180725T063201Z" creationid="manuel" creationdate="20180725T063201Z">
+        <seg>Se qualcuno di questi campi richiede obbligatoriamente l'immissione di dati, impostate &lt;f0&gt;Digitazione necessaria&lt;/f0&gt; su &lt;f1&gt;Sì&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If both options are selected and you edit the disabled code in LibreOffice, the original Microsoft Basic code will be saved when saving in a Microsoft Office format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154154Z" creationid="manuel" creationdate="20180608T154154Z">
@@ -15455,6 +15503,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In general, only set &lt;f2&gt;Entry required&lt;/f2&gt; to &lt;f3&gt;Yes&lt;/f3&gt; if something must always be put in that field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180725T063338Z" creationid="manuel" creationdate="20180725T063338Z">
+        <seg>In generale, è consigliabile impostare &lt;f2&gt;Digitazione necessaria&lt;/f2&gt; su &lt;f3&gt;Sì&lt;/f3&gt; solo se il campo in questione è determinante e deve sempre contenere un dato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In general, you start LibreOffice the same way you start any other program on your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213742Z" creationid="Marco Marega" creationdate="20180531T213742Z">
@@ -15787,6 +15843,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144733Z" creationid="manuel" creationdate="20180608T144733Z">
         <seg>In questo caso, non ha importanza dove sia registrata la struttura di cartelle a cui si fa riferimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this step you give the fields their properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180725T062942Z" creationid="manuel" creationdate="20180725T062942Z">
+        <seg>In questo passaggio vengono assegnate le proprietà idonee ai campi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29563,6 +29627,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z" creationid="luke" creationdate="20180515T090034Z">
         <seg>When you are ready to advance to the next slide, mouse click on the display background or press the right arrow or space bar on your keyboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you click a field, the information on the right changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180725T062950Z" creationid="manuel" creationdate="20180725T062950Z">
+        <seg>Quando un campo viene selezionato, le informazioni sulla destra cambiano.</seg>
       </tuv>
     </tu>
     <tu>
