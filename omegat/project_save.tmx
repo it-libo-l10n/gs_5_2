@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25969,6 +25969,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;f0&gt;copy&lt;/f0&gt; a sheet within the same spreadsheet, hold down the &lt;f1&gt;Ctrl&lt;/f1&gt; key (&lt;f2&gt;Option&lt;/f2&gt; key on Mac) then click on the sheet tab and drag it to its new position before releasing the mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T161656Z" creationid="Marco Marega" creationdate="20180729T161656Z">
+        <seg>Per &lt;f0&gt;copiare&lt;/f0&gt; un foglio, all'interno dello stesso foglio elettronico, tenete premuto il tasto &lt;f1&gt;Ctrl&lt;/f1&gt; (tasto &lt;f2&gt;Opzione&lt;/f2&gt; su Mac) e poi fate clic sulla linguetta del foglio e trascinatela nella sua nuova posizione prima di rilasciare il pulsante del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To &lt;f0&gt;move&lt;/f0&gt; (cut and paste) selected text, use &lt;f1&gt;Ctrl+X&lt;/f1&gt; to cut the text, insert the cursor at the paste-in point and use &lt;f2&gt;Ctrl+V&lt;/f2&gt; to paste.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161408Z" creationid="manuel" creationdate="20180621T161408Z">
@@ -27144,6 +27152,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T182110Z" creationid="Marco Marega" creationdate="20180620T182110Z">
         <seg>Per spostare una barra strumenti mobile, fate clic sulla sua barra del titolo e trascinatela in una nuova posizione oppure agganciatela in cima o in fondo alla finestra principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move a sheet to a different position within the same spreadsheet, click and hold on the sheet tab and drag it to its new position before releasing the mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T161501Z" creationid="Marco Marega" creationdate="20180729T161501Z">
+        <seg>Per spostare un foglio in una posizione differente, all'interno dello stesso foglio elettronico, fate clic sulla linguetta del foglio e trascinatela nella sua nuova posizione prima di rilasciare il pulsante del mouse.</seg>
       </tuv>
     </tu>
     <tu>
