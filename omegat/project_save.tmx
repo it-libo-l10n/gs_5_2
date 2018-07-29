@@ -30039,6 +30039,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While this works for a small spreadsheet with only a few sheets, it can become difficult to identify sheets when a spreadsheet contains many sheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165050Z" creationid="Marco Marega" creationdate="20180729T165050Z">
+        <seg>Questo va bene per piccoli fogli elettronici con solo pochi fogli, ma, quando un foglio elettronico contiene molti fogli, può diventare difficoltoso identificarli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>While we have listed fields we will create in the tables of the database, there is one more field that may be needed in a table: the field for the primary key, an identifier unique to each record.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155329Z" creationid="manuel" creationdate="20180715T155329Z">
@@ -31411,6 +31419,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084946Z" creationid="manuel" creationdate="20180614T084946Z">
         <seg>Potete eliminare gli stili personalizzati; ma prima di farlo, occorre verificare che lo stile da rimuovere non sia in uso nel documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can rename a sheet using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165116Z" creationid="Marco Marega" creationdate="20180729T165116Z">
+        <seg>Potere rinominare un foglio usando uno dei metodi seguenti:</seg>
       </tuv>
     </tu>
     <tu>
