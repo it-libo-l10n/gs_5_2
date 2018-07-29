@@ -11295,6 +11295,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;101&lt;/t0&gt; shows some frozen rows and columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T170450Z" creationid="Marco Marega" creationdate="20180729T170450Z">
+        <seg>La Figura &lt;t0&gt;101&lt;/t0&gt; mostra alcune righe e colonne fissate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;46&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140320Z" creationid="manuel" creationdate="20180611T161453Z">
@@ -24145,6 +24153,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The heavier horizontal line between rows 3 and 23 and the heavier vertical line between columns F and Q indicate that rows 1 to 3 and columns A to F are frozen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T170708Z" creationid="Marco Marega" creationdate="20180729T170708Z">
+        <seg>La linea orizzontale più spessa tra le righe 3 e 23 e quella verticale tra le colonne F e Q indicano che le righe da 1 a 3 e le colonne da A ad F sono fisse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The horizontal ruler shows &lt;i0/&gt;the tab stops.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T065020Z" creationid="manuel" creationdate="20180627T065020Z">
@@ -25229,6 +25245,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150442Z" creationid="manuel" creationdate="20180705T150442Z">
         <seg>Potete poi spostare le maniglie dell'oggetto per produrre l'effetto desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then, when moving around within a sheet, the cells in frozen rows and columns always remain in view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T170423Z" creationid="Marco Marega" creationdate="20180729T170423Z">
+        <seg>In questo modo quando fate scorrere il foglio, le colonne e le righe fissate restano sempre visibili.</seg>
       </tuv>
     </tu>
     <tu>
