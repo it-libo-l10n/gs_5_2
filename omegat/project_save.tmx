@@ -9735,6 +9735,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the name in the &lt;f0&gt;Name&lt;/f0&gt; text box when you create the sheet using the Insert Sheet dialog (Figure &lt;t1&gt;99&lt;/t1&gt; on page &lt;t2&gt;128&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165256Z" creationid="Marco Marega" creationdate="20180729T165244Z">
+        <seg>Digitate il nome nella casella di testo &lt;f0&gt;Nome&lt;/f0&gt; nel momento in cui create il foglio usando la finestra di dialogo Inserisci foglio (Figura &lt;t1&gt;99&lt;/t1&gt; a pagina &lt;t2&gt;128&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the new values that define the color.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070214Z" creationid="manuel" creationdate="20180531T070214Z">
@@ -20260,6 +20268,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T155953Z" creationid="manuel" creationdate="20180628T081512Z">
         <seg>Facendo clic destro su una nota si apre un menu contestuale che consente di eliminare: il commento corrente, tutti i commenti dello stesso autore o tutti i commenti presenti nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on a sheet tab and select &lt;f0&gt;Rename Sheet&lt;/f0&gt; from the context menu to replace the existing name with a different one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165452Z" creationid="Marco Marega" creationdate="20180729T165247Z">
+        <seg>Fare clic sulla linguetta del foglio con il pulsante destro del mouse e, dal menu contestuale, scegliete &lt;f0&gt;Rinomina foglio&lt;/f0&gt; in modo da sostituire il nome esistente con un altro.</seg>
       </tuv>
     </tu>
     <tu>
