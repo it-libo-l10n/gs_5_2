@@ -6802,6 +6802,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to confirm the move or copy and close the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163607Z" creationid="Marco Marega" creationdate="20180729T163607Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per confermare lo spostamento o la copia e chiudere la finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to copy the styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T142531Z" creationid="manuel" creationdate="20180614T071739Z">
@@ -29859,6 +29867,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T122939Z" creationid="Marco Marega" creationdate="20180718T122939Z">
         <seg>Quando inserite delle colonne o delle righe, le celle prendono la formattazione dalle celle corrispondenti della colonna adiacente a sinistra o della riga superiore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you move or copy to another spreadsheet or a new spreadsheet, a conflict may occur with formulas linked to other sheets in the previous location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163942Z" creationid="Marco Marega" creationdate="20180729T163942Z">
+        <seg>Se spostate o copiate un foglio in un altro, o in un nuovo foglio elettronico, potrebbero crearsi dei conflitti con le formule che collegate ad altri fogli che fanno riferimento al posizionamento precedente.</seg>
       </tuv>
     </tu>
     <tu>
