@@ -14519,6 +14519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do not enter a name, Calc creates a default name (Sheet 2, Sheet 3, and so on).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163537Z" creationid="Marco Marega" creationdate="20180729T163537Z">
+        <seg>Se non inserite un nome, Calc ne creerà automaticamente uno (Foglio 2, Foglio 3, ecc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not find a particular special character, try changing the &lt;f0&gt;Font&lt;/f0&gt; selection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105853Z" creationid="manuel" creationdate="20180622T105853Z">
@@ -21424,6 +21432,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the position in &lt;f0&gt;Insert before&lt;/f0&gt; where you want to place the sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163303Z" creationid="Marco Marega" creationdate="20180729T163303Z">
+        <seg>In &lt;f0&gt;Inserisci prima&lt;/f0&gt; selezionate il punto in cui volete posizionare il foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the required options chosen from the options available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145651Z" creationid="manuel" creationdate="20180705T145651Z">
@@ -28041,6 +28057,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072711Z" creationid="manuel" creationdate="20180531T072711Z">
         <seg>Digitate un nome per questo colore nel riquadro &lt;f2&gt;Nome&lt;/f2&gt;, quindi fate clic sul pulsante &lt;f3&gt;Aggiungi&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type a name in the &lt;f0&gt;New name&lt;/f0&gt; text box if you want to rename the sheet when it is moved or copied.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163444Z" creationid="Marco Marega" creationdate="20180729T163444Z">
+        <seg>Se quando lo muovete o lo spostate volete anche rinominare il foglio, digitate un nome nella casella di testo &lt;f0&gt;Nuovo nome&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
