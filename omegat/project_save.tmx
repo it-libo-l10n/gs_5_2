@@ -12191,6 +12191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more about zoom, see &lt;f1&gt;Chapter 1 Introducing LibreOffice&lt;/f1&gt; in this guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T170206Z" creationid="Marco Marega" creationdate="20180729T170206Z">
+        <seg>Per maggiori informazioni sullo zoom, consultate il &lt;f1&gt;Capitolo 1 (Introduzione a LibreOffice)&lt;/f1&gt; di questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more detail, see the Sidebar explanation in the relevant LibreOffice component’s user guide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222507Z" creationid="Marco Marega" creationdate="20180620T222507Z">
@@ -12547,6 +12555,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105135Z" creationid="manuel" creationdate="20180704T105135Z">
         <seg>Curve a mano libera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Freezing locks a number of rows at the top of a spreadsheet or a number of columns on the left of a spreadsheet or both rows and columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T170345Z" creationid="Marco Marega" creationdate="20180729T170345Z">
+        <seg>Potete fissare un certo numero di righe in cima al foglio o un certo numero di colonne all'estremo sinistro del foglio, o contemporaneamente sia righe che colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Freezing&lt;i0/&gt; rows and columns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T170223Z" creationid="Marco Marega" creationdate="20180729T170223Z">
+        <seg>Fissare&lt;i0/&gt; righe e colonne</seg>
       </tuv>
     </tu>
     <tu>
@@ -32819,6 +32843,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171450Z" creationid="manuel" creationdate="20180706T171450Z">
         <seg>cornice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>freezing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T170213Z" creationid="Marco Marega" creationdate="20180729T170213Z">
+        <seg>fissare</seg>
       </tuv>
     </tu>
     <tu>
