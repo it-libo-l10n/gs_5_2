@@ -5706,6 +5706,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the name for each new sheet added is &lt;f0&gt;Sheet&lt;/f0&gt;X, where &lt;f1&gt;X&lt;/f1&gt; is the number of the next sheet to be added.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164858Z" creationid="Marco Marega" creationdate="20180729T164858Z">
+        <seg>Per impostazione predefinita, il nome di ogni foglio che viene aggiunto è &lt;f0&gt;Foglio&lt;/f0&gt;X, dove la &lt;f1&gt;X&lt;/f1&gt; è il numero progressivo del foglio aggiunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, toolbars will dock at the top of the workspace.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190126Z" creationid="Marco Marega" creationdate="20180620T190126Z">
@@ -6934,6 +6942,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164408Z" creationid="Marco Marega" creationdate="20180729T164408Z">
         <seg>Fate clic su &lt;f3&gt;Sì&lt;/f3&gt; per confermare l'eliminazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f4&gt;Yes&lt;/f4&gt; to confirm the deletion.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164728Z" creationid="Marco Marega" creationdate="20180729T164728Z">
+        <seg>Fate clic su &lt;f4&gt;Sì&lt;/f4&gt; per confermare l'eliminazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26685,8 +26701,8 @@
       <tuv lang="EN">
         <seg>To delete a single sheet, right-click on the sheet tab you want to delete and select &lt;f0&gt;Delete Sheet&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Sheet &lt;s2/&gt;&gt; Delete Sheet...&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164316Z" creationid="Marco Marega" creationdate="20180729T164316Z">
-        <seg>Per eliminare un singolo foglio, fare clic con il pulsante destro del mouse sulla linguetta del foglio che volete eliminare e nel menu contestuale selezionate &lt;f0&gt;Elimina foglio&lt;/f0&gt;, oppure andate in &lt;f1&gt;Foglio &lt;s2/&gt;&gt; Elimina foglio...&lt;/f1&gt; nella barra del menu.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164507Z" creationid="Marco Marega" creationdate="20180729T164316Z">
+        <seg>Per eliminare un singolo foglio, fate clic con il pulsante destro del mouse sulla linguetta del foglio che volete eliminare e nel menu contestuale selezionate &lt;f0&gt;Elimina foglio&lt;/f0&gt;, oppure andate in &lt;f1&gt;Foglio &lt;s2/&gt;&gt; Elimina foglio...&lt;/f1&gt; nella barra del menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26709,8 +26725,8 @@
       <tuv lang="EN">
         <seg>To delete multiple sheets, select the sheets (see “&lt;bf0&gt;Selecting sheets&lt;/bf0&gt;” on page &lt;bf1&gt;126&lt;/bf1&gt;), then right-click one of the sheet tabs and select &lt;f2&gt;Delete Sheet&lt;/f2&gt; from the context menu, or go to &lt;f3&gt;Sheet &gt; Delete Sheet...&lt;/f3&gt; from on the Menu bar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164448Z" creationid="Marco Marega" creationdate="20180729T164448Z">
-        <seg>Per eliminare più fogli, fare clic con il pulsante destro del mouse sulla linguetta del foglio che volete eliminare e nel menu contestuale selezionate Elimina foglio, oppure andate in Foglio &gt; Elimina foglio... nella barra del menu.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164709Z" creationid="Marco Marega" creationdate="20180729T164448Z">
+        <seg>Per eliminare più fogli, selezionate i fogli (vedete &lt;bf0&gt;"Selezionare i fogli"&lt;/bf0&gt; a pagina &lt;bf1&gt;126&lt;/bf1&gt;), poi fate clic con il pulsante destro del mouse sulla linguetta di uno dei fogli che volete eliminare e nel menu contestuale selezionate &lt;f2&gt;Elimina foglio&lt;/f2&gt;, oppure andate in &lt;f3&gt;Foglio &gt; Elimina foglio...&lt;/f3&gt; nella barra del menu.</seg>
       </tuv>
     </tu>
     <tu>
