@@ -21008,6 +21008,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Move&lt;/f0&gt; to move the sheet or &lt;f1&gt;Copy&lt;/f1&gt; to copy the sheet in the Action area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T162813Z" creationid="Marco Marega" creationdate="20180729T162813Z">
+        <seg>Nell'area Operazione selezionate &lt;f0&gt;Sposta&lt;/f0&gt; per spostare il foglio o &lt;f1&gt;Copia&lt;/f1&gt; per copiarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Overwrite&lt;/f0&gt; if you want to replace styles in the original document that have the same name as styles in the document from which you are importing styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071650Z" creationid="manuel" creationdate="20180614T071650Z">
@@ -21452,6 +21460,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085954Z" creationid="luke" creationdate="20180515T085954Z">
         <seg>Select the slides you want to use in your custom slide show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the spreadsheet where you want the sheet to be placed from the drop-down list in &lt;f0&gt;To document&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163032Z" creationid="Marco Marega" creationdate="20180729T163032Z">
+        <seg>Nell'elenco a comparsa &lt;f0&gt;al documento&lt;/f0&gt; selezionate il foglio elettronico in cui volete posizionare il foglio.</seg>
       </tuv>
     </tu>
     <tu>
