@@ -6930,6 +6930,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f3&gt;Yes&lt;/f3&gt; to confirm the deletion.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164408Z" creationid="Marco Marega" creationdate="20180729T164408Z">
+        <seg>Fate clic su &lt;f3&gt;Sì&lt;/f3&gt; per confermare l'eliminazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f6&gt;Yes&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142301Z" creationid="manuel" creationdate="20180616T142301Z">
@@ -26695,6 +26703,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T125042Z" creationid="Marco Marega" creationdate="20180718T125042Z">
         <seg>Per eliminare più colonne o righe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To delete multiple sheets, select the sheets (see “&lt;bf0&gt;Selecting sheets&lt;/bf0&gt;” on page &lt;bf1&gt;126&lt;/bf1&gt;), then right-click one of the sheet tabs and select &lt;f2&gt;Delete Sheet&lt;/f2&gt; from the context menu, or go to &lt;f3&gt;Sheet &gt; Delete Sheet...&lt;/f3&gt; from on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164448Z" creationid="Marco Marega" creationdate="20180729T164448Z">
+        <seg>Per eliminare più fogli, fare clic con il pulsante destro del mouse sulla linguetta del foglio che volete eliminare e nel menu contestuale selezionate Elimina foglio, oppure andate in Foglio &gt; Elimina foglio... nella barra del menu.</seg>
       </tuv>
     </tu>
     <tu>
