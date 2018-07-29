@@ -25449,6 +25449,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be the same spreadsheet, another spreadsheet already open, or a new spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163158Z" creationid="Marco Marega" creationdate="20180729T163158Z">
+        <seg>Questo può essere lo stesso foglio elettronico, un altro già aperto oppure uno nuovo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can be very useful because it also shows how the functions are formatted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T221134Z" creationid="Marco Marega" creationdate="20180707T221134Z">
