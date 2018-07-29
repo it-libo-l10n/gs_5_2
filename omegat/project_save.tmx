@@ -4800,6 +4800,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apart from the first character of the sheet name, permitted characters are letters, numbers, spaces, and the underscore character.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165823Z" creationid="Marco Marega" creationdate="20180729T165823Z">
+        <seg>Tranne che per il primo carattere, i caratteri consentiti nel nome di un foglio sono: lettere, numeri, spazi ed il trattino di sottolineatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apostrophe</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113052Z" creationid="manuel" creationdate="20180609T113052Z">
@@ -9059,6 +9067,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071032Z" creationid="manuel" creationdate="20180608T071032Z">
         <seg>Fate doppio clic su una preferenza elencata per inserire un valore per configurare la preferenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-click on a sheet tab to open the &lt;f0&gt;Rename Sheet&lt;/f0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165545Z" creationid="Marco Marega" creationdate="20180729T165545Z">
+        <seg>Fate doppio clic sulla linguetta di un foglio per fare apparire la finestra di dialogo &lt;f0&gt;Rinomina foglio&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21908,6 +21924,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181639Z" creationid="Elisabetta Manuele" creationdate="20180620T181639Z">
         <seg>Condivisione di contenuti tra fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sheet names must start with either a letter or a number; other characters, including spaces, are not allowed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165629Z" creationid="Marco Marega" creationdate="20180729T165629Z">
+        <seg>I nomi dei fogli devono iniziare con una lettera o un numero; non sono ammessi altri caratteri, nemmeno spazi.</seg>
       </tuv>
     </tu>
     <tu>
