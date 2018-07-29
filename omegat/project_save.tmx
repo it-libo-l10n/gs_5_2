@@ -8670,6 +8670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleting sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164051Z" creationid="Marco Marega" creationdate="20180729T164051Z">
+        <seg>Eliminare fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deleting styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084746Z" creationid="manuel" creationdate="20180614T084746Z">
@@ -10011,6 +10019,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163710Z" creationid="manuel" creationdate="20180628T163710Z">
         <seg>finestra di dialogo Comandi di campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;100&lt;/seq0&gt;: Move/Copy Sheet dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164001Z" creationid="Marco Marega" creationdate="20180729T164001Z">
+        <seg>Figura &lt;seq0&gt;100&lt;/seq0&gt;: finestra di dialogo Sposta/Copia foglio</seg>
       </tuv>
     </tu>
     <tu>
@@ -26655,6 +26671,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124441Z" creationid="Marco Marega" creationdate="20180718T124441Z">
         <seg>Per eliminare una singola colonna o una singola riga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To delete a single sheet, right-click on the sheet tab you want to delete and select &lt;f0&gt;Delete Sheet&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Sheet &lt;s2/&gt;&gt; Delete Sheet...&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164316Z" creationid="Marco Marega" creationdate="20180729T164316Z">
+        <seg>Per eliminare un singolo foglio, fare clic con il pulsante destro del mouse sulla linguetta del foglio che volete eliminare e nel menu contestuale selezionate &lt;f0&gt;Elimina foglio&lt;/f0&gt;, oppure andate in &lt;f1&gt;Foglio &lt;s2/&gt;&gt; Elimina foglio...&lt;/f1&gt; nella barra del menu.</seg>
       </tuv>
     </tu>
     <tu>
