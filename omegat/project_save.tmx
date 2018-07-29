@@ -24345,6 +24345,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The mouse pointer may change to include a plus sign depending on the setup of your operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T161911Z" creationid="Marco Marega" creationdate="20180729T161911Z">
+        <seg>A seconda delle impostazioni del vostro sistema operativo, il puntatore del mouse potrebbe cambiare aspetto e comprendere un segno più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The name of the folder will show in the Places pane.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124223Z" creationid="Marco Marega" creationdate="20180623T124223Z">
@@ -28350,6 +28358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Move/Copy Sheet&lt;/f0&gt; dialog (Figure &lt;t1&gt;100&lt;/t1&gt;) to specify exactly whether you want the sheet in the same or a different spreadsheet, its position within the spreadsheet, and the sheet name when you move or copy the sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T162428Z" creationid="Marco Marega" creationdate="20180729T162428Z">
+        <seg>Quando spostate o copiate un foglio, usate la finestra di dialogo &lt;f0&gt;Sposta/Copia foglio&lt;/f0&gt; (Figura &lt;t1&gt;100&lt;/t1&gt;) per specificare esattamente se volete un foglio nello stesso foglio elettronico o in un altro, la sua posizione all'interno di questo ed il suo nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the &lt;f0&gt;Options&lt;/f0&gt; toolbar to activate or deactivate various drawing aids.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T110014Z" creationid="manuel" creationdate="20180629T110014Z">
@@ -28690,6 +28706,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112020Z" creationid="manuel" creationdate="20180611T112020Z">
         <seg>Uso di Stili e Modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using a dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T161930Z" creationid="Marco Marega" creationdate="20180729T161930Z">
+        <seg>Usando una finestra di dialogo</seg>
       </tuv>
     </tu>
     <tu>
