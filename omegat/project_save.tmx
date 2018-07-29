@@ -5145,6 +5145,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Attempting to rename a sheet with an invalid name will produce an error message.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165850Z" creationid="Marco Marega" creationdate="20180729T165850Z">
+        <seg>Se tentate di rinominare un foglio con un nome non valido apparirà un messaggio di errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Authors and reviewers often use &lt;i0/&gt;comments to exchange ideas, ask for suggestions, or mark items needing attention.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T070810Z" creationid="manuel" creationdate="20180628T070810Z">
@@ -5770,6 +5778,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165855Z" creationid="Marco Marega" creationdate="20180729T165855Z">
+        <seg>Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc (spreadsheet)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T200328Z" creationid="Marco Marega" creationdate="20180527T200328Z">
@@ -6046,6 +6062,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155939Z" creationid="manuel" creationdate="20180612T155939Z">
         <seg>Modifica di uno stile tramite la finestra di dialogo Stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing document view</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165934Z" creationid="Marco Marega" creationdate="20180729T165934Z">
+        <seg>Cambiare la visualizzazione del documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -28430,6 +28454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;i0/&gt;the zoom function to show more or fewer cells in the window when you are working on a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T170125Z" creationid="Marco Marega" creationdate="20180729T170125Z">
+        <seg>Quando lavorate su di un foglio di lavoro, usate la funzione &lt;i0/&gt;zoom per visualizzare un numero maggiore o minore di celle all'interno finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use AutoText to store text, tables, &lt;f0&gt;fields,&lt;/f0&gt; and other items for reuse and assign them to a key combination for easy retrieval.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151555Z" creationid="manuel" creationdate="20180626T143652Z">
@@ -33895,6 +33927,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>viewing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165854Z" creationid="Marco Marega" creationdate="20180729T165854Z">
+        <seg>visualizzare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>wildcards</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141342Z" creationid="manuel" creationdate="20180621T165553Z">
@@ -33923,6 +33963,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070047Z" creationid="manuel" creationdate="20180529T070047Z">
         <seg>anno (due cifre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>zoom</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165942Z" creationid="Marco Marega" creationdate="20180729T165942Z">
+        <seg>zoom</seg>
       </tuv>
     </tu>
     <tu>
