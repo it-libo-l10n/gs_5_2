@@ -11703,6 +11703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a horizontal split, drag the new horizontal window border beneath the row where you want the horizontal split positioned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T205402Z" creationid="Marco Marega" creationdate="20180731T205402Z">
+        <seg>Nel caso di una divisione orizzontale, trascinate tra le righe il nuovo bordo orizzontale fino al punto in cui volete posizionare la suddivisione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a key combination, press more than one key at the same time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200340Z" creationid="Marco Marega" creationdate="20180713T200340Z">
@@ -11763,6 +11771,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190828Z" creationid="Marco Marega" creationdate="20180528T190828Z">
         <seg>Per un elenco più dettagliato dei requisiti, vi rimandiamo al sito web di LibreOffice, &lt;a0&gt;https://it.libreoffice.org/supporto/requisiti-sistema/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a vertical split, drag the new vertical window border across to the right of the column where you want the vertical split positioned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T205431Z" creationid="Marco Marega" creationdate="20180731T205431Z">
+        <seg>Nel caso di una divisione verticale, trascinate tra le righe il nuovo bordo orizzontale fino al punto in cui volete posizionare la suddivisione.</seg>
       </tuv>
     </tu>
     <tu>
