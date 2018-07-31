@@ -3672,6 +3672,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A heavier line appears between the rows or columns indicating where the freeze has been placed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T202804Z" creationid="Marco Marega" creationdate="20180731T202804Z">
+        <seg>Tra le righe o le colonne apparirà una linea più spessa che indica il limite definito per le celle fisse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A hidden layer still shows in the Layers bar, but its name is in blue.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T145519Z" creationid="manuel" creationdate="20180704T145519Z">
@@ -7222,6 +7230,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090033Z" creationid="luke" creationdate="20180515T090033Z">
         <seg>Click on the &lt;f0&gt;Apply to All Slides&lt;/f0&gt; button to apply the same display time to all slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Freeze Rows and Columns&lt;/f0&gt; icon in the main toolbar or go to &lt;f1&gt;View&lt;/f1&gt; on the Menu bar and select &lt;f2&gt;&lt;f3&gt;Freeze Cells &gt; Freeze Rows and Columns&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T202546Z" creationid="Marco Marega" creationdate="20180731T202546Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Fissa riga e colonne&lt;/f0&gt; nella barra degli strumenti principare oppure nella barra del menu selezionate &lt;f1&gt;Visualizza&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;&gt; Fissa celle &gt; Fissa righe e colonne&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
