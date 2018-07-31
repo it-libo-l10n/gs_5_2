@@ -9247,6 +9247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag the split window borders back to their places at the ends of the scroll bars.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210317Z" creationid="Marco Marega" creationdate="20180731T210317Z">
+        <seg>Trascinate i bordi di divisione delle finestre e trascinateli al loro posto in fondo alle barre di scorrimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dragging and dropping</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T123737Z" creationid="Marco Marega" creationdate="20180719T123737Z">
@@ -10195,6 +10203,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T204324Z" creationid="Marco Marega" creationdate="20180731T204324Z">
         <seg>Figura &lt;seq0&gt;102&lt;/seq0&gt;: esempio di divisione dello schermo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;103&lt;/seq0&gt;: Split screen window borders</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210147Z" creationid="Marco Marega" creationdate="20180731T210147Z">
+        <seg>Figura &lt;seq0&gt;103&lt;/seq0&gt;: bordi di finestra nella divisione dello schermo</seg>
       </tuv>
     </tu>
     <tu>
@@ -13179,6 +13195,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T070941Z" creationid="manuel" creationdate="20180707T070941Z">
         <seg>Andate su &lt;f0&gt;Visualizza &gt; Barre degli strumenti &gt; Modo&lt;/f0&gt; e selezionate l'icona Ruota &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;Split Window.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210401Z" creationid="Marco Marega" creationdate="20180731T210401Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Visualizza&lt;/f0&gt; e deselezionate &lt;f1&gt;Dividi finestra&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20300,6 +20324,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185743Z" creationid="Elisabetta Manuele" creationdate="20180620T185743Z">
         <seg>Eliminare i dati personali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removing split views</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210201Z" creationid="Marco Marega" creationdate="20180731T210201Z">
+        <seg>Eliminare la vista divisa</seg>
       </tuv>
     </tu>
     <tu>
@@ -27793,6 +27825,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124301Z" creationid="Marco Marega" creationdate="20180623T124301Z">
         <seg>Per eliminare una cartella dal riquadro Risorse, fate clic sul suo nome e poi sul pulsante &lt;f1&gt;-&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove a split view, do one of the following:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210214Z" creationid="Marco Marega" creationdate="20180731T210214Z">
+        <seg>Per rimuovere la divisione dello schermo, usate uno dei metodi seguenti:</seg>
       </tuv>
     </tu>
     <tu>
