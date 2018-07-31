@@ -17896,6 +17896,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Method 1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T211323Z" creationid="Marco Marega" creationdate="20180731T211323Z">
+        <seg>Metodo 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Method 1 is also useful for numbering the first page of a document with a page number greater than 1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103122Z" creationid="manuel" creationdate="20180627T103122Z">
@@ -17908,6 +17916,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102712Z" creationid="manuel" creationdate="20180627T102712Z">
         <seg>Metodo 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Method 2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T211338Z" creationid="Marco Marega" creationdate="20180731T211338Z">
+        <seg>Metodo 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -30579,6 +30595,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150719Z" creationid="manuel" creationdate="20180705T150719Z">
         <seg>Con un gradiente di  trasparenza, la direzione e il grado del colore di riempimento di un oggetto cambia da opaco a trasparente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the cell selected, right-click on the cell, select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar or use the keyboard shortcut &lt;f2&gt;Ctrl+1&lt;/f2&gt; to open the &lt;f3&gt;Format Cells&lt;/f3&gt; dialog (Figure &lt;t4&gt;104&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T211615Z" creationid="Marco Marega" creationdate="20180731T211615Z">
+        <seg>Quando la cella è selezionata, fateci clic sopra con il pulsante destro del mouse e nel menu contestuale selezionate &lt;f0&gt;Formato Celle&lt;/f0&gt; o, nella barra del menu andate in &lt;f1&gt;Formato &gt; Celle&lt;/f1&gt;, oppure usate la combinazione di tasti &lt;f2&gt;Ctrl+1&lt;/f2&gt; in modo da aprire la finestra di dialogo &lt;f3&gt;Formato Celle&lt;/f3&gt; (Figura &lt;t4&gt;104&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
