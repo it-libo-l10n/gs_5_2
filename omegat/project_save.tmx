@@ -11847,6 +11847,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, consider a large spreadsheet in which one cell contains a number that is used by three formulas in other cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T204204Z" creationid="Marco Marega" creationdate="20180731T204204Z">
+        <seg>Immaginate ad esempio di avere un foglio elettronico molto grande, nel quale una cella contiene un numero utilizzato da tre formule in altrettante celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if Calc is open and active, a new spreadsheet is created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123633Z" creationid="Marco Marega" creationdate="20180621T123633Z">
@@ -29382,6 +29390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the split-screen technique, you can position the cell containing the number in one section and each of the cells with formulas in the other sections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T204221Z" creationid="Marco Marega" creationdate="20180731T204221Z">
+        <seg>Usando la divisione dello schermo, potete posizionare la cella contenente il numero in una sezione e ognuna delle celle con le formule nelle altre sezioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using themes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181823Z" creationid="Elisabetta Manuele" creationdate="20180620T181823Z">
@@ -30315,6 +30331,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181504Z" creationid="Elisabetta Manuele" creationdate="20180627T181504Z">
         <seg>Perché è necessario disporre di Java per eseguire LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why would you want to do this?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T204044Z" creationid="Marco Marega" creationdate="20180731T204044Z">
+        <seg>A cosa vi può servire?</seg>
       </tuv>
     </tu>
     <tu>
