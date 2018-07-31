@@ -24217,6 +24217,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The heavier lines indicating freezing will disappear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T203357Z" creationid="Marco Marega" creationdate="20180731T203357Z">
+        <seg>La linea più spessa, che indica il limite delle celle fisse, scomparirà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The horizontal ruler shows &lt;i0/&gt;the tab stops.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T065020Z" creationid="manuel" creationdate="20180627T065020Z">
@@ -28089,6 +28097,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222742Z" creationid="Marco Marega" creationdate="20180620T222742Z">
         <seg>Per sganciare la Barra laterale e renderla mobile e per agganciare una Barra laterale mobile, usate l'elenco a comparsa in cima alla barra a schede (vedete la Figura &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To unfreeze rows or columns, either go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;&lt;f2&gt;&lt;f3&gt;Freeze Cells &gt; Freeze Rows and Columns&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt; or click on the &lt;f4&gt;Freeze Rows and Columns&lt;/f4&gt; icon in the main toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T203235Z" creationid="Marco Marega" creationdate="20180731T203235Z">
+        <seg>Per sbloccare le righe o le colonne, potete andare indifferentemente  nella barra del menu e e selezionare &lt;f0&gt;Visualizza&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;&lt;f3&gt;&gt; Fissa celle &gt; Fissa righe e colonne&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt; oppure fare clic sull'icona &lt;f4&gt;Fissa righe e colonne&lt;/f4&gt; nella barra degli strumenti principale.</seg>
       </tuv>
     </tu>
     <tu>
