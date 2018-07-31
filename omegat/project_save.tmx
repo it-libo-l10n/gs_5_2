@@ -4632,6 +4632,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example of splitting the screen is shown in Figure &lt;t0&gt;102&lt;/t0&gt; where a split is indicated by additional window borders within the sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T204037Z" creationid="Marco Marega" creationdate="20180731T204037Z">
+        <seg>Un esempio di suddivisione dello schermo è illustrato nella Figura &lt;t0&gt;102&lt;/t0&gt; dove la divisione è evidenziata da un bordo di finestra aggiuntivo all'interno del foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example of the Writer status bar is shown in Figure &lt;t0&gt;7&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191030Z" creationid="Marco Marega" creationdate="20180620T191030Z">
@@ -24933,6 +24941,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T103600Z" creationid="manuel" creationdate="20180721T103600Z">
         <seg>Lo stesso formato può anche memorizzare una connessione a un server di database esterno anziché i dati locali, ad esempio per accedere a un server di database MySQL o PostgresSQL nella rete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The screen can be split horizontally, vertically, or both, giving you up to four portions of the spreadsheet in view at any one time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T203852Z" creationid="Marco Marega" creationdate="20180731T203852Z">
+        <seg>Potete suddividere lo schermo orizzontalmente, verticalmente, o in entrambi i sensi, in modo da ottenere un massimo di quattro aree del foglio di lavoro visualizzate contemporaneamente.</seg>
       </tuv>
     </tu>
     <tu>
