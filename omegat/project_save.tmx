@@ -5714,6 +5714,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, numbers are right aligned in a cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210628Z" creationid="Marco Marega" creationdate="20180731T210628Z">
+        <seg>Per impostazione predefinita, i numeri all'interno di una cella sono allineati a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, tables of contents use Heading styles, but you can use whatever combination of styles you prefer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170715Z" creationid="manuel" creationdate="20180615T170715Z">
@@ -7142,6 +7150,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055558Z" creationid="manuel" creationdate="20180618T055558Z">
         <seg>Fate clic sul campo del Numero di Pagina, digitate il numero &lt;f0&gt;sequenziale&lt;/f0&gt; della pagina desiderata, e premete &lt;f1&gt;Invio&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the cell and type in a number using the number keys on either the main keyboard or numeric keypad.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210542Z" creationid="Marco Marega" creationdate="20180731T210542Z">
+        <seg>Fate clic sulla cella e digitate un numero usando i tasti numerici della fila superiore della tastiera o del tastierino numerico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17944,6 +17960,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minus numbers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210641Z" creationid="Marco Marega" creationdate="20180731T210641Z">
+        <seg>Numeri negativi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minus sign</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113536Z" creationid="manuel" creationdate="20180609T113536Z">
@@ -27304,6 +27328,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T140807Z" creationid="manuel" creationdate="20180609T140807Z">
         <seg>Per ablitarlo, selezionate MediaWiki in opzioni Internet, fate clic sul pulsante &lt;f0&gt;Aggiungi&lt;/f0&gt; per aprire la finestra di dialogo mostrata in Figura &lt;t1&gt;45&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To enter a negative number, either type a minus (–) sign in front of the number or enclose the number in parentheses (), for example (1234).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210805Z" creationid="Marco Marega" creationdate="20180731T210805Z">
+        <seg>Per inserire un numero negativo, potete sia digitare un segno meno (–) prima del numero, sia racchiuderlo tra parentesi (), ad esempio (1234).</seg>
       </tuv>
     </tu>
     <tu>
