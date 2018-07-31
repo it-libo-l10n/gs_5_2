@@ -17690,8 +17690,8 @@
       <tuv lang="EN">
         <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; tab is selected then select &lt;f1&gt;Number&lt;/f1&gt; in the &lt;f2&gt;Category&lt;/f2&gt; list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T211717Z" creationid="Marco Marega" creationdate="20180731T211717Z">
-        <seg>Assicuratevi che sia attiva la scheda &lt;f0&gt;Numero&lt;/f0&gt;, quindi selezionate &lt;f1&gt;Numero&lt;/f1&gt; nell'elenco delle &lt;f2&gt;Categorie&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T212306Z" creationid="Marco Marega" creationdate="20180731T211717Z">
+        <seg>Assicuratevi che sia attiva la scheda &lt;f0&gt;Numeri&lt;/f0&gt;, quindi selezionate &lt;f1&gt;Numero&lt;/f1&gt; nell'elenco delle &lt;f2&gt;Categorie&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21756,6 +21756,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144632Z" creationid="Marco Marega" creationdate="20180714T144632Z">
         <seg>Selezionate la cella che si troverà ad uno degli angoli dell'intervallo di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T212408Z" creationid="Marco Marega" creationdate="20180731T212408Z">
+        <seg>Selezionate la cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30649,8 +30657,8 @@
       <tuv lang="EN">
         <seg>With the cell selected, right-click on the cell, select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar or use the keyboard shortcut &lt;f2&gt;Ctrl+1&lt;/f2&gt; to open the &lt;f3&gt;Format Cells&lt;/f3&gt; dialog (Figure &lt;t4&gt;104&lt;/t4&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T211615Z" creationid="Marco Marega" creationdate="20180731T211615Z">
-        <seg>Quando la cella è selezionata, fateci clic sopra con il pulsante destro del mouse e nel menu contestuale selezionate &lt;f0&gt;Formato Celle&lt;/f0&gt; o, nella barra del menu andate in &lt;f1&gt;Formato &gt; Celle&lt;/f1&gt;, oppure usate la combinazione di tasti &lt;f2&gt;Ctrl+1&lt;/f2&gt; in modo da aprire la finestra di dialogo &lt;f3&gt;Formato Celle&lt;/f3&gt; (Figura &lt;t4&gt;104&lt;/t4&gt;).</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T212314Z" creationid="Marco Marega" creationdate="20180731T211615Z">
+        <seg>Quando la cella è selezionata, fateci clic sopra con il pulsante destro del mouse e nel menu contestuale selezionate &lt;f0&gt;Formatta Celle&lt;/f0&gt; o, nella barra del menu andate in &lt;f1&gt;Formato &gt; Celle&lt;/f1&gt;, oppure usate la combinazione di tasti &lt;f2&gt;Ctrl+1&lt;/f2&gt; in modo da aprire la finestra di dialogo &lt;f3&gt;Formato Celle&lt;/f3&gt; (Figura &lt;t4&gt;104&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
