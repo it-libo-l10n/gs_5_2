@@ -11705,8 +11705,8 @@
       <tuv lang="EN">
         <seg>For a horizontal split, drag the new horizontal window border beneath the row where you want the horizontal split positioned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T205402Z" creationid="Marco Marega" creationdate="20180731T205402Z">
-        <seg>Nel caso di una divisione orizzontale, trascinate tra le righe il nuovo bordo orizzontale fino al punto in cui volete posizionare la suddivisione.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T205457Z" creationid="Marco Marega" creationdate="20180731T205402Z">
+        <seg>Nel caso di una divisione orizzontale, trascinate tra le righe il nuovo bordo orizzontale fino al di sotto della riga nel punto in cui volete posizionare la suddivisione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11777,8 +11777,8 @@
       <tuv lang="EN">
         <seg>For a vertical split, drag the new vertical window border across to the right of the column where you want the vertical split positioned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T205431Z" creationid="Marco Marega" creationdate="20180731T205431Z">
-        <seg>Nel caso di una divisione verticale, trascinate tra le righe il nuovo bordo orizzontale fino al punto in cui volete posizionare la suddivisione.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T205543Z" creationid="Marco Marega" creationdate="20180731T205431Z">
+        <seg>Nel caso di una divisione verticale, trascinate tra le colonne il nuovo bordo verticale fino alla destra della colonna nel punto in cui volete posizionare la suddivisione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17984,6 +17984,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most data entry in Calc can be accomplished using the keyboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T205738Z" creationid="Marco Marega" creationdate="20180731T205639Z">
+        <seg>In Calc, potete effettuare la maggior parte dell'inserimento di dati usando la tastiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most default settings, such as page size and page margins, can be changed in &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;, but those changes apply only to the document you are working on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T075210Z" creationid="manuel" creationdate="20180616T075210Z">
@@ -22636,6 +22644,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174941Z" creationid="Elisabetta Manuele" creationdate="20180627T174941Z">
         <seg>Casella numerica (fate clic sulle frecce su e giù per modificare il numero visualizzato nella casella di testo adiacente, oppure digitate nella casella di testo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Splitting horizontally and vertically</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T205620Z" creationid="Marco Marega" creationdate="20180731T205620Z">
+        <seg>Dividere lo schermo orizzontalmente e verticalmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -29424,7 +29440,7 @@
       <tuv lang="EN">
         <seg>Using the keyboard</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181624Z" creationid="Elisabetta Manuele" creationdate="20180620T181624Z">
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T205644Z" creationid="Elisabetta Manuele" creationdate="20180620T181624Z">
         <seg>Usare la tastiera</seg>
       </tuv>
     </tu>
