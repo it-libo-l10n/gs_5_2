@@ -7347,6 +7347,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the row header below the rows where you want to split the screen horizontally or click on the column header to the right of the columns where you want to split the screen vertically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T204517Z" creationid="Marco Marega" creationdate="20180731T204517Z">
+        <seg>Fate clic sull'intestazione della riga sotto, o della colonna a destra, rispetto a quelle che volete fissare, orizzontalmente nel primo caso o verticalmente nel secondo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the ruler in the preview window to set the width.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215810Z" creationid="Marco Marega" creationdate="20180712T215810Z">
@@ -10155,6 +10163,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T170804Z" creationid="Marco Marega" creationdate="20180729T170804Z">
         <seg>Figura &lt;seq0&gt;101&lt;/seq0&gt;: righe e colonne fissate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;102&lt;/seq0&gt;: Split screen example</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T204324Z" creationid="Marco Marega" creationdate="20180731T204324Z">
+        <seg>Figura &lt;seq0&gt;102&lt;/seq0&gt;: esempio di divisione dello schermo</seg>
       </tuv>
     </tu>
     <tu>
@@ -13123,6 +13139,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T070941Z" creationid="manuel" creationdate="20180707T070941Z">
         <seg>Andate su &lt;f0&gt;Visualizza &gt; Barre degli strumenti &gt; Modo&lt;/f0&gt; e selezionate l'icona Ruota &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Split Window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T204556Z" creationid="Marco Marega" creationdate="20180731T204556Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Visualizza&lt;/f0&gt; e selezionate &lt;f1&gt;Dividi finestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22592,6 +22616,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Splitting horizontally or vertically</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T204343Z" creationid="Marco Marega" creationdate="20180731T204343Z">
+        <seg>Dividere lo schermo orizzontalmente o verticalmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Splitting the screen</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T203416Z" creationid="Marco Marega" creationdate="20180731T203416Z">
@@ -31875,6 +31907,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123059Z" creationid="Marco Marega" creationdate="20180621T123059Z">
         <seg>In LibreOffice potete aprire un nuovo documento in vari modi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then change the number in one cell and watch how it affects each of the formulas.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T204304Z" creationid="Marco Marega" creationdate="20180731T204304Z">
+        <seg>Potete quindi modificare il numero nella cella e vedere come influisce su ciascuna formula.</seg>
       </tuv>
     </tu>
     <tu>
