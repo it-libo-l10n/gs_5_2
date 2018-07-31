@@ -10239,6 +10239,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;104&lt;/seq0&gt;: Format Cells dialog – Numbers page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T212241Z" creationid="Marco Marega" creationdate="20180731T212241Z">
+        <seg>Figura &lt;seq0&gt;104&lt;/seq0&gt;: Finestra di dialogo Formato celle – scheda Numeri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Example of LibreOffice Save As dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194542Z" creationid="Marco Marega" creationdate="20180621T194542Z">
@@ -24909,6 +24917,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T065647Z" creationid="manuel" creationdate="20180629T065647Z">
         <seg>Il numero e la posizione degli strumenti visibili varia in relazione al lavoro che si sta eseguendo ed alle preferenze dell'utente, quindi la vostra impostazione di schermata potrebbe apparire diversa dalla Figura &lt;t0&gt;163&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The number entered retains its number format and any formula used in the spreadsheet will treat the entry as a number in formula functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T212150Z" creationid="Marco Marega" creationdate="20180731T212150Z">
+        <seg>Il numero inserito manterrà il suo formato numerico e qualsiasi formula usata nel foglio di lavoro, lo tratterà, nelle funzioni numeriche, come un numero.</seg>
       </tuv>
     </tu>
     <tu>
