@@ -7299,6 +7299,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the row header below the rows where you want the freeze, or click on the column header to the right of the columns where you want the freeze.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T202359Z" creationid="Marco Marega" creationdate="20180731T202359Z">
+        <seg>Fate clic sull'intestazione della riga sotto, o della colonna a destra di quelle che volete fissare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the ruler in the preview window to set the width.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215810Z" creationid="Marco Marega" creationdate="20180712T215810Z">
