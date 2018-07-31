@@ -17039,6 +17039,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Leading zeroes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210855Z" creationid="Marco Marega" creationdate="20180731T210855Z">
+        <seg>Zeri iniziali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left-click in the cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142353Z" creationid="Marco Marega" creationdate="20180714T142353Z">
@@ -25033,6 +25041,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The result for both methods of entry will be the same, for example -1234.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210848Z" creationid="Marco Marega" creationdate="20180731T210848Z">
+        <seg>Il risultato di entrambi i metodi di inserimento sarà lo stesso, nell'esempio -1234.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The result is a multiple selection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065716Z" creationid="manuel" creationdate="20180618T065716Z">
@@ -27953,6 +27969,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T195438Z" creationid="Marco Marega" creationdate="20180621T195438Z">
         <seg>Per decidere chi può aprire e leggere un documento, oppure aprire e modificare il documento, potete usare la protezione con password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To retain a minimum number of integer characters in a cell when entering numbers in order to retain the number format, for example 1234 and 0012, leading zeros have to be added using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T211236Z" creationid="Marco Marega" creationdate="20180731T211236Z">
+        <seg>Per far si che quando si inseriscono dei numeri in una cella, questi abbiano un numero minimo di caratteri in modo da mantenere un determinato formato, ad esempio 1234 e 0012, gli zeri iniziali devono essere aggiunti in uno dei seguenti modi.</seg>
       </tuv>
     </tu>
     <tu>
