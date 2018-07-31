@@ -4696,6 +4696,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Another way to change the view is by splitting the screen your spreadsheet is displayed in (also known as splitting the window).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T203719Z" creationid="Marco Marega" creationdate="20180731T203719Z">
+        <seg>Un altro modo per modificare la visualizzazione del foglio è quello di dividere lo schermo (detto anche dividere la finestra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Another way to define or alter colors is through the Colors page of the Area dialog, where you can also save and load palettes, a feature that is not possible here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072723Z" creationid="manuel" creationdate="20180531T072723Z">
@@ -22564,6 +22572,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174941Z" creationid="Elisabetta Manuele" creationdate="20180627T174941Z">
         <seg>Casella numerica (fate clic sulle frecce su e giù per modificare il numero visualizzato nella casella di testo adiacente, oppure digitate nella casella di testo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Splitting the screen</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T203416Z" creationid="Marco Marega" creationdate="20180731T203416Z">
+        <seg>Dividere lo schermo</seg>
       </tuv>
     </tu>
     <tu>
