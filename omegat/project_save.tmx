@@ -3159,6 +3159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Window border&lt;/f2&gt;s appear between the rows or columns indicating where the split has been placed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210111Z" creationid="Marco Marega" creationdate="20180731T210111Z">
+        <seg>Tra le righe e le colonne appariranno dei &lt;f2&gt;bordi di finestra&lt;/f2&gt; ad indicare il punto in cui la divisione dello schermo è stata attivata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;Forms&lt;/f3&gt; are for data entry into the fields of one or more tables which have been associated with the form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152645Z" creationid="manuel" creationdate="20180715T152645Z">
@@ -7134,6 +7142,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055558Z" creationid="manuel" creationdate="20180618T055558Z">
         <seg>Fate clic sul campo del Numero di Pagina, digitate il numero &lt;f0&gt;sequenziale&lt;/f0&gt; della pagina desiderata, e premete &lt;f1&gt;Invio&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the cell that is immediately below the rows where you want to split the screen horizontally and immediately to the right of the columns where you want to split the screen vertically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T205951Z" creationid="Marco Marega" creationdate="20180731T205951Z">
+        <seg>Fate clic nella cella subito sotto alla riga, o subito a destra della colonna, rispetto a quelle nel punto in cui volete suddividere lo schermo, orizzontalmente nel primo caso o verticalmente nel secondo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13175,6 +13191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Split Window&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210012Z" creationid="Marco Marega" creationdate="20180731T210012Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Visualizza&lt;/f0&gt; e selezionate &lt;f1&gt;Dividi finestra&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f1&gt;View &gt; Grid &gt; Snap to Grid&lt;/f1&gt; on the Menu bar or click on the &lt;f2&gt;Snap to Grid&lt;/f2&gt; icon on the &lt;f3&gt;Options&lt;/f3&gt; toolbar to turn on or off the snap to grid function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140506Z" creationid="manuel" creationdate="20180707T140506Z">
@@ -18764,6 +18788,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101932Z" creationid="manuel" creationdate="20180627T101932Z">
         <seg>Numerazione delle pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Numbers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T205754Z" creationid="Marco Marega" creationdate="20180731T205754Z">
+        <seg>Numeri</seg>
       </tuv>
     </tu>
     <tu>
@@ -33507,6 +33539,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101928Z" creationid="manuel" creationdate="20180627T101928Z">
         <seg>numerazione delle pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>numbers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T205743Z" creationid="Marco Marega" creationdate="20180731T205743Z">
+        <seg>numeri</seg>
       </tuv>
     </tu>
     <tu>
