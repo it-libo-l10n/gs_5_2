@@ -7162,6 +7162,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click into the cell that is immediately below the rows you want frozen and immediately to the right of the columns you want frozen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T202909Z" creationid="Marco Marega" creationdate="20180731T202909Z">
+        <seg>Fate clic nella cella che si trova immediata mente sotto le righe ed a destra delle colonne che volete fissare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on &lt;f0&gt;OK&lt;/f0&gt; and the result is a new group of objects with the first object selected as the start object and the second object selected as the end object.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145952Z" creationid="manuel" creationdate="20180705T145952Z">
@@ -7236,8 +7244,8 @@
       <tuv lang="EN">
         <seg>Click on the &lt;f0&gt;Freeze Rows and Columns&lt;/f0&gt; icon in the main toolbar or go to &lt;f1&gt;View&lt;/f1&gt; on the Menu bar and select &lt;f2&gt;&lt;f3&gt;Freeze Cells &gt; Freeze Rows and Columns&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T202546Z" creationid="Marco Marega" creationdate="20180731T202546Z">
-        <seg>Fate clic sull'icona &lt;f0&gt;Fissa riga e colonne&lt;/f0&gt; nella barra degli strumenti principare oppure nella barra del menu selezionate &lt;f1&gt;Visualizza&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;&gt; Fissa celle &gt; Fissa righe e colonne&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T202944Z" creationid="Marco Marega" creationdate="20180731T202546Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Fissa riga e colonne&lt;/f0&gt; nella barra degli strumenti principale oppure nella barra del menu selezionate &lt;f1&gt;Visualizza&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;&gt; Fissa celle &gt; Fissa righe e colonne&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7317,8 +7325,8 @@
       <tuv lang="EN">
         <seg>Click on the row header below the rows where you want the freeze, or click on the column header to the right of the columns where you want the freeze.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T202359Z" creationid="Marco Marega" creationdate="20180731T202359Z">
-        <seg>Fate clic sull'intestazione della riga sotto, o della colonna a destra di quelle che volete fissare.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T202925Z" creationid="Marco Marega" creationdate="20180731T202359Z">
+        <seg>Fate clic sull'intestazione della riga sotto, o della colonna a destra, rispetto a quelle che volete fissare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12603,6 +12611,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T170345Z" creationid="Marco Marega" creationdate="20180729T170345Z">
         <seg>Potete fissare un certo numero di righe in cima al foglio o un certo numero di colonne all'estremo sinistro del foglio, o contemporaneamente sia righe che colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Freezing rows and columns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T202813Z" creationid="Marco Marega" creationdate="20180731T202813Z">
+        <seg>Fissare righe e colonne</seg>
       </tuv>
     </tu>
     <tu>
@@ -28409,6 +28425,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130243Z" creationid="luke" creationdate="20180515T082610Z">
         <seg>Annullare e ripristinare le modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfreezing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T203007Z" creationid="Marco Marega" creationdate="20180731T203007Z">
+        <seg>Sbloccare</seg>
       </tuv>
     </tu>
     <tu>
