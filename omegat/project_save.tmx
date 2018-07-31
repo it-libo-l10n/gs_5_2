@@ -4800,6 +4800,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any number less than four characters will have leading zeros added, for example 12 becomes 0012.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T211919Z" creationid="Marco Marega" creationdate="20180731T211919Z">
+        <seg>A qualsiasi numero più breve di quattro caratteri verranno aggiunti degli zeri iniziali, ad esempio 12 diventerà 0012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any other selection is deselected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065641Z" creationid="manuel" creationdate="20180618T065641Z">
@@ -11943,6 +11951,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, for four characters, enter 4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T211819Z" creationid="Marco Marega" creationdate="20180731T211819Z">
+        <seg>Ad esempio, per quattro caratteri, inserite 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if Calc is open and active, a new spreadsheet is created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123633Z" creationid="Marco Marega" creationdate="20180621T123633Z">
@@ -15495,6 +15511,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;f0&gt;Options &gt; Leading Zeros&lt;/f0&gt;, enter the minimum number of characters required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T211759Z" creationid="Marco Marega" creationdate="20180731T211759Z">
+        <seg>In &lt;f0&gt;Opzioni &gt; Zeri iniziali&lt;/f0&gt;, inserite il numero minimo di caratteri richiesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In &lt;f1&gt;Default file format&lt;/f1&gt; and &lt;f2&gt;ODF settings &gt; Document type&lt;/f2&gt;, select &lt;f3&gt;Spreadsheet,&lt;/f3&gt; then in &lt;f4&gt;Always save as&lt;/f4&gt;, select your preferred file format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124037Z" creationid="Marco Marega" creationdate="20180713T124037Z">
@@ -17652,6 +17676,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181945Z" creationid="Elisabetta Manuele" creationdate="20180620T181945Z">
         <seg>Finestra principale di Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; tab is selected then select &lt;f1&gt;Number&lt;/f1&gt; in the &lt;f2&gt;Category&lt;/f2&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T211717Z" creationid="Marco Marega" creationdate="20180731T211717Z">
+        <seg>Assicuratevi che sia attiva la scheda &lt;f0&gt;Numero&lt;/f0&gt;, quindi selezionate &lt;f1&gt;Numero&lt;/f1&gt; nell'elenco delle &lt;f2&gt;Categorie&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
