@@ -6898,6 +6898,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and the number, when entered, is converted to text and, by default, left aligned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180559Z" creationid="Marco Marega" creationdate="20180804T180559Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt;, quando verrà inserito un numero, questo sarà convertito in formato testo e, per impostazione predefinita, allineato a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to confirm the move or copy and close the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163607Z" creationid="Marco Marega" creationdate="20180729T163607Z">
@@ -17712,6 +17720,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; page is selected, then select &lt;f1&gt;Text&lt;/f1&gt; from the &lt;f2&gt;Category&lt;/f2&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180418Z" creationid="Marco Marega" creationdate="20180804T180418Z">
+        <seg>Assicuratevi che sia attiva la scheda &lt;f0&gt;Numeri&lt;/f0&gt;, quindi selezionate &lt;f1&gt;Testo&lt;/f1&gt; nell'elenco delle &lt;f2&gt;Categorie&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; tab is selected then select &lt;f1&gt;Number&lt;/f1&gt; in the &lt;f2&gt;Category&lt;/f2&gt; list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T212306Z" creationid="Marco Marega" creationdate="20180731T211717Z">
@@ -19476,6 +19492,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T175316Z" creationid="Marco Marega" creationdate="20180804T175316Z">
         <seg>Aprite la barra laterale (&lt;f0&gt;Visualizza &gt; Barra laterale&lt;/f0&gt;) e fate clic sull'icona &lt;f1&gt;Apri  pannello&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) della sezione &lt;f3&gt;Formato numero&lt;/f3&gt; per aprirlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) and click the &lt;f1&gt;Open Panel&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) icon on the &lt;f3&gt;Number Format&lt;/f3&gt; panel.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180643Z" creationid="Marco Marega" creationdate="20180804T180643Z">
+        <seg>Aprite la barra laterale (&lt;f0&gt;Visualizza &gt; Barra laterale&lt;/f0&gt;) e fate clic sull'icona &lt;f1&gt;Apri  pannello&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) della sezione &lt;f3&gt;Formato numero&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
