@@ -7042,6 +7042,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T182130Z" creationid="Marco Marega" creationdate="20180804T182130Z">
+        <seg>Fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f3&gt;Use [xxx] Format&lt;/f3&gt; to continue saving in your selected spreadsheet format or click &lt;f4&gt;Use ODF Format&lt;/f4&gt; to save the spreadsheet in Calc ODS format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T123233Z" creationid="Marco Marega" creationdate="20180713T123233Z">
@@ -17784,6 +17792,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; page is selected, then select &lt;f1&gt;Date&lt;/f1&gt; or &lt;f2&gt;Time&lt;/f2&gt; from the &lt;f3&gt;Category&lt;/f3&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T182007Z" creationid="Marco Marega" creationdate="20180804T182007Z">
+        <seg>Assicuratevi che sia attiva la scheda &lt;f0&gt;Numeri&lt;/f0&gt;, quindi selezionate &lt;f1&gt;Data&lt;/f1&gt; nell'elenco delle &lt;f2&gt;Categorie&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; page is selected, then select &lt;f1&gt;Text&lt;/f1&gt; from the &lt;f2&gt;Category&lt;/f2&gt; list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180418Z" creationid="Marco Marega" creationdate="20180804T180418Z">
@@ -21956,6 +21972,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T214212Z" creationid="Marco Marega" creationdate="20180718T214212Z">
         <seg>Selezionate le colonne o le righe, per maggiori informazioni vedete “&lt;bf0&gt;Colonne o righe multiple&lt;/bf0&gt;” a pagina &lt;bf1&gt;125&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the date or time format you want to use from the &lt;f0&gt;Format&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T182126Z" creationid="Marco Marega" creationdate="20180804T182126Z">
+        <seg>Nell'elenco &lt;f0&gt;Formato&lt;/f0&gt; selezionato il formato di dato od orario che preferite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30898,6 +30922,14 @@
         <seg>With the cell selected, right-click on the cell and select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar or use the keyboard shortcut &lt;f2&gt;Ctrl+1&lt;/f2&gt; to open the &lt;f3&gt;Format Cells&lt;/f3&gt; dialog (Figure &lt;t4&gt;104&lt;/t4&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180338Z" creationid="Marco Marega" creationdate="20180804T180338Z">
+        <seg>Quando la cella è selezionata, fateci clic sopra con il pulsante destro del mouse e nel menu contestuale selezionate &lt;f0&gt;Formatta Celle&lt;/f0&gt; o, nella barra del menu andate in &lt;f1&gt;Formato &gt; Celle&lt;/f1&gt;, oppure usate la combinazione di tasti &lt;f2&gt;Ctrl+1&lt;/f2&gt; in modo da aprire la finestra di dialogo &lt;f3&gt;Formato Celle&lt;/f3&gt; (Figura &lt;t4&gt;104&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the cell selected, right-click on the cell and select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar, or use the keyboard shortcut &lt;f2&gt;Ctrl+1&lt;/f2&gt;, to open the &lt;f3&gt;Format Cells&lt;/f3&gt; dialog (Figure &lt;t4&gt;104&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181935Z" creationid="Marco Marega" creationdate="20180804T181935Z">
         <seg>Quando la cella è selezionata, fateci clic sopra con il pulsante destro del mouse e nel menu contestuale selezionate &lt;f0&gt;Formatta Celle&lt;/f0&gt; o, nella barra del menu andate in &lt;f1&gt;Formato &gt; Celle&lt;/f1&gt;, oppure usate la combinazione di tasti &lt;f2&gt;Ctrl+1&lt;/f2&gt; in modo da aprire la finestra di dialogo &lt;f3&gt;Formato Celle&lt;/f3&gt; (Figura &lt;t4&gt;104&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
