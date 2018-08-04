@@ -5698,6 +5698,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, any numbers that have been formatted as text in a spreadsheet will be treated as a zero by any formulas used in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181056Z" creationid="Marco Marega" creationdate="20180804T181056Z">
+        <seg>Per impostazione predefinita, in un foglio elettronico, qualunque numero formattato come testo verrà considerato come uno zero da tutte le formule usate nel foglio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, four dictionaries are installed: a spelling checker, a grammar checker, a hyphenation dictionary, and a thesaurus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063324Z" creationid="manuel" creationdate="20180626T063324Z">
@@ -7142,6 +7150,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T071945Z" creationid="manuel" creationdate="20180707T071945Z">
         <seg>Fate clic e tenete premuto il pulsante del mouse, quindi iniziate a spostare il cursore per ruotare l'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click back on the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180746Z" creationid="Marco Marega" creationdate="20180804T180746Z">
+        <seg>Fate di nuovo clic sulla cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9911,6 +9927,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the number and move focus from the cell to have the data formatted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180906Z" creationid="Marco Marega" creationdate="20180804T180906Z">
+        <seg>Inserite il numero, quindi, per ottenere la formattazione del dato, spostate altrove il focus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the required amount of time in seconds that each slide will be displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
@@ -12651,6 +12675,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T175627Z" creationid="Marco Marega" creationdate="20180804T175627Z">
         <seg>La formattazione viene applicata immediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatting is applied to the cell immediately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180729Z" creationid="Marco Marega" creationdate="20180804T180729Z">
+        <seg>La formattazione viene applicata alla cella immediatamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21556,6 +21588,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122826Z" creationid="Marco Marega" creationdate="20180622T122826Z">
         <seg>Selezionate &lt;f0&gt;Salva impostazioni di ripristino automatico ogni&lt;/f0&gt; e impostate l'intervallo di tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Text&lt;/f0&gt; in the &lt;f1&gt;Category&lt;/f1&gt; list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180659Z" creationid="Marco Marega" creationdate="20180804T180659Z">
+        <seg>Selezionate &lt;f0&gt;Testo&lt;/f0&gt; nella casella di riepilogo &lt;f1&gt;Categoria&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
