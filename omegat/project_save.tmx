@@ -5305,6 +5305,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Autocorrection options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T182709Z" creationid="Marco Marega" creationdate="20180804T182709Z">
+        <seg>Opzioni di correzione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autoformatting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160418Z" creationid="manuel" creationdate="20180626T160418Z">
@@ -10331,6 +10339,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T175645Z" creationid="Marco Marega" creationdate="20180804T175645Z">
         <seg>Figura &lt;seq0&gt;105&lt;/seq0&gt;: Impostazione degli Zeri iniziali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;106&lt;/seq0&gt;: Select Date and More Options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T182623Z" creationid="Marco Marega" creationdate="20180804T182623Z">
+        <seg>Figura &lt;seq0&gt;106&lt;/seq0&gt;: Selezionare il formato e altre opzioni per le Date</seg>
       </tuv>
     </tu>
     <tu>
