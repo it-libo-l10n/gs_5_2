@@ -18944,6 +18944,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Numbers as text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180202Z" creationid="Marco Marega" creationdate="20180804T180139Z">
+        <seg>Numeri in formato testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Numbers can also be entered as text using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180237Z" creationid="Marco Marega" creationdate="20180804T180158Z">
+        <seg>Usando i metodi che seguono i numeri possono essere inseriti in formato testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Numerical and label field controls for Forms are also available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T184204Z" creationid="Marco Marega" creationdate="20180708T184204Z">
@@ -30731,6 +30747,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150719Z" creationid="manuel" creationdate="20180705T150719Z">
         <seg>Con un gradiente di  trasparenza, la direzione e il grado del colore di riempimento di un oggetto cambia da opaco a trasparente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the cell selected, right-click on the cell and select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar or use the keyboard shortcut &lt;f2&gt;Ctrl+1&lt;/f2&gt; to open the &lt;f3&gt;Format Cells&lt;/f3&gt; dialog (Figure &lt;t4&gt;104&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180338Z" creationid="Marco Marega" creationdate="20180804T180338Z">
+        <seg>Quando la cella è selezionata, fateci clic sopra con il pulsante destro del mouse e nel menu contestuale selezionate &lt;f0&gt;Formatta Celle&lt;/f0&gt; o, nella barra del menu andate in &lt;f1&gt;Formato &gt; Celle&lt;/f1&gt;, oppure usate la combinazione di tasti &lt;f2&gt;Ctrl+1&lt;/f2&gt; in modo da aprire la finestra di dialogo &lt;f3&gt;Formato Celle&lt;/f3&gt; (Figura &lt;t4&gt;104&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
