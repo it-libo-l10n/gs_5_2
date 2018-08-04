@@ -12735,6 +12735,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formula functions will ignore text entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181232Z" creationid="Marco Marega" creationdate="20180804T181232Z">
+        <seg>Le formule non terranno in considerazione i contenuti testuali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formula layout</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185404Z" creationid="Elisabetta Manuele" creationdate="20180620T185404Z">
@@ -23340,6 +23348,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112718Z" creationid="manuel" creationdate="20180705T112718Z">
         <seg>Raggruppamento temporaneo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181236Z" creationid="Marco Marega" creationdate="20180804T181236Z">
+        <seg>Testo</seg>
       </tuv>
     </tu>
     <tu>
