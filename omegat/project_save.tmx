@@ -24315,8 +24315,8 @@
       <tuv lang="EN">
         <seg>The date format automatically changes to the selected format used by Calc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181624Z" creationid="Marco Marega" creationdate="20180804T181624Z">
-        <seg>Il formato della data si adegua automaticamente al formato data impostato in Calc.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181745Z" creationid="Marco Marega" creationdate="20180804T181624Z">
+        <seg>Il formato della data si adegua automaticamente al formato impostato in Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25637,6 +25637,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T113921Z" creationid="manuel" creationdate="20180721T113921Z">
         <seg>Le tre attività che potete eseguire su una tabella sono elencate nel riquadro &lt;f3&gt;Attività&lt;/f3&gt; (vedere la Figura &lt;t4&gt;208&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The time format automatically changes to the selected format used by Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181738Z" creationid="Marco Marega" creationdate="20180804T181738Z">
+        <seg>Il formato dell'orario si adegua automaticamente al formato impostato in Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27111,6 +27119,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T141225Z" creationid="manuel" creationdate="20180707T141202Z">
         <seg>Per cambiare il colore dei punti della griglia, andate su &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Aspetto&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the date or time format used by Calc, use one of the following methods.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181843Z" creationid="Marco Marega" creationdate="20180804T181843Z">
+        <seg>Per modificare il formato data od orario usato da Calc, usate uno dei seguenti metodi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30347,6 +30363,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171647Z" creationid="manuel" creationdate="20180706T171647Z">
         <seg>Quando trascinate il cursore del mouse per selezionare più oggetti, il rettangolo di selezione che viene tracciato è anche detto tenda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When entering a time, separate time elements with colons, for example 10:43:45.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181711Z" creationid="Marco Marega" creationdate="20180804T181711Z">
+        <seg>Quando inserite un orario, separate i suoi elementi con il segno dei due punti, ad esempio 10:43:45.</seg>
       </tuv>
     </tu>
     <tu>
