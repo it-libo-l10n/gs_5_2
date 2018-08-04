@@ -21456,6 +21456,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Number&lt;/f0&gt; in the &lt;f1&gt;Category&lt;/f1&gt; list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T175351Z" creationid="Marco Marega" creationdate="20180804T175351Z">
+        <seg>Selezionate &lt;f0&gt;Numero&lt;/f0&gt; nella casella di riepilogo &lt;f1&gt;Categoria&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Overwrite&lt;/f0&gt; if you want to replace styles in the original document that have the same name as styles in the document from which you are importing styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071650Z" creationid="manuel" creationdate="20180614T071650Z">
@@ -22188,6 +22196,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T100649Z" creationid="manuel" creationdate="20180627T100649Z">
         <seg>Imposta o disattiva le intestazioni e i piè di pagina di tutti gli stili di pagina in uso nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set the &lt;f0&gt;Leading zeroes&lt;/f0&gt; value box to &lt;f1&gt;4&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T175420Z" creationid="Marco Marega" creationdate="20180804T175420Z">
+        <seg>Impostate il valore &lt;f0&gt;Zeri iniziali&lt;/f0&gt; a &lt;f1&gt;4&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
