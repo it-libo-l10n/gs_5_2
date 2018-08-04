@@ -5746,6 +5746,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, text is left-aligned in a cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181303Z" creationid="Marco Marega" creationdate="20180804T181303Z">
+        <seg>Per impostazione predefinita, i testi all'interno di una cella sono allineati a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the &lt;f0&gt;Line and Filling&lt;/f0&gt; toolbar is not shown in Draw.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T090249Z" creationid="manuel" creationdate="20180707T090249Z">
@@ -7190,6 +7198,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210542Z" creationid="Marco Marega" creationdate="20180731T210542Z">
         <seg>Fate clic sulla cella e digitate un numero usando i tasti numerici della fila superiore della tastiera o del tastierino numerico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the cell and type the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181241Z" creationid="Marco Marega" creationdate="20180804T181241Z">
+        <seg>Selezionate la cella e digitate il testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8706,6 +8722,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T063407Z" creationid="manuel" creationdate="20180609T062846Z">
         <seg>Schemi di accettazione delle date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date and time</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181314Z" creationid="Marco Marega" creationdate="20180804T181314Z">
+        <seg>Date e orari</seg>
       </tuv>
     </tu>
     <tu>
@@ -21880,6 +21904,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the cell and type the date or time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181327Z" creationid="Marco Marega" creationdate="20180804T181327Z">
+        <seg>Selezionate la cella e digitate la data o l'orario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the cell or range of cells using one of the methods above.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145044Z" creationid="Marco Marega" creationdate="20180714T145044Z">
@@ -24277,6 +24309,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155136Z" creationid="manuel" creationdate="20180715T155136Z">
         <seg>I campi data suggeriscono una relazione tra la tabella vacanze e le date presenti nelle tabelle carburante e cibo. Questo significa che i campi data di queste tabelle saranno collegati durante la creazione del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The date format automatically changes to the selected format used by Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181624Z" creationid="Marco Marega" creationdate="20180804T181624Z">
+        <seg>Il formato della data si adegua automaticamente al formato data impostato in Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32275,6 +32315,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103308Z" creationid="manuel" creationdate="20180622T103308Z">
         <seg>Potete selezionare varie opzioni come la corrispondenza esatta, solo parole intere, o la ricerca di parole simili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can separate the date elements with a slash (/) or a hyphen (–) or use text, for example 10 Oct 2012.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T181501Z" creationid="Marco Marega" creationdate="20180804T181501Z">
+        <seg>Potete separare gli elementi della data con una barra (/), con un trattino (-), oppure inserirla come testo, ad esempio 10 ottobre 2012.</seg>
       </tuv>
     </tu>
     <tu>
