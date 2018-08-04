@@ -2959,6 +2959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;With the cell s&lt;/f0&gt;elect&lt;f1&gt;ed, o&lt;/f1&gt;pen the Sidebar (&lt;f2&gt;View &gt; Sidebar&lt;/f2&gt;) and (if necessary) click the &lt;f3&gt;Open Panel&lt;/f3&gt; (&lt;f4&gt;+&lt;/f4&gt;) icon on the &lt;f5&gt;Number Format&lt;/f5&gt; panel &lt;f6&gt;(Figure &lt;/f6&gt;&lt;f7&gt;&lt;t8&gt;106&lt;/t8&gt;&lt;/f7&gt;&lt;f9&gt;)&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T182335Z" creationid="Marco Marega" creationdate="20180804T182335Z">
+        <seg>&lt;f0&gt;Quando la cella è &lt;/f0&gt;selezionata&lt;f1&gt;, aprite la &lt;/f1&gt;Barra laterale (&lt;f2&gt;Visualizza &gt; Barra laterale&lt;/f2&gt;) e (se necessario) fate clic sull'icona &lt;f3&gt;Apri pannello&lt;/f3&gt; (&lt;f4&gt;+&lt;/f4&gt;) della sezione &lt;f5&gt;Formato numero&lt;/f5&gt; &lt;f6&gt;(Figura &lt;/f6&gt;&lt;f7&gt;&lt;t8&gt;106&lt;/t8&gt;&lt;/f7&gt;&lt;f9&gt;)&lt;/f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Wrap:&lt;/f0&gt; Permits wrap modifications where these are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T143630Z" creationid="manuel" creationdate="20180618T143630Z">
@@ -7664,6 +7672,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070253Z" creationid="manuel" creationdate="20180531T070253Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;Modifica&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;More Options&lt;/f0&gt; button in the panel title bar to open the &lt;f1&gt;Format Cells&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T182514Z" creationid="Marco Marega" creationdate="20180804T182514Z">
+        <seg>Nella barra del titolo del panello fate clic sul pulsante &lt;f0&gt;Altre opzioni&lt;/f0&gt; in modo da aprire la finestra di dialogo &lt;f1&gt;Formato celle&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21508,6 +21524,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T090037Z" creationid="manuel" creationdate="20180705T145938Z">
         <seg>Selezionate &lt;f0&gt;Includi gli attributi&lt;/f0&gt; per applicare una modifica graduale delle proprietà di stile e riempimento tra i due oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Date&lt;/f0&gt; in the &lt;f1&gt;Category&lt;/f1&gt; list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T182352Z" creationid="Marco Marega" creationdate="20180804T182352Z">
+        <seg>Selezionate &lt;f0&gt;Data&lt;/f0&gt; nella casella di riepilogo &lt;f1&gt;Categoria&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
