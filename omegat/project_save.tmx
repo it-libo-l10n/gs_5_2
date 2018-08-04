@@ -10247,6 +10247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;105&lt;/seq0&gt;: Set Leading zeroes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T175645Z" creationid="Marco Marega" creationdate="20180804T175645Z">
+        <seg>Figura &lt;seq0&gt;105&lt;/seq0&gt;: Impostazione degli Zeri iniziali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Example of LibreOffice Save As dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194542Z" creationid="Marco Marega" creationdate="20180621T194542Z">
@@ -12631,6 +12639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting is applied immediately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T175627Z" creationid="Marco Marega" creationdate="20180804T175627Z">
+        <seg>La formattazione viene applicata immediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting lines and borders</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T100105Z" creationid="manuel" creationdate="20180707T100105Z">
@@ -14187,6 +14203,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T141755Z" creationid="manuel" creationdate="20180618T141755Z">
         <seg>Se è selezionato un elemento grafico, si aprono i seguenti pannelli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a number is entered with leading zeroes, for example 01481, without first setting the Leading zeros parameter, then by default Calc will automatically drop the leading 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T175907Z" creationid="Marco Marega" creationdate="20180804T175907Z">
+        <seg>Se un numero viene inserito con degli zeri iniziali, ad esempio 01481, prima di aver impostato il parametro Zeri iniziali, per impostazione predefinita Calc rimuoverà automaticamente lo 0 iniziale.</seg>
       </tuv>
     </tu>
     <tu>
