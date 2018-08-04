@@ -19424,6 +19424,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) and click the &lt;f1&gt;Open Panel&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) icon on the &lt;f3&gt;Number Format&lt;/f3&gt; panel to open it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T175316Z" creationid="Marco Marega" creationdate="20180804T175316Z">
+        <seg>Aprite la barra laterale (&lt;f0&gt;Visualizza &gt; Barra laterale&lt;/f0&gt;) e fate clic sull'icona &lt;f1&gt;Apri  pannello&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) della sezione &lt;f3&gt;Formato numero&lt;/f3&gt; per aprirlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Styles and Formatting window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173724Z" creationid="luke" creationdate="20180514T154730Z">
