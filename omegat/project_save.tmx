@@ -2135,6 +2135,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Format&lt;/f0&gt;: Only change the &lt;f1&gt;Entry Required&lt;/f1&gt; setting: from &lt;f2&gt;No&lt;/f2&gt; to &lt;f3&gt;Yes&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T063158Z" creationid="manuel" creationdate="20180806T063158Z">
+        <seg>&lt;f0&gt;Formato&lt;/f0&gt;: Cambiate solo la &lt;f1&gt;Digitazione necessaria&lt;/f1&gt;, impostandola da &lt;f2&gt;No&lt;/f2&gt; a &lt;f3&gt;Sì&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Frame styles&lt;/f0&gt; are used to format graphic and text frames, including text wrap, borders, backgrounds, and columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144454Z" creationid="manuel" creationdate="20180611T144454Z">
@@ -2471,10 +2479,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Notes&lt;/f0&gt;: No changes are required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T063605Z" creationid="manuel" creationdate="20180806T063605Z">
+        <seg>&lt;f0&gt;Note&lt;/f0&gt;: Non sono necessari cambiamenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Number Format:&lt;/f0&gt; Quickly change the format of numbers including decimals, currency, dates, or numeric text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T183953Z" creationid="Marco Marega" creationdate="20180708T183953Z">
         <seg>&lt;f0&gt;Formato numero:&lt;/f0&gt; modifica velocemente il formato dei numeri compresi decimali, valute, date o testi numerici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;NumberofTracks&lt;/f0&gt;: Change the &lt;f1&gt;Field Type&lt;/f1&gt; to &lt;f2&gt;Tiny Integer [TINYINT]&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T063651Z" creationid="manuel" creationdate="20180806T063651Z">
+        <seg>&lt;f0&gt;Numero Tracce&lt;/f0&gt;: Cambiate il &lt;f1&gt;Tipo di Campo&lt;/f1&gt; in &lt;f2&gt;Intero molto piccolo [TINYINT]&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2555,6 +2579,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T090928Z" creationid="manuel" creationdate="20180530T090928Z">
         <seg>&lt;f0&gt;Incolla Appunti&lt;/f0&gt; – la pressione del pulsante centrale del mouse inserisce il contenuto degli “&lt;i1/&gt;Appunti di selezione” alla posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Photo&lt;/f0&gt;: Use the default settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T064454Z" creationid="manuel" creationdate="20180806T064454Z">
+        <seg>&lt;f0&gt;Foto&lt;/f0&gt;: Usate le impostazioni predefinite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9807,6 +9839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each field has a &lt;f0&gt;Field Type&lt;/f0&gt;, which must be specified.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T064745Z" creationid="manuel" creationdate="20180806T064745Z">
+        <seg>Ogni campo ha un'impostazione &lt;f0&gt;Tipo di Campo&lt;/f0&gt;, che deve essere specificata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each field of a table contains information of a single type.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T103935Z" creationid="manuel" creationdate="20180721T103935Z">
@@ -14683,6 +14723,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133417Z" creationid="Marco Marega" creationdate="20180623T133417Z">
         <seg>Se il documento non è stato salvato dopo l'ultima modifica, verrà visualizzato un messaggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the field is going to have general information in it (for example, a name or a description), use text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T064846Z" creationid="manuel" creationdate="20180806T064846Z">
+        <seg>Se il campo è destinato a contenere informazioni di carattere generale (per esempio un nome o una descrizione), allora sarà necessario usare testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the field will always contain a number (for example, a price), the type should be decimal or another numerical field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T064906Z" creationid="manuel" creationdate="20180806T064906Z">
+        <seg>Se il campo conterrà esclusivamente numeri (per esempio un prezzo), dovrete scegliere il tipo numero decimale o un altro tipo numerico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22786,8 +22842,8 @@
       <tuv lang="EN">
         <seg>Since music always has artists, set &lt;f1&gt;Entry Required&lt;/f1&gt; to &lt;f2&gt;Yes&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T061616Z" creationid="manuel" creationdate="20180806T061616Z">
-        <seg>Se le vostre collezioni richiedono sempre un Interprete, impostate &lt;/f1&gt;&lt;f2&gt;Digitazione necessaria&lt;/f2&gt;&lt;f3&gt; su &lt;/f3&gt;&lt;f4&gt;Sì.&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T063910Z" creationid="manuel" creationdate="20180806T061616Z">
+        <seg>Se le vostre collezioni richiedono sempre un Interprete, impostate &lt;f1&gt;Digitazione necessaria&lt;/f1&gt; su &lt;f2&gt;Sì&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22868,6 +22924,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T202338Z" creationid="Marco Marega" creationdate="20180527T205334Z">
         <seg>Le presentazioni possono essere ulteriormente migliorate con gli speciali effetti di testo di Fontwork, nonché con contributi audio e video.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Small Integer [SMALLINT] would allow 32768 tracks if you needed more than 127 tracks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T064415Z" creationid="manuel" creationdate="20180806T064415Z">
+        <seg>Intero piccolo [SMALLINT] ammetterebbe fino a 32768 tracce, nel caso vi occorresse un numero di tracce superiore a 127.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25953,6 +26017,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The wizard picks the right field type, so to get an idea of how this works, see what the wizard has chosen for different fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T065109Z" creationid="manuel" creationdate="20180806T065109Z">
+        <seg>La procedura guidata sceglie il tipo di campo corretto, così, per avere un'idea più precisa, guardate cosa questa propone di volta in volta per i vari campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The word and character count of the document is shown in the Status Bar, and is kept up to date as you edit.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055643Z" creationid="manuel" creationdate="20180618T055643Z">
@@ -29005,6 +29077,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Two album titles containing 25 and 32 characters respectively will use space for 25 and 32 characters and not 100 characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T062852Z" creationid="manuel" creationdate="20180806T062852Z">
+        <seg>I titoli di due album contenenti 25 e 32 caratteri rispettivamente utilizzeranno quindi spazio per 25 e 32 caratteri, e non per 100 caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Two different snap functions can be used at the same time; for example snapping to a guide line and to the page edge.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111804Z" creationid="manuel" creationdate="20180707T111804Z">
@@ -29129,6 +29209,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102221Z" creationid="manuel" creationdate="20180627T102221Z">
         <seg>Digitate la parola “pagina” e uno spazio, quindi inserite il numero di pagina seguendo le indicazioni riportate sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Types include text, integer, date, and decimal.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T064805Z" creationid="manuel" creationdate="20180806T064805Z">
+        <seg>Questi tipi includono testo, numeri interi, date e numeri decimali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30835,6 +30923,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093558Z" creationid="manuel" creationdate="20180705T093558Z">
         <seg>Al termine della digitazione del testo, fate clic all'esterno della cornice di testo per annullare l'aggiunta o la modifica del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have finished, click &lt;f0&gt;Next&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T064654Z" creationid="manuel" creationdate="20180806T064654Z">
+        <seg>Al termine fate clic su &lt;f0&gt;Avanti&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32959,6 +33055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your allowable number of tracks will be 127.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T064225Z" creationid="manuel" creationdate="20180806T064225Z">
+        <seg>Il numero di tracce inseribili sarà fino a 127.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your first macros</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151505Z" creationid="Elisabetta Manuele" creationdate="20180625T151505Z">
@@ -34299,6 +34403,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062312Z" creationid="manuel" creationdate="20180531T062312Z">
         <seg>anteprima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>primary key</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T065112Z" creationid="manuel" creationdate="20180806T065112Z">
+        <seg>chiave primaria</seg>
       </tuv>
     </tu>
     <tu>
