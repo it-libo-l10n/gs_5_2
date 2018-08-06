@@ -3471,6 +3471,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;i0/&gt;primary key uniquely identifies an item (or record) in the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T082221Z" creationid="manuel" creationdate="20180806T082221Z">
+        <seg>Una &lt;i0/&gt;chiave primaria identifica in modo univoco un elemento (detto più precisamente record) nella tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;i0/&gt;temporary grouping is when several objects are selected using the Select icon on the Drawing toolbar or using the mouse to drag a rectangle around the objects (also known as a marquee).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112745Z" creationid="manuel" creationdate="20180705T112745Z">
