@@ -7042,6 +7042,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Finish&lt;/f0&gt;&lt;f1&gt; to complete the table &lt;/f1&gt;wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T085513Z" creationid="manuel" creationdate="20180806T085513Z">
+        <seg>Fate clic su &lt;f0&gt;Fine&lt;/f0&gt;&lt;f1&gt; per completare la Creazione guidata della tabella&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Insert &gt; Bookmark&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163948Z" creationid="manuel" creationdate="20180628T163948Z">
@@ -8113,6 +8121,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162514Z" creationid="manuel" creationdate="20180615T162514Z">
         <seg>Chiudete il vecchio file senza salvarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close the window created by the table wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T085517Z" creationid="manuel" creationdate="20180806T085517Z">
+        <seg>Chiudete la finestra creata dalla procedura guidata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9875,6 +9891,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T110014Z" creationid="manuel" creationdate="20180707T110014Z">
         <seg>Ogni estremità di linea può avere un diverso terminale, oppure non averne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each entry has one number and every number is different, so it is easy to say “record ID 172”.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T084821Z" creationid="manuel" creationdate="20180806T084821Z">
+        <seg>Ogni voce ha il proprio numero e tutti i numeri sono differenti fra loro; in questo modo è facile fare riferimento ad un record tramite il suo numero identificativo, per esempio “record ID 172”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12519,6 +12543,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you might know two people called “Randy Herring” or three people living at the same address and the database needs to distinguish between them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T084737Z" creationid="manuel" creationdate="20180806T084737Z">
+        <seg>Ad esempio, ci potrebbero essere due persone che si chiamano “Rossi Mario" o tre persone residenti allo stesso indirizzo e il database deve essere in grado di distinguerli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you might name a modified Heading 1 style for an annual report &lt;f0&gt;AR Heading 1&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T142523Z" creationid="manuel" creationdate="20180614T064651Z">
@@ -12851,6 +12883,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170257Z" creationid="Elisabetta Manuele" creationdate="20180625T170257Z">
         <seg>Posizionando il puntatore del mouse su un'icona qualsiasi comparirà un suggerimento rapido ("tooltip") contenente una breve descrizione della sua funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this example, make no changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T085126Z" creationid="manuel" creationdate="20180806T085126Z">
+        <seg>Per questo esempio, non effettuate nessuna modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14535,6 +14575,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If desired, rename the table at this point.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T084955Z" creationid="manuel" creationdate="20180806T084955Z">
+        <seg>A questo punto, se lo desiderate, potete rinominare la tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If disabled, your standard printer will be used to print this document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144209Z" creationid="manuel" creationdate="20180608T144209Z">
@@ -15475,6 +15523,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080348Z" creationid="manuel" creationdate="20180531T080348Z">
         <seg>Se registrate le modifiche, salvate versioni multiple, o includete informazioni nascoste o note nei vostri documenti, e desiderate che alcuni dei destinatari non vedano queste informazioni, potete impostare degli avvisi per ricordarvi di rimuovere tali informazioni, oppure potete fare in modo che LibreOffice cancelli automaticamente alcune informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you rename it, make the name meaningful to you.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T084957Z" creationid="manuel" creationdate="20180806T084957Z">
+        <seg>In tal caso, si consiglia di scegliere un nome significativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17423,6 +17479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Leave the option &lt;f0&gt;Insert data immediately&lt;/f0&gt; checked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T085425Z" creationid="manuel" creationdate="20180806T085425Z">
+        <seg>Lasciate selezionata l'opzione &lt;f0&gt;Inserisci subito i dati&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left-click in the cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142353Z" creationid="Marco Marega" creationdate="20180714T142353Z">
@@ -19220,6 +19284,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192923Z" creationid="Marco Marega" creationdate="20180621T192923Z">
         <seg>Note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notice that a table named “CD-Collection” is now listed in the Tables portion of the window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T085541Z" creationid="manuel" creationdate="20180806T085541Z">
+        <seg>Notate che la tabella “Collezione_CD” è ora elencata nel riquadro Tabelle, all'interno della finestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23416,6 +23488,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 4: Create the table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T084943Z" creationid="manuel" creationdate="20180806T084943Z">
+        <seg>Passo 4: Creazione della tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Storing files on a remote server also backs up documents from computer loss or hard disk failure.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123306Z" creationid="Marco Marega" creationdate="20180622T123306Z">
@@ -25777,6 +25857,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The simplest method is to assign a unique number to each one: number the first person 1, the second 2, and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T084801Z" creationid="manuel" creationdate="20180806T084801Z">
+        <seg>Il metodo più semplice consiste nell'assegnare un numero diverso a ciascun record: assegnare alla prima persona il numero 1, alla seconda il numero 2, e così via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The sizes are given in the current measurement unit.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143714Z" creationid="manuel" creationdate="20180703T143714Z">
@@ -26741,6 +26829,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165800Z" creationid="Elisabetta Manuele" creationdate="20180625T165800Z">
         <seg>La presente guida rappresenta la prima linea di supporto all'utilizzo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the option chosen here: CollectionID is just a number assigned automatically by Base to each record of this table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T084928Z" creationid="manuel" creationdate="20180806T084928Z">
+        <seg>Questo è il metodo scelto in questo caso: ID_Collezione è solo un numero assegnato automaticamente da Base ad ogni record della tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31595,6 +31691,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180639Z" creationid="Elisabetta Manuele" creationdate="20180627T180639Z">
         <seg>Sì.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are now back to the main window of the database with the listing of the tables, queries, forms, and reports.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T085528Z" creationid="manuel" creationdate="20180806T085528Z">
+        <seg>A questo punto vi trovate nuovamente nella finestra principale del database con l'elenco delle tabelle, ricerche, formulari e rapporti.</seg>
       </tuv>
     </tu>
     <tu>
