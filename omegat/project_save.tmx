@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -94,10 +94,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You may not know the date.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T061949Z" creationid="manuel" creationdate="20180806T061949Z">
+        <seg>(Potreste non conoscere la data.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(You need to have a document open for this menu item to appear.) In Writer, this dialog has five tabs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141236Z" creationid="manuel" creationdate="20180609T141236Z">
         <seg>(Per poter visualizzare questo menu è necessario avere un documento aperto). In Writer, questa finestra di dialogo presenta cinque schede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(example of a mandatory entry)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T055810Z" creationid="manuel" creationdate="20180806T055810Z">
+        <seg>(esempio di un inserimento obbligatorio)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;AlbumTitle&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T060048Z" creationid="manuel" creationdate="20180806T060048Z">
+        <seg>&lt;f0&gt;TitoloAlbum&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Alignment&lt;/f0&gt;: Controls to align the text in various ways, including horizontal and vertical alignment, wrapping, indenting, merging, text orientation, and vertical stacking.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T184431Z" creationid="Marco Marega" creationdate="20180708T184431Z">
@@ -1650,6 +1674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T141944Z" creationid="manuel" creationdate="20180618T141944Z">
         <seg>&lt;f0&gt;Area:&lt;/f0&gt; modifica la modalità di riempimento dell'area grafica e la trasparenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Artist&lt;/f0&gt;: Use the Default setting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T061551Z" creationid="manuel" creationdate="20180806T061551Z">
+        <seg>&lt;f0&gt;Interprete&lt;/f0&gt;: Usate le impostazioni predefinite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1791,6 +1823,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;CollectionID&lt;/f0&gt;: Change &lt;f1&gt;AutoValue&lt;/f1&gt; from &lt;f2&gt;No&lt;/f2&gt; to &lt;f3&gt;Yes&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T055800Z" creationid="manuel" creationdate="20180806T055800Z">
+        <seg>&lt;f0&gt;ID_Collezione&lt;/f0&gt;: Cambiate &lt;f1&gt;Valore Automatico&lt;/f1&gt; da &lt;f2&gt;No&lt;/f2&gt; a &lt;f3&gt;Sì&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Column type&lt;/f0&gt; – select a column in the preview window and select the data type to be applied the imported data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221637Z" creationid="Marco Marega" creationdate="20180712T221637Z">
@@ -1851,6 +1891,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T143430Z" creationid="Marco Marega" creationdate="20180707T143430Z">
         <seg>&lt;f0&gt;Dati&lt;/f0&gt; – contiene i comandi per manipolare i dati di un foglio di lavoro; ad esempio: &lt;f1&gt;Definisci area&lt;/f1&gt;, &lt;f2&gt;Ordina&lt;/f2&gt;, &lt;f3&gt;Statistica, Tabella Pivot, Consolida&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Date Purchased&lt;/f0&gt;: &lt;f1&gt;Field type&lt;/f1&gt;: default date setting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T061754Z" creationid="manuel" creationdate="20180806T061754Z">
+        <seg>&lt;f0&gt;Data Acquisto&lt;/f0&gt;: &lt;f1&gt;Tipo campo&lt;/f1&gt;: impostazione predefinita data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1939,6 +1987,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T185039Z" creationid="Marco Marega" creationdate="20180713T185039Z">
         <seg>&lt;f0&gt;Fine&lt;/f0&gt; Sposta il focus della cella all'ultima cella della &lt;f1&gt; &lt;/f1&gt;riga &lt;f2&gt;nella colonna più a destra contente dati.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Entry required&lt;/f0&gt;: Leave &lt;f1&gt;Entry required&lt;/f1&gt; as &lt;f2&gt;No&lt;/f2&gt;, unless all of your music is in albums.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T060321Z" creationid="manuel" creationdate="20180806T060321Z">
+        <seg>&lt;f0&gt;Digitazione necessaria&lt;/f0&gt;: Lasciate &lt;f1&gt;Digitazione necessaria&lt;/f1&gt; su &lt;f2&gt;No&lt;/f2&gt;, a meno che tutta la vostra musica sia su album.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2291,6 +2347,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T160445Z" creationid="manuel" creationdate="20180703T160445Z">
         <seg>&lt;f0&gt;Layout&lt;/f0&gt;: qui posizionate titolo, testo e segnaposti oggetto sulla pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Length&lt;/f0&gt;: Unless you have an album title that exceeds 100 characters counting the spaces, do not change the length.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T061327Z" creationid="manuel" creationdate="20180806T061327Z">
+        <seg>&lt;f0&gt;Lunghezza&lt;/f0&gt;: A meno che abbiate un titolo di un album che supera i 100 caratteri, compresi gli spazi vuoti, non cambiate tale lunghezza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3131,6 +3195,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T102154Z" creationid="manuel" creationdate="20180622T102154Z">
         <seg>&lt;f2&gt;Ctrl+F&lt;/f2&gt; attiva e disattiva la barra degli strumenti Trova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Entry required&lt;/f2&gt; should be No.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T061917Z" creationid="manuel" creationdate="20180806T061917Z">
+        <seg>&lt;f2&gt;Digitazione necessaria&lt;/f2&gt; dovrebbe essere impostata su No.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5441,6 +5513,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Base uses VARCHAR as the field format for text fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T062053Z" creationid="manuel" creationdate="20180806T062053Z">
+        <seg>Base usa VARCHAR come formato per i campi testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Based on LibreOffice &lt;/f4&gt;&lt;f5&gt;5.&lt;/f5&gt;&lt;f6&gt;2&lt;/f6&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173318Z" creationid="Elisabetta Manuele" creationdate="20180620T173318Z">
@@ -5685,6 +5765,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103221Z" creationid="manuel" creationdate="20180627T103221Z">
         <seg>L'opzione &lt;f0&gt;Interruzione pagina&lt;/f0&gt; è selezionata automaticamente, nella finestra di dialogo Inserisci interruzione (&lt;t1&gt;Figura 82&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, &lt;f4&gt;Entry required&lt;/f4&gt; is set to &lt;f5&gt;No&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T055648Z" creationid="manuel" creationdate="20180806T055648Z">
+        <seg>Per impostazione predefinita, il campo &lt;f4&gt;Digitazione necessaria&lt;/f4&gt; è impostato su &lt;f5&gt;No&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15671,6 +15759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Base the maximum length of each field must be specified on creation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T062015Z" creationid="manuel" creationdate="20180806T062015Z">
+        <seg>In Base la lunghezza massima di ciascun campo deve essere specificata al momento della creazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Calc it shows Sheets, Range Names, Database Ranges, Graphics, Drawing Objects, and other items.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124822Z" creationid="Marco Marega" creationdate="20180623T124822Z">
@@ -16851,6 +16947,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082405Z" creationid="manuel" creationdate="20180530T082405Z">
         <seg>Essa non è disponibile su Mac OS X o su sistemi dove il modulo Quickstarter non è installato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is not easy to change this later, so if in doubt specify a greater length.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T062034Z" creationid="manuel" creationdate="20180806T062034Z">
+        <seg>Dato che non è semplice modificare questa impostazione in una fase successiva, nel caso di dubbi conviene indicare una lunghezza maggiore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22680,6 +22784,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since music always has artists, set &lt;f1&gt;Entry Required&lt;/f1&gt; to &lt;f2&gt;Yes&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T061616Z" creationid="manuel" creationdate="20180806T061616Z">
+        <seg>Se le vostre collezioni richiedono sempre un Interprete, impostate &lt;/f1&gt;&lt;f2&gt;Digitazione necessaria&lt;/f2&gt;&lt;f3&gt; su &lt;/f3&gt;&lt;f4&gt;Sì.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since none of the fields we need for our Automobile database are contained in any of the sample wizard tables, we will create a simple table using the wizard that has nothing to do with our database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134201Z" creationid="manuel" creationdate="20180721T134201Z">
@@ -26397,6 +26509,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065538Z" creationid="manuel" creationdate="20180531T065538Z">
         <seg>Questo formato ha un certo numero di vantaggi rispetto al Postscript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This format uses only the actual number of characters in a field up to the limit set, so a field containing 20 characters will occupy only 20 characters even if the limit is set at 100.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T062126Z" creationid="manuel" creationdate="20180806T062126Z">
+        <seg>Questo formato usa soltanto il numero effettivo dei caratteri digitati nel campo fino al limite massimo fissato, quindi un campo contenente 20 caratteri occuperà solo 20 caratteri, anche se il limite è impostato a 100.</seg>
       </tuv>
     </tu>
     <tu>
