@@ -1863,6 +1863,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Create a primary key&lt;/f0&gt; should be checked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T073317Z" creationid="manuel" creationdate="20180806T073317Z">
+        <seg>Verificate che l'opzione &lt;f0&gt;Crea una chiave primaria&lt;/f0&gt; sia attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Create the required sequence by removing images or moving them up or down in the list of images.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
@@ -2811,6 +2819,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180725T062916Z" creationid="manuel" creationdate="20180725T062916Z">
         <seg>&lt;f0&gt;Passo 2: Impostazione &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;dei tipi e dei formati di campo&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Step 3: &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Set primary key&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T073221Z" creationid="manuel" creationdate="20180806T073221Z">
+        <seg>&lt;f0&gt;Passo 3: &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Impostazione di una chiave primaria&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6618,6 +6634,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &lt;f0&gt;Auto value&lt;/f0&gt; if it is not already checked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T074909Z" creationid="manuel" creationdate="20180806T074909Z">
+        <seg>Spuntate l'opzione &lt;f0&gt;Valore Automatico&lt;/f0&gt; nel caso non sia già selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checkbox (more than one can be selected at a time).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174842Z" creationid="Elisabetta Manuele" creationdate="20180627T174842Z">
@@ -7158,6 +7182,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T135305Z" creationid="manuel" creationdate="20180721T135305Z">
         <seg>Fate clic su &lt;f0&gt;Usa procedura guidata per la creazione di tabelle...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T074934Z" creationid="manuel" creationdate="20180806T074934Z">
+        <seg>Fate clic su &lt;f1&gt;Avanti&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16263,6 +16295,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Fieldname drop down&lt;/f0&gt; list, select &lt;f1&gt;CollectionID&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T074757Z" creationid="manuel" creationdate="20180806T074757Z">
+        <seg>Nell'elenco a &lt;f0&gt;discesa Nome del campo&lt;/f0&gt;, selezionate &lt;f1&gt;ID_Collezione&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Insert reference to&lt;/f0&gt; list, choose the format required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163326Z" creationid="manuel" creationdate="20180628T163326Z">
@@ -21996,6 +22036,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161517Z" creationid="manuel" creationdate="20180611T161517Z">
         <seg>Selezionate uno dei pulsanti in alto a sinistra nella finestra Stili e formattazione per visualizzare un elenco di stili in quella categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select option &lt;f0&gt;Use an existing field as a primary key&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T073408Z" creationid="manuel" creationdate="20180806T073408Z">
+        <seg>Selezionate l'opzione &lt;f0&gt;Usa un campo esistente come chiave primaria&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34411,6 +34459,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T065112Z" creationid="manuel" creationdate="20180806T065112Z">
         <seg>chiave primaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>primary key (database)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T074940Z" creationid="manuel" creationdate="20180806T074940Z">
+        <seg>chiave primaria (database)</seg>
       </tuv>
     </tu>
     <tu>
