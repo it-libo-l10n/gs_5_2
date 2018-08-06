@@ -6242,6 +6242,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the table name to &lt;f0&gt;CD-Jazz&lt;/f0&gt; and click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T092038Z" creationid="manuel" creationdate="20180806T092038Z">
+        <seg>Modificate il nome della tabella in &lt;f0&gt;CD-Jazz&lt;/f0&gt; e fate clic su &lt;f1&gt;Avanti&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change tracking during revisions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160801Z" creationid="manuel" creationdate="20180616T160801Z">
@@ -6814,6 +6822,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081236Z" creationid="manuel" creationdate="20180628T081236Z">
         <seg>Scegliete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice&gt; Dati utente&lt;/f0&gt; per configurare il nome che desiderate visualizzare nel campo Autore del commento o per modificarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f1&gt;Copy&lt;/f1&gt; from the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091644Z" creationid="manuel" creationdate="20180806T091644Z">
+        <seg>Scegliete &lt;f1&gt;Copia&lt;/f1&gt; dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7578,6 +7594,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Tables&lt;/f0&gt; icon in the Database pane to see the existing tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091448Z" creationid="manuel" creationdate="20180806T091448Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Tabelle&lt;/f0&gt; nel riquadro Database per visualizzare le tabelle esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the &lt;f2&gt;Line Ends with Arrow&lt;/f2&gt; icon on the Drawing toolbar or the &lt;f3&gt;Insert Shapes&lt;/f3&gt; sub-section in Sidebar Properties to draw an arrow.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T162257Z" creationid="manuel" creationdate="20180704T162257Z">
@@ -7897,6 +7921,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194357Z" creationid="Marco Marega" creationdate="20180621T194357Z">
         <seg>Nella barre degli strumenti Standard fate clic sull'icona &lt;f0&gt;Salva&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Save&lt;/f0&gt; button at the top of the main window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091340Z" creationid="manuel" creationdate="20180806T091340Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Salva&lt;/f0&gt; presente sulla barra strumenti principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8562,6 +8594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084144Z" creationid="manuel" creationdate="20180628T084144Z">
         <seg>Potete creare facilmente un indice generale:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a table by copying an existing table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091344Z" creationid="manuel" creationdate="20180806T091344Z">
+        <seg>Creazione di una tabella tramite copia di una tabella esistente</seg>
       </tuv>
     </tu>
     <tu>
@@ -15351,6 +15391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have a large collection of music, you might want to create a table for each type of music you have.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091354Z" creationid="manuel" creationdate="20180806T091354Z">
+        <seg>Se disponete di una vasta collezione di musica, potreste voler creare una tabella per ogni tipo di musica che avete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have enabled both the Line and Filling toolbar and the Text Formatting toolbar, Draw switches between them depending on what object is selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154351Z" creationid="manuel" creationdate="20180703T154351Z">
@@ -18736,6 +18784,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the mouse pointer below this table, right-click, and select &lt;f0&gt;Paste&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091917Z" creationid="manuel" creationdate="20180806T091917Z">
+        <seg>Spostate il puntatore del mouse sotto la tabella, fate clic con il tasto destro, e selezionate &lt;f0&gt;Incolla&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the mouse pointer over the sheet tab for the last desired sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150504Z" creationid="Marco Marega" creationdate="20180714T150504Z">
@@ -20744,6 +20800,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rather than creating each table from the wizard, you can make copies of the original table, naming each according to the type of music contained in it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091407Z" creationid="manuel" creationdate="20180806T091407Z">
+        <seg>Piuttosto che creare ogni tabella con la procedura guidata, potete fare delle copie della tabella originale, rinominando ciascuna copia secondo il tipo di musica che dovrà contenere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rather than having to create a new presentation, you can use two tools that Impress offers: hiding slides and custom slide shows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
@@ -21156,6 +21220,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T122651Z" creationid="Marco Marega" creationdate="20180719T122651Z">
         <seg>Fare clic con il pulsante destro del mouse sulla linguetta del foglio nel punto in cui volete inserirne uno nuovo e dal menu contestuale selezionate &lt;f0&gt;Inserisci foglio&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on the&lt;f0&gt; CD-Collection&lt;/f0&gt; table icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091616Z" creationid="manuel" creationdate="20180806T091616Z">
+        <seg>Fate clic con il tasto destro del mouse sulla tabella&lt;f0&gt; Collezione_CD&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24060,6 +24132,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074424Z" creationid="manuel" creationdate="20180606T074424Z">
         <seg>L'opzione Percorso certificato appare solo su sistemi Linux e Mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Copy table dialog opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091936Z" creationid="manuel" creationdate="20180806T091936Z">
+        <seg>Si aprirà la finestra di dialogo Copia tabella.</seg>
       </tuv>
     </tu>
     <tu>
