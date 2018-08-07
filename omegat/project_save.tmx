@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(See Caution below for the reason why.) Click &lt;f0&gt;Create&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T085617Z" creationid="manuel" creationdate="20180807T085617Z">
+        <seg>(Vedere l'Avvertenza più avanti nel testo per maggiori dettagli). Fate clic su &lt;f0&gt;Crea&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(See Figure &lt;t0&gt;210&lt;/t0&gt;.) You can then make changes to meet your needs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180725T063051Z" creationid="manuel" creationdate="20180725T063051Z">
@@ -7933,6 +7941,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Save&lt;/f0&gt; button at the top of the main database window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T085714Z" creationid="manuel" creationdate="20180807T085714Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Salva&lt;/f0&gt; presente sulla barra strumenti principale del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Save&lt;/f0&gt; button at the top of the main window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091340Z" creationid="manuel" creationdate="20180806T091340Z">
@@ -14283,6 +14299,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155936Z" creationid="manuel" creationdate="20180628T155936Z">
         <seg>Vi sono, comunque, anche alcune differenze:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, this is the time and place to make any changes if they are needed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T085503Z" creationid="manuel" creationdate="20180807T085503Z">
+        <seg>In ogni caso, eventuali modifiche devono essere apportate in questa fase della procedura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23048,6 +23072,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since all the fields already have the proper Field type, no changes should be needed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T085447Z" creationid="manuel" creationdate="20180807T085447Z">
+        <seg>Poiché tutti i campi hanno già un Tipo di campo appropriato, non dovrebbe essere necessaria alcuna modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since music always has artists, set &lt;f1&gt;Entry Required&lt;/f1&gt; to &lt;f2&gt;Yes&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T063910Z" creationid="manuel" creationdate="20180806T061616Z">
@@ -25549,6 +25581,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T140910Z" creationid="manuel" creationdate="20180621T140910Z">
         <seg>I nomi dei pulsanti (mostrati nei suggerimenti) cambiano in relazione alla categoria selezionata; per esempio, &lt;f6&gt;Immagine successiva&lt;/f6&gt;, &lt;f7&gt;Segnalibro successivo&lt;/f7&gt;, o &lt;f8&gt;Continua a cercare in avanti&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new table is created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T085635Z" creationid="manuel" creationdate="20180807T085635Z">
+        <seg>La nuova tabella è creata.</seg>
       </tuv>
     </tu>
     <tu>
