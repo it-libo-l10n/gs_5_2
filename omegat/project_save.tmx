@@ -2959,6 +2959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Unless you are sure, do not delete a table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T110447Z" creationid="manuel" creationdate="20180807T110447Z">
+        <seg>&lt;f0&gt;A meno che non ne siate certi, non cancellate mai una tabella&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Up One Level&lt;/f0&gt; – moves up one folder in the folder hierarchy.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204829Z" creationid="Marco Marega" creationdate="20180622T204829Z">
@@ -6354,6 +6362,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing the field type of a field can lead to data being lost either partially or completely.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T110017Z" creationid="manuel" creationdate="20180807T110017Z">
+        <seg>La modifica del tipo di campo di un campo può comportare la perdita parziale o totale dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing the password</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200736Z" creationid="Marco Marega" creationdate="20180621T200736Z">
@@ -8758,6 +8774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating tables in Design View</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T110454Z" creationid="manuel" creationdate="20180807T110454Z">
+        <seg>Creazione di tabelle in Vista struttura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating, editing, and saving web pages using Writer/Web</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151312Z" creationid="Elisabetta Manuele" creationdate="20180625T151312Z">
@@ -9134,6 +9158,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleting a field deletes &lt;f0&gt;all the data &lt;/f0&gt;once contained in that field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T105942Z" creationid="manuel" creationdate="20180807T105942Z">
+        <seg>L'eliminazione di un campo provoca la cancellazione di &lt;f0&gt;tutti i dati&lt;/f0&gt; in esso contenuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting a table removes all of the data contained in every field of the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T110421Z" creationid="manuel" creationdate="20180807T110421Z">
+        <seg>La cancellazione di una tabella rimuove tutti i dati contenuti in ciascun campo della tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deleting a template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T110929Z" creationid="manuel" creationdate="20180616T110929Z">
@@ -9234,6 +9274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065849Z" creationid="manuel" creationdate="20180531T065849Z">
         <seg>Deselezionando questa opzioni si ritorna al sistema di flusso di lavoro del documento in Postscript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Design View (Base)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T110506Z" creationid="manuel" creationdate="20180807T110506Z">
+        <seg>Vista struttura (Base)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19828,6 +19876,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171133Z" creationid="manuel" creationdate="20180608T171133Z">
         <seg>Sul lato destro della pagina &lt;f0&gt;Impostazioni Lingua – Lingue&lt;/f0&gt;, modificate a vostro piacimento &lt;f1&gt;Interfaccia utente&lt;/f1&gt;, &lt;f2&gt;Impostazione locale&lt;/f2&gt;, &lt;f3&gt;Valuta predefinita&lt;/f3&gt;, e &lt;f4&gt;Lingue predefinite per i documenti&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once tables have been created using the wizard, and data has been entered, editing a table should be very limited.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T105534Z" creationid="manuel" creationdate="20180807T105534Z">
+        <seg>Una volta che le tabelle sono state create utilizzando la procedura guidata e i dati sono stati inseriti, la modifica di una tabella dovrebbe essere molto limitata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30903,6 +30959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When creating a new table, it pays to create the fields with the correct names, length, and format before you add any data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T110418Z" creationid="manuel" creationdate="20180807T110418Z">
+        <seg>Quando si crea una nuova tabella, è quindi importante crearne i campi impostando in modo corretto nomi, lunghezza e formati prima che i dati vengano inseriti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When creating a table, you also determine the characteristics of each field within it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152633Z" creationid="manuel" creationdate="20180715T152633Z">
@@ -31883,6 +31947,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095005Z" creationid="manuel" creationdate="20180705T095005Z">
         <seg>Potete aggiungere più punti di incollaggio e personalizzarli, usando la barra degli strumenti &lt;f3&gt;Punti di incollaggio&lt;/f3&gt; (Figura &lt;t4&gt;178&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add or delete fields, but adding a field requires you to enter the data for that one field for every existing record with an entry for that field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T105926Z" creationid="manuel" creationdate="20180807T105926Z">
+        <seg>Potete aggiungere o eliminare campi, ma aggiungendo un campo è necessario inserire i dati per quel campo per ogni record esistente con una voce per quel campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33707,6 +33779,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155352Z" creationid="manuel" creationdate="20180715T155352Z">
         <seg>creare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>creating a new table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180807T110501Z" creationid="manuel" creationdate="20180807T110501Z">
+        <seg>creazione di una nuova tabella</seg>
       </tuv>
     </tu>
     <tu>
