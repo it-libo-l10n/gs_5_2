@@ -1943,6 +1943,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Direction&lt;/f0&gt; – determines the direction of series creation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205922Z" creationid="Marco Marega" creationdate="20180808T205922Z">
+        <seg>&lt;f0&gt;Direzione&lt;/f0&gt; – determina la direzione in cui verrà creata la serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Distort tool &lt;/f0&gt;distorts an object in perspective.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150351Z" creationid="manuel" creationdate="20180705T150351Z">
@@ -1963,6 +1971,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T163826Z" creationid="luke" creationdate="20180515T072618Z">
         <seg>&lt;f0&gt;La documentazione per LibreOffice è disponibile all'indirizzo &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;https://it.libreoffice.org/supporto/documentazione/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Down&lt;/f0&gt; – creates a downward series in the selected cell range for the column using the defined increment to the end value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T210221Z" creationid="Marco Marega" creationdate="20180808T210221Z">
+        <seg>&lt;f0&gt;Basso&lt;/f0&gt; – crea nell'intervallo di celle selezionato una serie che procede nella colonna verso il basso utilizzando il valore di incremento specificato fino a raggiungere il valore finale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10739,6 +10755,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205542Z" creationid="Marco Marega" creationdate="20180808T205542Z">
         <seg>Figura &lt;seq0&gt;108&lt;/seq0&gt;: utilizzo dello strumento Riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;109&lt;/seq0&gt;: Fill Series dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205854Z" creationid="Marco Marega" creationdate="20180808T205854Z">
+        <seg>Figura &lt;seq0&gt;109&lt;/seq0&gt;: finestra di dialogo Compila serie</seg>
       </tuv>
     </tu>
     <tu>
