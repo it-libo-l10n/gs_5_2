@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6046,6 +6046,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165329Z" creationid="Elisabetta Manuele" creationdate="20180625T165329Z">
         <seg>Calc (fogli elettronici)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc automatically applies many changes during data input using autocorrection, unless you have deactivated any autocorrect changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T201504Z" creationid="Marco Marega" creationdate="20180808T201504Z">
+        <seg>Durante l'inserimento dei dati Calc usa il correttore automatico per apportare automaticamente diverse modifiche, a meno che non abbiate disattivato le correzioni automatiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32275,6 +32283,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220716Z" creationid="Marco Marega" creationdate="20180707T220716Z">
         <seg>Nella Casella del nome potete anche digitare il riferimento ad un cella in modo da spostarvi alla cella in questione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also undo any autocorrection changes by using the keyboard shortcut &lt;f0&gt;Ctrl+Z&lt;/f0&gt; or manually by going back to the change and replacing the autocorrection with what you want to actually see.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T201737Z" creationid="Marco Marega" creationdate="20180808T201737Z">
+        <seg>Potete anche annullare qualsiasi correzione automatica usando la combinazione di tasti &lt;f0&gt;Ctrl+Z&lt;/f0&gt;. oppure manualmente tornando nel punto in cui è stata fatta la modifica  e sostituendo la correzione automatica con ciò che volete effettivamente vedere.</seg>
       </tuv>
     </tu>
     <tu>
