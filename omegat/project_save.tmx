@@ -4690,8 +4690,8 @@
       <tuv lang="EN">
         <seg>Alternatively, you can use a shortcut to fill cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205225Z" creationid="Marco Marega" creationdate="20180808T205225Z">
-        <seg>In alternativa, per riempire le celle potete usare dei tasti di scelta rapida.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205236Z" creationid="Marco Marega" creationdate="20180808T205225Z">
+        <seg>In alternativa, per riempire le celle potete usare i tasti di scelta rapida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7374,6 +7374,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071347Z" creationid="manuel" creationdate="20180618T071347Z">
         <seg>Fate clic sulle icone per impostare il layout di visualizzazione pagina singola, fianco a fianco e libro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click and drag in the direction you want the cells to be filled.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205415Z" creationid="Marco Marega" creationdate="20180808T205415Z">
+        <seg>Fate clic con il mouse e trascinatelo nella direzione in cui volete riempire le celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10723,6 +10731,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202645Z" creationid="Marco Marega" creationdate="20180808T202645Z">
         <seg>Figura &lt;seq0&gt;107&lt;/seq0&gt;: finestra di dialogo Correzione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;108&lt;/seq0&gt;: Using the Fill tool</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205542Z" creationid="Marco Marega" creationdate="20180808T205542Z">
+        <seg>Figura &lt;seq0&gt;108&lt;/seq0&gt;: utilizzo dello strumento Riempimento</seg>
       </tuv>
     </tu>
     <tu>
@@ -15079,6 +15095,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the original cell contained a number, a series will be created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205510Z" creationid="Marco Marega" creationdate="20180808T205510Z">
+        <seg>Se la cella di origine contiene un numero, verrà creata una serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the original cell contained text, then the text will automatically be copied.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205448Z" creationid="Marco Marega" creationdate="20180808T205448Z">
+        <seg>Se la cella di origine contiene del testo, questo verrà copiato automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the passwords do not match, you receive an error message.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200214Z" creationid="Marco Marega" creationdate="20180621T200214Z">
@@ -18932,6 +18964,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T205124Z" creationid="Marco Marega" creationdate="20180622T205124Z">
         <seg>Portate il cursore sopra ad una cartella di livello superiore e rilasciate il pulsante del mouse per spostarvi in quella cartella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the cursor over the small square in the bottom right corner of the selected cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205338Z" creationid="Marco Marega" creationdate="20180808T205319Z">
+        <seg>Spostate il cursore del mouse sul piccolo quadratino nell'angolo in basso a destra della cella selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25045,6 +25085,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144224Z" creationid="manuel" creationdate="20180608T144224Z">
         <seg>Le impostazioni della stampante corrente verranno salvate con il documento anche se questa opzione non è selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The cursor will change shape.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205343Z" creationid="Marco Marega" creationdate="20180808T205322Z">
+        <seg>Il cursore cambia forma.</seg>
       </tuv>
     </tu>
     <tu>
