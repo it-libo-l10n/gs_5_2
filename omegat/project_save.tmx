@@ -2503,6 +2503,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Month&lt;/f0&gt; – use the Date series type and this option to form a series from the names or abbreviations of the months.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212550Z" creationid="Marco Marega" creationdate="20180808T212550Z">
+        <seg>&lt;f0&gt;Mese&lt;/f0&gt; – usate il tipo di serie Data e questa opzione per comporre una serie usando i nomi o le abbreviazioni dei mesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Name Box&lt;/f0&gt; – gives the current active cell reference using a combination of a letter and number, for example A1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220348Z" creationid="Marco Marega" creationdate="20180707T220348Z">
@@ -3167,6 +3175,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Weekday&lt;/f0&gt; – use the Date series type and this option to create a series of five day sets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212450Z" creationid="Marco Marega" creationdate="20180808T212450Z">
+        <seg>&lt;f0&gt;Giorno feriale&lt;/f0&gt; – usate il tipo di serie Data e questa opzione per creare delle serie usando un incremento giornaliero ed usando solo i cinque giorni feriali della settimana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Window&lt;/f0&gt; – contains commands for the display window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215352Z" creationid="Marco Marega" creationdate="20180616T215352Z">
@@ -3211,6 +3227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T153225Z" creationid="manuel" creationdate="20180626T065516Z">
         <seg>&lt;f0&gt;Potete&lt;/f0&gt; impostare i paragrafi da verificare in una lingua specifica (diversa dal resto del documento) &lt;f1&gt;utilizzando diversi metodi,&lt;/f1&gt; &lt;f2&gt;per&lt;/f2&gt; esempio facendo clic sul &lt;f3&gt;campo&lt;/f3&gt; Lingua del &lt;f4&gt;testo&lt;/f4&gt; sulla barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Year&lt;/f0&gt; – use the Date series type and this option to create a series of years.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212615Z" creationid="Marco Marega" creationdate="20180808T212615Z">
+        <seg>&lt;f0&gt;Anno&lt;/f0&gt; – usate il tipo di serie Data e questa opzione per creare delle serie usando un incremento di un anno.</seg>
       </tuv>
     </tu>
     <tu>
