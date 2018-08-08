@@ -29317,6 +29317,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To turn off or on Calc AutoCorrect, go to &lt;f0&gt;Tools &lt;/f0&gt;on the Menu bar and deselect or select &lt;f1&gt;AutoInput&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T203706Z" creationid="Marco Marega" creationdate="20180808T203706Z">
+        <seg>Per attivare o disattivare la Correzione automatica di Calc, nella barra del Menu andate in &lt;f0&gt;Strumenti &lt;/f0&gt;e deselezionate o selezionate &lt;f1&gt;Controllo ortografico automatico&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To turn on or off the help lines, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; View&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Snap Lines when moving&lt;/f1&gt; option or go to the Options toolbar and click on the &lt;f2&gt;Helplines While Moving&lt;/f2&gt; icon &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T100350Z" creationid="manuel" creationdate="20180707T100350Z">
