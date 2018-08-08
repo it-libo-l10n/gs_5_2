@@ -11999,6 +11999,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fill tool</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T204052Z" creationid="Marco Marega" creationdate="20180808T204052Z">
+        <seg>strumento riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fill tool, Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T204043Z" creationid="Marco Marega" creationdate="20180808T204043Z">
+        <seg>strumento Riempimento, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finally, you can choose whether to create a new document from the template immediately, or manually change the template, and then click &lt;f0&gt;Finish&lt;/f0&gt; to save the template.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T135749Z" creationid="manuel" creationdate="20180615T135749Z">
@@ -22520,6 +22536,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the cell containing the contents you want to copy or start the series from.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T204425Z" creationid="Marco Marega" creationdate="20180808T204425Z">
+        <seg>Selezionate la cella che contiene i dati che volete copiare o dalla quale volete far partire la serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the cell or range of cells using one of the methods above.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145044Z" creationid="Marco Marega" creationdate="20180714T145044Z">
@@ -24348,6 +24372,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T063552Z" creationid="manuel" creationdate="20180627T063212Z">
         <seg>Le funzioni Elenchi puntati e numerati (palette di strumenti a discesa) nel pannello Paragrafo del pannello Proprietà della barra laterale possono anche essere utilizzate per creare elenchi annidati e accedere alla finestra di dialogo Elenchi puntati e numerati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Calc Fill tool is used to duplicate existing content or create a series in a range of cells in your spreadsheet (Figure &lt;t0&gt;108&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T204316Z" creationid="Marco Marega" creationdate="20180808T204316Z">
+        <seg>Lo strumento Riempimento di Calc viene usato per duplicare dei contenuti esistenti o per creare una serie in un'area di celle del foglio di lavoro (Figura &lt;t0&gt;108&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26821,6 +26853,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152655Z" creationid="manuel" creationdate="20180715T152655Z">
         <seg>Possono essere anche usati per visualizzare i campi di una o più tabelle associate al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They include the fill tool, selection lists, and the ability to input information into multiple sheets of the same document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T204029Z" creationid="Marco Marega" creationdate="20180808T204029Z">
+        <seg>Tra questi figurano lo strumento Riempimento, le liste di selezione, e la possibilità di inserire dati in più fogli dello stesso documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30226,6 +30266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T152232Z" creationid="manuel" creationdate="20180612T152232Z">
         <seg>Uso &lt;i0/&gt;&lt;i1/&gt;dell'elenco Applica stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using &lt;i0/&gt;&lt;i1/&gt;the Fill tool</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T204116Z" creationid="Marco Marega" creationdate="20180808T204116Z">
+        <seg>Usando lo strumento &lt;i0/&gt;&lt;i1/&gt;Riempimento</seg>
       </tuv>
     </tu>
     <tu>
