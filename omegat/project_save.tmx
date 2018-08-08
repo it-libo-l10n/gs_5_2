@@ -2271,6 +2271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Growth&lt;/f0&gt; – creates a growth series using the defined increment and end value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T210923Z" creationid="Marco Marega" creationdate="20180808T210923Z">
+        <seg>&lt;f0&gt;Crescita&lt;/f0&gt; – crea una serie crescente usando il valore di incremento ed il valore finale specificati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Help&lt;/f0&gt; – contains links to the LibreOffice Help file, What’s This?, and information about the program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215429Z" creationid="Marco Marega" creationdate="20180616T215429Z">
@@ -2419,6 +2427,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T145340Z" creationid="manuel" creationdate="20180618T145340Z">
         <seg>&lt;f0&gt;Linea:&lt;/f0&gt; consente di modificare lo stile, la larghezza, il colore, le frecce, gli angoli e gli stili del cappuccio della linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Linear&lt;/f0&gt; – creates a linear number series using the defined increment and end value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T210618Z" creationid="Marco Marega" creationdate="20180808T210618Z">
+        <seg>&lt;f0&gt;Lineare&lt;/f0&gt; – crea una serie numerica lineare usando il valore di incremento ed il valore finale specificati.</seg>
       </tuv>
     </tu>
     <tu>
