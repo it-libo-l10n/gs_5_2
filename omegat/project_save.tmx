@@ -13647,6 +13647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Fill Cells&lt;/f0&gt; on the Menu bar and select the direction in which you want to copy or create data (&lt;f1&gt;Up&lt;/f1&gt;, &lt;f2&gt;Down&lt;/f2&gt;, &lt;f3&gt;Left&lt;/f3&gt; or &lt;f4&gt;Right&lt;/f4&gt;) or &lt;f5&gt;Series&lt;/f5&gt; and &lt;f6&gt;Random Number...&lt;/f6&gt; from the submenu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205153Z" creationid="Marco Marega" creationdate="20180808T205153Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Foglio &gt; Riempi celle&lt;/f0&gt; e dal sottomenu selezionate la direzione in cui volete copiare o creare i dati (&lt;f1&gt;In alto&lt;/f1&gt;, &lt;f2&gt;In basso&lt;/f2&gt;, &lt;f3&gt;A sinistra&lt;/f3&gt; o &lt;f4&gt;A da destra&lt;/f4&gt;) oppure &lt;f5&gt;Serie&lt;/f5&gt; o &lt;f6&gt;Numero casuale...&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Delete Cells&lt;/f1&gt; or right-click and select &lt;f2&gt;Delete Columns&lt;/f2&gt; or &lt;f3&gt;Delete Rows&lt;/f3&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T125012Z" creationid="Marco Marega" creationdate="20180718T124956Z">
