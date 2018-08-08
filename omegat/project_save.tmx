@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;AutoFill&lt;/f0&gt; – forms a series directly in the sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T211208Z" creationid="Marco Marega" creationdate="20180808T211208Z">
+        <seg>&lt;f0&gt;Riempimento automatico&lt;/f0&gt; – forma una serie direttamente nel foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Automatic Spell Check&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ing&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;(found on the Tools menu) &lt;/f3&gt;checks each word as it is typed and displays a wavy red line under any unrecognized words.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T055531Z" creationid="manuel" creationdate="20180626T055531Z">
@@ -1923,6 +1931,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T063348Z" creationid="manuel" creationdate="20180609T063348Z">
         <seg>&lt;f0&gt;Gli schemi di accettazione della data&lt;/f0&gt; definiscono come LibreOffice riconosce la digitazione come date..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Date&lt;/f0&gt; – creates a date series using the defined increment and end date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T211003Z" creationid="Marco Marega" creationdate="20180808T211003Z">
+        <seg>&lt;f0&gt;Data&lt;/f0&gt; – crea una serie di date usando il valore di incremento ed il valore finale specificati.</seg>
       </tuv>
     </tu>
     <tu>
