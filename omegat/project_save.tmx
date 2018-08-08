@@ -9655,6 +9655,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag the mouse in any direction or hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click in the last cell you want to fill.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T204822Z" creationid="Marco Marega" creationdate="20180808T204822Z">
+        <seg>Trascinate il mouse nella direzione che desiderate o tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; quindi fate clic sull'ultima cella che volete riempire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drag the mouse while keeping the mouse button pressed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164835Z" creationid="manuel" creationdate="20180703T164835Z">
