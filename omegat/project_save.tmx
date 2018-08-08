@@ -10183,6 +10183,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edits the replacement table for automatically correcting or replacing words or abbreviations in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202144Z" creationid="Marco Marega" creationdate="20180808T202144Z">
+        <seg>Modificate la tabella delle sostituzioni per far si che nel documento vengano effettuate automaticamente le correzioni, le sostituzioni o le abbreviazioni desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Effect</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065548Z" creationid="manuel" creationdate="20180618T065548Z">
@@ -21100,6 +21108,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150435Z" creationid="manuel" creationdate="20180612T150435Z">
         <seg>Ripetete il passo 3 fino ad aver effettuato tutte le modifiche per quello stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202010Z" creationid="Marco Marega" creationdate="20180808T202010Z">
+        <seg>Sostituisci</seg>
       </tuv>
     </tu>
     <tu>
