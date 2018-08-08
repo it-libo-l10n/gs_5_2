@@ -10407,6 +10407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exceptions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202157Z" creationid="Marco Marega" creationdate="20180808T202157Z">
+        <seg>Eccezioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Expert Configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T155729Z" creationid="manuel" creationdate="20180608T070619Z">
@@ -18136,6 +18144,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localized options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202412Z" creationid="Marco Marega" creationdate="20180808T202412Z">
+        <seg>Opzioni localizzate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac OS X users can also get two versions of LibreOffice from the App Store: LibreOffice Vanilla (free) and LibreOffice-from-Collabora (an enterprise-ready version; small fee).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191501Z" creationid="Marco Marega" creationdate="20180528T191501Z">
@@ -20212,6 +20228,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065108Z" creationid="manuel" creationdate="20180608T065108Z">
         <seg>Opzioni opzionali (instabili)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202250Z" creationid="Marco Marega" creationdate="20180808T202250Z">
+        <seg>Opzioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -22568,6 +22592,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the options for automatically correcting errors as you type and then click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202353Z" creationid="Marco Marega" creationdate="20180808T202353Z">
+        <seg>Selezionate le opzioni relative alle correzioni automatiche durante la digitazione e poi fate clic su &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the position in &lt;f0&gt;Insert before&lt;/f0&gt; where you want to place the sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163303Z" creationid="Marco Marega" creationdate="20180729T163303Z">
@@ -23500,6 +23532,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085528Z" creationid="manuel" creationdate="20180530T085528Z">
         <seg>Specifica se e come il puntatore del mouse verrà posizionato nelle nuove finestre di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify the AutoCorrect options for quotation marks and for options that are specific to the language of the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202533Z" creationid="Marco Marega" creationdate="20180808T202533Z">
+        <seg>Specificate le opzioni di correzione automatica per i tipi di virgolette usati e le opzioni specifiche della lingua usata nel testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify the abbreviations or letter combinations that you do not want LibreOffice to correct automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202245Z" creationid="Marco Marega" creationdate="20180808T202245Z">
+        <seg>Specificate le abbreviazioni o le combinazioni di lettere che non volete che siano corrette automaticamente da LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
