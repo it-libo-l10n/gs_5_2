@@ -5481,6 +5481,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AutoFill tries to complete a value series by using a defined pattern.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T211614Z" creationid="Marco Marega" creationdate="20180808T211614Z">
+        <seg>Il riempimento automatico tenta di completare una serie di valori usando un determinato modello di incremento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AutoFormatting of cells</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181808Z" creationid="Elisabetta Manuele" creationdate="20180620T181808Z">
@@ -12515,6 +12523,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T151437Z" creationid="manuel" creationdate="20180715T151437Z">
         <seg>Ad esempio, una lista di nomi e indirizzi è una sorgente dati che può essere impiegata per produrre la stampa in serie di una lettera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, a numerical series using 1,3,5 is automatically completed with 7,9,11,13; a date and time series using 01.01.99 and 15.01.99, an interval of fourteen days is used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T211812Z" creationid="Marco Marega" creationdate="20180808T211812Z">
+        <seg>Ad esempio, una serie numerica che inizia con 1,3,5 verrà completata automaticamente con 7,9,11,13; per una serie di date che inizia con 01.01.99 e 01.15.99, verrà usato un intervallo di quindici giorni.</seg>
       </tuv>
     </tu>
     <tu>
