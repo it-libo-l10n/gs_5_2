@@ -9318,6 +9318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defining a fill series</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T213037Z" creationid="Marco Marega" creationdate="20180808T213037Z">
+        <seg>Definizione di una serie di riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defining a sequence of paragraph styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165000Z" creationid="manuel" creationdate="20180615T165000Z">
@@ -10543,6 +10551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entries can only be made if the linear, growth or date series types have been selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T213009Z" creationid="Marco Marega" creationdate="20180808T213009Z">
+        <seg>Può essere impostato solo se è stato scelto un tipo di serie lineare, crescita o data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Envelopes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T152505Z" creationid="manuel" creationdate="20180628T152505Z">
@@ -10907,6 +10923,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194542Z" creationid="Marco Marega" creationdate="20180621T194542Z">
         <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: Esempio di finestra di dialogo Salva con nome di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;110&lt;/seq0&gt;: Sort Lists dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T213030Z" creationid="Marco Marega" creationdate="20180808T213030Z">
+        <seg>Figura &lt;seq0&gt;110&lt;/seq0&gt;: finestra di dialogo Ordina elenchi</seg>
       </tuv>
     </tu>
     <tu>
@@ -28431,6 +28455,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172434Z" creationid="manuel" creationdate="20180706T172434Z">
         <seg>Per muovervi tra gli oggetti in senso inverso, premete &lt;f1&gt;Maiusc+Tab&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define your own fill series:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T213242Z" creationid="Marco Marega" creationdate="20180808T213242Z">
+        <seg>Per definire delle serie di riempimento personalizzate:</seg>
       </tuv>
     </tu>
     <tu>
