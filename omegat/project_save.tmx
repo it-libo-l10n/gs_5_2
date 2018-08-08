@@ -6050,6 +6050,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc also includes several other tools for automating input, especially of repetitive material.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T204014Z" creationid="Marco Marega" creationdate="20180808T204014Z">
+        <seg>Calc è dotato anche diversi altri strumenti per automatizzare il processo di inserimento, in particolar modo quando si ha a che fare con dati ripetitivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc automatically applies many changes during data input using autocorrection, unless you have deactivated any autocorrect changes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T201504Z" creationid="Marco Marega" creationdate="20180808T201504Z">
@@ -10339,6 +10347,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184730Z" creationid="Elisabetta Manuele" creationdate="20180620T184730Z">
         <seg>Inserimento dei dati tramite formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entering data into a spreadsheet can be very labor-intensive, but Calc provides several tools for removing some of the drudgery from input.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T203817Z" creationid="Marco Marega" creationdate="20180808T203817Z">
+        <seg>L'inserimento dei dati in un foglio elettronico può essere un procedimento molto lungo, ma Calc fornisce diversi strumenti per velocizzare il lavoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18376,6 +18392,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many people also find AutoInput helpful.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T203930Z" creationid="Marco Marega" creationdate="20180808T203930Z">
+        <seg>Molte persone trovano utile anche la Digitazione automatica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Many people find creation and editing of documents easier when accidental clicks on links do not activate the links.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084120Z" creationid="manuel" creationdate="20180606T084120Z">
@@ -25681,6 +25705,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most basic ability is to drop and drag the contents of one cell to another with a mouse.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T203849Z" creationid="Marco Marega" creationdate="20180808T203849Z">
+        <seg>La possibilità più elementare è quella di trascinare dati da una cella all'altra con il mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most common object attributes can be edited using this toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T091337Z" creationid="manuel" creationdate="20180707T091337Z">
@@ -29319,8 +29351,8 @@
       <tuv lang="EN">
         <seg>To turn off or on Calc AutoCorrect, go to &lt;f0&gt;Tools &lt;/f0&gt;on the Menu bar and deselect or select &lt;f1&gt;AutoInput&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T203706Z" creationid="Marco Marega" creationdate="20180808T203706Z">
-        <seg>Per attivare o disattivare la Correzione automatica di Calc, nella barra del Menu andate in &lt;f0&gt;Strumenti &lt;/f0&gt;e deselezionate o selezionate &lt;f1&gt;Controllo ortografico automatico&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T203941Z" creationid="Marco Marega" creationdate="20180808T203706Z">
+        <seg>Per attivare o disattivare la Correzione automatica di Calc, nella barra del Menu andate in &lt;f0&gt;Strumenti &lt;/f0&gt;e deselezionate o selezionate &lt;f1&gt;Digitazione automatica&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34023,6 +34055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>data entry, Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T203719Z" creationid="Marco Marega" creationdate="20180808T203719Z">
+        <seg>inserimento dati, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>data source</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T151314Z" creationid="manuel" creationdate="20180715T151314Z">
@@ -35243,6 +35283,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T104345Z" creationid="manuel" creationdate="20180622T104345Z">
         <seg>caratteri speciali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>speeding up</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T203711Z" creationid="Marco Marega" creationdate="20180808T203711Z">
+        <seg>velocizzare</seg>
       </tuv>
     </tu>
     <tu>
