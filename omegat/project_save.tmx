@@ -2039,6 +2039,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;End Value&lt;/f0&gt; – determines the end value for the series.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212744Z" creationid="Marco Marega" creationdate="20180808T212744Z">
+        <seg>&lt;f0&gt;Valore finale&lt;/f0&gt; – stabilisce il valore di arrivo della serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;End&lt;/f0&gt; moves the cell focus to the last cell on the right in the&lt;f1&gt; &lt;/f1&gt;row &lt;f2&gt;in the right-most column that contains data.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T185039Z" creationid="Marco Marega" creationdate="20180713T185039Z">
@@ -2363,6 +2371,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212629Z" creationid="Marco Marega" creationdate="20180619T212609Z">
         <seg>&lt;f0&gt;In alcune situazioni, può essere utile ridurre il numero delle barre degli strumenti visualizzate per ottenere maggiore spazio per il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Increment&lt;/f0&gt; – determines the value by which the series of the selected type increases by each step.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212936Z" creationid="Marco Marega" creationdate="20180808T212936Z">
+        <seg>&lt;f0&gt;Incremento&lt;/f0&gt; – determina l'incremento applicato a ciascuno valore della serie per arrivare al successivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2907,6 +2923,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221705Z" creationid="Marco Marega" creationdate="20180712T221705Z">
         <seg>&lt;f0&gt;Standard &lt;/f0&gt;– Calc determina automaticamente il tipo di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Start Value&lt;/f0&gt; – determines the start value for the series.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212641Z" creationid="Marco Marega" creationdate="20180808T212641Z">
+        <seg>&lt;f0&gt;Valore iniziale&lt;/f0&gt; – stabilisce il valore di partenza della serie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30266,6 +30290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164409Z" creationid="manuel" creationdate="20180626T164409Z">
         <seg>Usare gli stili per gli elenchi (numerazione), come descritto nei Capitoli &lt;f0&gt;8&lt;/f0&gt; (Introduzione agli Stili) e &lt;f1&gt;9&lt;/f1&gt; (Lavorare con gli Stili) della &lt;f2&gt;Guida a Writer&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use numbers, dates or times.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212701Z" creationid="Marco Marega" creationdate="20180808T212701Z">
+        <seg>Potete usare numeri, date oppure orari.</seg>
       </tuv>
     </tu>
     <tu>
