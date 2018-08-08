@@ -9078,6 +9078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deactivating automatic changes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202656Z" creationid="Marco Marega" creationdate="20180808T202656Z">
+        <seg>Disattivare le modifiche automatiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Decimal separator key</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171757Z" creationid="manuel" creationdate="20180608T171757Z">
@@ -10675,6 +10683,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T182623Z" creationid="Marco Marega" creationdate="20180804T182623Z">
         <seg>Figura &lt;seq0&gt;106&lt;/seq0&gt;: Selezionare il formato e altre opzioni per le Date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;107&lt;/seq0&gt;: AutoCorrect dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202645Z" creationid="Marco Marega" creationdate="20180808T202645Z">
+        <seg>Figura &lt;seq0&gt;107&lt;/seq0&gt;: finestra di dialogo Correzione automatica</seg>
       </tuv>
     </tu>
     <tu>
@@ -21184,6 +21200,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202546Z" creationid="Marco Marega" creationdate="20180808T202546Z">
+        <seg>Ripristina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resets modified values back to the LibreOffice default values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202621Z" creationid="Marco Marega" creationdate="20180808T202621Z">
+        <seg>Ripristina i valori modificati a quelli predefiniti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resetting the default template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161610Z" creationid="manuel" creationdate="20180615T161610Z">
@@ -23324,6 +23356,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155203Z" creationid="manuel" creationdate="20180715T155203Z">
         <seg>Verrà quindi creata una tabella con un campo per il tipo di pagamento, che verrà usata in un elenco a tendina nei formulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some AutoCorrect settings are applied when you press the spacebar after you enter data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202810Z" creationid="Marco Marega" creationdate="20180808T202810Z">
+        <seg>Alcune delle correzioni automatiche impostate vengono applicate quando premete la barra spaziatrice subito dopo aver inserito dei dati.</seg>
       </tuv>
     </tu>
     <tu>
