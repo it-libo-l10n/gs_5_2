@@ -14095,6 +14095,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can select the type of series you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205841Z" creationid="Marco Marega" creationdate="20180808T205841Z">
+        <seg>Qui potete selezionare il tipo di serie che desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can select the various options available when importing a CSV file into a Calc spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214504Z" creationid="Marco Marega" creationdate="20180712T214504Z">
@@ -30478,6 +30486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using a fill series</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205635Z" creationid="Marco Marega" creationdate="20180808T205635Z">
+        <seg>Utilizzando una serie di riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using a template to &lt;i0/&gt;&lt;i1/&gt;create a &lt;i2/&gt;document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090154Z" creationid="manuel" creationdate="20180614T090154Z">
@@ -31619,6 +31635,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T140249Z" creationid="Marco Marega" creationdate="20180707T140249Z">
         <seg>Quando salvate un foglio elettronico per la prima volta, vi sarà richiesto di inserire un nome di vostra scelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you select a series fill from &lt;f0&gt;Sheet &gt; Fill Cells &gt; Series...&lt;/f0&gt;, the &lt;f1&gt;Fill Series&lt;/f1&gt; dialog (Figure &lt;t2&gt;109&lt;/t2&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205817Z" creationid="Marco Marega" creationdate="20180808T205817Z">
+        <seg>Se per il riempimento selezionate una serie dal menu &lt;f0&gt;Foglio &gt; Riempi celle &gt; Serie...&lt;/f0&gt;, si aprirà la finestra di dialogo &lt;f1&gt;Compila serie&lt;/f1&gt; (Figura &lt;t2&gt;109&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
