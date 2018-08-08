@@ -1977,8 +1977,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Down&lt;/f0&gt; – creates a downward series in the selected cell range for the column using the defined increment to the end value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T210221Z" creationid="Marco Marega" creationdate="20180808T210221Z">
-        <seg>&lt;f0&gt;Basso&lt;/f0&gt; – crea nell'intervallo di celle selezionato una serie che procede nella colonna verso il basso utilizzando il valore di incremento specificato fino a raggiungere il valore finale.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T210437Z" creationid="Marco Marega" creationdate="20180808T210221Z">
+        <seg>&lt;f0&gt;Basso&lt;/f0&gt; – crea, nell'intervallo di celle selezionato, una serie che procede nella colonna verso il basso utilizzando il valore di incremento specificato fino a raggiungere il valore finale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2391,6 +2391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Left&lt;/f0&gt; – creates a series running from right to left in the selected cell range using the defined increment to the end value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T210422Z" creationid="Marco Marega" creationdate="20180808T210422Z">
+        <seg>&lt;f0&gt;Sinistra&lt;/f0&gt; – crea, nell'intervallo di celle selezionato, una serie che procede da destra verso sinistra utilizzando il valore di incremento specificato fino a raggiungere il valore finale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Length&lt;/f0&gt;: Unless you have an album title that exceeds 100 characters counting the spaces, do not change the length.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T061327Z" creationid="manuel" creationdate="20180806T061327Z">
@@ -2695,6 +2703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Right&lt;/f0&gt; – creates a series running from left to right within the selected cell range using the defined increment to the end value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T210430Z" creationid="Marco Marega" creationdate="20180808T210318Z">
+        <seg>&lt;f0&gt;Destra&lt;/f0&gt; – crea, nell'intervallo di celle selezionato, una serie che procede da sinistra verso destra utilizzando il valore di incremento specificato fino a raggiungere il valore finale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Sample tables&lt;/f0&gt;: Select &lt;f1&gt;CD-Collection&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T154325Z" creationid="manuel" creationdate="20180721T154325Z">
@@ -2787,6 +2803,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215509Z" creationid="Marco Marega" creationdate="20180712T215509Z">
         <seg>&lt;f0&gt;Opzioni di separazione&lt;/f0&gt; – specifica se i dati sono delimitati da separatori o se hanno una larghezza fissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Series Type&lt;/f0&gt; – defines the series type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T210505Z" creationid="Marco Marega" creationdate="20180808T210505Z">
+        <seg>&lt;f0&gt;Tipo&lt;/f0&gt; – determina il tipo di serie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2987,6 +3011,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204829Z" creationid="Marco Marega" creationdate="20180622T204829Z">
         <seg>&lt;f0&gt;Sali di un Livello&lt;/f0&gt; – si sposta alla cartella superiore nella gerarchia delle cartelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Up&lt;/f0&gt; – creates an upward series in the cell range of the column using the defined increment to the end value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T210353Z" creationid="Marco Marega" creationdate="20180808T210353Z">
+        <seg>&lt;f0&gt;Alto&lt;/f0&gt; – crea, nell'intervallo di celle selezionato, una serie che procede nella colonna verso l'alto utilizzando il valore di incremento specificato fino a raggiungere il valore finale.</seg>
       </tuv>
     </tu>
     <tu>
