@@ -1943,6 +1943,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Day&lt;/f0&gt; – use the Date series type and this option to create a series using seven days.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212410Z" creationid="Marco Marega" creationdate="20180808T212410Z">
+        <seg>&lt;f0&gt;Giorno&lt;/f0&gt; – usate il tipo di serie Data e questa opzione per creare delle serie usando un incremento giornaliero usando tutti i sette giorni della settimana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Detect special numbers&lt;/f0&gt; – when this option is enabled, Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T220821Z" creationid="Marco Marega" creationdate="20180712T220821Z">
@@ -3027,6 +3035,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221854Z" creationid="Marco Marega" creationdate="20180712T221854Z">
         <seg>&lt;f0&gt;Inglese US&lt;/f0&gt; – vengono ricercati i numeri formattati in Inglese US ed inseriti indipendentemente dalla lingua di sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Unit of Time&lt;/f0&gt; – in this area you specify the desired unit of time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T211902Z" creationid="Marco Marega" creationdate="20180808T211902Z">
+        <seg>&lt;f0&gt;Unità di ora&lt;/f0&gt; – in quest'area specificate l'unità di tempo che desiderate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27093,6 +27109,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064654Z" creationid="manuel" creationdate="20180618T064654Z">
         <seg>Questa area rimane vuota quando il programma si trova in modalità Inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This area is only active if the Date option has been chosen in the Series type area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T211939Z" creationid="Marco Marega" creationdate="20180808T211939Z">
+        <seg>Quest'area è attiva solo se nel Tipo di serie è stata selezionata l'opzione Data.</seg>
       </tuv>
     </tu>
     <tu>
