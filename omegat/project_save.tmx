@@ -12543,6 +12543,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, by entering January in the first cell, the series is completed using the list defined in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Sort Lists&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T211459Z" creationid="Marco Marega" creationdate="20180808T211459Z">
+        <seg>Ad esempio, inserendo Gennaio nella prima cella, la serie sarà completata usando l'elenco definito in &lt;f1&gt;Strumenti &gt; Opzioni &gt; LibreOffice Calc &gt; Ordina elenchi&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, changing a tab stop from align left to align right, and changes in formulas (equations) or linked graphics are not recorded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155437Z" creationid="manuel" creationdate="20180628T155437Z">
@@ -24508,6 +24516,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091845Z" creationid="manuel" creationdate="20180530T091845Z">
         <seg>Gli &lt;i0/&gt;“Appunti di selezione” sono indipendenti dai normali appunti che utilizzate tramite &lt;f1&gt;Modifica &gt; Copia/Taglia/Incolla&lt;/f1&gt; o i loro rispettivi tasti di scelta rapida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The AutoFill function takes account of customized lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T211321Z" creationid="Marco Marega" creationdate="20180808T211321Z">
+        <seg>La funzione di riempimento automatico prende in considerazione le liste personalizzate.</seg>
       </tuv>
     </tu>
     <tu>
