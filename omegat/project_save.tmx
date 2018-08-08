@@ -27707,6 +27707,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the autocorrect options, go to &lt;f0&gt;Tools &gt; AutoCorrect Options&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;AutoCorrect&lt;/f1&gt; dialog (Figure &lt;t2&gt;107&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T201945Z" creationid="Marco Marega" creationdate="20180808T201945Z">
+        <seg>Per modificare le opzioni di correzione automatica, nella barra del Menu andate in &lt;f0&gt;Strumenti &gt; Opzioni di correzione automatica&lt;/f0&gt; in modo da aprire la finestra di dialogo &lt;f1&gt;Correzione automatica&lt;/f1&gt; (Figura &lt;t2&gt;107&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the color of a sheet tab, right-click on the tab and select &lt;f0&gt;Tab Color&lt;/f0&gt; from the context menu to open the &lt;f1&gt;Tab Color&lt;/f1&gt; dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213003Z" creationid="Marco Marega" creationdate="20180712T213003Z">
