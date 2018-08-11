@@ -7290,6 +7290,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;New&lt;/f0&gt; and the &lt;f1&gt;Entries&lt;/f1&gt; box is cleared.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T084328Z" creationid="Marco Marega" creationdate="20180811T084328Z">
+        <seg>Fate clic su &lt;f0&gt;Nuovo&lt;/f0&gt; e la casella &lt;f1&gt;Voci&lt;/f1&gt; risulterà vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Next&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180724T170114Z" creationid="manuel" creationdate="20180724T170114Z">
@@ -30049,6 +30057,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183613Z" creationid="Marco Marega" creationdate="20180713T183613Z">
         <seg>Digitate il riferimento della cella sulla quale volete spostarvi e premete il tasto &lt;f4&gt;Invio&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the series for the new list in the &lt;f0&gt;Entries&lt;/f0&gt; box (one entry per line).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T084430Z" creationid="Marco Marega" creationdate="20180811T084430Z">
+        <seg>Digitate nella casella &lt;f0&gt;Voci&lt;/f0&gt; la serie di valori per il nuovo elenco (uno per riga).</seg>
       </tuv>
     </tu>
     <tu>
