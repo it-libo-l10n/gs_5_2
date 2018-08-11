@@ -29147,6 +29147,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do this, select the &lt;f0&gt;Shrink to fit cell size&lt;/f0&gt; option under &lt;f1&gt;Properties&lt;/f1&gt; in the Format Cells dialog (Figure &lt;t2&gt;113&lt;/t2&gt;) on the &lt;f3&gt;Alignment&lt;/f3&gt; page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124040Z" creationid="Marco Marega" creationdate="20180811T124040Z">
+        <seg>Per fare ciò, selezionate l'opzione &lt;f0&gt;Adatta alle dimensioni della cella&lt;/f0&gt; nelle &lt;f1&gt;Proprietà&lt;/f1&gt; presenti nella finestra di dialogo Formatta celle (Figura &lt;t2&gt;113&lt;/t2&gt;) nella scheda &lt;f3&gt;Allineamento&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do this, use the Area dialog by selecting &lt;f1&gt;Format &gt; Area&lt;/f1&gt; on the Menu bar or clicking the &lt;f2&gt;Area&lt;/f2&gt; icon on the Sidebar, then selecting the &lt;f3&gt;Colors&lt;/f3&gt; tab (Figure &lt;t4&gt;169&lt;/t4&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T151143Z" creationid="manuel" creationdate="20180704T151143Z">
