@@ -7210,6 +7210,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Add&lt;/f0&gt; and the new list will now appear in the &lt;f1&gt;Lists&lt;/f1&gt; box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T084508Z" creationid="Marco Marega" creationdate="20180811T084508Z">
+        <seg>Fate clic su &lt;f0&gt;Aggiunti&lt;/f0&gt; ed il nuovo elenco comparirà nella casella degli &lt;f1&gt;Elenchi&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Apply to All Slides&lt;/f0&gt; to apply the transition for all of your presentation or continue selecting transitions to place between each slide in your presentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090028Z" creationid="luke" creationdate="20180515T090028Z">
@@ -7342,6 +7350,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214522Z" creationid="Marco Marega" creationdate="20180712T214522Z">
         <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per aprire ed importare il file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the new list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T084524Z" creationid="Marco Marega" creationdate="20180811T084524Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvare il nuovo elenco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9330,6 +9346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T213037Z" creationid="Marco Marega" creationdate="20180808T213037Z">
         <seg>Definizione di una serie di riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defining a fill series from a range in a sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T084611Z" creationid="Marco Marega" creationdate="20180811T084611Z">
+        <seg>Definizione di una serie di riempimento da un intervallo di celle nel foglio di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33139,6 +33163,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T135412Z" creationid="manuel" creationdate="20180626T135412Z">
         <seg>Potete personalizzare la funzione Completamento parola dalla pagina &lt;f0&gt;Completamento parola&lt;/f0&gt; della finestra di dialogo Correzione automatica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define a range of text values as a fill series.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T084655Z" creationid="Marco Marega" creationdate="20180811T084655Z">
+        <seg>Potete definire una serie di riempimenti partendo da un intervallo di valori testuali.</seg>
       </tuv>
     </tu>
     <tu>
