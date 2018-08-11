@@ -22328,6 +22328,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the &lt;f0&gt;Calc Guide Chapter 2 Entering, Editing and Formatting Data&lt;/f0&gt; for more information on validating cell contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T092906Z" creationid="Marco Marega" creationdate="20180811T092906Z">
+        <seg>Per maggiori informzioni sulla validazione delle celle, vedete il &lt;f0&gt;Capitolo 2 della Guida a Calc (Inserimento, Modifica e formattazione dei dati)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the &lt;f0&gt;Calc Guide Chapter 7 Using Formulas and Functions&lt;/f0&gt; for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T222548Z" creationid="Marco Marega" creationdate="20180707T222548Z">
@@ -33035,6 +33043,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072854Z" creationid="manuel" creationdate="20180627T072854Z">
         <seg>Potete anche impostare o modificare &lt;i0/&gt;le unità di misura per i righelli nel documento corrente facendo clic con il pulsante destro sul righello per aprire un elenco delle unità di misura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also set the cell to refuse invalid content, accept it with a warning, or start a macro when an error is entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T092710Z" creationid="Marco Marega" creationdate="20180811T092710Z">
+        <seg>Potete anche impostare le celle in modo che i contenuti non validi vengano rifiutati, che vengano accettati mostrando un avvertimento, oppure che, in caso di inserimento errato, sia eseguita una macro.</seg>
       </tuv>
     </tu>
     <tu>
