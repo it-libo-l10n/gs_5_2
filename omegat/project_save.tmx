@@ -7322,6 +7322,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Add&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T195349Z" creationid="Marco Marega" creationdate="20180811T195349Z">
+        <seg>Fate clic su &lt;f0&gt;Aggiungi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Apply to All Slides&lt;/f0&gt; to apply the transition for all of your presentation or continue selecting transitions to place between each slide in your presentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090028Z" creationid="luke" creationdate="20180515T090028Z">
@@ -17371,6 +17379,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163326Z" creationid="manuel" creationdate="20180628T163326Z">
         <seg>Nell'elenco &lt;f0&gt;Inserisci riferimento a&lt;/f0&gt;, selezionate il riferimento desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Name&lt;/f0&gt; box of the Add AutoFormat dialog that opens, type a meaningful name for the new format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T195626Z" creationid="Marco Marega" creationdate="20180811T195626Z">
+        <seg>Nella finestra di dialogo Aggiungi formattazione automatica che si apre, digitate nella casella &lt;f0&gt;Nome&lt;/f0&gt; un nome esplicativo per il nuovo formato.</seg>
       </tuv>
     </tu>
     <tu>
