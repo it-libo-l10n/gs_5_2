@@ -25080,6 +25080,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Properties&lt;/f0&gt; deck of the Sidebar has five panels, &lt;f1&gt;Styles&lt;/f1&gt;, &lt;f2&gt;Character&lt;/f2&gt;, &lt;f3&gt;Number Format&lt;/f3&gt;, &lt;f4&gt;Alignment&lt;/f4&gt; and &lt;f5&gt;Cell Appearance&lt;/f5&gt;, which between them contain all the formatting controls from the Formatting toolbar and more.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T164258Z" creationid="Marco Marega" creationdate="20180811T164258Z">
+        <seg>Il pannello delle &lt;f0&gt;Proprietà&lt;/f0&gt; della Barra laterale ha cinque sezioni, &lt;f1&gt;Stili&lt;/f1&gt;, &lt;f2&gt;Carattere&lt;/f2&gt;, &lt;f3&gt;Formato numero&lt;/f3&gt;, &lt;f4&gt;Allineamento&lt;/f4&gt; ed &lt;f5&gt;Aspetto cella&lt;/f5&gt;, che nell'insieme contengono tutti i controlli presenti sulla barra degli strumenti di formattazione ed anche di più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Read-only&lt;/f0&gt; option on the Open dialog opens the file for reading and printing only.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123342Z" creationid="Marco Marega" creationdate="20180623T123342Z">
