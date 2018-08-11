@@ -34943,6 +34943,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editing data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T092916Z" creationid="Marco Marega" creationdate="20180811T092916Z">
+        <seg>modifica dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editing data, Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T092912Z" creationid="Marco Marega" creationdate="20180811T092912Z">
+        <seg>modifica dei dati, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>en-dash and em-dash</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T133850Z" creationid="manuel" creationdate="20180622T133850Z">
