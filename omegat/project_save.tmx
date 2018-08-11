@@ -12303,6 +12303,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fill series and selection lists can handle some types of data, but are limited to predefined information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T092104Z" creationid="Marco Marega" creationdate="20180811T092104Z">
+        <seg>Le serie di riempimento e liste di scelta possono gestire alcuni tipi di dati, ma sono limitati a informazioni predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill tool</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T204052Z" creationid="Marco Marega" creationdate="20180808T204052Z">
@@ -30013,6 +30021,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To validate new data entered by a user, select a cell and go to &lt;f0&gt;Data &gt; Validity&lt;/f0&gt; on the Menu bar to define the type of contents that can be entered in that cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T092243Z" creationid="Marco Marega" creationdate="20180811T092243Z">
+        <seg>Per validare dei nuovi dati inseriti da un utente, selezionate una cella e nella barra dei menu andate in &lt;f0&gt;Dati &gt; Validità&lt;/f0&gt; per definireil tipo di contenuti che possono essere inseriti in quella cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To view information held in a database or data source.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164550Z" creationid="manuel" creationdate="20180628T164550Z">
@@ -33051,6 +33067,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T110130Z" creationid="manuel" creationdate="20180621T110130Z">
         <seg>Per entrare o uscire dalla visualizzazione Schermo intero potete anche utilizzare la combinazione di tasti &lt;f4&gt;Ctrl+Maiusc+J&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also use &lt;i0/&gt;validation in your own work as a guide to entering data that is either complex or rarely used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T092005Z" creationid="Marco Marega" creationdate="20180811T092005Z">
+        <seg>Potete usare la &lt;i0/&gt;validazione anche nel vostro lavoro come guida nell'inserimento di dati complessi o usati di rado.</seg>
       </tuv>
     </tu>
     <tu>
