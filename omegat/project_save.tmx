@@ -9927,6 +9927,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on the cell to select it and place the cursor in the cell for editing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121006Z" creationid="Marco Marega" creationdate="20180811T121006Z">
+        <seg>Fate doppio clic sulla cella per selezionarla e posizionate il cursore per la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click on this field to open the Navigator.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191306Z" creationid="Marco Marega" creationdate="20180620T191306Z">
@@ -10555,6 +10563,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065548Z" creationid="manuel" creationdate="20180618T065548Z">
         <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Either:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121036Z" creationid="Marco Marega" creationdate="20180811T121036Z">
+        <seg>Potete indifferentemente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19448,6 +19464,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the cursor to the Input Line on the Formula Bar (Figure &lt;t0&gt;87&lt;/t0&gt; on page &lt;t1&gt;115&lt;/t1&gt;) and click at the position where you want to start entering the new data in the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121302Z" creationid="Marco Marega" creationdate="20180811T121302Z">
+        <seg>Spostare il cursore nella riga di digitazione della barra della formula (Figura &lt;t0&gt;87&lt;/t0&gt; a pagina &lt;t1&gt;115&lt;/t1&gt;) e fare clic nel punto in cui volete iniziare ad inserire i nuovi dati nella cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the mouse around the screen.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142538Z" creationid="Marco Marega" creationdate="20180714T142538Z">
@@ -21792,6 +21816,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reposition the cursor to where you want to start entering the new data in the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121106Z" creationid="Marco Marega" creationdate="20180811T121106Z">
+        <seg>Riposizionare il cursore nel punto della cella in cui volete iniziare ad inserire i nuovi dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202546Z" creationid="Marco Marega" creationdate="20180808T202546Z">
@@ -23916,6 +23948,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150344Z" creationid="Marco Marega" creationdate="20180714T150344Z">
         <seg>Foglio singolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Single-click to select the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121123Z" creationid="Marco Marega" creationdate="20180811T121123Z">
+        <seg>Fare un clic per selezionare la cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31426,6 +31466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120652Z" creationid="Elisabetta Manuele" creationdate="20180620T181624Z">
         <seg>Usando la tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the mouse</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120918Z" creationid="Marco Marega" creationdate="20180811T120918Z">
+        <seg>Usando il mouse</seg>
       </tuv>
     </tu>
     <tu>
