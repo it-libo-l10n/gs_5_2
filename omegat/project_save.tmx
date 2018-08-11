@@ -4728,6 +4728,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All the settings discussed in this section can also be set as a part of the cell style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121420Z" creationid="Marco Marega" creationdate="20180811T121420Z">
+        <seg>Tutte le impostazioni esaminate in questa sezione possono essere configurate anche come parte di uno stile di cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All these facilities use a registered data source (a spreadsheet or database containing the name and address records and other information).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154349Z" creationid="manuel" creationdate="20180628T154349Z">
@@ -22496,6 +22504,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the &lt;f0&gt;Calc Guide Chapter 4 Using Styles and Templates in Calc&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121514Z" creationid="Marco Marega" creationdate="20180811T121514Z">
+        <seg>Per maggiori informazioni vedete il &lt;f0&gt;Capitolo 4 della Guida a Calc (Usare gli Stili ed i Modelli in Calc)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the &lt;f0&gt;Calc Guide Chapter 7 Using Formulas and Functions&lt;/f0&gt; for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T222548Z" creationid="Marco Marega" creationdate="20180707T222548Z">
@@ -32275,6 +32291,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T064654Z" creationid="manuel" creationdate="20180806T064654Z">
         <seg>Al termine fate clic su &lt;f0&gt;Avanti&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have finished, click away from the cell to deselect it and your editing changes are saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121344Z" creationid="Marco Marega" creationdate="20180811T121344Z">
+        <seg>Quando avete finito, fate clic al di fuori della cella per deselezionarla e le vostre modifiche verranno apportate.</seg>
       </tuv>
     </tu>
     <tu>
