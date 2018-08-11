@@ -18728,6 +18728,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure you deselect the additional sheets when you are finished entering information that is going to be repeated before continuing to enter data into your spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T091624Z" creationid="Marco Marega" creationdate="20180811T091624Z">
+        <seg>Dopo aver finito di inserire i dati da ripetere, prima di continuare ad inserire dati nel foglio elettronico, assicuratevi di aver deselezionato gli altri fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make your &lt;i0/&gt;changes to a copy of the document (stored in a different folder, or under a different name, or both), then use Writer to combine the two files and show the differences.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154536Z" creationid="manuel" creationdate="20180628T154536Z">
@@ -27917,6 +27925,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T103155Z" creationid="manuel" creationdate="20180621T103155Z">
         <seg>Questa scheda è disponibile solo quando &lt;f2&gt;Abilita funzioni sperimentali&lt;/f2&gt; è stato selezionato in &lt;f3&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This technique automatically overwrites, without any warning, any information that is already in the cells on the selected sheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T091415Z" creationid="Marco Marega" creationdate="20180811T091415Z">
+        <seg>Questo metodo sovrascrive automaticamente, senza alcun avviso, ogni dato già presente nelle celle di destinazione sugli altri fogli selezionati.</seg>
       </tuv>
     </tu>
     <tu>
