@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9819,6 +9819,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070544Z" creationid="manuel" creationdate="20180614T070544Z">
         <seg>Trascinate nella finestra Stili e Formattazione la cella selezionata per creare uno stile di cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drag and drop the image into the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T083706Z" creationid="Marco Marega" creationdate="20180811T083706Z">
+        <seg>Drag and drop the image into the document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22610,7 +22618,7 @@
       <tuv lang="EN">
         <seg>Select an object with a single click.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072456Z" creationid="luke" creationdate="20180515T072456Z">
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T083823Z" creationid="Marco Marega" creationdate="20180811T083823Z">
         <seg>Select an object with a single click.</seg>
       </tuv>
     </tu>
