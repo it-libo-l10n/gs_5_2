@@ -9494,6 +9494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on how validation is set up, validation can also define the range of contents that can be entered, provide help messages explaining the content rules set up for the cell and what users should do when they enter invalid content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T092545Z" creationid="Marco Marega" creationdate="20180811T092545Z">
+        <seg>A seconda delle impostazioni di validazione, lo strumento permette anche di definire l'intervallo di contenuti che possono essere inseriti e fornisce messaggi di aiuto che spiegano le regole impostate per i contenuti di quella cella e cosa dovrebbero fare gli utenti se inseriscono dati non validi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the file being used or the type of data being entered, setting a different direction can be useful.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142121Z" creationid="Marco Marega" creationdate="20180714T142121Z">
@@ -12691,6 +12699,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143958Z" creationid="manuel" creationdate="20180611T143958Z">
         <seg>Ad esempio, gli stili dei titoli (o altri stili specificati) consentono a Writer di compilare gli indici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, a cell may require a date or a whole number with no alphabetic characters or decimal points, or a cell may not be left empty.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T092358Z" creationid="Marco Marega" creationdate="20180811T092246Z">
+        <seg>Ad esempio, una cella potrebbe richiedere una data o un numero intero, senza caratteri alfabetici o separatori decimali; oppure potrebbe richiedere l'inserimento obbligatorio di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30023,8 +30039,8 @@
       <tuv lang="EN">
         <seg>To validate new data entered by a user, select a cell and go to &lt;f0&gt;Data &gt; Validity&lt;/f0&gt; on the Menu bar to define the type of contents that can be entered in that cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T092243Z" creationid="Marco Marega" creationdate="20180811T092243Z">
-        <seg>Per validare dei nuovi dati inseriti da un utente, selezionate una cella e nella barra dei menu andate in &lt;f0&gt;Dati &gt; Validità&lt;/f0&gt; per definireil tipo di contenuti che possono essere inseriti in quella cella.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T092250Z" creationid="Marco Marega" creationdate="20180811T092243Z">
+        <seg>Per validare dei nuovi dati inseriti da un utente, selezionate una cella e nella barra dei menu andate in &lt;f0&gt;Dati &gt; Validità&lt;/f0&gt; per definire il tipo di contenuti che possono essere inseriti in quella cella.</seg>
       </tuv>
     </tu>
     <tu>
