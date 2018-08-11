@@ -10999,6 +10999,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;111&lt;/seq0&gt;: Select Sheets dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T090832Z" creationid="Marco Marega" creationdate="20180811T090832Z">
+        <seg>Figura &lt;seq0&gt;111&lt;/seq0&gt;: finestra di dialogo Seleziona fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Set Password dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200249Z" creationid="Marco Marega" creationdate="20180621T200249Z">
@@ -23020,6 +23028,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T163116Z" creationid="manuel" creationdate="20180705T141324Z">
         <seg>Selezionate il gruppo e andate su &lt;f0&gt;Cambia &gt; Modifica gruppo&lt;/f0&gt;, o fate clic con il pulsante destro e selezionate &lt;f1&gt;Modifica gruppo&lt;/f1&gt; dal menu contestuale, o usate la scorciatoia da tastiera &lt;f2&gt;F3&lt;/f2&gt; oppure fate doppio clic sul gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the individual sheets where you want the information to be repeated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T090923Z" creationid="Marco Marega" creationdate="20180811T090923Z">
+        <seg>Selezionate ogni foglio sul quale volete che sia ripetuto il dato da inserire.</seg>
       </tuv>
     </tu>
     <tu>
