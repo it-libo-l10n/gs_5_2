@@ -28073,6 +28073,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This method does not work with the cursor in the input line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T123205Z" creationid="Marco Marega" creationdate="20180811T123205Z">
+        <seg>Questo metodo non funziona quando il cursore si trova nella riga di digitazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This method is quite useful when you need to format many scattered paragraphs, cells, or other items with the same style:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150018Z" creationid="manuel" creationdate="20180612T150018Z">
@@ -32039,6 +32047,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When a manual line break is entered, the cell width does not change and your text may still overlap the end of the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T123500Z" creationid="Marco Marega" creationdate="20180811T123500Z">
+        <seg>Quando inserite un'interruzione di riga manuale, la larghezza della cella non cambia ed il testo potrebbe continuare ancora oltre la fine della cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When a message box appears asking you to confirm the deletion, click &lt;f4&gt;Yes&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T105413Z" creationid="manuel" creationdate="20180616T105413Z">
@@ -32107,6 +32123,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171647Z" creationid="manuel" creationdate="20180706T171647Z">
         <seg>Quando trascinate il cursore del mouse per selezionare più oggetti, il rettangolo di selezione che viene tracciato è anche detto tenda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When editing text, double-click the cell, then reposition the cursor to where you want the line break.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T123353Z" creationid="Marco Marega" creationdate="20180811T123353Z">
+        <seg>In fase di modifica del testo, fate doppio clic sulla cella, quindi posizionate il cursore nel punto della cella nel quale volete inserire l'interruzione di riga.</seg>
       </tuv>
     </tu>
     <tu>
