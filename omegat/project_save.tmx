@@ -7378,6 +7378,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to select the sheets and the sheet tabs will change color.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T091055Z" creationid="Marco Marega" creationdate="20180811T091055Z">
+        <seg>Fate clic &lt;f0&gt;OK&lt;/f0&gt; per selezionare i fogli e le loro linguette cambieranno colore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; when you have finished.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090035Z" creationid="luke" creationdate="20180515T090035Z">
@@ -10547,6 +10555,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141717Z" creationid="Marco Marega" creationdate="20180714T141717Z">
         <seg>Tasto Invio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the information in the cells on the first sheet where you want it to appear and it will be repeated in all the selected sheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T091236Z" creationid="Marco Marega" creationdate="20180811T091236Z">
+        <seg>Inserite i dati nelle celle del primo foglio su cui volete che appaiano e automaticamente saranno ripetuti su tutti i fogli selezionati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30530,6 +30546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T110014Z" creationid="manuel" creationdate="20180629T110014Z">
         <seg>Potete utilizzare la barra degli strumenti &lt;f0&gt;Opzioni&lt;/f0&gt; per attivare o disattivare varie opzioni di aiuto al disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Shift&lt;/f0&gt; and &lt;f1&gt;Ctrl&lt;/f1&gt; (&lt;f2&gt;Options&lt;/f2&gt; on Mac) keys to select multiple sheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T091013Z" creationid="Marco Marega" creationdate="20180811T091013Z">
+        <seg>Per selezionare più fogli usate i tasti &lt;f0&gt;Maiusc&lt;/f0&gt; e &lt;f1&gt;Ctrl&lt;/f1&gt; (&lt;f2&gt;Opzioni&lt;/f2&gt; su Mac).</seg>
       </tuv>
     </tu>
     <tu>
