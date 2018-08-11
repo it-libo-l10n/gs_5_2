@@ -8309,6 +8309,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f1&gt;More Options&lt;/f1&gt; button to open the Format Cells dialog described above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T125522Z" creationid="Marco Marega" creationdate="20180811T125522Z">
+        <seg>Fate clic sul pulsante &lt;f1&gt;Altre opzioni&lt;/f1&gt; in modo da aprire la finestra di dialogo Formato celle, descritta in precedenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f1&gt;Open&lt;/f1&gt; or &lt;f2&gt;Save&lt;/f2&gt; button to proceed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203046Z" creationid="Marco Marega" creationdate="20180622T203046Z">
@@ -13635,6 +13643,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160941Z" creationid="manuel" creationdate="20180616T160941Z">
         <seg>Strutta e riempimento del formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatting a font</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T125541Z" creationid="Marco Marega" creationdate="20180811T125541Z">
+        <seg>Formattazione del carattere</seg>
       </tuv>
     </tu>
     <tu>
@@ -29865,6 +29881,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204122Z" creationid="Marco Marega" creationdate="20180622T204122Z">
         <seg>Per ottenere &lt;bk1/&gt;opportunità aggiuntive, come poter lavorare in &lt;bk2/&gt;cloud o su server remoti e cercare in base alle versioni, passate all'utilizzo delle finestre di dialogo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To quickly select a font and format it for use in a cell:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T125621Z" creationid="Marco Marega" creationdate="20180811T125621Z">
+        <seg>Pe selezionare rapidamente un carattere, formattarlo ed applicarlo ad una cella:</seg>
       </tuv>
     </tu>
     <tu>
