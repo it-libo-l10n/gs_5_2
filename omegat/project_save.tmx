@@ -14303,6 +14303,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format &gt; AutoFormat&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;AutoFormat&lt;/f1&gt; dialog (Figure &lt;t2&gt;117&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T194505Z" creationid="Marco Marega" creationdate="20180811T194505Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Formato &gt; Stili di formattazione automatica&lt;/f0&gt; così da aprire la finestra di dialogo &lt;f1&gt;Formattazione automatica&lt;/f1&gt; (Figura &lt;t2&gt;117&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Insert &gt; Comment&lt;/f0&gt; on the menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T103925Z" creationid="manuel" creationdate="20180705T103925Z">
@@ -23716,6 +23724,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143908Z" creationid="manuel" creationdate="20180626T143908Z">
         <seg>Selezionate il testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the type of format and format color from the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T194653Z" creationid="Marco Marega" creationdate="20180811T194653Z">
+        <seg>Selezionate dall'elenco il tipo ed il colore di formattazione.</seg>
       </tuv>
     </tu>
     <tu>
