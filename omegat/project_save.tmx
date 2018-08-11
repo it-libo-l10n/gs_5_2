@@ -7682,6 +7682,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click in the cell to select it and then press the &lt;f0&gt;Delete&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093354Z" creationid="Marco Marega" creationdate="20180811T093354Z">
+        <seg>Fate clic nella cella per selezionarla, quindi premete il tasto &lt;f0&gt;Canc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in the cell which is to be one corner of the range of cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142603Z" creationid="Marco Marega" creationdate="20180714T142603Z">
@@ -9206,6 +9214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data can be deleted from a cell without deleting any of the cell formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093317Z" creationid="Marco Marega" creationdate="20180811T093317Z">
+        <seg>Potete eliminare i dati da una cella senza rimuovere alcun elemento della sua formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data entered into a Calc spreadsheet or a Writer table must be entered in a format defined by &lt;f0&gt;Locale&lt;/f0&gt; in order to be recognized as dates.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T064037Z" creationid="manuel" creationdate="20180609T064037Z">
@@ -9450,6 +9466,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T103905Z" creationid="manuel" creationdate="20180616T103843Z">
         <seg>Eliminare una &lt;f0&gt;categoria&lt;/f0&gt; di modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093140Z" creationid="Marco Marega" creationdate="20180811T093140Z">
+        <seg>Eliminare dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting data only</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093153Z" creationid="Marco Marega" creationdate="20180811T093153Z">
+        <seg>Eliminare solo i dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -22330,8 +22362,8 @@
       <tuv lang="EN">
         <seg>See the &lt;f0&gt;Calc Guide Chapter 2 Entering, Editing and Formatting Data&lt;/f0&gt; for more information on validating cell contents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T092906Z" creationid="Marco Marega" creationdate="20180811T092906Z">
-        <seg>Per maggiori informzioni sulla validazione delle celle, vedete il &lt;f0&gt;Capitolo 2 della Guida a Calc (Inserimento, Modifica e formattazione dei dati)&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093104Z" creationid="Marco Marega" creationdate="20180811T092906Z">
+        <seg>Per maggiori informazioni sulla validazione delle celle, vedete il &lt;f0&gt;Capitolo 2 della Guida a Calc (Inserimento, Modifica e formattazione dei dati)&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34727,6 +34759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>data editing, Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093124Z" creationid="Marco Marega" creationdate="20180811T093124Z">
+        <seg>modifica dei dati, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>data entry, Calc</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T203719Z" creationid="Marco Marega" creationdate="20180808T203719Z">
@@ -35739,6 +35779,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083924Z" creationid="manuel" creationdate="20180606T083924Z">
         <seg>rimuovi le informazioni personali al salvataggio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>removing data from a cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093121Z" creationid="Marco Marega" creationdate="20180811T093121Z">
+        <seg>eliminare dati da una cella</seg>
       </tuv>
     </tu>
     <tu>
