@@ -13655,6 +13655,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting numbers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124329Z" creationid="Marco Marega" creationdate="20180811T124329Z">
+        <seg>Formattazione dei numeri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting pages</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180251Z" creationid="Elisabetta Manuele" creationdate="20180620T180251Z">
@@ -23808,6 +23816,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several different number formats can be applied to cells by using icons on the Formatting toolbar (highlighted in Figure &lt;t0&gt;115&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124536Z" creationid="Marco Marega" creationdate="20180811T124536Z">
+        <seg>Utilizzando le icone della barra degli strumenti di Formattazione (evidenziata nella Figura &lt;t0&gt;115&lt;/t0&gt;), potete applicare diversi formati numerici alle celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several extensions are installed with the program and you can get others from the official extensions repository, &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T204616Z" creationid="Marco Marega" creationdate="20180531T213426Z">
@@ -27865,6 +27881,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog is also available by clicking the &lt;f4&gt;More Options&lt;/f4&gt; button in the &lt;f5&gt;Character&lt;/f5&gt; title bar of the &lt;f6&gt;Properties&lt;/f6&gt; deck on the opened Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124314Z" creationid="Marco Marega" creationdate="20180811T124114Z">
+        <seg>Questa finestra di dialogo è attivabile anche facendo clic sul pulsante &lt;f4&gt;Altre opzioni&lt;/f4&gt; sulla barra del titolo &lt;f5&gt;Carattere&lt;/f5&gt; nel pannello &lt;f6&gt;Proprietà&lt;/f6&gt; nella Barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog shows the previously-defined series in the &lt;f2&gt;Lists&lt;/f2&gt; box on the left and the contents of the highlighted list in the &lt;f3&gt;Entries&lt;/f3&gt; box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T084249Z" creationid="Marco Marega" creationdate="20180811T084249Z">
@@ -29149,8 +29173,8 @@
       <tuv lang="EN">
         <seg>To do this, select the &lt;f0&gt;Shrink to fit cell size&lt;/f0&gt; option under &lt;f1&gt;Properties&lt;/f1&gt; in the Format Cells dialog (Figure &lt;t2&gt;113&lt;/t2&gt;) on the &lt;f3&gt;Alignment&lt;/f3&gt; page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124040Z" creationid="Marco Marega" creationdate="20180811T124040Z">
-        <seg>Per fare ciò, selezionate l'opzione &lt;f0&gt;Adatta alle dimensioni della cella&lt;/f0&gt; nelle &lt;f1&gt;Proprietà&lt;/f1&gt; presenti nella finestra di dialogo Formatta celle (Figura &lt;t2&gt;113&lt;/t2&gt;) nella scheda &lt;f3&gt;Allineamento&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124122Z" creationid="Marco Marega" creationdate="20180811T124040Z">
+        <seg>Per fare ciò, selezionate l'opzione &lt;f0&gt;Adatta alle dimensioni della cella&lt;/f0&gt; nelle &lt;f1&gt;Proprietà&lt;/f1&gt; presenti nella finestra di dialogo Formato celle (Figura &lt;t2&gt;113&lt;/t2&gt;) nella scheda &lt;f3&gt;Allineamento&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
