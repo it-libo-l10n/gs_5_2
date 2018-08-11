@@ -5272,6 +5272,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apply any of the data types in the &lt;f0&gt;Category&lt;/f0&gt; list to the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124936Z" creationid="Marco Marega" creationdate="20180811T124921Z">
+        <seg>Impostare per i dati una delle tipologie presenti nell'elenco &lt;f0&gt;Categoria&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applying special effects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184613Z" creationid="luke" creationdate="20180514T154641Z">
@@ -8713,6 +8721,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072638Z" creationid="luke" creationdate="20180515T072638Z">
         <seg>Collaboratori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Control the number of decimal places and leading zeros in &lt;f0&gt;Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T125054Z" creationid="Marco Marega" creationdate="20180811T125054Z">
+        <seg>Decidere le &lt;f0&gt;Opzioni&lt;/f0&gt; per il numero di posizioni decimali e di zeri iniziali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13379,6 +13395,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T170206Z" creationid="Marco Marega" creationdate="20180729T170206Z">
         <seg>Per maggiori informazioni sullo zoom, consultate il &lt;f1&gt;Capitolo 1 (Introduzione a LibreOffice)&lt;/f1&gt; di questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more control or to select other number formats, use the &lt;f0&gt;Numbers&lt;/f0&gt; page of the Format Cells dialog (Figure &lt;t1&gt;104&lt;/t1&gt; on page &lt;t2&gt;133&lt;/t2&gt;):</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124924Z" creationid="Marco Marega" creationdate="20180811T124852Z">
+        <seg>Per un maggiore controllo o per selezionare altri formati numerici, potete usare la scheda &lt;f0&gt;Numeri&lt;/f0&gt; della finestra di dialogo Formato celle (&lt;t1&gt;Figura 104&lt;/t1&gt; a pagina &lt;t2&gt;133&lt;/t2&gt;) per:</seg>
       </tuv>
     </tu>
     <tu>
