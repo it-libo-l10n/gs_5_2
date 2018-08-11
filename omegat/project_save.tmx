@@ -13055,6 +13055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if cell C3 has a top border, that border can only be removed by selecting C3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T171150Z" creationid="Marco Marega" creationdate="20180811T171123Z">
+        <seg>Ad esempio, se la cella C3 ha un bordo superiore, potete rimuovere quel bordo solo selezionando la cella C3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if the two-digit year is set to 1930, and you enter a date of 1/1/30 or later into your document, the date is interpreted as 1/1/1930 or later.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070244Z" creationid="manuel" creationdate="20180529T070244Z">
@@ -13731,6 +13739,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184541Z" creationid="Elisabetta Manuele" creationdate="20180620T184541Z">
         <seg>Formattazione del riempimento di un'area</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatting cell background</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T171251Z" creationid="Marco Marega" creationdate="20180811T171251Z">
+        <seg>Formattare lo sfondo della cella</seg>
       </tuv>
     </tu>
     <tu>
@@ -17899,6 +17915,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211038Z" creationid="Marco Marega" creationdate="20180527T211038Z">
         <seg>Base rende possibile creare e modificare formulari, rapporti, query, tabelle, viste e relazioni, in modo da poter gestire un database relazionale esattamente come con i più comuni applicativi per la gestione di database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It cannot be removed in C2 despite also appearing to be the bottom border for cell C2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T171228Z" creationid="Marco Marega" creationdate="20180811T171139Z">
+        <seg>Non potete rimuoverlo dalla cella C2 anche se lo stesso appare come bordo inferiore della cella C2.</seg>
       </tuv>
     </tu>
     <tu>
