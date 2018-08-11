@@ -5705,6 +5705,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic wrapping</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T122021Z" creationid="Marco Marega" creationdate="20180811T122021Z">
+        <seg>Ritorno a capo automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available only in some operating systems and desktop managers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T065951Z" creationid="manuel" creationdate="20180529T065951Z">
@@ -10419,6 +10427,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213438Z" creationid="Marco Marega" creationdate="20180712T213438Z">
         <seg>Ogni linea in un file CSV rappresenta una riga di un foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each method is useful for different situations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T122008Z" creationid="Marco Marega" creationdate="20180811T122008Z">
+        <seg>Ognuno dei due metodi è utile in differenti situazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28550,6 +28566,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162410Z" creationid="manuel" creationdate="20180615T162410Z">
         <seg>Associare un documento con un altro modello:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To automatically wrap multiple lines of text in a cell, use one of the following methods.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T122127Z" creationid="Marco Marega" creationdate="20180811T122127Z">
+        <seg>Per far andare a capo automaticamente il testo all'interno di una cella, usate uno dei metodi seguenti.</seg>
       </tuv>
     </tu>
     <tu>
