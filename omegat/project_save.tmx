@@ -6418,6 +6418,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cell border properties apply only to the selected cells and can be changed only &lt;f0&gt;when&lt;/f0&gt; you are editing those cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T171043Z" creationid="Marco Marega" creationdate="20180811T171043Z">
+        <seg>Le proprietà del bordo si riferiscono solo alle celle selezionate, e potete cambiarle &lt;f0&gt;solo se&lt;/f0&gt; state modificando quelle celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cell navigation</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124156Z" creationid="Marco Marega" creationdate="20180713T124156Z">
