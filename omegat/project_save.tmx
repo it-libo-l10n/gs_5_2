@@ -11183,6 +11183,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;115&lt;/seq0&gt;: Number icons on Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124712Z" creationid="Marco Marega" creationdate="20180811T124712Z">
+        <seg>Figura &lt;seq0&gt;115&lt;/seq0&gt;: Icone dei formati numerici sulla barra degli strumenti di Formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Set Password dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200249Z" creationid="Marco Marega" creationdate="20180621T200249Z">
@@ -23276,6 +23284,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144632Z" creationid="Marco Marega" creationdate="20180714T144632Z">
         <seg>Selezionate la cella che si troverà ad uno degli angoli dell'intervallo di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the cell, then click the relevant icon to change the number format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124628Z" creationid="Marco Marega" creationdate="20180811T124628Z">
+        <seg>Selezionate la cella, quindi, per modificare il formato numerico, fate clic sull'icona appropriata.</seg>
       </tuv>
     </tu>
     <tu>
