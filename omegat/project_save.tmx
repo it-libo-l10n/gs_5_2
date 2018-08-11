@@ -7858,6 +7858,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Alignment&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;tab (Figure &lt;t2&gt;113&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T122336Z" creationid="Marco Marega" creationdate="20180811T122336Z">
+        <seg>Fate clic sulla linguetta della scheda &lt;f0&gt;Allineamento&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt; (Figura &lt;t2&gt;113&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the &lt;f0&gt;Apply to All Slides&lt;/f0&gt; button to apply the same display time to all slides.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090033Z" creationid="luke" creationdate="20180515T090033Z">
@@ -22040,6 +22048,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the cell and select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar, or press &lt;f2&gt;Ctrl+1&lt;/f2&gt;, to open the Format Cells dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T122308Z" creationid="Marco Marega" creationdate="20180811T122308Z">
+        <seg>Fate clic sulla cella con il pulsante destro del mouse e dal menu contestuale selezionate &lt;f0&gt;Formato Celle&lt;/f0&gt;, oppure nella barra del menu andante in &lt;f1&gt;Formato &gt; Celle&lt;/f1&gt;, o ancora premete i tasti &lt;f2&gt;Ctrl+1&lt;/f2&gt;, per aprire la finestra di dialogo Formato celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on the comment to quickly edit or delete it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T082945Z" creationid="manuel" creationdate="20180628T082945Z">
@@ -30561,6 +30577,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104128Z" creationid="manuel" creationdate="20180705T104128Z">
         <seg>Tipicamente potrebbe essere posizionato sopra o vicino ad un oggetto a cui fate riferimento nel commento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under &lt;f0&gt;Properties&lt;/f0&gt;, select Wrap text automatically and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T122406Z" creationid="Marco Marega" creationdate="20180811T122406Z">
+        <seg>Nelle &lt;f0&gt;Proprietà&lt;/f0&gt;, selezionate Ritorno a capo automatico e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
