@@ -7948,6 +7948,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the text entry you require and it is entered into the selected cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085842Z" creationid="Marco Marega" creationdate="20180811T085751Z">
+        <seg>Fate clic sulla voce di testo che desiderate e questa verrà inserita nella cella selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the triangle to the right of the &lt;f0&gt;Basic Shapes&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; to open the &lt;f4&gt;Basic Shapes&lt;/f4&gt; toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104136Z" creationid="manuel" creationdate="20180706T104136Z">
@@ -34063,6 +34071,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You might want to enter the same information in the same cell on multiple sheets, for example to set up standard listings for a group of individuals or organizations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T090108Z" creationid="Marco Marega" creationdate="20180811T090108Z">
+        <seg>Potreste voler inserire gli stessi dati, nella stessa cella di fogli diversi, ad esempio per preparare elenchi standard per un gruppo di soggetti o enti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You must activate this option &lt;f0&gt;before&lt;/f0&gt; you create the LibreOffice Basic macro; otherwise the script will not be inserted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164035Z" creationid="manuel" creationdate="20180608T164035Z">
@@ -35755,6 +35771,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083206Z" creationid="manuel" creationdate="20180528T083206Z">
         <seg>opzioni di installazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sharing content</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085849Z" creationid="Marco Marega" creationdate="20180811T085754Z">
+        <seg>condividere contenuto</seg>
       </tuv>
     </tu>
     <tu>
