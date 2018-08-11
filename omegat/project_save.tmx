@@ -13463,6 +13463,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more control, including the spacing between cell borders and any data in the cell, use the &lt;f0&gt;Borders&lt;/f0&gt; page of the Format Cells dialog (Figure &lt;t1&gt;104&lt;/t1&gt; on page &lt;t2&gt;133&lt;/t2&gt;), where you can also define a shadow style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T165857Z" creationid="Marco Marega" creationdate="20180811T165857Z">
+        <seg>Per ulteriori campi di controllo, tra cui la spaziatura tra il bordo cella ed il testo, usate la scheda &lt;f0&gt;Bordo&lt;/f0&gt; della finestra di dialogo Formato celle. (Figura &lt;t1&gt;104&lt;/t1&gt; a pagina &lt;t2&gt;133&lt;/t2&gt;), nella quale potete definire anche uno stile di ombreggiatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more detail, see the Sidebar explanation in the relevant LibreOffice component’s user guide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222507Z" creationid="Marco Marega" creationdate="20180620T222507Z">
@@ -25068,6 +25076,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101615Z" creationid="manuel" creationdate="20180627T101615Z">
         <seg>In questo modo, se si attuano delle modifiche, le intestazioni e i piè di pagina saranno aggiornati automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Cell Appearance&lt;/f0&gt; panel of the &lt;f1&gt;Properties&lt;/f1&gt; deck in the Sidebar contains &lt;f2&gt;Cell border&lt;/f2&gt;, &lt;f3&gt;Line style&lt;/f3&gt; and &lt;f4&gt;Line color&lt;/f4&gt; controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T165712Z" creationid="Marco Marega" creationdate="20180811T165712Z">
+        <seg>La sezione &lt;f0&gt;Aspetto cella&lt;/f0&gt; del pannello &lt;f1&gt;Proprietà&lt;/f1&gt; della Barra laterale, contiene i controlli &lt;f2&gt;Bordo cella&lt;/f2&gt;, &lt;f3&gt;Stile linea&lt;/f3&gt; e &lt;f4&gt;Colore della linea&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
