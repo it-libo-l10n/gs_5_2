@@ -4784,6 +4784,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, click in the Input Line on the Formula Bar (Figure &lt;t0&gt;87&lt;/t0&gt; on page &lt;t1&gt;115&lt;/t1&gt;), then double-click on the data to highlight it completely and type the new data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094953Z" creationid="Marco Marega" creationdate="20180811T094953Z">
+        <seg>In alternativa, fate clic nella Riga di digitazione della Barra della Formula (Figura &lt;t0&gt;87&lt;/t0&gt; a pagina &lt;t1&gt;115&lt;/t1&gt;), quindi fate doppio clic sui dati per evidenziarli completamente e digitate i nuovi dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, click on the Properties icon on the Sidebar and open the Line sub-section.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T152204Z" creationid="manuel" creationdate="20180704T152204Z">
@@ -26389,6 +26397,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T140910Z" creationid="manuel" creationdate="20180621T140910Z">
         <seg>I nomi dei pulsanti (mostrati nei suggerimenti) cambiano in relazione alla categoria selezionata; per esempio, &lt;f6&gt;Immagine successiva&lt;/f6&gt;, &lt;f7&gt;Segnalibro successivo&lt;/f7&gt;, o &lt;f8&gt;Continua a cercare in avanti&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new data will replace the data already contained in the cell but will retain the original formatting used in the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094815Z" creationid="Marco Marega" creationdate="20180811T094815Z">
+        <seg>I nuovi dati sostituiranno quelli contenuti dalla cella, ma manterranno la formattazione originaria della cella.</seg>
       </tuv>
     </tu>
     <tu>
