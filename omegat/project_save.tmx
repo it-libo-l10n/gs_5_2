@@ -14455,6 +14455,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can delete the different aspects of the data in the cell or to delete everything in the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094055Z" creationid="Marco Marega" creationdate="20180811T094055Z">
+        <seg>Qui potete selezionare i diversi aspetti da cancellare oppure scegliere di eliminare qualsiasi elemento della cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can edit and apply image styles to objects within your drawing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151331Z" creationid="manuel" creationdate="20180630T151331Z">
