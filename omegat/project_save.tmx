@@ -21744,6 +21744,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replacing data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094531Z" creationid="Marco Marega" creationdate="20180811T094505Z">
+        <seg>Sostituzione dei dai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202546Z" creationid="Marco Marega" creationdate="20180808T202546Z">
@@ -28671,6 +28679,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165429Z" creationid="manuel" creationdate="20180615T165429Z">
         <seg>Per compilare un indice automatico, applicate prima gli stili alle intestazioni che desiderate compaiano nell'elenco dell'indice, quindi utilizzate &lt;f0&gt;Strumenti &gt; Numerazione capitolo&lt;/f0&gt; per impostare in Writer l'associazione corretta tra stili e livelli nell'indice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To completely replace data in a cell and insert new data, select the cell and type in the new data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094648Z" creationid="Marco Marega" creationdate="20180811T094509Z">
+        <seg>Per sostituire completamente i dati presenti in una cella inserendone di nuovi, selezionate la celle e digitate i nuovi dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35867,6 +35883,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072847Z" creationid="manuel" creationdate="20180531T072847Z">
         <seg>sostituzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>replacing all data in a cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094453Z" creationid="Marco Marega" creationdate="20180811T094453Z">
+        <seg>sostituire tutti i dati in una cella</seg>
       </tuv>
     </tu>
     <tu>
