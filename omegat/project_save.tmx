@@ -8019,6 +8019,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the small triangle on the right of the Font Size on the Formatting toolbar and select a font size from the drop down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T163512Z" creationid="Marco Marega" creationdate="20180811T163512Z">
+        <seg>Nella barre degli strumenti di formattazione, fate clic sul piccolo triangolo alla destra della casella con la Dimensione del carattere e selezionatene una dall'elenco a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the small triangle to the right of the &lt;f0&gt;Lines and Arrows&lt;/f0&gt; icon on the Drawing toolbar or the &lt;f1&gt;Insert Shapes&lt;/f1&gt; sub-section in Sidebar Properties to open a tool palette containing tools for &lt;i2/&gt;drawing lines and arrows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144203Z" creationid="manuel" creationdate="20180704T165038Z">
@@ -11227,6 +11235,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124712Z" creationid="Marco Marega" creationdate="20180811T124712Z">
         <seg>Figura &lt;seq0&gt;115&lt;/seq0&gt;: Icone dei formati numerici sulla barra degli strumenti di Formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;116&lt;/seq0&gt;: Font Name and Size on Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T163549Z" creationid="Marco Marega" creationdate="20180811T163549Z">
+        <seg>Figura &lt;seq0&gt;116&lt;/seq0&gt;: Nome e Dimensione del carattere sulla barre degli strumenti di formattazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -28839,6 +28855,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T201945Z" creationid="Marco Marega" creationdate="20180808T201945Z">
         <seg>Per modificare le opzioni di correzione automatica, nella barra del Menu andate in &lt;f0&gt;Strumenti &gt; Opzioni di correzione automatica&lt;/f0&gt; in modo da aprire la finestra di dialogo &lt;f1&gt;Correzione automatica&lt;/f1&gt; (Figura &lt;t2&gt;107&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the character format, click on the &lt;f0&gt;Bold&lt;/f0&gt;, &lt;f1&gt;Italic&lt;/f1&gt;, or Underline icons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T163715Z" creationid="Marco Marega" creationdate="20180811T163715Z">
+        <seg>Per modificare lo stile del carattere, fate clic sulle icone &lt;f0&gt;Grassetto&lt;/f0&gt;, &lt;f1&gt;Corsivo&lt;/f1&gt;, o Sottolineato.</seg>
       </tuv>
     </tu>
     <tu>
