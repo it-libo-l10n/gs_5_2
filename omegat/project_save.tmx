@@ -17911,6 +17911,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also let you format different parts of the sheet with the same look and feel very easily.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T194209Z" creationid="Marco Marega" creationdate="20180811T194209Z">
+        <seg>Questa vi permette inoltre di formattare molto facilmente le diverse parti del foglio con lo stesso stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also supports popular services like Google Drive and Microsoft OneNote, as well as commercial and open source servers that implement the OASIS CMIS standard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123929Z" creationid="Marco Marega" creationdate="20180622T123929Z">
@@ -23484,6 +23492,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T212408Z" creationid="Marco Marega" creationdate="20180731T212408Z">
         <seg>Selezionate la cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the cells in at least three columns and rows, including column and row headers, that you want to format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T194414Z" creationid="Marco Marega" creationdate="20180811T194414Z">
+        <seg>Selezionate le celle che volete formattare, devono essere almeno tre colonne e tre righe, comprese quelle di intestazione.</seg>
       </tuv>
     </tu>
     <tu>
