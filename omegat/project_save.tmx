@@ -34679,6 +34679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can use &lt;i0/&gt;&lt;i1/&gt;Calc’s AutoFormat&lt;i2/&gt; feature to format a group of cells quickly and easily.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T194055Z" creationid="Marco Marega" creationdate="20180811T194055Z">
+        <seg>Per formattare un gruppo di celle velocemente e con facilità potere usare la funzione &lt;i0/&gt;&lt;i1/&gt;Formattazione automatica&lt;i2/&gt; di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can use Draw to create drawings for use in any of the LibreOffice components, and you can create your own clip art and then add it to the Gallery.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T202720Z" creationid="Marco Marega" creationdate="20180527T210921Z">
