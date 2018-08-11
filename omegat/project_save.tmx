@@ -22624,6 +22624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a blank cell in a column that contains cells with text entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085327Z" creationid="Marco Marega" creationdate="20180811T085327Z">
+        <seg>Selezionate una cella vuota in una colonna che contiene delle celle con contenuti testuali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a cell in the column or row you want to delete.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124504Z" creationid="Marco Marega" creationdate="20180718T124504Z">
@@ -23308,6 +23316,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091957Z" creationid="manuel" creationdate="20180530T091957Z">
         <seg>Appunti di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection lists are available only for text and are limited to using only text that has already been entered in the same column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085254Z" creationid="Marco Marega" creationdate="20180811T085254Z">
+        <seg>Gli elenchi di selezione sono disponibili solo per il testo, e potete usare solo dei testi già inseriti nella stessa colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30694,6 +30710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using &lt;i0/&gt;selection lists</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085102Z" creationid="Marco Marega" creationdate="20180811T085102Z">
+        <seg>Usare gli &lt;i0/&gt;elenchi di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using &lt;i0/&gt;the Styles and Formatting window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160635Z" creationid="manuel" creationdate="20180611T160635Z">
@@ -35683,6 +35707,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085016Z" creationid="Marco Marega" creationdate="20180811T085016Z">
         <seg>elenchi di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>selection lists, Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085024Z" creationid="Marco Marega" creationdate="20180811T085024Z">
+        <seg>elenchi di selezione, Calc</seg>
       </tuv>
     </tu>
     <tu>
