@@ -7690,6 +7690,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click in the cell to select it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093522Z" creationid="Marco Marega" creationdate="20180811T093522Z">
+        <seg>Fate clic sulla cella per selezionarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in the cell which is to be one corner of the range of cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142603Z" creationid="Marco Marega" creationdate="20180714T142603Z">
@@ -9214,6 +9222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data and cell formatting can be deleted from a cell at the same time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093500Z" creationid="Marco Marega" creationdate="20180811T093500Z">
+        <seg>Potete eliminare contemporaneamente sia i dati che la formattazione di una cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data can be deleted from a cell without deleting any of the cell formatting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093317Z" creationid="Marco Marega" creationdate="20180811T093317Z">
@@ -9474,6 +9490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093140Z" creationid="Marco Marega" creationdate="20180811T093140Z">
         <seg>Eliminare dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting data and formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093423Z" creationid="Marco Marega" creationdate="20180811T093423Z">
+        <seg>Eliminare i dati e la formattazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -21228,6 +21252,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105138Z" creationid="manuel" creationdate="20180704T105138Z">
         <seg>Tenete premuto il pulsante sinistro del mouse e trascinate il cursore  per dare alla linea la forma desiderata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the &lt;f0&gt;Backspace&lt;/f0&gt; key, or right-click in the cell and select &lt;f1&gt;Delete Contents&lt;/f1&gt; from the context menu, or go to &lt;f2&gt;Edit &gt; Delete Contents&lt;/f2&gt;) on the Menu bar to open the &lt;f3&gt;Delete Contents&lt;/f3&gt; dialog (Figure &lt;t4&gt;112&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093856Z" creationid="Marco Marega" creationdate="20180811T093856Z">
+        <seg>Premete la &lt;f0&gt;Barra spaziatrice&lt;/f0&gt;, o fare clic sulla cella con il pulsante destro del mouse e dal menu contestuale selezionate &lt;f1&gt;Cancella contenuto&lt;/f1&gt;, oppure nella barra del menu andate in &lt;f2&gt;Foglio &gt; Pulisci celle&lt;/f2&gt;) per aprire la finestra di dialogo &lt;f3&gt;Elimina contenuti&lt;/f3&gt; (Figura &lt;t4&gt;112&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
