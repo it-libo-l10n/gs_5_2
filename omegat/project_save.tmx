@@ -5617,6 +5617,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AutoFormat</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T192512Z" creationid="Marco Marega" creationdate="20180811T192512Z">
+        <seg>Formattazione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>AutoFormat, Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T193929Z" creationid="Marco Marega" creationdate="20180811T193929Z">
+        <seg>Formattazione automatica, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AutoFormatting of cells</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181808Z" creationid="Elisabetta Manuele" creationdate="20180620T181808Z">
@@ -22800,6 +22816,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the &lt;f8&gt;Calc Guide Chapter 4 Using Styles and Templates in Calc&lt;/f8&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T192453Z" creationid="Marco Marega" creationdate="20180811T192453Z">
+        <seg>Per maggiori informazioni vedete il &lt;f8&gt;Capitolo 4 della Guida a Calc (Usare gli Stili ed i Modelli in Calc)&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the Help for more details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134317Z" creationid="manuel" creationdate="20180622T134317Z">
@@ -25300,6 +25324,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104908Z" creationid="manuel" creationdate="20180615T104908Z">
         <seg>Si apre la finestra &lt;f4&gt;Salva come modello&lt;/f4&gt; (Figura &lt;t5&gt;53&lt;/t5&gt;), che mostra le &lt;f6&gt;categorie esistenti e una casella di testo per inserire un nome per il nuovo modello.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f5&gt;Cell Appearance&lt;/f5&gt; panel of the &lt;f6&gt;Properties&lt;/f6&gt; deck in the Sidebar contains a &lt;f7&gt;Cell background&lt;/f7&gt; control with a color palette.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T192418Z" creationid="Marco Marega" creationdate="20180811T192418Z">
+        <seg>La sezione &lt;f5&gt;Aspetto cella&lt;/f5&gt; del pannello &lt;f6&gt;Proprietà&lt;/f6&gt; della Barra laterale contiene un campo di controllo &lt;f7&gt;Sfondo cella&lt;/f7&gt; con una tavolozza dei colori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31534,6 +31566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using AutoFormat</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T192509Z" creationid="Marco Marega" creationdate="20180811T192509Z">
+        <seg>Uso della Formattazione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using AutoText</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143637Z" creationid="manuel" creationdate="20180626T143605Z">
@@ -35819,6 +35859,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085507Z" creationid="manuel" creationdate="20180627T085507Z">
         <seg>formattare le pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>formatting, Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T192516Z" creationid="Marco Marega" creationdate="20180811T192516Z">
+        <seg>formattazione, Calc</seg>
       </tuv>
     </tu>
     <tu>
