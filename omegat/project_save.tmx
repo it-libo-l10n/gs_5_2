@@ -11175,6 +11175,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;114&lt;/seq0&gt;: Wrap text formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T123054Z" creationid="Marco Marega" creationdate="20180811T123054Z">
+        <seg>Figura &lt;seq0&gt;114&lt;/seq0&gt;: formattazione con Ritorno a capo automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Set Password dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200249Z" creationid="Marco Marega" creationdate="20180621T200249Z">
@@ -18968,6 +18976,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manual line breaks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T123107Z" creationid="Marco Marega" creationdate="20180811T123107Z">
+        <seg>Usando interruzioni di riga manuali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Many documents, such as letters and reports, have a first page that is different from the other pages in the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144001Z" creationid="manuel" creationdate="20180616T144001Z">
@@ -23156,6 +23172,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173016Z" creationid="manuel" creationdate="20180612T150147Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;Modo riempimento&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f0&gt;Wrap text&lt;/f0&gt; option to apply the formatting immediately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T123031Z" creationid="Marco Marega" creationdate="20180811T123031Z">
+        <seg>Selezionate l'opzione &lt;f0&gt;Ritorno a capo automatico&lt;/f0&gt; per applicare immediatamente la formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29408,6 +29432,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144854Z" creationid="manuel" creationdate="20180616T144854Z">
         <seg>Per inserire una pagina orizzontale nel mezzo del vostro documento, inserite un'interruzione di pagina e selezionate uno stile di pagina con l'orientamento orizzontale attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To insert a manual line break while typing in a cell, press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T123143Z" creationid="Marco Marega" creationdate="20180811T123143Z">
+        <seg>Per inserire un'interruzione di riga manuale mentre inserite del testo in una cella, premete &lt;f0&gt;Ctrl+Invio&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
