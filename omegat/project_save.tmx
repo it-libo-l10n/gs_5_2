@@ -23960,6 +23960,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shrinking text to fit the cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T123615Z" creationid="Marco Marega" creationdate="20180811T123615Z">
+        <seg>Restringere il testo per adattarlo alla cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sidebar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071613Z" creationid="manuel" creationdate="20180618T071613Z">
@@ -26093,6 +26101,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144610Z" creationid="manuel" creationdate="20180608T144610Z">
         <seg>La tabella seguente mostra la differenza di sintassi tra riferimento relativo e assoluto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The font size of the data in a cell can automatically adjust to fit inside cell borders.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T123813Z" creationid="Marco Marega" creationdate="20180811T123813Z">
+        <seg>Le dimensioni del carattere dei dati in una cella possono regolarsi automaticamente per adattarsi alla cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34467,6 +34483,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T073607Z" creationid="manuel" creationdate="20180627T073607Z">
         <seg>Avete diverse possibilità riguardo alla sillabazione: fare in modo che Writer la esegua automaticamente (utilizzando i dizionari di sillabazione integrati), inserire separatori condizionali manualmente dove necessario, oppure non eseguirla affatto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have to change the cell width manually or reposition your line break so that your text does not overlap the end of the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T123611Z" creationid="Marco Marega" creationdate="20180811T123611Z">
+        <seg>Dovete modificare manualmente la larghezza della cella, o riposizionare l'interruzione di riga in modo che il testo non si sovrapponga oltre la fine della cella.</seg>
       </tuv>
     </tu>
     <tu>
