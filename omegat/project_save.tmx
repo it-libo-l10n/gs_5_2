@@ -30349,6 +30349,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To specify the language used in the cell, open the &lt;f0&gt;Font&lt;/f0&gt; page on the Format Cells dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T164403Z" creationid="Marco Marega" creationdate="20180811T164403Z">
+        <seg>Per specificare la lingua usata in una cella, aprite la scheda &lt;f0&gt;Carattere&lt;/f0&gt; nella finestra di dialogo Formato celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To start a LibreOffice component directly by using Quickstarter:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T210102Z" creationid="Marco Marega" creationdate="20180614T210102Z">
@@ -33587,6 +33595,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171520Z" creationid="manuel" creationdate="20180706T171520Z">
         <seg>Potete anche selezionare diversi oggetti contemporaneamente trascinando il cursore del mouse intorno agli oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also select the &lt;f1&gt;More Options&lt;/f1&gt; button on either of the Sidebar panels to open the Format Cells dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T164611Z" creationid="Marco Marega" creationdate="20180811T164611Z">
+        <seg>Per aprire la finestra di dialogo Formato celle potete anche selezionare il pulsante &lt;f1&gt;Altre opzioni&lt;/f1&gt; nel pannello della Barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
