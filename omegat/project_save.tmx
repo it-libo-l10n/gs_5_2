@@ -9566,6 +9566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defining a new AutoFormat</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T194945Z" creationid="Marco Marega" creationdate="20180811T194945Z">
+        <seg>Definire di una nuova Formattazione Automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defining a sequence of paragraph styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165000Z" creationid="manuel" creationdate="20180615T165000Z">
@@ -11299,6 +11307,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T163549Z" creationid="Marco Marega" creationdate="20180811T163549Z">
         <seg>Figura &lt;seq0&gt;116&lt;/seq0&gt;: Nome e Dimensione del carattere sulla barre degli strumenti di formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;117&lt;/seq0&gt;: AutoFormat dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T194902Z" creationid="Marco Marega" creationdate="20180811T194902Z">
+        <seg>Figura &lt;seq0&gt;117&lt;/seq0&gt;: finestra di dialogo Formattazione automatica</seg>
       </tuv>
     </tu>
     <tu>
@@ -15555,6 +15571,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081247Z" creationid="manuel" creationdate="20180628T081247Z">
         <seg>Se al documento lavora più di una persona, ad ogni autore viene associato automaticamente un diverso colore di sfondo per i commenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary, click &lt;f0&gt;More&lt;/f0&gt; to open &lt;f1&gt;Formatting&lt;/f1&gt; if Formatting is not visible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T194817Z" creationid="Marco Marega" creationdate="20180811T194817Z">
+        <seg>Se necessario, fate clic su &lt;f0&gt;Altro&lt;/f0&gt; per espandere le opzioni di &lt;f1&gt;Formattazione&lt;/f1&gt; se queste non sono visibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23572,6 +23596,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151928Z" creationid="manuel" creationdate="20180621T151928Z">
         <seg>Selezionate la prima porzione di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the formatting properties to be included in the AutoFormat function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T194848Z" creationid="Marco Marega" creationdate="20180811T194848Z">
+        <seg>Selezionate i parametri di formattazione da utilizzare con la funzione di Formattazione automatica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34171,6 +34203,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T135412Z" creationid="manuel" creationdate="20180626T135412Z">
         <seg>Potete personalizzare la funzione Completamento parola dalla pagina &lt;f0&gt;Completamento parola&lt;/f0&gt; della finestra di dialogo Correzione automatica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define a new AutoFormat so that it becomes available for use in all spreadsheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T195028Z" creationid="Marco Marega" creationdate="20180811T195028Z">
+        <seg>Potete definire un nuovo Stile di formattazione automatica in modo che diventi utilizzabile in tutti i fogli elettronici.</seg>
       </tuv>
     </tu>
     <tu>
