@@ -8509,6 +8509,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking the &lt;f3&gt;More Options&lt;/f3&gt; button on the &lt;f4&gt;Cell Appearance&lt;/f4&gt; title bar, or clicking &lt;f5&gt;More&lt;/f5&gt; in the panel’s line style drop-down list, opens the Format Cells dialog at the &lt;f6&gt;Borders&lt;/f6&gt; page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T170619Z" creationid="Marco Marega" creationdate="20180811T170619Z">
+        <seg>Se fate clic sul pulsante &lt;f3&gt;Altre opzioni&lt;/f3&gt; sulla barra del titolo della sezione &lt;f4&gt;Aspetto cella&lt;/f4&gt;, o su &lt;f5&gt;Più opzioni&lt;/f5&gt; nell'elenco a comparsa degli stili di linea, si aprirà la scheda &lt;f6&gt;Bordi&lt;/f6&gt; della finestra di dialogo Formato celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking the middle mouse button pastes at the mouse pointer position.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055230Z" creationid="manuel" creationdate="20180531T055230Z">
