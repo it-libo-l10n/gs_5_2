@@ -3888,6 +3888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A drop-down list appears listing any cell in the same column that either has at least one text character or whose format is defined as text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085743Z" creationid="Marco Marega" creationdate="20180811T085743Z">
+        <seg>Apparirà una lista a discesa con l'elenco di tutte le celle della stessa colonna che contengono almeno un carattere di testo, o il cui formato è stato definito come testuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A few examples of the drawing functions are: layer management, magnetic grid-point system, dimensions and measurement display, connectors for making organization charts, 3D functions that enable small three-dimensional drawings to be created (with texture and lighting effects), drawing and page-style integration, and Bézier curves.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060646Z" creationid="manuel" creationdate="20180629T060646Z">
@@ -21672,6 +21680,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click and select &lt;f0&gt;Selection Lists&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085422Z" creationid="Marco Marega" creationdate="20180811T085422Z">
+        <seg>Fate clic con il pulsante destro del mouse e dal menu contestuale selezionate &lt;f0&gt;Lista di scelta&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click anywhere in it and choose &lt;f0&gt;Edit Index&lt;/f0&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143327Z" creationid="manuel" creationdate="20180628T143327Z">
@@ -23322,8 +23338,8 @@
       <tuv lang="EN">
         <seg>Selection lists are available only for text and are limited to using only text that has already been entered in the same column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085254Z" creationid="Marco Marega" creationdate="20180811T085254Z">
-        <seg>Gli elenchi di selezione sono disponibili solo per il testo, e potete usare solo dei testi già inseriti nella stessa colonna.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085533Z" creationid="Marco Marega" creationdate="20180811T085254Z">
+        <seg>Le liste di scelta sono disponibili solo per il testo, ed il loro uso è limitato solo ai testi già inseriti nella stessa colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30712,8 +30728,8 @@
       <tuv lang="EN">
         <seg>Using &lt;i0/&gt;selection lists</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085102Z" creationid="Marco Marega" creationdate="20180811T085102Z">
-        <seg>Usare gli &lt;i0/&gt;elenchi di selezione</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085434Z" creationid="Marco Marega" creationdate="20180811T085102Z">
+        <seg>Usare le &lt;i0/&gt;liste di scelta</seg>
       </tuv>
     </tu>
     <tu>
@@ -35705,16 +35721,16 @@
       <tuv lang="EN">
         <seg>selection lists</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085016Z" creationid="Marco Marega" creationdate="20180811T085016Z">
-        <seg>elenchi di selezione</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085441Z" creationid="Marco Marega" creationdate="20180811T085016Z">
+        <seg>liste di scelta</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>selection lists, Calc</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085024Z" creationid="Marco Marega" creationdate="20180811T085024Z">
-        <seg>elenchi di selezione, Calc</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085451Z" creationid="Marco Marega" creationdate="20180811T085024Z">
+        <seg>liste di scelta, Calc</seg>
       </tuv>
     </tu>
     <tu>
