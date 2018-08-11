@@ -7442,6 +7442,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f1&gt;Copy&lt;/f1&gt; to add the range to the sort list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085003Z" creationid="Marco Marega" creationdate="20180811T085003Z">
+        <seg>Fate clic su &lt;f1&gt;Copia&lt;/f1&gt; per aggiungere l'intervallo tra gli elenchi di ordinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T074934Z" creationid="manuel" creationdate="20180806T074934Z">
@@ -14003,6 +14011,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T205447Z" creationid="Marco Marega" creationdate="20180614T205447Z">
         <seg>Nella barra del menu andate in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Memoria&lt;/f0&gt; e selezionate &lt;f1&gt;Carica LibreOffice durante l'avvio del sistema&lt;/f1&gt; (se usate Windows) oppure selezionate &lt;f2&gt;Abilita Quickstart&lt;/f2&gt; (se usate Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Sort Lists&lt;/f0&gt; to open the Sort List dialog (Figure &lt;t1&gt;110&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T084801Z" creationid="Marco Marega" creationdate="20180811T084801Z">
+        <seg>Andate in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Calc &gt; Ordina elenchi&lt;/f0&gt; in modo da aprire la finestra di dialogo Ordina elenchi (Figura &lt;t1&gt;110&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23008,6 +23024,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the range containing the text values that you want to use as a fill series.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T084725Z" creationid="Marco Marega" creationdate="20180811T084725Z">
+        <seg>Selezionate l'intevallo di celle che contengono i valori testuali che volete usare come serie di riempimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the required options chosen from the options available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145651Z" creationid="manuel" creationdate="20180705T145651Z">
@@ -26501,6 +26525,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221041Z" creationid="Marco Marega" creationdate="20180712T221041Z">
         <seg>Anche la lingua selezionata influenza il modo in cui vengono individuati i numeri speciali, in quanto lingue e aree geografiche diverse possono avere convenzioni differenti per il trattamento di questi numeri speciali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected range is in the box &lt;f0&gt;Copy list from&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T084930Z" creationid="Marco Marega" creationdate="20180811T084930Z">
+        <seg>Nella casella &lt;f0&gt;Copia elenco da&lt;/f0&gt; è richiamato l'intervallo selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35643,6 +35675,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T090931Z" creationid="manuel" creationdate="20180530T090931Z">
         <seg>appunti di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>selection lists</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085016Z" creationid="Marco Marega" creationdate="20180811T085016Z">
+        <seg>elenchi di selezione</seg>
       </tuv>
     </tu>
     <tu>
