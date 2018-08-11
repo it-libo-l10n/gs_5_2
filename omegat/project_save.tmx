@@ -13943,6 +13943,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Select Sheets... &lt;/f0&gt;&lt;s1/&gt;on the Menu bar to open the &lt;f2&gt;Select Sheets&lt;/f2&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T090817Z" creationid="Marco Marega" creationdate="20180811T090817Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Foglio &gt; Seleziona fogli... &lt;/f0&gt;&lt;s1/&gt; per aprire la finestra di dialogo &lt;f2&gt;Seleziona fogli&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Delete Cells&lt;/f1&gt; or right-click and select &lt;f2&gt;Delete Columns&lt;/f2&gt; or &lt;f3&gt;Delete Rows&lt;/f3&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T125012Z" creationid="Marco Marega" creationdate="20180718T124956Z">
@@ -17411,6 +17419,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160241Z" creationid="manuel" creationdate="20180615T160241Z">
         <seg>Installare singoli modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead of entering the list on each sheet individually, you can enter the information in several sheets at the same time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T090244Z" creationid="Marco Marega" creationdate="20180811T090244Z">
+        <seg>Invece di inserire l'elenco singolarmente su ogni foglio, potete inserire contemporaneamente le informazioni su diversi i fogli.</seg>
       </tuv>
     </tu>
     <tu>
