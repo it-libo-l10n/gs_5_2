@@ -13759,6 +13759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Format the data type, font, font size, cell borders, cell background, and so on for a group of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T195142Z" creationid="Marco Marega" creationdate="20180811T195142Z">
+        <seg>Formattate il tipo di dati, il carattere, le dimensioni del carattere, i bordi, lo sfondo, e così via per un gruppo di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting a font</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T125541Z" creationid="Marco Marega" creationdate="20180811T125541Z">
@@ -14279,6 +14287,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Edit &gt; Select All&lt;/f0&gt; on the Menu bar to select the whole spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T195226Z" creationid="Marco Marega" creationdate="20180811T195226Z">
+        <seg>Nella barra del me andate in &lt;f0&gt;Modifica &gt; Seleziona tutto&lt;/f0&gt; in modo da selezionare l'intero foglio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;File &gt; Open&lt;/f0&gt; or &lt;f1&gt;File &gt; Open Remote File...&lt;/f1&gt; on the Menu bar the reach the Open dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T124617Z" creationid="Marco Marega" creationdate="20180621T124617Z">
@@ -14323,6 +14339,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T194505Z" creationid="Marco Marega" creationdate="20180811T194505Z">
         <seg>Nella barra del menu andate in &lt;f0&gt;Formato &gt; Stili di formattazione automatica&lt;/f0&gt; così da aprire la finestra di dialogo &lt;f1&gt;Formattazione automatica&lt;/f1&gt; (Figura &lt;t2&gt;117&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format &gt; AutoFormat&lt;/f0&gt; to open the AutoFormat dialog and the &lt;f1&gt;Add&lt;/f1&gt; button is now active.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T195334Z" creationid="Marco Marega" creationdate="20180811T195334Z">
+        <seg>Andate in &lt;f0&gt;Formato &gt; Stili di formattazione automatica&lt;/f0&gt; per aprire la finestra di dialogo Formattazione automatica, il pulsante &lt;f1&gt;Aggiungi&lt;/f1&gt; sarà attivo.</seg>
       </tuv>
     </tu>
     <tu>
