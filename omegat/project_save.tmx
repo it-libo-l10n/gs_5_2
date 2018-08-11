@@ -13975,6 +13975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Sort Lists&lt;/f0&gt; to open the Sort Lists dialog (Figure &lt;t1&gt;110&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T084008Z" creationid="Marco Marega" creationdate="20180811T084008Z">
+        <seg>Andate in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Calc &gt; Ordina elenchi&lt;/f0&gt; in modo da aprire la finestra di dialogo Ordina elenchi (Figura &lt;t1&gt;110&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f0&gt; on the Menu bar to open the options dialog for the grid.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140934Z" creationid="manuel" creationdate="20180707T140934Z">
@@ -27357,6 +27365,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105737Z" creationid="manuel" creationdate="20180707T105737Z">
         <seg>Questa finestra di dialogo è composta da tre schede: &lt;f9&gt;Linea&lt;/f9&gt;, &lt;f10&gt;Stili linee&lt;/f10&gt;, ed &lt;f11&gt;Estremità linee&lt;/f11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog shows the previously-defined series in the &lt;f2&gt;Lists&lt;/f2&gt; box on the left and the contents of the highlighted list in the &lt;f3&gt;Entries&lt;/f3&gt; box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T084249Z" creationid="Marco Marega" creationdate="20180811T084249Z">
+        <seg>Questa finestra di dialogo mostra: nella casella a sinistra gli &lt;f2&gt;Elenchi&lt;/f2&gt; già definiti in precedenza e nella casella &lt;f3&gt;Voci&lt;/f3&gt; il contenuto dell'elenco selezionato.</seg>
       </tuv>
     </tu>
     <tu>
