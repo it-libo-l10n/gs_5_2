@@ -7482,6 +7482,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T195639Z" creationid="Marco Marega" creationdate="20180811T195639Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to select the sheets and the sheet tabs will change color.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T091055Z" creationid="Marco Marega" creationdate="20180811T091055Z">
@@ -26961,6 +26969,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The new AutoFormat is now available in the &lt;f1&gt;Format&lt;/f1&gt; list in the AutoFormat dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T195725Z" creationid="Marco Marega" creationdate="20180811T195725Z">
+        <seg>Il nuovo Stile di formattazione automatica diventa disponibile nell'elenco &lt;f1&gt;Formato&lt;/f1&gt; all'interno della finestra di dialogo Formattazione automatica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new data will replace the data already contained in the cell but will retain the original formatting used in the cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094815Z" creationid="Marco Marega" creationdate="20180811T094815Z">
@@ -37043,6 +37059,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T094056Z" creationid="manuel" creationdate="20180606T094056Z">
         <seg>margini di testo (mostra/nascondi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>themes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T195729Z" creationid="Marco Marega" creationdate="20180811T195729Z">
+        <seg>temi</seg>
       </tuv>
     </tu>
     <tu>
