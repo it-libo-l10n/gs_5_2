@@ -6578,6 +6578,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing language in a cell allows different languages to be used within the same document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T164713Z" creationid="Marco Marega" creationdate="20180811T164713Z">
+        <seg>Mediante la modifica della lingua in una cella potete usare lingue diverse all'interno dello stesso documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing the Language on the Font tab of the Paragraph Styles dialog, will change the language for all paragraphs that use that paragraph style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T150528Z" creationid="manuel" creationdate="20180621T150528Z">
@@ -31114,6 +31122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123217Z" creationid="Marco Marega" creationdate="20180623T123217Z">
         <seg>Usate il campo &lt;f0&gt;Tipo file&lt;/f0&gt; per specificare il tipo di file da aprire o il formato del file da salvare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Font Effects&lt;/f0&gt; tab on the Format Cells dialog to set other font characteristics.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T164843Z" creationid="Marco Marega" creationdate="20180811T164843Z">
+        <seg>Per impostare altre proprietà del carattere usate la scheda &lt;f0&gt;Effetti carattere&lt;/f0&gt; della finestra di dialogo Formato celle.</seg>
       </tuv>
     </tu>
     <tu>
