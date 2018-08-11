@@ -856,8 +856,8 @@
       <tuv lang="EN">
         <seg>2” &lt;s0/&gt;to “Sales rose in Qtr” can be done as follows.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120555Z" creationid="Marco Marega" creationdate="20180811T120555Z">
-        <seg>2” &lt;s0/&gt;in “Incremento delle vendite nel quadrimestre” come segue.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120646Z" creationid="Marco Marega" creationdate="20180811T120555Z">
+        <seg>” &lt;s0/&gt;in “Incremento delle vendite nel quadrimestre” come segue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12865,8 +12865,8 @@
       <tuv lang="EN">
         <seg>For example, changing the phrase “Sales in Qtr.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120436Z" creationid="Marco Marega" creationdate="20180811T120436Z">
-        <seg>Ad esempio, modificare la frase “Vendite nel quadrimestre.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120639Z" creationid="Marco Marega" creationdate="20180811T120436Z">
+        <seg>Ad esempio, potete modificare la frase “Vendite nel quadrimestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21308,6 +21308,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093856Z" creationid="Marco Marega" creationdate="20180811T093856Z">
         <seg>Premete la &lt;f0&gt;Barra spaziatrice&lt;/f0&gt;, o fare clic sulla cella con il pulsante destro del mouse e dal menu contestuale selezionate &lt;f1&gt;Cancella contenuto&lt;/f1&gt;, oppure nella barra del menu andate in &lt;f2&gt;Foglio &gt; Pulisci celle&lt;/f2&gt;) per aprire la finestra di dialogo &lt;f3&gt;Elimina contenuti&lt;/f3&gt; (Figura &lt;t4&gt;112&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the &lt;f0&gt;F2&lt;/f0&gt; key and the cursor is placed at the end of the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120726Z" creationid="Marco Marega" creationdate="20180811T120726Z">
+        <seg>Premete il tasto &lt;f0&gt;F2&lt;/f0&gt; ed il cursore si posizionerà alla fine della cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30814,6 +30822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the keyboard arrow keys to reposition the cursor where you want to start entering the new data in the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120818Z" creationid="Marco Marega" creationdate="20180811T120818Z">
+        <seg>Usate i tasti freccia della tastiera per posizionare il cursore nel punto della cella in cui volete iniziare ad inserire i nuovi dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+N&lt;/f0&gt; to create a new document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123532Z" creationid="Marco Marega" creationdate="20180621T123532Z">
@@ -31408,8 +31424,8 @@
       <tuv lang="EN">
         <seg>Using the keyboard</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T205644Z" creationid="Elisabetta Manuele" creationdate="20180620T181624Z">
-        <seg>Usare la tastiera</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120652Z" creationid="Elisabetta Manuele" creationdate="20180620T181624Z">
+        <seg>Usando la tastiera</seg>
       </tuv>
     </tu>
     <tu>
@@ -32211,6 +32227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T064654Z" creationid="manuel" creationdate="20180806T064654Z">
         <seg>Al termine fate clic su &lt;f0&gt;Avanti&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have finished, press the &lt;f0&gt;Enter&lt;/f0&gt; key and your editing changes are saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120910Z" creationid="Marco Marega" creationdate="20180811T120910Z">
+        <seg>Quando avete finito, premete il tasto &lt;f0&gt;Invio&lt;/f0&gt; e le vostre modifiche verranno apportate.</seg>
       </tuv>
     </tu>
     <tu>
