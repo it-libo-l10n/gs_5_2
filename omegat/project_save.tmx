@@ -31719,6 +31719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When creating spreadsheets for other people to use, validating cell contents ensures that they enter data that is valid and appropriate for the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T091904Z" creationid="Marco Marega" creationdate="20180811T091904Z">
+        <seg>Quanto create dei fogli elettronici che verranno usati da altre persone, la validazione dei dati inseriti nelle celle vi garantisce che questi siano validi e del tipo appropriato per quella cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When dragging the mouse cursor to select multiple objects, the selection rectangle being drawn is also known as a marquee.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171647Z" creationid="manuel" creationdate="20180706T171647Z">
@@ -34679,6 +34687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>data validity</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T091720Z" creationid="Marco Marega" creationdate="20180811T091720Z">
+        <seg>validità dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>databasa</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134338Z" creationid="manuel" creationdate="20180721T134338Z">
@@ -36139,6 +36155,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142827Z" creationid="manuel" creationdate="20180608T142827Z">
         <seg>impostazioni personalizzate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>validating cell contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T091647Z" creationid="Marco Marega" creationdate="20180811T091647Z">
+        <seg>Validare il contenuto di una cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>validating cell contents, Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T091643Z" creationid="Marco Marega" creationdate="20180811T091643Z">
+        <seg>validare il contenuto di una cella, Calc</seg>
       </tuv>
     </tu>
     <tu>
