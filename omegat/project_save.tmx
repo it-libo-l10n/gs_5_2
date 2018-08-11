@@ -19848,6 +19848,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multiple lines of text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121548Z" creationid="Marco Marega" creationdate="20180811T121548Z">
+        <seg>Testo su più righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple lines of text can be entered into a single cell using automatic wrapping or manual line breaks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121920Z" creationid="Marco Marega" creationdate="20180811T121920Z">
+        <seg>All'interno di una cella potete inserire del testo disposto su più righe usando il ritorno a capo automatico o inserendo manualmente delle interruzioni di riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiple non-contiguous sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150635Z" creationid="Marco Marega" creationdate="20180714T150635Z">
