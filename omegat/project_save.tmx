@@ -1775,6 +1775,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Chang&lt;/f0&gt;ing data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120153Z" creationid="Marco Marega" creationdate="20180811T120153Z">
+        <seg>&lt;f0&gt;Modificare&lt;/f0&gt; i dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Character Set&lt;/f0&gt; – specifies the character set to be used in the imported file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214857Z" creationid="Marco Marega" creationdate="20180712T214857Z">
@@ -24132,6 +24140,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084107Z" creationid="manuel" creationdate="20180530T084107Z">
         <seg>La modifica di questo valore può dare risultati imprevisti, a seconda dei caratteri disponibili per lo schermo nel vostro sistema operativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes it is necessary to edit the contents of cell without removing all of the data from the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120313Z" creationid="Marco Marega" creationdate="20180811T120313Z">
+        <seg>Alle volte è necessario modificare solo in parte il contenuto di una cella, senza rimuovere tutti i dati presenti al suo interno.</seg>
       </tuv>
     </tu>
     <tu>
