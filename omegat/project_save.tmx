@@ -3087,6 +3087,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Type&lt;/f0&gt; a password and then confirm the password.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124333Z" creationid="Marco Marega" creationdate="20180812T124333Z">
+        <seg>&lt;f0&gt;Digitate&lt;/f0&gt; una password e confermatela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;US English&lt;/f0&gt; – numbers formatted in US English are searched for and included regardless of the system language.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221854Z" creationid="Marco Marega" creationdate="20180712T221854Z">
@@ -11391,6 +11399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;119&lt;/seq0&gt;: Protect Sheet dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124232Z" creationid="Marco Marega" creationdate="20180812T124232Z">
+        <seg>Figura &lt;seq0&gt;119&lt;/seq0&gt;: finestra di dialogo Proteggi foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Set Password dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200249Z" creationid="Marco Marega" creationdate="20180621T200249Z">
@@ -14611,6 +14627,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122743Z" creationid="Marco Marega" creationdate="20180622T122743Z">
         <seg>Nella barra del Menu andate in &lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Protect Sheet&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124133Z" creationid="Marco Marega" creationdate="20180812T124133Z">
+        <seg>Andate in &lt;f0&gt;Strumenti &gt; Proteggi foglio&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23376,6 +23400,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Protect this sheet and the contents of protected cells&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124301Z" creationid="Marco Marega" creationdate="20180812T124301Z">
+        <seg>Selezionate &lt;f0&gt;Proteggi questo foglio e il contenuto delle celle protette&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Same orientation&lt;/f0&gt; to apply a smooth transition between the two objects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145944Z" creationid="manuel" creationdate="20180705T145944Z">
@@ -23580,6 +23612,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104411Z" creationid="manuel" creationdate="20180606T104411Z">
         <seg>Selezionate o deselezionate le opzioni secondo necessità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select or deselect the user selection options for cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124402Z" creationid="Marco Marega" creationdate="20180812T124402Z">
+        <seg>Selezionate o deselezionate le opzioni di selezione delle celle da parte dell'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25941,6 +25981,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090040Z" creationid="luke" creationdate="20180515T090040Z">
         <seg>The Presenter Console (Figure &lt;t0&gt;158&lt;/t0&gt;) provides extra control over slide shows by using different views on your computer display and on the display &lt;t1/&gt;that the audience sees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Protect Sheet dialog will open (Figure &lt;t1&gt;119&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124159Z" creationid="Marco Marega" creationdate="20180812T124159Z">
+        <seg>Si aprirà la finestra di dialogo Proteggi foglio (Figura &lt;t1&gt;119&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
