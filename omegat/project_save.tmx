@@ -4882,8 +4882,8 @@
       <tuv lang="EN">
         <seg>Alternatively, right-click on the row header or column header and select &lt;f0&gt;Hide &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Rows&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Hide Columns&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;from the context menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124029Z" creationid="Marco Marega" creationdate="20180812T124029Z">
-        <seg>In alternativa, fare clic con il pulsante destro del mouse sull'intestazione della riga o della colonna e nel menu contestuale selezionate &lt;f0&gt;Nascondi &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Righe&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;o &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Nascondi colonne&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T125350Z" creationid="Marco Marega" creationdate="20180812T124029Z">
+        <seg>In alternativa, fate clic con il pulsante destro del mouse sull'intestazione della riga o della colonna e nel menu contestuale selezionate &lt;f0&gt;Nascondi &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Righe&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;o &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Nascondi colonne&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8284,6 +8284,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Cell Protection&lt;/f0&gt; tab (Figure &lt;t1&gt;120&lt;/t1&gt;) and deselect the hide options for the cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T125548Z" creationid="Marco Marega" creationdate="20180812T125534Z">
+        <seg>Fate clic sulla linguetta della scheda &lt;f0&gt;Protezione celle&lt;/f0&gt; (Figura &lt;t1&gt;120&lt;/t1&gt;) e deselezionate le opzioni che nascondono le celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Cell Protection&lt;/f0&gt; tab (Figure &lt;t1&gt;120&lt;/t1&gt;) and select an option to hide the cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124744Z" creationid="Marco Marega" creationdate="20180812T124744Z">
@@ -10931,6 +10939,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180906Z" creationid="Marco Marega" creationdate="20180804T180906Z">
         <seg>Inserite il numero, quindi, per ottenere la formattazione del dato, spostate altrove il focus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the password to unprotect the sheet and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T125448Z" creationid="Marco Marega" creationdate="20180812T125448Z">
+        <seg>Inserite la password per sbloccare il foglio e fate clic su &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30933,6 +30949,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To show hidden data in cells:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T125414Z" creationid="Marco Marega" creationdate="20180812T125414Z">
+        <seg>Per mostrare i dati nascosti in una cella:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To show hidden sheets, rows, and columns:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124900Z" creationid="Marco Marega" creationdate="20180812T124900Z">
@@ -37355,6 +37379,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T134836Z" creationid="manuel" creationdate="20180707T134836Z">
         <seg>cattura alla griglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sorting records</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T125558Z" creationid="Marco Marega" creationdate="20180812T125558Z">
+        <seg>ordinare i record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sorting records, Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T125554Z" creationid="Marco Marega" creationdate="20180812T125554Z">
+        <seg>ordinare i record, calc</seg>
       </tuv>
     </tu>
     <tu>
