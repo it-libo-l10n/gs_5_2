@@ -5408,6 +5408,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As soon as you select a theme, the theme styles are applied to the spreadsheet and are immediately visible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121314Z" creationid="Marco Marega" creationdate="20180812T121314Z">
+        <seg>Appena viene selezionato un tema, i suoi stili vengono applicati al foglio elettronico e sono subito visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As this is an experimental feature, it may not work reliably.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T074132Z" creationid="manuel" creationdate="20180616T074132Z">
@@ -8246,8 +8254,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Choose Themes&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; in the &lt;f3&gt;Tools&lt;/f3&gt; toolbar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T120842Z" creationid="Marco Marega" creationdate="20180812T120842Z">
-        <seg>Fate clic sull'icona &lt;f0&gt;Selezione tema&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; nella barra &lt;f3&gt;Strumenti&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121140Z" creationid="Marco Marega" creationdate="20180812T120842Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Tema del foglio elettronico&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; nella barra &lt;f3&gt;Strumenti&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16743,6 +16751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish, you can now open the Styles and Formatting window to modify specific styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121358Z" creationid="Marco Marega" creationdate="20180812T121358Z">
+        <seg>Se volete, potete aprire la finestra Stili e formattazione per modificare degli stili specifici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your document has a table of contents, and if you have used custom styles for headings, the heading levels associated with outline levels in &lt;f0&gt;Tools &gt; Outline Numbering&lt;/f0&gt; will revert to the defaults of Heading 1, Heading 2, and so on when you load Text Styles from a file that does not use the same custom styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084731Z" creationid="manuel" creationdate="20180614T084731Z">
@@ -23848,6 +23864,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the theme that you want to apply.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121216Z" creationid="Marco Marega" creationdate="20180812T121216Z">
+        <seg>Selezionate il tema che volete applicare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the type of format and format color from the list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T194653Z" creationid="Marco Marega" creationdate="20180811T194653Z">
@@ -28285,6 +28309,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124314Z" creationid="Marco Marega" creationdate="20180811T124114Z">
         <seg>Questa finestra di dialogo è attivabile anche facendo clic sul pulsante &lt;f4&gt;Altre opzioni&lt;/f4&gt; sulla barra del titolo &lt;f5&gt;Carattere&lt;/f5&gt; nel pannello &lt;f6&gt;Proprietà&lt;/f6&gt; nella Barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog lists the available themes for the whole spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121157Z" creationid="Marco Marega" creationdate="20180812T121157Z">
+        <seg>Questa finestra elenca i temi disponibili per l'intero foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
