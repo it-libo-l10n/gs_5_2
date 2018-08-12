@@ -8757,6 +8757,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conditional formatting depends upon the use of styles and the AutoCalculate feature must be enabled.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121933Z" creationid="Marco Marega" creationdate="20180812T121933Z">
+        <seg>La Formattazione condizionale si basa sull'uso degli stili, e la funzionalità di Calcolo automatico deve essere abilitata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Configuring the grid</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140702Z" creationid="manuel" creationdate="20180707T140702Z">
@@ -13195,6 +13203,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124642Z" creationid="Marco Marega" creationdate="20180623T124642Z">
         <seg>Per esempio, in Writer il Navigatore visualizza Intestazioni, Tabelle, Cornici di testo, Commenti, Immagini, Segnalibri, e altri oggetti, come mostrato nella Figura &lt;t0&gt;14&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, in a table of numbers, you can show all the values above the average in green and all those below the average in red.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121816Z" creationid="Marco Marega" creationdate="20180812T121816Z">
+        <seg>Ad esempio, in una tabella contenente dei numeri, potete mostrare tutti i valori al di sopra di un valore medio in verde e quelli al di sotto in rosso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31758,6 +31774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using &lt;i0/&gt;conditional formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121647Z" creationid="Marco Marega" creationdate="20180812T121647Z">
+        <seg>Uso della &lt;i0/&gt;formattazione condizionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using &lt;i0/&gt;selection lists</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085434Z" creationid="Marco Marega" creationdate="20180811T085102Z">
@@ -34851,6 +34875,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
         <seg>You can set the presentation &lt;i0/&gt;to advance automatically to the next slide after a set amount of time from the Slide Transition section in the Sidebar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can set up cell formats to change depending on conditions that you specify.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121744Z" creationid="Marco Marega" creationdate="20180812T121744Z">
+        <seg>Potete impostare il formato delle celle in modo che questo cambi a seconda delle condizioni che specificate.</seg>
       </tuv>
     </tu>
     <tu>
