@@ -3055,6 +3055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To hide &lt;/f0&gt;&lt;f1&gt;rows&lt;/f1&gt; &lt;f2&gt;or&lt;/f2&gt; &lt;f3&gt;columns&lt;/f3&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123658Z" creationid="Marco Marega" creationdate="20180812T123658Z">
+        <seg>&lt;f0&gt;Nascondere &lt;/f0&gt;&lt;f1&gt;righe&lt;/f1&gt; &lt;f2&gt;o&lt;/f2&gt; &lt;f3&gt;colonne&lt;/f3&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; menu selection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173349Z" creationid="Elisabetta Manuele" creationdate="20180627T173349Z">
@@ -14431,6 +14439,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Row&lt;/f1&gt; or &lt;f2&gt;Column&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123750Z" creationid="Marco Marega" creationdate="20180812T123750Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Formato&lt;/f0&gt; e selezionate &lt;f1&gt;Riga&lt;/f1&gt; o &lt;f2&gt;Colonna&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Insert &gt; Comment&lt;/f0&gt; on the menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T103925Z" creationid="manuel" creationdate="20180705T103925Z">
@@ -23280,6 +23296,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Hide&lt;/f0&gt; from the &lt;f1&gt;sub&lt;/f1&gt;menu and the row or column can no longer viewed or printed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123850Z" creationid="Marco Marega" creationdate="20180812T123850Z">
+        <seg>Selezionate &lt;f0&gt;Nascondi&lt;/f0&gt; dal &lt;f1&gt;sottomenu&lt;/f1&gt;e la riga o la colonna non saranno più visibili o stampabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Increments&lt;/f0&gt; to determine the number of shapes between the two objects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145932Z" creationid="manuel" creationdate="20180705T145932Z">
@@ -23876,6 +23900,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T091446Z" creationid="manuel" creationdate="20180614T091446Z">
         <seg>Selezionate il modello richiesto &lt;f0&gt;e fate clic su&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, o fate doppio clic sul modello selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the row or column you want to hide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123716Z" creationid="Marco Marega" creationdate="20180812T123716Z">
+        <seg>Selezionate la riga o la colonna che volete nascondere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35123,6 +35155,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T110950Z" creationid="manuel" creationdate="20180616T110950Z">
         <seg>Non potete eliminare i modelli forniti con LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot hide all the sheets in a spreadsheet; at least one sheet must remain visible.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123629Z" creationid="Marco Marega" creationdate="20180812T123629Z">
+        <seg>Non potete nascondere tutti i fogli di un foglio elettronico; almeno uno deve rimanere visibile.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
