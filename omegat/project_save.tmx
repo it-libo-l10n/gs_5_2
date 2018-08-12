@@ -11431,6 +11431,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;120&lt;/seq0&gt;: Cell Protection page in Format Cells dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124825Z" creationid="Marco Marega" creationdate="20180812T124825Z">
+        <seg>Figura &lt;seq0&gt;120&lt;/seq0&gt;: la scheda Protezione celle della finestra di dialogo Formato celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Remote server configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125254Z" creationid="Marco Marega" creationdate="20180622T125254Z">
@@ -14491,6 +14499,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123750Z" creationid="Marco Marega" creationdate="20180812T123750Z">
         <seg>Nella barra del menu andate in &lt;f0&gt;Formato&lt;/f0&gt; e selezionate &lt;f1&gt;Riga&lt;/f1&gt; o &lt;f2&gt;Colonna&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Sheet&lt;/f1&gt;, &lt;f2&gt;Row&lt;/f2&gt; or &lt;f3&gt;Column&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T125040Z" creationid="Marco Marega" creationdate="20180812T125040Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Formato&lt;/f0&gt; e selezionate &lt;f1&gt;Foglio&lt;/f1&gt;, &lt;f2&gt;Riga&lt;/f2&gt; o &lt;f3&gt;Colonna&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23992,6 +24008,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the sheets, rows or columns each side of the hidden sheet, row or column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124955Z" creationid="Marco Marega" creationdate="20180812T124955Z">
+        <seg>Selezionate i fogli, le righe o le colonne su entrambi i lati di quelli nascosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the slide you want to hide in the Slide Pane or Slide Sorter view on the Workspace area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085951Z" creationid="luke" creationdate="20180515T085951Z">
@@ -24468,6 +24492,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T135438Z" creationid="manuel" creationdate="20180626T135438Z">
         <seg>Mostrare la parola suggerita in una piccola casella di testo (che appare sopra la parola), invece di completare il testo che si sta digitando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Showing data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124838Z" creationid="Marco Marega" creationdate="20180812T124838Z">
+        <seg>Visualizzare i dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -30881,6 +30913,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122653Z" creationid="Marco Marega" creationdate="20180622T122653Z">
         <seg>Per impostare il salvataggio automatico dei file:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To show hidden sheets, rows, and columns:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124900Z" creationid="Marco Marega" creationdate="20180812T124900Z">
+        <seg>Per visualizzare fogli, righe o colonne nascosti:</seg>
       </tuv>
     </tu>
     <tu>
