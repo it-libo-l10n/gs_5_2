@@ -2639,6 +2639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;On the sheet, s&lt;/f0&gt;elect the cells you want to hide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124439Z" creationid="Marco Marega" creationdate="20180812T124439Z">
+        <seg>&lt;f0&gt;Nel foglio, &lt;/f0&gt;selezionate le celle che volete nascondere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Open source.&lt;/f0&gt; You can distribute, copy, and modify the software as much as you wish, in accordance with the LibreOffice Open Source licenses.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203514Z" creationid="Marco Marega" creationdate="20180527T212159Z">
@@ -8264,6 +8272,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144755Z" creationid="manuel" creationdate="20180626T144755Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;Testo automatico&lt;/f0&gt; &lt;f1&gt;in basso nella finestra di dialogo&lt;/f1&gt; e selezionate dal menu &lt;f2&gt;Nuovo&lt;/f2&gt; (per far sì che il Testo automatico mantenga una specifica formattazione, indipendentemente dal punto in cui è inserito) oppure &lt;f3&gt;Nuovo (solo testo)&lt;/f3&gt; (per far sì che il Testo automatico assuma la formattazione presente intorno al punto di inserimento&lt;f4&gt;)&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Cell Protection&lt;/f0&gt; tab (Figure &lt;t1&gt;120&lt;/t1&gt;) and select an option to hide the cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124744Z" creationid="Marco Marega" creationdate="20180812T124744Z">
+        <seg>Fate clic sulla linguetta della scheda &lt;f0&gt;Protezione celle&lt;/f0&gt; (Figura &lt;t1&gt;120&lt;/t1&gt;) e selezionate un'opzione per nascondere le celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14459,6 +14475,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T195334Z" creationid="Marco Marega" creationdate="20180811T195334Z">
         <seg>Andate in &lt;f0&gt;Formato &gt; Stili di formattazione automatica&lt;/f0&gt; per aprire la finestra di dialogo Formattazione automatica, il pulsante &lt;f1&gt;Aggiungi&lt;/f1&gt; sarà attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format &gt; Cells&lt;/f0&gt; on the Menu bar, or right-click and select &lt;f1&gt;Format Cells&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Ctrl+1&lt;/f2&gt; to open the &lt;f3&gt;Format Cells&lt;/f3&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124634Z" creationid="Marco Marega" creationdate="20180812T124634Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Formato &gt; Celle&lt;/f0&gt;, o fate clic con il pulsante destro del mouse e dal menu contestuale selezionate &lt;f1&gt;Formatta Celle&lt;/f1&gt;, oppure usate i tasti di scelta rapida &lt;f2&gt;Ctrl+1&lt;/f2&gt; in modo da aprire la finestra di dialogo &lt;f3&gt;Formato celle&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
