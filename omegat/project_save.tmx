@@ -4888,6 +4888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, right-click on the sheet tabs, row headers or column headers and select &lt;f0&gt;Show&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T125343Z" creationid="Marco Marega" creationdate="20180812T125343Z">
+        <seg>In alternativa, fate clic con il pulsante destro del mouse sulla linguetta del foglio, o sull'intestazione delle righe o colonne e dal menu contestuale selezionate &lt;f0&gt;Mostra&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, right-click the object, select &lt;f3&gt;Arrange&lt;/f3&gt; from the context menu, then &lt;f4&gt;Bring Forward&lt;/f4&gt; or &lt;f5&gt;Send Backward&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T175132Z" creationid="manuel" creationdate="20180706T175132Z">
@@ -23370,8 +23378,8 @@
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Hide&lt;/f0&gt; from the &lt;f1&gt;sub&lt;/f1&gt;menu and the row or column can no longer viewed or printed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123850Z" creationid="Marco Marega" creationdate="20180812T123850Z">
-        <seg>Selezionate &lt;f0&gt;Nascondi&lt;/f0&gt; dal &lt;f1&gt;sottomenu&lt;/f1&gt;e la riga o la colonna non saranno più visibili o stampabili.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T125220Z" creationid="Marco Marega" creationdate="20180812T123850Z">
+        <seg>Selezionate &lt;f0&gt;Nascondi&lt;/f0&gt; dal &lt;f1&gt;sottomenu&lt;/f1&gt; e la riga o la colonna non saranno più visibili o stampabili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23460,6 +23468,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T122826Z" creationid="Marco Marega" creationdate="20180622T122826Z">
         <seg>Selezionate &lt;f0&gt;Salva impostazioni di ripristino automatico ogni&lt;/f0&gt; e impostate l'intervallo di tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Show&lt;/f0&gt; from the menu and the sheet, row or column will be displayed and can be printed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T125208Z" creationid="Marco Marega" creationdate="20180812T125208Z">
+        <seg>Selezionate &lt;f0&gt;Mostra&lt;/f0&gt; dal sottomenu e il foglio, la riga o la colonna diventeranno visibili o stampabili.</seg>
       </tuv>
     </tu>
     <tu>
