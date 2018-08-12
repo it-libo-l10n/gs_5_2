@@ -4864,6 +4864,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, right-click on the row header or column header and select &lt;f0&gt;Hide &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Rows&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Hide Columns&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124029Z" creationid="Marco Marega" creationdate="20180812T124029Z">
+        <seg>In alternativa, fare clic con il pulsante destro del mouse sull'intestazione della riga o della colonna e nel menu contestuale selezionate &lt;f0&gt;Nascondi &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Righe&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;o &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Nascondi colonne&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, right-click the object, select &lt;f3&gt;Arrange&lt;/f3&gt; from the context menu, then &lt;f4&gt;Bring Forward&lt;/f4&gt; or &lt;f5&gt;Send Backward&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T175132Z" creationid="manuel" creationdate="20180706T175132Z">
@@ -30032,6 +30040,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123552Z" creationid="Marco Marega" creationdate="20180812T123552Z">
         <seg>Per nascondere i &lt;f0&gt;fogli&lt;/f0&gt;, &lt;f1&gt;selezionateli, quindi, nella barra del menu, &lt;/f1&gt; &lt;f2&gt;andate in &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Foglio &gt; Nascondi foglio&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, oppure fare clic con il pulsante destro del mouse e nel menu contestuale scegliete &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Nascondi foglio&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To hide and protect &lt;f0&gt;data&lt;/f0&gt; in selected cells:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124107Z" creationid="Marco Marega" creationdate="20180812T124107Z">
+        <seg>Per nascondere e proteggere i &lt;f0&gt;dati&lt;/f0&gt; in determinate celle:</seg>
       </tuv>
     </tu>
     <tu>
