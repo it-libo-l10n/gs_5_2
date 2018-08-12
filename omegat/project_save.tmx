@@ -13159,6 +13159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if column B is hidden, it is copied when you select columns A and C.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T122718Z" creationid="Marco Marega" creationdate="20180812T122718Z">
+        <seg>Ad esempio, se la colonna B è nascosta, viene copiata selezionando le colonne A e C. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if the two-digit year is set to 1930, and you enter a date of 1/1/30 or later into your document, the date is interpreted as 1/1/1930 or later.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070244Z" creationid="manuel" creationdate="20180529T070244Z">
@@ -13651,6 +13659,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T094846Z" creationid="manuel" creationdate="20180622T094846Z">
         <seg>Per maggiori informazioni sulle barre mobili e agganciate, vedere il Capitolo 1 (Introduzione a LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on how to hide and show data, including how to use outline groups and filtering, see the &lt;f0&gt;Calc Guide Chapter 2 Entering, Editing, and Formatting Data&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T122903Z" creationid="Marco Marega" creationdate="20180812T122903Z">
+        <seg>Per maggiori informazioni su come nascondere e mostrare i dati, compreso come usare raggruppamenti e filtri, vedete il &lt;f0&gt;Capitolo 2 della Guida a Calc (Inserimento, Modifica e formattazione dei dati)&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
