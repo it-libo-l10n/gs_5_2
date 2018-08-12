@@ -32775,6 +32775,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When data in cells are hidden, the blank cells remain visible in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123321Z" creationid="Marco Marega" creationdate="20180812T123321Z">
+        <seg>Quando i dati all'interno delle celle sono nascosti, le celle vuote rimangono visibili nel foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When dragging the mouse cursor to select multiple objects, the selection rectangle being drawn is also known as a marquee.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171647Z" creationid="manuel" creationdate="20180706T171647Z">
