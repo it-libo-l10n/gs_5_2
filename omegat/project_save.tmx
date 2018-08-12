@@ -6330,6 +6330,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc comes with a predefined set of formatting themes that you can apply to spreadsheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T120525Z" creationid="Marco Marega" creationdate="20180812T120525Z">
+        <seg>Calc è dotato di un insieme di temi di formattazione predefiniti che potete applicare ai fogli elettronici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc generates 2D and 3D charts, which can be integrated into other LibreOffice documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201942Z" creationid="Marco Marega" creationdate="20180527T200640Z">
@@ -15263,6 +15271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you can modify their styles after you apply them to a spreadsheet, and the modified styles become available for use in that spreadsheet after you have saved it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T120736Z" creationid="Marco Marega" creationdate="20180812T120736Z">
+        <seg>Potete comunque modificarne gli stili dopo averli applicati ad un foglio elettronico e gli stili modificati diventano disponibili per essere usati in quel foglio elettroni, dopo che lo avrete salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you cannot copy or paste files within the dialogs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203523Z" creationid="Marco Marega" creationdate="20180622T203523Z">
@@ -18171,6 +18187,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105152Z" creationid="manuel" creationdate="20180704T105152Z">
         <seg>Per terminare di tracciare la linea non è necessario fare doppio clic, è sufficiente rilasciare il pulsante del mouse e il disegno è completato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is not possible to add themes to Calc and they cannot be modified.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T120554Z" creationid="Marco Marega" creationdate="20180812T120554Z">
+        <seg>Non è possibile aggiungere dei temi a Calc, e non è possibile modificarli.</seg>
       </tuv>
     </tu>
     <tu>
