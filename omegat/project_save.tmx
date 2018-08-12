@@ -14951,6 +14951,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hiding and protecting data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123336Z" creationid="Marco Marega" creationdate="20180812T123336Z">
+        <seg>Nascondere e proteggere i dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hiding and showing data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181844Z" creationid="Elisabetta Manuele" creationdate="20180620T181844Z">
@@ -29984,6 +29992,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154737Z" creationid="luke" creationdate="20180514T154737Z">
         <seg>To have the shortcut key assignment available only with one component (for example, Writer), select that component’s name in the upper right corner of the page; otherwise select &lt;f0&gt;LibreOffice&lt;/f0&gt; to make it available to every component.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To hide &lt;f0&gt;sheets&lt;/f0&gt;, &lt;f1&gt;select them, then&lt;/f1&gt; &lt;f2&gt;go to &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Sheet &gt; Hide Sheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; on the Menu bar, or right-click and choose &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Hide Sheets&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123552Z" creationid="Marco Marega" creationdate="20180812T123552Z">
+        <seg>Per nascondere i &lt;f0&gt;fogli&lt;/f0&gt;, &lt;f1&gt;selezionateli, quindi, nella barra del menu, &lt;/f1&gt; &lt;f2&gt;andate in &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Foglio &gt; Nascondi foglio&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, oppure fare clic con il pulsante destro del mouse e nel menu contestuale scegliete &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Nascondi foglio&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
