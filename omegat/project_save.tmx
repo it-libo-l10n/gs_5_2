@@ -11359,6 +11359,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;118&lt;/seq0&gt;: Theme Selection dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121516Z" creationid="Marco Marega" creationdate="20180812T121516Z">
+        <seg>Figura &lt;seq0&gt;118&lt;/seq0&gt;: finestra di dialogo Scelta del tema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Set Password dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200249Z" creationid="Marco Marega" creationdate="20180621T200249Z">
@@ -28025,6 +28033,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These modifications do not modify the theme; they only change the appearance of the style in the specific spreadsheet you are creating.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121527Z" creationid="Marco Marega" creationdate="20180812T121449Z">
+        <seg>Queste modifiche non cambiano il tema; cambiano soltanto l'aspetto dello stile all'interno del foglio elettronico che state creando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These options are available by right-clicking on the text frame itself.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094250Z" creationid="manuel" creationdate="20180705T094250Z">
@@ -35531,6 +35547,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072458Z" creationid="manuel" creationdate="20180609T072458Z">
         <seg>Disposizione testo complesso (CTL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>conditional</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121600Z" creationid="Marco Marega" creationdate="20180812T121551Z">
+        <seg>condizionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>conditional formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121551Z" creationid="Marco Marega" creationdate="20180812T121551Z">
+        <seg>formattazione condizionale</seg>
       </tuv>
     </tu>
     <tu>
