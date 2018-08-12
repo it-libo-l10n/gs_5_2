@@ -8244,6 +8244,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Choose Themes&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; in the &lt;f3&gt;Tools&lt;/f3&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T120842Z" creationid="Marco Marega" creationdate="20180812T120842Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Selezione tema&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; nella barra &lt;f3&gt;Strumenti&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Edit&lt;/f0&gt;, &lt;f1&gt;Add...&lt;/f1&gt; and &lt;f2&gt;Delete&lt;/f2&gt; buttons to modify the lists entries.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140813Z" creationid="manuel" creationdate="20180608T140813Z">
@@ -16067,6 +16075,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070043Z" creationid="manuel" creationdate="20180529T070043Z">
         <seg>Se l'opzione è attiva, dopo la stampa di un documento, la data di stampa viene salvata nelle proprietà del documento come un cambiamento e, alla chiusura, verrà chiesto di salvare il documento anche se questo non ha subito modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this toolbar is not visible, go to &lt;f4&gt;View &gt; Toolbars&lt;/f4&gt; on the Menu bar and select &lt;f5&gt;Tools&lt;/f5&gt;, and the &lt;f6&gt;Theme Selection&lt;/f6&gt; dialog (Figure &lt;t7&gt;118&lt;/t7&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121126Z" creationid="Marco Marega" creationdate="20180812T121126Z">
+        <seg>Se questa barre degli strumenti non è visibile, nella barra del menu andate in &lt;f4&gt;Visualizza &gt; Barre degli strumenti&lt;/f4&gt; e selezionate &lt;f5&gt;Strumenti&lt;/f5&gt;, si aprirà la finestra di dialogo &lt;f6&gt;Scelta del tema&lt;/f6&gt; (Figura &lt;t7&gt;118&lt;/t7&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29038,6 +29054,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150204Z" creationid="manuel" creationdate="20180612T150204Z">
         <seg>Per applicare uno stile di paragrafo, pagina o cornice, passate il mouse sul paragrafo, pagina o cornice e fate clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To apply a theme to a spreadsheet:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T120741Z" creationid="Marco Marega" creationdate="20180812T120741Z">
+        <seg>Per applicare un tema ad un foglio elettronico:</seg>
       </tuv>
     </tu>
     <tu>
