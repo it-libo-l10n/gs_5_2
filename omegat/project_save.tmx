@@ -11599,6 +11599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;123&lt;/seq0&gt;: Edit Print Ranges dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205302Z" creationid="Marco Marega" creationdate="20180813T205302Z">
+        <seg>Figura &lt;seq0&gt;123&lt;/seq0&gt;: finestra di dialogo Modifica aree di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Remote server configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125254Z" creationid="Marco Marega" creationdate="20180622T125254Z">
@@ -13511,6 +13519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, to repeat column A, type &lt;f1&gt;$A&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205041Z" creationid="Marco Marega" creationdate="20180813T205041Z">
+        <seg>Ad esempio, per ripetere la colonna A, digitate&lt;f1&gt;$A&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, to repeat rows 1 and 2, type &lt;f1&gt;$1:$2&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204650Z" creationid="Marco Marega" creationdate="20180813T204650Z">
@@ -13891,6 +13907,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111454Z" creationid="manuel" creationdate="20180707T111454Z">
         <seg>Per maggiori informazioni sul riempimento d'area, vedere il&lt;f3&gt; &lt;/f3&gt;Capitolo 4 (Modificare gli attributi degli oggetti) &lt;f4&gt;nella &lt;/f4&gt;&lt;f5&gt;Guida a Draw.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on editing print ranges, see the &lt;f0&gt;Calc Guide&lt;/f0&gt;, Chapter 6 Printing, Exporting, and E‑mailing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205229Z" creationid="Marco Marega" creationdate="20180813T205229Z">
+        <seg>Per ulteriori dettagli sulla modifica delle aree di stampa, vedete il &lt;f0&gt;Capitolo 6 (Stampa, esportazione e invio di e-mail) della Guida a Calc&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17923,6 +17947,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T172237Z" creationid="Elisabetta Manuele" creationdate="20180627T172237Z">
         <seg>Nell'area &lt;f1&gt;Interfaccia utente &lt;/f1&gt;scegliete una voce dall'elenco a discesa &lt;f2&gt;Dimensione e stile icona.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f2&gt;Columns to repeat&lt;/f2&gt; list, - &lt;f3&gt;none&lt;/f3&gt; - changes to - &lt;f4&gt;user defined&lt;/f4&gt; -.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205141Z" creationid="Marco Marega" creationdate="20180813T205141Z">
+        <seg>Nell'elenco &lt;f2&gt;Colonna da ripetere&lt;/f2&gt;, &lt;f3&gt;- nessuna -&lt;/f3&gt; cambia in &lt;f4&gt;- personalizzato -&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31943,8 +31975,8 @@
       <tuv lang="EN">
         <seg>Type the column identifiers in the &lt;f0&gt;Columns to repeat&lt;/f0&gt; box.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204930Z" creationid="Marco Marega" creationdate="20180813T204930Z">
-        <seg>Type the column identifiers in the &lt;f0&gt;Columns to repeat&lt;/f0&gt; box.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205007Z" creationid="Marco Marega" creationdate="20180813T204930Z">
+        <seg>Digitate nella casella &lt;f0&gt;Colonne da ripetere&lt;/f0&gt; i riferimenti che identificano le colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31959,8 +31991,8 @@
       <tuv lang="EN">
         <seg>Type the row identifiers in the &lt;f0&gt;Rows to repeat&lt;/f0&gt; box.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204631Z" creationid="Marco Marega" creationdate="20180813T204631Z">
-        <seg>Digitare nella casella &lt;f0&gt;Righe da ripetere&lt;/f0&gt; i riferimenti che identificano la riga.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205012Z" creationid="Marco Marega" creationdate="20180813T204631Z">
+        <seg>Digitate nella casella &lt;f0&gt;Righe da ripetere&lt;/f0&gt; i riferimenti che identificano le righe.</seg>
       </tuv>
     </tu>
     <tu>
