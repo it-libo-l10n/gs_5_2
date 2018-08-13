@@ -9734,6 +9734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defining a print range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T152304Z" creationid="Marco Marega" creationdate="20180813T152304Z">
+        <seg>Definire un'area di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defining a sequence of paragraph styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T165000Z" creationid="manuel" creationdate="20180615T165000Z">
@@ -13779,6 +13787,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094549Z" creationid="manuel" creationdate="20180705T094549Z">
         <seg>Per maggiori informazioni riguardo al testo, vedere il&lt;f0&gt; &lt;/f0&gt;Capitolo 2 (Disegnare forme base) e il Capitolo 9 (Aggiungere e formattare il testo)&lt;f1&gt; nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information about using print ranges, see the &lt;f0&gt;Calc Guide Chapter 6 Printing, Exporting, and E-mailing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T150646Z" creationid="Marco Marega" creationdate="20180813T150646Z">
+        <seg>Per ulteriori dettagli sull'uso delle aree di stampa, vedete il &lt;f0&gt;Capitolo 6 (Stampa, esportazione e invio di e-mail) della Guida a Calc&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22112,6 +22128,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Print ranges have several uses, including printing only a specific part of the data or printing selected rows or columns on every page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T150540Z" creationid="Marco Marega" creationdate="20180813T150540Z">
+        <seg>Le aree di stampa hanno molteplici utilizzi, tra i quali la stampa di una specifica parte dei dati oppure di righe o colonne selezionate su ogni pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Printing</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180322Z" creationid="Elisabetta Manuele" creationdate="20180620T180322Z">
@@ -22122,8 +22146,8 @@
       <tuv lang="EN">
         <seg>Printing from Calc is much the same &lt;i0/&gt;as printing&lt;i1/&gt; from other LibreOffice components (see &lt;f2&gt;Chapter 10 Printing, Exporting, and Emailing&lt;/f2&gt; in this guide).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T150320Z" creationid="Marco Marega" creationdate="20180813T150320Z">
-        <seg>La gestione della stampa in Calc è analoga &lt;i0/&gt;a quella&lt;i1/&gt; degli altri componenti di LibreOffice (vedete il &lt;f2&gt;Capitolo 10 [Stampare, esportare ed inviare email]&lt;/f2&gt; di questa guida).</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T150659Z" creationid="Marco Marega" creationdate="20180813T150320Z">
+        <seg>La gestione della stampa in Calc è analoga &lt;i0/&gt;a quella&lt;i1/&gt; degli altri componenti di LibreOffice (vedete il &lt;f2&gt;Capitolo 10 [Stampa, esportazione ed invio di email]&lt;/f2&gt; di questa guida).</seg>
       </tuv>
     </tu>
     <tu>
