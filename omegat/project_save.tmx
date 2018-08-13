@@ -14679,6 +14679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format &gt; Page&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Page Style&lt;/f1&gt; dialog (Figure &lt;t2&gt;122&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204000Z" creationid="Marco Marega" creationdate="20180813T204000Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Formato &gt; Pagina&lt;/f0&gt; in modo da aprire la finestra di dialogo&lt;f1&gt;Stile di pagina&lt;/f1&gt; (Figura &lt;t2&gt;122&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Add&lt;/f0&gt; on the Menu bar to add the extra cells to the print range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T153622Z" creationid="Marco Marega" creationdate="20180813T153622Z">
@@ -22248,6 +22256,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Printing options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203719Z" creationid="Marco Marega" creationdate="20180813T203719Z">
+        <seg>Opzioni di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proceed as for inserting a single column or row above.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124400Z" creationid="Marco Marega" creationdate="20180718T124400Z">
@@ -24020,6 +24036,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173016Z" creationid="manuel" creationdate="20180612T150147Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;Modo riempimento&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f0&gt;Sheet&lt;/f0&gt; tab and make your selections from the available options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204104Z" creationid="Marco Marega" creationdate="20180813T204104Z">
+        <seg>Selezionate la scheda &lt;f0&gt;Foglio&lt;/f0&gt; e scegliete tra le varie opzioni disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31325,6 +31349,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To select the printing options for &lt;i0/&gt;page order, details, and scale to be used when printing a spreadsheet:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203832Z" creationid="Marco Marega" creationdate="20180813T203832Z">
+        <seg>Per selezionare le opzioni di stampa relative &lt;i0/&gt;all'ordine delle pagine, i dettagli e la scala da usare quando stampare un foglio di lavoro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To set LibreOffice to activate hyperlinks using an ordinary click, deselect this option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084124Z" creationid="manuel" creationdate="20180606T084124Z">
@@ -37411,6 +37443,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101930Z" creationid="manuel" creationdate="20180627T101930Z">
         <seg>numerazione delle pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page order, details, scale, in Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203727Z" creationid="Marco Marega" creationdate="20180813T203727Z">
+        <seg>ordine delle pagine, dettagli, scala, in Calc</seg>
       </tuv>
     </tu>
     <tu>
