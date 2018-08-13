@@ -4544,6 +4544,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding to a print range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T153041Z" creationid="Marco Marega" creationdate="20180813T153041Z">
+        <seg>Aggiunte all'area di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additionally, there are over 70 spelling, hyphenation, and thesaurus &lt;t0/&gt;dictionaries available for languages, and dialects that do not have a localized program interface.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180911Z" creationid="Elisabetta Manuele" creationdate="20180627T180911Z">
@@ -4628,6 +4636,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130711Z" creationid="Marco Marega" creationdate="20180623T130711Z">
         <seg>Dopo aver annullato delle modifiche, potete ripristinarle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After defining a print range, you can add more cells to it by creating another print range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T153116Z" creationid="Marco Marega" creationdate="20180813T153116Z">
+        <seg>Dopo aver definito un'area di stampa, potete aggiungervi altre celle creando un'altra area di stampa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19272,6 +19288,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice will display the cells in the print range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T153021Z" creationid="Marco Marega" creationdate="20180813T153021Z">
+        <seg>LibreOffice visualizzerà le celle comprese nell'area di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice will open your default web browser to a page containing links to additional dictionaries that you can install.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170113Z" creationid="manuel" creationdate="20180608T170113Z">
@@ -28653,6 +28677,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102128Z" creationid="manuel" creationdate="20180704T102128Z">
         <seg>L'inversione con il tasto &lt;f5&gt;Maiusc&lt;/f5&gt; si applica anche al disegno di ellissi e cerchi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This allows multiple, separate areas of the same sheet to be printed while not printing the whole sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T153319Z" creationid="Marco Marega" creationdate="20180813T153319Z">
+        <seg>Questo permette di stampare diverse aree dello stesso foglio, separate tra loro, anziché il foglio intero.</seg>
       </tuv>
     </tu>
     <tu>
