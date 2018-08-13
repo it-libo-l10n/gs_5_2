@@ -23224,6 +23224,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the &lt;f0&gt;Calc Guide Chapter 8 Using Pivot Tables&lt;/f0&gt; and &lt;f1&gt;Chapter 9 Data Analysis&lt;/f1&gt; for more information on pivot tables and other tools available in Calc to analyze your data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T150032Z" creationid="Marco Marega" creationdate="20180813T150032Z">
+        <seg>Per maggiori informazione sulle Tabelle Pivot e sugli altri strumenti per l'analisi dei dati disponibili in Calc  vedete il &lt;f0&gt;Capitolo 8 (Utilizzo delle Tabelle Pivot)&lt;/f0&gt; ed il  &lt;f1&gt;Capitolo 9 (Analisi dei dati) della Guida a Calc&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the &lt;f0&gt;Draw Guide&lt;/f0&gt; and the &lt;f1&gt;H&lt;/f1&gt;elp for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144918Z" creationid="manuel" creationdate="20180629T061125Z">
@@ -28477,6 +28485,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T110553Z" creationid="manuel" creationdate="20180609T110553Z">
         <seg>Queste opzioni impongono un trattino lungo senza spazi per sostituire un trattino corto spaziato, o forzare un trattino corto con spaziatura per sostituire un trattino lungo non distanziato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These statistical data analyses are available in the menu &lt;f0&gt;Data &gt; Statistics&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T145809Z" creationid="Marco Marega" creationdate="20180813T145809Z">
+        <seg>Queste analisi statistiche dei dati sono disponibili nel menu &lt;f0&gt;Dati &gt; Statistiche&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
