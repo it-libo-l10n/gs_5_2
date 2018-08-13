@@ -5616,6 +5616,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At any time, you can directly edit the print range, for example to remove or resize part of the print range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203551Z" creationid="Marco Marega" creationdate="20180813T203551Z">
+        <seg>In qualsiasi momento, potete modificare direttamente l'area di stampa, ad esempio per rimuovere o ridimensionare una sua parte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At least some of the answers should seem obvious after you take some time to think.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154153Z" creationid="manuel" creationdate="20180715T154153Z">
@@ -10855,6 +10863,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing a print range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203504Z" creationid="Marco Marega" creationdate="20180813T203504Z">
+        <seg>Modificare un'area di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editing a template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T153841Z" creationid="manuel" creationdate="20180615T153841Z">
@@ -14675,6 +14691,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T152809Z" creationid="Marco Marega" creationdate="20180813T152809Z">
         <seg>Nella barra del menu andate in &lt;f0&gt;Formato &gt; Area di stampa &gt; Definisci&lt;/f0&gt; &lt;f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Edit Print Ranges&lt;/f1&gt; dialog where you can define the print range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203711Z" creationid="Marco Marega" creationdate="20180813T203711Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Formato &gt; Area di stampa &gt; Modifica&lt;/f0&gt; in modo da aprire la finestra di dialogo &lt;f1&gt;Modifica area di stampa&lt;/f1&gt;, nella quale potete definire l'area di stampa.</seg>
       </tuv>
     </tu>
     <tu>
