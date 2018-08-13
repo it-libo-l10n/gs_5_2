@@ -9838,6 +9838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleting a page break</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T210355Z" creationid="Marco Marega" creationdate="20180813T210355Z">
+        <seg>Eliminare un'interruzione di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deleting a table removes all of the data contained in every field of the table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180807T110421Z" creationid="manuel" creationdate="20180807T110421Z">
@@ -20808,6 +20816,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigate to a cell that is next to the break you want to remove.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T210452Z" creationid="Marco Marega" creationdate="20180813T210452Z">
+        <seg>Posizionatevi in una cella contigua all'interruzione che volete rimuovere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Navigate to the cell where the page break will begin.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205922Z" creationid="Marco Marega" creationdate="20180813T205922Z">
@@ -23756,6 +23772,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103245Z" creationid="manuel" creationdate="20180627T103245Z">
         <seg>Selezionate &lt;f0&gt;Cambia numero pagina.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Column Break&lt;/f0&gt; to create a page break to the left of the selected cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T210352Z" creationid="Marco Marega" creationdate="20180813T210352Z">
+        <seg>Selezionate &lt;f0&gt;Interruzione colonna&lt;/f0&gt;per creare un'interruzione di pagina alla sinistra della cella selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31217,6 +31241,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124301Z" creationid="Marco Marega" creationdate="20180623T124301Z">
         <seg>Per eliminare una cartella dal riquadro Risorse, fate clic sul suo nome e poi sul pulsante &lt;f1&gt;-&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove a page break:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T210358Z" creationid="Marco Marega" creationdate="20180813T210358Z">
+        <seg>Per eliminare un 'interruzione di pagina:</seg>
       </tuv>
     </tu>
     <tu>
