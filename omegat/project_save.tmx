@@ -3992,6 +3992,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A function is a predefined calculation entered in a cell to help you analyze or manipulate data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144430Z" creationid="Marco Marega" creationdate="20180813T144430Z">
+        <seg>Una funzione è un calcolo preimpostato che viene inserito in una cella per aiutarvi ad analizzare o manipolare i dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A ghost image of the object being rotated appears and the current angle of rotation is shown in the status bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T072852Z" creationid="manuel" creationdate="20180707T072852Z">
@@ -4796,6 +4804,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072631Z" creationid="luke" creationdate="20180515T072631Z">
         <seg>Tutti i marchi registrati citati in questo documento appartengono ai legittimi proprietari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All you have to do is enter the arguments and the calculation is automatically made for you.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144559Z" creationid="Marco Marega" creationdate="20180813T144559Z">
+        <seg>Tutto ciò che dovete fare è inserire i parametri, e il calcolo verrà eseguito automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14307,6 +14323,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220848Z" creationid="Marco Marega" creationdate="20180707T220848Z">
         <seg>Creazione guidata funzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Functions help you create the formulas required to get the results that you are looking for.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144621Z" creationid="Marco Marega" creationdate="20180813T144621Z">
+        <seg>Le funzioni vi aiutano a creare le formule necessarie ad ottenere i risultati desiderati.</seg>
       </tuv>
     </tu>
     <tu>
