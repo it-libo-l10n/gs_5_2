@@ -6434,6 +6434,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc includes several tools to help you analyze the information in your spreadsheets, ranging from features for copying and reusing data, to creating subtotals automatically, to varying information to help you find the answers you need.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144857Z" creationid="Marco Marega" creationdate="20180813T144857Z">
+        <seg>Calc è dotato di diversi strumenti per l'analisi delle informazioni presenti nei fogli elettronici, questi vanno dalle funzioni per copiare e riutilizzare i dati, alla creazione automatica dei subtotali, al variare le informazioni in modo da aiutarvi a trovare le risposte di cui avete bisogno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc is the spreadsheet component of LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131037Z" creationid="Marco Marega" creationdate="20180623T134627Z">
@@ -21248,6 +21256,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One of the most useful of these tools is the PivotTable, which is used for combining, comparing, and analyzing large amounts of data easily.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T145102Z" creationid="Marco Marega" creationdate="20180813T145102Z">
+        <seg>Uno degli strumenti più utili sono le Tabelle Pivot, che vengono utilizzare per raggruppare, comparare ed analizzare facilmente grandi quantità di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One slide set – multiple presentations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
@@ -28453,6 +28469,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T110553Z" creationid="manuel" creationdate="20180609T110553Z">
         <seg>Queste opzioni impongono un trattino lungo senza spazi per sostituire un trattino corto spaziato, o forzare un trattino corto con spaziatura per sostituire un trattino lungo non distanziato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These tools are divided between the Tools and Data menus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144931Z" creationid="Marco Marega" creationdate="20180813T144931Z">
+        <seg>Questi strumenti si trovano suddivisi nei menu Strumenti e Dati.</seg>
       </tuv>
     </tu>
     <tu>
