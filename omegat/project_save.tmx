@@ -11479,6 +11479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;121&lt;/seq0&gt;: Sort Criteria dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143631Z" creationid="Marco Marega" creationdate="20180813T143631Z">
+        <seg>Figura &lt;seq0&gt;121&lt;/seq0&gt;: finestra di dialogo Criteri di ordinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Remote server configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125254Z" creationid="Marco Marega" creationdate="20180622T125254Z">
@@ -13767,6 +13775,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on how to sort records and the sorting options available, see the &lt;f0&gt;Calc Guide Chapter 2 Entering, Editing, and Formatting Data&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143537Z" creationid="Marco Marega" creationdate="20180813T143537Z">
+        <seg>Per maggiori informazioni su come riordinare i record e sulle opzioni di ordinamento disponibili, vedete il &lt;f0&gt;Capitolo 2 della Guida a Calc (Inserimento, Modifica e formattazione dei dati)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on layers see “&lt;bf0&gt;Working with layers&lt;/bf0&gt;“ on page &lt;bf1&gt;195&lt;/bf1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T101603Z" creationid="manuel" creationdate="20180629T101603Z">
@@ -14443,6 +14459,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z" creationid="luke" creationdate="20180515T090032Z">
         <seg>Go to &lt;f0&gt;Advance slide&lt;/f0&gt; and select the &lt;f1&gt;Automatically after&lt;/f1&gt; option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Data &gt; Sort&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Sort&lt;/f1&gt; dialog (Figure &lt;t2&gt;121&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143735Z" creationid="Marco Marega" creationdate="20180813T143735Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Dati &gt; Ordina&lt;/f0&gt; in modo da aprire la finestra di dialogo &lt;f1&gt;Ordina&lt;/f1&gt; (Figura &lt;t2&gt;121&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23880,6 +23904,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the cells to be sorted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143653Z" creationid="Marco Marega" creationdate="20180813T143653Z">
+        <seg>Selezionate le celle da ordinare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the characters (from any font or mixture of fonts) you wish to insert, in order, then click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151010Z" creationid="manuel" creationdate="20180622T105644Z">
@@ -31033,6 +31065,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073555Z" creationid="manuel" creationdate="20180707T073555Z">
         <seg>Per inclinare un oggetto, usate le maniglie situate nei punti medi, in alto, in basso e ai lati dell'oggetto selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To sort cells in a spreadsheet:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143644Z" creationid="Marco Marega" creationdate="20180813T143644Z">
+        <seg>Per ordinare le celle di un foglio di lavoro:</seg>
       </tuv>
     </tu>
     <tu>
