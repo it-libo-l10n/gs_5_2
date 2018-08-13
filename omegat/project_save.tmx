@@ -13383,6 +13383,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if the top two rows of the sheet as well as column A need to be printed on all pages, do the following:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204423Z" creationid="Marco Marega" creationdate="20180813T204423Z">
+        <seg>Ad esempio, se le prime due righe e la colonna A del foglio devono essere stampate su tutte le pagine, fate come segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if the two-digit year is set to 1930, and you enter a date of 1/1/30 or later into your document, the date is interpreted as 1/1/1930 or later.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T070244Z" creationid="manuel" creationdate="20180529T070244Z">
@@ -14723,6 +14731,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T152809Z" creationid="Marco Marega" creationdate="20180813T152809Z">
         <seg>Nella barra del menu andate in &lt;f0&gt;Formato &gt; Area di stampa &gt; Definisci&lt;/f0&gt; &lt;f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit &lt;/f0&gt;on the Menu bar to open the &lt;f1&gt;Edit Print Ranges&lt;/f1&gt; dialog (Figure &lt;t2&gt;123&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204505Z" creationid="Marco Marega" creationdate="20180813T204505Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Formato &gt; Area di stampa &gt; Modifica&lt;/f0&gt; in modo da aprire la finestra di dialogo &lt;f1&gt;Modifica area di stampa&lt;/f1&gt; (Figura &lt;t2&gt;123&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31913,6 +31929,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183613Z" creationid="Marco Marega" creationdate="20180713T183613Z">
         <seg>Digitate il riferimento della cella sulla quale volete spostarvi e premete il tasto &lt;f4&gt;Invio&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the row identifiers in the &lt;f0&gt;Rows to repeat&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204631Z" creationid="Marco Marega" creationdate="20180813T204631Z">
+        <seg>Digitare nella casella &lt;f0&gt;Righe da ripetere&lt;/f0&gt; i riferimenti che identificano la riga.</seg>
       </tuv>
     </tu>
     <tu>
