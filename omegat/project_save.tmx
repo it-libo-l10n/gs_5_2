@@ -13511,6 +13511,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, to repeat rows 1 and 2, type &lt;f1&gt;$1:$2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204650Z" creationid="Marco Marega" creationdate="20180813T204650Z">
+        <seg>Ad esempio, per ripetere le righe 1 e 2, digitate&lt;f1&gt;$1:$2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, to select the range that would go from A3 to C6, you would enter &lt;f2&gt;A3:C6&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T160437Z" creationid="Marco Marega" creationdate="20180714T145033Z">
@@ -28865,6 +28873,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This automatically changes &lt;f2&gt;Rows to repeat&lt;/f2&gt; &lt;s3/&gt;from, &lt;f4&gt;- none -&lt;/f4&gt; &lt;s5/&gt;to &lt;f6&gt;- user defined -&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204911Z" creationid="Marco Marega" creationdate="20180813T204911Z">
+        <seg>Facendo così si modificano automaticamente le &lt;f2&gt;Righe da ripetere&lt;/f2&gt; &lt;s3/&gt;da, &lt;f4&gt;- nessuna -&lt;/f4&gt; &lt;s5/&gt;a &lt;f6&gt;- personalizzato -&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This axis stays fixed in location while the other sides of the object move in relation to it as you drag the mouse cursor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073620Z" creationid="manuel" creationdate="20180707T073620Z">
@@ -31921,6 +31937,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183935Z" creationid="Marco Marega" creationdate="20180713T183935Z">
         <seg>Digitata il riferimento alla cella nei campi Colonna e Riga e premete il tasto &lt;f4&gt;Invio&lt;/f4&gt; key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the column identifiers in the &lt;f0&gt;Columns to repeat&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204930Z" creationid="Marco Marega" creationdate="20180813T204930Z">
+        <seg>Type the column identifiers in the &lt;f0&gt;Columns to repeat&lt;/f0&gt; box.</seg>
       </tuv>
     </tu>
     <tu>
