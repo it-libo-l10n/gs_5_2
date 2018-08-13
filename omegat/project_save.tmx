@@ -14823,6 +14823,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Insert &gt; Page Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205954Z" creationid="Marco Marega" creationdate="20180813T205954Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Inserisci &gt; Interruzione di pagina&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Modify &gt; Group&lt;/f0&gt; on the Menu bar, or right-click on the selection and select &lt;f1&gt;Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Ctrl+Shift+G&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T173025Z" creationid="manuel" creationdate="20180705T141026Z">
@@ -20800,6 +20808,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigate to the cell where the page break will begin.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205922Z" creationid="Marco Marega" creationdate="20180813T205922Z">
+        <seg>Spostatevi nella cella dove avrà inizio la pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Navigate to the template that you want to edit.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154637Z" creationid="manuel" creationdate="20180615T154637Z">
@@ -23884,6 +23900,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124301Z" creationid="Marco Marega" creationdate="20180812T124301Z">
         <seg>Selezionate &lt;f0&gt;Proteggi questo foglio e il contenuto delle celle protette&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; to create a page break above the selected cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T210315Z" creationid="Marco Marega" creationdate="20180813T210315Z">
+        <seg>Selezionate &lt;f0&gt;Interruzione riga&lt;/f0&gt; per creare un'interruzione di pagina sopra alla cella selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30824,6 +30848,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T123143Z" creationid="Marco Marega" creationdate="20180811T123143Z">
         <seg>Per inserire un'interruzione di riga manuale mentre inserite del testo in una cella, premete &lt;f0&gt;Ctrl+Invio&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To insert a page break:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205905Z" creationid="Marco Marega" creationdate="20180813T205905Z">
+        <seg>Per inserire una interruzione di pagina:</seg>
       </tuv>
     </tu>
     <tu>
