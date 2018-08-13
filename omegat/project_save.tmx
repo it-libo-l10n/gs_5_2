@@ -7514,6 +7514,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and the sort is carried out on your spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144048Z" creationid="Marco Marega" creationdate="20180813T144048Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; e sul foglio di lavoro verrà eseguita l'operazione di ordinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to confirm the move or copy and close the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163607Z" creationid="Marco Marega" creationdate="20180729T163607Z">
@@ -23672,6 +23680,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select either ascending order (A-Z, 1-9) or descending order (Z-A, 9-1).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144001Z" creationid="Marco Marega" creationdate="20180813T144001Z">
+        <seg>Selezionate tra l'ordinamento crescente (A-Z, 1-9) o decrescente (Z-A, 9-1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select if you want it printable or not, visible or hidden, or locked to prevent further changes or accidental edits.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T145458Z" creationid="manuel" creationdate="20180704T145458Z">
@@ -24108,6 +24124,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085954Z" creationid="luke" creationdate="20180515T085954Z">
         <seg>Select the slides you want to use in your custom slide show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the sort criteria from the drop down lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143813Z" creationid="Marco Marega" creationdate="20180813T143813Z">
+        <seg>Selezionate il criterio di ordinamento dall'elenco a discesa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27725,6 +27749,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221041Z" creationid="Marco Marega" creationdate="20180712T221041Z">
         <seg>Anche la lingua selezionata influenza il modo in cui vengono individuati i numeri speciali, in quanto lingue e aree geografiche diverse possono avere convenzioni differenti per il trattamento di questi numeri speciali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected lists are populated from the selected cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143919Z" creationid="Marco Marega" creationdate="20180813T143919Z">
+        <seg>L'elenco di selezione viene creato sulla base delle celle selezionate.</seg>
       </tuv>
     </tu>
     <tu>
