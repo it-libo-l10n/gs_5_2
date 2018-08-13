@@ -24432,6 +24432,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several criteria can be used and a sort applies each criteria consecutively.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143026Z" creationid="Marco Marega" creationdate="20180813T143026Z">
+        <seg>Potere usare più criteri e l'ordinamento applicherà in sequenza ciascun criterio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several different number formats can be applied to cells by using icons on the Formatting toolbar (highlighted in Figure &lt;t0&gt;115&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124536Z" creationid="Marco Marega" creationdate="20180811T124536Z">
@@ -25012,6 +25020,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T142931Z" creationid="Marco Marega" creationdate="20180813T142931Z">
         <seg>All'interno di Calc l'operazione di ordinamento ridispone le celle di un foglio ordinandole in base al criterio specificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sorts are useful when you are searching for a particular item and become even more useful after you have filtered data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143148Z" creationid="Marco Marega" creationdate="20180813T143148Z">
+        <seg>Gli ordinamenti sono utili quando cercate un particolare elemento, e diventano ancora più utili se utilizzati dopo avere filtrato i dati.</seg>
       </tuv>
     </tu>
     <tu>
