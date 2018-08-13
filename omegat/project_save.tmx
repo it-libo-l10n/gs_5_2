@@ -4200,6 +4200,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A page break helps to ensure that your data prints properly according to your page size and page orientation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205643Z" creationid="Marco Marega" creationdate="20180813T205643Z">
+        <seg>Un'interruzione di pagina manuale contribuisce a fare sì che i vostri dati vengano stampati correttamente in base alle dimensioni della pagina ed al suo orientamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A panel is like a combination of a toolbar and a dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222058Z" creationid="Marco Marega" creationdate="20180620T222058Z">
@@ -13959,6 +13967,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on manual breaks, see the &lt;f0&gt;Calc Guide Chapter 6 Printing, Exporting, and E‑mailing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205756Z" creationid="Marco Marega" creationdate="20180813T205756Z">
+        <seg>Per ulteriori dettagli sulle interruzioni di pagina manuali, vedete il &lt;f0&gt;Capitolo 6 (Stampa, esportazione e invio di e-mail) della Guida a Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on moving and adjusting object size, see&lt;f0&gt; &lt;/f0&gt;Chapter 3, Working with Objects and Object Points, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T062012Z" creationid="manuel" creationdate="20180707T062012Z">
@@ -18315,6 +18331,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064640Z" creationid="manuel" creationdate="20180618T064640Z">
         <seg>Modalità di inserimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserting a &lt;i0/&gt;&lt;i1/&gt;break</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205901Z" creationid="Marco Marega" creationdate="20180813T205901Z">
+        <seg>Inserire un'&lt;i0/&gt;&lt;i1/&gt;interruzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -35427,6 +35451,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T075727Z" creationid="manuel" creationdate="20180627T075727Z">
         <seg>Potete variare la sillabazione in ciascun stile di formato, in modo da disattivarla; per esempio, potreste voler escludere la sillabazione nelle intestazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can insert a horizontal page break above or a vertical page break to the left of the active cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205736Z" creationid="Marco Marega" creationdate="20180813T205736Z">
+        <seg>Potete inserire un'interruzione di pagina orizzontale sopra la cella attiva, oppure una verticale alla sua sinistra.</seg>
       </tuv>
     </tu>
     <tu>
