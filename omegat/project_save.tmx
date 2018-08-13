@@ -4640,6 +4640,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After defining a print range, select an extra range of cells for adding to the print range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T153438Z" creationid="Marco Marega" creationdate="20180813T153438Z">
+        <seg>Dopo aver definito un'area di stampa, selezionate un ulteriore intervallo di celle da aggiungere all'area di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After defining a print range, you can add more cells to it by creating another print range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T153116Z" creationid="Marco Marega" creationdate="20180813T153116Z">
@@ -14651,6 +14659,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124634Z" creationid="Marco Marega" creationdate="20180812T124634Z">
         <seg>Nella barra del menu andate in &lt;f0&gt;Formato &gt; Celle&lt;/f0&gt;, o fate clic con il pulsante destro del mouse e dal menu contestuale selezionate &lt;f1&gt;Formatta Celle&lt;/f1&gt;, oppure usate i tasti di scelta rapida &lt;f2&gt;Ctrl+1&lt;/f2&gt; in modo da aprire la finestra di dialogo &lt;f3&gt;Formato celle&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Add&lt;/f0&gt; on the Menu bar to add the extra cells to the print range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T153622Z" creationid="Marco Marega" creationdate="20180813T153622Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Formato &gt; Area di stampa &gt; Aggiungi&lt;/f0&gt; così da aggiungere le celle selezionate all'area di stampa.</seg>
       </tuv>
     </tu>
     <tu>
