@@ -14687,6 +14687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Edit &gt; Delete Page Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T210521Z" creationid="Marco Marega" creationdate="20180813T210521Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Modifica &gt; Elimina interruzione di pagina&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Edit &gt; Paste&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+V&lt;/f1&gt;, to paste the contents from the old document into the new one.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101304Z" creationid="manuel" creationdate="20180616T101304Z">
@@ -15195,6 +15203,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170059Z" creationid="Elisabetta Manuele" creationdate="20180620T170059Z">
         <seg>Hazel Russman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Headers and footers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T210752Z" creationid="Marco Marega" creationdate="20180813T210752Z">
+        <seg>Intestazioni e piè di pagina</seg>
       </tuv>
     </tu>
     <tu>
@@ -20776,6 +20792,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multiple manual row and column breaks can exist on the same page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T210714Z" creationid="Marco Marega" creationdate="20180813T210714Z">
+        <seg>Nella stessa pagina possono coesistere più interruzioni manuali, sia di riga che di colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiple non-contiguous sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150635Z" creationid="Marco Marega" creationdate="20180714T150635Z">
@@ -23924,6 +23948,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124301Z" creationid="Marco Marega" creationdate="20180812T124301Z">
         <seg>Selezionate &lt;f0&gt;Proteggi questo foglio e il contenuto delle celle protette&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; or &lt;f1&gt;Column Break&lt;/f1&gt; depending on your need and break is removed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T210650Z" creationid="Marco Marega" creationdate="20180813T210650Z">
+        <seg>Selezionate &lt;f0&gt;Interruzione riga&lt;/f0&gt; o &lt;f1&gt;Interruzione colonna&lt;/f1&gt; a seconda delle vostre necessità e l'interruzione verrà rimossa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34107,6 +34139,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214514Z" creationid="Marco Marega" creationdate="20180616T214514Z">
         <seg>Quando selezionate uno dei menu elencati di seguito, viene visualizzato un sottomenu con ulteriori opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you want to remove them, you have to remove each break individually.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T210749Z" creationid="Marco Marega" creationdate="20180813T210749Z">
+        <seg>Nel caso vogliate rimuoverle, dovete farlo una alla volta.</seg>
       </tuv>
     </tu>
     <tu>
