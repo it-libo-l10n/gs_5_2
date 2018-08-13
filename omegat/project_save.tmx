@@ -25008,6 +25008,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sorting within Calc arranges the cells in a sheet using the sort criteria that you specify.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T142931Z" creationid="Marco Marega" creationdate="20180813T142931Z">
+        <seg>All'interno di Calc l'operazione di ordinamento ridispone le celle di un foglio ordinandole in base al criterio specificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spacing options for paragraphs before text tables</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143719Z" creationid="manuel" creationdate="20180608T143719Z">
