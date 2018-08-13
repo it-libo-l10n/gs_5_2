@@ -14111,6 +14111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formulas are equations that use numbers and variables to produce a result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144241Z" creationid="Marco Marega" creationdate="20180813T144241Z">
+        <seg>Le formule sono equazioni che usano numeri e variabili per produrre un risultato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formulas in Calc, Draw, and Impress</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185535Z" creationid="Elisabetta Manuele" creationdate="20180620T185535Z">
@@ -20820,6 +20828,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143400Z" creationid="manuel" creationdate="20180611T143400Z">
         <seg>Spesso applicare uno stile significa applicare un intero gruppo di formati allo stesso tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often the contents of one cell depend on the contents of other cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144214Z" creationid="Marco Marega" creationdate="20180813T144214Z">
+        <seg>Spesso i contenuti di una cella dipendono dai contenuti di altre celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32654,6 +32670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Variables are placed in cells to hold data required by equations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144355Z" creationid="Marco Marega" creationdate="20180813T144355Z">
+        <seg>Le variabili vengono posizionate nelle celle che contengono i dati necessari per l'equazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vector Drawing in LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090117Z" creationid="luke" creationdate="20180515T090117Z">
@@ -35587,6 +35611,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161253Z" creationid="manuel" creationdate="20180615T161253Z">
         <seg>Forse saprete che Microsoft Word utilizza il file &lt;f0&gt;normal.dot&lt;/f0&gt; oppure &lt;f1&gt;normal.dotx&lt;/f1&gt; come modello predefinito, e saprete anche come rigenerarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may need more than numbers and text on your spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144205Z" creationid="Marco Marega" creationdate="20180813T144205Z">
+        <seg>Nel foglio elettronico potreste avere bisogno di qualcosa in più rispetto a semplici numeri e testo.</seg>
       </tuv>
     </tu>
     <tu>
