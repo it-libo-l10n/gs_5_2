@@ -30003,6 +30003,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To define a new print range or modify an existing print range:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T152658Z" creationid="Marco Marega" creationdate="20180813T152658Z">
+        <seg>Per definire una nuova area di stampa o modificarne una esistente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To define your own fill series:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T213242Z" creationid="Marco Marega" creationdate="20180808T213242Z">
