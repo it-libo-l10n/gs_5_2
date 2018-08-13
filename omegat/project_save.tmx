@@ -19312,6 +19312,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice will display the print ranges as separate pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T153754Z" creationid="Marco Marega" creationdate="20180813T153754Z">
+        <seg>LibreOffice mostrerà le aree di stampa come pagine separate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice will open your default web browser to a page containing links to additional dictionaries that you can install.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170113Z" creationid="manuel" creationdate="20180608T170113Z">
@@ -27721,6 +27729,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The page break lines are no longer displayed on the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T153643Z" creationid="Marco Marega" creationdate="20180813T153643Z">
+        <seg>Sullo schermo non saranno più visualizzate le linee di interruzione di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The page margins in the drawing area are also represented on the rulers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105152Z" creationid="manuel" creationdate="20180629T105152Z">
@@ -29943,6 +29959,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T153011Z" creationid="Marco Marega" creationdate="20180813T153011Z">
         <seg>Per controllare l'area di stampa, nella barra del menu andate in &lt;f0&gt;File &gt; Anteprima di stampa &lt;/f0&gt;oppure fate clic sull'icona &lt;f1&gt;Anteprima di stampa&lt;/f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To check the print ranges, go to &lt;f0&gt;File &gt; Print Preview&lt;/f0&gt; on the Menu bar or click on the &lt;f1&gt;Print Preview&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T153717Z" creationid="Marco Marega" creationdate="20180813T153717Z">
+        <seg>Per controllare le aree di stampa, nella barra del menu andate in &lt;f0&gt;File &gt; Anteprima di stampa &lt;/f0&gt;oppure fate clic sull'icona &lt;f1&gt;Anteprima di stampa&lt;/f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
