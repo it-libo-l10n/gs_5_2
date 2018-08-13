@@ -22104,6 +22104,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Printing from Calc is much the same &lt;i0/&gt;as printing&lt;i1/&gt; from other LibreOffice components (see &lt;f2&gt;Chapter 10 Printing, Exporting, and Emailing&lt;/f2&gt; in this guide).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T150320Z" creationid="Marco Marega" creationdate="20180813T150320Z">
+        <seg>La gestione della stampa in Calc è analoga &lt;i0/&gt;a quella&lt;i1/&gt; degli altri componenti di LibreOffice (vedete il &lt;f2&gt;Capitolo 10 [Stampare, esportare ed inviare email]&lt;/f2&gt; di questa guida).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proceed as for inserting a single column or row above.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124400Z" creationid="Marco Marega" creationdate="20180718T124400Z">
@@ -37275,6 +37283,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143846Z" creationid="manuel" creationdate="20180608T143846Z">
         <seg>impostazioni della stampante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>printing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T150039Z" creationid="Marco Marega" creationdate="20180813T150039Z">
+        <seg>stampa</seg>
       </tuv>
     </tu>
     <tu>
