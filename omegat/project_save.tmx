@@ -4632,6 +4632,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you have added information, you then carry out a sort to update the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143442Z" creationid="Marco Marega" creationdate="20180813T143442Z">
+        <seg>Dopo avere aggiunto i nuovi dati, potete eseguire un riordino per aggiornare il foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you have selected your objects, the &lt;f0&gt;Merge&lt;/f0&gt;, &lt;f1&gt;Subtract&lt;/f1&gt;, and &lt;f2&gt;Intersect&lt;/f2&gt; functions also become available so that you can create a new object from your selected objects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112326Z" creationid="manuel" creationdate="20180705T112326Z">
@@ -4828,6 +4836,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173819Z" creationid="luke" creationdate="20180515T085801Z">
         <seg>Inoltre alcune finestre di dialogo potrebbero risultare diverse a causa delle impostazioni selezionate in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also, sorting is useful when you add new information to your spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143231Z" creationid="Marco Marega" creationdate="20180813T143231Z">
+        <seg>Inoltre, l'ordinamento è utile quando aggiungete nuove informazioni al foglio di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32955,6 +32971,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T105413Z" creationid="manuel" creationdate="20180616T105413Z">
         <seg>Quando appare una finsetra di dialogo in cui vi chiede conferma dell'eliminazione, fate clic &lt;f4&gt;Sì&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a spreadsheet is long, it is usually easier to add new information at the bottom of the sheet, rather than adding rows in their correct place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143359Z" creationid="Marco Marega" creationdate="20180813T143359Z">
+        <seg>Quando un foglio di lavoro è lungo, di solito risulta più facile aggiungere i nuovi dati in fondo al foglio, piuttosto che aggiungerli nel punto corretto.</seg>
       </tuv>
     </tu>
     <tu>
