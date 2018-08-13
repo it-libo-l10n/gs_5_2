@@ -1510,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;Page break lines are displayed on screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T152842Z" creationid="Marco Marega" creationdate="20180813T152842Z">
+        <seg>&lt;/f1&gt;Sullo schermo appaiono le linee di interruzione di pagina..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;The word will be hyphenated at this position when it is at the end of the line, even if automatic hyphenation for this paragraph is switched off.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085502Z" creationid="manuel" creationdate="20180627T085502Z">
@@ -14631,6 +14639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Define&lt;/f0&gt; on the Menu bar&lt;f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T152809Z" creationid="Marco Marega" creationdate="20180813T152809Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Formato &gt; Area di stampa &gt; Definisci&lt;/f0&gt; &lt;f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Row&lt;/f1&gt; or &lt;f2&gt;Column&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123750Z" creationid="Marco Marega" creationdate="20180812T123750Z">
@@ -24192,6 +24208,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the range of cells to be included in the print range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T152725Z" creationid="Marco Marega" creationdate="20180813T152725Z">
+        <seg>Selezionate l'intervallo di celle da ricomprendere nell'area di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the required options chosen from the options available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145651Z" creationid="manuel" creationdate="20180705T145651Z">
@@ -29863,6 +29887,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T171655Z" creationid="Elisabetta Manuele" creationdate="20180627T171655Z">
         <seg>Per modificare la scelta delle finestre di dialogo accedete al menu &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f0&gt; e selezionare o deselezionare l'opzione &lt;f1&gt;Usa finestre di dialogo LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To check the print range, go to &lt;f0&gt;File &gt; Print Preview &lt;/f0&gt;on the Menu bar or click on the &lt;f1&gt;Print Preview&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T153011Z" creationid="Marco Marega" creationdate="20180813T153011Z">
+        <seg>Per controllare l'area di stampa, nella barra del menu andate in &lt;f0&gt;File &gt; Anteprima di stampa &lt;/f0&gt;oppure fate clic sull'icona &lt;f1&gt;Anteprima di stampa&lt;/f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
