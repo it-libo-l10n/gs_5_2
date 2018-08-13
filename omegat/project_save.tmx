@@ -7570,6 +7570,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204111Z" creationid="Marco Marega" creationdate="20180813T204111Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and the dialog closes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200103Z" creationid="Marco Marega" creationdate="20180621T200103Z">
@@ -11583,6 +11591,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;122&lt;/seq0&gt;: Page Style dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204157Z" creationid="Marco Marega" creationdate="20180813T204157Z">
+        <seg>Figura &lt;seq0&gt;122&lt;/seq0&gt;: finestra di dialogo Stile di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Remote server configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125254Z" creationid="Marco Marega" creationdate="20180622T125254Z">
@@ -13919,6 +13935,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on printing options, see the &lt;f0&gt;Calc Guide Chapter 6 Printing, Exporting, and E‑mailing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204146Z" creationid="Marco Marega" creationdate="20180813T204146Z">
+        <seg>Per ulteriori dettagli sulle opzioni di stampa, vedete il &lt;f0&gt;Capitolo 6 (Stampa, esportazione e invio di e-mail) della Guida a Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on rotating and slanting an object, see&lt;f0&gt; &lt;/f0&gt;Chapter 3, Working with Objects and Object Points, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T070746Z" creationid="manuel" creationdate="20180707T070746Z">
@@ -15923,6 +15947,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T175907Z" creationid="Marco Marega" creationdate="20180804T175907Z">
         <seg>Se un numero viene inserito con degli zeri iniziali, ad esempio 01481, prima di aver impostato il parametro Zeri iniziali, per impostazione predefinita Calc rimuoverà automaticamente lo 0 iniziale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a sheet is printed on multiple pages, you can set up certain rows or columns to repeat on each printed page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204352Z" creationid="Marco Marega" creationdate="20180813T204352Z">
+        <seg>Se un foglio viene stampato su più pagine, potete impostare la ripetizione su tutte le pagine di determinate righe o colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22620,6 +22652,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152359Z" creationid="manuel" creationdate="20180621T152359Z">
         <seg>Ripetete la procedura tutte le volte che serve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeat printing &lt;i0/&gt;of rows or columns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204304Z" creationid="Marco Marega" creationdate="20180813T204304Z">
+        <seg>Ripetere la stampa &lt;i0/&gt;di righe o colonne</seg>
       </tuv>
     </tu>
     <tu>
@@ -37675,6 +37715,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T151022Z" creationid="Marco Marega" creationdate="20180714T151022Z">
         <seg>righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rows or columns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204211Z" creationid="Marco Marega" creationdate="20180813T204211Z">
+        <seg>righe o colonne</seg>
       </tuv>
     </tu>
     <tu>
