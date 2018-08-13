@@ -32590,6 +32590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the PivotTable, you can view different summaries of the source data, display the details of areas of interest, and create reports, whether you are a beginner, an intermediate or advanced user.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T145416Z" creationid="Marco Marega" creationdate="20180813T145416Z">
+        <seg>Usando una Tabella Pivot, sia che voi siate un principiante o un utente esperto, potete visualizzare diversi tipi di riepilogo dei dati sorgente, ottenere dettagli suddivisi per aree di interesse e creare specifici rapporti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the Save As command above, select the &lt;f0&gt;Save with password&lt;/f0&gt; option in the Save As dialog or Save dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T195554Z" creationid="Marco Marega" creationdate="20180621T195554Z">
