@@ -21872,6 +21872,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page breaks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205324Z" creationid="Marco Marega" creationdate="20180813T205324Z">
+        <seg>Interruzioni di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page layout is usually easier if you show text, object, table, and section boundaries in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Appearance,&lt;/f0&gt; and paragraph end&lt;f1&gt;s&lt;/f1&gt;, tabs, breaks, and other items in &lt;f2&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T092431Z" creationid="manuel" creationdate="20180627T092431Z">
@@ -34039,6 +34047,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While defining a print range can be a powerful tool, it may sometimes be necessary to manually adjust the Calc printout manually using a &lt;f0&gt;manual or page break&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205555Z" creationid="Marco Marega" creationdate="20180813T205555Z">
+        <seg>Anche se definire un'area di stampa può essere uno strumento efficace, a volte potrebbe esservi necessario regolare manualmente la stampa di Calc usando un'&lt;f0&gt;interruzione di pagina manuale&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>While holding down the &lt;f0&gt;Shift&lt;/f0&gt; key, use the cursor arrows to select the rest of the range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144655Z" creationid="Marco Marega" creationdate="20180714T144655Z">
@@ -37531,6 +37547,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161125Z" creationid="manuel" creationdate="20180628T161125Z">
         <seg>panoramica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page break, Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205327Z" creationid="Marco Marega" creationdate="20180813T205327Z">
+        <seg>interruzione di pagina, Calc</seg>
       </tuv>
     </tu>
     <tu>
