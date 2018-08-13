@@ -15479,6 +15479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, some details for printing in Calc are different, especially regarding preparation for printing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T150436Z" creationid="Marco Marega" creationdate="20180813T150436Z">
+        <seg>In Calc però alcuni dettagli sono differenti, specialmente riguardo alla preparazione per la stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the &lt;f0&gt;Flip&lt;/f0&gt; tool on the Mode or Drawing toolbar &lt;f1&gt;provid&lt;/f1&gt;e&lt;f2&gt;s&lt;/f2&gt; greater control over the flipping process.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T102010Z" creationid="manuel" creationdate="20180707T102010Z">
@@ -22092,6 +22100,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062657Z" creationid="manuel" creationdate="20180531T062657Z">
         <seg>Opzioni stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Print ranges</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T150459Z" creationid="Marco Marega" creationdate="20180813T150459Z">
+        <seg>Aree di stampa</seg>
       </tuv>
     </tu>
     <tu>
@@ -37275,6 +37291,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062648Z" creationid="manuel" creationdate="20180531T062648Z">
         <seg>opzioni stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>print ranges, Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T150441Z" creationid="Marco Marega" creationdate="20180813T150441Z">
+        <seg>aree di stampa, Calc</seg>
       </tuv>
     </tu>
     <tu>
