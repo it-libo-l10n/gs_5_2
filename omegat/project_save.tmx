@@ -18623,6 +18623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may become necessary to remove a defined print range, for example, if the whole sheet needs to be printed later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203313Z" creationid="Marco Marega" creationdate="20180813T203313Z">
+        <seg>Potreste avere bisogno di rimuovere un'area di stampa già definita, ad esempio se in seguito dovete stampare l'intero foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It pays to plan ahead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063537Z" creationid="manuel" creationdate="20180614T063537Z">
@@ -22508,6 +22516,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083926Z" creationid="manuel" creationdate="20180606T083926Z">
         <seg>Rimuovi le informazioni personali al salvataggio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removing a print range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203258Z" creationid="Marco Marega" creationdate="20180813T203258Z">
+        <seg>Eliminare un'area di stampa</seg>
       </tuv>
     </tu>
     <tu>
@@ -26517,6 +26533,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133334Z" creationid="Marco Marega" creationdate="20180623T133334Z">
         <seg>La X può trovarsi sia all'estremità destra che sinistra della barra del titolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The additional print range will print as a separate page, even if both ranges are on the same sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203252Z" creationid="Marco Marega" creationdate="20180813T203252Z">
+        <seg>L'area di stampa addizionale verrà stampata in una pagina separata, anche se entrambe le aree si trovano sul medesimo foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30985,6 +31009,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210214Z" creationid="Marco Marega" creationdate="20180731T210214Z">
         <seg>Per rimuovere la divisione dello schermo, usate uno dei metodi seguenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove all the defined print ranges, go to &lt;f0&gt;Format &gt; Print Ranges &gt; Remove &lt;/f0&gt;on the Menu bar.&lt;f1&gt; &lt;/f1&gt;After the print ranges have been removed, the default page break lines will appear on the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203458Z" creationid="Marco Marega" creationdate="20180813T203458Z">
+        <seg>Per rimuovere tutte le area di stampa definite, nella barra del menu andate in &lt;f0&gt;Formato &gt; Area di stampa &gt; Elimina&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;Dopo aver rimosso l'area di stampa, sullo schermo appaiono le linee di interruzione di pagina predefinite.</seg>
       </tuv>
     </tu>
     <tu>
