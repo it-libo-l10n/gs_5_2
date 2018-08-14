@@ -15215,6 +15215,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Headers and footers are predefined pieces of text that are printed at the top or bottom of a page when a spreadsheet is printed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122216Z" creationid="Marco Marega" creationdate="20180814T122216Z">
+        <seg>Intestazioni e piè di pagina sono parti di testo predefinite che, quando il foglio di lavoro viene stampato, vengono stampate in cima ed in fondo alla pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Headers and footers are set and defined using the same method.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122317Z" creationid="Marco Marega" creationdate="20180814T122317Z">
+        <seg>Le intestazioni e i piè di pagina vengono impostati e configurati usando lo stesso metodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help Improve LibreOffice – Collect usage data and send it to The Document Foundation</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T080825Z" creationid="manuel" creationdate="20180530T080825Z">
