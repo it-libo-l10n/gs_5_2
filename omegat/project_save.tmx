@@ -14015,6 +14015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on setting and defining headers and footers, see the &lt;f0&gt;Calc Guide Chapter 6 Printing, Exporting, and E‑mailing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122357Z" creationid="Marco Marega" creationdate="20180814T122357Z">
+        <seg>Per ulteriori dettagli sull'impostazione e la configurazione delle intestazioni e dei piè di pagina, vedete il &lt;f0&gt;Capitolo 6 (Stampa, esportazione e invio di e-mail) della Guida a Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on special effects, see&lt;f0&gt; &lt;/f0&gt;Chapter 4, Changing Object Attributes,&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;in the &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Draw Guide.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T101033Z" creationid="manuel" creationdate="20180707T101033Z">
@@ -15211,6 +15219,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T210752Z" creationid="Marco Marega" creationdate="20180813T210752Z">
         <seg>Intestazioni e piè di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Headers and footers are also assigned to a page style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122443Z" creationid="Marco Marega" creationdate="20180814T122443Z">
+        <seg>Intestazioni e piè di pagina vengono assegnati ad uno stile di pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35427,6 +35443,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T063722Z" creationid="manuel" creationdate="20180609T063722Z">
         <seg>Potete definire uno schema addizionale, separato da punto e virgola, usando A, M e G per Anno, Mese e Giorno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define more than one page style for a spreadsheet and assign different page styles to different sheets within a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122700Z" creationid="Marco Marega" creationdate="20180814T122700Z">
+        <seg>Potete definire più di uno stile di pagina nello stesso foglio elettronico ed assegnare stili differenti ai diversi fogli presenti al suo interno.</seg>
       </tuv>
     </tu>
     <tu>
