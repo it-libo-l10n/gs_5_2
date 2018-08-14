@@ -24984,6 +24984,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set the margins, spacing, and height for the header or footer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T123251Z" creationid="Marco Marega" creationdate="20180814T123251Z">
+        <seg>Impostate i margini, le spaziature e l'altezza dell'intestazione o del piè di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set them to suit your personal preferences.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T083902Z" creationid="manuel" creationdate="20180530T083902Z">
@@ -30155,6 +30163,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the appearance of the header or footer, click on &lt;f0&gt;More&lt;/f0&gt; to open the borders and background dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T123544Z" creationid="Marco Marega" creationdate="20180814T123544Z">
+        <seg>Per modificare l'aspetto dell'intestazione o del piè di pagina, fate clic sul pulsante &lt;f0&gt;Altro&lt;/f0&gt; in modo da aprire la finestra di dialogo per l'impostazione dei bordi e dello sfondo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the autocorrect options, go to &lt;f0&gt;Tools &gt; AutoCorrect Options&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;AutoCorrect&lt;/f1&gt; dialog (Figure &lt;t2&gt;107&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T201945Z" creationid="Marco Marega" creationdate="20180808T201945Z">
@@ -35083,6 +35099,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103940Z" creationid="manuel" creationdate="20180615T103940Z">
         <seg>Nei modelli è anche possibile salvare le personalizzazioni del menu e della barra degli strumenti; vedere &lt;f0&gt;il Capitolo 14 (Personalizzazione di LibreOffice&lt;/f0&gt;) per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also select &lt;f0&gt;AutoFit height&lt;/f0&gt; box to automatically adjust the height of the header or footer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T123434Z" creationid="Marco Marega" creationdate="20180814T123434Z">
+        <seg>Potete anche selezionare la casella &lt;/f0&gt;Altezza dinamica&lt;f0&gt; per fare sì che l'altezza dell'intestazione o del piè di pagina si regoli automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
