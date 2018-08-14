@@ -13999,6 +13999,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on page styles, see the &lt;f0&gt;Calc Guide Chapter 4 Using Styles and Templates&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122732Z" creationid="Marco Marega" creationdate="20180814T122732Z">
+        <seg>Per ulteriori informazioni sugli stili di pagina, consultate il &lt;f0&gt;Capitolo 4 (Uso di stili e modelli) della Guida a Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on printing options, see the &lt;f0&gt;Calc Guide Chapter 6 Printing, Exporting, and E‑mailing&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204146Z" creationid="Marco Marega" creationdate="20180813T204146Z">
@@ -14787,6 +14795,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204000Z" creationid="Marco Marega" creationdate="20180813T204000Z">
         <seg>Nella barra del menu andate in &lt;f0&gt;Formato &gt; Pagina&lt;/f0&gt; in modo da aprire la finestra di dialogo&lt;f1&gt;Stile di pagina&lt;/f1&gt; (Figura &lt;t2&gt;122&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format &gt; Page&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Page Style&lt;/f1&gt; dialog (Figure &lt;t2&gt;124&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122810Z" creationid="Marco Marega" creationdate="20180814T122810Z">
+        <seg>Nella barra del menu andate in &lt;f0&gt;Formato &gt; Pagina&lt;/f0&gt; in modo da aprire la finestra di dialogo&lt;f1&gt;Stile di pagina&lt;/f1&gt; (Figura &lt;t2&gt;124&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20888,6 +20904,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigate to the sheet that you want to set the header or footer for.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122755Z" creationid="Marco Marega" creationdate="20180814T122755Z">
+        <seg>Andate al foglio nel quale volete impostare l'intestazione o il piè di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Navigate to the template that you want to edit.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154637Z" creationid="manuel" creationdate="20180615T154637Z">
@@ -21460,6 +21484,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071336Z" creationid="manuel" creationdate="20180614T071336Z">
         <seg>Nella finestra di dialogo Carica stili (Figura &lt;t0&gt;51&lt;/t0&gt;), trovate un modello o un documento ordinario da cui copiare gli stili di formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Page Style dialog, select &lt;f0&gt;Header&lt;/f0&gt; or &lt;f1&gt;Footer&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122907Z" creationid="Marco Marega" creationdate="20180814T122907Z">
+        <seg>Nella finestra di dialogo Stile di pagina, selezionate la scheda &lt;f0&gt;Riga d'intestazione&lt;/f0&gt; o &lt;f1&gt;Piè di pagina&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24956,6 +24988,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175942Z" creationid="Elisabetta Manuele" creationdate="20180620T175942Z">
         <seg>Definire un modello standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting a header or footer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122738Z" creationid="Marco Marega" creationdate="20180814T122738Z">
+        <seg>Impostare una intestazione o un piè di pagina</seg>
       </tuv>
     </tu>
     <tu>
@@ -31625,6 +31665,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084124Z" creationid="manuel" creationdate="20180606T084124Z">
         <seg>Per fare in modo che LibreOffice attivi i collegamenti ipertestuali con un semplice clic, deselezionate questa opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To set a header or footer:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122744Z" creationid="Marco Marega" creationdate="20180814T122744Z">
+        <seg>Per impostare una intestazione oppure un piè di pagina:</seg>
       </tuv>
     </tu>
     <tu>
