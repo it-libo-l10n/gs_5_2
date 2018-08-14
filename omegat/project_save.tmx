@@ -21490,8 +21490,8 @@
       <tuv lang="EN">
         <seg>On the Page Style dialog, select &lt;f0&gt;Header&lt;/f0&gt; or &lt;f1&gt;Footer&lt;/f1&gt; tab.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122907Z" creationid="Marco Marega" creationdate="20180814T122907Z">
-        <seg>Nella finestra di dialogo Stile di pagina, selezionate la scheda &lt;f0&gt;Riga d'intestazione&lt;/f0&gt; o &lt;f1&gt;Piè di pagina&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T123047Z" creationid="Marco Marega" creationdate="20180814T122907Z">
+        <seg>Nella finestra di dialogo Stile di pagina, selezionate la scheda &lt;f0&gt;Intestazione&lt;/f0&gt; o &lt;f1&gt;Piè di pagina&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24032,6 +24032,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Same content left/right &lt;/f0&gt;option if you want the same header or footer to appear on all the printed pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T123209Z" creationid="Marco Marega" creationdate="20180814T123035Z">
+        <seg>Se volete che su tutte le pagine venga stampata la stessa intestazioni, o lo stesso piè di pagina, selezionate l'opzione &lt;f0&gt;Contenuto uguale sulle pagine destre e sinistre&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Same orientation&lt;/f0&gt; to apply a smooth transition between the two objects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145944Z" creationid="manuel" creationdate="20180705T145944Z">
@@ -24308,6 +24316,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173016Z" creationid="manuel" creationdate="20180612T150147Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;Modo riempimento&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f0&gt;Header on&lt;/f0&gt; or &lt;f1&gt;Footer on&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122946Z" creationid="Marco Marega" creationdate="20180814T122946Z">
+        <seg>Selezionate l'opzione &lt;f0&gt;Attiva riga d'intestazione&lt;/f0&gt; o &lt;f1&gt;Attiva piè di pagina&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
