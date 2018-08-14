@@ -11623,6 +11623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;124&lt;/seq0&gt;: Header page of Page Style dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T123820Z" creationid="Marco Marega" creationdate="20180814T123657Z">
+        <seg>Figura &lt;seq0&gt;124&lt;/seq0&gt;: Scheda Intestazione della finestra di dialogo Stile di Pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Remote server configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125254Z" creationid="Marco Marega" creationdate="20180622T125254Z">
@@ -31705,6 +31713,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122744Z" creationid="Marco Marega" creationdate="20180814T122744Z">
         <seg>Per impostare una intestazione oppure un piè di pagina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To set the contents, for example page number, date and so on, that appears in the header or footer, click on &lt;f0&gt;Edit&lt;/f0&gt; to open the style dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T123749Z" creationid="Marco Marega" creationdate="20180814T123654Z">
+        <seg>Per impostare i contenuti che compaiono nell'intestazione o nel piè di pagina, ad esempio il numero dalla pagina, la data e così via, fate clic su &lt;f0&gt;Modifica&lt;/f0&gt; per aprire la finestra di dialogo Stile di pagina.</seg>
       </tuv>
     </tu>
     <tu>
