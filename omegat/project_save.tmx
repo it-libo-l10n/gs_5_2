@@ -3511,6 +3511,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;Getting Started with Math&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T125613Z" creationid="Marco Marega" creationdate="20180814T125613Z">
+        <seg>&lt;f3&gt;Guida introduttiva a Math&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;If you do not have the offline help installed on your computer, your default browser will open a page on the LibreOffice wiki if you are connected to the Internet.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170217Z" creationid="Elisabetta Manuele" creationdate="20180625T170217Z">
@@ -7076,8 +7084,8 @@
       <tuv lang="EN">
         <seg>Chapter &lt;f0&gt;9&lt;/f0&gt; &lt;s1/&gt;&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T083407Z" creationid="luke" creationdate="20180515T083407Z">
-        <seg>Chapter &lt;f0&gt;9&lt;/f0&gt; &lt;s1/&gt;&lt;br2/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T125555Z" creationid="luke" creationdate="20180515T083407Z">
+        <seg>Capitolo &lt;f0&gt;9&lt;/f0&gt; &lt;s1/&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
