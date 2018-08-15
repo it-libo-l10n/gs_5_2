@@ -12999,6 +12999,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File formats for formulas</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T114631Z" creationid="Marco Marega" creationdate="20180815T114631Z">
+        <seg>Formati di file per le formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill Format</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T172935Z" creationid="manuel" creationdate="20180612T134616Z">
@@ -14051,6 +14059,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111454Z" creationid="manuel" creationdate="20180707T111454Z">
         <seg>Per maggiori informazioni sul riempimento d'area, vedere il&lt;f3&gt; &lt;/f3&gt;Capitolo 4 (Modificare gli attributi degli oggetti) &lt;f4&gt;nella &lt;/f4&gt;&lt;f5&gt;Guida a Draw.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on creating formulas, see “&lt;/f11&gt;&lt;f12&gt;&lt;bf13&gt;Creating formulas&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;” on page &lt;/f14&gt;&lt;f15&gt;&lt;bf16&gt;270&lt;/bf16&gt;&lt;/f15&gt;&lt;f17&gt;.&lt;/f17&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T114530Z" creationid="Marco Marega" creationdate="20180815T114530Z">
+        <seg>Per maggiori informazioni sulla creazione di formule, vedete “&lt;/f11&gt;&lt;f12&gt;&lt;bf13&gt;Creazione di formule&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;” a pagina &lt;/f14&gt;&lt;f15&gt;&lt;bf16&gt;270&lt;/bf16&gt;&lt;/f15&gt;&lt;f17&gt;.&lt;/f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19716,6 +19732,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T125707Z" creationid="Marco Marega" creationdate="20180814T125707Z">
         <seg>Math è il programma di &lt;f0&gt;LibreOffice&lt;/f0&gt; per &lt;f1&gt;formule ed equazioni&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice’&lt;f0&gt;s&lt;/f0&gt; native file format &lt;f1&gt;for formulas &lt;/f1&gt;is ODF Formula, with extension *.odf.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T114727Z" creationid="Marco Marega" creationdate="20180815T114727Z">
+        <seg>Il formato di file per le formule nativo di LibreOffice&lt;f0&gt;&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt;è l'ODF Formula, con estensione *.odf.</seg>
       </tuv>
     </tu>
     <tu>
