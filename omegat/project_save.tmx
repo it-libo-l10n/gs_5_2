@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;f4&gt;The&lt;/f4&gt;&lt;f5&gt; LibreOffice module &lt;/f5&gt;&lt;f6&gt;in use &lt;/f6&gt;&lt;f7&gt;affects how you position the cursor to insert the formula.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T131050Z" creationid="Marco Marega" creationdate="20180815T131050Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;A seconda del modulo di &lt;/f4&gt;&lt;f5&gt; LibreOffice &lt;/f5&gt;&lt;f6&gt;utilizzato &lt;/f6&gt;&lt;f7&gt;varia il modo in cui dovete posizionare il cursore per inserire la formula.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f3&gt;A new document based on the template opens in LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T091547Z" creationid="manuel" creationdate="20180614T091547Z">
@@ -2459,6 +2467,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142151Z" creationid="manuel" creationdate="20180621T142151Z">
         <seg>&lt;f0&gt;Importante&lt;/f0&gt;—Salvate prima il vostro documento nel formato file usato da LibreOffice Writer (.ODT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;In Calc, click in the &lt;/f0&gt;&lt;f1&gt;spreadsheet &lt;/f1&gt;&lt;f2&gt;cell where you want to insert the formula.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T131157Z" creationid="Marco Marega" creationdate="20180815T131157Z">
+        <seg>&lt;f0&gt;In Calc, fate clic nella cella del &lt;/f0&gt;&lt;f1&gt;foglio di lavoro&lt;/f1&gt;&lt;f2&gt;nella quale volete inserire la formula.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17887,6 +17903,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Draw and Impress, the formula is inserted into the center of the drawing or slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T131246Z" creationid="Marco Marega" creationdate="20180815T131246Z">
+        <seg>In Draw e Impress, la formula viene inserita al centro del disegno o della diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Draw you can arrange, align, and distribute selected objects in relation to each other:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112536Z" creationid="manuel" creationdate="20180705T112536Z">
@@ -17987,6 +18011,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134100Z" creationid="Marco Marega" creationdate="20180623T134100Z">
         <seg>In Windows e Linux – &lt;f0&gt;Ctrl+Q&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Writer, click in the paragraph where you want to insert the formula.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T131115Z" creationid="Marco Marega" creationdate="20180815T131115Z">
+        <seg>In Writer, fate clic nel paragrafo in cui volete inserire la formula.</seg>
       </tuv>
     </tu>
     <tu>
