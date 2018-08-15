@@ -2263,6 +2263,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;From the Start Center, click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Math &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Formula&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T113556Z" creationid="Marco Marega" creationdate="20180815T113556Z">
+        <seg>&lt;f0&gt;Dal Centro di avvio, fate clic su &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Formula &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Math.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Function Wizard&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – &lt;i4/&gt;opens a dialog from which you can search through a list of available functions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T221047Z" creationid="Marco Marega" creationdate="20180707T221047Z">
@@ -2659,6 +2667,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144841Z" creationid="manuel" creationdate="20180608T144841Z">
         <seg>&lt;f0&gt;Versione del formato ODF.&lt;/f0&gt; LibreOffice per impostazione predefinita salva i documenti nel &lt;i1/&gt;Formato OpenDocument (ODF) versione 1.2 Esteso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;menu&lt;/f1&gt;&lt;f2&gt; bar, &lt;/f2&gt;&lt;f3&gt;go to&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;File &gt; New &gt; Formula&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T113456Z" creationid="Marco Marega" creationdate="20180815T113456Z">
+        <seg>&lt;f0&gt;Nella barra del &lt;/f0&gt;&lt;f1&gt;menu&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;&lt;f3&gt;andate in&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;File &gt; Nuovo &gt; Formula&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3099,6 +3115,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T074451Z" creationid="manuel" creationdate="20180626T074451Z">
         <seg>&lt;f0&gt;Il dizionario dei sinonimi offre un elenco più ampio di parole e frasi alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To create a &lt;/f0&gt;&lt;f1&gt;formula&lt;/f1&gt;&lt;f2&gt; as a separate document &lt;/f2&gt;&lt;f3&gt;or file&lt;/f3&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;f5&gt;use&lt;/f5&gt;&lt;f6&gt; one of the &lt;/f6&gt;&lt;f7&gt;following&lt;/f7&gt;&lt;f8&gt; methods &lt;/f8&gt;&lt;f9&gt;to open an&lt;/f9&gt;&lt;f10&gt; empty formula document &lt;/f10&gt;&lt;f11&gt;in LibreOffice Math &lt;/f11&gt;&lt;f12&gt;(&lt;/f12&gt;&lt;f13&gt;Figure &lt;/f13&gt;&lt;f14&gt;&lt;t15&gt;270&lt;/t15&gt;&lt;/f14&gt;&lt;f16&gt;):&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T113422Z" creationid="Marco Marega" creationdate="20180815T113422Z">
+        <seg>&lt;f0&gt;Per creare una &lt;/f0&gt;&lt;f1&gt;formula&lt;/f1&gt;&lt;f2&gt; come documento &lt;/f2&gt;&lt;f3&gt;o file&lt;/f3&gt;&lt;f4&gt; a se stante, &lt;/f4&gt;&lt;f5&gt;usate&lt;/f5&gt;&lt;f6&gt; uno dei &lt;/f6&gt;&lt;f7&gt;seguenti&lt;/f7&gt;&lt;f8&gt; metodi &lt;/f8&gt;&lt;f9&gt;per aprire un &lt;/f9&gt;&lt;f10&gt; documento formula vuoto&lt;/f10&gt;&lt;f11&gt;all'interno di LibreOffice Math &lt;/f11&gt;&lt;f12&gt;(&lt;/f12&gt;&lt;f13&gt;Figura &lt;/f13&gt;&lt;f14&gt;&lt;t15&gt;270&lt;/t15&gt;&lt;/f14&gt;&lt;f16&gt;):&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12203,6 +12227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073003Z" creationid="manuel" creationdate="20180606T073003Z">
         <seg>Figura &lt;seq0&gt;26&lt;/seq0&gt;: finestra di dialogo Imposta Password principale per le connessioni web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;270&lt;/seq0&gt;: An empty formula document in Math</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T113252Z" creationid="Marco Marega" creationdate="20180815T113252Z">
+        <seg>Figura &lt;seq0&gt;270&lt;/seq0&gt;: un documento formula vuoto aperto in Math</seg>
       </tuv>
     </tu>
     <tu>
