@@ -3447,6 +3447,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;When you &lt;/f0&gt;&lt;f1&gt;have completed&lt;/f1&gt;&lt;f2&gt; entering &lt;/f2&gt;&lt;f3&gt;the markup for &lt;/f3&gt;&lt;f4&gt;the&lt;/f4&gt;&lt;f5&gt; formula, close the &lt;/f5&gt;&lt;f6&gt;Formula Editor&lt;/f6&gt;&lt;f7&gt; by pressing the &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Esc&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; key or by clicking an area outside the formula in &lt;/f10&gt;&lt;f11&gt;the&lt;/f11&gt;&lt;f12&gt; document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T132531Z" creationid="Marco Marega" creationdate="20180815T132531Z">
+        <seg>&lt;f0&gt;Quando &lt;/f0&gt;&lt;f1&gt;avete completato&lt;/f1&gt;&lt;f2&gt; l'inserimento &lt;/f2&gt;&lt;f3&gt;del codice di markup &lt;/f3&gt;&lt;f4&gt;della&lt;/f4&gt;&lt;f5&gt; formula, chiudete l'&lt;/f5&gt;&lt;f6&gt;Editor della formula&lt;/f6&gt;&lt;f7&gt; premendo il tasto &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Esc&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; oppure facendo clic in una zona del documento al di fuori del riquadro della formula&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Window&lt;/f0&gt; – contains commands for the display window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215352Z" creationid="Marco Marega" creationdate="20180616T215352Z">
