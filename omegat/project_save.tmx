@@ -3199,6 +3199,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the Formula Editor, y&lt;/f0&gt;ou can create a &lt;f1&gt;formula&lt;/f1&gt; as a separate document &lt;f2&gt;or file for a formula library,&lt;/f2&gt; or insert &lt;f3&gt;formulas directly&lt;/f3&gt; into a document &lt;f4&gt;using &lt;/f4&gt;LibreOffic&lt;f5&gt;e Writer, Calc, Impress, or Draw&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T112942Z" creationid="Marco Marega" creationdate="20180815T112942Z">
+        <seg>&lt;f0&gt;Usando l'Editor delle formule, &lt;/f0&gt;potete creare una &lt;f1&gt;formula&lt;/f1&gt; come documento a se stante, &lt;f2&gt;o come file da inserire in una raccolta di formule,&lt;/f2&gt; oppure inserire direttamente le &lt;f3&gt;formule&lt;/f3&gt; all'interno di un documento &lt;f4&gt;di &lt;/f4&gt;LibreOffic&lt;f5&gt;e Writer, Calc, Impress, o Draw&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – press the &lt;f1&gt;F5&lt;/f1&gt; key to open the Navigator dialog (Figure &lt;t2&gt;93&lt;/t2&gt;) or click the &lt;f3&gt;Navigator &lt;/f3&gt;button in the open Sidebar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183855Z" creationid="Marco Marega" creationdate="20180713T183855Z">
