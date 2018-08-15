@@ -2487,6 +2487,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt;Math&lt;f1&gt; &lt;/f1&gt;is a &lt;is2/&gt;&lt;f3&gt;formula &lt;/f3&gt;editor&lt;ie4/&gt; &lt;f5&gt;you can use to&lt;/f5&gt; &lt;f6&gt;create or edit formulas (equations)&lt;/f6&gt; &lt;f7&gt;in a symbolic form within LibreOffice documents or as standalone objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T111318Z" creationid="Marco Marega" creationdate="20180815T111318Z">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt;Math&lt;f1&gt; &lt;/f1&gt;è un programma per la gestione delle &lt;is2/&gt;&lt;f3&gt;formule &lt;/f3&gt;&lt;ie4/&gt; &lt;f5&gt;potere usarlo per &lt;/f5&gt; &lt;f6&gt;creare o modificare, con l'uso di simboli matematici, formule (equazioni)&lt;/f6&gt;&lt;f7&gt;, da inserire nei documenti di LibreOffice o da usare come oggetti a se stanti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Line:&lt;/f0&gt; Permits edits to the line style, width, color, arrows, corners, and cap styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T145340Z" creationid="manuel" creationdate="20180618T145340Z">
