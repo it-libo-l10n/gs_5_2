@@ -2215,6 +2215,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;271&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;shows an example Writer document with the formula box selected ready for a formula to be entered&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T132211Z" creationid="Marco Marega" creationdate="20180815T132211Z">
+        <seg>La &lt;f0&gt;figura &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;271&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;mostra un esempio di documento di Writer con un riquadro per la formula selezionato e pronto per il suo inserimento&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;File compatibility.&lt;/f0&gt; In addition to its native OpenDocument formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185448Z" creationid="Marco Marega" creationdate="20180528T185108Z">
@@ -14235,6 +14243,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T114530Z" creationid="Marco Marega" creationdate="20180815T114530Z">
         <seg>Per maggiori informazioni sulla creazione di formule, vedete “&lt;/f11&gt;&lt;f12&gt;&lt;bf13&gt;Creazione di formule&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;” a pagina &lt;/f14&gt;&lt;f15&gt;&lt;bf16&gt;270&lt;/bf16&gt;&lt;/f15&gt;&lt;f17&gt;.&lt;/f17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on creating formulas, see “&lt;/f42&gt;&lt;f43&gt;&lt;bf44&gt;Creating formulas&lt;/bf44&gt;&lt;/f43&gt;&lt;f45&gt;” &lt;/f45&gt;&lt;f46&gt;on &lt;/f46&gt;&lt;f47&gt;p&lt;/f47&gt;&lt;f48&gt;age &lt;/f48&gt;&lt;f49&gt;&lt;bf50&gt;270&lt;/bf50&gt;&lt;/f49&gt;&lt;f51&gt;.&lt;/f51&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T132033Z" creationid="Marco Marega" creationdate="20180815T132033Z">
+        <seg>Per maggiori informazioni sulla creazione di formule, vedete “&lt;/f42&gt;&lt;f43&gt;&lt;bf44&gt;Creazione di formule&lt;/bf44&gt;&lt;/f43&gt;&lt;f45&gt;” &lt;/f45&gt;&lt;f46&gt;a &lt;/f46&gt;&lt;f47&gt;pagina&lt;/f47&gt;&lt;f48&gt; &lt;/f48&gt;&lt;f49&gt;&lt;bf50&gt;270&lt;/bf50&gt;&lt;/f49&gt;&lt;f51&gt;.&lt;/f51&gt;</seg>
       </tuv>
     </tu>
     <tu>
