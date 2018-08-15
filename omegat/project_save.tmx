@@ -1558,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;f3&gt;A&lt;/f3&gt;&lt;f4&gt;s with any OLE object, &lt;/f4&gt;&lt;f5&gt;y&lt;/f5&gt;&lt;f6&gt;ou can change &lt;/f6&gt;&lt;f7&gt;how the object is placed within the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133229Z" creationid="Marco Marega" creationdate="20180815T133229Z">
+        <seg>&lt;/f2&gt;&lt;f3&gt;Come&lt;/f3&gt;&lt;f4&gt; con qualsiasi Oggetto OLE, &lt;/f4&gt;&lt;f5&gt;potete&lt;/f5&gt;&lt;f6&gt; modificare &lt;/f6&gt;&lt;f7&gt;il modo in cui l'oggetto è posizionato all'interno del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;f4&gt;The&lt;/f4&gt;&lt;f5&gt; LibreOffice module &lt;/f5&gt;&lt;f6&gt;in use &lt;/f6&gt;&lt;f7&gt;affects how you position the cursor to insert the formula.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T131050Z" creationid="Marco Marega" creationdate="20180815T131050Z">
@@ -2315,6 +2323,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T063158Z" creationid="manuel" creationdate="20180806T063158Z">
         <seg>&lt;f0&gt;Formato&lt;/f0&gt;: Cambiate solo la &lt;f1&gt;Digitazione necessaria&lt;/f1&gt;, impostandola da &lt;f2&gt;No&lt;/f2&gt; a &lt;f3&gt;Sì&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Formulas are inserted as OLE objects &lt;/f0&gt;&lt;f1&gt;into documents&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133123Z" creationid="Marco Marega" creationdate="20180815T133123Z">
+        <seg>&lt;f0&gt;Nei documenti le formule vegono inserite come Oggetti OLE&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12455,6 +12471,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;271&lt;/seq0&gt;: Empty formula in a Writer document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133410Z" creationid="Marco Marega" creationdate="20180815T133410Z">
+        <seg>Figura &lt;seq0&gt;271&lt;/seq0&gt;: formula vuota in un documento di Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Security options and warnings dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083920Z" creationid="manuel" creationdate="20180606T083920Z">
@@ -14243,6 +14267,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090041Z" creationid="luke" creationdate="20180515T090041Z">
         <seg>For more information and details about using the Presenter Console, see the &lt;f0&gt;Impress Guide Chapter 9 Slide Shows&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on OLE objects, see the &lt;/f7&gt;&lt;f8&gt;user &lt;/f8&gt;&lt;f9&gt;guides for &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Math&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Writer&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;, &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Calc&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Draw&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;, and &lt;/f21&gt;&lt;f22&gt;&lt;f23&gt;Impress&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;.&lt;/f24&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133328Z" creationid="Marco Marega" creationdate="20180815T133328Z">
+        <seg>Per maggiori informazioni sugli Oggetti OLE, vedete le &lt;/f7&gt;&lt;f8&gt;guide &lt;/f8&gt;&lt;f9&gt;di &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Math&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Writer&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;, &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Calc&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Draw&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; e &lt;/f21&gt;&lt;f22&gt;&lt;f23&gt;Impress&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;.&lt;/f24&gt;</seg>
       </tuv>
     </tu>
     <tu>
