@@ -2487,6 +2487,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If you frequently insert formulas &lt;/f0&gt;&lt;f1&gt;into documents&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;&lt;f3&gt;you might like&lt;/f3&gt;&lt;f4&gt; to add the Formula button to the Standard toolbar or create a keyboard shortcut.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133530Z" creationid="Marco Marega" creationdate="20180815T133530Z">
+        <seg>&lt;f0&gt;Se inserite spesso delle formule &lt;/f0&gt;&lt;f1&gt;nei documenti&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;&lt;f3&gt;potreste voler&lt;/f3&gt;&lt;f4&gt; aggiungere il pulsante Formula alla barre degli strumenti Standard oppure creare una scorciatoia da tastiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If&lt;/f0&gt; you se&lt;f1&gt;lec&lt;/f1&gt;t&lt;f2&gt;ed&lt;/f2&gt; &lt;f3&gt;Add caption to each slide&lt;/f3&gt;, &lt;f4&gt;t&lt;/f4&gt;here will be a placeholder for the image caption &lt;f5&gt;(title) on each slide.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085946Z" creationid="luke" creationdate="20180515T085946Z">
@@ -23820,6 +23828,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080344Z" creationid="manuel" creationdate="20180531T080344Z">
         <seg>Opzioni di sicurezza e avvisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;/f4&gt;&lt;f5&gt;Chapter &lt;/f5&gt;&lt;f6&gt;1&lt;/f6&gt;&lt;f7&gt;4, &lt;/f7&gt;&lt;f8&gt;Customizing LibreOffice,&lt;/f8&gt;&lt;f9&gt; for more information&lt;/f9&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133619Z" creationid="Marco Marega" creationdate="20180815T133619Z">
+        <seg>Per maggiori informazioni, vedete il &lt;/f4&gt;&lt;f5&gt;Capitolo &lt;/f5&gt;&lt;f6&gt;1&lt;/f6&gt;&lt;f7&gt;4, &lt;/f7&gt;&lt;f8&gt;(Personalizzazione di LibreOffice)&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
