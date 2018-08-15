@@ -2407,6 +2407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In Math, use the keyboard short&lt;/f0&gt;&lt;f1&gt;cut&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Ctrl+N&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T113821Z" creationid="Marco Marega" creationdate="20180815T113706Z">
+        <seg>&lt;f0&gt;In Math, usate i tasti di  &lt;/f0&gt;&lt;f1&gt;scelta rapida&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Ctrl+N&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In Normal view, you can hide or show the headers and footers and the gap between pages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T134440Z" creationid="manuel" creationdate="20180621T134440Z">
@@ -2667,6 +2675,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144841Z" creationid="manuel" creationdate="20180608T144841Z">
         <seg>&lt;f0&gt;Versione del formato ODF.&lt;/f0&gt; LibreOffice per impostazione predefinita salva i documenti nel &lt;i1/&gt;Formato OpenDocument (ODF) versione 1.2 Esteso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;S&lt;/f1&gt;&lt;f2&gt;tandard toolbar, click the triangle to the &lt;/f2&gt;&lt;f3&gt;right&lt;/f3&gt;&lt;f4&gt; of the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;New&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; icon and &lt;/f7&gt;&lt;f8&gt;select&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Formula&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;from the context menu.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T113730Z" creationid="Marco Marega" creationdate="20180815T113703Z">
+        <seg>&lt;f0&gt;Nella barre degli strumenti &lt;/f0&gt;&lt;f1&gt;Standard&lt;/f1&gt;&lt;f2&gt;, fate clic sul triangolo alla &lt;/f2&gt;&lt;f3&gt;destra&lt;/f3&gt;&lt;f4&gt; dell'icona &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Nuovo&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; e dal menu contestuale &lt;/f7&gt;&lt;f8&gt;selezionate&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Formula&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
