@@ -2239,6 +2239,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Formulas&lt;/f0&gt; as separate document&lt;f1&gt;s or files&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T113204Z" creationid="Marco Marega" creationdate="20180815T113204Z">
+        <seg>&lt;f0&gt;Formule&lt;/f0&gt; come documenti &lt;f1&gt;o file&lt;/f1&gt; a se stanti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Frame styles&lt;/f0&gt; are used to format graphic and text frames, including text wrap, borders, backgrounds, and columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144454Z" creationid="manuel" creationdate="20180611T144454Z">
