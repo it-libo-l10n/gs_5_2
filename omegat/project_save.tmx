@@ -1630,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;&lt;f4&gt;o&lt;/f4&gt;&lt;f5&gt;r&lt;/f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T111754Z" creationid="Marco Marega" creationdate="20180815T111754Z">
+        <seg>&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;&lt;f4&gt;oppure&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;(Not shown in illustration.)&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141927Z" creationid="manuel" creationdate="20180529T070022Z">
@@ -3059,6 +3067,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221725Z" creationid="Marco Marega" creationdate="20180712T221725Z">
         <seg>&lt;f0&gt;Testo&lt;/f0&gt; – i dati importati vengono trattati come testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;F&lt;/f1&gt;&lt;f2&gt;ormula&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;E&lt;/f4&gt;&lt;f5&gt;ditor &lt;/f5&gt;&lt;f6&gt;in Math &lt;/f6&gt;&lt;f7&gt;uses a markup language to represent formulas.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T112211Z" creationid="Marco Marega" creationdate="20180815T112211Z">
+        <seg>In Math &lt;f0&gt;nell'&lt;/f0&gt;&lt;f1&gt;Editor&lt;/f1&gt; di &lt;f2&gt;Formule&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt; per rappresentare le formule viene usato un linguaggio di markup.</seg>
       </tuv>
     </tu>
     <tu>
