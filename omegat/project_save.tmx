@@ -13647,6 +13647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, the MathML code on the left of Table &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;5&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt; displays the equation on the right.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115303Z" creationid="Marco Marega" creationdate="20180815T115303Z">
+        <seg>Ad esempio, il codice MathML alla sinistra della Tabella &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;5&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt; genera l'equazione sulla destra.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, the Phone field of an address book would only contain phone numbers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T104027Z" creationid="manuel" creationdate="20180721T104027Z">
@@ -26312,6 +26320,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;5&lt;/seq0&gt;: MathML &lt;f1&gt;1.01&lt;/f1&gt; language imported from the clipboard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115337Z" creationid="Marco Marega" creationdate="20180815T115337Z">
+        <seg>Tabella&lt;seq0&gt;5&lt;/seq0&gt;: formula in MathML &lt;f1&gt;1.01&lt;/f1&gt; importata dagli appunti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table &lt;t0&gt;86&lt;/t0&gt; lists the keys and key combinations you can use for spreadsheet navigation in Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200420Z" creationid="Marco Marega" creationdate="20180713T200420Z">
@@ -31168,6 +31184,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161045Z" creationid="manuel" creationdate="20180628T161045Z">
         <seg>Per collegare un oggetto, ad esempio un'immagine, e fare in modo che il collegamento mostri un testo significativo come in &lt;f0&gt;Figura 6&lt;/f0&gt;, dovrete dare a tale oggetto un nome significativo (invece di un nome standard come &lt;f1&gt;Immagine6&lt;/f1&gt;), o usare la finestra di dialogo Collegamento ipertestuale per modificare il testo visibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To import a MathML Presentation formula, copy the formula from the external equation editor and issue &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Import MathML from Clipboard&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115215Z" creationid="Marco Marega" creationdate="20180815T115215Z">
+        <seg>Per importare una formula da una presentazione MathML, copiate la formula all'interno di un altro gestore di formule e richiamate &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Strumenti &gt; Importa MathML dagli appunti&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
