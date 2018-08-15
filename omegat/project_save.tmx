@@ -3159,6 +3159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;&lt;f1&gt;hen, &lt;/f1&gt;&lt;f2&gt;go to&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Insert &gt; Object &gt; Formula&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;on&lt;/f7&gt;&lt;f8&gt; the &lt;/f8&gt;&lt;f9&gt;menu&lt;/f9&gt;&lt;f10&gt; bar &lt;/f10&gt;&lt;f11&gt;to open the Formula Editor.&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Alternatively, go to&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Insert &gt; Object &gt; &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;OLE Object&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;on the menu bar to open the Insert OLE Object dialog, select &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;Create new&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; option and &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;Formula&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; from the &lt;/f26&gt;&lt;f27&gt;sub-menu&lt;/f27&gt;&lt;f28&gt;, then click &lt;/f28&gt;&lt;f29&gt;OK&lt;/f29&gt;&lt;f30&gt; to open the Formula Editor&lt;/f30&gt;&lt;f31&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T131715Z" creationid="Marco Marega" creationdate="20180815T131715Z">
+        <seg>&lt;f0&gt;Poi&lt;/f0&gt;&lt;f1&gt;, &lt;/f1&gt;&lt;f2&gt;nella barra del menu andate in &lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Inserisci &gt; Oggetto &gt; Formula&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;per aprire l'Editor delle Formule.&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;In alternativa, sempre nella barra del menu, andate in &lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Inserisci &gt; Oggetto &gt; &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;Oggetto OLE&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt; per aprire la finestra di dialogo Inserimento Oggetto OLE, selezionate l'opzione &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;Crea nuovo&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; e nel sottomenu &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;Formula&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;/f26&gt;&lt;f27&gt;&lt;/f27&gt;&lt;f28&gt;, quindi fate clic su &lt;/f28&gt;&lt;f29&gt;OK&lt;/f29&gt;&lt;f30&gt; per aprire l'Editor delle formule&lt;/f30&gt;&lt;f31&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;o&lt;/f1&gt;ther &lt;f2&gt;o&lt;/f2&gt;ptions include searching only in selected text, searching from the current cursor position backwards toward the beginning of the file, searching for similar words, &lt;f3&gt;and searching in comments&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103457Z" creationid="manuel" creationdate="20180622T103457Z">
