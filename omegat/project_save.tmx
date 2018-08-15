@@ -1582,6 +1582,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/math&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115408Z" creationid="Marco Marega" creationdate="20180815T115408Z">
+        <seg>&lt;/math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/mrow&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115402Z" creationid="Marco Marega" creationdate="20180815T115402Z">
+        <seg>&lt;/mrow&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/msup&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115401Z" creationid="Marco Marega" creationdate="20180815T115401Z">
+        <seg>&lt;/msup&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/semantics&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115403Z" creationid="Marco Marega" creationdate="20180815T115403Z">
+        <seg>&lt;/semantics&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://ask.libreoffice.org/en/questions/&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171758Z" creationid="Elisabetta Manuele" creationdate="20180625T171758Z">
@@ -3719,10 +3751,74 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block"&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115342Z" creationid="Marco Marega" creationdate="20180815T115342Z">
+        <seg>&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;mi mathvariant="italic"&gt;mc&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115358Z" creationid="Marco Marega" creationdate="20180815T115358Z">
+        <seg>&lt;mi mathvariant="italic"&gt;mc&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;mi&gt;E&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115351Z" creationid="Marco Marega" creationdate="20180815T115351Z">
+        <seg>&lt;mi&gt;E&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;mn&gt;2&lt;/mn&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115400Z" creationid="Marco Marega" creationdate="20180815T115400Z">
+        <seg>&lt;mn&gt;2&lt;/mn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;mo stretchy="false"&gt;=&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115354Z" creationid="Marco Marega" creationdate="20180815T115354Z">
+        <seg>&lt;mo stretchy="false"&gt;=&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;mrow&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115346Z" creationid="Marco Marega" creationdate="20180815T115346Z">
+        <seg>&lt;mrow&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;msup&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115355Z" creationid="Marco Marega" creationdate="20180815T115355Z">
+        <seg>&lt;msup&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1/&gt;A submenu of alternative words and phrases is displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T074335Z" creationid="manuel" creationdate="20180626T074335Z">
         <seg>&lt;s1/&gt;Viene visualizzato un sottomenu di parole e frasi alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;semantics&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115344Z" creationid="Marco Marega" creationdate="20180815T115344Z">
+        <seg>&lt;semantics&gt;</seg>
       </tuv>
     </tu>
     <tu>
