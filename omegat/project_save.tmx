@@ -1502,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f12&gt;&lt;f13&gt;D&lt;/f13&gt;&lt;f14&gt;ouble-click&lt;/f14&gt;&lt;f15&gt;ing&lt;/f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;on the formula &lt;/f17&gt;&lt;f18&gt;object&lt;/f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;in &lt;/f20&gt;&lt;f21&gt;the&lt;/f21&gt;&lt;f22&gt; document &lt;/f22&gt;&lt;f23&gt;will open the &lt;/f23&gt;&lt;f24&gt;Formula Editor&lt;/f24&gt;&lt;f25&gt; again so &lt;/f25&gt;&lt;f26&gt;that &lt;/f26&gt;&lt;f27&gt;you can edit the formula&lt;/f27&gt;&lt;f28&gt;.&lt;/f28&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133045Z" creationid="Marco Marega" creationdate="20180815T133045Z">
+        <seg>&lt;/f12&gt;&lt;f13&gt;Con&lt;/f13&gt;&lt;f14&gt; un doppio clic&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;f17&gt; sulla formula&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;f20&gt; all'interno&lt;/f20&gt;&lt;f21&gt; del&lt;/f21&gt;&lt;f22&gt; documento&lt;/f22&gt;&lt;f23&gt;, potete aprire nuovamente &lt;/f23&gt;&lt;f24&gt;l'editor&lt;/f24&gt;&lt;f25&gt;&lt;/f25&gt;&lt;f26&gt;, e&lt;/f26&gt;&lt;f27&gt; modificarla&lt;/f27&gt;&lt;f28&gt;&lt;/f28&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;LibreOffice provides standardized means for sensitive information to be &lt;f2&gt;identifi&lt;/f2&gt;ed: a set of standard fields that can be used to hold sensitivity information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170622Z" creationid="manuel" creationdate="20180628T170622Z">
