@@ -15751,6 +15751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if you want to evaluate numeric values using formulas, then refer to the &lt;/f7&gt;&lt;f8&gt;Calc Guide&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;for more information; Math &lt;/f10&gt;&lt;f11&gt;does not&lt;/f11&gt;&lt;f12&gt; carry out any &lt;/f12&gt;&lt;f13&gt;actual &lt;/f13&gt;&lt;f14&gt;calculation.&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T111718Z" creationid="Marco Marega" creationdate="20180815T111718Z">
+        <seg>Però, se volete calcolare dei valori numerici usando delle formule, fate riferimento alla &lt;/f7&gt;&lt;f8&gt;Guida a Calc&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;che contiene maggiori informazioni al riguardo; Math &lt;/f10&gt;&lt;f11&gt;non&lt;/f11&gt;&lt;f12&gt; esegue alcun &lt;/f12&gt;&lt;f13&gt;conteggio&lt;/f13&gt;&lt;f14&gt;.&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, it does not affect the actual font size of the text in your documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084112Z" creationid="manuel" creationdate="20180530T084112Z">
