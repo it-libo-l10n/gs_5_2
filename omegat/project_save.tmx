@@ -2167,6 +2167,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;ormula&lt;f1&gt;s&lt;/f1&gt; in &lt;f2&gt;LibreOffice&lt;/f2&gt; document&lt;f3&gt;s&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115818Z" creationid="Marco Marega" creationdate="20180815T115818Z">
+        <seg>&lt;f0&gt;Formule&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt; in documenti di &lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;F&lt;/f0&gt;rom left to right, the Formula Bar consists of the following:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220217Z" creationid="Marco Marega" creationdate="20180707T220217Z">
@@ -37651,6 +37659,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T192516Z" creationid="Marco Marega" creationdate="20180811T192516Z">
         <seg>formattazione, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>formula</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115839Z" creationid="Marco Marega" creationdate="20180815T115839Z">
+        <seg>formula</seg>
       </tuv>
     </tu>
     <tu>
