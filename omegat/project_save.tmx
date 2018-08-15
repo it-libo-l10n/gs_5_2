@@ -29569,6 +29569,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This markup &lt;/f7&gt;&lt;f8&gt;language &lt;/f8&gt;&lt;f9&gt;is designed to &lt;/f9&gt;&lt;f10&gt;be&lt;/f10&gt;&lt;f11&gt; eas&lt;/f11&gt;&lt;f12&gt;il&lt;/f12&gt;&lt;f13&gt;y &lt;/f13&gt;&lt;f14&gt;read whe&lt;/f14&gt;&lt;f15&gt;r&lt;/f15&gt;&lt;f16&gt;ever possible, &lt;/f16&gt;&lt;f17&gt;f&lt;/f17&gt;&lt;f18&gt;or example, &lt;/f18&gt;&lt;f19&gt;a over b&lt;/f19&gt;&lt;f20&gt; produces &lt;/f20&gt;&lt;f21&gt;the&lt;/f21&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;fraction&lt;/f23&gt;&lt;f24&gt;&lt;df25&gt;&lt;d26/&gt;&lt;di27/&gt;&lt;s28&gt;formula&lt;/s28&gt;&lt;/df25&gt;&lt;/f24&gt;&lt;f29&gt;when used in a formula&lt;/f29&gt;&lt;f30&gt;.&lt;/f30&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T112642Z" creationid="Marco Marega" creationdate="20180815T112642Z">
+        <seg>Questo &lt;/f7&gt;&lt;f8&gt;linguaggio &lt;/f8&gt; di markup &lt;f9&gt;è progettato per &lt;/f9&gt;&lt;f10&gt;essere &lt;/f10&gt;&lt;f11&gt; letto facilmente (in inglese)&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt; ogni qualvolta ciò sia possibile, &lt;/f16&gt;&lt;f17&gt;ad&lt;/f17&gt;&lt;f18&gt; esempio, &lt;/f18&gt; il testo &lt;f19&gt;a over b&lt;/f19&gt;, quando usato in una formula, &lt;f20&gt; genera &lt;/f20&gt;&lt;f21&gt;la formula della&lt;/f21&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;frazione&lt;/f23&gt;&lt;f24&gt;&lt;df25&gt;&lt;d26/&gt;&lt;di27/&gt;&lt;s28&gt;&lt;/s28&gt;&lt;/df25&gt;&lt;/f24&gt;&lt;f29&gt;&lt;/f29&gt;&lt;f30&gt;.&lt;/f30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This means more than saving what you have just created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163055Z" creationid="manuel" creationdate="20180715T163055Z">
