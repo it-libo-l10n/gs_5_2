@@ -1718,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;As you enter the markup language in&lt;/f0&gt; the &lt;f1&gt;Formula&lt;/f1&gt; &lt;f2&gt;E&lt;/f2&gt;ditor, the &lt;f3&gt;formula&lt;/f3&gt; &lt;f4&gt;will appear in&lt;/f4&gt; the &lt;f5&gt;P&lt;/f5&gt;review window during and after input &lt;f6&gt;of the markup&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T114249Z" creationid="Marco Marega" creationdate="20180815T114249Z">
+        <seg>&lt;f0&gt;Quando inserite il linguaggio di markup &lt;/f0&gt; nell' &lt;f1&gt;Editor&lt;/f1&gt; della &lt;f2&gt;Formula&lt;/f2&gt;, &lt;f3&gt;questa&lt;/f3&gt; &lt;f4&gt;apparirà&lt;/f4&gt; nella finestra dell'&lt;f5&gt;Anteprima&lt;/f5&gt;già durante la digitazione &lt;f6&gt;&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;AutoFill&lt;/f0&gt; – forms a series directly in the sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T211208Z" creationid="Marco Marega" creationdate="20180808T211208Z">
@@ -3219,6 +3227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T210353Z" creationid="Marco Marega" creationdate="20180808T210353Z">
         <seg>&lt;f0&gt;Alto&lt;/f0&gt; – crea, nell'intervallo di celle selezionato, una serie che procede nella colonna verso l'alto utilizzando il valore di incremento specificato fino a raggiungere il valore finale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Use command &lt;/f0&gt;&lt;f1&gt;Import MathML&lt;/f1&gt; from &lt;f2&gt;the &lt;/f2&gt;clipboard&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T113944Z" creationid="Marco Marega" creationdate="20180815T113944Z">
+        <seg>&lt;f0&gt;Usate il commando &lt;/f0&gt;&lt;f1&gt;Importa MathML&lt;/f1&gt; dagli&lt;f2&gt; &lt;/f2&gt;appunti&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
