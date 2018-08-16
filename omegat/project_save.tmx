@@ -2159,6 +2159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Enter&lt;/f0&gt; markup &lt;f1&gt;language directly &lt;/f1&gt;in the &lt;f2&gt;Formula Editor&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123040Z" creationid="Marco Marega" creationdate="20180816T123040Z">
+        <seg>&lt;f0&gt;Inserite&lt;/f0&gt; direttamente &lt;f1&gt;il codice di markup &lt;/f1&gt;nell'&lt;f2&gt;Editor delle formule&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Entry required&lt;/f0&gt;: Leave &lt;f1&gt;Entry required&lt;/f1&gt; as &lt;f2&gt;No&lt;/f2&gt;, unless all of your music is in albums.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T060321Z" creationid="manuel" creationdate="20180806T060321Z">
@@ -21328,6 +21336,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>N&lt;f0&gt;ote&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123050Z" creationid="Marco Marega" creationdate="20180816T123050Z">
+        <seg>&lt;f0&gt;Nota&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name of Fax</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143717Z" creationid="manuel" creationdate="20180608T143717Z">
@@ -33722,6 +33738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164655Z" creationid="manuel" creationdate="20180626T164655Z">
         <seg>Uso della Barra elenchi puntati e numerati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Elements window or the context menus to insert a formula provides a convenient way to learn the markup language used by LibreOffice Math.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123214Z" creationid="Marco Marega" creationdate="20180816T123214Z">
+        <seg>L'utilizzo della finestra degli Elementi o del menu contestuale per inserire una formula, costituisce un valido modo per imparare il linguaggio di markup usato da LibreOffice Math.</seg>
       </tuv>
     </tu>
     <tu>
