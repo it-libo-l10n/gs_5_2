@@ -3071,6 +3071,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Select the symbol you want to use in the formula from t&lt;/f0&gt;h&lt;f1&gt;e Elements window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T124206Z" creationid="Marco Marega" creationdate="20180816T124206Z">
+        <seg>Selezionate dalla finestra degli Elementi &lt;f0&gt; il simbolo da inserire nella formula &lt;/f0&gt;&lt;f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Selected Fields from another sample &lt;/f0&gt;table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T155111Z" creationid="manuel" creationdate="20180721T155111Z">
@@ -3267,6 +3275,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T112211Z" creationid="Marco Marega" creationdate="20180815T112211Z">
         <seg>In Math &lt;f0&gt;nell'&lt;/f0&gt;&lt;f1&gt;Editor&lt;/f1&gt; di &lt;f2&gt;Formule&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt; per rappresentare le formule viene usato un linguaggio di markup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The Elements &lt;/f0&gt;&lt;f1&gt;window&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;is&lt;/f3&gt;&lt;f4&gt; positioned &lt;/f4&gt;&lt;f5&gt;by default &lt;/f5&gt;&lt;f6&gt;to the left of the &lt;/f6&gt;&lt;f7&gt;Preview and Formula Editor windows&lt;/f7&gt;&lt;f8&gt;, as shown in &lt;/f8&gt;&lt;f9&gt;Figure &lt;/f9&gt;&lt;f10&gt;&lt;t11&gt;270&lt;/t11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;and &lt;/f13&gt;&lt;f14&gt;Figure &lt;/f14&gt;&lt;f15&gt;&lt;t16&gt;271&lt;/t16&gt;&lt;/f15&gt;&lt;f17&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T124541Z" creationid="Marco Marega" creationdate="20180816T124541Z">
+        <seg>Per impostazione predefinita la Finestra degli &lt;f0&gt;Elementi &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;si&lt;/f3&gt;&lt;f4&gt; trova &lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;a sinistra delle finestre dell'&lt;/f6&gt;&lt;f7&gt;Anteprima e dell'Editor delle formule&lt;/f7&gt;&lt;f8&gt;, come mostrato nelle &lt;/f8&gt;&lt;f9&gt;Figure &lt;/f9&gt;&lt;f10&gt;&lt;t11&gt;270&lt;/t11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;e &lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;t16&gt;271&lt;/t16&gt;&lt;/f15&gt;&lt;f17&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26572,6 +26588,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104216Z" creationid="manuel" creationdate="20180706T104216Z">
         <seg>Forme simboli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&lt;/f1&gt;he symbols &lt;f2&gt;that are &lt;/f2&gt;available &lt;f3&gt;change according to&lt;/f3&gt; the &lt;f4&gt;selected&lt;/f4&gt; category.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T124306Z" creationid="Marco Marega" creationdate="20180816T124306Z">
+        <seg>I&lt;/f1&gt; simboli&lt;f2&gt; &lt;/f2&gt;disponibili&lt;f3&gt; cambiano a seconda&lt;/f3&gt; della &lt;f4&gt;categoria&lt;/f4&gt; selezionata.</seg>
       </tuv>
     </tu>
     <tu>
