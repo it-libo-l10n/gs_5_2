@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7220,8 +7220,8 @@
       <tuv lang="EN">
         <seg>Chapter 14 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T084113Z" creationid="luke" creationdate="20180515T084113Z">
-        <seg>Chapter 14 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180816T115613Z" creationid="luke" creationdate="20180515T084113Z">
+        <seg>Capitolo 14 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9826,6 +9826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085952Z" creationid="luke" creationdate="20180515T085952Z">
         <seg>Custom slide shows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180816T115625Z" creationid="briga" creationdate="20180816T115625Z">
+        <seg>Personalizzare LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -16239,6 +16247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you cannot customize context (right-click) menus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180816T115653Z" creationid="briga" creationdate="20180816T115653Z">
+        <seg>Non è tuttavia possibile personalizzare i menu contestuali (pulsante destro del mouse).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hyphenating words</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T073503Z" creationid="manuel" creationdate="20180627T073503Z">
@@ -22364,6 +22380,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162851Z" creationid="manuel" creationdate="20180615T162851Z">
         <seg>Gestire i modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other customizations are made easy by extensions that you can install from the LibreOffice website or from other providers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180816T115705Z" creationid="briga" creationdate="20180816T115705Z">
+        <seg>Altre personalizzazioni sono possibili grazie alle estensioni installabili dal sito di LibreOffice o da altri siti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29681,6 +29705,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This chapter describes some common customizations that you may wish to carry out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180816T115639Z" creationid="briga" creationdate="20180816T115639Z">
+        <seg>Questo capitolo contiene le istruzioni per effettuare alcune delle personalizzazioni più comuni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This chapter introduces some features of Draw and does not attempt to cover all of the Draw features.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060655Z" creationid="manuel" creationdate="20180629T060655Z">
@@ -35963,6 +35995,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143159Z" creationid="manuel" creationdate="20180628T143159Z">
         <seg>Potete personalizzare un indice generale in qualsiasi momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can customize menus, toolbars, and keyboard shortcuts in LibreOffice, add new menus and toolbars, and assign macros to events.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180816T115645Z" creationid="briga" creationdate="20180816T115645Z">
+        <seg>In LibreOffice è possibile personalizzare il contenuto dei menu, le barre degli strumenti e i tasti di scelta rapida, aggiungere nuovi menu e barre degli strumenti, e assegnare macro agli eventi.</seg>
       </tuv>
     </tu>
     <tu>
