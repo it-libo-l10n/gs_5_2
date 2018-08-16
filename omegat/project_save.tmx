@@ -3639,6 +3639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;In addition to the list of categories at the top of the window&lt;/f1&gt;, &lt;f2&gt;it&lt;/f2&gt; also provides an Example category w&lt;f3&gt;ith&lt;/f3&gt; example formulas to use as a starting point for &lt;f4&gt;a&lt;/f4&gt; formula or equation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123658Z" creationid="Marco Marega" creationdate="20180816T123658Z">
+        <seg>&lt;f1&gt;Oltre all'elenco delle categorie che si trova in cima alla finestra&lt;/f1&gt;, &lt;f2&gt;fornisce&lt;/f2&gt; anche una categoria Esempi &lt;f3&gt;con&lt;/f3&gt; delle formule preimpostate da usare come modello di partenza per &lt;f4&gt;creare una&lt;/f4&gt; formula o un equazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Locale&lt;/f1&gt; also defines the default expression of dates.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T063553Z" creationid="manuel" creationdate="20180609T063553Z">
@@ -11283,6 +11291,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121036Z" creationid="Marco Marega" creationdate="20180811T121036Z">
         <seg>Potete indifferentemente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Elements &lt;f0&gt;window&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123231Z" creationid="Marco Marega" creationdate="20180816T123231Z">
+        <seg>Finestra degli &lt;f0&gt;Elementi&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27028,6 +27044,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105334Z" creationid="manuel" creationdate="20180705T105334Z">
         <seg>La Galleria di Draw; vedere il Capitolo 11 (Oggetti grafici, Galleria e Fontwork) in questa guida per maggiori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Elements &lt;f0&gt;window&lt;/f0&gt; can easily be used when entering formula data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123345Z" creationid="Marco Marega" creationdate="20180816T123345Z">
+        <seg>La finestra degli &lt;f0&gt;Elementi&lt;/f0&gt; può essere usata con facilità per l'inserimento dei dati nella formula.</seg>
       </tuv>
     </tu>
     <tu>
