@@ -3055,6 +3055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;the&lt;/f1&gt;&lt;f2&gt; category&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;you want to use in the formula from the &lt;/f4&gt;&lt;f5&gt;drop-down list at the top of&lt;/f5&gt;&lt;f6&gt; the Elements &lt;/f6&gt;&lt;f7&gt;window&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T124111Z" creationid="Marco Marega" creationdate="20180816T124111Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Dall'&lt;/f4&gt;&lt;f5&gt;elenco a discesa in cima alla finestra &lt;/f5&gt;&lt;f6&gt;degli Elementi &lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;, selezionate la  categoria che volete usare per la formula.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
