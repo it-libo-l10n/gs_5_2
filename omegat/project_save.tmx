@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3539,6 +3539,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212615Z" creationid="Marco Marega" creationdate="20180808T212615Z">
         <seg>&lt;f0&gt;Anno&lt;/f0&gt; – usate il tipo di serie Data e questa opzione per creare delle serie usando un incremento di un anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You can &lt;/f0&gt;&lt;f1&gt;insert &lt;/f1&gt;&lt;f2&gt;elements into&lt;/f2&gt;&lt;f3&gt; a formula &lt;/f3&gt;&lt;f4&gt;using one of the following&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;methods&lt;/f6&gt;&lt;f7&gt;:&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T122651Z" creationid="Marco Marega" creationdate="20180816T122651Z">
+        <seg>&lt;f0&gt;Potete &lt;/f0&gt;&lt;f1&gt;inserire &lt;/f1&gt;&lt;f2&gt;degli elementi in &lt;/f2&gt;&lt;f3&gt; una formula &lt;/f3&gt;&lt;f4&gt;usando uno dei seguenti&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;metodi&lt;/f6&gt;&lt;f7&gt;:&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23472,6 +23480,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click &lt;f0&gt;in&lt;/f0&gt; the &lt;f1&gt;Formula&lt;/f1&gt; &lt;f2&gt;E&lt;/f2&gt;ditor and select &lt;f3&gt;a category, &lt;/f3&gt;the&lt;f4&gt;n a&lt;/f4&gt; symbol from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T122944Z" creationid="Marco Marega" creationdate="20180816T122944Z">
+        <seg>Fate clic con il pulsante destro del mouse &lt;f0&gt;nell'&lt;/f0&gt;&lt;f1&gt;Editor&lt;/f1&gt; &lt;f2&gt;delle formule&lt;/f2&gt; e dal menu contestuale selezionate &lt;f3&gt;una categoria &lt;/f3&gt;e&lt;f4&gt; poi un &lt;/f4&gt; simbolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click a sheet tab and choose &lt;f0&gt;Select All Sheets&lt;/f0&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150958Z" creationid="Marco Marega" creationdate="20180714T150958Z">
@@ -24580,6 +24596,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085327Z" creationid="Marco Marega" creationdate="20180811T085327Z">
         <seg>Selezionate una cella vuota in una colonna che contiene delle celle con contenuti testuali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a category from the drop-down list, then a symbol using the Elements &lt;f0&gt;window&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T122800Z" creationid="Marco Marega" creationdate="20180816T122800Z">
+        <seg>Selezionate una categoria dell'elenco a discesa, quindi un simbolo dalla finestra degli Elementi&lt;f0&gt;&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
