@@ -1823,6 +1823,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;f1&gt;ontext menu&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T124749Z" creationid="Marco Marega" creationdate="20180816T124749Z">
+        <seg>&lt;f0&gt;Menu&lt;/f0&gt;&lt;f1&gt; contestuale&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;hoose the category for the AutoText entry, for example &lt;f1&gt;My AutoText&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144347Z" creationid="manuel" creationdate="20180626T144347Z">
@@ -3283,6 +3291,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T124541Z" creationid="Marco Marega" creationdate="20180816T124541Z">
         <seg>Per impostazione predefinita la Finestra degli &lt;f0&gt;Elementi &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;si&lt;/f3&gt;&lt;f4&gt; trova &lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;a sinistra delle finestre dell'&lt;/f6&gt;&lt;f7&gt;Anteprima e dell'Editor delle formule&lt;/f7&gt;&lt;f8&gt;, come mostrato nelle &lt;/f8&gt;&lt;f9&gt;Figure &lt;/f9&gt;&lt;f10&gt;&lt;t11&gt;270&lt;/t11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;e &lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;t16&gt;271&lt;/t16&gt;&lt;/f15&gt;&lt;f17&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The Formula Editor also provides a context menu to access categories and symbols when creating &lt;/f0&gt;&lt;f1&gt;a&lt;/f1&gt;&lt;f2&gt; formula.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T124839Z" creationid="Marco Marega" creationdate="20180816T124839Z">
+        <seg>&lt;f0&gt;L'Editor delle formule è dotato anche di un menu contestuale che permette l'accesso alle categorie ed ai simboli per creare &lt;/f0&gt;&lt;f1&gt;una&lt;/f1&gt;&lt;f2&gt; formula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23168,6 +23184,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&lt;/f2&gt;&lt;f3&gt;ight-click &lt;/f3&gt;&lt;f4&gt;in&lt;/f4&gt;&lt;f5&gt; the &lt;/f5&gt;&lt;f6&gt;Formula Editor to open the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T124945Z" creationid="Marco Marega" creationdate="20180816T124945Z">
+        <seg>Per aprire il menu contestuale, fate clic con &lt;/f2&gt;&lt;f3&gt;il tasto destro del mouse &lt;/f3&gt;&lt;f4&gt;nell'&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;Editor delle formule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rachel Kartch</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175958Z" creationid="Elisabetta Manuele" creationdate="20180627T175958Z">
@@ -24676,6 +24700,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085327Z" creationid="Marco Marega" creationdate="20180811T085327Z">
         <seg>Selezionate una cella vuota in una colonna che contiene delle celle con contenuti testuali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a category and then select the markup example that you want to use from the sub-context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T125124Z" creationid="Marco Marega" creationdate="20180816T125124Z">
+        <seg>Selezionate una categoria e poi, nel sottomenu, l'elemento di codice di markup che volete usare.</seg>
       </tuv>
     </tu>
     <tu>
