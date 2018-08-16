@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;&lt;f7&gt;A&lt;/f7&gt;&lt;f8&gt;n example is shown in &lt;/f8&gt;&lt;f9&gt;Figure &lt;/f9&gt;&lt;f10&gt;&lt;t11&gt;272&lt;/t11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T125144Z" creationid="Marco Marega" creationdate="20180816T125144Z">
+        <seg>&lt;/f6&gt;&lt;f7&gt;Un&lt;/f7&gt;&lt;f8&gt; esempio è mostrato nella &lt;/f8&gt;&lt;f9&gt;Figura &lt;/f9&gt;&lt;f10&gt;&lt;t11&gt;272&lt;/t11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f7&gt;The Template&lt;f8&gt;s&lt;/f8&gt; dialog opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T091010Z" creationid="manuel" creationdate="20180614T091010Z">
@@ -12579,6 +12587,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133410Z" creationid="Marco Marega" creationdate="20180815T133410Z">
         <seg>Figura &lt;seq0&gt;271&lt;/seq0&gt;: formula vuota in un documento di Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;272&lt;/seq0&gt;: Context menu in Formula Editor</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T125204Z" creationid="Marco Marega" creationdate="20180816T125204Z">
+        <seg>Figura &lt;seq0&gt;272&lt;/seq0&gt;: menu contestuale all'interno dell'Editor delle formule</seg>
       </tuv>
     </tu>
     <tu>
