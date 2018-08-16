@@ -2431,6 +2431,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Go to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;View&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; on the menu bar &lt;/f3&gt;&lt;f4&gt;and select&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Elements&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; to open&lt;/f8&gt; the &lt;i9/&gt;Elements &lt;f10&gt;window.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123847Z" creationid="Marco Marega" creationdate="20180816T123847Z">
+        <seg>Nella barra del menu &lt;f0&gt;andate in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Visualizza&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;e selezionate&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Elementi&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; in modo da aprire&lt;/f8&gt; la finestra degli&lt;i9/&gt;Elementi&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Granularity.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184853Z" creationid="Marco Marega" creationdate="20180528T184853Z">
@@ -11299,6 +11307,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123231Z" creationid="Marco Marega" creationdate="20180816T123231Z">
         <seg>Finestra degli &lt;f0&gt;Elementi&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Elements window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123713Z" creationid="Marco Marega" creationdate="20180816T123713Z">
+        <seg>Finestra degli Elementi</seg>
       </tuv>
     </tu>
     <tu>
@@ -37795,6 +37811,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082058Z" creationid="manuel" creationdate="20180530T082058Z">
         <seg>abilitare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>equation editor</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123734Z" creationid="Marco Marega" creationdate="20180816T123734Z">
+        <seg>editor di equazioni</seg>
       </tuv>
     </tu>
     <tu>
