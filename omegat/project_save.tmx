@@ -19143,6 +19143,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can be floated in the same way as other docked windows.&lt;/f17&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T124730Z" creationid="Marco Marega" creationdate="20180816T124730Z">
+        <seg>Allo stesso modo di altre finestre agganciate, potete renderla mobile.&lt;/f17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can create and edit forms, reports, queries, tables, views, and relations, so that managing a relational database is much the same as in other popular database applications.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T211038Z" creationid="Marco Marega" creationdate="20180527T211038Z">
