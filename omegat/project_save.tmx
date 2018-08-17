@@ -1558,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f26&gt;&lt;f27&gt;See &lt;/f27&gt;&lt;f28&gt;Appendix A, &lt;/f28&gt;&lt;f29&gt;C&lt;/f29&gt;&lt;f30&gt;ommands Reference,&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;in the &lt;/f32&gt;&lt;f33&gt;&lt;f34&gt;Math Guide&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;for a list of Greek characters that can be entered using markup language&lt;/f36&gt;&lt;f37&gt;.&lt;/f37&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T185541Z" creationid="Marco Marega" creationdate="20180817T185541Z">
+        <seg>Per un elenco completo di tutti i caratteri Greci che possono essere usati nel linguaggio di markup, &lt;/f26&gt;&lt;f27&gt;vedete &lt;/f27&gt;l'&lt;f28&gt;Appendice A, &lt;/f28&gt;&lt;f29&gt;Comandi di Math&lt;/f29&gt;&lt;f30&gt; - riferimenti,&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;della &lt;/f32&gt;&lt;f33&gt;&lt;f34&gt;Guida a Math &lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt;.&lt;/f37&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T114915Z" creationid="Marco Marega" creationdate="20180815T114915Z">
