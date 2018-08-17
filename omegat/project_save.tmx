@@ -3247,6 +3247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;&lt;f1&gt;he &lt;/f1&gt;&lt;f2&gt;Elements window and the&lt;/f2&gt;&lt;f3&gt; context menu contain &lt;/f3&gt;&lt;f4&gt;only&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;the most common&lt;/f6&gt;&lt;f7&gt; commands &lt;/f7&gt;&lt;f8&gt;that are used in formulas&lt;/f8&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T183733Z" creationid="Marco Marega" creationdate="20180817T183733Z">
+        <seg>&lt;f0&gt;La &lt;/f0&gt;&lt;f1&gt;finestra degli &lt;/f1&gt;&lt;f2&gt;Elementi&lt;/f2&gt; ed il &lt;f3&gt;menu contestuale contengono &lt;/f3&gt;&lt;f4&gt;solo&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;i &lt;/f6&gt;&lt;f7&gt; comandi  &lt;/f7&gt;&lt;f8&gt;più comunemente usati nelle formule&lt;/f8&gt;&lt;f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;&lt;f1&gt;hen, &lt;/f1&gt;&lt;f2&gt;go to&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Insert &gt; Object &gt; Formula&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;on&lt;/f7&gt;&lt;f8&gt; the &lt;/f8&gt;&lt;f9&gt;menu&lt;/f9&gt;&lt;f10&gt; bar &lt;/f10&gt;&lt;f11&gt;to open the Formula Editor.&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Alternatively, go to&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Insert &gt; Object &gt; &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;OLE Object&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;on the menu bar to open the Insert OLE Object dialog, select &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;Create new&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; option and &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;Formula&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; from the &lt;/f26&gt;&lt;f27&gt;sub-menu&lt;/f27&gt;&lt;f28&gt;, then click &lt;/f28&gt;&lt;f29&gt;OK&lt;/f29&gt;&lt;f30&gt; to open the Formula Editor&lt;/f30&gt;&lt;f31&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T131715Z" creationid="Marco Marega" creationdate="20180815T131715Z">
@@ -14627,6 +14635,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170257Z" creationid="Elisabetta Manuele" creationdate="20180625T170257Z">
         <seg>Posizionando il puntatore del mouse su un'icona qualsiasi comparirà un suggerimento rapido ("tooltip") contenente una breve descrizione della sua funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For some seldom-used commands, you must always enter the &lt;/f9&gt;&lt;f10&gt;command using the &lt;/f10&gt;&lt;f11&gt;markup &lt;/f11&gt;&lt;f12&gt;language&lt;/f12&gt;&lt;f13&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T183900Z" creationid="Marco Marega" creationdate="20180817T183900Z">
+        <seg>Per alcuni comandi usati più raramente, dovete inserire sempre &lt;/f9&gt;&lt;f10&gt;il relativo codice di &lt;/f10&gt;&lt;f11&gt;markup&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;.</seg>
       </tuv>
     </tu>
     <tu>
