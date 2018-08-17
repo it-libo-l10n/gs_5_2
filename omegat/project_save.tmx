@@ -1494,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f10&gt;&lt;f11&gt;When selected, t&lt;/f11&gt;&lt;f12&gt;he name of &lt;/f12&gt;&lt;f13&gt;a&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;Greek &lt;/f15&gt;&lt;f16&gt;character is shown below the &lt;/f16&gt;&lt;f17&gt;symbol &lt;/f17&gt;&lt;f18&gt;list&lt;/f18&gt;&lt;f19&gt;.&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T191116Z" creationid="Marco Marega" creationdate="20180817T191116Z">
+        <seg>&lt;/f10&gt;&lt;f11&gt;Quando &lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;un&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;carattere greco&lt;/f15&gt;&lt;f16&gt;è selezionato, il suo nome viene mostrato sotto all'elenco dei &lt;/f16&gt;&lt;f17&gt;simboli&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;.&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f10&gt;When the word is corrected, the line disappears.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T061020Z" creationid="manuel" creationdate="20180626T061020Z">
@@ -1995,6 +2003,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164228Z" creationid="manuel" creationdate="20180628T164228Z">
         <seg>&lt;f0&gt;Classificazione&lt;/f0&gt; del contenuto dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Close&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; when you have finished entering Greek characters &lt;/f3&gt;&lt;f4&gt;into the formula.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T191211Z" creationid="Marco Marega" creationdate="20180817T191211Z">
+        <seg>Quando avete finito di inserire caratteri greci nella formula &lt;f0&gt;fate clic su &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Chiudi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12739,6 +12755,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T125204Z" creationid="Marco Marega" creationdate="20180816T125204Z">
         <seg>Figura &lt;seq0&gt;272&lt;/seq0&gt;: menu contestuale all'interno dell'Editor delle formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;273&lt;/seq0&gt;: Symbols dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T191306Z" creationid="Marco Marega" creationdate="20180817T191306Z">
+        <seg>Figura &lt;seq0&gt;273&lt;/seq0&gt;: finestra di dialogo dei Simboli</seg>
       </tuv>
     </tu>
     <tu>
