@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;&lt;f7&gt;For example, typing %LAMBDA creates the Greek character &lt;/f7&gt;&lt;f8&gt;Λ&lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T190035Z" creationid="Marco Marega" creationdate="20180817T190035Z">
+        <seg>&lt;/f6&gt;&lt;f7&gt;Ad esempio, scrivendo %LAMBDA verrà generato il carattere greco&lt;/f7&gt;&lt;f8&gt;Λ&lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f7&gt;The Template&lt;f8&gt;s&lt;/f8&gt; dialog opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T091010Z" creationid="manuel" creationdate="20180614T091010Z">
@@ -2347,6 +2355,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215718Z" creationid="Marco Marega" creationdate="20180712T215718Z">
         <seg>&lt;f0&gt;Larghezza fissa&lt;/f0&gt; – separa i dati in colonne sulla base di larghezze fisse (un numero di caratteri uguale).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;For an UPPERCASE Greek character, &lt;/f0&gt;&lt;f1&gt;t&lt;/f1&gt;&lt;f2&gt;ype a percentage % sign, &lt;/f2&gt;&lt;f3&gt;then&lt;/f3&gt;&lt;f4&gt; type the character name in UPPERCASE &lt;/f4&gt;&lt;f5&gt;using the English name&lt;/f5&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T185911Z" creationid="Marco Marega" creationdate="20180817T185911Z">
+        <seg>&lt;f0&gt;Per scrivere un carattere greco in maiuscolo, &lt;/f0&gt;&lt;f1&gt;digitate &lt;/f1&gt;&lt;f2&gt;il segno del percento %, &lt;/f2&gt;&lt;f3&gt;seguito &lt;/f3&gt;&lt;f4&gt; dal nome inglese del carattere &lt;/f4&gt;&lt;f5&gt;scritto tutto in MAIUSCOLO&lt;/f5&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
