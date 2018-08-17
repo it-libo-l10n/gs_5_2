@@ -2503,6 +2503,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Greek characters are common&lt;/f0&gt;&lt;f1&gt;ly used&lt;/f1&gt;&lt;f2&gt; in formulas, &lt;/f2&gt;&lt;f3&gt;but&lt;/f3&gt;&lt;f4&gt; Greek&lt;/f4&gt;&lt;f5&gt; characters &lt;/f5&gt;&lt;f6&gt;cannot be entered into a formula using&lt;/f6&gt;&lt;f7&gt; the &lt;/f7&gt;&lt;f8&gt;Elements &lt;/f8&gt;&lt;f9&gt;window&lt;/f9&gt;&lt;f10&gt; or the &lt;/f10&gt;&lt;f11&gt;context&lt;/f11&gt;&lt;f12&gt; menu.&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Use the &lt;/f14&gt;&lt;f15&gt;English &lt;/f15&gt;&lt;f16&gt;names of &lt;/f16&gt;&lt;f17&gt;Greek &lt;/f17&gt;&lt;f18&gt;characters&lt;/f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;in &lt;/f20&gt;&lt;f21&gt;markup &lt;/f21&gt;&lt;f22&gt;language &lt;/f22&gt;&lt;f23&gt;when entering&lt;/f23&gt;&lt;f24&gt; Greek characters &lt;/f24&gt;&lt;f25&gt;into a formula&lt;/f25&gt;&lt;f26&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T185122Z" creationid="Marco Marega" creationdate="20180817T185122Z">
+        <seg>&lt;f0&gt;I caratteri greci vengono comunemente usati&lt;/f0&gt;&lt;f1&gt;nelle&lt;/f1&gt;&lt;f2&gt; formule, &lt;/f2&gt;&lt;f3&gt;ma&lt;/f3&gt;&lt;f4&gt; i caratteri greci&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;non possono essere inseriti nella formula usando la finestra &lt;/f6&gt;&lt;f7&gt;degli &lt;/f7&gt;&lt;f8&gt;Elementi &lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt; o il &lt;/f10&gt;&lt;f11&gt;menu contestuale&lt;/f11&gt;&lt;f12&gt;.&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Se dovete inserire dei &lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;caratteri &lt;/f16&gt;&lt;f17&gt;greci &lt;/f17&gt;&lt;f18&gt;in una formula&lt;/f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;scrivete il loro nome inglese all'interno del codice di &lt;/f20&gt;&lt;f21&gt;markup &lt;/f21&gt;&lt;f22&gt;&lt;/f22&gt;&lt;f23&gt;&lt;/f23&gt;&lt;f24&gt;&lt;/f24&gt;&lt;f25&gt;&lt;/f25&gt;&lt;f26&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Growth&lt;/f0&gt; – creates a growth series using the defined increment and end value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T210923Z" creationid="Marco Marega" creationdate="20180808T210923Z">
@@ -9325,6 +9333,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184705Z" creationid="Marco Marega" creationdate="20180817T184643Z">
+        <seg>Comando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comments can be printed next to the text in the right margin as they appear on screen.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T083052Z" creationid="manuel" creationdate="20180628T083052Z">
@@ -10547,6 +10563,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T211842Z" creationid="Marco Marega" creationdate="20180616T211842Z">
         <seg>Disattivare Quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184611Z" creationid="Marco Marega" creationdate="20180817T184611Z">
+        <seg>Risultato visivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -15707,6 +15731,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055315Z" creationid="manuel" creationdate="20180531T055315Z">
         <seg>Risultato immagine – Usa accelerazione hardware</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Greek characters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184738Z" creationid="Marco Marega" creationdate="20180817T184738Z">
+        <seg>Caratteri greci</seg>
       </tuv>
     </tu>
     <tu>
@@ -26816,6 +26848,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;6&lt;/seq0&gt;: Example commands using markup language</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184603Z" creationid="Marco Marega" creationdate="20180817T184603Z">
+        <seg>Tabella &lt;seq0&gt;6&lt;/seq0&gt;: Esempi di comandi usando il codice di markup language</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table &lt;t0&gt;86&lt;/t0&gt; lists the keys and key combinations you can use for spreadsheet navigation in Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200420Z" creationid="Marco Marega" creationdate="20180713T200420Z">
@@ -33862,6 +33902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using markup language</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184756Z" creationid="Marco Marega" creationdate="20180817T184756Z">
+        <seg>Usando il linguaggio di markup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using master documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180944Z" creationid="Elisabetta Manuele" creationdate="20180620T180944Z">
@@ -37263,6 +37311,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>a &lt;= b</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184721Z" creationid="Marco Marega" creationdate="20180817T184721Z">
+        <seg>a &lt;= b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a = b</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184710Z" creationid="Marco Marega" creationdate="20180817T184710Z">
+        <seg>a = b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a times b</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184724Z" creationid="Marco Marega" creationdate="20180817T184724Z">
+        <seg>a times b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a^2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184713Z" creationid="Marco Marega" creationdate="20180817T184713Z">
+        <seg>a^2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a_n</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184715Z" creationid="Marco Marega" creationdate="20180817T184715Z">
+        <seg>a_n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>absolute</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144718Z" creationid="manuel" creationdate="20180608T144718Z">
@@ -38279,6 +38367,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>infinity</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184722Z" creationid="Marco Marega" creationdate="20180817T184722Z">
+        <seg>infinity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>inserting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T151017Z" creationid="Marco Marega" creationdate="20180714T151017Z">
@@ -38291,6 +38387,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161327Z" creationid="manuel" creationdate="20180628T161327Z">
         <seg>inserimento di riferimenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>int f(x) dx</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184716Z" creationid="Marco Marega" creationdate="20180817T184716Z">
+        <seg>int f(x) dx</seg>
       </tuv>
     </tu>
     <tu>
@@ -39167,6 +39271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sqrt {a}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184712Z" creationid="Marco Marega" creationdate="20180817T184712Z">
+        <seg>sqrt {a}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>squares</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101527Z" creationid="manuel" creationdate="20180704T101527Z">
@@ -39187,6 +39299,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114426Z" creationid="manuel" creationdate="20180611T114426Z">
         <seg>stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sum a_n</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184718Z" creationid="Marco Marega" creationdate="20180817T184718Z">
+        <seg>sum a_n</seg>
       </tuv>
     </tu>
     <tu>
@@ -39443,6 +39563,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160433Z" creationid="manuel" creationdate="20180616T160433Z">
         <seg>area di lavoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>x cdot y</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184732Z" creationid="Marco Marega" creationdate="20180817T184732Z">
+        <seg>x cdot y</seg>
       </tuv>
     </tu>
     <tu>
