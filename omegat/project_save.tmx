@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f36&gt;&lt;f37&gt;Table &lt;/f37&gt;&lt;f38&gt;&lt;t39&gt;6&lt;/t39&gt;&lt;/f38&gt;&lt;f40&gt; &lt;/f40&gt;&lt;f41&gt;shows some examples of using markup language to enter commands.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184443Z" creationid="Marco Marega" creationdate="20180817T184443Z">
+        <seg>La &lt;/f36&gt;&lt;f37&gt;Tabella &lt;/f37&gt;&lt;f38&gt;&lt;t39&gt;6&lt;/t39&gt;&lt;/f38&gt;&lt;f40&gt; &lt;/f40&gt;&lt;f41&gt;mostra alcuni esempi dell'uso del codice di markup per inserire dei comandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;f4&gt;The&lt;/f4&gt;&lt;f5&gt; LibreOffice module &lt;/f5&gt;&lt;f6&gt;in use &lt;/f6&gt;&lt;f7&gt;affects how you position the cursor to insert the formula.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T131050Z" creationid="Marco Marega" creationdate="20180815T131050Z">
@@ -1594,6 +1602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143248Z" creationid="manuel" creationdate="20180616T143248Z">
         <seg>&lt;/f3&gt;La finestra di esplorazione file si chiude e il modello appare nella &lt;f4&gt;categoria&lt;/f4&gt; selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f41&gt;&lt;f42&gt;For a full list of commands that can be used in the Formula Editor, see &lt;/f42&gt;&lt;f43&gt;the&lt;/f43&gt;&lt;f44&gt; &lt;/f44&gt;&lt;f45&gt;&lt;f46&gt;Math Guide&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;.&lt;/f47&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184533Z" creationid="Marco Marega" creationdate="20180817T184533Z">
+        <seg>&lt;/f41&gt;&lt;f42&gt;Per un elenco completo dei comandi che si possono inserire nell'Editor delle formule, vedete &lt;/f42&gt;&lt;f43&gt;la&lt;/f43&gt;&lt;f44&gt; &lt;/f44&gt;&lt;f45&gt;&lt;f46&gt;Guida a Math&lt;/f46&gt;&lt;/f45&gt;&lt;f47&gt;.&lt;/f47&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17195,6 +17211,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121126Z" creationid="Marco Marega" creationdate="20180812T121126Z">
         <seg>Se questa barre degli strumenti non è visibile, nella barra del menu andate in &lt;f4&gt;Visualizza &gt; Barre degli strumenti&lt;/f4&gt; e selezionate &lt;f5&gt;Strumenti&lt;/f5&gt;, si aprirà la finestra di dialogo &lt;f6&gt;Scelta del tema&lt;/f6&gt; (Figura &lt;t7&gt;118&lt;/t7&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you &lt;/f28&gt;&lt;f29&gt;are experienced in using&lt;/f29&gt;&lt;f30&gt; markup &lt;/f30&gt;&lt;f31&gt;language&lt;/f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;f33&gt;it&lt;/f33&gt;&lt;f34&gt; can be the &lt;/f34&gt;&lt;f35&gt;quickest&lt;/f35&gt;&lt;f36&gt; way to enter a formula.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184400Z" creationid="Marco Marega" creationdate="20180817T184400Z">
+        <seg>Se siete degli &lt;/f28&gt;&lt;f29&gt;esperti nell'uso del linguaggio di&lt;/f29&gt;&lt;f30&gt; markup &lt;/f30&gt;&lt;f31&gt;&lt;/f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;f33&gt;questo&lt;/f33&gt;&lt;f34&gt; può essere il modo &lt;/f34&gt;&lt;f35&gt;più veloce&lt;/f35&gt;&lt;f36&gt; per inserire una formula.</seg>
       </tuv>
     </tu>
     <tu>
