@@ -2527,6 +2527,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Go to&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Tools &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Symbols&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;on the menu bar &lt;/f7&gt;&lt;f8&gt;or click on the &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Symbols&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; icon &lt;/f11&gt;&lt;f12&gt;o&lt;/f12&gt;&lt;f13&gt;n the Tools toolbar &lt;/f13&gt;&lt;f14&gt;to open the Symbols dialog&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;(&lt;/f16&gt;&lt;f17&gt;Figure &lt;/f17&gt;&lt;f18&gt;&lt;t19&gt;273&lt;/t19&gt;&lt;/f18&gt;&lt;f20&gt;).&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T190716Z" creationid="Marco Marega" creationdate="20180817T190716Z">
+        <seg>Nella barra del menu &lt;f0&gt;andate in&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Strumenti &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Simboli&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;o fate clic sull'icona &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Simboli&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;sulla&lt;/f12&gt;&lt;f13&gt; barre degli strumenti &lt;/f13&gt;&lt;f14&gt;in modo da aprire la finestra di dialogo Simboli&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;(&lt;/f16&gt;&lt;f17&gt;Figura &lt;/f17&gt;&lt;f18&gt;&lt;t19&gt;273&lt;/t19&gt;&lt;/f18&gt;&lt;f20&gt;).&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Granularity.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184853Z" creationid="Marco Marega" creationdate="20180528T184853Z">
@@ -15799,6 +15807,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Greek characters can also &lt;f0&gt;b&lt;/f0&gt;e entered into a formula using the Symbols dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T190440Z" creationid="Marco Marega" creationdate="20180817T190440Z">
+        <seg>I caratteri greci possono essere &lt;f0&gt;inseriti&lt;/f0&gt; in una formula anche usando la finestra di dialogo dei Simboli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Grid points, snap &lt;i0/&gt;points and lines, object frames, individual points on objects, or page edges can all be used with the snap function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T112226Z" creationid="manuel" creationdate="20180707T111649Z">
@@ -20516,6 +20532,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181945Z" creationid="Elisabetta Manuele" creationdate="20180620T181945Z">
         <seg>Finestra principale di Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure &lt;f0&gt;the&lt;/f0&gt; cursor is in the correct position in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T190553Z" creationid="Marco Marega" creationdate="20180817T190553Z">
+        <seg>Assicuratevi &lt;f0&gt;che&lt;/f0&gt; il cursore si trovi nella posizione corretta all'interno dell'Editor delle formule.</seg>
       </tuv>
     </tu>
     <tu>
