@@ -1662,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f8&gt;&lt;f9&gt;For &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;italic&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; characters, select &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;iGreek&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; from the drop-down list.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T190919Z" creationid="Marco Marega" creationdate="20180817T190919Z">
+        <seg>&lt;/f8&gt;&lt;f9&gt;Per i caratteri greci in &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;corsivo&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;, nell'elenco a discesa selezionate &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;iGreco&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;.&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/math&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115408Z" creationid="Marco Marega" creationdate="20180815T115408Z">
@@ -3111,6 +3119,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;&lt;f1&gt;elect &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Greek&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;from the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Symbol set&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T190817Z" creationid="Marco Marega" creationdate="20180817T190817Z">
+        <seg>&lt;f0&gt;Selezionate&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Greco&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;dall'elenco a discesa degli insiemi dei &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Simboli&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Sample tables&lt;/f0&gt;: Select &lt;f1&gt;CD-Collection&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T154325Z" creationid="manuel" creationdate="20180721T154325Z">
@@ -3187,6 +3203,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T124206Z" creationid="Marco Marega" creationdate="20180816T124206Z">
         <seg>Selezionate dalla finestra degli Elementi &lt;f0&gt; il simbolo da inserire nella formula &lt;/f0&gt;&lt;f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Select the&lt;/f0&gt;&lt;f1&gt; Greek &lt;/f1&gt;&lt;f2&gt;character&lt;/f2&gt;&lt;f3&gt; from the &lt;/f3&gt;&lt;f4&gt;symbol &lt;/f4&gt;&lt;f5&gt;list&lt;/f5&gt;&lt;f6&gt;, &lt;/f6&gt;&lt;f7&gt;then click &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Insert&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T191013Z" creationid="Marco Marega" creationdate="20180817T191013Z">
+        <seg>&lt;f0&gt;Selezionate il carattere&lt;/f0&gt;&lt;f1&gt; Greco &lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt; dall'elenco dei &lt;/f3&gt;&lt;f4&gt;simboli&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;, &lt;/f6&gt;&lt;f7&gt;quindi fate clic su &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Inserisci&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
