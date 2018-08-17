@@ -2391,6 +2391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;For&lt;/f0&gt;&lt;f1&gt; an &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;italic&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Greek character, type a percentage % sign followed by the i character, then the English name of the Greek character in lower or UPPER case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T190217Z" creationid="Marco Marega" creationdate="20180817T190217Z">
+        <seg>&lt;f0&gt;Per scrivere &lt;/f0&gt;&lt;f1&gt; un &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;carattere&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; greco in corsivo, digitale il segno del percento % seguito dal carattere i e quindi dal nome inglese del carattere scritto in minuscolo o in MAIUSCOLO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Format&lt;/f0&gt; – contains commands for formatting the layout of your document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214923Z" creationid="Marco Marega" creationdate="20180616T214923Z">
@@ -14147,6 +14155,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T113048Z" creationid="manuel" creationdate="20180626T113048Z">
         <seg>Ad esempio, digita &lt;f0&gt;:sorridente:&lt;/f0&gt; e Correzione automatica lo sostituirà con ☺.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, typing %iTHETA creates the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;italic&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Greek character &lt;/f8&gt;&lt;f9&gt;Θ&lt;/f9&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T190305Z" creationid="Marco Marega" creationdate="20180817T190305Z">
+        <seg>Ad esempio, scrivendo %iTHETA verrà generato &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;il carattere greco &lt;/f8&gt;&lt;f9&gt;Θ&lt;/f9&gt;&lt;f10&gt; in corsivo.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26788,6 +26804,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104216Z" creationid="manuel" creationdate="20180706T104216Z">
         <seg>Forme simboli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Symbols dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T190358Z" creationid="Marco Marega" creationdate="20180817T190358Z">
+        <seg>Finestra dei Simboli</seg>
       </tuv>
     </tu>
     <tu>
