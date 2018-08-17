@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f16&gt;&lt;f17&gt;For example, typing %lambda creates the Greek character &lt;/f17&gt;&lt;f18&gt;λ&lt;/f18&gt;&lt;f19&gt;.&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T185747Z" creationid="Marco Marega" creationdate="20180817T185747Z">
+        <seg>&lt;/f16&gt;&lt;f17&gt;Ad esempio, scrivendo %lambda verrà generato il carattere greco &lt;/f17&gt;&lt;f18&gt;λ&lt;/f18&gt;&lt;f19&gt;.&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;LibreOffice provides standardized means for sensitive information to be &lt;f2&gt;identifi&lt;/f2&gt;ed: a set of standard fields that can be used to hold sensitivity information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170622Z" creationid="manuel" creationdate="20180628T170622Z">
@@ -2235,6 +2243,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212241Z" creationid="Marco Marega" creationdate="20180527T212241Z">
         <seg>&lt;f0&gt;Ampio &lt;/f0&gt; supporto linguistico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;&lt;f1&gt;or&lt;/f1&gt;&lt;f2&gt; a &lt;/f2&gt;&lt;f3&gt;lowercase&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Greek &lt;/f5&gt;&lt;f6&gt;character, &lt;/f6&gt;&lt;f7&gt;t&lt;/f7&gt;&lt;f8&gt;ype a &lt;/f8&gt;&lt;f9&gt;percentage&lt;/f9&gt;&lt;f10&gt; % sign, &lt;/f10&gt;&lt;f11&gt;then&lt;/f11&gt;&lt;f12&gt; type the &lt;/f12&gt;&lt;f13&gt;character &lt;/f13&gt;&lt;f14&gt;name in lowercase&lt;/f14&gt;&lt;f15&gt; using the English name&lt;/f15&gt;&lt;f16&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T185718Z" creationid="Marco Marega" creationdate="20180817T185718Z">
+        <seg>&lt;f0&gt;Per&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; scrivere&lt;/f2&gt;&lt;f3&gt;un&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;carattere greco&lt;/f5&gt;&lt;f6&gt;minuscolo, &lt;/f6&gt;&lt;f7&gt;digitate&lt;/f7&gt;&lt;f8&gt;il segno del  &lt;/f8&gt;&lt;f9&gt;percento&lt;/f9&gt;&lt;f10&gt; %, &lt;/f10&gt;&lt;f11&gt;seguito &lt;/f11&gt;&lt;f12&gt; dal nome inglese del &lt;/f12&gt;&lt;f13&gt;carattere &lt;/f13&gt;&lt;f14&gt;scritto in minuscolo&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;.</seg>
       </tuv>
     </tu>
     <tu>
