@@ -9790,6 +9790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a new menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T141215Z" creationid="briga" creationdate="20180818T141215Z">
+        <seg>Creare un nuovo menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a new presentation using the Presentation Wizard</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182053Z" creationid="Elisabetta Manuele" creationdate="20180620T182053Z">
@@ -18803,6 +18811,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163326Z" creationid="manuel" creationdate="20180628T163326Z">
         <seg>Nell'elenco &lt;f0&gt;Inserisci riferimento a&lt;/f0&gt;, selezionate il riferimento desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Menus&lt;/f0&gt; page of the Customize dialog, click &lt;f1&gt;New&lt;/f1&gt; to display the New Menu dialog (Figure &lt;t2&gt;352&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T141217Z" creationid="briga" creationdate="20180818T141217Z">
+        <seg>In the &lt;f0&gt;Menus&lt;/f0&gt; page of the Customize dialog, click &lt;f1&gt;New&lt;/f1&gt; to display the New Menu dialog (Figure &lt;t2&gt;352&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29817,6 +29833,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These actions are described in the following sections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T141146Z" creationid="briga" creationdate="20180818T141146Z">
+        <seg>Queste azioni sono illustrate in dettaglio nelle sezioni seguenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These are installed a little differently, as described below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160225Z" creationid="manuel" creationdate="20180615T160225Z">
@@ -33758,6 +33782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the up and down arrows next to the Entries list to move the selected menu item to a different position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T141154Z" creationid="briga" creationdate="20180818T141154Z">
+        <seg>Usate le frecce su e giù poste accanto all'elenco delle Voci per spostare l'elemento del menu selezionato in una posizione diversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use these fields to define the respective &lt;i0/&gt;font sizes for the HTML &lt;font size=1&gt; to &lt;font size=7&gt; tags, if they are used in the HTML pages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155640Z" creationid="manuel" creationdate="20180608T155640Z">
@@ -35191,6 +35223,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you have finished making all your changes, click &lt;f0&gt;OK&lt;/f0&gt; (not shown in illustration) to save them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T141204Z" creationid="briga" creationdate="20180818T141204Z">
+        <seg>Una volte terminate tutte le modifiche, fate clic su &lt;f0&gt;OK&lt;/f0&gt; (non mostrato nell'illustrazione) per salvarle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you have finished typing text, click outside the text frame to cancel adding or editing text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093558Z" creationid="manuel" creationdate="20180705T093558Z">
@@ -35947,6 +35987,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T112019Z" creationid="manuel" creationdate="20180626T112019Z">
         <seg>È possibile aggiungere dei caratteri speciali personali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also add commands to a menu by clicking on the &lt;f2&gt;Add&lt;/f2&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T141139Z" creationid="briga" creationdate="20180818T141139Z">
+        <seg>È possibile aggiungere comandi a un menu facendo clic sul pulsante &lt;f2&gt;Inserisci&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
