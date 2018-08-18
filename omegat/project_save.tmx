@@ -3479,6 +3479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To &lt;/f0&gt;customize the selected menu, click on the &lt;f1&gt;Modify&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T141120Z" creationid="briga" creationdate="20180818T141120Z">
+        <seg>&lt;f0&gt;Per &lt;/f0&gt;personalizzare il menu selezionato, fate clic sul pulsante &lt;f1&gt;Cambia&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To create a &lt;/f0&gt;&lt;f1&gt;formula&lt;/f1&gt;&lt;f2&gt; as a separate document &lt;/f2&gt;&lt;f3&gt;or file&lt;/f3&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;f5&gt;use&lt;/f5&gt;&lt;f6&gt; one of the &lt;/f6&gt;&lt;f7&gt;following&lt;/f7&gt;&lt;f8&gt; methods &lt;/f8&gt;&lt;f9&gt;to open an&lt;/f9&gt;&lt;f10&gt; empty formula document &lt;/f10&gt;&lt;f11&gt;in LibreOffice Math &lt;/f11&gt;&lt;f12&gt;(&lt;/f12&gt;&lt;f13&gt;Figure &lt;/f13&gt;&lt;f14&gt;&lt;t15&gt;270&lt;/t15&gt;&lt;/f14&gt;&lt;f16&gt;):&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T113422Z" creationid="Marco Marega" creationdate="20180815T113422Z">
@@ -28037,6 +28045,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211258Z" creationid="Marco Marega" creationdate="20180712T211205Z">
         <seg>Le intestazioni delle colonne cominciano utilizzano un carattere alfabetico a partire dalla A e proseguono verso destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The commands available for the selected menu are shown in the central part of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T140916Z" creationid="briga" creationdate="20180818T140916Z">
+        <seg>I comandi disponibili per il menu selezionato sono mostrati nella parte centrale della finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
