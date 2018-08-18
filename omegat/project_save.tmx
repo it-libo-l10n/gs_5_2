@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(It will appear on the menu bar itself after you save your customizations.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T143601Z" creationid="briga" creationdate="20180818T143601Z">
+        <seg>(apparirà sulla barra dei menu dopo aver salvato la personalizzazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Many pages no longer use these tags.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155645Z" creationid="manuel" creationdate="20180608T155645Z">
@@ -5196,6 +5204,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130711Z" creationid="Marco Marega" creationdate="20180623T130711Z">
         <seg>Dopo aver annullato delle modifiche, potete ripristinarle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After creating a new menu, you need to add some commands to it, as described in “&lt;bf0&gt;Adding a command to a menu&lt;/bf0&gt;” on page &lt;bf1&gt;369&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T143618Z" creationid="briga" creationdate="20180818T143618Z">
+        <seg>Dopo aver creato un nuovo menu, è necessario aggiungervi dei comandi, come descritto in “&lt;bf0&gt;Aggiungere un comando a un menu&lt;/bf0&gt;” a pagina &lt;bf1&gt;369&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28973,6 +28989,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094815Z" creationid="Marco Marega" creationdate="20180811T094815Z">
         <seg>I nuovi dati sostituiranno quelli contenuti dalla cella, ma manterranno la formattazione originaria della cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new menu now appears on the list of menus in the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T143556Z" creationid="briga" creationdate="20180818T143556Z">
+        <seg>Il nuovo menu appare ora nella lista dei menu nella finestra di dialogo Personalizza</seg>
       </tuv>
     </tu>
     <tu>
