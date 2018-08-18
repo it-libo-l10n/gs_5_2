@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3307,6 +3307,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173633Z" creationid="Elisabetta Manuele" creationdate="20180627T173633Z">
         <seg>&lt;f0&gt;Maiusc&lt;/f0&gt;+⌘+&lt;f1&gt;F5&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Since LibreOffice 5.1, t&lt;/f0&gt;he menu bars in Writer, Calc, and Impress have been reorganized to improve the usability of the application.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T101819Z" creationid="briga" creationdate="20180818T101819Z">
+        <seg>&lt;f0&gt;A partire da LibreOffice 5.1, l&lt;/f0&gt;e barre dei menu in Writer, Calc, e Impress sono state riorganizzate per migliorare l'usabilità dell'applicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28795,8 +28803,8 @@
       <tuv lang="EN">
         <seg>The most used application commands were put together in the Styles, Sheets, and Slide menus, respectively.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154746Z" creationid="luke" creationdate="20180514T154746Z">
-        <seg>The most used application commands were put together in the Styles, Sheets, and Slide menus, respectively.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T102053Z" creationid="luke" creationdate="20180514T154746Z">
+        <seg>I comandi dell'applicazione più utilizzati sono stati accorpati rispettivamente nei menu Stili, Foglio e Diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
