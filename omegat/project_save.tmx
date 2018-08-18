@@ -12919,6 +12919,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;352&lt;/seq0&gt;: Adding a new menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T143631Z" creationid="briga" creationdate="20180818T143631Z">
+        <seg>Figura &lt;seq0&gt;352&lt;/seq0&gt;: aggiungere un nuovo menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
@@ -21140,6 +21148,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072628Z" creationid="manuel" creationdate="20180531T072628Z">
         <seg>Cambiate i componenti del colore secondo necessità e fate clic su &lt;f0&gt;OK&lt;/f0&gt; per uscire dalla finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying existing menus</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T143633Z" creationid="briga" creationdate="20180818T143633Z">
+        <seg>Modifying existing menus</seg>
       </tuv>
     </tu>
     <tu>
