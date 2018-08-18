@@ -14143,6 +14143,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in addition to &lt;f3&gt;File&lt;/f3&gt;, &lt;f4&gt;Edit&lt;/f4&gt;, &lt;f5&gt;View&lt;/f5&gt;, and so on, there is &lt;f6&gt;File &lt;/f6&gt;|&lt;f7&gt; Send&lt;/f7&gt; and &lt;f8&gt;Edit &lt;/f8&gt;| &lt;f9&gt;Changes&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T140902Z" creationid="briga" creationdate="20180818T140902Z">
+        <seg>Ad esempio, oltre ai menu &lt;f3&gt;File&lt;/f3&gt;, &lt;f4&gt;Modifica&lt;/f4&gt;, &lt;f5&gt;Visualizza&lt;/f5&gt;, e così via, ci sono i menu &lt;f6&gt;File &lt;/f6&gt;|&lt;f7&gt; Invia&lt;/f7&gt; e &lt;f8&gt;Modifica &lt;/f8&gt;|&lt;f9&gt;Revisioni&lt;/f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, rather than typing “Senior Management” every time you use that phrase, you can set up an AutoText entry to insert those words when you type “sm” and press &lt;f1&gt;F3&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143730Z" creationid="manuel" creationdate="20180626T143730Z">
@@ -28701,6 +28709,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083231Z" creationid="manuel" creationdate="20180528T083231Z">
         <seg>L'elenco nella parte sinistra della finestra varia a seconda del componente di LibreOffice aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The list includes all the main menus as well as submenus (menus that are contained under another menu).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T140701Z" creationid="briga" creationdate="20180818T140701Z">
+        <seg>L'elenco include tutti i menu principali e i sottomenu (ossia menu contenuti in altri menu).</seg>
       </tuv>
     </tu>
     <tu>
