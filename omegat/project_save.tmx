@@ -18815,6 +18815,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Save In&lt;/f0&gt; drop-down list, choose whether to save this changed menu for the application (for example, LibreOffice Writer) or for a selected document (for example, SampleDocument.odt).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T134849Z" creationid="briga" creationdate="20180818T134849Z">
+        <seg>Nell'elenco a tendina &lt;f0&gt;Salva In&lt;/f0&gt;, scegliete se salvare questo menu modificato per l'intera applicazione (per esempio LibreOffice Writer) o per un documento selezionato (per esempio, DocumentoDiEsempio.odt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f1&gt;Default languages for documents&lt;/f1&gt; section, you can choose a different language for all the text that is not explicitly marked as a different language.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151504Z" creationid="manuel" creationdate="20180621T151504Z">
@@ -19019,6 +19027,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164614Z" creationid="manuel" creationdate="20180615T164614Z">
         <seg>Nella finestra che compare digitate un nome per il &lt;f0&gt;categoria&lt;/f0&gt; e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the section &lt;f0&gt;LibreOffice [name of the program&lt;/f0&gt; (example: Writer)&lt;f1&gt;] Menus&lt;/f1&gt;, select from the &lt;f2&gt;Menu&lt;/f2&gt; drop-down list the menu that you want to customize.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T134852Z" creationid="briga" creationdate="20180818T134852Z">
+        <seg>In the section &lt;f0&gt;LibreOffice [name of the program&lt;/f0&gt; (example: Writer)&lt;f1&gt;] Menus&lt;/f1&gt;, select from the &lt;f2&gt;Menu&lt;/f2&gt; drop-down list the menu that you want to customize.</seg>
       </tuv>
     </tu>
     <tu>
