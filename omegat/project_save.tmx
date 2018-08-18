@@ -8154,6 +8154,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; (not shown in illustration) to save.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T141448Z" creationid="briga" creationdate="20180818T141448Z">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; (not shown in illustration) to save.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and the dialog closes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200103Z" creationid="Marco Marega" creationdate="20180621T200103Z">
@@ -18817,8 +18825,8 @@
       <tuv lang="EN">
         <seg>In the &lt;f0&gt;Menus&lt;/f0&gt; page of the Customize dialog, click &lt;f1&gt;New&lt;/f1&gt; to display the New Menu dialog (Figure &lt;t2&gt;352&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180818T141217Z" creationid="briga" creationdate="20180818T141217Z">
-        <seg>In the &lt;f0&gt;Menus&lt;/f0&gt; page of the Customize dialog, click &lt;f1&gt;New&lt;/f1&gt; to display the New Menu dialog (Figure &lt;t2&gt;352&lt;/t2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T141432Z" creationid="briga" creationdate="20180818T141217Z">
+        <seg>Nella pagina &lt;f0&gt;Menu&lt;/f0&gt; della finestra di dialogo Personalizza, fate clic su &lt;f1&gt;Nuovo&lt;/f1&gt; per visualizzare la finestra di dialogo Nuovo menu (Figura &lt;t2&gt;352&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33221,6 +33229,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type a name for your new menu in the &lt;f0&gt;Menu name&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T141441Z" creationid="briga" creationdate="20180818T141441Z">
+        <seg>Digitate un nome per il nuovo menu nel campo &lt;f0&gt;Nome del menu&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type a name in the &lt;f0&gt;New name&lt;/f0&gt; text box if you want to rename the sheet when it is moved or copied.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163444Z" creationid="Marco Marega" creationdate="20180729T163444Z">
@@ -33778,6 +33794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085947Z" creationid="luke" creationdate="20180515T085947Z">
         <seg>Use the slide sorter &lt;f0&gt;(see page&lt;/f0&gt; &lt;bf1&gt;160&lt;/bf1&gt;&lt;f2&gt;) &lt;/f2&gt;to reorder your photo album.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the up and down arrow buttons to move the new menu into the required position on the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T141447Z" creationid="briga" creationdate="20180818T141447Z">
+        <seg>Usate i pulsanti freccia su e giù per spostare il nuovo menu nella posizione desiderata sulla barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
