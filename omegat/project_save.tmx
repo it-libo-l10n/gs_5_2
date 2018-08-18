@@ -10070,6 +10070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customizations to menus and toolbars can be saved in a template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T102112Z" creationid="briga" creationdate="20180818T102112Z">
+        <seg>Le personalizzazioni dei menu e delle barre degli strumenti si possono salvare in un modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizing LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180816T115625Z" creationid="briga" creationdate="20180816T115625Z">
@@ -18531,6 +18539,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144238Z" creationid="manuel" creationdate="20180628T144238Z">
         <seg>Writer consente di creare indici alfabetici, indici per illustrazioni, tabelle, oggetti, o persino di creare un proprio indice personalizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to changing the menu font (described in Chapter 2, Setting up LibreOffice), you can add and rearrange categories on the menu bar, add commands to menus, and make other changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T102152Z" creationid="briga" creationdate="20180818T102152Z">
+        <seg>Oltre a poter cambiare il tipo di carattere del menu [come descritto nel Capitolo 2 (Configurare LibreOffice)], è possibile aggiungere e riorganizzare categorie sulla barra dei menu, aggiungere comandi ai menu, e apportare altre modifiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31551,6 +31567,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140851Z" creationid="manuel" creationdate="20180707T140851Z">
         <seg>Per mostrare o nascondere la griglia in Draw, andate su &lt;f0&gt;Visualizza &gt; Griglia &gt; Mostra Griglia&lt;/f0&gt; dalla barra dei menu oppure fate clic sull'icona &lt;f1&gt;Mostra griglia&lt;/f1&gt; sulla barra degli strumenti Opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do so, first save them in a document and then save the document as a template as described in Chapter 3, Using Styles and Templates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T102123Z" creationid="briga" creationdate="20180818T102123Z">
+        <seg>Per farlo, salvatele prima in un documento e poi salvate il documento come modello, così come descritto nel Capitolo 3 (Uso di stili e modelli).</seg>
       </tuv>
     </tu>
     <tu>
