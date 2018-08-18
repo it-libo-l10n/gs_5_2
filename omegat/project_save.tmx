@@ -7818,6 +7818,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; to display the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T134508Z" creationid="briga" creationdate="20180818T134508Z">
+        <seg>Scegliete &lt;f0&gt;Strumenti &gt; Personalizza&lt;/f0&gt; per aprite la finestra di dialogo Personalizza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; to configure the name you want to appear in the Author field of the comment, or to change it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081236Z" creationid="manuel" creationdate="20180628T081236Z">
@@ -7862,6 +7870,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170004Z" creationid="manuel" creationdate="20180608T170004Z">
         <seg>Modificare le opzioni del controllo ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the &lt;f1&gt;Menus&lt;/f1&gt; page (Figure &lt;t2&gt;351&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T134602Z" creationid="briga" creationdate="20180818T134602Z">
+        <seg>Scegliete la scheda &lt;f1&gt;Menu&lt;/f1&gt; (Figura &lt;t2&gt;351&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12851,6 +12867,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T135835Z" creationid="manuel" creationdate="20180608T135835Z">
         <seg>Figura &lt;seq0&gt;34&lt;/seq0&gt;: aggiornamento online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;351&lt;/seq0&gt;: The Menus page of the Customize dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T134619Z" creationid="briga" creationdate="20180818T134619Z">
+        <seg>Figura &lt;seq0&gt;351&lt;/seq0&gt;: La scheda menu della finestra di dialogo Personalizza</seg>
       </tuv>
     </tu>
     <tu>
@@ -30781,6 +30805,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071222Z" creationid="manuel" creationdate="20180618T071222Z">
         <seg>Per &lt;f2&gt;firmare il documento o&lt;/f2&gt; visualizzare il certificato, fate clic sull'icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;i0/&gt;customize menus&lt;i1/&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180818T134357Z" creationid="briga" creationdate="20180818T134357Z">
+        <seg>Per &lt;i0/&gt;personalizzare i menu&lt;i1/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
