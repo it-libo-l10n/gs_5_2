@@ -14329,8 +14329,8 @@
       <tuv lang="EN">
         <seg>For example, to select the &lt;f0&gt;Send&lt;/f0&gt; submenu command by pressing &lt;f1&gt;S&lt;/f1&gt; (after opening the File menu using &lt;f2&gt;Alt+F&lt;/f2&gt;), enter &lt;f3&gt;~Send&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062733Z" creationid="briga" creationdate="20180819T062733Z">
-        <seg>Ad esempio, per selezionare il comando del sottomenu &lt;f0&gt;Invia&lt;/f0&gt; premendo &lt;f1&gt;I&lt;/f1&gt; (dopo avere aperto il menu File usando &lt;f2&gt;Alt+F&lt;/f2&gt;), inserite ~Invia.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062837Z" creationid="briga" creationdate="20180819T062733Z">
+        <seg>Ad esempio, per selezionare il comando del sottomenu &lt;f0&gt;Invia&lt;/f0&gt; premendo &lt;f1&gt;I&lt;/f1&gt; (dopo avere aperto il menu File usando &lt;f2&gt;Alt+F&lt;/f2&gt;), inserite &lt;f3&gt;~Invia&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19739,6 +19739,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T120554Z" creationid="Marco Marega" creationdate="20180812T120554Z">
         <seg>Non è possibile aggiungere dei temi a Calc, e non è possibile modificarli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to use a letter already in use in the menu list (for example, in the Insert menu, the letter &lt;f0&gt;v&lt;/f0&gt; is used in &lt;f1&gt;Envelope&lt;/f1&gt; and in &lt;f2&gt;Movie and sound&lt;/f2&gt; as an accelerator).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T065440Z" creationid="briga" creationdate="20180819T065440Z">
+        <seg>È possibile usare una lettera già in uso nell'elenco del menu (ad esempio, nel menu Inserisci, la lettera &lt;f0&gt;m&lt;/f0&gt; è usata come acceleratore sia in &lt;f1&gt;Interruzione manuale&lt;/f1&gt; che in &lt;f2&gt;Immagine&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30357,6 +30365,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131209Z" creationid="Marco Marega" creationdate="20180623T130951Z">
         <seg>Questo può risparmiare diversi clic e ripetute navigazioni all'interno dei menu o diverse pressioni di combinazioni di tasti, specialmente quando il comando si trova in un menu secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This changes it from the default &lt;f4&gt;d&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062944Z" creationid="briga" creationdate="20180819T062825Z">
+        <seg>In tal modo si modifica l'impostazione predefinita &lt;f4&gt;v&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
