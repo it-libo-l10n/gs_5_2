@@ -5040,6 +5040,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding a command to a menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T065515Z" creationid="briga" creationdate="20180819T065515Z">
+        <seg>Aggiungere un comando a un menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding a layer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163000Z" creationid="manuel" creationdate="20180703T163000Z">
@@ -16707,6 +16715,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180816T115653Z" creationid="briga" creationdate="20180816T115653Z">
         <seg>Non è tuttavia possibile personalizzare i menu contestuali (pulsante destro del mouse).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you should use an unused letter if possible, to make it simpler to navigate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T065512Z" creationid="briga" creationdate="20180819T065512Z">
+        <seg>In ogni caso, dovreste utilizzare una lettera che non è già utilizzata se possibile, per rendere più semplice la navigazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36103,6 +36119,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can &lt;i0/&gt;add commands to both the supplied menus and menus you have created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T065526Z" creationid="briga" creationdate="20180819T065526Z">
+        <seg>Potete &lt;i0/&gt;aggiungere comandi ai menu forniti e ai menu da voi creati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can &lt;i0/&gt;control transparency gradients in the same manner as color gradients.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150713Z" creationid="manuel" creationdate="20180705T150713Z">
@@ -37851,6 +37875,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T154437Z" creationid="manuel" creationdate="20180606T100637Z">
         <seg>opzioni accessibilità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>adding commands</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T065519Z" creationid="briga" creationdate="20180819T065519Z">
+        <seg>aggiungere comandi</seg>
       </tuv>
     </tu>
     <tu>
