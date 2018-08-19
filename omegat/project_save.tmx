@@ -4471,6 +4471,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dialog similar to the one shown in Figure &lt;t2&gt;352&lt;/t2&gt; (but without the &lt;f3&gt;Menu name&lt;/f3&gt; box) opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062434Z" creationid="briga" creationdate="20180819T062434Z">
+        <seg>Si aprirà una finestra di dialogo simile a quella mostrata nella &lt;t2&gt;Figura 352&lt;/t2&gt; (ma senza il campo &lt;f3&gt;Nome del menu&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A digital signature requires a personal signing certificate.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073330Z" creationid="manuel" creationdate="20180606T073330Z">
@@ -5012,6 +5020,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T144503Z" creationid="manuel" creationdate="20180704T144503Z">
         <seg>Aggiungete un nome, titolo e descrizione del livello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add a tilde (~) in front of the letter that you want to use as an accelerator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062604Z" creationid="briga" creationdate="20180819T062604Z">
+        <seg>Aggiungete una tilde (~) davanti alla lettera che volete usare come acceleratore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9068,6 +9084,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Menu&lt;/f0&gt; button and select &lt;f1&gt;Rename&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062600Z" creationid="briga" creationdate="20180819T062600Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Menu&lt;/f0&gt; e selezionate &lt;f1&gt;Rinomina&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Modify&lt;/f0&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070253Z" creationid="manuel" creationdate="20180531T070253Z">
@@ -11863,6 +11887,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Existing submenus can be edited to change the letter which is used to select their default shortcut.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062553Z" creationid="briga" creationdate="20180819T062553Z">
+        <seg>I sottomenu esistenti possono essere modificati per cambiare la lettera utilizzata per selezionarli dalla tastiera, quando il menu è aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Expert Configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T155729Z" creationid="manuel" creationdate="20180608T070619Z">
@@ -13999,6 +14031,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f7&gt;Rename&lt;/f7&gt; and &lt;f8&gt;Delete&lt;/f8&gt; are not available for the supplied menus, and &lt;f9&gt;Move&lt;/f9&gt; is not available for submenus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062400Z" creationid="briga" creationdate="20180819T062400Z">
+        <seg>Ad esempio, &lt;f7&gt;Rinomina&lt;/f7&gt; ed &lt;f8&gt;Elimina&lt;/f8&gt; non sono disponibili per i menu forniti, e &lt;f9&gt;Sposta&lt;/f9&gt; non è disponibile per i sottomenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143958Z" creationid="manuel" creationdate="20180611T143958Z">
@@ -14283,6 +14323,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204650Z" creationid="Marco Marega" creationdate="20180813T204650Z">
         <seg>Ad esempio, per ripetere le righe 1 e 2, digitate&lt;f1&gt;$1:$2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, to select the &lt;f0&gt;Send&lt;/f0&gt; submenu command by pressing &lt;f1&gt;S&lt;/f1&gt; (after opening the File menu using &lt;f2&gt;Alt+F&lt;/f2&gt;), enter &lt;f3&gt;~Send&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062733Z" creationid="briga" creationdate="20180819T062733Z">
+        <seg>Ad esempio, per selezionare il comando del sottomenu &lt;f0&gt;Invia&lt;/f0&gt; premendo &lt;f1&gt;I&lt;/f1&gt; (dopo avere aperto il menu File usando &lt;f2&gt;Alt+F&lt;/f2&gt;), inserite ~Invia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18635,6 +18683,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103133Z" creationid="manuel" creationdate="20180615T103133Z">
         <seg>Oltre alla formattazione, qualsiasi impostazione che può essere aggiunta o modificata in un documento può essere salvata all'interno di un modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to renaming, you can allocate a letter in a custom menu’s name, which will become underlined, to be used as a keyboard shortcut, allowing you to select that menu by pressing &lt;f0&gt;Alt+&lt;/f0&gt; that letter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062545Z" creationid="briga" creationdate="20180819T062545Z">
+        <seg>Oltre a rinominare, potete specificare una lettera nel nome di un menu personalizzato, che diverrà sottolineata; in tal modo la lettera verrà utilizzata come scorciatoia da tastiera, permettendovi di selezionare il menu quando premete &lt;f0&gt;Alt&lt;/f0&gt;+ la lettera scelta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25144,6 +25200,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a custom menu or a submenu in the &lt;f0&gt;Menu&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062557Z" creationid="briga" creationdate="20180819T062557Z">
+        <seg>Selezionate un menu personalizzato o un sottomenu nell'elenco a discesa &lt;f0&gt;Menu&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a file and then right click to open a context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203400Z" creationid="Marco Marega" creationdate="20180622T203400Z">
@@ -26996,6 +27060,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T141028Z" creationid="manuel" creationdate="20180707T141028Z">
         <seg>Le suddivisioni sono ulteriori punti che appaiono lungo i lati di ciascun rettangolo o quadrato nella griglia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Submenus are easily identified in the &lt;f5&gt;Entries&lt;/f5&gt; list by a small black triangle on the right hand side of the name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062532Z" creationid="briga" creationdate="20180819T062532Z">
+        <seg>Un piccolo triangolo nero a destra del nome permette di riconoscere facilmente i sottomenu nella lista delle &lt;f5&gt;Voci&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32300,6 +32372,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To move a menu (such as &lt;f0&gt;File&lt;/f0&gt;), choose &lt;f1&gt;Menu &gt; Move&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062410Z" creationid="briga" creationdate="20180819T062410Z">
+        <seg>Per spostare un menu (come &lt;f0&gt;File&lt;/f0&gt;), scegliete &lt;f1&gt;Menu &gt; Sposta&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To move a sheet to a different position within the same spreadsheet, click and hold on the sheet tab and drag it to its new position before releasing the mouse button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T161501Z" creationid="Marco Marega" creationdate="20180729T161501Z">
@@ -32329,6 +32409,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T123655Z" creationid="Marco Marega" creationdate="20180719T123655Z">
         <seg>Per spostare o copiare un foglio in un altro foglio elettronico, dovete usare la finestra di dialogo &lt;f2&gt;Sposta/Copia Foglio&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move submenus (such as &lt;f0&gt;File | Send&lt;/f0&gt;), select the main menu (&lt;f1&gt;File&lt;/f1&gt;) in the Menu list and then, in the &lt;f2&gt;Menu Content&lt;/f2&gt; section of the dialog, select the submenu (&lt;f3&gt;Send&lt;/f3&gt;) in the &lt;f4&gt;Entries&lt;/f4&gt; list and use the arrow keys to move it up or down in the sequence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062512Z" creationid="briga" creationdate="20180819T062512Z">
+        <seg>Per spostare i sottomenu (come &lt;f0&gt;File | Invia&lt;/f0&gt;), selezionate il menu principale (&lt;f1&gt;File&lt;/f1&gt;) nell'elenco del Menu, quindi, nella sezione &lt;f2&gt;Contenuto del menu&lt;/f2&gt; della finestra di dialogo, selezionate il sottomenu (&lt;f3&gt;Invia&lt;/f3&gt;) nell'elenco delle &lt;f4&gt;Voci&lt;/f4&gt; e utilizzate i tasti freccia per spostarlo verso l'alto o verso il basso nella sequenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33850,6 +33938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085947Z" creationid="luke" creationdate="20180515T085947Z">
         <seg>Use the slide sorter &lt;f0&gt;(see page&lt;/f0&gt; &lt;bf1&gt;160&lt;/bf1&gt;&lt;f2&gt;) &lt;/f2&gt;to reorder your photo album.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the up and down arrow buttons to move the menu into the required position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062442Z" creationid="briga" creationdate="20180819T062442Z">
+        <seg>Usate i pulsanti freccia su e giù per spostare il menu nella posizione desiderata.</seg>
       </tuv>
     </tu>
     <tu>
