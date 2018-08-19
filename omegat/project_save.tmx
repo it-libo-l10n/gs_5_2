@@ -21154,8 +21154,8 @@
       <tuv lang="EN">
         <seg>Modifying existing menus</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180818T143633Z" creationid="briga" creationdate="20180818T143633Z">
-        <seg>Modifying existing menus</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062306Z" creationid="briga" creationdate="20180818T143633Z">
+        <seg>Modificare menu esistenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -21956,6 +21956,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155425Z" creationid="manuel" creationdate="20180628T155425Z">
         <seg>Non tutte le modifiche vengono memorizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not all of these modifications can be applied to all the entries in the &lt;f6&gt;Menu&lt;/f6&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062342Z" creationid="briga" creationdate="20180819T062342Z">
+        <seg>Not all of these modifications can be applied to all the entries in the &lt;f6&gt;Menu&lt;/f6&gt; list.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30965,6 +30973,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085118Z" creationid="manuel" creationdate="20180627T085118Z">
         <seg>Per &lt;i0/&gt;sillabare manualmente le parole, non usate un trattino (tratto d'unione) normale, che rimarrà visibile anche se la parola non si trova più alla fine di una riga, in caso doveste aggiungere o rimuovere del testo oppure modificare i margini o la dimensione del carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;i0/&gt;modify an existing menu, either user-made or inbuilt, select it in the &lt;f1&gt;Menu&lt;/f1&gt; list and click the &lt;f2&gt;Menu&lt;/f2&gt; button to drop down a list of modifications: &lt;f3&gt;Move&lt;/f3&gt;, &lt;f4&gt;Rename&lt;/f4&gt;, &lt;f5&gt;Delete&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180819T062339Z" creationid="briga" creationdate="20180819T062339Z">
+        <seg>Per &lt;i0/&gt;modificare un menu esistente, da voi creato o incorporato, selezionatelo nell'elenco &lt;f1&gt;Menu&lt;/f1&gt; e fate clic sul pulsante &lt;f2&gt;Menu&lt;/f2&gt; per visualizzare un elenco di modifiche: &lt;f3&gt;Sposta&lt;/f3&gt;, &lt;f4&gt;Rinomina&lt;/f4&gt;, &lt;f5&gt;Elimina&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
