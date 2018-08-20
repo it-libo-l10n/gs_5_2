@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2463,6 +2463,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Formula e&lt;/f0&gt;xamples</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T125228Z" creationid="Marco Marega" creationdate="20180820T125228Z">
+        <seg>Esempi di &lt;f0&gt;Formule&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Formulas are inserted as OLE objects &lt;/f0&gt;&lt;f1&gt;into documents&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133123Z" creationid="Marco Marega" creationdate="20180815T133123Z">
@@ -3491,6 +3499,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T074451Z" creationid="manuel" creationdate="20180626T074451Z">
         <seg>&lt;f0&gt;Il dizionario dei sinonimi offre un elenco più ampio di parole e frasi alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The&lt;/f0&gt; simple formula &lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;formula&lt;/s4&gt;&lt;/df1&gt; &lt;f5&gt;can be created using LibreOffice Math as follows:&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T125455Z" creationid="Marco Marega" creationdate="20180820T125455Z">
+        <seg>&lt;f0&gt;Questa &lt;/f0&gt; semplice formula &lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;formula&lt;/s4&gt;&lt;/df1&gt; &lt;f5&gt;in LibreOffice Math può essere create come segue:&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11899,6 +11915,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163004Z" creationid="manuel" creationdate="20180715T163004Z">
         <seg>Ogni volta che viene aperto il database &lt;f0&gt;Automobile&lt;/f0&gt;, si apre la finestra &lt;f1&gt;Automobile – LibreOffice Base&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example 1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T125258Z" creationid="Marco Marega" creationdate="20180820T125258Z">
+        <seg>Esempio 1</seg>
       </tuv>
     </tu>
     <tu>
