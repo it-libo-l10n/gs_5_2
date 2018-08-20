@@ -25744,6 +25744,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the first placeholder &lt;f0&gt;&lt;f1&gt;&lt;?&gt;&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;before the word &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;times&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;in the Formula Editor &lt;f6&gt;and replace it with the character &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;5&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T130102Z" creationid="Marco Marega" creationdate="20180820T130102Z">
+        <seg>Nell'Editor delle formule, selezionate ill primo segnaposto &lt;f0&gt;&lt;f1&gt;&lt;?&gt;,&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;prima della parola &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;times&lt;/f4&gt;,&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;e sostituitelo con il carattere &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;5&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the formatting properties to be included in the AutoFormat function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T194848Z" creationid="Marco Marega" creationdate="20180811T194848Z">
