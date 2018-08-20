@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f11&gt;&lt;f12&gt;The formula&lt;/f12&gt;&lt;f13&gt;&lt;df14&gt;&lt;d15/&gt;&lt;di16/&gt;&lt;s17&gt;formula&lt;/s17&gt;&lt;/df14&gt;&lt;/f13&gt;&lt;f18&gt;now appears in the document.&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T134333Z" creationid="Marco Marega" creationdate="20180820T134333Z">
+        <seg>&lt;/f11&gt;&lt;f12&gt;Nel documento apparirà la formula&lt;/f12&gt;&lt;f13&gt;&lt;df14&gt;&lt;d15/&gt;&lt;di16/&gt;&lt;s17&gt;formula&lt;/s17&gt;&lt;/df14&gt;&lt;/f13&gt;&lt;f18&gt;.&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f12&gt;&lt;f13&gt;D&lt;/f13&gt;&lt;f14&gt;ouble-click&lt;/f14&gt;&lt;f15&gt;ing&lt;/f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;on the formula &lt;/f17&gt;&lt;f18&gt;object&lt;/f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;in &lt;/f20&gt;&lt;f21&gt;the&lt;/f21&gt;&lt;f22&gt; document &lt;/f22&gt;&lt;f23&gt;will open the &lt;/f23&gt;&lt;f24&gt;Formula Editor&lt;/f24&gt;&lt;f25&gt; again so &lt;/f25&gt;&lt;f26&gt;that &lt;/f26&gt;&lt;f27&gt;you can edit the formula&lt;/f27&gt;&lt;f28&gt;.&lt;/f28&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133045Z" creationid="Marco Marega" creationdate="20180815T133045Z">
@@ -3315,6 +3323,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Select the second placeholder &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;?&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; after the word &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;simeq&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; in the Formula Editor and replace it with the character&lt;/f6&gt;&lt;f7&gt;s&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;3.14159&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T134249Z" creationid="Marco Marega" creationdate="20180820T134249Z">
+        <seg>&lt;f0&gt;Selezionate il secondo segnaposto &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;?&gt;&lt;/f2&gt;&lt;/f1&gt;,&lt;f3&gt; dopo la parola &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;simeq&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; e sostituitelo con i caratteri &lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;3.14159&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
