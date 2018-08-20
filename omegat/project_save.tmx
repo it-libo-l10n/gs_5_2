@@ -22816,6 +22816,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f1&gt;Name&lt;/f1&gt; dialog (Figure &lt;t2&gt;355&lt;/t2&gt;), type the new toolbar’s name and choose from the &lt;f3&gt;Save In&lt;/f3&gt; drop-down list where to save this changed menu: for the application (for example, Writer) or for a selected document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T142132Z" creationid="briga" creationdate="20180820T142132Z">
+        <seg>Nella finestra di dialogo &lt;f1&gt;Nome&lt;/f1&gt; (figura &lt;t2&gt;355&lt;/t2&gt;), digitate il nome della nuova barra degli strumenti e scegliete dall'elenco a tendina &lt;f3&gt;Salva in&lt;/f3&gt; dove salvare il menu modificato: per l'applicazione (ad esempio Writer) oppure per un documento selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f3&gt;View &lt;/f3&gt;menu, select which toolbars you want to display.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T144223Z" creationid="manuel" creationdate="20180703T144223Z">
