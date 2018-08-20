@@ -1534,6 +1534,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f13&gt;&lt;f14&gt;These placeholders must then be replaced with real numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T130547Z" creationid="Marco Marega" creationdate="20180820T130547Z">
+        <seg>&lt;/f13&gt;&lt;f14&gt;Questi segnaposti devono essere sostituiti con dei numero reali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f14&gt;&lt;f15&gt;Using markup language in the Formula Editor places the formula &lt;/f15&gt;&lt;f16&gt;&lt;df17&gt;&lt;d18/&gt;&lt;di19/&gt;&lt;s20&gt;formula&lt;/s20&gt;&lt;/df17&gt;&lt;/f16&gt;&lt;f21&gt; directly into the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T130700Z" creationid="Marco Marega" creationdate="20180820T130700Z">
+        <seg>&lt;/f14&gt;&lt;f15&gt;Usando il linguaggio di markup nell'Editor delle formule, viene inserita la formula &lt;/f15&gt;&lt;f16&gt;&lt;df17&gt;&lt;d18/&gt;&lt;di19/&gt;&lt;s20&gt;formula&lt;/s20&gt;&lt;/df17&gt;&lt;/f16&gt;&lt;f21&gt; direttamente nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f16&gt;&lt;f17&gt;For example, typing %lambda creates the Greek character &lt;/f17&gt;&lt;f18&gt;λ&lt;/f18&gt;&lt;f19&gt;.&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T185747Z" creationid="Marco Marega" creationdate="20180817T185747Z">
