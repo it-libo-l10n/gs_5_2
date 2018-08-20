@@ -2711,6 +2711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In the Elements window, s&lt;/f0&gt;elect &lt;f1&gt;Unary/Binary Operators&lt;/f1&gt; &lt;f2&gt;from the drop-down list&lt;/f2&gt; and then select the &lt;f3&gt;Multiplication&lt;/f3&gt; icon &lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T125729Z" creationid="Marco Marega" creationdate="20180820T125729Z">
+        <seg>&lt;f0&gt;Nella finestra degli elementi, &lt;/f0&gt;Selezionate &lt;f1&gt;Operatori unari/binari&lt;/f1&gt; &lt;f2&gt;dall'elenco a discesa&lt;/f2&gt; e poi selezionate l'icona della &lt;f3&gt;Moltiplicazione&lt;/f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Increment&lt;/f0&gt; – determines the value by which the series of the selected type increases by each step.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212936Z" creationid="Marco Marega" creationdate="20180808T212936Z">
@@ -2851,6 +2859,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190551Z" creationid="Marco Marega" creationdate="20180528T190551Z">
         <seg>&lt;f0&gt;Mac OS X&lt;/f0&gt; 10.8 (Mountain Lion) o superiore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Make sure the cursor is flashing in the Formula Editor, then s&lt;/f0&gt;elect the &lt;f1&gt;category &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Unary/Binary Operators&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; and symbol &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Multiplication&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; using one of the following methods:&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T125635Z" creationid="Marco Marega" creationdate="20180820T125635Z">
+        <seg>&lt;f0&gt;Assicuratevi che il cursore lampeggi all'interno dell'Editor delle formule, quindi &lt;/f0&gt;selezionate la &lt;f1&gt;categoria &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Operatori unari/binari&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; ed il simbolo della &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Moltiplicazione&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; usando uno dei seguenti metodi:&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24228,6 +24244,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
         <seg>Right-click anywhere on the screen to open a context menu where you can navigate through the slides and set other options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click in the Formula Editor and select &lt;f0&gt;Unary/Binary Operators &gt; a times b&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T125910Z" creationid="Marco Marega" creationdate="20180820T125910Z">
+        <seg>Fate clic con il pulsante destro del mouse nell'Editor delle formule e dal menu contestuale selezionate &lt;f0&gt;Operatori unari/binari &gt; a times b&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
