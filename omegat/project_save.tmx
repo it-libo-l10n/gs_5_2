@@ -3255,6 +3255,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Select the second placeholder &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;?&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; after the word &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;times&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; in the Formula Editor and replace it with the character &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;4&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T130310Z" creationid="Marco Marega" creationdate="20180820T130201Z">
+        <seg>Nell'Editor delle formule, &lt;f0&gt;selezionate il secondo segnaposto &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;?&gt;&lt;/f2&gt;,&lt;/f1&gt;&lt;f3&gt; dopo la parola &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;times&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; e sostituitelo con il carattere &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;4&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select the symbol you want to use in the formula from t&lt;/f0&gt;h&lt;f1&gt;e Elements window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T124206Z" creationid="Marco Marega" creationdate="20180816T124206Z">
@@ -3523,6 +3531,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T125455Z" creationid="Marco Marega" creationdate="20180820T125455Z">
         <seg>&lt;f0&gt;Questa &lt;/f0&gt; semplice formula &lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;formula&lt;/s4&gt;&lt;/df1&gt; &lt;f5&gt;in LibreOffice Math può essere create come segue:&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;This method &lt;/f0&gt;&lt;f1&gt;initially &lt;/f1&gt;&lt;f2&gt;place&lt;/f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;f4&gt; the formula text &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;?&gt; times &lt;?&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; in the Formula Editor and the symbol &lt;/f7&gt;&lt;f8&gt;&lt;df9&gt;&lt;di10/&gt;&lt;/df9&gt;&lt;/f8&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;appears &lt;/f12&gt;&lt;f13&gt;in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T130518Z" creationid="Marco Marega" creationdate="20180820T130518Z">
+        <seg>&lt;f0&gt;Inizialmente Questo metodo &lt;/f0&gt;&lt;f1&gt;inserisce  &lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt; il testo della formula &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;?&gt; times &lt;?&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; nell'Editor delle formule ed il simbolo &lt;/f7&gt;&lt;f8&gt;&lt;df9&gt;&lt;di10/&gt;&lt;/df9&gt;&lt;/f8&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;appare &lt;/f12&gt;&lt;f13&gt;nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25746,8 +25762,8 @@
       <tuv lang="EN">
         <seg>Select the first placeholder &lt;f0&gt;&lt;f1&gt;&lt;?&gt;&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;before the word &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;times&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;in the Formula Editor &lt;f6&gt;and replace it with the character &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;5&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T130102Z" creationid="Marco Marega" creationdate="20180820T130102Z">
-        <seg>Nell'Editor delle formule, selezionate ill primo segnaposto &lt;f0&gt;&lt;f1&gt;&lt;?&gt;,&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;prima della parola &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;times&lt;/f4&gt;,&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;e sostituitelo con il carattere &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;5&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T130204Z" creationid="Marco Marega" creationdate="20180820T130102Z">
+        <seg>Nell'Editor delle formule, selezionate il primo segnaposto &lt;f0&gt;&lt;f1&gt;&lt;?&gt;,&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;prima della parola &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;times&lt;/f4&gt;,&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;e sostituitelo con il carattere &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;5&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28765,6 +28781,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062554Z" creationid="manuel" creationdate="20180531T062554Z">
         <seg>I caratteri elencati sono quelli installati sul vostro sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The formula in the document updates automatically.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T130133Z" creationid="Marco Marega" creationdate="20180820T130133Z">
+        <seg>La formula nel documento si aggiorna automaticamente.&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
