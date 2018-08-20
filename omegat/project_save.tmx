@@ -2191,6 +2191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Delete&lt;/f0&gt; the first placeholder &lt;f1&gt;&lt;f2&gt;&lt;?&gt;&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;before the word &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;simeq&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T134148Z" creationid="Marco Marega" creationdate="20180820T134148Z">
+        <seg>Nell'Editor delle formule &lt;f0&gt;cancellate &lt;/f0&gt; il primo segnaposto &lt;f1&gt;&lt;f2&gt;&lt;?&gt;&lt;/f2&gt;&lt;/f1&gt;, &lt;f3&gt;prima della parole &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;simeq&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Detect special numbers&lt;/f0&gt; – when this option is enabled, Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T220821Z" creationid="Marco Marega" creationdate="20180712T220821Z">
@@ -2747,6 +2755,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212629Z" creationid="Marco Marega" creationdate="20180619T212609Z">
         <seg>&lt;f0&gt;In alcune situazioni, può essere utile ridurre il numero delle barre degli strumenti visualizzate per ottenere maggiore spazio per il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;In the Elements window, s&lt;/f0&gt;elect &lt;f1&gt;&lt;f2&gt;Relations&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;from the drop-down list&lt;/f3&gt; and then select the &lt;f4&gt;&lt;f5&gt;Is Similar Or Equal&lt;/f5&gt;&lt;/f4&gt; icon &lt;df6&gt;&lt;di7/&gt;&lt;/df6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133938Z" creationid="Marco Marega" creationdate="20180820T133938Z">
+        <seg>&lt;f0&gt;Nella finestra degli Elementi, &lt;/f0&gt;selezionate &lt;f1&gt;&lt;f2&gt;Relazioni&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;dall'elenco a discesa&lt;/f3&gt; e poi selezionate l'icona &lt;f4&gt;&lt;f5&gt;Simile o uguale&lt;/f5&gt;&lt;/f4&gt; &lt;df6&gt;&lt;di7/&gt;&lt;/df6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24396,6 +24412,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
         <seg>Right-click anywhere on the screen to open a context menu where you can navigate through the slides and set other options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click in the Formula Editor and select &lt;f0&gt;&lt;f1&gt;Relations&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &gt; a &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;simeq&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; b&lt;/f5&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T134043Z" creationid="Marco Marega" creationdate="20180820T134043Z">
+        <seg>Fare clic con il pulsante destro del mouse nell'Editor delle formule e dal menu contestuale selezionate &lt;f0&gt;&lt;f1&gt;Relazioni&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &gt; a &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;simeq&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; b&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
