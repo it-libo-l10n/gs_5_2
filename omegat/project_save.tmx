@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8042,6 +8042,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &gt; Customize &gt; Toolbars&lt;/f0&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T135154Z" creationid="briga" creationdate="20180820T135154Z">
+        <seg>Scegliete &lt;f0&gt;Strumenti &gt; Personalizza &gt; Barre degli strumenti&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; from the menu bar and go to the &lt;f1&gt;Toolbars&lt;/f1&gt; page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T131747Z" creationid="briga" creationdate="20180820T131747Z">
@@ -8966,6 +8974,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091448Z" creationid="manuel" creationdate="20180806T091448Z">
         <seg>Fate clic sull'icona &lt;f0&gt;Tabelle&lt;/f0&gt; nel riquadro Database per visualizzare le tabelle esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Toolbar&lt;/f0&gt; or &lt;f1&gt;Modify&lt;/f1&gt; buttons, and add commands to a toolbar by clicking on the &lt;f2&gt;Add&lt;/f2&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T135042Z" creationid="briga" creationdate="20180820T135042Z">
+        <seg>Fate clic sui pulsanti &lt;f0&gt;Barra degli strumenti&lt;/f0&gt; oppure &lt;f1&gt;Modifica&lt;/f1&gt;, e aggiungete comandi alla barra facendo clic sul pulsante &lt;f2&gt;Importa&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10074,6 +10090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173510Z" creationid="manuel" creationdate="20180613T173510Z">
         <seg>Creazione di un nuovo stile tramite la finestra di dialogo Stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a new toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T135109Z" creationid="briga" creationdate="20180820T135109Z">
+        <seg>Creare una nuova barra degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -19223,6 +19247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Save In&lt;/f0&gt; drop-down list, choose whether to save this changed toolbar for the application (for example, Writer) or for a selected document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T134901Z" creationid="briga" creationdate="20180820T134901Z">
+        <seg>Nell'elenco a comparsa &lt;f0&gt;Salva in&lt;/f0&gt;, scegliete se salvare la barra degli strumenti modificata per l'applicazione (ad esempio Writer) oppure per un documento selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f1&gt;Default languages for documents&lt;/f1&gt; section, you can choose a different language for all the text that is not explicitly marked as a different language.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151504Z" creationid="manuel" creationdate="20180621T151504Z">
@@ -19443,6 +19475,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143855Z" creationid="manuel" creationdate="20180621T143855Z">
         <seg>Nella sezione chiamata &lt;f1&gt;Formato file predefinito e impostazioni ODF&lt;/f1&gt;, sotto &lt;f2&gt;Tipo documento&lt;/f2&gt;, selezionate &lt;f3&gt;Documento di testo,&lt;/f3&gt; quindi sotto &lt;f4&gt;Salva sempre come&lt;/f4&gt;, selezionate il vostro formato file preferito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the section&lt;f0&gt; LibreOffice [name of the program&lt;/f0&gt; (example: Writer)&lt;f1&gt;] &gt; Toolbars&lt;/f1&gt;, select from the &lt;f2&gt;Toolbar&lt;/f2&gt; drop-down list the toolbar that you want to customize.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T135030Z" creationid="briga" creationdate="20180820T135030Z">
+        <seg>Nella sezione Barre degli strumenti &lt;f0&gt; LibreOffice [nome del programma &lt;/f0&gt;(esempio: Writer)&lt;f1&gt;] &gt; Barre degli strumenti&lt;/f1&gt; selezionate dall'elenco a comparsa &lt;f2&gt;Barra degli strumenti&lt;/f2&gt; la barra degli strumenti che volete personalizzare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21514,8 +21554,8 @@
       <tuv lang="EN">
         <seg>Modifying existing toolbars</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180820T131801Z" creationid="briga" creationdate="20180820T131801Z">
-        <seg>Modifying existing toolbars</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T134846Z" creationid="briga" creationdate="20180820T131801Z">
+        <seg>Modificare le barre degli strumenti esistenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -32035,6 +32075,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a new toolbar:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T135112Z" creationid="briga" creationdate="20180820T135112Z">
+        <seg>Per creare una nuova barra degli strumenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create a simple document for the recipient to complete, such as a questionnaire sent out to a group of people who fill it in and return it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164525Z" creationid="manuel" creationdate="20180628T164525Z">
@@ -32768,6 +32816,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070210Z" creationid="manuel" creationdate="20180531T070210Z">
         <seg>Per modificare un colore:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify an existing toolbar:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T134848Z" creationid="briga" creationdate="20180820T134848Z">
+        <seg>Per modificare una barra degli strumenti esistente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35847,6 +35903,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you have finished making all your changes, click &lt;f0&gt;OK&lt;/f0&gt; to save them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T135104Z" creationid="briga" creationdate="20180820T135104Z">
+        <seg>Una volte terminate tutte le modifiche, fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvarle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you have finished typing text, click outside the text frame to cancel adding or editing text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093558Z" creationid="manuel" creationdate="20180705T093558Z">
@@ -36667,6 +36731,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153929Z" creationid="manuel" creationdate="20180621T153929Z">
         <seg>Potete anche copiare testo da altre fonti come pagine Web e incollarlo in un documento di Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also create a new toolbar by clicking on the &lt;f3&gt;New&lt;/f3&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T135053Z" creationid="briga" creationdate="20180820T135053Z">
+        <seg>È inoltre possibile creare una nuova barra degli strumenti facendo clic sul pulsante &lt;f3&gt;Nuovo&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
