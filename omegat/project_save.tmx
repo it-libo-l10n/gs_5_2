@@ -2295,6 +2295,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Enter &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;%pi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in the Formula Editor to enter the Greek character for pi (&lt;/f3&gt;&lt;f4&gt;π&lt;/f4&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133611Z" creationid="Marco Marega" creationdate="20180820T133611Z">
+        <seg>&lt;f0&gt;Inserite &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;%pi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; nell'Editor delle formule in modo da inserite il carattere del pi greco(&lt;/f3&gt;&lt;f4&gt;π&lt;/f4&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Enter&lt;/f0&gt; markup &lt;f1&gt;language directly &lt;/f1&gt;in the &lt;f2&gt;Formula Editor&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123040Z" creationid="Marco Marega" creationdate="20180816T123040Z">
@@ -21004,6 +21012,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181945Z" creationid="Elisabetta Manuele" creationdate="20180620T181945Z">
         <seg>Finestra principale di Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure &lt;f0&gt;the&lt;/f0&gt; cursor is flashing in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133451Z" creationid="Marco Marega" creationdate="20180820T133451Z">
+        <seg>Assicuratevi che &lt;f0&gt;il&lt;/f0&gt; cursore lampeggi all'interno dell'Editor delle formule.</seg>
       </tuv>
     </tu>
     <tu>
