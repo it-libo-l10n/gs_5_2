@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7978,6 +7978,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; from the menu bar and go to the &lt;f1&gt;Toolbars&lt;/f1&gt; page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T131747Z" creationid="briga" creationdate="20180820T131747Z">
+        <seg>Scegliete &lt;f0&gt;Strumenti &gt; Personalizza&lt;/f0&gt; dalla barra dei menu e andate alla pagina &lt;f1&gt;Barre degli strumenti&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; to display the Customize dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180818T134508Z" creationid="briga" creationdate="20180818T134508Z">
@@ -7990,6 +7998,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081236Z" creationid="manuel" creationdate="20180628T081236Z">
         <seg>Scegliete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice&gt; Dati utente&lt;/f0&gt; per configurare il nome che desiderate visualizzare nel campo Autore del commento o per modificarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;View &gt; Toolbars &gt; Customize&lt;/f0&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T102914Z" creationid="briga" creationdate="20180820T102914Z">
+        <seg>Selezionate la voce &lt;f0&gt;Visualizza &gt; Barre degli strumenti &gt; Personalizza&lt;/f0&gt; dalla barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13107,6 +13123,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T101349Z" creationid="briga" creationdate="20180820T101349Z">
         <seg>Figura &lt;seq0&gt;353&lt;/seq0&gt;: aggiungere comandi a un menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;354&lt;/seq0&gt;: The Toolbars page of the Customize dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T131800Z" creationid="briga" creationdate="20180820T131800Z">
+        <seg>Figura &lt;seq0&gt;354&lt;/seq0&gt;: La scheda menu della finestra di dialogo Personalizza</seg>
       </tuv>
     </tu>
     <tu>
@@ -21400,6 +21424,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modifying existing toolbars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T131801Z" creationid="briga" creationdate="20180820T131801Z">
+        <seg>Modifying existing toolbars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifying menu entries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T101358Z" creationid="briga" creationdate="20180820T101358Z">
@@ -22778,8 +22810,8 @@
       <tuv lang="EN">
         <seg>On the toolbar, right-click in the toolbar and choose &lt;f0&gt;Customize Toolbar&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180820T102617Z" creationid="briga" creationdate="20180820T102617Z">
-        <seg>On the toolbar, right-click in the toolbar and choose &lt;f0&gt;Customize Toolbar&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T102825Z" creationid="briga" creationdate="20180820T102617Z">
+        <seg>Sulla barra degli strumenti, fate clic destro all'interno della barra e scegliete &lt;f0&gt;Personalizza barra degli strumenti&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
