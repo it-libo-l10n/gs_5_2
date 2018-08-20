@@ -3607,6 +3607,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To move forward from one placeholder to the next placeholder in a formula, press the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;F4&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T131153Z" creationid="Marco Marega" creationdate="20180820T131153Z">
+        <seg>&lt;f0&gt;All'interno della formula, per spostarvi da un segnaposto a quello successivo, premete il tasto &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;F4&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; menu selection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173349Z" creationid="Elisabetta Manuele" creationdate="20180627T173349Z">
@@ -17235,6 +17243,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072504Z" creationid="manuel" creationdate="20180609T072504Z">
         <seg>Se necessario, selezionate le opzioni per abilitare il supporto per le &lt;i0/&gt;lingue asiatiche (cinese, giapponese e coreano) e per le lingue &lt;i1/&gt;CTL - Complex Text Layout (disposizione testo complessa) come urdu, thai, ebraico e arabo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary, you can prevent a formula in a document from updating automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T131334Z" creationid="Marco Marega" creationdate="20180820T131334Z">
+        <seg>Se necessario, potete prevenire l'aggiornamento automatico della formula all'interno del documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32673,6 +32689,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T062053Z" creationid="manuel" creationdate="20180707T062053Z">
         <seg>Per spostare un oggetto (o un gruppo di oggetti), selezionatelo e fate clic all'interno dei bordi dell'oggetto, quindi tenete premuto il pulsante sinistro del mouse mentre trascinate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move backward from one placeholder to the previous placeholder in a formula, use the key combination &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift+F4&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T131256Z" creationid="Marco Marega" creationdate="20180820T131256Z">
+        <seg>Per spostarvi all'indietro, da un segnaposto a quello precedente, usate i tasti di scelta rapida &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift+F4&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
