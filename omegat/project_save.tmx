@@ -2297,8 +2297,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Enter &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;%pi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in the Formula Editor to enter the Greek character for pi (&lt;/f3&gt;&lt;f4&gt;π&lt;/f4&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133611Z" creationid="Marco Marega" creationdate="20180820T133611Z">
-        <seg>&lt;f0&gt;Inserite &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;%pi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; nell'Editor delle formule in modo da inserite il carattere del pi greco(&lt;/f3&gt;&lt;f4&gt;π&lt;/f4&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133720Z" creationid="Marco Marega" creationdate="20180820T133611Z">
+        <seg>&lt;f0&gt;Inserite &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;%pi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; nell'Editor delle formule in modo da inserire il carattere del pi greco (&lt;/f3&gt;&lt;f4&gt;π&lt;/f4&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3223,6 +3223,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;elect the &lt;f1&gt;category &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Relations&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; and symbol &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Is Similar Or Equal&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; using one of the following methods:&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133831Z" creationid="Marco Marega" creationdate="20180820T133831Z">
+        <seg>&lt;f0&gt;Selezionate&lt;/f0&gt; la &lt;f1&gt;categoria &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Relazioni&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; ed il simbolo &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Simile o uguale&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; usando uno dei metodi seguenti:&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Sample tables&lt;/f0&gt;: Select &lt;f1&gt;CD-Collection&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T154325Z" creationid="manuel" creationdate="20180721T154325Z">
@@ -3961,8 +3969,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You&lt;/f0&gt; want to enter the formula&lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;formula&lt;/s4&gt;&lt;/df1&gt;&lt;f5&gt;where &lt;/f5&gt;the value of pi &lt;f6&gt;is &lt;/f6&gt;rounded to 5 decimal places.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133104Z" creationid="Marco Marega" creationdate="20180820T133104Z">
-        <seg>&lt;f0&gt;Supponiamo che vogliate&lt;/f0&gt; inserire la formula &lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;formula&lt;/s4&gt;&lt;/df1&gt;&lt;f5&gt;nella quale &lt;/f5&gt;il valore di pi &lt;f6&gt;sia &lt;/f6&gt;arrotondato a 5 cifre decimali.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133646Z" creationid="Marco Marega" creationdate="20180820T133104Z">
+        <seg>&lt;f0&gt;Supponiamo che vogliate&lt;/f0&gt; inserire la formula &lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;formula&lt;/s4&gt;&lt;/df1&gt;&lt;f5&gt;nella quale &lt;/f5&gt;il valore del pi greco &lt;f6&gt;sia &lt;/f6&gt;arrotondato a 5 cifre decimali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4193,8 +4201,8 @@
       <tuv lang="EN">
         <seg>&lt;f7&gt;You&lt;/f7&gt;&lt;f8&gt; know the name of the Greek character (pi), &lt;/f8&gt;&lt;f9&gt;b&lt;/f9&gt;&lt;f10&gt;ut do not know the markup associated with the &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Is Similar Or Equal&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; symbol&lt;/f13&gt;&lt;f14&gt;&lt;df15&gt;&lt;d16/&gt;&lt;di17/&gt;&lt;s18&gt;formula&lt;/s18&gt;&lt;/df15&gt;&lt;/f14&gt;&lt;f19&gt;.&lt;/f19&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133348Z" creationid="Marco Marega" creationdate="20180820T133348Z">
-        <seg>&lt;f7&gt;Conoscete il &lt;/f7&gt;&lt;f8&gt; nome inglese del carattere Greco (pi), &lt;/f8&gt;&lt;f9&gt;ma&lt;/f9&gt;&lt;f10&gt; non il codice di markup associato al simbolo &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Simile o uguale&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;df15&gt;&lt;d16/&gt;&lt;di17/&gt;&lt;s18&gt;&lt;/s18&gt;&lt;/df15&gt;&lt;/f14&gt;&lt;f19&gt;.&lt;/f19&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133704Z" creationid="Marco Marega" creationdate="20180820T133348Z">
+        <seg>&lt;f7&gt;Conoscete il &lt;/f7&gt;&lt;f8&gt; nome inglese del carattere del pi greco (pi), &lt;/f8&gt;&lt;f9&gt;ma&lt;/f9&gt;&lt;f10&gt; non il codice di markup associato al simbolo &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Simile o uguale&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;df15&gt;&lt;d16/&gt;&lt;di17/&gt;&lt;s18&gt;&lt;/s18&gt;&lt;/df15&gt;&lt;/f14&gt;&lt;f19&gt;.&lt;/f19&gt;</seg>
       </tuv>
     </tu>
     <tu>
