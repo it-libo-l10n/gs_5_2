@@ -29545,6 +29545,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The new toolbar now appears on the list of toolbars in the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T151049Z" creationid="briga" creationdate="20180820T151049Z">
+        <seg>The new toolbar now appears on the list of toolbars in the Customize dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The newly defined color is now listed in the Color table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070256Z" creationid="manuel" creationdate="20180531T070256Z">
