@@ -4151,6 +4151,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0/&gt;You can also create new toolbars.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T102606Z" creationid="briga" creationdate="20180820T102606Z">
+        <seg>&lt;s0/&gt;Potete anche creare nuove barre degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1/&gt;A submenu of alternative words and phrases is displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T074335Z" creationid="manuel" creationdate="20180626T074335Z">
@@ -22664,6 +22672,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the toolbar, right-click in the toolbar and choose &lt;f0&gt;Customize Toolbar&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T102617Z" creationid="briga" creationdate="20180820T102617Z">
+        <seg>On the toolbar, right-click in the toolbar and choose &lt;f0&gt;Customize Toolbar&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once tables have been created using the wizard, and data has been entered, editing a table should be very limited.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180807T105534Z" creationid="manuel" creationdate="20180807T105534Z">
@@ -30945,6 +30961,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This section describes how to create new toolbars and add or delete icons on existing ones.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T102608Z" creationid="briga" creationdate="20180820T102608Z">
+        <seg>Questa sezione descrive come creare nuove barre degli strumenti e aggiungere o rimuovere icone su quelle esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This section describes only a few of the basic shapes, including text, which are treated as objects in Draw.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164557Z" creationid="manuel" creationdate="20180703T164557Z">
@@ -32192,6 +32216,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090048Z" creationid="luke" creationdate="20180515T090048Z">
         <seg>To get the software, access your mobile device application store, either Google Play Store for Android devices or Apple Store for IOs devices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get to the toolbar customization dialog (Figure &lt;t0&gt;354&lt;/t0&gt;), do any of the following:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T102701Z" creationid="briga" creationdate="20180820T102611Z">
+        <seg>Per arrivare alla finestra di dialogo di personalizzazione delle barre degli strumenti (figura &lt;t0&gt;354&lt;/t0&gt;), eseguite una delle seguenti operazioni:</seg>
       </tuv>
     </tu>
     <tu>
