@@ -1894,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Begin a group&lt;/f0&gt; adds a separator line after the highlighted entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T101422Z" creationid="briga" creationdate="20180820T101422Z">
+        <seg>Scegliendo &lt;f0&gt;Inizia un gruppo&lt;/f0&gt; viene aggiunta una linea di separazione dopo la voce evidenziata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;By default, t&lt;/f0&gt;he Find toolbar is shown docked at the bottom of the LibreOffice window (just above the Status Bar) in &lt;f1&gt;Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;71&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;, but you can float it or dock it in another location.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T102240Z" creationid="manuel" creationdate="20180622T094720Z">
@@ -6489,6 +6497,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Back on the Customize dialog, you can use the up and down arrow buttons to arrange the commands in your preferred sequence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T101341Z" creationid="briga" creationdate="20180820T101341Z">
+        <seg>Ritornati alla finestra di dialogo Personalizza, potete organizzare i comandi nella sequenza desiderata utilizzando i pulsanti freccia su e giù.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background Color (with a palette of colors)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160307Z" creationid="manuel" creationdate="20180626T160307Z">
@@ -9213,6 +9229,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f3&gt;Modify&lt;/f3&gt; button and choose the required action from the drop-down list of actions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T101415Z" creationid="briga" creationdate="20180820T101415Z">
+        <seg>Fate clic sul pulsante &lt;f3&gt;Modifica&lt;/f3&gt; e scegliete l'azione richiesta dall'elenco a comparsa delle azioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the arrow button of the combination &lt;f0&gt;Paste&lt;/f0&gt; button, or</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T162830Z" creationid="manuel" creationdate="20180621T162830Z">
@@ -10162,6 +10186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180818T102112Z" creationid="briga" creationdate="20180818T102112Z">
         <seg>Le personalizzazioni dei menu e delle barre degli strumenti si possono salvare in un modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing &lt;i0/&gt;toolbars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T101430Z" creationid="briga" creationdate="20180820T101430Z">
+        <seg>Personalizzare le &lt;i0/&gt;barre degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -12963,6 +12995,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180818T143631Z" creationid="briga" creationdate="20180818T143631Z">
         <seg>Figura &lt;seq0&gt;352&lt;/seq0&gt;: aggiungere un nuovo menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;353&lt;/seq0&gt;: Adding a command to a menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T101349Z" creationid="briga" creationdate="20180820T101349Z">
+        <seg>Figura &lt;seq0&gt;353&lt;/seq0&gt;: aggiungere comandi a un menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -18695,6 +18735,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to changing the sequence of entries on a menu or submenu, you can add submenus, rename or delete the entries, and add group separators.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T101404Z" creationid="briga" creationdate="20180820T101404Z">
+        <seg>Oltre a poter cambiare la sequenza delle voci di un menu o sottomenu, si possono aggiungere sottomenu, rinominare o eliminare le voci e aggiungere separatori di gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to formatting, any settings that can be added to or modified in a document can be saved within a template.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103133Z" creationid="manuel" creationdate="20180615T103133Z">
@@ -21240,6 +21288,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modifying menu entries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T101358Z" creationid="briga" creationdate="20180820T101358Z">
+        <seg>Modifica delle voci del menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifying styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154358Z" creationid="manuel" creationdate="20180612T154358Z">
@@ -21316,6 +21372,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094724Z" creationid="manuel" creationdate="20180705T094724Z">
         <seg>La maggior parte degli oggetti ha quattro punti di incollaggio (Figura &lt;t2&gt;179&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of the actions should be self-explanatory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T101418Z" creationid="briga" creationdate="20180820T101418Z">
+        <seg>La maggior parte delle azioni dovrebbe risultare autoesplicativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22476,6 +22540,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T144223Z" creationid="manuel" creationdate="20180703T144223Z">
         <seg>Dal menu &lt;f3&gt;Visualizza&lt;/f3&gt;, scegliete la barra degli strumenti che volete visualizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Add Commands dialog (Figure &lt;t0&gt;353&lt;/t0&gt;), select a category and then the command, and click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T101311Z" creationid="briga" creationdate="20180820T101311Z">
+        <seg>Nella finestra di dialogo Aggiungi comandi (&lt;t0&gt;Figura 353&lt;/t0&gt;), selezionate una categoria, quindi il comando, e poi fate clic su &lt;f1&gt;Aggiungi&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28377,6 +28449,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog remains open, so you can select several commands.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T101334Z" creationid="briga" creationdate="20180820T101334Z">
+        <seg>La finestra di dialogo resta aperta, affinché possiate selezionare più comandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The dialog that opens locks the document for editing until the dialog is closed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T111227Z" creationid="manuel" creationdate="20180618T111227Z">
@@ -31318,6 +31398,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101529Z" creationid="manuel" creationdate="20180615T164408Z">
         <seg>Per cominciare, scegliete &lt;f0&gt;File &gt; Modelli &gt; Gestisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;modelli&lt;/f2&gt;&lt;/f1&gt; per aprire la finestra di dialogo &lt;f3&gt;Modelli&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To begin, select the menu or submenu to be modified from the &lt;f0&gt;Menu&lt;/f0&gt; list near the top of the Customize page, then select the entry in the &lt;f1&gt;Entries&lt;/f1&gt; list under &lt;f2&gt;Menu Content&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T101411Z" creationid="briga" creationdate="20180820T101411Z">
+        <seg>Per iniziare, selezionate il menu o sottomenu da modificare, dall'elenco &lt;f0&gt;Menu&lt;/f0&gt; nella parte alta della pagina Personalizza, quindi selezionate la voce nell'elenco delle &lt;f1&gt;Voci&lt;/f1&gt; nell'area &lt;f2&gt;Contenuto menu&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35423,6 +35511,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you have finished adding commands, click &lt;f2&gt;Close&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T101337Z" creationid="briga" creationdate="20180820T101337Z">
+        <seg>Quando avete terminato di aggiungere comandi, fate clic su &lt;f2&gt;Chiudi&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you have finished editing an individual member of a group, go to &lt;f0&gt;Modify &gt; Exit Group&lt;/f0&gt;, or right-click and select &lt;f1&gt;Exit Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Shift+F3&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T173050Z" creationid="manuel" creationdate="20180705T142449Z">
@@ -36827,6 +36923,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084425Z" creationid="manuel" creationdate="20180606T084425Z">
         <seg>Potete personalizzare complessivamente l'aspetto di LibreOffice con temi di Mozilla Firefox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can customize toolbars in several ways, including choosing which icons are visible and locking the position of a docked toolbar (as described in Chapter 1, Introducing LibreOffice), and adding or deleting icons (commands) in the list of those available on a toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T101431Z" creationid="briga" creationdate="20180820T101431Z">
+        <seg>You can customize toolbars in several ways, including choosing which icons are visible and locking the position of a docked toolbar (as described in Chapter 1, Introducing LibreOffice), and adding or deleting icons (commands) in the list of those available on a toolbar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39115,6 +39219,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154349Z" creationid="manuel" creationdate="20180612T154349Z">
         <seg>modifica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>modifying entries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180820T101354Z" creationid="briga" creationdate="20180820T101350Z">
+        <seg>modificare le voci</seg>
       </tuv>
     </tu>
     <tu>
