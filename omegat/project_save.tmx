@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2295,6 +2295,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Editing&lt;/f0&gt; formula&lt;f1&gt;s&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T135816Z" creationid="Marco Marega" creationdate="20180821T135816Z">
+        <seg>&lt;f0&gt;Modifica delle&lt;/f0&gt; formule&lt;f1&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;End Value&lt;/f0&gt; – determines the end value for the series.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212744Z" creationid="Marco Marega" creationdate="20180808T212744Z">
@@ -2707,6 +2715,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184903Z" creationid="Marco Marega" creationdate="20180713T184903Z">
         <seg>&lt;f0&gt;Inizio&lt;/f0&gt; sposta il focus della cella all'inizio della riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;How you&lt;/f0&gt; &lt;f1&gt;edit&lt;/f1&gt; a formula &lt;f2&gt;and&lt;/f2&gt; switch into &lt;f3&gt;formula &lt;/f3&gt;edit&lt;f4&gt;ing&lt;/f4&gt; mode &lt;f5&gt;depends on whether the formula is in Math or another LibreOffice component.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T140325Z" creationid="Marco Marega" creationdate="20180821T140325Z">
+        <seg>&lt;f0&gt;Il modo in cui potete&lt;/f0&gt; &lt;f1&gt;modificare&lt;/f1&gt; una formula &lt;f2&gt;ed&lt;/f2&gt; attivare la modalità di modifica delle &lt;f3&gt;formule &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt; &lt;f5&gt;varia a seconda che la formula sia all'interno di Math o di un altro componente  di LibreOffice.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
