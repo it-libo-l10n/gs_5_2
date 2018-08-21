@@ -26192,6 +26192,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the formula element you want to change, us&lt;f0&gt;ing&lt;/f0&gt; one of the following methods:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T141521Z" creationid="Marco Marega" creationdate="20180821T141521Z">
+        <seg>Selezionate l'elemento della formula che volete modificare, &lt;f0&gt;usando&lt;/f0&gt; uno dei seguenti metodi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the group and go to &lt;f0&gt;Modify &gt; Enter Group&lt;/f0&gt;, or right-click and select &lt;f1&gt;Enter Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;F3&lt;/f2&gt;, or double-click on the group.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T163116Z" creationid="manuel" creationdate="20180705T141324Z">
