@@ -9099,6 +9099,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the formula element in the preview window, position the cursor at the beginning of the formula element in the Formula Editor, then select the formula element in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T141707Z" creationid="Marco Marega" creationdate="20180821T141707Z">
+        <seg>Fate clic sull'elemento della formula nella finestra dell'anteprima, posizionate il cursore all'inizio dell'elemento della formula nell'Editor delle formule, quindi selezionatelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the required item in the &lt;f0&gt;Selection&lt;/f0&gt; list, which shows all the items of the selected type.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163246Z" creationid="manuel" creationdate="20180628T163246Z">
@@ -11283,6 +11291,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121006Z" creationid="Marco Marega" creationdate="20180811T121006Z">
         <seg>Fate doppio clic sulla cella per selezionarla e posizionate il cursore per la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-click on the formula element in the preview window to select the formula element in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T141800Z" creationid="Marco Marega" creationdate="20180821T141800Z">
+        <seg>Fate doppio clic sull'elemento della formula nella finestra dell'anteprima in modo da selezionarlo nell'Editore delle formule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23868,6 +23884,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105125Z" creationid="manuel" creationdate="20180704T105125Z">
         <seg>Poligoni 45°</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Position the cursor in the Formula Editor at the formula element you want to edit, then select that formula element.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T141903Z" creationid="Marco Marega" creationdate="20180821T141903Z">
+        <seg>Nell'Editor delle formule posizionate il cursore in corrispondenza dell'elemento che volete modificare, quindi selezionate tale elemento.</seg>
       </tuv>
     </tu>
     <tu>
