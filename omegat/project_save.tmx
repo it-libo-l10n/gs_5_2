@@ -6801,6 +6801,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be sure the fax driver is installed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094113Z" creationid="briga" creationdate="20180821T094113Z">
+        <seg>Assicuratevi di aver installato il driver fax.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because LibreOffice can use the name or initials stored in the &lt;f0&gt;LibreOffice – User Data&lt;/f0&gt; page for several things – including document properties (‘created by’ and ‘last edited by’ information), the name of the author of comments and changes, and the sender address in mailing lists – you will want to ensure that the correct information appears here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055533Z" creationid="manuel" creationdate="20180529T055533Z">
@@ -8086,6 +8094,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081236Z" creationid="manuel" creationdate="20180628T081236Z">
         <seg>Scegliete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice&gt; Dati utente&lt;/f0&gt; per configurare il nome che desiderate visualizzare nel campo Autore del commento o per modificarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Print&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094121Z" creationid="briga" creationdate="20180821T094121Z">
+        <seg>Scegliete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Writer &gt; Stampa&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9853,6 +9869,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consult the documentation for your fax modem for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094116Z" creationid="briga" creationdate="20180821T094116Z">
+        <seg>Consultate la documentazione del vostro modem fax per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072730Z" creationid="luke" creationdate="20180515T072730Z">
@@ -10402,6 +10426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T103306Z" creationid="manuel" creationdate="20180704T103306Z">
         <seg>Curve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom icons should be 16 x 16 pixels in size to achieve the best quality and should not contain more than 256 colors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094049Z" creationid="briga" creationdate="20180821T094049Z">
+        <seg>Per ottenere la migliore qualità le icone personalizzate devono avere le dimensioni di 16x16 pixel e non contenere più di 256 colori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12151,6 +12183,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example: Adding a &lt;i0/&gt;Fax icon to a toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094101Z" creationid="briga" creationdate="20180821T094101Z">
+        <seg>Esempio: aggiungere un'icona &lt;i0/&gt;Fax a una barra degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Examples</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144612Z" creationid="manuel" creationdate="20180608T144612Z">
@@ -13267,6 +13307,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T093750Z" creationid="luke" creationdate="20180514T154740Z">
         <seg>Figura &lt;seq0&gt;355&lt;/seq0&gt;: assegnare un nome alla nuova barra degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;356&lt;/seq0&gt;: Change Icon dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094029Z" creationid="briga" creationdate="20180821T094029Z">
+        <seg>Figura &lt;seq0&gt;356&lt;/seq0&gt;: finestra di dialogo Cambia icona</seg>
       </tuv>
     </tu>
     <tu>
@@ -19487,6 +19535,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the drop-down menu, choose &lt;f0&gt;Customize Toolbar&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094149Z" creationid="briga" creationdate="20180821T094149Z">
+        <seg>In the drop-down menu, choose &lt;f0&gt;Customize Toolbar&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the example, English (USA) has been chosen for all the appropriate settings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171136Z" creationid="manuel" creationdate="20180608T171136Z">
@@ -24560,6 +24616,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click in the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094147Z" creationid="briga" creationdate="20180821T094147Z">
+        <seg>Fate clic destro sulla barra degli strumenti Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click in the empty space at the end of the sheet tabs and select &lt;f0&gt;Insert Sheet&lt;/f0&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T122852Z" creationid="Marco Marega" creationdate="20180719T122852Z">
@@ -26036,6 +26100,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142037Z" creationid="Marco Marega" creationdate="20180714T142037Z">
         <seg>Selezionate dall'elenco a comparsa la direzione di spostamento del focus della cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the fax driver from the &lt;f0&gt;Fax&lt;/f0&gt; list and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094135Z" creationid="briga" creationdate="20180821T094135Z">
+        <seg>Selezionate la periferica fax dall'elenco &lt;f0&gt;Fax&lt;/f0&gt; e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28845,6 +28917,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T144217Z" creationid="Marco Marega" creationdate="20180707T144217Z">
         <seg>L'impostazione predefinita all'apertura di Calc è con le barre degli strumenti Standard e Formattazione agganciate in alto sopra lo spazio di lavoro (Figura &lt;t0&gt;86&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog in Figure &lt;t1&gt;357&lt;/t1&gt; opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094131Z" creationid="briga" creationdate="20180821T094131Z">
+        <seg>Apparirà la finestra di dialogo mostrata in &lt;t1&gt;Figura 357&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33773,6 +33853,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use a custom icon, create it in a graphics program and import it into LibreOffice by clicking the &lt;f0&gt;Import&lt;/f0&gt; button on the Change Icon dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094041Z" creationid="briga" creationdate="20180821T094041Z">
+        <seg>Per utilizzare un'icona personalizzata, createla in un programma di grafica e importatela in LibreOffice facendo clic sul pulsante &lt;f0&gt;Importa&lt;/f0&gt; nella finestra di dialogo Cambia icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use a template to create a document:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090516Z" creationid="manuel" creationdate="20180614T090516Z">
@@ -37407,6 +37495,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can customize LibreOffice so that a single click on an icon automatically sends the current document as a fax.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094111Z" creationid="briga" creationdate="20180821T094111Z">
+        <seg>È possibile personalizzare LibreOffice in modo che con un singolo clic su un'icona il documento corrente venga inviato automaticamente come fax.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can customize an existing table of contents at any time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T143159Z" creationid="manuel" creationdate="20180628T143159Z">
@@ -39243,6 +39339,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060435Z" creationid="manuel" creationdate="20180529T060435Z">
         <seg>guida attiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fax icon, adding to toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094053Z" creationid="briga" creationdate="20180821T094053Z">
+        <seg>icona fax, aggiungere alla barra degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
