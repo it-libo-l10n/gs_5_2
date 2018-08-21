@@ -18991,6 +18991,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Writer, Calc, Impress, or Draw, double-click on the formula, or right-click on the formula and select &lt;f0&gt;Edit&lt;/f0&gt; f&lt;f1&gt;r&lt;/f1&gt;om the context menu, to &lt;f2&gt;open the Formula Editor in&lt;/f2&gt; editing mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T141017Z" creationid="Marco Marega" creationdate="20180821T141017Z">
+        <seg>In Writer, Calc, Impress o Draw, fate doppio clic sulla formula, oppure fate clic con il pulsante destro del mouse sulla formula e dal menu contestuale selezionate &lt;f0&gt;Modifica&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;, in modo da &lt;f2&gt;aprire l'Editor delle formule&lt;/f2&gt; in modalità di modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Writer, click in the paragraph where you want to insert the formula.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T131115Z" creationid="Marco Marega" creationdate="20180815T131115Z">
