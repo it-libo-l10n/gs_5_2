@@ -2263,6 +2263,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;E&lt;/f0&gt;xample &lt;f1&gt;1&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T143310Z" creationid="Marco Marega" creationdate="20180821T143310Z">
+        <seg>&lt;f0&gt;Esempio&lt;/f0&gt; &lt;f1&gt;1&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Edit &gt; Copy&lt;/f0&gt; &lt;f1&gt;Ctrl+C&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055154Z" creationid="manuel" creationdate="20180531T055154Z">
@@ -4235,6 +4243,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T110844Z" creationid="manuel" creationdate="20180616T110844Z">
         <seg>&lt;f6&gt;nella finestra che compare, selezionate la categoria richiesta e fate clic su &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;OK&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f6&gt;T&lt;/f6&gt;he following examples &lt;f7&gt;show how brackets can be used in a formula&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T143251Z" creationid="Marco Marega" creationdate="20180821T143251Z">
+        <seg>&lt;f6&gt;Gli&lt;/f6&gt; esempi seguenti &lt;f7&gt;mostrano come si possono usare le parentesi all'interno di una formula&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
