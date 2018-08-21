@@ -20735,6 +20735,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice Math knows nothing about order of operation &lt;f0&gt;within a formula&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T142907Z" creationid="Marco Marega" creationdate="20180821T142907Z">
+        <seg>LibreOffice Math non gestisce le precedenze degli operatori &lt;f0&gt;all'interno di una formula&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice also has some convenient ways to select items that are not next to each other, select a vertical block of text, and paste unformatted text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151808Z" creationid="manuel" creationdate="20180621T151808Z">
@@ -35102,6 +35110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using braces</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T142741Z" creationid="Marco Marega" creationdate="20180821T142741Z">
+        <seg>Uso delle parentesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using built-in language tools</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180204Z" creationid="Elisabetta Manuele" creationdate="20180620T180204Z">
@@ -38599,6 +38615,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You must use &lt;i1/&gt;&lt;is2/&gt;braces&lt;ie3/&gt; &lt;f4&gt;(also known as curly brackets) &lt;/f4&gt;to state the order of operations &lt;f5&gt;that occur within a formula&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T143200Z" creationid="Marco Marega" creationdate="20180821T143200Z">
+        <seg>Per specificare l'ordine delle operazioni all'interno di una formula, dovete usare le &lt;i1/&gt;&lt;is2/&gt;parentesi grafe&lt;ie3/&gt; &lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You should &lt;i0/&gt;see rulers (bars with numbers) on the upper and left-hand sides of the workspace.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T091202Z" creationid="manuel" creationdate="20180629T105110Z">
@@ -38819,6 +38843,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161131Z" creationid="manuel" creationdate="20180628T161131Z">
         <seg>segnalibri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>brackets (Math)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T142750Z" creationid="Marco Marega" creationdate="20180821T142750Z">
+        <seg>parentesi (Math)</seg>
       </tuv>
     </tu>
     <tu>
