@@ -2727,6 +2727,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If you cannot select a formula element using the cursor, click on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Formula Cursor&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; icon &lt;/f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;f7&gt; in the Tools toolbar to activate the formula cursor.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T141434Z" creationid="Marco Marega" creationdate="20180821T141434Z">
+        <seg>&lt;f0&gt;Se non riuscite a selezionare un elemento della formula usando il cursore, nella Barra degli Strumenti fate clic sull'icona &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Cursore di formula&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;f7&gt; in modo da attivare il cursore di formula.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you frequently insert formulas &lt;/f0&gt;&lt;f1&gt;into documents&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;&lt;f3&gt;you might like&lt;/f3&gt;&lt;f4&gt; to add the Formula button to the Standard toolbar or create a keyboard shortcut.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133530Z" creationid="Marco Marega" creationdate="20180815T133530Z">
@@ -4179,6 +4187,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170217Z" creationid="Elisabetta Manuele" creationdate="20180625T170217Z">
         <seg>&lt;f3&gt;Nel caso in cui la guida offline non sia installata sul computer, il browser predefinito aprirà una pagina del wiki di LibreOffice una volta effettuata la connessione a Internet.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;The&lt;/f3&gt; cursor &lt;f4&gt;is &lt;/f4&gt;positioned at the start of the formula in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T141103Z" creationid="Marco Marega" creationdate="20180821T141103Z">
+        <seg>&lt;f3&gt;Il&lt;/f3&gt; cursore &lt;f4&gt;si &lt;/f4&gt;posizionerà all'inizio della formula nell'Editor delle formule.</seg>
       </tuv>
     </tu>
     <tu>
