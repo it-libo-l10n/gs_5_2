@@ -31593,6 +31593,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This section provides some advice &lt;f0&gt;on how to layout complex formulas in Math or in a LibreOffice document.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T142726Z" creationid="Marco Marega" creationdate="20180821T142726Z">
+        <seg>Questa sezione fornisce alcuni consigli &lt;f0&gt;su come inserire formule complesse all'interno di Math o in un documento di LibreOffice.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This setup can also be created with page breaks and page styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144811Z" creationid="manuel" creationdate="20180616T144811Z">
@@ -39563,6 +39571,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T215714Z" creationid="Marco Marega" creationdate="20180707T215714Z">
         <seg>barra di calcolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>formula layout</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T142500Z" creationid="Marco Marega" creationdate="20180821T142500Z">
+        <seg>layout delle formule</seg>
       </tuv>
     </tu>
     <tu>
