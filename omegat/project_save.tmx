@@ -18959,6 +18959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Math, double-click on a formula element in the formula that appears in the &lt;f0&gt;P&lt;/f0&gt;review window to select &lt;f1&gt;the&lt;/f1&gt; formula element in the Formula Editor, or directly select a formula element in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T140701Z" creationid="Marco Marega" creationdate="20180821T140701Z">
+        <seg>In Math, fate doppio clic su di un elemento della formula che compare nella finestra dell'&lt;f0&gt;Anteprima&lt;/f0&gt; per selezionarlo &lt;f1&gt;&lt;/f1&gt; nell' Editor delle formule, oppure selezionate direttamente un elemento all'interno dell'Edito delle formule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Options, near the bottom of the dialog, scroll down to find the hyphenation settings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084623Z" creationid="manuel" creationdate="20180627T084623Z">
