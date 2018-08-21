@@ -19015,6 +19015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Math, save your changes to the formula after editing.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T142327Z" creationid="Marco Marega" creationdate="20180821T142327Z">
+        <seg>In Math, dopo aver apportato modifiche alla formula, salvatele.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Options, near the bottom of the dialog, scroll down to find the hyphenation settings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084623Z" creationid="manuel" creationdate="20180627T084623Z">
@@ -19035,6 +19043,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T134100Z" creationid="Marco Marega" creationdate="20180623T134100Z">
         <seg>In Windows e Linux – &lt;f0&gt;Ctrl+Q&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Writer, Calc, Impress, or Draw, &lt;f1&gt;click anywhere in your document away from the formula to leave editing mode, then save the document to save your changes to the formula.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T142452Z" creationid="Marco Marega" creationdate="20180821T142452Z">
+        <seg>In Writer, Calc, Impress, o Draw, &lt;f1&gt; per abbandonare la modalità di modifica, fate clic in un punto qualsiasi del documento all'esterno della formula, quindi salvate il documento per memorizzare le modifiche apportate alla formula.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
