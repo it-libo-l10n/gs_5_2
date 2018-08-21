@@ -5216,6 +5216,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding a command to a toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T093758Z" creationid="briga" creationdate="20180821T093758Z">
+        <seg>Aggiungere un comando a una barra degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding a layer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163000Z" creationid="manuel" creationdate="20180703T163000Z">
@@ -5404,6 +5412,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180818T143618Z" creationid="briga" creationdate="20180818T143618Z">
         <seg>Dopo aver creato un nuovo menu, è necessario aggiungervi dei comandi, come descritto in “&lt;bf0&gt;Aggiungere un comando a un menu&lt;/bf0&gt;” a pagina &lt;bf1&gt;369&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After creating a new toolbar, you need to add some commands to it, as described below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T093723Z" creationid="briga" creationdate="20180821T093723Z">
+        <seg>Dopo aver creato una nuova barra degli strumenti è necessario aggiungervi dei comandi, come descritto di seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8206,6 +8222,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184356Z" creationid="Elisabetta Manuele" creationdate="20180620T184356Z">
         <seg>Scelta e definizione dei colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing icons for toolbar commands</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T093936Z" creationid="briga" creationdate="20180821T093936Z">
+        <seg>Scelta delle icone per i comandi delle barre degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -13241,8 +13265,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154740Z" creationid="luke" creationdate="20180514T154740Z">
-        <seg>Figure &lt;seq0&gt;355&lt;/seq0&gt;: Naming a new toolbar</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T093750Z" creationid="luke" creationdate="20180514T154740Z">
+        <seg>Figura &lt;seq0&gt;355&lt;/seq0&gt;: assegnare un nome alla nuova barra degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -17583,6 +17607,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the list of available buttons for a toolbar does not include all the commands you want on that toolbar, you can add commands.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T093807Z" creationid="briga" creationdate="20180821T093807Z">
+        <seg>Se l'elenco dei pulsanti disponibili per una barra degli strumenti non include tutti i comandi che desiderate su quella barra degli strumenti, potete aggiungere dei comandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the locale setting is changed, the default currency changes automatically.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062353Z" creationid="manuel" creationdate="20180609T062353Z">
@@ -18171,6 +18203,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144305Z" creationid="manuel" creationdate="20180608T144305Z">
         <seg>Se questa opzione è attiva, sarà più facile recuperare un documento dopo un blocco del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you insert an item which does not have an associated icon, the toolbar will display the full name of the item: the next section describes how to choose an icon for a toolbar command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T093919Z" creationid="briga" creationdate="20180821T093919Z">
+        <seg>Se inserite un elemento che non ha un'icona associata, la barra degli strumenti mostrerà il nome completo dell'elemento; la prossima sezione illustra come scegliere un'icona per un comando di una barra degli strumenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22800,6 +22840,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Toolbars&lt;/f0&gt; page of the Customize dialog, select the toolbar in the Toolbar list and click the &lt;f1&gt;Add&lt;/f1&gt; button in the Toolbar Content section of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T093837Z" creationid="briga" creationdate="20180821T093837Z">
+        <seg>Nella scheda &lt;f0&gt;Barre degli strumenti&lt;/f0&gt; della finestra di dialogo Personalizza, selezionate la barra degli strumenti nell'elenco Barra degli strumenti e fate clic sul pulsante &lt;f1&gt;Importa&lt;/f1&gt; nella sezione Contenuto della barra degli strumenti, nella finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f0&gt;VBA Properties&lt;/f0&gt; page, you can choose whether to keep any macros in Microsoft Office documents that are opened in LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153755Z" creationid="manuel" creationdate="20180608T153755Z">
@@ -22836,6 +22884,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T101311Z" creationid="briga" creationdate="20180820T101311Z">
         <seg>Nella finestra di dialogo Aggiungi comandi (&lt;t0&gt;Figura 353&lt;/t0&gt;), selezionate una categoria, quindi il comando, e poi fate clic su &lt;f1&gt;Aggiungi&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Change Icon dialog, you can scroll through the available icons, select one, and click &lt;f1&gt;OK&lt;/f1&gt; to assign it to the command (Figure &lt;t2&gt;356&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094018Z" creationid="briga" creationdate="20180821T094018Z">
+        <seg>Nella finestra di dialogo Cambia icona potete scorrere le icone disponibili, selezionarne una e fare clic su &lt;f1&gt;OK&lt;/f1&gt; per assegnarla al comando (figura &lt;t2&gt;356&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25568,6 +25624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a category and then the command, and click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T093857Z" creationid="briga" creationdate="20180821T093857Z">
+        <seg>Selezionate una categoria, quindi il comando, e poi fate clic su &lt;f1&gt;Aggiungi&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a category from the drop-down list, then a symbol using the Elements &lt;f0&gt;window&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T122800Z" creationid="Marco Marega" creationdate="20180816T122800Z">
@@ -27964,6 +28028,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091845Z" creationid="manuel" creationdate="20180530T091845Z">
         <seg>Gli &lt;i0/&gt;“Appunti di selezione” sono indipendenti dai normali appunti che utilizzate tramite &lt;f1&gt;Modifica &gt; Copia/Taglia/Incolla&lt;/f1&gt; o i loro rispettivi tasti di scelta rapida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Add Commands dialog is the same as for adding commands to menus (Figure &lt;t0&gt;353&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T093849Z" creationid="briga" creationdate="20180821T093849Z">
+        <seg>La finestra di dialogo Aggiungi comandi è identica a quella per l'aggiunta di comandi ai menu (&lt;t0&gt;Figura 353&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32027,6 +32099,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To choose an icon for a command, select the command and click &lt;f0&gt;Modify &gt; Change icon&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T093949Z" creationid="briga" creationdate="20180821T093949Z">
+        <seg>Per scegliere un'icona per un comando, selezionate il comando e fate clic su &lt;f0&gt;Modifica &gt; Cambia icona&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To choose the options for checking spelling, click &lt;f0&gt;Language Settings &gt; Writing Aids&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T082152Z" creationid="manuel" creationdate="20180609T082152Z">
@@ -33785,6 +33865,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T180900Z" creationid="Marco Marega" creationdate="20180620T180900Z">
         <seg>Gli insiemi di strumenti possono essere commutati in una barra degli strumenti mobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbar buttons usually have icons, not words, on them, but not all of the commands have associated icons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T093941Z" creationid="briga" creationdate="20180821T093941Z">
+        <seg>Sui pulsanti delle barre degli strumenti solitamente vi sono icone e non parole, ma non tutti i comandi sono associati a delle icone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35863,6 +35951,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you create a new toolbar, you need to add commands to it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T093812Z" creationid="briga" creationdate="20180821T093812Z">
+        <seg>Quando create una nuova barra degli strumenti, è necessario aggiungervi dei comandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you create your document, use the following paragraph styles for different heading levels (such as chapter and section headings): &lt;f0&gt;Heading 1&lt;/f0&gt;, &lt;f1&gt;Heading 2&lt;/f1&gt;, &lt;f2&gt;Heading 3&lt;/f2&gt;, and so on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084241Z" creationid="manuel" creationdate="20180628T084241Z">
@@ -35931,6 +36027,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T135104Z" creationid="briga" creationdate="20180820T135104Z">
         <seg>Una volte terminate tutte le modifiche, fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvarle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have finished making changes, click &lt;f0&gt;OK&lt;/f0&gt; to save.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T093928Z" creationid="briga" creationdate="20180821T093928Z">
+        <seg>Al termine delle modifiche fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvarle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38547,6 +38651,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080253Z" creationid="manuel" creationdate="20180531T080253Z">
         <seg>spuntata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>choosing icons for commands</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180821T093931Z" creationid="briga" creationdate="20180821T093931Z">
+        <seg>scegliere icone per i comandi</seg>
       </tuv>
     </tu>
     <tu>
