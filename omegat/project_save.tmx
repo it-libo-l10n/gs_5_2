@@ -2999,6 +2999,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Math has recognized that the &lt;/f0&gt;&lt;f1&gt;2&lt;/f1&gt;&lt;f2&gt; before and the &lt;/f2&gt;&lt;f3&gt;x&lt;/f3&gt;&lt;f4&gt; after the &lt;/f4&gt;&lt;f5&gt;over&lt;/f5&gt;&lt;f6&gt; as belonging to the fraction, and has represented them accordingly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T203932Z" creationid="Marco Marega" creationdate="20180822T203932Z">
+        <seg>&lt;f0&gt;Math ha interpretato  il &lt;/f0&gt;&lt;f1&gt;2&lt;/f1&gt;&lt;f2&gt; e la &lt;/f2&gt;&lt;f3&gt;x&lt;/f3&gt;&lt;f4&gt; dopo &lt;/f4&gt;&lt;f5&gt;over&lt;/f5&gt;&lt;f6&gt; come appartenenti alla frazione e li ha rappresentati di conseguenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Merge delimiters&lt;/f0&gt; – combines consecutive delimiters and removes blank data fields.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T220204Z" creationid="Marco Marega" creationdate="20180712T220204Z">
@@ -18675,6 +18683,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T124507Z" creationid="Marco Marega" creationdate="20180622T124324Z">
         <seg>Se per aprire e salvare i file usate le finestre di dialogo del vostro sistema operativo, andate in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f0&gt; e selezionate l'opzione &lt;f1&gt;Usa finestre di dialogo LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want &lt;/f6&gt;&lt;f7&gt;x+1&lt;/f7&gt;&lt;f8&gt; rather than &lt;/f8&gt;&lt;f9&gt;x&lt;/f9&gt;&lt;f10&gt; to be the denominator, you must bracket them together &lt;/f10&gt;&lt;f11&gt;using braces &lt;/f11&gt;&lt;f12&gt;so that both will be placed there.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T204303Z" creationid="Marco Marega" creationdate="20180822T204303Z">
+        <seg>Se desiderate che il denominatore sia  &lt;/f6&gt;&lt;f7&gt;x+1&lt;/f7&gt;&lt;f8&gt; invece di &lt;/f8&gt;&lt;f9&gt;x&lt;/f9&gt;&lt;f10&gt;, dovete raggrupparli usando le &lt;/f10&gt;&lt;f11&gt;parentesi grafe &lt;/f11&gt;&lt;f12&gt; così entrambi verranno posizionati come desiderato.&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
