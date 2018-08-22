@@ -1870,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;– 1 over 2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; gives the result&lt;/f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T210847Z" creationid="Marco Marega" creationdate="20180822T210847Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;– 1 over 2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; da come risultato &lt;/f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;t1&gt;8&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt;Getting Started with LibreOffice 5.2&lt;/t3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T163931Z" creationid="Elisabetta Manuele" creationdate="20180620T163931Z">
@@ -3011,6 +3019,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T203932Z" creationid="Marco Marega" creationdate="20180822T203932Z">
         <seg>&lt;f0&gt;Math ha interpretato  il &lt;/f0&gt;&lt;f1&gt;2&lt;/f1&gt;&lt;f2&gt; e la &lt;/f2&gt;&lt;f3&gt;x&lt;/f3&gt;&lt;f4&gt; dopo &lt;/f4&gt;&lt;f5&gt;over&lt;/f5&gt;&lt;f6&gt; come appartenenti alla frazione e li ha rappresentati di conseguenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Math has recognized the minus sign as a prefix for the &lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt; and has therefore placed it in the numerator of the fraction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T211017Z" creationid="Marco Marega" creationdate="20180822T211017Z">
+        <seg>&lt;f0&gt;Math interpreta il segno meno come prefisso dell'&lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt; e lo ha quindi messo al numeratore della frazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18755,6 +18771,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063429Z" creationid="manuel" creationdate="20180614T063429Z">
         <seg>Se desiderate collegare il nuovo stile a uno esistente, selezionate quest'ultimo e quindi fate clic con il pulsante destro del mouse e scegliete la voce &lt;f0&gt;Nuovo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to show that the whole fraction is negative, with the minus sign in front of the fraction, you must put the fraction in &lt;/f2&gt;&lt;f3&gt;braces&lt;/f3&gt;&lt;f4&gt; to signify to Math that the characters belong together.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T211250Z" creationid="Marco Marega" creationdate="20180822T211250Z">
+        <seg>Se desiderate indicare che l'intera frazione è negativa, con il segno meno davanti ad essa, dovete inserire la frazione tra parentesi grafe per specificare a Math che i caratteri devono stare insieme.</seg>
       </tuv>
     </tu>
     <tu>
