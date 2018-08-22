@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180725T063051Z" creationid="manuel" creationdate="20180725T063051Z">
         <seg>(Vedere la &lt;t0&gt;Figura 210&lt;/t0&gt;.) Diviene quindi possibile effettuare tutte le modifiche necessarie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(The default setting is Text [VARCHAR].)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104130Z" creationid="manuel" creationdate="20180822T104130Z">
+        <seg>(L'impostazione predefinita è Testo [VARCHAR]).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2583,6 +2591,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;FuelID&lt;/f0&gt; field: Type &lt;f1&gt;FuelID&lt;/f1&gt; as the first Field Name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104024Z" creationid="manuel" creationdate="20180822T104024Z">
+        <seg>Campo &lt;f0&gt;IDCarburante&lt;/f0&gt;: Digitate &lt;f1&gt;IDCarburante&lt;/f1&gt; come primo Nome campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Function Wizard&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – &lt;i4/&gt;opens a dialog from which you can search through a list of available functions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T221047Z" creationid="Marco Marega" creationdate="20180707T221047Z">
@@ -4295,6 +4311,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;i1/&gt;Change &lt;f2&gt;AutoValue&lt;/f2&gt; from &lt;f3&gt;No&lt;/f3&gt; to &lt;f4&gt;Yes&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104333Z" creationid="manuel" creationdate="20180822T104333Z">
+        <seg>&lt;i1/&gt;Modificate &lt;f2&gt;Valore automatico&lt;/f2&gt; da &lt;f3&gt;No&lt;/f3&gt; a &lt;f4&gt;Sì&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block"&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115342Z" creationid="Marco Marega" creationdate="20180815T115342Z">
@@ -5076,6 +5100,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152526Z" creationid="Elisabetta Manuele" creationdate="20180625T152526Z">
         <seg>Breve storia di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A shortcut for selecting from the Field Type drop down list: press the key for the first letter of the choice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104151Z" creationid="manuel" creationdate="20180822T104151Z">
+        <seg>È possibile utilizzare una scorciatoia per selezionare il Tipo di campo dal menu a discesa digitando la prima lettera dell'opzione che si vuole scegliere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6641,6 +6673,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AutoValue</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104205Z" creationid="manuel" creationdate="20180822T104205Z">
+        <seg>Valore automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autocorrection options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T182709Z" creationid="Marco Marega" creationdate="20180804T182709Z">
@@ -7502,6 +7542,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170001Z" creationid="manuel" creationdate="20180608T170001Z">
         <seg>Cambiare le impostazioni locali e della lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the Field Properties in the bottom section.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104239Z" creationid="manuel" creationdate="20180822T104239Z">
+        <seg>Modificate le Proprietà di campo nella sezione in basso.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8738,6 +8786,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click Create Table in Design View (which opens the Table Design dialog).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T103943Z" creationid="manuel" creationdate="20180822T103943Z">
+        <seg>Fate clic su Crea tabella in Vista struttura (che apre la finestra di dialogo Struttura tabella).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click Finish&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T161246Z" creationid="manuel" creationdate="20180715T161246Z">
@@ -8838,6 +8894,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142526Z" creationid="Marco Marega" creationdate="20180714T142526Z">
         <seg>Fate clic in una cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the Field Name cell directly below FuelID.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104941Z" creationid="manuel" creationdate="20180822T104941Z">
+        <seg>Fate clic nella cella del Nome di campo direttamente sotto IDCarburante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11002,6 +11066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180807T110506Z" creationid="manuel" creationdate="20180807T110506Z">
         <seg>Vista struttura (Base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Design View is a more advanced method &lt;i0/&gt;for creating a new table, in which you directly enter information about each field in the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T103320Z" creationid="manuel" creationdate="20180822T103320Z">
+        <seg>La Vista struttura è un metodo più avanzato &lt;i0/&gt;per creare una nuova tabella, con il quale le informazioni relative ad ogni campo della tabella vengono inserite direttamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13187,6 +13259,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180725T062926Z" creationid="manuel" creationdate="20180725T062926Z">
         <seg>Figura &lt;seq0&gt;210&lt;/seq0&gt;: impostazione dei tipi di campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;211&lt;/seq0&gt;: Defining the primary key field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T105107Z" creationid="manuel" creationdate="20180822T105107Z">
+        <seg>Figura &lt;seq0&gt;211&lt;/seq0&gt;: definizione del campo chiave primaria</seg>
       </tuv>
     </tu>
     <tu>
@@ -20407,6 +20487,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Its fields are &lt;f1&gt;FuelID, Date, FuelCost, FuelQuantity, Odometer&lt;/f1&gt;, and &lt;f2&gt;PaymentType&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T103808Z" creationid="manuel" creationdate="20180822T103808Z">
+        <seg>I suoi campi sono &lt;/f1&gt;IDCarburante, Data, CostoCarburante, QuantitàCarburante Chilometraggio&lt;f1&gt;, e &lt;f2&gt;TipoDiPagamento&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Its native file format is Open Document Format (ODF), an open standard format that is being adopted by governments worldwide as a required file format for publishing and accepting documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T201201Z" creationid="Marco Marega" creationdate="20180527T195848Z">
@@ -24064,6 +24152,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the &lt;f2&gt;Tab&lt;/f2&gt; key to move to the Field Type column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104048Z" creationid="manuel" creationdate="20180822T104048Z">
+        <seg>Premete il tasto &lt;f2&gt;Tab&lt;/f2&gt; per spostarvi alla colonna Tipo campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press the space bar once, type the word “of” and a space, then choose &lt;f0&gt;Insert &gt; Field &gt; Page Count&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102305Z" creationid="manuel" creationdate="20180627T102305Z">
@@ -25808,6 +25904,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f3&gt;Integer [INTEGER]&lt;/f3&gt; as the Field Type from the drop down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104115Z" creationid="manuel" creationdate="20180822T104115Z">
+        <seg>Selezionate &lt;f3&gt;Intero [INTEGER]&lt;/f3&gt; come Tipo campo dall'elenco a tendina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a blank cell in a column that contains cells with text entries.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085327Z" creationid="Marco Marega" creationdate="20180811T085327Z">
@@ -26716,6 +26820,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105330Z" creationid="manuel" creationdate="20180609T105330Z">
         <seg>Spaziatura delle frasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set &lt;f0&gt;FuelID&lt;/f0&gt; as the &lt;f1&gt;Primary key&lt;/f1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104415Z" creationid="manuel" creationdate="20180822T104415Z">
+        <seg>Impostate &lt;f0&gt;IDCarburante&lt;/f0&gt; come &lt;f1&gt;Chiave Primaria&lt;/f1&gt;.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29065,6 +29177,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog automatically sets FuelID as the primary key and places a key icon in front of FuelID (Figure &lt;t3&gt;211&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T105042Z" creationid="manuel" creationdate="20180822T105042Z">
+        <seg>La finestra di dialogo imposta automaticamente IDCarburante come chiave primaria e posiziona l'icona di una chiave davanti a IDCarburante (Figura&lt;t3&gt;211&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The dialog in Figure &lt;t1&gt;357&lt;/t1&gt; opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T094131Z" creationid="briga" creationdate="20180821T094131Z">
@@ -29253,6 +29373,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154131Z" creationid="manuel" creationdate="20180715T154131Z">
         <seg>Il primo passo nella creazione di un database è farsi una serie di domande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first table to be created is &lt;f0&gt;Fuel&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T103658Z" creationid="manuel" creationdate="20180822T103658Z">
+        <seg>La prima tabella che verrà creata è quella del &lt;f0&gt;Carburante&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35591,6 +35719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We will use this method for the tables of our database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T103327Z" creationid="manuel" creationdate="20180822T103327Z">
+        <seg>Si utilizzerà questo metodo per le tabelle del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What are &lt;i0/&gt;&lt;i1/&gt;styles?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114444Z" creationid="manuel" creationdate="20180611T114444Z">
@@ -36475,6 +36611,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155122Z" creationid="manuel" creationdate="20180715T155122Z">
         <seg>Mentre si è in vacanza, potrebbe essere desiderabile che le spese di ogni giorno vengano elencate insieme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While the &lt;f0&gt;Field type &lt;/f0&gt;and &lt;f1&gt;formatting&lt;/f1&gt; are different in Design View, the concepts are the same as in the Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T103646Z" creationid="manuel" creationdate="20180822T103646Z">
+        <seg>Mentre il &lt;f0&gt;Tipo di campo&lt;/f0&gt; e la &lt;f1&gt;formattazione&lt;/f1&gt; sono differenti in Vista struttura, nella Procedura guidata i concetti sono identici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37715,6 +37859,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T135412Z" creationid="manuel" creationdate="20180626T135412Z">
         <seg>Potete personalizzare la funzione Completamento parola dalla pagina &lt;f0&gt;Completamento parola&lt;/f0&gt; della finestra di dialogo Correzione automatica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can cycle through the choices for a given letter by repeatedly pressing that key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104159Z" creationid="manuel" creationdate="20180822T104159Z">
+        <seg>Potete scorrere le scelte per una determinata lettera premendo ripetutamente tale lettera.</seg>
       </tuv>
     </tu>
     <tu>
