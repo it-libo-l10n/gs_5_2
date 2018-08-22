@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1834,6 +1834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141927Z" creationid="manuel" creationdate="20180529T070022Z">
         <seg>&lt;f0&gt;(Non è mostrato nell'illustrazione.)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;2 over x + 1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;gives the result&lt;/f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T203743Z" creationid="Marco Marega" creationdate="20180822T203743Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;2 over x + 1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;da come risultato &lt;/f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
