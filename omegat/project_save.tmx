@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1888,8 +1888,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Adding&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;braces&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;to &lt;/f4&gt;&lt;f5&gt;into the markup language&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; {1 over 2}&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;gives the result&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;df12&gt;&lt;d13/&gt;&lt;di14/&gt;&lt;s15&gt;formula&lt;/s15&gt;&lt;/df12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f16&gt;and the whole fraction is now &lt;/f16&gt;&lt;f17&gt;negative&lt;/f17&gt;&lt;f18&gt;.&lt;/f18&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T211437Z" creationid="Marco Marega" creationdate="20180822T211437Z">
-        <seg>&lt;f0&gt;Aggiungendo le &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;parentesi graffe&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;a &lt;/f4&gt;&lt;f5&gt;nel codice di markup&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; {1 over 2}&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;otterrete il risultato &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;df12&gt;&lt;d13/&gt;&lt;di14/&gt;&lt;s15&gt;formula&lt;/s15&gt;&lt;/df12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f16&gt;e l'intera frazione diventa &lt;/f16&gt;&lt;f17&gt;negativa&lt;/f17&gt;&lt;f18&gt;.&lt;/f18&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T212816Z" creationid="Marco Marega" creationdate="20180822T211437Z">
+        <seg>&lt;f0&gt;Aggiungendo le &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;parentesi graffe&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;nel codice di markup&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; {1 over 2}&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;otterrete il risultato &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;df12&gt;&lt;d13/&gt;&lt;di14/&gt;&lt;s15&gt;formula&lt;/s15&gt;&lt;/df12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f16&gt;e l'intera frazione diventa &lt;/f16&gt;&lt;f17&gt;negativa&lt;/f17&gt;&lt;f18&gt;.&lt;/f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2897,8 +2897,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Inserting &lt;/f0&gt;&lt;f1&gt;braces&lt;/f1&gt;&lt;f2&gt; into &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;2 over {x + 1}&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; gives the result&lt;/f5&gt;&lt;f6&gt;&lt;df7&gt;&lt;d8/&gt;&lt;di9/&gt;&lt;s10&gt;formula&lt;/s10&gt;&lt;/df7&gt;&lt;/f6&gt;&lt;f11&gt;where &lt;/f11&gt;&lt;f12&gt;x+1&lt;/f12&gt;&lt;f13&gt; is now the denominator.&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T211445Z" creationid="Marco Marega" creationdate="20180822T204545Z">
-        <seg>&lt;f0&gt;Inserendo le &lt;/f0&gt;&lt;f1&gt;parentesi graffe&lt;/f1&gt;&lt;f2&gt; a &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;2 over {x + 1}&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; otterrete come risultato &lt;/f5&gt;&lt;f6&gt;&lt;df7&gt;&lt;d8/&gt;&lt;di9/&gt;&lt;s10&gt;formula&lt;/s10&gt;&lt;/df7&gt;&lt;/f6&gt;&lt;f11&gt;dove&lt;/f11&gt;&lt;f12&gt;x+1&lt;/f12&gt;&lt;f13&gt; è il denominatore.&lt;/f13&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T214314Z" creationid="Marco Marega" creationdate="20180822T204545Z">
+        <seg>&lt;f0&gt;Inserendo le &lt;/f0&gt;&lt;f1&gt;parentesi graffe&lt;/f1&gt;&lt;f2&gt; in &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;2 over {x + 1}&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; otterrete come risultato &lt;/f5&gt;&lt;f6&gt;&lt;df7&gt;&lt;d8/&gt;&lt;di9/&gt;&lt;s10&gt;formula&lt;/s10&gt;&lt;/df7&gt;&lt;/f6&gt;&lt;f11&gt;dove&lt;/f11&gt;&lt;f12&gt;x+1&lt;/f12&gt;&lt;f13&gt; è il denominatore.&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
