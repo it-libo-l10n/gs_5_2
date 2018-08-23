@@ -6602,8 +6602,8 @@
       <tuv lang="EN">
         <seg>Assistive tools in LibreOffice</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180823T131612Z" creationid="briga" creationdate="20180823T131612Z">
-        <seg>Assistive tools in LibreOffice</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T131803Z" creationid="briga" creationdate="20180823T131612Z">
+        <seg>Strumenti di accesso facilitato in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19655,6 +19655,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to keyboard shortcuts, LibreOffice supports some assistive technology tools like screen magnification software, screen readers, and on-screen keyboards.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T131925Z" creationid="briga" creationdate="20180823T131925Z">
+        <seg>Oltre ai tasti di scelta rapida, LibreOffice supporta alcune tecnologie di accesso facilitato come ingrandimento dello schermo, lettori dello schermo e tastiere a schermo..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to renaming, you can allocate a letter in a custom menu’s name, which will become underlined, to be used as a keyboard shortcut, allowing you to select that menu by pressing &lt;f0&gt;Alt+&lt;/f0&gt; that letter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180819T062545Z" creationid="briga" creationdate="20180819T062545Z">
@@ -24556,6 +24564,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153345Z" creationid="manuel" creationdate="20180715T153345Z">
         <seg>Per piacere andate su &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Avanzate&lt;/f0&gt; per selezionare un JRE tra quelli installati sul computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please note that except for the Windows platform, accessibility support relies on Java technology for communications with assistive technology tools.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132109Z" creationid="briga" creationdate="20180823T132109Z">
+        <seg>Tenete presente che ad eccezione della piattaforma Windows, il supporto per l'accesso facilitato si basa sulla tecnologia Java per comunicare con gli strumenti di accesso facilitato.</seg>
       </tuv>
     </tu>
     <tu>
