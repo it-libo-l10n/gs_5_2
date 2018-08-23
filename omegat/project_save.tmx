@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(This example uses a paragraph style, but you can also choose character styles and others.) The &lt;f0&gt;Function&lt;/f0&gt; list will display the names of the available styles for the selected category.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123244Z" creationid="briga" creationdate="20180823T123244Z">
+        <seg>(questo esempio utilizza uno stile di paragrafo, ma potete anche scegliere uno stile di carattere o altro). L'elenco &lt;f0&gt;Funzione&lt;/f0&gt; visualizzerà i nomi degli stili disponibili per la categoria selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(What this field does will be explained later.) We will use this field to number our entries and want that number to automatically increase as we add each entry.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134323Z" creationid="manuel" creationdate="20180721T134323Z">
@@ -4295,6 +4303,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;Ctrl+9&lt;/f4&gt; now appears in the &lt;f5&gt;Keys&lt;/f5&gt; list on the right, and &lt;f6&gt;List 1&lt;/f6&gt; appears next to &lt;f7&gt;Ctrl+9&lt;/f7&gt; in the Shortcut keys box at the top.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123451Z" creationid="briga" creationdate="20180823T123451Z">
+        <seg>&lt;f4&gt;Ctrl+9&lt;/f4&gt; compare ora nell'elenco &lt;f5&gt;Tasti&lt;/f5&gt; sulla destra, e &lt;f6&gt;Elenco 1&lt;/f6&gt; compare accanto a &lt;f7&gt;Ctrl+9&lt;/f7&gt; nel riquadro in alto Tasti di scelta rapida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;The Select Category dialog appears.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142917Z" creationid="manuel" creationdate="20180616T142917Z">
@@ -8338,6 +8354,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose the category of style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123250Z" creationid="briga" creationdate="20180823T123206Z">
+        <seg>Scegliete la categoria di stile </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose the required page &lt;f0&gt;Style&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103238Z" creationid="manuel" creationdate="20180627T103238Z">
@@ -9737,6 +9761,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142712Z" creationid="manuel" creationdate="20180608T142712Z">
         <seg>Fate clic sul segno di espansione (+ o triangolo) alla sinistra di &lt;f1&gt;Carica/Salva&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the expansion symbol (usually a + sign or triangle) to expand the list of styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123200Z" creationid="briga" creationdate="20180823T123200Z">
+        <seg>Fate clic sul simbolo di espansione (di solito un segno + o un triangolo) per espandere l'elenco degli stili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21616,6 +21648,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make any other required changes, and then click &lt;f0&gt;OK&lt;/f0&gt; to save these settings and close the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123453Z" creationid="briga" creationdate="20180823T123453Z">
+        <seg>Make any other required changes, and then click &lt;f0&gt;OK&lt;/f0&gt; to save these settings and close the dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure &lt;f0&gt;the&lt;/f0&gt; cursor is flashing in the Formula Editor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133451Z" creationid="Marco Marega" creationdate="20180820T133451Z">
@@ -29627,8 +29667,8 @@
       <tuv lang="EN">
         <seg>The example shows some of LibreOffice’s predefined styles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154731Z" creationid="luke" creationdate="20180514T154731Z">
-        <seg>The example shows some of LibreOffice’s predefined styles.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123300Z" creationid="luke" creationdate="20180514T154731Z">
+        <seg>L'esempio mostra alcuni degli stili predefiniti di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32478,6 +32518,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161555Z" creationid="manuel" creationdate="20180611T161555Z">
         <seg>Per applicare uno stile esistente, posizionate il punto di inserimento nel paragrafo, nella cornice, nella pagina o nella parola, quindi fate doppio clic sul nome dello stile in uno di questi elenchi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To assign &lt;f0&gt;Ctrl+9&lt;/f0&gt; to be the shortcut key combination for the List 1 style, select &lt;f1&gt;List 1&lt;/f1&gt; in the &lt;f2&gt;Function&lt;/f2&gt; list, and then click &lt;f3&gt;Modify&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123404Z" creationid="briga" creationdate="20180823T123404Z">
+        <seg>Per assegnare &lt;f0&gt;Ctrl+9&lt;/f0&gt; come combinazione di tasti per lo stile Elenco 1, selezionate &lt;f1&gt;Elenco 1&lt;/f1&gt; nell'elenco &lt;f2&gt;Funzione&lt;/f2&gt;, e poi fate clic su &lt;f3&gt;Cambia&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
