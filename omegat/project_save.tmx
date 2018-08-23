@@ -5960,6 +5960,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although you can easily reset the shortcut key assignments to the LibreOffice defaults, changing some common shortcut keys can cause confusion, especially if other users share your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T073335Z" creationid="briga" creationdate="20180823T073335Z">
+        <seg>Sebbene sia semplice ripristinare le assegnazioni di tasti di scelta rapida a quelle predefinite di LibreOffice, modificare alcune combinazioni di tasti comuni può provocare confusione, specialmente se condividete il vostro computer con altri utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always checkbox</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080245Z" creationid="manuel" creationdate="20180531T080245Z">
@@ -21688,6 +21696,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many key assignments are universally understood shortcuts, such as &lt;f0&gt;F1&lt;/f0&gt; for Help, and are always expected to provide certain results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T073300Z" creationid="briga" creationdate="20180823T073300Z">
+        <seg>Molte assegnazioni di tasti sono scorciatoie universalmente riconosciute, come &lt;f0&gt;F1&lt;/f0&gt; per l'Aiuto, e ci si attende che producano sempre determinati risultati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Many people also find AutoInput helpful.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T203930Z" creationid="Marco Marega" creationdate="20180808T203930Z">
@@ -26012,6 +26028,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180659Z" creationid="Marco Marega" creationdate="20180804T180659Z">
         <seg>Selezionate &lt;f0&gt;Testo&lt;/f0&gt; nella casella di riepilogo &lt;f1&gt;Categoria&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Tools &gt; Customize &gt; Keyboard&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T073425Z" creationid="briga" creationdate="20180823T073425Z">
+        <seg>Select &lt;f0&gt;Tools &gt; Customize &gt; Keyboard&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32197,6 +32221,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105243Z" creationid="manuel" creationdate="20180704T105243Z">
         <seg>Per attivare lo strumento Testo, fate clic sull'icona &lt;f0&gt;Testo&lt;/f0&gt; per il testo orizzontale o sull'icona &lt;f1&gt;Testo verticale&lt;/f1&gt; per la scrittura in verticale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To adapt shortcut keys to your needs, use the &lt;i0/&gt;Customize dialog, as described below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T073423Z" creationid="briga" creationdate="20180823T073423Z">
+        <seg>Per adattare le combinazioni di tasti alle vostre esigenze, usate la finestra di dialogo &lt;i0/&gt;Personalizza, come descritto di seguito.</seg>
       </tuv>
     </tu>
     <tu>
