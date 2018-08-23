@@ -10279,8 +10279,8 @@
       <tuv lang="EN">
         <seg>Control+click and/or right-click depending on computer setup</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173425Z" creationid="Elisabetta Manuele" creationdate="20180627T173425Z">
-        <seg>Ctrl (Control)+clic e/o clic destro in base alla configurazione del computer</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132519Z" creationid="Elisabetta Manuele" creationdate="20180627T173425Z">
+        <seg>Control + clic e/o clic con il pulsante destro del mouse a seconda dell'impostazione del computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12759,6 +12759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>F1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132555Z" creationid="briga" creationdate="20180823T132555Z">
+        <seg>F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>F11</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173650Z" creationid="Elisabetta Manuele" creationdate="20180627T173650Z">
@@ -14761,8 +14769,8 @@
       <tuv lang="EN">
         <seg>For a more detailed list, see the application Help.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173314Z" creationid="Elisabetta Manuele" creationdate="20180627T173314Z">
-        <seg>Per un elenco più dettagliato consultate la Guida in linea dell'applicazione.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132428Z" creationid="Elisabetta Manuele" creationdate="20180627T173314Z">
+        <seg>Per un elenco più dettagliato, vedere la Guida in linea dell'applicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16299,6 +16307,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160421Z" creationid="manuel" creationdate="20180616T160421Z">
         <seg>Guida introduttiva a Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting help</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132548Z" creationid="briga" creationdate="20180823T132548Z">
+        <seg>Ottenere aiuto</seg>
       </tuv>
     </tu>
     <tu>
@@ -19443,6 +19459,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T065725Z" creationid="manuel" creationdate="20180629T065725Z">
         <seg>In LibreOffice Draw, la dimensione massima di un disegno è 300 cm per 300 cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In LibreOffice Help: jumps to the first help page of the selected tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132614Z" creationid="briga" creationdate="20180823T132614Z">
+        <seg>In LibreOffice Help: jumps to the first help page of the selected tab.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24168,6 +24192,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the LibreOffice Help dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132611Z" creationid="briga" creationdate="20180823T132611Z">
+        <seg>Apre la finestra di dialogo Guida di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Optional (unstable) options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065108Z" creationid="manuel" creationdate="20180608T065108Z">
@@ -25308,6 +25340,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102617Z" creationid="manuel" creationdate="20180627T102617Z">
         <seg>Riavvio della numerazione delle pagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Result</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132554Z" creationid="briga" creationdate="20180823T132554Z">
+        <seg>Risultato</seg>
       </tuv>
     </tu>
     <tu>
@@ -27612,6 +27652,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141607Z" creationid="Marco Marega" creationdate="20180714T141607Z">
         <seg>Maiusc+Tab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut Keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132552Z" creationid="briga" creationdate="20180823T132552Z">
+        <seg>Tasti di scelta rapida</seg>
       </tuv>
     </tu>
     <tu>
@@ -30101,6 +30149,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144610Z" creationid="manuel" creationdate="20180608T144610Z">
         <seg>La tabella seguente mostra la differenza di sintassi tra riferimento relativo e assoluto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following table gives some common substitutions for the instructions in this chapter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132422Z" creationid="briga" creationdate="20180823T132422Z">
+        <seg>La tabella seguente fornisce alcune sostituzioni comuni per le istruzioni di questo capitolo.</seg>
       </tuv>
     </tu>
     <tu>
