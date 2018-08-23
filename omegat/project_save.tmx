@@ -35736,8 +35736,8 @@
       <tuv lang="EN">
         <seg>Users with administrator or root privileges will see a dialog where they can choose to install extensions “for all users” (&lt;f0&gt;shared&lt;/f0&gt;) or “only for me” (&lt;f1&gt;user&lt;/f1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130202Z" creationid="briga" creationdate="20180823T130202Z">
-        <seg>Users with administrator or root privileges will see a dialog where they can choose to install extensions “for all users” (&lt;f0&gt;shared&lt;/f0&gt;) or “only for me” (&lt;f1&gt;user&lt;/f1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130550Z" creationid="briga" creationdate="20180823T130202Z">
+        <seg>Gli utenti con privilegi di amministrazione o root vedranno una finestra di dialogo in cui è possibile scegliere di installare le estensioni "per tutti gli utenti" (&lt;f0&gt;condivisa&lt;/f0&gt;) o "solo per me"  (&lt;f1&gt;utente&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
