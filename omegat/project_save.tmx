@@ -32281,6 +32281,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This means that the first program startup may take a few seconds longer, because the Java runtime environment has to be started as well.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132250Z" creationid="briga" creationdate="20180823T132250Z">
+        <seg>Ciò significa che il primo avvio del programma possa richiedere alcuni secondi in più poiché l'ambiente Java deve essere avviato anch'esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This menu is also found in the English dictionaries extension installed by default by LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T093018Z" creationid="manuel" creationdate="20180609T092939Z">
