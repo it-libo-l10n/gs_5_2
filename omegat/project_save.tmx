@@ -8642,6 +8642,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to accept the change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T102344Z" creationid="briga" creationdate="20180823T102344Z">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to accept the change.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to confirm the move or copy and close the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163607Z" creationid="Marco Marega" creationdate="20180729T163607Z">
