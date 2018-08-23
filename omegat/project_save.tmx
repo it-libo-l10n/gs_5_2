@@ -5600,6 +5600,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After making your keyboard shortcut assignments, click the &lt;f0&gt;Save&lt;/f0&gt; button at the right of the Customize dialog (Figure &lt;t1&gt;359&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124256Z" creationid="briga" creationdate="20180823T124256Z">
+        <seg>Dopo aver assegnato le vostre combinazioni di tasti, fate clic sul pulsante &lt;f0&gt;Salva&lt;/f0&gt;, sul lato destro della finestra di dialogo Personalizza (&lt;t1&gt;Figura 359&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After selecting the additional grammar checks, you must restart LibreOffice, or reload the document, for them to take effect.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T100148Z" creationid="manuel" creationdate="20180609T100148Z">
@@ -19863,6 +19871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Save Keyboard Configuration dialog, select &lt;f0&gt;All files&lt;/f0&gt; from the &lt;f1&gt;Save as Type&lt;/f1&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124303Z" creationid="briga" creationdate="20180823T124303Z">
+        <seg>Nella finestra di dialogo Salva configurazione della tastiera, selezionate &lt;f0&gt;Tutti i file&lt;/f0&gt; dall'elenco &lt;f1&gt;Salva come tipo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Styles and Formatting window, click the arrow next to the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon, and then select &lt;f1&gt;Load Styles&lt;/f1&gt; (see Figure &lt;t2&gt;48&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071049Z" creationid="manuel" creationdate="20180614T071049Z">
@@ -22900,6 +22916,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112242Z" creationid="manuel" creationdate="20180611T112242Z">
         <seg>I nuovi documenti creati da questo modello avranno tutti il logo della ditta nella prima pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next enter a name for the keyboard configuration file in the &lt;f0&gt;File name&lt;/f0&gt; box, or select an existing file from the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124804Z" creationid="briga" creationdate="20180823T124804Z">
+        <seg>Successivamente inserite un nome per il file di configurazione nel riquadro &lt;f0&gt;Nome file&lt;/f0&gt;, oppure selezionate un file esistente dalla lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34105,6 +34129,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T121125Z" creationid="Marco Marega" creationdate="20180713T121125Z">
         <seg>Per salvare un foglio elettronico e per maggiori dettagli su come farlo manualmente o in modo automatico, vedete il &lt;f0&gt;Capitolo 1 (Introduzione a LibreOffice)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To save keyboard shortcuts to a file:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124246Z" creationid="briga" creationdate="20180823T124246Z">
+        <seg>Per salvare le combinazioni di tasti in un file:</seg>
       </tuv>
     </tu>
     <tu>
