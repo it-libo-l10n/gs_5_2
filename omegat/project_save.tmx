@@ -4695,6 +4695,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A common use is to assign the “open document” event to run a macro that performs certain setup tasks for the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124945Z" creationid="briga" creationdate="20180823T124945Z">
+        <seg>È uso comune assegnare l'evento “apri documento” all'esecuzione di una macro che effettua determinate funzioni d'impostazione per il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A confirmation dialog appears if you are about to overwrite an existing file, otherwise there will be no feedback and the file will be saved.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T124818Z" creationid="briga" creationdate="20180823T124818Z">
@@ -6028,6 +6036,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152622Z" creationid="manuel" creationdate="20180608T152608Z">
         <seg>Salva sempre come</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An &lt;i0/&gt;extension is a package that can be installed into LibreOffice to add new functionality and improve your productivity with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T125008Z" creationid="briga" creationdate="20180823T125008Z">
+        <seg>Un'&lt;i0/&gt;estensione è un pacchetto che può essere installato all'interno di LibreOffice per aggiungere nuove funzionalità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14767,6 +14783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, a document was opened, a key was pressed, or the mouse moved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124935Z" creationid="briga" creationdate="20180823T124935Z">
+        <seg>Ad esempio, l'apertura di un documento, la pressione di un tasto, o il movimento del puntatore del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, a letter template may contain your name, address, and salutation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T103424Z" creationid="manuel" creationdate="20180615T103424Z">
@@ -15603,6 +15627,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104415Z" creationid="manuel" creationdate="20180705T104415Z">
         <seg>Per maggiori informazioni, vedere il Capitolo 12 (Creare pagine web) in questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information, see Chapter 13, Getting Started with Macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124957Z" creationid="briga" creationdate="20180823T124957Z">
+        <seg>Per maggiori informazioni, consultate il Capitolo 13 (Introduzione alle macro).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19339,6 +19371,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160450Z" creationid="manuel" creationdate="20180615T160450Z">
         <seg>In LibreOffice, selezionate &lt;f0&gt;Strumenti &gt; Gestione Estensioni&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In LibreOffice, when something happens, we say that an event occurred.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124924Z" creationid="briga" creationdate="20180823T124924Z">
+        <seg>In LibreOffice, quando accade qualcosa, si dice che si è verificato un evento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28432,6 +28472,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Template sets, spelling dictionaries, clipart galleries, macros, and dialog libraries can be packaged as LibreOffice extensions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T125502Z" creationid="briga" creationdate="20180823T125502Z">
+        <seg>Potete creare delle estensioni di LibreOffice contenenti: set di modelli di documento, dizionari, gallerie di clipart, macro e finestre di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Templates and styles (see Chapter 3)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160643Z" creationid="manuel" creationdate="20180616T160643Z">
@@ -32393,6 +32441,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;i0/&gt;reset all of the keyboard shortcuts to their default values, click the &lt;f1&gt;Reset&lt;/f1&gt; button near the bottom right of the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124859Z" creationid="briga" creationdate="20180823T124859Z">
+        <seg>Per &lt;i0/&gt;ripristinare tutti i valori predefiniti delle combinazioni di tasti, fate clic sul pulsante &lt;f1&gt;Ripristina&lt;/f1&gt;, sul lato destro della finestra di dialogo Personalizza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To &lt;i0/&gt;select &lt;i1/&gt;nonconsecutive items (as shown in Figure &lt;t2&gt;67&lt;/t2&gt;) using the mouse:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151923Z" creationid="manuel" creationdate="20180621T151923Z">
@@ -32622,6 +32678,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162410Z" creationid="manuel" creationdate="20180615T162410Z">
         <seg>Associare un documento con un altro modello:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To associate a macro with an event, use the Events page of the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124950Z" creationid="briga" creationdate="20180823T124950Z">
+        <seg>Per associare una macro a un evento, utilizzate la scheda Eventi della finestra di dialogo Personalizza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35414,6 +35478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use this feature with care as no confirmation dialog will be displayed; the defaults will be set without any further notice or user input.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124908Z" creationid="briga" creationdate="20180823T124908Z">
+        <seg>Fate attenzione nell'utilizzare questa funzionalità, in quanto non verrà visualizzato alcun messaggio di conferma; i valori predefiniti verranno impostati senza ulteriori notifiche o azioni da parte dell'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use this option to select the default for relative addressing of URLs in the file system and on the Internet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144521Z" creationid="manuel" creationdate="20180608T144521Z">
@@ -38095,6 +38167,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can associate a macro with an event, so the macro is run when the event occurs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124938Z" creationid="briga" creationdate="20180823T124938Z">
+        <seg>È possibile associare una macro a un evento, in modo che la macro venga eseguita quando accade un evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can calculate average &lt;f1&gt;and&lt;/f1&gt; sum, count elements, and more on &lt;f2&gt;the&lt;/f2&gt; selection by &lt;f3&gt;right-&lt;/f3&gt;click&lt;f4&gt;ing&lt;/f4&gt; over the cell information area of the status bar &lt;f5&gt;and selecting the operations you want to display in the status bar.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T181915Z" creationid="Marco Marega" creationdate="20180708T181915Z">
@@ -39479,6 +39559,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>assigning to events</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124913Z" creationid="briga" creationdate="20180823T124913Z">
+        <seg>assegnare agli eventi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>assigning to shortcut keys</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T104914Z" creationid="briga" creationdate="20180823T104914Z">
@@ -40191,6 +40279,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>extensions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T125001Z" creationid="briga" creationdate="20180823T125001Z">
+        <seg>estensioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>fax icon, adding to toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T094053Z" creationid="briga" creationdate="20180821T094053Z">
@@ -40611,6 +40707,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073012Z" creationid="manuel" creationdate="20180606T073012Z">
         <seg>opzioni di sicurezza delle macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macros</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124915Z" creationid="briga" creationdate="20180823T124915Z">
+        <seg>macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -41115,6 +41219,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094453Z" creationid="Marco Marega" creationdate="20180811T094453Z">
         <seg>sostituire tutti i dati in una cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>resetting to default values</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124846Z" creationid="briga" creationdate="20180823T124846Z">
+        <seg>ripristinare i valori predefiniti</seg>
       </tuv>
     </tu>
     <tu>
