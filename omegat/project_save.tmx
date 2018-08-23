@@ -12439,6 +12439,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example: &lt;i0/&gt;Assigning styles to shortcut keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T104926Z" creationid="briga" creationdate="20180823T104926Z">
+        <seg>Esempio: &lt;i0/&gt;assegnare gli stili a delle combinazioni di tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example: Adding a &lt;i0/&gt;Fax icon to a toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T094101Z" creationid="briga" creationdate="20180821T094101Z">
@@ -37991,6 +37999,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can configure shortcut keys to quickly assign styles in your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T104928Z" creationid="briga" creationdate="20180823T104928Z">
+        <seg>You can configure shortcut keys to quickly assign styles in your document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can configure the slide transition from the Slide Transition section in the Tasks Pane.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090027Z" creationid="luke" creationdate="20180515T090027Z">
@@ -39259,6 +39275,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T072605Z" creationid="briga" creationdate="20180823T072605Z">
         <seg>assegnare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>assigning to shortcut keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T104914Z" creationid="briga" creationdate="20180823T104914Z">
+        <seg>assegnare combinazioni di tasti di scelta rapida</seg>
       </tuv>
     </tu>
     <tu>
