@@ -7706,6 +7706,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changes to the shortcut key assignments can be &lt;i0/&gt;saved in a keyboard configuration file for use at a later time, thus permitting you to create and apply different configurations as the need arises.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123924Z" creationid="briga" creationdate="20180823T123924Z">
+        <seg>Changes to the shortcut key assignments can be &lt;i0/&gt;saved in a keyboard configuration file for use at a later time, thus permitting you to create and apply different configurations as the need arises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing &lt;i0/&gt;page &lt;i1/&gt;orientation within a document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102437Z" creationid="manuel" creationdate="20180616T102437Z">
@@ -13643,6 +13651,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T072508Z" creationid="briga" creationdate="20180823T072508Z">
         <seg>Figura &lt;seq0&gt;358&lt;/seq0&gt;: aggiunta del comando Invia fax a una barra degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;359&lt;/seq0&gt;: Defining keyboard shortcuts for applying styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123916Z" creationid="briga" creationdate="20180823T123916Z">
+        <seg>Figura &lt;seq0&gt;359&lt;/seq0&gt;: definire tasti di scelta rapida per applicare gli stili</seg>
       </tuv>
     </tu>
     <tu>
@@ -25404,6 +25420,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T141516Z" creationid="manuel" creationdate="20180621T141516Z">
         <seg>Salvataggio di file nel formato Microsoft Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving changes to a file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123919Z" creationid="briga" creationdate="20180823T123919Z">
+        <seg>Salvare le modifiche in un file</seg>
       </tuv>
     </tu>
     <tu>
@@ -41099,6 +41123,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T222134Z" creationid="Marco Marega" creationdate="20180712T222134Z">
         <seg>salvare i fogli elettronici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>saving to a file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123920Z" creationid="briga" creationdate="20180823T123920Z">
+        <seg>salvare in un file</seg>
       </tuv>
     </tu>
     <tu>
