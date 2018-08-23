@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8794,6 +8794,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f3&gt;Add&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T071946Z" creationid="briga" creationdate="20180823T071946Z">
+        <seg>Fate clic su &lt;f3&gt;Importa&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f3&gt;Use [xxx] Format&lt;/f3&gt; to continue saving in your selected spreadsheet format or click &lt;f4&gt;Use ODF Format&lt;/f4&gt; to save the spreadsheet in Calc ODS format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T123233Z" creationid="Marco Marega" creationdate="20180713T123233Z">
@@ -8814,6 +8822,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164728Z" creationid="Marco Marega" creationdate="20180729T164728Z">
         <seg>Fate clic su &lt;f4&gt;Sì&lt;/f4&gt; per confermare l'eliminazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f5&gt;Add&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T072022Z" creationid="briga" creationdate="20180823T072022Z">
+        <seg>Fate clic su &lt;f5&gt;Aggiungi&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19551,6 +19567,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Commands&lt;/f0&gt; list, click the up or down arrow button to position the new icon where you want it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T072439Z" creationid="briga" creationdate="20180823T072439Z">
+        <seg>Nell'elenco dei &lt;f0&gt;Comandi&lt;/f0&gt;, fate clic sui pulsanti freccia su o giù per scegliere dove posizionare la nuova icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Fieldname drop down&lt;/f0&gt; list, select &lt;f1&gt;CollectionID&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T074757Z" creationid="manuel" creationdate="20180806T074757Z">
@@ -19801,8 +19825,8 @@
       <tuv lang="EN">
         <seg>In the drop-down menu, choose &lt;f0&gt;Customize Toolbar&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180821T094149Z" creationid="briga" creationdate="20180821T094149Z">
-        <seg>In the drop-down menu, choose &lt;f0&gt;Customize Toolbar&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T071911Z" creationid="briga" creationdate="20180821T094149Z">
+        <seg>Nel menu a comparsa, scegliete &lt;f0&gt;Personalizza barra degli strumenti&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22872,6 +22896,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now you can see the new icon in the Commands list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T072028Z" creationid="briga" creationdate="20180823T072028Z">
+        <seg>A questo punto è possibile vedere la nuova icona nell'elenco dei comandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now you can work with the selected text (copy it, delete it, change the style, &lt;f0&gt;and so on&lt;/f0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151244Z" creationid="manuel" creationdate="20180621T152424Z">
@@ -23228,6 +23260,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T101311Z" creationid="briga" creationdate="20180820T101311Z">
         <seg>Nella finestra di dialogo Aggiungi comandi (&lt;t0&gt;Figura 353&lt;/t0&gt;), selezionate una categoria, quindi il comando, e poi fate clic su &lt;f1&gt;Aggiungi&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Add Commands dialog (Figure &lt;t0&gt;358&lt;/t0&gt;), select &lt;f1&gt;Documents&lt;/f1&gt; in the &lt;f2&gt;Category&lt;/f2&gt; list, then select &lt;f3&gt;Send Default Fax&lt;/f3&gt; in the &lt;f4&gt;Commands&lt;/f4&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T072014Z" creationid="briga" creationdate="20180823T072014Z">
+        <seg>Nella finestra di dialogo Aggiungi comandi (Figura &lt;t0&gt;358&lt;/t0&gt;), selezionate &lt;f1&gt;Documenti&lt;/f1&gt; nell'elenco &lt;f2&gt;Categorie&lt;/f2&gt;, poi selezionate &lt;f3&gt;Invia fax predefinito&lt;/f3&gt; nell'elenco &lt;f4&gt;Comandi&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28340,6 +28380,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123542Z" creationid="Marco Marega" creationdate="20180623T123542Z">
         <seg>Nella barra degli strumenti Standard l'icona &lt;f1&gt;Modifica file&lt;/f1&gt; diventa attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f1&gt;Toolbars&lt;/f1&gt; page of the Customize dialog appears (Figure &lt;t2&gt;354&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T071942Z" creationid="briga" creationdate="20180823T071942Z">
+        <seg>Apparirà la pagina &lt;f1&gt;Barre degli Strumenti&lt;/f1&gt; della finestra di dialogo Personalizza (Figura &lt;t2&gt;354&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
