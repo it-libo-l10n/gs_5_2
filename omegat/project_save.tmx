@@ -22784,6 +22784,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next select the required function from the &lt;f0&gt;Category&lt;/f0&gt; and &lt;f1&gt;Function&lt;/f1&gt; lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T102251Z" creationid="briga" creationdate="20180823T102251Z">
+        <seg>Poi selezionate la funzione richiesta dagli elenchi &lt;f0&gt;Categoria&lt;/f0&gt; e &lt;f1&gt;Funzione&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nicole Cairns</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175935Z" creationid="Elisabetta Manuele" creationdate="20180627T175935Z">
@@ -22940,6 +22948,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153738Z" creationid="manuel" creationdate="20180621T153738Z">
         <seg>Ora è possibile evidenziare la selezione, utilizzando il mouse o la tastiera, come mostrato sotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now select the desired shortcut keys in the &lt;f0&gt;Shortcut keys&lt;/f0&gt; list and click the &lt;f1&gt;Modify&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T102341Z" creationid="briga" creationdate="20180823T102341Z">
+        <seg>Ora selezionate la combinazione di tasti desiderata nell'elenco &lt;f0&gt;Tasti di scelta rapida&lt;/f0&gt; e fate clic sul pulsante &lt;f1&gt;Cambia&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26034,8 +26050,8 @@
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Tools &gt; Customize &gt; Keyboard&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180823T073425Z" creationid="briga" creationdate="20180823T073425Z">
-        <seg>Select &lt;f0&gt;Tools &gt; Customize &gt; Keyboard&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T102026Z" creationid="briga" creationdate="20180823T073425Z">
+        <seg>Selezionate &lt;f0&gt;Strumenti &gt; Personalizza &gt; Tastiera&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28612,6 +28628,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091936Z" creationid="manuel" creationdate="20180806T091936Z">
         <seg>Si aprirà la finestra di dialogo Copia tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Customize dialog &lt;f1&gt;(Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;359&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;) &lt;/f4&gt;opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T102130Z" creationid="briga" creationdate="20180823T102000Z">
+        <seg>Si apre la finestra di dialogo Personalizza &lt;f1&gt;(Figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;359&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33216,6 +33240,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143515Z" creationid="manuel" creationdate="20180621T143515Z">
         <seg>Per fare in modo che Writer salvi in modo predefinito i documenti nel formato Microsoft Word utilizzate &lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To have the shortcut key assignment available in all components of LibreOffice, select &lt;f0&gt;LibreOffice&lt;/f0&gt; &lt;f1&gt;in the upper right&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T102210Z" creationid="briga" creationdate="20180823T102210Z">
+        <seg>Per avere a disposizione l'assegnazione di una combinazione di tasti in tutti i componenti di LibreOffice, selezionate il pulsante di opzione &lt;f0&gt;LibreOffice&lt;/f0&gt; &lt;f1&gt; in alto a destra&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
