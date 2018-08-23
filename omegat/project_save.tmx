@@ -6945,6 +6945,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be careful when reassigning your operating system’s or LibreOffice’s predefined shortcut keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T073230Z" creationid="briga" creationdate="20180823T073230Z">
+        <seg>Fate attenzione nel riassegnare i tasti di scelta rapida predefiniti del vostro sistema operativo o di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Be sure the fax driver is installed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T094113Z" creationid="briga" creationdate="20180821T094113Z">
@@ -37763,6 +37771,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154119Z" creationid="manuel" creationdate="20180626T154119Z">
         <seg>Potete applicare molti formati ai paragrafi utilizzando i pulsanti sulla barra degli strumenti Formattazione e utilizzando il pannello Paragrafo del pannello Proprietà della barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can assign shortcuts to standard LibreOffice functions or your own macros and save them for use with the entire LibreOffice suite.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T073217Z" creationid="briga" creationdate="20180823T073217Z">
+        <seg>Potete assegnare combinazioni di tasti alle funzioni standard di LibreOffice oppure alle vostre macro e salvarle per l'utilizzo con l'intero pacchetto LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
