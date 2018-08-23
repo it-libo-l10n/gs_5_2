@@ -17695,6 +17695,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it were not, and you wanted to reassign a shortcut key combination that is already in use, you must first delete the existing key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T104802Z" creationid="briga" creationdate="20180823T104802Z">
+        <seg>Se così non fosse, e desiderate riassegnare una combinazione di tasti di scelta rapida già in uso, dovete prima eliminare il tasto esistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If more than one document is open and you want to close one of them, go to &lt;f0&gt;File &gt; Close&lt;/f0&gt; on the Menu bar or click on the X on the title bar of that document’s window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133302Z" creationid="Marco Marega" creationdate="20180623T133302Z">
@@ -27244,6 +27252,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152350Z" creationid="Elisabetta Manuele" creationdate="20180625T152350Z">
         <seg>Tasti di scelta rapida per oggetti di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut keys that are grayed-out in the listing on the Customize dialog, such as &lt;f0&gt;F1&lt;/f0&gt; and &lt;f1&gt;F10&lt;/f1&gt;, are not available for reassignment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T104905Z" creationid="briga" creationdate="20180823T104905Z">
+        <seg>Le combinazioni di tasti che appaiono marcate in grigio nell'elenco della finestra di dialogo Personalizza, come &lt;f0&gt;F1&lt;/f0&gt; e &lt;f1&gt;F10,&lt;/f1&gt; non possono essere riassegnate.</seg>
       </tuv>
     </tu>
     <tu>
