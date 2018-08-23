@@ -8348,8 +8348,8 @@
       <tuv lang="EN">
         <seg>Choose the shortcut keys you want to assign a style to.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154733Z" creationid="luke" creationdate="20180514T154733Z">
-        <seg>Choose the shortcut keys you want to assign a style to.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123138Z" creationid="luke" creationdate="20180514T154733Z">
+        <seg>Scegliete la combinazione di tasti a cui volete assegnare uno stile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8758,6 +8758,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z" creationid="luke" creationdate="20180515T090036Z">
         <seg>Click &lt;f0&gt;Slide Show &gt; Start from first Slide&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Tools &gt; Customize &gt; Keyboard&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123047Z" creationid="briga" creationdate="20180823T123047Z">
+        <seg>Fate clic su &lt;f0&gt;Strumenti &gt; Personalizza&gt; Tastiera&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19671,6 +19679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Functions&lt;/f0&gt; section at the bottom of the dialog, scroll down in the &lt;f1&gt;Category&lt;/f1&gt; list to &lt;f2&gt;Styles&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123155Z" creationid="briga" creationdate="20180823T123155Z">
+        <seg>Nella sezione &lt;f0&gt;Funzioni&lt;/f0&gt; nella parte bassa della finestra di dialogo, scorrete l'elenco &lt;f1&gt;Categoria&lt;/f1&gt; fino alla voce &lt;f2&gt;Stili&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Insert reference to&lt;/f0&gt; list, choose the format required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163326Z" creationid="manuel" creationdate="20180628T163326Z">
@@ -19971,6 +19987,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144733Z" creationid="manuel" creationdate="20180608T144733Z">
         <seg>In questo caso, non ha importanza dove sia registrata la struttura di cartelle a cui si fa riferimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this example, we have chosen &lt;f0&gt;Ctrl+9&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123143Z" creationid="briga" creationdate="20180823T123143Z">
+        <seg>In questo esempio si è scelto &lt;f0&gt;Ctrl+9&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27704,6 +27728,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some shortcuts are predefined, such as &lt;f0&gt;Ctrl+0&lt;/f0&gt; for the &lt;f1&gt;Text body&lt;/f1&gt; paragraph style, &lt;f2&gt;Ctrl+1&lt;/f2&gt; for the &lt;f3&gt;Heading 1&lt;/f3&gt; style, and &lt;f4&gt;Ctrl+2&lt;/f4&gt; for &lt;f5&gt;Heading 2&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123036Z" creationid="briga" creationdate="20180823T123036Z">
+        <seg>Alcune combinazioni di tasti sono predefinite, come &lt;f0&gt;Ctrl+0&lt;/f0&gt; per lo stile di paragrafo &lt;f1&gt;Corpo del testo&lt;/f1&gt;, &lt;f2&gt;Ctrl+1&lt;/f2&gt; per lo stile &lt;f3&gt;Intestazione 1&lt;/f3&gt;, e &lt;f4&gt;Ctrl+2&lt;/f4&gt; per &lt;f5&gt;Intestazione 2&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Someone taking orders might enter the information for each order into a database using a form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164543Z" creationid="manuel" creationdate="20180628T164543Z">
@@ -28789,6 +28821,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181708Z" creationid="Elisabetta Manuele" creationdate="20180627T181637Z">
         <seg>Java JDK/JRE è necessario solo per alcune funzioni, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Keyboard page of the Customize dialog opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123104Z" creationid="briga" creationdate="20180823T123104Z">
+        <seg>Si aprirà la scheda Tastiera della finestra di dialogo Personalizza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31617,6 +31657,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This enables the &lt;f1&gt;Modify&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123147Z" creationid="briga" creationdate="20180823T123147Z">
+        <seg>Si attiva così il pulsante &lt;f1&gt;Cambia&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This feature is disabled when in &lt;f3&gt;Record &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Changes&lt;/f5&gt;&lt;/f4&gt; mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T102416Z" creationid="manuel" creationdate="20180618T065123Z">
@@ -33310,8 +33358,8 @@
       <tuv lang="EN">
         <seg>To have the shortcut key assignment available only with one component (for example, Writer), select that component’s name in the upper right corner of the page; otherwise select &lt;f0&gt;LibreOffice&lt;/f0&gt; to make it available to every component.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154737Z" creationid="luke" creationdate="20180514T154737Z">
-        <seg>To have the shortcut key assignment available only with one component (for example, Writer), select that component’s name in the upper right corner of the page; otherwise select &lt;f0&gt;LibreOffice&lt;/f0&gt; to make it available to every component.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123134Z" creationid="luke" creationdate="20180514T154737Z">
+        <seg>Per disporre dell'assegnazione di una combinazione di tasti per un solo componente (ad esempio Writer), selezionate il nome di quel componente nell'angolo in alto a destra della pagina; oppure selezionate &lt;f0&gt;LibreOffice&lt;/f0&gt; per renderlo disponibile per tutti i componenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38403,6 +38451,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155815Z" creationid="manuel" creationdate="20180612T155815Z">
         <seg>Potete modificare entrambi i tipi di stili in diversi modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify these shortcuts and create your own.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T123040Z" creationid="briga" creationdate="20180823T123040Z">
+        <seg>È possibile modificare i tasti assegnati e crearne di nuovi.</seg>
       </tuv>
     </tu>
     <tu>
