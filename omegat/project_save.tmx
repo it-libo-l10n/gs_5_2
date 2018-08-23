@@ -13559,6 +13559,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;358&lt;/seq0&gt;: Adding a Send Fax command to a toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T072508Z" creationid="briga" creationdate="20180823T072508Z">
+        <seg>Figura &lt;seq0&gt;358&lt;/seq0&gt;: aggiunta del comando Invia fax a una barra degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: OpenCL options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140854Z" creationid="manuel" creationdate="20180608T140854Z">
@@ -19403,6 +19411,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160633Z" creationid="manuel" creationdate="20180616T160633Z">
         <seg>Oltre a tutte le tradizionali funzionalità degli elaboratori di testi (controllo ortografico, sinonimi, sillabazione, correzione automatica, funzione "trova e sostituisci", generazione automatica di indici e indici analitici, stampa in serie e altre), Writer offre queste &lt;i0/&gt;importanti funzionalità&lt;i1/&gt;&lt;i2/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to using the &lt;i0/&gt;built-in &lt;i1/&gt;keyboard shortcuts (listed in Appendix A), you can define your own.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T072609Z" creationid="briga" creationdate="20180823T072609Z">
+        <seg>In addition to using the &lt;i0/&gt;built-in &lt;i1/&gt;keyboard shortcuts (listed in Appendix A), you can define your own.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39111,6 +39127,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>assigning</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T072605Z" creationid="briga" creationdate="20180823T072605Z">
+        <seg>assegnare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>automatically advance</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z" creationid="luke" creationdate="20180515T090031Z">
@@ -40147,6 +40171,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184620Z" creationid="Marco Marega" creationdate="20180713T184620Z">
         <seg>tasti della tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T072601Z" creationid="briga" creationdate="20180823T072601Z">
+        <seg>tasti di scelta rapida</seg>
       </tuv>
     </tu>
     <tu>
