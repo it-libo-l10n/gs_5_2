@@ -13743,6 +13743,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;360&lt;/seq0&gt;: Using the Extension Manager</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130701Z" creationid="briga" creationdate="20180823T130701Z">
+        <seg>Figura &lt;seq0&gt;360&lt;/seq0&gt;: uso del Gestore estensioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Choosing Load and Save options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142810Z" creationid="manuel" creationdate="20180608T142810Z">
@@ -19695,6 +19703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In all cases, during the process you may be asked to accept a license agreement.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130636Z" creationid="briga" creationdate="20180823T130636Z">
+        <seg>È possibile che vi venga richiesto di accettare un contratto di licenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In all three cases you are initially asked if you want to transform the object to a curve.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150429Z" creationid="manuel" creationdate="20180705T150429Z">
@@ -23116,6 +23132,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T111127Z" creationid="manuel" creationdate="20180616T111127Z">
         <seg>Non potete eliminare i modelli installati con Gestione estensione a meno che non eliminate prima l'estensione che li ha installati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normal users without those privileges can install, remove, or modify extensions only for their own use (&lt;f2&gt;user&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130615Z" creationid="briga" creationdate="20180823T130615Z">
+        <seg>Gli utenti normali, senza tali privilegi, possono installare, rimuovere, o modificare le estensioni solo per uso personale (&lt;f2&gt;utente&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29913,6 +29937,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The extension begins installing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130629Z" creationid="briga" creationdate="20180823T130629Z">
+        <seg>Si avvierà l'installazione dell'estensione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The fields of a database are the &lt;t0/&gt;elements.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154042Z" creationid="manuel" creationdate="20180715T154042Z">
@@ -33660,6 +33692,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To get extensions that are listed in the repository, you can open the Extension Manager and click the &lt;f0&gt;Get more extensions online&lt;/f0&gt; link.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130650Z" creationid="briga" creationdate="20180823T130650Z">
+        <seg>Per scaricare le estensioni presenti nell'archivio potete aprire il Gestore estensioni e fare clic sul collegamento &lt;f0&gt;Ulteriori estensioni in linea&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To get the software, access your mobile device application store, either Google Play Store for Android devices or Apple Store for IOs devices.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090048Z" creationid="luke" creationdate="20180515T090048Z">
@@ -36903,6 +36943,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the installation is complete, the extension is listed in the Extension Manager dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130642Z" creationid="briga" creationdate="20180823T130642Z">
+        <seg>Quando l'installazione è completa, l'estensione compare nell'elenco della finestra di dialogo Gestione estensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the package installation is complete, restart LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160602Z" creationid="manuel" creationdate="20180615T160602Z">
@@ -39331,6 +39379,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T182048Z" creationid="Elisabetta Manuele" creationdate="20180627T182048Z">
         <seg>Non è necessario richiedere un'autorizzazione speciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not need to download them separately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130652Z" creationid="briga" creationdate="20180823T130652Z">
+        <seg>Non è necessario scaricarle separatamente.</seg>
       </tuv>
     </tu>
     <tu>
