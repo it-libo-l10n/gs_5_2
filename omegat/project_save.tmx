@@ -5696,6 +5696,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All existing shortcut keys for the currently selected &lt;f0&gt;Function&lt;/f0&gt; are listed in the &lt;f1&gt;Keys&lt;/f1&gt; selection box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T104156Z" creationid="briga" creationdate="20180823T104156Z">
+        <seg>Tutte le combinazioni di tasti esistenti per la &lt;f0&gt;Funzione&lt;/f0&gt; selezionata sono elencati nel riquadro di selezione &lt;f1&gt;Tasti&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All of the files created by this engine, including the database forms, are kept in one zipped file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153043Z" creationid="manuel" creationdate="20180715T153043Z">
@@ -17775,6 +17783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;f2&gt;Keys&lt;/f2&gt; list is empty, it indicates that the chosen key combination is free for use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T104745Z" creationid="briga" creationdate="20180823T104745Z">
+        <seg>Se l'elenco &lt;f2&gt;Tasti&lt;/f2&gt; è vuoto, vuol dire che la combinazione di tasti scelta è libera e può essere utilizzata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;f2&gt;default currency&lt;/f2&gt; is changed, all dialogs involving currency and all currency icons will be changed in all open documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062623Z" creationid="manuel" creationdate="20180609T062623Z">
@@ -22972,6 +22988,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T140612Z" creationid="manuel" creationdate="20180621T140005Z">
         <seg>In questo modo i pulsanti &lt;f0&gt;Precedente&lt;/f0&gt; e &lt;f1&gt;Successivo&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; (nel Navigatore, nella barra degli strumenti di navigazione e su &lt;f3&gt;Trova&lt;/f3&gt;della &lt;f4&gt;barra strumenti&lt;/f4&gt;) porteranno all'oggetto &lt;f5&gt;precedente o&lt;/f5&gt; successivo della tipologia selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now the chosen shortcut keys will execute the function chosen in step 3 above whenever they are pressed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T104057Z" creationid="briga" creationdate="20180823T104057Z">
+        <seg>A questo punto la combinazione di tasti scelta eseguirà la funzione scelta nel passo 3 descritto sopra, ogni qualvolta verrà premuta.</seg>
       </tuv>
     </tu>
     <tu>
