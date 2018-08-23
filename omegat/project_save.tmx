@@ -8770,6 +8770,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f1&gt;OK&lt;/f1&gt; and then click &lt;f2&gt;Close&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T072449Z" creationid="briga" creationdate="20180823T072442Z">
+        <seg>Fate clic su &lt;f1&gt;OK&lt;/f1&gt; e poi su &lt;f2&gt;Chiudi&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f1&gt;OK&lt;/f1&gt; to save.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T075428Z" creationid="manuel" creationdate="20180627T075428Z">
@@ -13539,6 +13547,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T094029Z" creationid="briga" creationdate="20180821T094029Z">
         <seg>Figura &lt;seq0&gt;356&lt;/seq0&gt;: finestra di dialogo Cambia icona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;357&lt;/seq0&gt;: Setting up LibreOffice for sending faxes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T072459Z" creationid="briga" creationdate="20180823T072459Z">
+        <seg>Figura &lt;seq0&gt;357&lt;/seq0&gt;: impostare LibreOffice per l'invio di fax</seg>
       </tuv>
     </tu>
     <tu>
@@ -38947,6 +38963,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151505Z" creationid="Elisabetta Manuele" creationdate="20180625T151505Z">
         <seg>Le prime macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your toolbar now has a new icon to send the current document as a fax.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T072452Z" creationid="briga" creationdate="20180823T072452Z">
+        <seg>A questo punto sulla barra degli strumenti compare la nuova icona per inviare il documento corrente come fax.</seg>
       </tuv>
     </tu>
     <tu>
