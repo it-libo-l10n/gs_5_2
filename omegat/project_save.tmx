@@ -6322,8 +6322,8 @@
       <tuv lang="EN">
         <seg>Appendix A &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T084308Z" creationid="luke" creationdate="20180515T084308Z">
-        <seg>Appendix A &lt;s0/&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T131511Z" creationid="luke" creationdate="20180515T084308Z">
+        <seg>Appendice A &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6596,6 +6596,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151826Z" creationid="Elisabetta Manuele" creationdate="20180625T151826Z">
         <seg>Assegnare combinazioni di tasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assistive tools in LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T131612Z" creationid="briga" creationdate="20180823T131612Z">
+        <seg>Assistive tools in LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -15759,6 +15767,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For shortcuts specific to Writer, Calc, Impress, Draw, or Base, read the relevant component guide or search the application Help.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T131540Z" creationid="briga" creationdate="20180823T131540Z">
+        <seg>Per le combinazioni di tasti specifiche per Writer, Calc, Impress, Draw, o Base, leggete la guida del rispettivo componente, o cercate l'Aiuto dell'applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For some seldom-used commands, you must always enter the &lt;/f9&gt;&lt;f10&gt;command using the &lt;/f10&gt;&lt;f11&gt;markup &lt;/f11&gt;&lt;f12&gt;language&lt;/f12&gt;&lt;f13&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T183900Z" creationid="Marco Marega" creationdate="20180817T183900Z">
@@ -21059,6 +21075,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123011Z" creationid="Marco Marega" creationdate="20180622T123011Z">
         <seg>Conservare i file su server remoti vi consente di lavorare con i documenti usando diversi computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyboard Shortcuts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T131513Z" creationid="briga" creationdate="20180823T131513Z">
+        <seg>Tasti di scelta rapida</seg>
       </tuv>
     </tu>
     <tu>
@@ -27976,6 +28000,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the shortcuts listed here may not work if your operating system uses the same shortcuts for other tasks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T131545Z" creationid="briga" creationdate="20180823T131545Z">
+        <seg>Alcune combinazioni di tasti qui elencate potrebbero non funzionare se il vostro sistema operativo usa le stesse combinazioni per altri compiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of these additional toolbars are context sensitive and will automatically appear depending on the position of the cursor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T183649Z" creationid="Marco Marega" creationdate="20180620T183649Z">
@@ -31777,6 +31809,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This appendix lists some of the most common built-in keyboard shortcuts that apply to all components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T131535Z" creationid="briga" creationdate="20180823T131535Z">
+        <seg>Questa appendice elenca alcune delle più comuni combinazioni di tasti di scelta rapida già integrate, che si applicano a tutti i componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This area is blank when in Insert mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064654Z" creationid="manuel" creationdate="20180618T064654Z">
@@ -34345,6 +34385,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065441Z" creationid="manuel" creationdate="20180707T065441Z">
         <seg>Per ridimensionare un oggetto lungo un asse, usate una maniglia laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To resolve any conflicts, assign different keys to these shortcuts by reconfiguring either LibreOffice (see Chapter 14) or your operating system (see system documentation).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T131639Z" creationid="briga" creationdate="20180823T131604Z">
+        <seg>Per risolvere eventuali conflitti, assegnate tasti differenti a queste combinazioni, riconfigurando LibreOffice [vedere il Capitolo 14 (Personalizzare LibreOffice)] o il vostro sistema operativo (vedere la documentazione del sistema).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39235,6 +39283,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T202720Z" creationid="Marco Marega" creationdate="20180527T210921Z">
         <seg>Potete usare Draw per creare disegni da utilizzare in qualsiasi altro componente di LibreOffice e potete creare da soli delle clipart da aggiungere poi alla Galleria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use LibreOffice without requiring a pointing device, such as a mouse or touchpad, by using its built-in keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T131525Z" creationid="briga" creationdate="20180823T131525Z">
+        <seg>È possibile utilizzare LibreOffice senza un dispositivo di puntamento, come un mouse o un touchpad, utilizzando i tasti di scelta rapida integrati.</seg>
       </tuv>
     </tu>
     <tu>
