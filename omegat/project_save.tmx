@@ -11375,6 +11375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Directly from &lt;f0&gt;Tools &gt; Extension Manager&lt;/f0&gt;, &lt;f1&gt;as follows:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130029Z" creationid="briga" creationdate="20180823T130029Z">
+        <seg>Directly from &lt;f0&gt;Tools &gt; Extension Manager&lt;/f0&gt;, &lt;f1&gt;as follows:&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Directly from a scanner (&lt;f0&gt;Insert &gt; Picture &gt; Scan&lt;/f0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105245Z" creationid="manuel" creationdate="20180705T105245Z">
@@ -19667,6 +19675,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150429Z" creationid="manuel" creationdate="20180705T150429Z">
         <seg>In tutti e tre i casi viene chiesto inizialmente se si desidera trasformare l'oggetto in una curva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In both cases, after the Extension Manager opens, a warning dialog opens for you to verify the installation and then continue.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130018Z" creationid="briga" creationdate="20180823T130018Z">
+        <seg>In entrambi i casi, dopo l'apertura del Gestore Estensioni, apparirà una finestra di dialogo di avvertimento che permette di verificare l'installazione e poi continuare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29877,6 +29893,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085934Z" creationid="luke" creationdate="20180515T085934Z">
         <seg>The fields you can use in Impress are as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The file is installed as a “user only” file in a multi-user system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130027Z" creationid="briga" creationdate="20180823T130027Z">
+        <seg>In un sistema multiutente il file viene installato per il singolo utente.</seg>
       </tuv>
     </tu>
     <tu>
