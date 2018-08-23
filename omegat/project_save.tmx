@@ -4864,6 +4864,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A file browser window opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130156Z" creationid="briga" creationdate="20180823T130156Z">
+        <seg>Si aprirà una finestra di esplorazione file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A filled curve automatically joins the last point to the first point to close off the figure and fills it with the current standard fill color.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104001Z" creationid="manuel" creationdate="20180704T104001Z">
@@ -11377,8 +11385,8 @@
       <tuv lang="EN">
         <seg>Directly from &lt;f0&gt;Tools &gt; Extension Manager&lt;/f0&gt;, &lt;f1&gt;as follows:&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130029Z" creationid="briga" creationdate="20180823T130029Z">
-        <seg>Directly from &lt;f0&gt;Tools &gt; Extension Manager&lt;/f0&gt;, &lt;f1&gt;as follows:&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130124Z" creationid="briga" creationdate="20180823T130029Z">
+        <seg>Direttamente da &lt;f0&gt;Strumenti &gt; Gestione estensioni&lt;/f0&gt;, &lt;f1&gt;come segue:&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14467,6 +14475,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143026Z" creationid="manuel" creationdate="20180616T143026Z">
         <seg>Trovate e selezionate la &lt;f0&gt;categoria dove volete importare il &lt;/f0&gt;modello e fate clic su &lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find and select the extension you want to install and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130200Z" creationid="briga" creationdate="20180823T130200Z">
+        <seg>Trovate e selezionate l'estensione che volete installare e fate clic su &lt;f0&gt;Apri&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19415,6 +19431,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In LibreOffice, select &lt;f0&gt;Tools &gt; Extension Manager&lt;/f0&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130130Z" creationid="briga" creationdate="20180823T130130Z">
+        <seg>In LibreOffice, selezionate &lt;f0&gt;Strumenti &gt; Gestione Estensioni&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In LibreOffice, when something happens, we say that an event occurred.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T124924Z" creationid="briga" creationdate="20180823T124924Z">
@@ -19947,6 +19971,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065144Z" creationid="manuel" creationdate="20180614T065144Z">
         <seg>Nella finestra di dialogo Crea stile, digitate un nome per il nuovo stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Extension Manager dialog (Figure &lt;t0&gt;360&lt;/t0&gt;), click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130153Z" creationid="briga" creationdate="20180823T130153Z">
+        <seg>Nella finestra di dialogo Gestione estensioni (&lt;t0&gt;Figura 360&lt;/t0&gt;) fate clic su &lt;f1&gt;Aggiungi&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30617,6 +30649,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The option to view the extensions bundled with LibreOffice can be deselected to view more easily those installations that have been added by a user.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130142Z" creationid="briga" creationdate="20180823T130142Z">
+        <seg>L'opzione per visualizzare le estensioni incorporate in LibreOffice può essere deselezionata per vedere più facilmente le installazioni effettuate dall'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The options for importing CSV files into a Calc spreadsheet are as follows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T214727Z" creationid="Marco Marega" creationdate="20180712T214727Z">
@@ -35690,6 +35730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073154Z" creationid="manuel" creationdate="20180606T073154Z">
         <seg>Gli utenti possono firmare digitalmente i documenti usando LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users with administrator or root privileges will see a dialog where they can choose to install extensions “for all users” (&lt;f0&gt;shared&lt;/f0&gt;) or “only for me” (&lt;f1&gt;user&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T130202Z" creationid="briga" creationdate="20180823T130202Z">
+        <seg>Users with administrator or root privileges will see a dialog where they can choose to install extensions “for all users” (&lt;f0&gt;shared&lt;/f0&gt;) or “only for me” (&lt;f1&gt;user&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
