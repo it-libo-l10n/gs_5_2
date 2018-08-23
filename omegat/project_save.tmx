@@ -4743,6 +4743,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A current list of supported assistive tools can be found on the Wiki at &lt;a0&gt;http://wiki.documentfoundation.org/Accessibility&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132410Z" creationid="briga" creationdate="20180823T132410Z">
+        <seg>Potete trovare un elenco completo degli strumenti di accesso facilitato sul Wiki all'indirizzo &lt;a0&gt;http://wiki.documentfoundation.org/Accessibility&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A curve without filling will not be closed at the end of the drawing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104015Z" creationid="manuel" creationdate="20180704T104015Z">
@@ -32573,6 +32581,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085940Z" creationid="luke" creationdate="20180515T085940Z">
         <seg>Suggerimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tip for Macintosh users</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132411Z" creationid="briga" creationdate="20180823T132411Z">
+        <seg>Tip for Macintosh users</seg>
       </tuv>
     </tu>
     <tu>
