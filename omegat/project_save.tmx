@@ -8138,6 +8138,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check the descriptions to see what licenses and fees apply to the ones that interest you.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T125553Z" creationid="briga" creationdate="20180823T125553Z">
+        <seg>Consultate la descrizione per sapere quali licenze e contributi si applicano a quelle che sono di vostro interesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checkbox (more than one can be selected at a time).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174842Z" creationid="Elisabetta Manuele" creationdate="20180627T174842Z">
@@ -11375,6 +11383,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Directly from the *.oxt file in your system’s file browser: &lt;f0&gt;double-click the file.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T125713Z" creationid="briga" creationdate="20180823T125713Z">
+        <seg>Direttamente da un file *.oxt salvato in una vostra cartella: &lt;f0&gt;fate doppio clic sul file&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Disabling Quickstarter</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T211842Z" creationid="Marco Marega" creationdate="20180616T211842Z">
@@ -12699,6 +12715,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191649Z" creationid="Marco Marega" creationdate="20180528T191649Z">
         <seg>Sono disponibili estensioni e componenti aggiuntivi per ottimizzare LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extensions can be installed in any of these ways:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T125628Z" creationid="briga" creationdate="20180823T125628Z">
+        <seg>Le estensioni possono essere installate in uno di questi diversi modi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16067,6 +16091,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143241Z" creationid="manuel" creationdate="20180621T143241Z">
         <seg>Da questo punto in poi, &lt;f0&gt;tutte le modifiche attuate nel documento verranno salvate solo nel nuovo documento&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From your web browser, if it can be configured to open this file type from a web page hyperlink: select the hyperlink, and then select to Open the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T125952Z" creationid="briga" creationdate="20180823T125952Z">
+        <seg>Dal browser web se lo stesso può essere configurato per aprire questo tipo di file da un collegamento ipertestuale di una pagina web, facendo clic sul collegamento e selezionando Apri il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20383,6 +20415,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing extensions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T125556Z" creationid="briga" creationdate="20180823T125556Z">
+        <seg>Installazione delle estensioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing individual templates</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160241Z" creationid="manuel" creationdate="20180615T160241Z">
@@ -24120,6 +24160,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Others can be downloaded from various websites.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T125535Z" creationid="briga" creationdate="20180823T125535Z">
+        <seg>Altre possono essere scaricate da vari siti web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, continue typing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T113442Z" creationid="manuel" creationdate="20180626T113442Z">
@@ -27376,6 +27424,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several extensions are shipped bundled with LibreOffice and are installed with the program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T125512Z" creationid="briga" creationdate="20180823T125512Z">
+        <seg>LibreOffice viene fornito con diverse estensioni già incorporate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several types of arrowheads are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T110007Z" creationid="manuel" creationdate="20180707T110007Z">
@@ -27796,6 +27852,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175348Z" creationid="Elisabetta Manuele" creationdate="20180627T175348Z">
         <seg>Alcune finestre di dialogo possono rimanere aperte durante il lavoro, così da poter spostarvi avanti e indietro tra la finestra di dialogo e il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some extensions from other sources are free of charge; others are available for a fee.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T125550Z" creationid="briga" creationdate="20180823T125550Z">
+        <seg>Alcune estensioni da altri siti sono gratuite; altre sono soggette al pagamento di un contributo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30505,6 +30569,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The official extension repository is located at &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T125541Z" creationid="briga" creationdate="20180823T125541Z">
+        <seg>L'archivio ufficiale delle estensioni si trova all'indirizzo &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The one or two hyphens will be replaced by an en-dash.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134206Z" creationid="manuel" creationdate="20180622T134206Z">
@@ -31345,6 +31417,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These can only be removed by changing the installation options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T125530Z" creationid="briga" creationdate="20180823T125530Z">
+        <seg>Queste possono essere rimosse solo cambiando le opzioni di installazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These capabilities are only effective if print layout export is activated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165848Z" creationid="manuel" creationdate="20180608T165848Z">
@@ -31413,6 +31493,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T184956Z" creationid="Marco Marega" creationdate="20180708T184956Z">
         <seg>Queste finestre di dialogo impediscono l'accesso al documento per la modifica fino a quando non vengono chiuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These extensions are free of charge.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T125543Z" creationid="briga" creationdate="20180823T125543Z">
+        <seg>Queste estensioni sono gratuite.</seg>
       </tuv>
     </tu>
     <tu>
