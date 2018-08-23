@@ -4695,6 +4695,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A confirmation dialog appears if you are about to overwrite an existing file, otherwise there will be no feedback and the file will be saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124818Z" creationid="briga" creationdate="20180823T124818Z">
+        <seg>Se state per sovrascrivere un file esistente comparirà una finestra di conferma, altrimenti il file verrà salvato senza alcuna richiesta di conferma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A confirmation dialog will warn you that you will discard your last changes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T132538Z" creationid="Marco Marega" creationdate="20180623T132538Z">
@@ -18703,6 +18711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need to, browse to find a file from another location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124807Z" creationid="briga" creationdate="20180823T124807Z">
+        <seg>Se necessario, sfogliate per trovare un file in un'altra posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you notice unexpected formatting changes occurring in your document, this is the first place to look for the cause.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160530Z" creationid="manuel" creationdate="20180626T160530Z">
@@ -21556,6 +21572,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152644Z" creationid="manuel" creationdate="20180608T152644Z">
         <seg>Carica/Salva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading a saved keyboard configuration</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124822Z" creationid="briga" creationdate="20180823T124822Z">
+        <seg>Caricare una configurazione di tasti salvata</seg>
       </tuv>
     </tu>
     <tu>
@@ -25052,6 +25076,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161610Z" creationid="manuel" creationdate="20180615T161610Z">
         <seg>Ripristinare il modello predefinito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resetting the shortcut keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124843Z" creationid="briga" creationdate="20180823T124843Z">
+        <seg>Ripristino dei tasti di scelta rapida</seg>
       </tuv>
     </tu>
     <tu>
@@ -32333,6 +32365,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161335Z" creationid="manuel" creationdate="20180628T161335Z">
         <seg>Per &lt;i0/&gt;inserire un riferimento incrociato ad una intestazione, figura, segnalibro, o altro elemento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;i0/&gt;load a saved keyboard configuration file and replace your existing configuration, click the &lt;f1&gt;Load&lt;/f1&gt; button at the right of the Customize dialog, and then select the configuration file from the Load Keyboard Configuration dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124839Z" creationid="briga" creationdate="20180823T124839Z">
+        <seg>Per &lt;i0/&gt;caricare un file di configurazione tasti salvato e sostituire la configurazione esistente, fate clic sul pulsante &lt;f1&gt;Carica&lt;/f1&gt; che si trova nella parte destra della finestra di dialogo Personalizza, poi selezionate il file di configurazione dalla finestra di dialogo Carica configurazione della tastiera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40539,6 +40579,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153819Z" creationid="manuel" creationdate="20180608T153819Z">
         <seg>carica codice Basic per modifica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>loading from a file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180823T124825Z" creationid="briga" creationdate="20180823T124825Z">
+        <seg>caricare da un file</seg>
       </tuv>
     </tu>
     <tu>
