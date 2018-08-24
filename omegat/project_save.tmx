@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3963,6 +3963,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212450Z" creationid="Marco Marega" creationdate="20180808T212450Z">
         <seg>&lt;f0&gt;Giorno feriale&lt;/f0&gt; – usate il tipo di serie Data e questa opzione per creare delle serie usando un incremento giornaliero ed usando solo i cinque giorni feriali della settimana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;When braces are used in markup language, they are used to define&lt;/f0&gt; the layout of the &lt;f1&gt;formula&lt;/f1&gt; and are not &lt;f2&gt;displayed or &lt;/f2&gt;printed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T104621Z" creationid="Marco Marega" creationdate="20180824T104621Z">
+        <seg>&lt;f0&gt;Quando vengono usate nel linguaggio di markup le parentesi graffe, servono a specificare &lt;/f0&gt; la disposizione degli elementi nella &lt;f1&gt;formula&lt;/f1&gt; e non vengono né &lt;f2&gt;visualizzate &lt;/f2&gt;né stampate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18419,6 +18427,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184400Z" creationid="Marco Marega" creationdate="20180817T184400Z">
         <seg>Se siete degli &lt;/f28&gt;&lt;f29&gt;esperti nell'uso del linguaggio di&lt;/f29&gt;&lt;f30&gt; markup &lt;/f30&gt;&lt;f31&gt;&lt;/f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;f33&gt;questo&lt;/f33&gt;&lt;f34&gt; può essere il modo &lt;/f34&gt;&lt;f35&gt;più veloce&lt;/f35&gt;&lt;f36&gt; per inserire una formula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you &lt;f3&gt;want&lt;/f3&gt; to use&lt;f4&gt; &lt;/f4&gt;braces &lt;f5&gt;with&lt;/f5&gt;in &lt;f6&gt;your&lt;/f6&gt; formula, &lt;f7&gt;you &lt;/f7&gt;use the commands &lt;f8&gt;&lt;f9&gt;lbrace&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;and &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;rbrace&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;within the markup language.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T104819Z" creationid="Marco Marega" creationdate="20180824T104819Z">
+        <seg>Se &lt;f3&gt;volete&lt;/f3&gt; utilizzare delle &lt;f4&gt; &lt;/f4&gt;parentesi graffe &lt;f5&gt;all'&lt;/f5&gt;interno &lt;f6&gt;della&lt;/f6&gt; formula, nel codice di markup &lt;f7&gt;dovete&lt;/f7&gt; usare i comandi &lt;f8&gt;&lt;f9&gt;lbrace&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;e &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;rbrace&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;.&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
