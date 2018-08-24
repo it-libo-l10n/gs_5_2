@@ -1934,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A&lt;/f0&gt;&lt;f1&gt; backslash \ &lt;/f1&gt;&lt;f2&gt;is placed before a non-scalable bracket &lt;/f2&gt;&lt;f3&gt;to indicate that the following character should not be regarded as a bracket, but as a literal character.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T112430Z" creationid="Marco Marega" creationdate="20180824T112430Z">
+        <seg>&lt;f0&gt;Inserite una&lt;/f0&gt;&lt;f1&gt; barra retroversa \ &lt;/f1&gt;&lt;f2&gt;is prima di una parentesi non-ridimensionabile &lt;/f2&gt;&lt;f3&gt;per indicare che il carattere seguente non deve essere interpretato come una parentesi, ma come un carattere letterale.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Adding&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;braces&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;to &lt;/f4&gt;&lt;f5&gt;into the markup language&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; {1 over 2}&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;gives the result&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;df12&gt;&lt;d13/&gt;&lt;di14/&gt;&lt;s15&gt;formula&lt;/s15&gt;&lt;/df12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f16&gt;and the whole fraction is now &lt;/f16&gt;&lt;f17&gt;negative&lt;/f17&gt;&lt;f18&gt;.&lt;/f18&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T212816Z" creationid="Marco Marega" creationdate="20180822T211437Z">
