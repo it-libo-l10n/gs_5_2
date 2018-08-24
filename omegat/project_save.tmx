@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;&lt;f2&gt;If&lt;/f2&gt;&lt;f3&gt; you forget &lt;/f3&gt;&lt;f4&gt;to add &lt;/f4&gt;&lt;f5&gt;a &lt;/f5&gt;&lt;f6&gt;closing &lt;/f6&gt;&lt;f7&gt;bracket, Math places an inverted question mark &lt;/f7&gt;&lt;f8&gt;next to&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;where &lt;/f10&gt;&lt;f11&gt;the &lt;/f11&gt;&lt;f12&gt;closing&lt;/f12&gt;&lt;f13&gt; bracket &lt;/f13&gt;&lt;f14&gt;should have been placed&lt;/f14&gt;&lt;f15&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T111719Z" creationid="Marco Marega" creationdate="20180824T111719Z">
+        <seg>&lt;/f1&gt;&lt;f2&gt;Se&lt;/f2&gt;&lt;f3&gt; vi dimenticate &lt;/f3&gt;&lt;f4&gt;di chiudere &lt;/f4&gt;&lt;f5&gt;una &lt;/f5&gt;&lt;f6&gt;parentesi &lt;/f6&gt;&lt;f7&gt;, Math inserirà un punto di domanda capovolto &lt;/f7&gt;&lt;f8&gt;a lato del punto&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;in cui &lt;/f10&gt;&lt;f11&gt;avreste dovuto posizionare &lt;/f11&gt;&lt;f12&gt;la parentesi &lt;/f12&gt;&lt;f13&gt; di chiusura&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;LibreOffice provides standardized means for sensitive information to be &lt;f2&gt;identifi&lt;/f2&gt;ed: a set of standard fields that can be used to hold sensitivity information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170622Z" creationid="manuel" creationdate="20180628T170622Z">
