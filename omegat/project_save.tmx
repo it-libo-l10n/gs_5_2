@@ -1878,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;x over {–x + 1}&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; gives the result&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T104848Z" creationid="Marco Marega" creationdate="20180824T104848Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;x over {–x + 1}&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; da come risultato &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;– 1 over 2&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; gives the result&lt;/f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T210847Z" creationid="Marco Marega" creationdate="20180822T210847Z">
@@ -3323,6 +3331,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T220634Z" creationid="Marco Marega" creationdate="20180712T220634Z">
         <seg>&lt;f0&gt;Campo tra virgolette come testo&lt;/f0&gt; – se questa opzione è abilitata, i campi o le celle i cui valori sono quotati per intero (il primo e l'ultimo carattere del  valore sono uguali al separatore di testo) vengono importati come testi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Replace the braces using the commands &lt;/f0&gt;&lt;f1&gt;lbrace&lt;/f1&gt;&lt;f2&gt; and &lt;/f2&gt;&lt;f3&gt;rbrace&lt;/f3&gt;&lt;f4&gt; in the markup language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T104948Z" creationid="Marco Marega" creationdate="20180824T104948Z">
+        <seg>&lt;f0&gt;Sostituite le parentesi graffe nel codice di markup con i comandi &lt;/f0&gt;&lt;f1&gt;lbrace&lt;/f1&gt;&lt;f2&gt; e &lt;/f2&gt;&lt;f3&gt;rbrace&lt;/f3&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
