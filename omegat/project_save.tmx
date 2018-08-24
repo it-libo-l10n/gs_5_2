@@ -3159,6 +3159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Normally, when you use brackets within a matrix, the brackets do not scale as the matrix increases in size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T105745Z" creationid="Marco Marega" creationdate="20180824T105745Z">
+        <seg>&lt;f0&gt;Di solito, quando usate le parentesi all'interno di una matrice, queste non si ridimensionano con l'aumentare delle dimensioni della matrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Note: &lt;/f0&gt;&lt;f1&gt;Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T172640Z" creationid="Elisabetta Manuele" creationdate="20180620T172640Z">
@@ -3811,6 +3819,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T131153Z" creationid="Marco Marega" creationdate="20180820T131153Z">
         <seg>&lt;f0&gt;All'interno della formula, per spostarvi da un segnaposto a quello successivo, premete il tasto &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;F4&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To overcome this problem, &lt;/f0&gt;&lt;f1&gt;LibreOffice Math provides scalable brackets &lt;/f1&gt;&lt;f2&gt;that&lt;/f2&gt;&lt;f3&gt; grow in size to match the size &lt;/f3&gt;&lt;f4&gt;of &lt;/f4&gt;&lt;f5&gt;a matrix&lt;/f5&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T110041Z" creationid="Marco Marega" creationdate="20180824T110041Z">
+        <seg>&lt;f0&gt;Per evitare questo problema, &lt;/f0&gt;&lt;f1&gt;LibreOffice Math mette a disposizione delle parentesi ridimensionabili &lt;/f1&gt;&lt;f2&gt;che&lt;/f2&gt;&lt;f3&gt; aumentano la loro grandezza per adeguarsi alle dimensioni &lt;/f3&gt;&lt;f4&gt;della &lt;/f4&gt;&lt;f5&gt;matrice&lt;/f5&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14883,6 +14899,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T112016Z" creationid="manuel" creationdate="20180626T112016Z">
         <seg>Per esempio, (c) verrà cambiato in ©.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;/f0&gt;&lt;f1&gt;( matrix { a # b ## c # d } )&lt;/f1&gt; &lt;f2&gt;gives the result&lt;/f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T105801Z" creationid="Marco Marega" creationdate="20180824T105801Z">
+        <seg>Ad esempio, &lt;/f0&gt;&lt;f1&gt;( matrix { a # b ## c # d } )&lt;/f1&gt; &lt;f2&gt;da come risultato&lt;/f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
