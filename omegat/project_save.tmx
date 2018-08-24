@@ -1798,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T114534Z" creationid="Marco Marega" creationdate="20180824T114534Z">
+        <seg>&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/math&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115408Z" creationid="Marco Marega" creationdate="20180815T115408Z">
@@ -3791,6 +3799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;&lt;f1&gt;o&lt;/f1&gt;&lt;f2&gt; create the correct formula, &lt;/f2&gt;&lt;f3&gt;c&lt;/f3&gt;&lt;f4&gt;hange the entry in the Formula Editor to &lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T114638Z" creationid="Marco Marega" creationdate="20180824T114638Z">
+        <seg>&lt;f0&gt;Per&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; ottenere la formula corretta, &lt;/f2&gt;&lt;f3&gt;modificate&lt;/f3&gt;&lt;f4&gt; come segue quanto inserito nell'Editor delle formule&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;o&lt;/f1&gt;ther &lt;f2&gt;o&lt;/f2&gt;ptions include searching only in selected text, searching from the current cursor position backwards toward the beginning of the file, searching for similar words, &lt;f3&gt;and searching in comments&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103457Z" creationid="manuel" creationdate="20180622T103457Z">
@@ -4307,6 +4323,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133646Z" creationid="Marco Marega" creationdate="20180820T133104Z">
         <seg>&lt;f0&gt;Supponiamo che vogliate&lt;/f0&gt; inserire la formula &lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;formula&lt;/s4&gt;&lt;/df1&gt;&lt;f5&gt;nella quale &lt;/f5&gt;il valore del pi greco &lt;f6&gt;sia &lt;/f6&gt;arrotondato a 5 cifre decimali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;abs &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;x = left lbrace stack {x "for" x &gt;= 0 # -x "for" x &lt; 0} right none&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T114728Z" creationid="Marco Marega" creationdate="20180824T114728Z">
+        <seg>&lt;f0&gt;abs &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;x = left lbrace stack {x "for" x &gt;= 0 # -x "for" x &lt; 0} right none&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
