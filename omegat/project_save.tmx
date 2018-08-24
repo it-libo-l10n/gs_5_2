@@ -1566,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f14&gt;&lt;f15&gt;The &lt;/f15&gt;&lt;f16&gt;formula&lt;/f16&gt;&lt;f17&gt; now becomes&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;\ [ a; b \ [&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; and the &lt;/f21&gt;&lt;f22&gt;result&lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;&lt;df25&gt;&lt;d26/&gt;&lt;di27/&gt;&lt;s28&gt;formula&lt;/s28&gt;&lt;/df25&gt;&lt;/f24&gt;&lt;/f23&gt;&lt;f29&gt;shows &lt;/f29&gt;&lt;f30&gt;unpaired &lt;/f30&gt;&lt;f31&gt;brackets without the inverted question mark&lt;/f31&gt;&lt;f32&gt;s&lt;/f32&gt;&lt;f33&gt;.&lt;/f33&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T112716Z" creationid="Marco Marega" creationdate="20180824T112716Z">
+        <seg>&lt;/f14&gt;&lt;f15&gt;La &lt;/f15&gt;&lt;f16&gt;formula&lt;/f16&gt;&lt;f17&gt; diventerà&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;\ [ a; b \ [&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; ed il &lt;/f21&gt;&lt;f22&gt;risultato&lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;&lt;df25&gt;&lt;d26/&gt;&lt;di27/&gt;&lt;s28&gt;formula&lt;/s28&gt;&lt;/df25&gt;&lt;/f24&gt;&lt;/f23&gt;&lt;f29&gt;mostra le &lt;/f29&gt;&lt;f30&gt;parentesi &lt;/f30&gt;&lt;f31&gt;spaiate senza il punto di domanda capovolto&lt;/f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;f33&gt;.&lt;/f33&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f14&gt;&lt;f15&gt;Using markup language in the Formula Editor places the formula &lt;/f15&gt;&lt;f16&gt;&lt;df17&gt;&lt;d18/&gt;&lt;di19/&gt;&lt;s20&gt;formula&lt;/s20&gt;&lt;/df17&gt;&lt;/f16&gt;&lt;f21&gt; directly into the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T130700Z" creationid="Marco Marega" creationdate="20180820T130700Z">
@@ -2587,6 +2595,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170202Z" creationid="manuel" creationdate="20180628T170202Z">
         <seg>&lt;f0&gt;Per i dettagli sull'uso dei documenti master, &lt;/f0&gt;vedere il Capitolo 1&lt;f1&gt;5&lt;/f1&gt; (Documenti master) nella &lt;f2&gt;Guida a Writer&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;For example, the unpaired brackets in the &lt;/f0&gt;&lt;f1&gt;formula&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;[ a; b [&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; are deliberate, &lt;/f5&gt;&lt;f6&gt;but gives the result&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;df9&gt;&lt;d10/&gt;&lt;di11/&gt;&lt;s12&gt;formula&lt;/s12&gt;&lt;/df9&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f13&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T112518Z" creationid="Marco Marega" creationdate="20180824T112518Z">
+        <seg>&lt;f0&gt;Ad esempio, le parentesi spaiate della &lt;/f0&gt;&lt;f1&gt;formula&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;[ a; b [&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; sono volute, &lt;/f5&gt;&lt;f6&gt;ma danno come risultato&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;df9&gt;&lt;d10/&gt;&lt;di11/&gt;&lt;s12&gt;formula&lt;/s12&gt;&lt;/df9&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f13&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25960,6 +25976,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scalable brackets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T112735Z" creationid="Marco Marega" creationdate="20180824T112735Z">
+        <seg>Parentesi ridimensionabili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Screen only checkbox</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080248Z" creationid="manuel" creationdate="20180531T080248Z">
@@ -33611,6 +33635,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create unpaired scalable brackets or braces in a formula, the markup commands &lt;f0&gt;&lt;f1&gt;left&lt;/f1&gt;&lt;/f0&gt;, &lt;f2&gt;&lt;f3&gt;right&lt;/f3&gt;&lt;/f2&gt;, and &lt;f4&gt;&lt;f5&gt;none&lt;/f5&gt;&lt;/f4&gt; are used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T114221Z" creationid="Marco Marega" creationdate="20180824T114221Z">
+        <seg>Per inserire in una formula delle parentesi, tonde o grafe, che siano ridimensionabili e spaiate, nel codice di markup dovete usare i comandi &lt;f0&gt;&lt;f1&gt;left&lt;/f1&gt;&lt;/f0&gt;, &lt;f2&gt;&lt;f3&gt;right&lt;/f3&gt;&lt;/f2&gt; e &lt;f4&gt;&lt;f5&gt;none&lt;/f5&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To customize the language settings in LibreOffice, you can do any of the following:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T165955Z" creationid="manuel" creationdate="20180608T165955Z">
@@ -34633,6 +34665,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154345Z" creationid="manuel" creationdate="20180612T154345Z">
         <seg>Per rimuovere la formattazione manuale, selezionate il testo, fate clic con il pulsante destro, e scegliete &lt;f0&gt;Cancella la formattazione diretta&lt;/f0&gt; dal menu contestuale, oppure selezionate il testo e premete &lt;f1&gt;Ctrl+M&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove the inverted question marks and create unpaired brackets, &lt;/f13&gt;&lt;f14&gt;backslashes are added.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T112603Z" creationid="Marco Marega" creationdate="20180824T112603Z">
+        <seg>Per eliminare il punto di domanda capovolto e creare delle parentesi spaiate, &lt;/f13&gt;&lt;f14&gt;aggiungete delle barre retroverse.</seg>
       </tuv>
     </tu>
     <tu>
