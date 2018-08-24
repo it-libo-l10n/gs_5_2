@@ -3407,6 +3407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;&lt;f1&gt;cal&lt;/f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;f3&gt;ble bracket&lt;/f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;can&lt;/f6&gt;&lt;f7&gt; be used with any element &lt;/f7&gt;&lt;f8&gt;of a formula&lt;/f8&gt;&lt;f9&gt;, such as &lt;/f9&gt;&lt;f10&gt;a &lt;/f10&gt;&lt;f11&gt;fraction &lt;/f11&gt;&lt;f12&gt;or&lt;/f12&gt;&lt;f13&gt; sq&lt;/f13&gt;&lt;f14&gt;u&lt;/f14&gt;&lt;f15&gt;are root.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T110500Z" creationid="Marco Marega" creationdate="20180824T110500Z">
+        <seg>&lt;f0&gt;Le&lt;/f0&gt;&lt;f1&gt;parentesi&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;ridimensionabili&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;possono&lt;/f6&gt;&lt;f7&gt; essere usate con qualunque elemento &lt;/f7&gt;&lt;f8&gt;di una formula&lt;/f8&gt;&lt;f9&gt;, come &lt;/f9&gt;&lt;f10&gt;una &lt;/f10&gt;&lt;f11&gt;frazione &lt;/f11&gt;&lt;f12&gt;o&lt;/f12&gt;&lt;f13&gt; una &lt;/f13&gt;&lt;f14&gt;radice &lt;/f14&gt;&lt;f15&gt;quadrata.&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;S&lt;/f0&gt;&lt;f1&gt;elect &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Greek&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;from the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Symbol set&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; drop-down list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T190817Z" creationid="Marco Marega" creationdate="20180817T190817Z">
@@ -14915,6 +14923,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T105801Z" creationid="Marco Marega" creationdate="20180824T105801Z">
         <seg>Ad esempio, &lt;/f0&gt;&lt;f1&gt;( matrix { a # b ## c # d } )&lt;/f1&gt; &lt;f2&gt;da come risultato&lt;/f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;left( matrix { a # b ## c # d } right)&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; gives the result&lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;&lt;df26&gt;&lt;d27/&gt;&lt;di28/&gt;&lt;s29&gt;formula&lt;/s29&gt;&lt;/df26&gt;&lt;/f25&gt;&lt;/f24&gt;&lt;f30&gt;where the matrix is now bracketed by scalable brackets.&lt;/f30&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T110323Z" creationid="Marco Marega" creationdate="20180824T110323Z">
+        <seg>Ad esempio, &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;left( matrix { a # b ## c # d } right)&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; da come risultato&lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;&lt;df26&gt;&lt;d27/&gt;&lt;di28/&gt;&lt;s29&gt;formula&lt;/s29&gt;&lt;/df26&gt;&lt;/f25&gt;&lt;/f24&gt;&lt;f30&gt; in cui la matrice è racchiusa tra parentesi ridimensionate alla stessa.&lt;/f30&gt;</seg>
       </tuv>
     </tu>
     <tu>
