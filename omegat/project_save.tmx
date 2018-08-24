@@ -4407,6 +4407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f6&gt;A&lt;/f6&gt; list of all brackets available &lt;f7&gt;within Math can be found in Appendix A, Commands Reference, in the &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Math Guide&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T110945Z" creationid="Marco Marega" creationdate="20180824T110945Z">
+        <seg>&lt;f6&gt;Un&lt;/f6&gt; elenco di tutte le parentesi disponibili &lt;f7&gt;in Math è riportato nell'Appendice A, (Comandi di Math - Riferimenti) della&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt; Guida a Math&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f6&gt;In the popup dialog, select the required category and click &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;OK&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T110844Z" creationid="manuel" creationdate="20180616T110844Z">
@@ -28712,6 +28720,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>T&lt;f0&gt;ips&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T110557Z" creationid="Marco Marega" creationdate="20180824T110557Z">
+        <seg>&lt;f0&gt;Suggerimenti&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>T&lt;f0&gt;o close t&lt;/f0&gt;he Find toolbar, click the X button on the left, or press &lt;f1&gt;Esc&lt;/f1&gt; on the keyboard when the text cursor is in the search box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T102109Z" creationid="manuel" creationdate="20180622T102109Z">
@@ -35617,6 +35633,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T104302Z" creationid="manuel" creationdate="20180622T104302Z">
         <seg>La funzione &lt;f0&gt;Sostituisci tutto&lt;/f0&gt; deve essere utilizzata con cautela; altrimenti, si possono verificare errori altamente imbarazzanti &lt;f1&gt;( e spesso divertenti&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;the &lt;/f0&gt;commands &lt;f1&gt;&lt;f2&gt;left[&lt;/f2&gt;&lt;/f1&gt; and &lt;f3&gt;&lt;f4&gt;right]&lt;/f4&gt;&lt;/f3&gt; to obtain &lt;f5&gt;scalable &lt;/f5&gt;square brackets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T110658Z" creationid="Marco Marega" creationdate="20180824T110658Z">
+        <seg>Per ottenere delle parentesi quadre ridimensionabili usate &lt;f0&gt;i &lt;/f0&gt;comandi &lt;f1&gt;&lt;f2&gt;left[&lt;/f2&gt;&lt;/f1&gt; e &lt;f3&gt;&lt;f4&gt;right]&lt;/f4&gt;&lt;/f3&gt; &lt;f5&gt;&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
