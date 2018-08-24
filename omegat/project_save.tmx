@@ -3879,6 +3879,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;U&lt;/f0&gt;&lt;f1&gt;npaired brackets&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T111336Z" creationid="Marco Marega" creationdate="20180824T111336Z">
+        <seg>&lt;f0&gt;Parentesi&lt;/f0&gt;&lt;f1&gt; disaccoppiate&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;US English&lt;/f0&gt; – numbers formatted in US English are searched for and included regardless of the system language.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221854Z" creationid="Marco Marega" creationdate="20180712T221854Z">
@@ -4043,6 +4051,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T104621Z" creationid="Marco Marega" creationdate="20180824T104621Z">
         <seg>&lt;f0&gt;Quando vengono usate nel linguaggio di markup le parentesi graffe, servono a specificare &lt;/f0&gt; la disposizione degli elementi nella &lt;f1&gt;formula&lt;/f1&gt; e non vengono né &lt;f2&gt;visualizzate &lt;/f2&gt;né stampate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;When using brackets in a formula, &lt;/f0&gt;&lt;f1&gt;Math expects that for every opening bracket there will be a closing one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T111428Z" creationid="Marco Marega" creationdate="20180824T111428Z">
+        <seg>&lt;f0&gt;Quando usate delle parentesi in a formula, &lt;/f0&gt;&lt;f1&gt;Math si aspetta che per ogni parentesi aperta ve ne sia una chiusa.</seg>
       </tuv>
     </tu>
     <tu>
