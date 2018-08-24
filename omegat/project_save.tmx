@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;&lt;f7&gt;T&lt;/f7&gt;&lt;f8&gt;he commands &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;left(&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; and &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;right)&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;have to be used &lt;/f15&gt;&lt;f16&gt;to &lt;/f16&gt;&lt;f17&gt;create&lt;/f17&gt;&lt;f18&gt; scalable &lt;/f18&gt;&lt;f19&gt;brackets &lt;/f19&gt;&lt;f20&gt;within a matrix.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T110207Z" creationid="Marco Marega" creationdate="20180824T110207Z">
+        <seg>&lt;/f6&gt;&lt;f7&gt;I&lt;/f7&gt;&lt;f8&gt; comandi &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;left(&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; e &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;right)&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;servono &lt;/f15&gt;&lt;f16&gt;a &lt;/f16&gt;&lt;f17&gt;creare&lt;/f17&gt;&lt;f18&gt; all'interno di una matrice delle &lt;/f18&gt;&lt;f19&gt;parentesi ridimensionabili &lt;/f19&gt;&lt;f20&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f7&gt;The Template&lt;f8&gt;s&lt;/f8&gt; dialog opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T091010Z" creationid="manuel" creationdate="20180614T091010Z">
