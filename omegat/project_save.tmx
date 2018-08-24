@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;&lt;f7&gt;For example, &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;matrix { a # b ## c # d }&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; gives the resulting matrix&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;&lt;df13&gt;&lt;d14/&gt;&lt;di15/&gt;&lt;s16&gt;formula&lt;/s16&gt;&lt;/df13&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;f17&gt;in the formula, where rows are separated by two hash&lt;/f17&gt;&lt;f18&gt;e&lt;/f18&gt;&lt;f19&gt;s (#) and entries within each row are separated by one hash (#).&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T105538Z" creationid="Marco Marega" creationdate="20180824T105538Z">
+        <seg>&lt;/f6&gt;&lt;f7&gt;Ad esempio, &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;matrix { a # b ## c # d }&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; produce, all'interno della formula, la matrice &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;&lt;df13&gt;&lt;d14/&gt;&lt;di15/&gt;&lt;s16&gt;formula&lt;/s16&gt;&lt;/df13&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;f17&gt;, dove le righe sono separate da due cancelletti&lt;/f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;f19&gt; (#) mentre i singoli valori di ciascuna riga sono separati tra loro da un singolo cancelletto (#).&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f6&gt;&lt;f7&gt;For example, typing %LAMBDA creates the Greek character &lt;/f7&gt;&lt;f8&gt;Λ&lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T190035Z" creationid="Marco Marega" creationdate="20180817T190035Z">
@@ -1986,6 +1994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T101422Z" creationid="briga" creationdate="20180820T101422Z">
         <seg>Scegliendo &lt;f0&gt;Inizia un gruppo&lt;/f0&gt; viene aggiunta una linea di separazione dopo la voce evidenziata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Brackets &lt;/f0&gt;&lt;f1&gt;and&lt;/f1&gt;&lt;f2&gt; matrices&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T105040Z" creationid="Marco Marega" creationdate="20180824T105040Z">
+        <seg>&lt;f0&gt;Parentesi &lt;/f0&gt;&lt;f1&gt;e&lt;/f1&gt;&lt;f2&gt; matrici&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2811,6 +2827,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133530Z" creationid="Marco Marega" creationdate="20180815T133530Z">
         <seg>&lt;f0&gt;Se inserite spesso delle formule &lt;/f0&gt;&lt;f1&gt;nei documenti&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;&lt;f3&gt;potreste voler&lt;/f3&gt;&lt;f4&gt; aggiungere il pulsante Formula alla barre degli strumenti Standard oppure creare una scorciatoia da tastiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If you want to use a matrix in a formula, you have to use&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;i4/&gt;&lt;i5/&gt;&lt;f6&gt;matrix command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T105211Z" creationid="Marco Marega" creationdate="20180824T105211Z">
+        <seg>&lt;f0&gt;Se volete inserire una matrice all'interno di una formula, dovete usare &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;il&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;i4/&gt;&lt;i5/&gt;&lt;f6&gt;comando matrix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37983,6 +38007,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writing &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;x over lbrace –x + 1 rbrace&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; and the result is &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&lt;df10&gt;&lt;d11/&gt;&lt;di12/&gt;&lt;s13&gt;formula&lt;/s13&gt;&lt;/df10&gt;&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T105008Z" creationid="Marco Marega" creationdate="20180824T105008Z">
+        <seg>Scrivendo &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;x over lbrace –x + 1 rbrace&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; il risultato sarà &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&lt;df10&gt;&lt;d11/&gt;&lt;di12/&gt;&lt;s13&gt;formula&lt;/s13&gt;&lt;/df10&gt;&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writing macros without the recorder</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151714Z" creationid="Elisabetta Manuele" creationdate="20180625T151714Z">
@@ -41163,6 +41195,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184044Z" creationid="Marco Marega" creationdate="20180817T184044Z">
         <seg>markup di formule matematiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>matrix markup</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T105116Z" creationid="Marco Marega" creationdate="20180824T105116Z">
+        <seg>codice di markup per le matrici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>matrix markup (Math)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T105102Z" creationid="Marco Marega" creationdate="20180824T105102Z">
+        <seg>codice di markup per le matrici (Math)</seg>
       </tuv>
     </tu>
     <tu>
