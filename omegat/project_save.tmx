@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T114309Z" creationid="Marco Marega" creationdate="20180824T114309Z">
+        <seg>&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f15&gt;&lt;f16&gt;This&lt;/f16&gt;&lt;f17&gt; inverted question mark&lt;/f17&gt;&lt;f18&gt; disappears when all &lt;/f18&gt;&lt;f19&gt;the &lt;/f19&gt;&lt;f20&gt;brackets are &lt;/f20&gt;&lt;f21&gt;paired&lt;/f21&gt;&lt;f22&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T111831Z" creationid="Marco Marega" creationdate="20180824T111831Z">
@@ -1754,6 +1762,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T110207Z" creationid="Marco Marega" creationdate="20180824T110207Z">
         <seg>&lt;/f6&gt;&lt;f7&gt;I&lt;/f7&gt;&lt;f8&gt; comandi &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;left(&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; e &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;right)&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;servono &lt;/f15&gt;&lt;f16&gt;a &lt;/f16&gt;&lt;f17&gt;creare&lt;/f17&gt;&lt;f18&gt; all'interno di una matrice delle &lt;/f18&gt;&lt;f19&gt;parentesi ridimensionabili &lt;/f19&gt;&lt;f20&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T114414Z" creationid="Marco Marega" creationdate="20180824T114414Z">
+        <seg>&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;abs x &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;=&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt; lbrace stack {x "for" x &gt;= 0 # -x "for" x &lt; 0&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T114308Z" creationid="Marco Marega" creationdate="20180824T114308Z">
+        <seg>&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;abs x &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;=&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt; lbrace stack {x "for" x &gt;= 0 # -x "for" x &lt; 0&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2863,6 +2887,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;However, this gives the incorrect result&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T114412Z" creationid="Marco Marega" creationdate="20180824T114412Z">
+        <seg>&lt;f0&gt;Questo produrrà il risultato sbagliato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you cannot select a formula element using the cursor, click on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Formula Cursor&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; icon &lt;/f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;f7&gt; in the Tools toolbar to activate the formula cursor.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T141434Z" creationid="Marco Marega" creationdate="20180821T141434Z">
@@ -3895,6 +3927,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To remove the inverted question marks and create the correct formula, you have to use the markup commands &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;left&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;right&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;none&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T114527Z" creationid="Marco Marega" creationdate="20180824T114527Z">
+        <seg>&lt;f0&gt;Per eliminare il punto di domanda capovolto e generare la formula corretta, dovete inserire nel codice di markup i comandi &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;left&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;right&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;e &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;none&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; menu selection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173349Z" creationid="Elisabetta Manuele" creationdate="20180627T173349Z">
@@ -4251,6 +4291,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T111022Z" creationid="manuel" creationdate="20180626T111022Z">
         <seg>&lt;f0&gt;Potreste voler disattivare alcune delle sue funzionalità, modificarne altre o disattivarle completamente.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You want to create the formula&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f7&gt;and in the Formula Editor you enter &lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T114305Z" creationid="Marco Marega" creationdate="20180824T114305Z">
+        <seg>&lt;f0&gt;Se volete creare la formula&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f7&gt;e nell'Editor delle formule inserite &lt;br8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12699,6 +12747,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163004Z" creationid="manuel" creationdate="20180715T163004Z">
         <seg>Ogni volta che viene aperto il database &lt;f0&gt;Automobile&lt;/f0&gt;, si apre la finestra &lt;f1&gt;Automobile – LibreOffice Base&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T114226Z" creationid="Marco Marega" creationdate="20180824T114226Z">
+        <seg>Esempio</seg>
       </tuv>
     </tu>
     <tu>
