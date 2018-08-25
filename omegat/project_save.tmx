@@ -2695,6 +2695,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Formula&lt;/f0&gt;s over &lt;f1&gt;multiple lines&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122906Z" creationid="Marco Marega" creationdate="20180825T122906Z">
+        <seg>&lt;f0&gt;Formule&lt;/f0&gt; su &lt;f1&gt;più righe&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Formulas are inserted as OLE objects &lt;/f0&gt;&lt;f1&gt;into documents&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133123Z" creationid="Marco Marega" creationdate="20180815T133123Z">
@@ -3783,6 +3791,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Suppose you want to &lt;/f0&gt;&lt;f1&gt;create a formula&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;that requires&lt;/f3&gt;&lt;f4&gt; more than one line, for example&lt;/f4&gt;&lt;f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;&lt;/f5&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122959Z" creationid="Marco Marega" creationdate="20180825T122959Z">
+        <seg>&lt;f0&gt;Supponete di voler &lt;/f0&gt;&lt;f1&gt;creare una formula&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;che richiede&lt;/f3&gt;&lt;f4&gt; più di una linea, ad esempio&lt;/f4&gt;&lt;f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;&lt;/f5&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;&lt;f1&gt;he &lt;/f1&gt;&lt;f2&gt;Elements window and the&lt;/f2&gt;&lt;f3&gt; context menu contain &lt;/f3&gt;&lt;f4&gt;only&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;the most common&lt;/f6&gt;&lt;f7&gt; commands &lt;/f7&gt;&lt;f8&gt;that are used in formulas&lt;/f8&gt;&lt;f9&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T183733Z" creationid="Marco Marega" creationdate="20180817T183733Z">
@@ -4215,6 +4231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Y&lt;/f0&gt;&lt;f1&gt;our first reaction would &lt;/f1&gt;&lt;f2&gt;normally &lt;/f2&gt;&lt;f3&gt;be to press the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Enter&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T123146Z" creationid="Marco Marega" creationdate="20180825T123146Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Istintivamente la vostra reazione sarebbe &lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;potrebbe essere quella di premere il tasto&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Invio&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Y&lt;/f0&gt;ou can set paragraphs to be checked in a specific language (different from the rest of the document) &lt;f1&gt;using several methods,&lt;/f1&gt; &lt;f2&gt;f&lt;/f2&gt;or example by clicking on the &lt;f3&gt;Text &lt;/f3&gt;Language &lt;f4&gt;field&lt;/f4&gt; on the Status Bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T153225Z" creationid="manuel" creationdate="20180626T065516Z">
@@ -4275,6 +4299,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T092555Z" creationid="manuel" creationdate="20180705T092555Z">
         <seg>&lt;f0&gt;Potete controllare la visualizzazione dei componenti e dell'aspetto della linea di quotatura selezionandola, facendo clic con il pulsante destro del mouse e scegliendo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Dimensioni...&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; nel menu a cascata per visualizzare la finestra di dialogo della linea di quotatura &lt;s4/&gt;(Figura &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;174&lt;/t6&gt;&lt;/f5&gt;&lt;f7&gt;).&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You can navigate through errors &lt;/f0&gt;&lt;f1&gt;in a formula &lt;/f1&gt;&lt;f2&gt;using &lt;/f2&gt;&lt;f3&gt;the key&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;F3&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;or the key combination&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Shift&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;+&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;F3&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;.&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122838Z" creationid="Marco Marega" creationdate="20180825T122838Z">
+        <seg>&lt;f0&gt;Poteste spostarvi tra gli errori &lt;/f0&gt;&lt;f1&gt;di una formula &lt;/f1&gt;&lt;f2&gt;usando &lt;/f2&gt;&lt;f3&gt;il tasto&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;F3&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;o la combinazione di tasti &lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Maiusc&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;+&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;F3&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;.&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40995,6 +41027,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123734Z" creationid="Marco Marega" creationdate="20180816T123734Z">
         <seg>editor di equazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>equations over more than one line</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122845Z" creationid="Marco Marega" creationdate="20180825T122845Z">
+        <seg>equazioni su più righe</seg>
       </tuv>
     </tu>
     <tu>
