@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;f4&gt;gives the incorrect result&lt;/f4&gt;&lt;f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T123617Z" creationid="Marco Marega" creationdate="20180825T123617Z">
+        <seg>&lt;/f2&gt;&lt;f4&gt;produce il risultato sbagliato&lt;/f4&gt;&lt;f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f36&gt;&lt;f37&gt;Table &lt;/f37&gt;&lt;f38&gt;&lt;t39&gt;6&lt;/t39&gt;&lt;/f38&gt;&lt;f40&gt; &lt;/f40&gt;&lt;f41&gt;shows some examples of using markup language to enter commands.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184443Z" creationid="Marco Marega" creationdate="20180817T184443Z">
@@ -2399,6 +2407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;E&lt;/f0&gt;&lt;f1&gt;xample&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T123545Z" creationid="Marco Marega" creationdate="20180825T123545Z">
+        <seg>&lt;f0&gt;Esempio&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;E&lt;/f0&gt;xample &lt;f1&gt;1&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T143310Z" creationid="Marco Marega" creationdate="20180821T143310Z">
@@ -3051,6 +3067,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T105947Z" creationid="manuel" creationdate="20180626T105947Z">
         <seg>&lt;f0&gt;Include anche i codici per l'inserimento di caratteri speciali, emoji e altri simboli.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;It is not possible in Math to create multiple-line formulas when a line ends with an equals sign and &lt;/f0&gt;you want to continue the calculation on a new line without &lt;f1&gt;completing the term on the right side of the equals sign.&lt;/f1&gt; &lt;f2&gt;If you require a multiple line formula to have an equals sign at the end of a line without a term after the equals sign, then use either empty quotes "" or empty braces {} or the space characters grave ` or tilde ˜.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T124206Z" creationid="Marco Marega" creationdate="20180825T124206Z">
+        <seg>&lt;f0&gt;In Math non è possibile creare delle formule su più righe se una riga termina con un segno di uguale e &lt;/f0&gt;volete continuale l'espressione su di una nuova riga senza &lt;f1&gt;completare il termine alla destra del segno di uguale.&lt;/f1&gt; &lt;f2&gt;Se, all'interno di una formula su più righe, avete la necessità di avere un segno di uguale alla fine di una riga, senza un termine alla sua destra, usate delle virgolette vuote "", delle parentesi graffe {} o  i caratteri di spaziatura accento grave ` o tilde ˜.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4363,6 +4387,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T114728Z" creationid="Marco Marega" creationdate="20180824T114728Z">
         <seg>&lt;f0&gt;abs &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;x = left lbrace stack {x "for" x &gt;= 0 # -x "for" x &lt; 0} right none&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;x = 3 newline y = 1 &lt;/f0&gt;&lt;f1&gt;gives the correct result&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T123655Z" creationid="Marco Marega" creationdate="20180825T123655Z">
+        <seg>&lt;f0&gt;x = 3 newline y = 1 &lt;/f0&gt;&lt;f1&gt;genera il risultato corretto&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;x = 3&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T123547Z" creationid="Marco Marega" creationdate="20180825T123547Z">
+        <seg>&lt;f0&gt;x = 3&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40151,6 +40191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You must type the &lt;/f23&gt;&lt;f24&gt;macro&lt;/f24&gt;&lt;f25&gt; command &lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;newline&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt; each time you want to create and display a new line in a formula.&lt;/f28&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T123535Z" creationid="Marco Marega" creationdate="20180825T123535Z">
+        <seg>Dovete digitare il &lt;/f23&gt;&lt;f24&gt;macro&lt;/f24&gt;&lt;f25&gt; comando &lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;newline&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt; ogni volta che volete creare e visualizzare una nuova riga all'interno di una a formula.&lt;/f28&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You must use &lt;i1/&gt;&lt;is2/&gt;braces&lt;ie3/&gt; &lt;f4&gt;(also known as curly brackets) &lt;/f4&gt;to state the order of operations &lt;f5&gt;that occur within a formula&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T143200Z" creationid="Marco Marega" creationdate="20180821T143200Z">
@@ -42643,6 +42691,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184732Z" creationid="Marco Marega" creationdate="20180817T184732Z">
         <seg>x cdot y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>y = 1&lt;/f0&gt;&lt;f2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T123549Z" creationid="Marco Marega" creationdate="20180825T123549Z">
+        <seg>y = 1&lt;/f0&gt;&lt;f2&gt;&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
