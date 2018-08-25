@@ -4551,6 +4551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f6&gt;However, if&lt;/f6&gt; Math fails to recognize a function, you can &lt;f7&gt;tell&lt;/f7&gt; Math &lt;f8&gt;that you have just entered a function&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T121916Z" creationid="Marco Marega" creationdate="20180825T121916Z">
+        <seg>&lt;f6&gt;Comunque, se &lt;/f6&gt; Math non dovesse riconoscere una funzione, potete &lt;f7&gt;indicarla&lt;/f7&gt; &lt;f8&gt;esplicitamente&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f6&gt;In the popup dialog, select the required category and click &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;OK&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T110844Z" creationid="manuel" creationdate="20180616T110844Z">
@@ -20439,6 +20447,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the basic installation &lt;f0&gt;of&lt;/f0&gt; Math, &lt;f1&gt;Math &lt;/f1&gt;outputs &lt;f2&gt;functions in normal characters and &lt;/f2&gt;variables &lt;f3&gt;in&lt;/f3&gt; &lt;f4&gt;italic&lt;/f4&gt; &lt;f5&gt;character&lt;/f5&gt;s.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T121723Z" creationid="Marco Marega" creationdate="20180825T121723Z">
+        <seg>L'installazione predefinita &lt;f0&gt;di&lt;/f0&gt; &lt;f1&gt;Math &lt;/f1&gt;visualizza le &lt;f2&gt;funzioni con caratteri normali e le &lt;/f2&gt;variabili &lt;f3&gt;in&lt;/f3&gt; &lt;f4&gt;caratteri&lt;/f4&gt; &lt;f5&gt;corsivi&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the bottom section of the page, you can change the typeface and size of the font used to display source code such as HTML and Basic (in macros).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T145911Z" creationid="manuel" creationdate="20180531T075940Z">
@@ -25324,6 +25340,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T153114Z" creationid="manuel" creationdate="20180606T083816Z">
         <seg>I destinatari di documenti PDF con una marcatura temporale attendibile possono verificare quando il documento è stato firmato digitalmente o elettronicamente, nonché verificare che il documento non sia stato alterato dopo la data in cui il timestamp è valido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recognizing functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T121513Z" creationid="Marco Marega" creationdate="20180825T121513Z">
+        <seg>Riconoscimento delle funzioni</seg>
       </tuv>
     </tu>
     <tu>
