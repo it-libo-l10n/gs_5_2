@@ -12655,6 +12655,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the markup &lt;f9&gt;command&lt;/f9&gt; &lt;f10&gt;&lt;f11&gt;func&lt;/f11&gt;&lt;/f10&gt; before &lt;f12&gt;a&lt;/f12&gt; function &lt;f13&gt;forces Math to recognize &lt;/f13&gt;the following text as a function &lt;f14&gt;and uses normal characters.&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122058Z" creationid="Marco Marega" creationdate="20180825T122058Z">
+        <seg>Inserendo il codice di markup &lt;f9&gt;&lt;/f9&gt; &lt;f10&gt;&lt;f11&gt;func&lt;/f11&gt;&lt;/f10&gt; prima di &lt;f12&gt;una&lt;/f12&gt; funzione &lt;f13&gt;forzerete Math a riconoscere &lt;/f13&gt;il testo seguente come tale &lt;f14&gt;e ad usare i caratteri normali.&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the name in the &lt;f0&gt;Name&lt;/f0&gt; text box when you create the sheet using the Insert Sheet dialog (Figure &lt;t1&gt;99&lt;/t1&gt; on page &lt;t2&gt;128&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165256Z" creationid="Marco Marega" creationdate="20180729T165244Z">
@@ -14955,6 +14963,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160120Z" creationid="manuel" creationdate="20180608T160120Z">
         <seg>Per un tag di chiusura, verrà creato un HTML_OFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a full list of functions within Math, see &lt;f0&gt;the&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;Math Guide&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122144Z" creationid="Marco Marega" creationdate="20180825T122144Z">
+        <seg>Per una guida completa delle funzioni comprese in Math, vedete &lt;f0&gt;la&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;Guida a Math&lt;/f2&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
