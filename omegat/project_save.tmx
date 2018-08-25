@@ -2086,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;By default, a multiple line formula is centr&lt;/f0&gt;&lt;f1&gt;ally&lt;/f1&gt;&lt;f2&gt; aligned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T124303Z" creationid="Marco Marega" creationdate="20180825T124303Z">
+        <seg>&lt;f0&gt;Per impostazione predefinita, una formula su più righe viene allineata al &lt;/f0&gt;&lt;f1&gt;centro&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;By default, t&lt;/f0&gt;he Find toolbar is shown docked at the bottom of the LibreOffice window (just above the Status Bar) in &lt;f1&gt;Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;71&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;, but you can float it or dock it in another location.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T102240Z" creationid="manuel" creationdate="20180622T094720Z">
