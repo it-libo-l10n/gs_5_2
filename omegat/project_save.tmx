@@ -1998,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A&lt;/f0&gt;&lt;f1&gt;dd space characters between quote&lt;/f1&gt;&lt;f2&gt;s &lt;/f2&gt;&lt;f3&gt;"&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;".&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;These spaces will&lt;/f7&gt;&lt;f8&gt; be considered as text.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T124807Z" creationid="Marco Marega" creationdate="20180825T124807Z">
+        <seg>&lt;f0&gt;Aggiungete&lt;/f0&gt;&lt;f1&gt; caratteri di spazio&lt;/f1&gt;&lt;f2&gt; inseriti tra virgolette &lt;/f2&gt;&lt;f3&gt;"&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;".&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Questi spazi&lt;/f7&gt;&lt;f8&gt; verranno considerati come testo.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Adding&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;braces&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;to &lt;/f4&gt;&lt;f5&gt;into the markup language&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; {1 over 2}&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;gives the result&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;df12&gt;&lt;d13/&gt;&lt;di14/&gt;&lt;s15&gt;formula&lt;/s15&gt;&lt;/df12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f16&gt;and the whole fraction is now &lt;/f16&gt;&lt;f17&gt;negative&lt;/f17&gt;&lt;f18&gt;.&lt;/f18&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T212816Z" creationid="Marco Marega" creationdate="20180822T211437Z">
@@ -2018,6 +2026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T184431Z" creationid="Marco Marega" creationdate="20180708T184431Z">
         <seg>&lt;f0&gt;Allineamento&lt;/f0&gt;: Campi di controllo Controls per allineare i testi in vari modi, compreso l'allineamento orizzontale e verticale, il ritorno a capo, il rientro, l'unione di celle, l'orientamento del testo e la sovrapposizione verticale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Any s&lt;/f0&gt;&lt;f1&gt;pace&lt;/f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;at the end of a line in the &lt;/f4&gt;&lt;f5&gt;markup &lt;/f5&gt;&lt;f6&gt;language &lt;/f6&gt;&lt;f7&gt;are ignored by default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T124912Z" creationid="Marco Marega" creationdate="20180825T124912Z">
+        <seg>Per impostazione predefinita &lt;f0&gt;tutti gli &lt;/f0&gt;&lt;f1&gt;Spazi&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;al termine di una riga del codice di &lt;/f4&gt;&lt;f5&gt;markup &lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;vengono ignorati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2875,6 +2891,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144618Z" creationid="manuel" creationdate="20180611T144618Z">
         <seg>Gli &lt;f0&gt;Stili grafici&lt;/f0&gt; nei disegni e nelle presentazioni consentono di impostare linee, riempimento, ombreggiatura, trasparenza, tipo di carattere, connettori, quotatura, ed altri attributi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Grave &lt;/f0&gt;&lt;f1&gt;` &lt;/f1&gt;&lt;f2&gt;to add a small space&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T124640Z" creationid="Marco Marega" creationdate="20180825T124640Z">
+        <seg>&lt;f0&gt;Accento grave &lt;/f0&gt;&lt;f1&gt;` &lt;/f1&gt;&lt;f2&gt;per aggiungere uno spazio breve&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3955,6 +3979,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T130518Z" creationid="Marco Marega" creationdate="20180820T130518Z">
         <seg>&lt;f0&gt;Inizialmente Questo metodo &lt;/f0&gt;&lt;f1&gt;inserisce  &lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt; il testo della formula &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;?&gt; times &lt;?&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; nell'Editor delle formule ed il simbolo &lt;/f7&gt;&lt;f8&gt;&lt;df9&gt;&lt;di10/&gt;&lt;/df9&gt;&lt;/f8&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;appare &lt;/f12&gt;&lt;f13&gt;nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Tilde&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;~&lt;/f2&gt;&lt;f3&gt; for a large space.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T124658Z" creationid="Marco Marega" creationdate="20180825T124658Z">
+        <seg>&lt;f0&gt;Tilde&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;~&lt;/f2&gt;&lt;f3&gt; per aggiungere uno spazio largo.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
