@@ -1558,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f13&gt;&lt;f14&gt;If you want to add spaces into the formula, use one of the following options:&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T124609Z" creationid="Marco Marega" creationdate="20180825T124609Z">
+        <seg>&lt;/f13&gt;&lt;f14&gt;Se volete aggiungere degli spazi nella formula, usate una delle seguenti opzioni:&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f13&gt;&lt;f14&gt;These placeholders must then be replaced with real numbers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T130547Z" creationid="Marco Marega" creationdate="20180820T130547Z">
@@ -3547,6 +3555,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T190817Z" creationid="Marco Marega" creationdate="20180817T190817Z">
         <seg>&lt;f0&gt;Selezionate&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Greco&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;dall'elenco a discesa degli insiemi dei &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Simboli&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;&lt;f1&gt;pacing between &lt;/f1&gt;&lt;f2&gt;the &lt;/f2&gt;&lt;f3&gt;element&lt;/f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;f5&gt; in &lt;/f5&gt;&lt;f6&gt;a &lt;/f6&gt;&lt;f7&gt;formula &lt;/f7&gt;&lt;f8&gt;is&lt;/f8&gt;&lt;f9&gt; not set by &lt;/f9&gt;&lt;f10&gt;using &lt;/f10&gt;&lt;f11&gt;space characters in the &lt;/f11&gt;&lt;f12&gt;markup language&lt;/f12&gt;&lt;f13&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T124539Z" creationid="Marco Marega" creationdate="20180825T124539Z">
+        <seg>&lt;f0&gt;La&lt;/f0&gt;&lt;f1&gt; spaziatura&lt;/f1&gt;&lt;f2&gt; tra gli &lt;/f2&gt;&lt;f3&gt;elementi&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt; di &lt;/f5&gt;&lt;f6&gt;una &lt;/f6&gt;&lt;f7&gt;formula &lt;/f7&gt;&lt;f8&gt;non viene&lt;/f8&gt;&lt;f9&gt; impostata &lt;/f9&gt;&lt;f10&gt;inserendo&lt;/f10&gt;&lt;f11&gt; caratteri di spazio nel codice di &lt;/f11&gt;&lt;f12&gt;markup&lt;/f12&gt;&lt;f13&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15899,6 +15915,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133328Z" creationid="Marco Marega" creationdate="20180815T133328Z">
         <seg>Per maggiori informazioni sugli Oggetti OLE, vedete le &lt;/f7&gt;&lt;f8&gt;guide &lt;/f8&gt;&lt;f9&gt;di &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Math&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Writer&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;, &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Calc&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Draw&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; e &lt;/f21&gt;&lt;f22&gt;&lt;f23&gt;Impress&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;.&lt;/f24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on alignment using the &lt;/f2&gt;&lt;f3&gt;equals sign, &lt;/f3&gt;&lt;f4&gt;see &lt;/f4&gt;&lt;f5&gt;the&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Math Guide&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T124357Z" creationid="Marco Marega" creationdate="20180825T124357Z">
+        <seg>Per maggiori informazioni sull'allineamento usando il segno dell'&lt;/f2&gt;&lt;f3&gt;uguale, &lt;/f3&gt;&lt;f4&gt;vedete &lt;/f4&gt;&lt;f5&gt;la&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Guida a Math&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
