@@ -1534,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f11&gt;&lt;f12&gt;The &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;over&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; command is c&lt;/f15&gt;&lt;f16&gt;ombine&lt;/f16&gt;&lt;f17&gt;d&lt;/f17&gt;&lt;f18&gt; with the &lt;/f18&gt;&lt;f19&gt;character&lt;/f19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;d&lt;/f21&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;f&lt;/f23&gt;&lt;f24&gt;or a total derivative or the &lt;/f24&gt;&lt;f25&gt;&lt;f26&gt;partial&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt; command for a partial derivativ&lt;/f27&gt;&lt;f28&gt;e&lt;/f28&gt;&lt;f29&gt; to achieve the effect of a derivative.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T130402Z" creationid="Marco Marega" creationdate="20180825T130402Z">
+        <seg>Per ottenere l'effetto di una derivata, &lt;/f11&gt;&lt;f12&gt;il comando&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;over&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; dev'essere usato in &lt;/f15&gt;&lt;f16&gt;combinazione&lt;/f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt; con la &lt;/f18&gt;&lt;f19&gt;lettera &lt;/f19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;d&lt;/f21&gt;&lt;f22&gt;, &lt;/f22&gt;&lt;f23&gt;nel&lt;/f23&gt;&lt;f24&gt; caso di una derivata totale, o con il comando &lt;/f24&gt;&lt;f25&gt;&lt;f26&gt;partial&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;, nel caso di una derivata parziale&lt;/f27&gt;&lt;f28&gt;&lt;/f28&gt;&lt;f29&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f11&gt;&lt;f12&gt;The formula&lt;/f12&gt;&lt;f13&gt;&lt;df14&gt;&lt;d15/&gt;&lt;di16/&gt;&lt;s17&gt;formula&lt;/s17&gt;&lt;/df14&gt;&lt;/f13&gt;&lt;f18&gt;now appears in the document.&lt;/f18&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T134333Z" creationid="Marco Marega" creationdate="20180820T134333Z">
@@ -4271,6 +4279,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;W&lt;/f0&gt;&lt;f1&gt;hen w&lt;/f1&gt;&lt;f2&gt;riting derivatives, &lt;/f2&gt;&lt;f3&gt;you have to tell Math that&lt;/f3&gt;&lt;f4&gt; it &lt;/f4&gt;&lt;f5&gt;i&lt;/f5&gt;&lt;f6&gt;s a fraction &lt;/f6&gt;&lt;f7&gt;by using&lt;/f7&gt;&lt;f8&gt; the &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;over&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T130059Z" creationid="Marco Marega" creationdate="20180825T130059Z">
+        <seg>&lt;f0&gt;Se&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;scrivete delle derivate, &lt;/f2&gt;&lt;f3&gt;dovete dire a Math che&lt;/f3&gt;&lt;f4&gt; si &lt;/f4&gt;&lt;f5&gt;tratta&lt;/f5&gt;&lt;f6&gt; di una frazione&lt;/f6&gt;&lt;f7&gt; usando&lt;/f7&gt;&lt;f8&gt; il comando &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;over&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;W&lt;/f0&gt;rit&lt;f1&gt;ing&lt;/f1&gt; &lt;i2/&gt;&lt;i3/&gt;derivative&lt;f4&gt;s&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T125947Z" creationid="Marco Marega" creationdate="20180825T125947Z">
+        <seg>&lt;f0&gt;Scrittura&lt;/f0&gt;&lt;f1&gt; di&lt;/f1&gt; &lt;i2/&gt;&lt;i3/&gt;derivate&lt;f4&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Weekday&lt;/f0&gt; – use the Date series type and this option to create a series of five day sets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212450Z" creationid="Marco Marega" creationdate="20180808T212450Z">
@@ -4507,6 +4531,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T125743Z" creationid="Marco Marega" creationdate="20180825T125743Z">
         <seg>&lt;f0&gt;sum from k = 1 to n a_k&lt;/f0&gt;&lt;f1&gt; da come risultato&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;sum to infinity 2^{-n}&lt;/f0&gt;&lt;f1&gt; gives the result&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T125825Z" creationid="Marco Marega" creationdate="20180825T125825Z">
+        <seg>&lt;f0&gt;sum to infinity 2^{-n}&lt;/f0&gt;&lt;f1&gt; da come risultato&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41051,6 +41083,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084742Z" creationid="manuel" creationdate="20180614T084742Z">
         <seg>eliminare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>derivative markup</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T125908Z" creationid="Marco Marega" creationdate="20180825T125908Z">
+        <seg>codice di markup per la derivata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>derivative markup (Math)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T125849Z" creationid="Marco Marega" creationdate="20180825T125849Z">
+        <seg>codice di markup per la derivata (Math)</seg>
       </tuv>
     </tu>
     <tu>
