@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f29&gt;&lt;f30&gt;Braces &lt;/f30&gt;&lt;f31&gt;&lt;f32&gt;{}&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt; are used each side of the element to surround the element and make the derivative &lt;/f33&gt;&lt;f34&gt;as shown by the following examples.&lt;/f34&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T130544Z" creationid="Marco Marega" creationdate="20180825T130544Z">
+        <seg>&lt;/f29&gt;&lt;f30&gt;Le parentesi graffe &lt;/f30&gt;&lt;f31&gt;&lt;f32&gt;{}&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt; vanno usate attorno ai singoli elementi per generare le derivate &lt;/f33&gt;&lt;f34&gt;come illustrato nei seguenti esempi.&lt;/f34&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T114915Z" creationid="Marco Marega" creationdate="20180815T114915Z">
