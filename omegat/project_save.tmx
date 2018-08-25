@@ -18615,6 +18615,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If these are missing, Math &lt;f4&gt;places&lt;/f4&gt; an inverted question mar&lt;f5&gt;k where the missing number or variable should be.&lt;/f5&gt; &lt;f6&gt;To remove the inverted question mark&lt;/f6&gt; &lt;f7&gt;and correct&lt;/f7&gt; the formula, &lt;f8&gt;you have to&lt;/f8&gt; enter a number, &lt;f9&gt;a variable, &lt;/f9&gt;or a pair of empty &lt;f10&gt;brackets&lt;/f10&gt; as a placeholder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122604Z" creationid="Marco Marega" creationdate="20180825T122604Z">
+        <seg>Se questi non sono presenti, Math &lt;f4&gt;inserisce&lt;/f4&gt; un punto di domanda capovolto&lt;f5&gt; ne punto in cui dovrebbero trovarsi il numero o la variabile mancante.&lt;/f5&gt; &lt;f6&gt;Per eliminare il punto interrogativo capovolto&lt;/f6&gt; &lt;f7&gt;e correggere&lt;/f7&gt; la formula, &lt;f8&gt;dovete&lt;/f8&gt; inserire un numero, &lt;f9&gt;una variabile, &lt;/f9&gt;o un paio di &lt;f10&gt;parentesi vuote&lt;/f10&gt; come segnaposto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If these options are only for the current document, select &lt;f0&gt;For the current document only.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072447Z" creationid="manuel" creationdate="20180609T072447Z">
@@ -28284,6 +28292,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155203Z" creationid="manuel" creationdate="20180715T155203Z">
         <seg>Verrà quindi creata una tabella con un campo per il tipo di pagamento, che verrà usata in un elenco a tendina nei formulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some &lt;f0&gt;Math &lt;/f0&gt;functions &lt;f1&gt;have&lt;/f1&gt; to be followed by &lt;f2&gt;a &lt;/f2&gt;number or &lt;f3&gt;a &lt;/f3&gt;variable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122246Z" creationid="Marco Marega" creationdate="20180825T122246Z">
+        <seg>Alcune funzioni di &lt;f0&gt;Math &lt;/f0&gt; &lt;f1&gt;devono&lt;/f1&gt; essere seguite &lt;f2&gt;da &lt;/f2&gt;un numero o da &lt;f3&gt;una &lt;/f3&gt;variabile.</seg>
       </tuv>
     </tu>
     <tu>
