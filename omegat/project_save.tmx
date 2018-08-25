@@ -1568,8 +1568,8 @@
       <tuv lang="EN">
         <seg>&lt;/f14&gt;&lt;f15&gt;The &lt;/f15&gt;&lt;f16&gt;formula&lt;/f16&gt;&lt;f17&gt; now becomes&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;\ [ a; b \ [&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; and the &lt;/f21&gt;&lt;f22&gt;result&lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;&lt;df25&gt;&lt;d26/&gt;&lt;di27/&gt;&lt;s28&gt;formula&lt;/s28&gt;&lt;/df25&gt;&lt;/f24&gt;&lt;/f23&gt;&lt;f29&gt;shows &lt;/f29&gt;&lt;f30&gt;unpaired &lt;/f30&gt;&lt;f31&gt;brackets without the inverted question mark&lt;/f31&gt;&lt;f32&gt;s&lt;/f32&gt;&lt;f33&gt;.&lt;/f33&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T112716Z" creationid="Marco Marega" creationdate="20180824T112716Z">
-        <seg>&lt;/f14&gt;&lt;f15&gt;La &lt;/f15&gt;&lt;f16&gt;formula&lt;/f16&gt;&lt;f17&gt; diventerà&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;\ [ a; b \ [&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; ed il &lt;/f21&gt;&lt;f22&gt;risultato&lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;&lt;df25&gt;&lt;d26/&gt;&lt;di27/&gt;&lt;s28&gt;formula&lt;/s28&gt;&lt;/df25&gt;&lt;/f24&gt;&lt;/f23&gt;&lt;f29&gt;mostra le &lt;/f29&gt;&lt;f30&gt;parentesi &lt;/f30&gt;&lt;f31&gt;spaiate senza il punto di domanda capovolto&lt;/f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;f33&gt;.&lt;/f33&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122704Z" creationid="Marco Marega" creationdate="20180824T112716Z">
+        <seg>&lt;/f14&gt;&lt;f15&gt;La &lt;/f15&gt;&lt;f16&gt;formula&lt;/f16&gt;&lt;f17&gt; diventerà&lt;/f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;\ [ a; b \ [&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; ed il &lt;/f21&gt;&lt;f22&gt;risultato&lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;&lt;df25&gt;&lt;d26/&gt;&lt;di27/&gt;&lt;s28&gt;formula&lt;/s28&gt;&lt;/df25&gt;&lt;/f24&gt;&lt;/f23&gt;&lt;f29&gt;mostra le &lt;/f29&gt;&lt;f30&gt;parentesi &lt;/f30&gt;&lt;f31&gt;spaiate senza il punto interrogativo capovolto&lt;/f31&gt;&lt;f32&gt;&lt;/f32&gt;&lt;f33&gt;.&lt;/f33&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1592,8 +1592,8 @@
       <tuv lang="EN">
         <seg>&lt;/f15&gt;&lt;f16&gt;This&lt;/f16&gt;&lt;f17&gt; inverted question mark&lt;/f17&gt;&lt;f18&gt; disappears when all &lt;/f18&gt;&lt;f19&gt;the &lt;/f19&gt;&lt;f20&gt;brackets are &lt;/f20&gt;&lt;f21&gt;paired&lt;/f21&gt;&lt;f22&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T111831Z" creationid="Marco Marega" creationdate="20180824T111831Z">
-        <seg>&lt;/f15&gt;&lt;f16&gt;Questo&lt;/f16&gt;&lt;f17&gt; punto di domanda capovolto&lt;/f17&gt;&lt;f18&gt; scompare &lt;/f18&gt;&lt;f19&gt;quando tutte le &lt;/f19&gt;&lt;f20&gt;parentesi sono &lt;/f20&gt;&lt;f21&gt;accoppiate&lt;/f21&gt;&lt;f22&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122639Z" creationid="Marco Marega" creationdate="20180824T111831Z">
+        <seg>&lt;/f15&gt;&lt;f16&gt;Questo&lt;/f16&gt;&lt;f17&gt; punto interrogativo capovolto&lt;/f17&gt;&lt;f18&gt; scompare &lt;/f18&gt;&lt;f19&gt;quando tutte le &lt;/f19&gt;&lt;f20&gt;parentesi sono &lt;/f20&gt;&lt;f21&gt;accoppiate&lt;/f21&gt;&lt;f22&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1608,8 +1608,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;f2&gt;If&lt;/f2&gt;&lt;f3&gt; you forget &lt;/f3&gt;&lt;f4&gt;to add &lt;/f4&gt;&lt;f5&gt;a &lt;/f5&gt;&lt;f6&gt;closing &lt;/f6&gt;&lt;f7&gt;bracket, Math places an inverted question mark &lt;/f7&gt;&lt;f8&gt;next to&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;where &lt;/f10&gt;&lt;f11&gt;the &lt;/f11&gt;&lt;f12&gt;closing&lt;/f12&gt;&lt;f13&gt; bracket &lt;/f13&gt;&lt;f14&gt;should have been placed&lt;/f14&gt;&lt;f15&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T111719Z" creationid="Marco Marega" creationdate="20180824T111719Z">
-        <seg>&lt;/f1&gt;&lt;f2&gt;Se&lt;/f2&gt;&lt;f3&gt; vi dimenticate &lt;/f3&gt;&lt;f4&gt;di chiudere &lt;/f4&gt;&lt;f5&gt;una &lt;/f5&gt;&lt;f6&gt;parentesi &lt;/f6&gt;&lt;f7&gt;, Math inserirà un punto di domanda capovolto &lt;/f7&gt;&lt;f8&gt;a lato del punto&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;in cui &lt;/f10&gt;&lt;f11&gt;avreste dovuto posizionare &lt;/f11&gt;&lt;f12&gt;la parentesi &lt;/f12&gt;&lt;f13&gt; di chiusura&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122621Z" creationid="Marco Marega" creationdate="20180824T111719Z">
+        <seg>&lt;/f1&gt;&lt;f2&gt;Se&lt;/f2&gt;&lt;f3&gt; vi dimenticate &lt;/f3&gt;&lt;f4&gt;di chiudere &lt;/f4&gt;&lt;f5&gt;una &lt;/f5&gt;&lt;f6&gt;parentesi &lt;/f6&gt;&lt;f7&gt;, Math inserirà un punto interrogativo capovolto &lt;/f7&gt;&lt;f8&gt;a lato del punto&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;in cui &lt;/f10&gt;&lt;f11&gt;avreste dovuto posizionare &lt;/f11&gt;&lt;f12&gt;la parentesi &lt;/f12&gt;&lt;f13&gt; di chiusura&lt;/f13&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3945,8 +3945,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To remove the inverted question marks and create the correct formula, you have to use the markup commands &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;left&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;right&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;none&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T114527Z" creationid="Marco Marega" creationdate="20180824T114527Z">
-        <seg>&lt;f0&gt;Per eliminare il punto di domanda capovolto e generare la formula corretta, dovete inserire nel codice di markup i comandi &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;left&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;right&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;e &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;none&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122719Z" creationid="Marco Marega" creationdate="20180824T114527Z">
+        <seg>&lt;f0&gt;Per eliminare il punto interrogativo capovolto e generare la formula corretta, dovete inserire nel codice di markup i comandi &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;left&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;right&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;e &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;none&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34807,8 +34807,8 @@
       <tuv lang="EN">
         <seg>To remove the inverted question marks and create unpaired brackets, &lt;/f13&gt;&lt;f14&gt;backslashes are added.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T112603Z" creationid="Marco Marega" creationdate="20180824T112603Z">
-        <seg>Per eliminare il punto di domanda capovolto e creare delle parentesi spaiate, &lt;/f13&gt;&lt;f14&gt;aggiungete delle barre retroverse.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122651Z" creationid="Marco Marega" creationdate="20180824T112603Z">
+        <seg>Per eliminare il punto interrogativo capovolto e creare delle parentesi spaiate, &lt;/f13&gt;&lt;f14&gt;aggiungete delle barre retroverse.</seg>
       </tuv>
     </tu>
     <tu>
