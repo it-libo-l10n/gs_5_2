@@ -2046,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Add the character to the &lt;/f0&gt;&lt;f1&gt;Math C&lt;/f1&gt;&lt;f2&gt;atalog, &lt;/f2&gt;&lt;f3&gt;for example the double quote character&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T202911Z" creationid="Marco Marega" creationdate="20180826T202848Z">
+        <seg>&lt;f0&gt;Aggiungete il carattere al Catalogo di &lt;/f0&gt;&lt;f1&gt;Math&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;&lt;f3&gt;ad esempio il carattere delle virgolette doppie&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Adding&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;braces&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;to &lt;/f4&gt;&lt;f5&gt;into the markup language&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; {1 over 2}&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;gives the result&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;df12&gt;&lt;d13/&gt;&lt;di14/&gt;&lt;s15&gt;formula&lt;/s15&gt;&lt;/df12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f16&gt;and the whole fraction is now &lt;/f16&gt;&lt;f17&gt;negative&lt;/f17&gt;&lt;f18&gt;.&lt;/f18&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180822T212816Z" creationid="Marco Marega" creationdate="20180822T211437Z">
@@ -4171,6 +4179,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T111336Z" creationid="Marco Marega" creationdate="20180824T111336Z">
         <seg>&lt;f0&gt;Parentesi&lt;/f0&gt;&lt;f1&gt; disaccoppiate&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;U&lt;/f0&gt;&lt;f1&gt;se commands, &lt;/f1&gt;&lt;f2&gt;f&lt;/f2&gt;&lt;f3&gt;or example &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;lbrace&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;rbrace&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; give literal braces&lt;/f9&gt;&lt;f10&gt;&lt;df11&gt;&lt;d12/&gt;&lt;di13/&gt;&lt;s14&gt;formula&lt;/s14&gt;&lt;/df11&gt;&lt;/f10&gt;&lt;f15&gt;.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T203314Z" creationid="Marco Marega" creationdate="20180826T202904Z">
+        <seg>&lt;f0&gt;Usate&lt;/f0&gt;&lt;f1&gt; i comandi, &lt;/f1&gt;&lt;f2&gt;ad&lt;/f2&gt;&lt;f3&gt; esempio &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;lbrace&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; e &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;rbrace&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; restituiscono delle parentesi graffe&lt;/f9&gt;&lt;f10&gt;&lt;df11&gt;&lt;d12/&gt;&lt;di13/&gt;&lt;s14&gt;formula&lt;/s14&gt;&lt;/df11&gt;&lt;/f10&gt;&lt;f15&gt;.&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
