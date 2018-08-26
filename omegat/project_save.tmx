@@ -2255,6 +2255,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Characters that are used &lt;/f0&gt;&lt;f1&gt;as&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;controls in&lt;/f3&gt;&lt;f4&gt; markup &lt;/f4&gt;&lt;f5&gt;language &lt;/f5&gt;&lt;f6&gt;cannot be entered directly as normal characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T202034Z" creationid="Marco Marega" creationdate="20180826T202034Z">
+        <seg>&lt;f0&gt;I caratteri che vengono usati &lt;/f0&gt;&lt;f1&gt;come&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;comandi nel linguaggio di &lt;/f3&gt;&lt;f4&gt; markup &lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;non possono essere inseriti direttamente come caratteri normali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Check special regions&lt;/f0&gt; includes headers, footers, frames, and tables when checking spelling.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T091253Z" creationid="manuel" creationdate="20180609T091253Z">
@@ -3267,6 +3275,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T103641Z" creationid="manuel" creationdate="20180621T083551Z">
         <seg>&lt;f0&gt;Gestisci le modifiche&lt;/f0&gt;: elenca tutte le modifiche apportate nel documento poiché è stata attivata la modalità traccia le modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Markup &lt;/f0&gt;&lt;f1&gt;language &lt;/f1&gt;&lt;f2&gt;characters as &lt;/f2&gt;&lt;f3&gt;normal&lt;/f3&gt;&lt;f4&gt; characters&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T201857Z" creationid="Marco Marega" creationdate="20180826T201857Z">
+        <seg>Caratteri del linguaggio di &lt;f0&gt;markup &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; usati come &lt;/f2&gt;&lt;f3&gt;caratteri&lt;/f3&gt;&lt;f4&gt; normali&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32133,6 +32149,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T131946Z" creationid="Marco Marega" creationdate="20180815T131946Z">
         <seg>Alla sinistra della finestra dell'&lt;/f31&gt;&lt;f32&gt;Anteprima&lt;/f32&gt;&lt;f33&gt;&lt;/f33&gt;&lt;f34&gt;&lt;/f34&gt;&lt;f35&gt;, può apparire la  Finestra degli elementi , se&lt;/f35&gt;&lt;f36&gt;&lt;/f36&gt;&lt;f37&gt; è stata&lt;/f37&gt;&lt;f38&gt;&lt;/f38&gt;&lt;f39&gt; selezionata nel menu &lt;/f39&gt;&lt;f40&gt;&lt;f41&gt;Visualizza&lt;/f41&gt;&lt;/f40&gt;&lt;f42&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The&lt;/f6&gt;&lt;f7&gt;se&lt;/f7&gt;&lt;f8&gt; characters are: &lt;/f8&gt;&lt;f9&gt;%&lt;/f9&gt;&lt;f10&gt;, &lt;/f10&gt;&lt;f11&gt;{&lt;/f11&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;f13&gt;}&lt;/f13&gt;&lt;f14&gt;, &lt;/f14&gt;&lt;f15&gt;&amp;&lt;/f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;f17&gt;|&lt;/f17&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;_&lt;/f19&gt;&lt;f20&gt;, &lt;/f20&gt;&lt;f21&gt;^&lt;/f21&gt;&lt;f22&gt; and &lt;/f22&gt;&lt;f23&gt;"&lt;/f23&gt;&lt;f24&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T202056Z" creationid="Marco Marega" creationdate="20180826T202056Z">
+        <seg>Questi&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;caratteri sono: &lt;/f8&gt;&lt;f9&gt;%&lt;/f9&gt;&lt;f10&gt;, &lt;/f10&gt;&lt;f11&gt;{&lt;/f11&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;f13&gt;}&lt;/f13&gt;&lt;f14&gt;, &lt;/f14&gt;&lt;f15&gt;&amp;&lt;/f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;f17&gt;|&lt;/f17&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;_&lt;/f19&gt;&lt;f20&gt;, &lt;/f20&gt;&lt;f21&gt;^&lt;/f21&gt;&lt;f22&gt; e &lt;/f22&gt;&lt;f23&gt;"&lt;/f23&gt;&lt;f24&gt;.</seg>
       </tuv>
     </tu>
     <tu>
