@@ -1622,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f18&gt;&lt;f19&gt;All characters, except double quotes, &lt;/f19&gt;&lt;f20&gt;can be used&lt;/f20&gt;&lt;f21&gt; in text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T215059Z" creationid="Marco Marega" creationdate="20180826T215059Z">
+        <seg>&lt;/f18&gt;&lt;f19&gt;Tutti i caratteri, tranne le virgolette doppie, &lt;/f19&gt;&lt;f20&gt;sono ammissibili&lt;/f20&gt;&lt;f21&gt; nel testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;f2&gt;If&lt;/f2&gt;&lt;f3&gt; you forget &lt;/f3&gt;&lt;f4&gt;to add &lt;/f4&gt;&lt;f5&gt;a &lt;/f5&gt;&lt;f6&gt;closing &lt;/f6&gt;&lt;f7&gt;bracket, Math places an inverted question mark &lt;/f7&gt;&lt;f8&gt;next to&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;where &lt;/f10&gt;&lt;f11&gt;the &lt;/f11&gt;&lt;f12&gt;closing&lt;/f12&gt;&lt;f13&gt; bracket &lt;/f13&gt;&lt;f14&gt;should have been placed&lt;/f14&gt;&lt;f15&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122621Z" creationid="Marco Marega" creationdate="20180824T111719Z">
@@ -1666,6 +1674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171752Z" creationid="manuel" creationdate="20180615T171752Z">
         <seg>&lt;/f1&gt;Potete comunque importare manualmente gli stili dal modello, ma per ricollegarlo al modello, dovrete copiarlo in un documento vuoto basato sul modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f21&gt;&lt;f22&gt;However, if you require double quotes in the formula text, then you have to create the text with double quotes in LibreOffice Writer&lt;/f22&gt;&lt;f23&gt;, then copy and paste the text into the Formula Editor as shown in &lt;/f23&gt;&lt;f24&gt;Figure &lt;/f24&gt;&lt;f25&gt;&lt;t26&gt;274&lt;/t26&gt;&lt;/f25&gt;&lt;f27&gt;.&lt;/f27&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T215257Z" creationid="Marco Marega" creationdate="20180826T215257Z">
+        <seg>&lt;/f21&gt;&lt;f22&gt;Comunque, se avete la necessità di usare delle virgolette doppie nel testo all'interno di una formula, allora dovete creare il testo con le virgolette doppie con LibreOffice Writer&lt;/f22&gt;&lt;f23&gt;, quindi copiarlo ed incollarlo nell'Editor delle formule come mostrato nella &lt;/f23&gt;&lt;f24&gt;Figura &lt;/f24&gt;&lt;f25&gt;&lt;t26&gt;274&lt;/t26&gt;&lt;/f25&gt;&lt;f27&gt;.&lt;/f27&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4123,6 +4139,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123658Z" creationid="Marco Marega" creationdate="20180812T123658Z">
         <seg>&lt;f0&gt;Nascondere &lt;/f0&gt;&lt;f1&gt;righe&lt;/f1&gt; &lt;f2&gt;o&lt;/f2&gt; &lt;f3&gt;colonne&lt;/f3&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To include text in a formula, &lt;/f0&gt;&lt;f1&gt;you have to &lt;/f1&gt;&lt;f2&gt;enclose &lt;/f2&gt;&lt;f3&gt;i&lt;/f3&gt;&lt;f4&gt;t&lt;/f4&gt;&lt;f5&gt; in double-quotes, &lt;/f5&gt;&lt;f6&gt;for example &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;x " for " x &gt;= 0&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;in markup language &lt;/f10&gt;&lt;f11&gt;will create the formula&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;&lt;df14&gt;&lt;d15/&gt;&lt;di16/&gt;&lt;s17&gt;formula&lt;/s17&gt;&lt;/df14&gt;&lt;/f13&gt;&lt;/f12&gt;&lt;f18&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T215013Z" creationid="Marco Marega" creationdate="20180826T215013Z">
+        <seg>&lt;f0&gt;Per includere del testo in una formula, &lt;/f0&gt;&lt;f1&gt;dovete &lt;/f1&gt;&lt;f2&gt;racchiuderlo&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt; tra&lt;/f4&gt;&lt;f5&gt; virgolette doppie, &lt;/f5&gt;&lt;f6&gt;ad esempio il codice di markup &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;x " for " x &gt;= 0&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt; genera la formula&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;&lt;df14&gt;&lt;d15/&gt;&lt;di16/&gt;&lt;s17&gt;formula&lt;/s17&gt;&lt;/df14&gt;&lt;/f13&gt;&lt;/f12&gt;&lt;f18&gt;.</seg>
       </tuv>
     </tu>
     <tu>
