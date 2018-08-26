@@ -2199,6 +2199,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;By default, text &lt;/f0&gt;&lt;f1&gt;alignment&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;is left-justified &lt;/f3&gt;&lt;f4&gt;in formulas&lt;/f4&gt;&lt;f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T215756Z" creationid="Marco Marega" creationdate="20180826T215756Z">
+        <seg>&lt;f0&gt;Per impostazione predefinita, il testo delle formule è &lt;/f0&gt;&lt;f1&gt;allineato&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;a sinistra&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;f1&gt;ontext menu&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T124749Z" creationid="Marco Marega" creationdate="20180816T124749Z">
@@ -16243,6 +16251,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T094846Z" creationid="manuel" creationdate="20180622T094846Z">
         <seg>Per maggiori informazioni sulle barre mobili e agganciate, vedere il Capitolo 1 (Introduzione a LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on how to change fonts used for &lt;/f2&gt;&lt;f3&gt;in formulas&lt;/f3&gt;&lt;f4&gt;, see&lt;/f4&gt;&lt;f5&gt; “&lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;Changing formula appearance&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;” &lt;/f8&gt;&lt;f9&gt;on&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;p&lt;/f11&gt;&lt;f12&gt;age &lt;/f12&gt;&lt;f13&gt;&lt;bf14&gt;279&lt;/bf14&gt;&lt;/f13&gt;&lt;f15&gt;.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T215635Z" creationid="Marco Marega" creationdate="20180826T215635Z">
+        <seg>Per maggiori informazioni su come modificare i caratteri usati &lt;/f2&gt;&lt;f3&gt;nelle formule&lt;/f3&gt;&lt;f4&gt;, vedete&lt;/f4&gt;&lt;f5&gt; “&lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;Modificare l'aspetto di una formula &lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;” &lt;/f8&gt;&lt;f9&gt;a&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;pagina&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;bf14&gt;279&lt;/bf14&gt;&lt;/f13&gt;&lt;f15&gt;.&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
