@@ -1774,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;S&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;ee &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;the&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;Math Guide&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; for more information.&lt;/f17&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T203627Z" creationid="Marco Marega" creationdate="20180826T203627Z">
+        <seg>Per maggiori informazioni &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;vedete&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;la&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;Guida a Math&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.&lt;/f17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f6&gt;&lt;f7&gt;A&lt;/f7&gt;&lt;f8&gt;n example is shown in &lt;/f8&gt;&lt;f9&gt;Figure &lt;/f9&gt;&lt;f10&gt;&lt;t11&gt;272&lt;/t11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T125144Z" creationid="Marco Marega" creationdate="20180816T125144Z">
@@ -3995,6 +4003,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T220256Z" creationid="Marco Marega" creationdate="20180712T220256Z">
         <seg>&lt;f0&gt;Separatore di testo&lt;/f0&gt; – seleziona il carattere che delimita le stringhe di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Text in formula&lt;/f0&gt;&lt;f1&gt;s&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T214835Z" creationid="Marco Marega" creationdate="20180826T214835Z">
+        <seg>&lt;f0&gt;Testo nelle formule&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
