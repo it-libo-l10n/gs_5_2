@@ -4103,6 +4103,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To write function names with primes, as is &lt;/f0&gt;&lt;f1&gt;normal&lt;/f1&gt;&lt;f2&gt; in school notation, you must first add the &lt;/f2&gt;&lt;f3&gt;symbols&lt;/f3&gt;&lt;f4&gt; to the catalog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T201723Z" creationid="Marco Marega" creationdate="20180826T201723Z">
+        <seg>&lt;f0&gt;Per scrivere i nomi delle funzioni con numeri primi, come è &lt;/f0&gt;&lt;f1&gt;usuale&lt;/f1&gt;&lt;f2&gt; nella notazione scolastica, dovete prima aggiungere i  &lt;/f2&gt;&lt;f3&gt;simboli&lt;/f3&gt;&lt;f4&gt; al catalogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; menu selection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173349Z" creationid="Elisabetta Manuele" creationdate="20180627T173349Z">
@@ -26436,6 +26444,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133619Z" creationid="Marco Marega" creationdate="20180815T133619Z">
         <seg>Per maggiori informazioni, vedete il &lt;/f4&gt;&lt;f5&gt;Capitolo &lt;/f5&gt;&lt;f6&gt;1&lt;/f6&gt;&lt;f7&gt;4, &lt;/f7&gt;&lt;f8&gt;(Personalizzazione di LibreOffice)&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;/f4&gt;&lt;f5&gt;the&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Math Guide&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; for more information.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T201759Z" creationid="Marco Marega" creationdate="20180826T201759Z">
+        <seg>Per maggiori informazioni, vedete &lt;/f4&gt;&lt;f5&gt;la&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Guida a Math&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
