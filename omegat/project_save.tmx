@@ -18199,6 +18199,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However,&lt;/f15&gt;&lt;f16&gt; this &lt;/f16&gt;&lt;f17&gt;method cannot be used &lt;/f17&gt;&lt;f18&gt;for the double-quote character itself, &lt;/f18&gt;&lt;f19&gt;see “&lt;/f19&gt;&lt;f20&gt;&lt;bf21&gt;Text in formulas&lt;/bf21&gt;&lt;/f20&gt;&lt;f22&gt;” below&lt;/f22&gt;&lt;f23&gt;.&lt;/f23&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T202748Z" creationid="Marco Marega" creationdate="20180826T202748Z">
+        <seg>Però,&lt;/f15&gt;&lt;f16&gt; questo &lt;/f16&gt;&lt;f17&gt;metodo non può &lt;/f17&gt;&lt;f18&gt;essere usato per il carattere delle virgolette doppie, &lt;/f18&gt;&lt;f19&gt;vedete “&lt;/f19&gt;&lt;f20&gt;&lt;bf21&gt;Testo nelle formule&lt;/bf21&gt;&lt;/f20&gt;&lt;f22&gt;” qui di seguito&lt;/f22&gt;&lt;f23&gt;.&lt;/f23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hyphenating words</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T073503Z" creationid="manuel" creationdate="20180627T073503Z">
