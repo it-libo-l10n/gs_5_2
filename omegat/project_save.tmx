@@ -1678,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f24&gt;&lt;f25&gt;F&lt;/f25&gt;&lt;f26&gt;or example, you cannot write &lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;2% = 0.02&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;in markup language and expect the same characters to appear in the formula&lt;/f30&gt;&lt;f31&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T202215Z" creationid="Marco Marega" creationdate="20180826T202215Z">
+        <seg>&lt;/f24&gt;&lt;f25&gt;Ad&lt;/f25&gt;&lt;f26&gt; esempio, nel linguaggio di markup non potete scrivere &lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;2% = 0.02&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt; &lt;/f29&gt;&lt;f30&gt;ed aspettarvi che nella formula compaiano gli stessi caratteri&lt;/f30&gt;&lt;f31&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f26&gt;&lt;f27&gt;See &lt;/f27&gt;&lt;f28&gt;Appendix A, &lt;/f28&gt;&lt;f29&gt;C&lt;/f29&gt;&lt;f30&gt;ommands Reference,&lt;/f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;f32&gt;in the &lt;/f32&gt;&lt;f33&gt;&lt;f34&gt;Math Guide&lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt; &lt;/f35&gt;&lt;f36&gt;for a list of Greek characters that can be entered using markup language&lt;/f36&gt;&lt;f37&gt;.&lt;/f37&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T185541Z" creationid="Marco Marega" creationdate="20180817T185541Z">
@@ -4211,6 +4219,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T113944Z" creationid="Marco Marega" creationdate="20180815T113944Z">
         <seg>&lt;f0&gt;Usate il commando &lt;/f0&gt;&lt;f1&gt;Importa MathML&lt;/f1&gt; dagli&lt;f2&gt; &lt;/f2&gt;appunti&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Use double quotes &lt;/f0&gt;&lt;f1&gt;either side of the character &lt;/f1&gt;&lt;f2&gt;to mark &lt;/f2&gt;&lt;f3&gt;that&lt;/f3&gt;&lt;f4&gt; character as text, for example &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;2"%"= 0.02&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;will appear in the formula as&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&lt;df11&gt;&lt;d12/&gt;&lt;di13/&gt;&lt;s14&gt;formula&lt;/s14&gt;&lt;/df11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f15&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T202519Z" creationid="Marco Marega" creationdate="20180826T202519Z">
+        <seg>&lt;f0&gt;Racchiudete il carattere&lt;/f0&gt;&lt;f1&gt; tra virgolette doppie &lt;/f1&gt;&lt;f2&gt;per contrassegnarlo &lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt; come testo, ad esempio &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;2"%"= 0.02&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt; nella formula verrà visualizzato come &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&lt;df11&gt;&lt;d12/&gt;&lt;di13/&gt;&lt;s14&gt;formula&lt;/s14&gt;&lt;/df11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f15&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34985,6 +35001,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160222Z" creationid="manuel" creationdate="20180608T160222Z">
         <seg>Per ottimizzare l'esportazione &lt;i0/&gt;HTML&lt;i1/&gt;, selezionate un browser oppure lo standard HTML dal riquadro &lt;f2&gt;Esporta&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To overcome this limitation&lt;/f31&gt;&lt;f32&gt;, use one of the following methods:&lt;/f32&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T202246Z" creationid="Marco Marega" creationdate="20180826T202246Z">
+        <seg>Per superare questa limitazione&lt;/f31&gt;&lt;f32&gt;, usate uno dei seguenti metodi:&lt;/f32&gt;</seg>
       </tuv>
     </tu>
     <tu>
