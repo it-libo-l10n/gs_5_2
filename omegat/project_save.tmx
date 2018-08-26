@@ -4079,6 +4079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The font used for text in a formula will be the default font that &lt;/f0&gt;&lt;f1&gt;has&lt;/f1&gt;&lt;f2&gt; been set in the Fonts dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T215521Z" creationid="Marco Marega" creationdate="20180826T215521Z">
+        <seg>&lt;f0&gt;Il carattere utilizzato per il testo all'interno di una formula sarà il carattere predefinito &lt;/f0&gt;&lt;f1&gt;impostato&lt;/f1&gt;&lt;f2&gt; nella finestra di dialogo Tipi di carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The sum and int&lt;/f0&gt;&lt;f1&gt;egral&lt;/f1&gt;&lt;f2&gt; commands can take the parameters &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;from&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; and &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;to&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;if you want to set the&lt;/f9&gt;&lt;f10&gt; lower and upper limits respectively.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T125546Z" creationid="Marco Marega" creationdate="20180825T125546Z">
