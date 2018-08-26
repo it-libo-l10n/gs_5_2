@@ -4039,6 +4039,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The Special Characters dialog used by other LibreOffice modules is not available in Math.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T203440Z" creationid="Marco Marega" creationdate="20180826T203440Z">
+        <seg>&lt;f0&gt;La finestra di dialogo Caratteri speciali, in uso negli altri moduli di LibreOffice, non è disponibile in Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The sum and int&lt;/f0&gt;&lt;f1&gt;egral&lt;/f1&gt;&lt;f2&gt; commands can take the parameters &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;from&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; and &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;to&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;if you want to set the&lt;/f9&gt;&lt;f10&gt; lower and upper limits respectively.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T125546Z" creationid="Marco Marega" creationdate="20180825T125546Z">
@@ -19579,6 +19587,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080348Z" creationid="manuel" creationdate="20180531T080348Z">
         <seg>Se registrate le modifiche, salvate versioni multiple, o includete informazioni nascoste o note nei vostri documenti, e desiderate che alcuni dei destinatari non vedano queste informazioni, potete impostare degli avvisi per ricordarvi di rimuovere tali informazioni, oppure potete fare in modo che LibreOffice cancelli automaticamente alcune informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you regularly require special characters in Math, the characters &lt;/f0&gt;&lt;f1&gt;should be added &lt;/f1&gt;&lt;f2&gt;to the &lt;/f2&gt;&lt;f3&gt;catalog of &lt;/f3&gt;&lt;f4&gt;Math &lt;/f4&gt;&lt;f5&gt;symbols&lt;/f5&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T203556Z" creationid="Marco Marega" creationdate="20180826T203556Z">
+        <seg>Se in Math avete frequentemente la necessità di usare caratteri speciali, &lt;/f0&gt;&lt;f1&gt;dovreste aggiungerli &lt;/f1&gt;&lt;f2&gt;al &lt;/f2&gt;&lt;f3&gt;catalogo dei simboli di &lt;/f3&gt;&lt;f4&gt;Math &lt;/f4&gt;&lt;f5&gt;symbols&lt;/f5&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
