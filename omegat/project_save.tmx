@@ -29952,6 +29952,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;down-arrow&lt;/f0&gt; opens a selected menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071738Z" creationid="briga" creationdate="20180827T071738Z">
+        <seg>The &lt;f0&gt;down-arrow&lt;/f0&gt; opens a selected menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f1&gt;Edit File&lt;/f1&gt; icon becomes active on the Standard toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123542Z" creationid="Marco Marega" creationdate="20180623T123542Z">
@@ -30020,6 +30028,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T192418Z" creationid="Marco Marega" creationdate="20180811T192418Z">
         <seg>La sezione &lt;f5&gt;Aspetto cella&lt;/f5&gt; del pannello &lt;f6&gt;Proprietà&lt;/f6&gt; della Barra laterale contiene un campo di controllo &lt;f7&gt;Sfondo cella&lt;/f7&gt; con una tavolozza dei colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f6&gt;Home&lt;/f6&gt; and &lt;f7&gt;End&lt;/f7&gt; keys select the first and the last item on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071736Z" creationid="briga" creationdate="20180827T071736Z">
+        <seg>I tasti &lt;f6&gt;Home&lt;/f6&gt; e &lt;f7&gt;Fine&lt;/f7&gt; selezionano la prima e l'ultima voce sulla barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38699,6 +38715,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150719Z" creationid="manuel" creationdate="20180705T150719Z">
         <seg>Con un gradiente di  trasparenza, la direzione e il grado del colore di riempimento di un oggetto cambia da opaco a trasparente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the &lt;f4&gt;right‑arrow&lt;/f4&gt;, the next menu to the right is selected; with the &lt;f5&gt;left-arrow&lt;/f5&gt;, the previous menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071713Z" creationid="briga" creationdate="20180827T071713Z">
+        <seg>Usando la &lt;f4&gt;freccia destra&lt;/f4&gt; viene selezionato il menu successivo sulla destra; usando la &lt;f5&gt;freccia sinistra&lt;/f5&gt; viene selezionato il menu precedente.</seg>
       </tuv>
     </tu>
     <tu>
