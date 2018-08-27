@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6492,6 +6492,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143231Z" creationid="Marco Marega" creationdate="20180813T143231Z">
         <seg>Inoltre, l'ordinamento è utile quando aggiungete nuove informazioni al foglio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alt+&lt;?&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070857Z" creationid="briga" creationdate="20180827T070857Z">
+        <seg>Alt+&lt;?&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13135,6 +13143,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Esc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070823Z" creationid="briga" creationdate="20180827T070823Z">
+        <seg>Esc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even if objects are located behind others and not visible, they can still be selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172019Z" creationid="manuel" creationdate="20180706T171957Z">
@@ -13219,6 +13235,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T094101Z" creationid="briga" creationdate="20180821T094101Z">
         <seg>Esempio: aggiungere un'icona &lt;i0/&gt;Fax a una barra degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: to access the &lt;f0&gt;Printer Settings&lt;/f0&gt; item of the &lt;f1&gt;File&lt;/f1&gt; menu after opening it, press &lt;f2&gt;R&lt;/f2&gt; twice to move from the initial &lt;f3&gt;Digital Signatures &lt;/f3&gt;selection to &lt;f4&gt;Printer Settings.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071349Z" creationid="briga" creationdate="20180827T071349Z">
+        <seg>Esempio: per accedere alla voce &lt;f0&gt;Impostazioni stampante&lt;/f0&gt; del menu &lt;f1&gt;File&lt;/f1&gt; dopo averlo aperto, premete &lt;f2&gt;R&lt;/f2&gt; due volte per spostarvi dalla selezione iniziale &lt;f3&gt;Firme digitali&lt;/f3&gt; a &lt;f4&gt;Impostazioni stampante&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15499,6 +15523,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T110323Z" creationid="Marco Marega" creationdate="20180824T110323Z">
         <seg>Ad esempio, &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;left( matrix { a # b ## c # d } right)&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; da come risultato&lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;&lt;df26&gt;&lt;d27/&gt;&lt;di28/&gt;&lt;s29&gt;formula&lt;/s29&gt;&lt;/df26&gt;&lt;/f25&gt;&lt;/f24&gt;&lt;f30&gt; in cui la matrice è racchiusa tra parentesi ridimensionate alla stessa.&lt;/f30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;f0&gt;Alt+F&lt;/f0&gt; opens the menu &lt;f1&gt;File.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070946Z" creationid="briga" creationdate="20180827T070946Z">
+        <seg>Ad esempio, &lt;f0&gt;Alt+F&lt;/f0&gt; apre il menu &lt;f1&gt;File.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20207,10 +20239,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In LibreOffice Help: goes up one level.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070833Z" creationid="briga" creationdate="20180827T070833Z">
+        <seg>Nella Guida di LibreOffice: va su di un livello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In LibreOffice Help: jumps to the first help page of the selected tab.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132614Z" creationid="briga" creationdate="20180823T132614Z">
-        <seg>In LibreOffice Help: jumps to the first help page of the selected tab.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070810Z" creationid="briga" creationdate="20180823T132614Z">
+        <seg>Nella Guida di LibreOffice: passa alla prima pagina di aiuto della scheda selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24920,6 +24960,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening menus</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070837Z" creationid="briga" creationdate="20180827T070837Z">
+        <seg>Apre il menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening menus and menu items</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070840Z" creationid="briga" creationdate="20180827T070840Z">
+        <seg>Apertura dei menu e delle voci di menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a menu where &lt;?&gt; is the underlined character of the menu you want to open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070914Z" creationid="briga" creationdate="20180827T070914Z">
+        <seg>Apre un menu, dove &lt;?&gt; è il carattere sottolineato del menu che volete aprire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens sub-sections for object properties that you can change to suit your requirements.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180630T150340Z" creationid="manuel" creationdate="20180630T150340Z">
@@ -28424,6 +28488,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+F1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070812Z" creationid="briga" creationdate="20180827T070812Z">
+        <seg>Maiusc+F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+F2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070820Z" creationid="briga" creationdate="20180827T070820Z">
+        <seg>Maiusc+F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Tab</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141607Z" creationid="Marco Marega" creationdate="20180714T141607Z">
@@ -28520,6 +28600,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shows the tip for an item underneath the cursor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070818Z" creationid="briga" creationdate="20180827T070818Z">
+        <seg>Mostra il suggerimento per l'elemento sotto il cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shows the total number of words and characters in the document or in the selection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191425Z" creationid="Marco Marega" creationdate="20180620T191425Z">
@@ -28532,6 +28620,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191935Z" creationid="Marco Marega" creationdate="20180620T191935Z">
         <seg>Visualizza il tipo di modalità di inserimento in cui si trova il programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows tip for a selected item.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070821Z" creationid="briga" creationdate="20180827T070821Z">
+        <seg>Mostra il suggerimento per l'elemento selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36005,6 +36101,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Turns the cursor into the &lt;f0&gt;What’s This?&lt;/f0&gt; question mark.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070817Z" creationid="briga" creationdate="20180827T070817Z">
+        <seg>Trasforma il cursore nel punto interrogativo &lt;f0&gt;Cos'è questo?&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Two album titles containing 25 and 32 characters respectively will use space for 25 and 32 characters and not 100 characters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T062852Z" creationid="manuel" creationdate="20180806T062852Z">
@@ -38303,6 +38407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Where two menu items have the same underlined character, press the character key again to move to the next item.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070957Z" creationid="briga" creationdate="20180827T070957Z">
+        <seg>Se due voci di menu hanno lo stesso carattere sottolineato, premete nuovamente il tasto del carattere per passare alla voce successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whereas normally the code is preserved but rendered inactive (if you inspect it with the StarBasic IDE you will notice that it is all commented), with this option the code is ready to be executed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154115Z" creationid="manuel" creationdate="20180608T154115Z">
@@ -38483,6 +38595,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T212314Z" creationid="Marco Marega" creationdate="20180731T211615Z">
         <seg>Quando la cella è selezionata, fateci clic sopra con il pulsante destro del mouse e nel menu contestuale selezionate &lt;f0&gt;Formatta Celle&lt;/f0&gt; o, nella barra del menu andate in &lt;f1&gt;Formato &gt; Celle&lt;/f1&gt;, oppure usate la combinazione di tasti &lt;f2&gt;Ctrl+1&lt;/f2&gt; in modo da aprire la finestra di dialogo &lt;f3&gt;Formato Celle&lt;/f3&gt; (Figura &lt;t4&gt;104&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the menu open, you will again find underlined characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070949Z" creationid="briga" creationdate="20180827T070949Z">
+        <seg>Con il menu aperto troverete altri caratteri sottolineati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38875,6 +38995,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163257Z" creationid="manuel" creationdate="20180703T163257Z">
         <seg>In Draw è possibile accedere a diverse &lt;i0/&gt;apposite tavolozze di colori, così come cambiare i singoli colori a piacimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can access these menu items directly by pressing the underlined character key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T070954Z" creationid="briga" creationdate="20180827T070954Z">
+        <seg>Potete accedere a queste voci di menu direttamente, semplicemente premendo il tasto del carattere sottolineato.</seg>
       </tuv>
     </tu>
     <tu>
