@@ -2655,6 +2655,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;F10 &lt;/f0&gt;or&lt;f1&gt; Alt&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071606Z" creationid="briga" creationdate="20180827T071606Z">
+        <seg>&lt;f0&gt;F10 &lt;/f0&gt; o &lt;f1&gt;Alt&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;F&lt;/f0&gt;&lt;f1&gt;or&lt;/f1&gt;&lt;f2&gt; a &lt;/f2&gt;&lt;f3&gt;lowercase&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Greek &lt;/f5&gt;&lt;f6&gt;character, &lt;/f6&gt;&lt;f7&gt;t&lt;/f7&gt;&lt;f8&gt;ype a &lt;/f8&gt;&lt;f9&gt;percentage&lt;/f9&gt;&lt;f10&gt; % sign, &lt;/f10&gt;&lt;f11&gt;then&lt;/f11&gt;&lt;f12&gt; type the &lt;/f12&gt;&lt;f13&gt;character &lt;/f13&gt;&lt;f14&gt;name in lowercase&lt;/f14&gt;&lt;f15&gt; using the English name&lt;/f15&gt;&lt;f16&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T185718Z" creationid="Marco Marega" creationdate="20180817T185718Z">
@@ -5932,6 +5940,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104109Z" creationid="manuel" creationdate="20180606T104109Z">
         <seg>Il supporto per l'accesso facilitato si appoggia a Java Runtime Environment per le comunicazioni con strumenti di tecnologia assistiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Accessing a menu command</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071619Z" creationid="briga" creationdate="20180827T071619Z">
+        <seg>Accesso a un comando di menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -10669,6 +10685,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Closes an open menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071454Z" creationid="briga" creationdate="20180827T071454Z">
+        <seg>Chiude un menu aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Closes the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154724Z" creationid="luke" creationdate="20180514T154724Z">
@@ -11322,6 +11346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141002Z" creationid="Marco Marega" creationdate="20180714T141002Z">
         <seg>Ctrl+Fine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+F6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071528Z" creationid="briga" creationdate="20180827T071528Z">
+        <seg>Ctrl+F6</seg>
       </tuv>
     </tu>
     <tu>
@@ -12163,6 +12195,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181612Z" creationid="Marco Marega" creationdate="20180620T181612Z">
         <seg>Le barre strumenti agganciate possono essere sganciate e spostate in una nuova posizione, oppure essere lasciate come barre mobili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071520Z" creationid="briga" creationdate="20180827T071520Z">
+        <seg>Documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -13167,6 +13207,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Every free window from left to right</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071518Z" creationid="briga" creationdate="20180827T071518Z">
+        <seg>Ogni finestra mobile da sinistra a destra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Every table requires a &lt;f0&gt;Primary key field&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134241Z" creationid="manuel" creationdate="20180721T134241Z">
@@ -13187,6 +13235,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163004Z" creationid="manuel" creationdate="20180715T163004Z">
         <seg>Ogni volta che viene aperto il database &lt;f0&gt;Automobile&lt;/f0&gt;, si apre la finestra &lt;f1&gt;Automobile – LibreOffice Base&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Every toolbar from top to bottom and from left to right</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071510Z" creationid="briga" creationdate="20180827T071510Z">
+        <seg>Ogni barra degli strumenti dall'alto verso il basso e da sinistra a destra</seg>
       </tuv>
     </tu>
     <tu>
@@ -13443,6 +13499,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173537Z" creationid="Elisabetta Manuele" creationdate="20180627T173537Z">
         <seg>F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071455Z" creationid="briga" creationdate="20180827T071455Z">
+        <seg>F6</seg>
       </tuv>
     </tu>
     <tu>
@@ -25504,6 +25568,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Alt&lt;/f0&gt; or &lt;f1&gt;F6&lt;/f1&gt; or &lt;f2&gt;F10&lt;/f2&gt; to select the first item on the menu bar (the &lt;f3&gt;File&lt;/f3&gt; menu).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071648Z" creationid="briga" creationdate="20180827T071648Z">
+        <seg>Premete &lt;f0&gt;Alt&lt;/f0&gt; o &lt;f1&gt;F6&lt;/f1&gt; o &lt;f2&gt;F10&lt;/f2&gt; per selezionare la prima voce sulla barra dei menu (il menu &lt;f3&gt;File&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;f0&gt;Esc&lt;/f0&gt; to exit from this mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152429Z" creationid="manuel" creationdate="20180621T152429Z">
@@ -26052,6 +26124,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150435Z" creationid="manuel" creationdate="20180612T150435Z">
         <seg>Ripetete il passo 3 fino ad aver effettuato tutte le modifiche per quello stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeatedly pressing &lt;f0&gt;F6&lt;/f0&gt; switches the focus and circles through the following objects:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071500Z" creationid="briga" creationdate="20180827T071500Z">
+        <seg>La pressione ripetuta di &lt;f0&gt;F6&lt;/f0&gt; consente di spostare il fuoco attraverso i seguenti oggetti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28504,6 +28584,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+F6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071521Z" creationid="briga" creationdate="20180827T071521Z">
+        <seg>Maiusc+F6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Tab</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141607Z" creationid="Marco Marega" creationdate="20180714T141607Z">
@@ -29452,6 +29540,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111517Z" creationid="manuel" creationdate="20180707T111517Z">
         <seg>Supponete di voler applicare lo stesso riempimento di area, spessore della linea e bordo ad un gruppo di oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switches the focus to the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071544Z" creationid="briga" creationdate="20180827T071544Z">
+        <seg>Sposta il fuoco al documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switches through objects in the opposite direction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071524Z" creationid="briga" creationdate="20180827T071524Z">
+        <seg>Sposta il fuoco attraverso gli oggetti in direzione opposta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switches to the Menu bar and back.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071616Z" creationid="briga" creationdate="20180827T071616Z">
+        <seg>Permette di passare alla barra dei menu e tornare indietro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32465,6 +32577,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There may be instances where an item in a menu has no underlined character.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071427Z" creationid="briga" creationdate="20180827T071427Z">
+        <seg>Ci potrebbero essere delle occorrenze dove un menu non ha un carattere sottolineato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There you can choose whether to check uppercase words and words with numbers, and you can manage custom dictionaries, that is, add or delete dictionaries and add or delete words in a dictionary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T064741Z" creationid="manuel" creationdate="20180626T064741Z">
@@ -33493,6 +33613,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T172106Z" creationid="manuel" creationdate="20180628T172106Z">
         <seg>Questa barra degli strumenti contiene delle liste per aiutare a selezionare la sicurezza del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will have to be clicked directly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071450Z" creationid="briga" creationdate="20180827T071450Z">
+        <seg>In questo caso dovete fare clic direttamente.</seg>
       </tuv>
     </tu>
     <tu>
