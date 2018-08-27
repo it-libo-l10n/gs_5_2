@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -58,6 +58,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085508Z" creationid="manuel" creationdate="20180530T085508Z">
         <seg>(Non disponibile in Windows.) Selezionate questa opzione per smorzare l'aspetto del testo sul monitor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Press the &lt;f0&gt;N&lt;/f0&gt; key once to select it.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104928Z" creationid="manuel" creationdate="20180827T104928Z">
+        <seg>(Premete il tasto &lt;f0&gt;N&lt;/f0&gt; per selezionarla.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Press the &lt;f1&gt;D&lt;/f1&gt; key to select it.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104802Z" creationid="manuel" creationdate="20180827T104802Z">
+        <seg>(Premete il tasto &lt;f1&gt;D&lt;/f1&gt; per selezionarla.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2895,10 +2911,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;FuelCost&lt;/f0&gt;, &lt;f1&gt;FuelQuantity&lt;/f1&gt;, and &lt;f2&gt;Odometer&lt;/f2&gt; need changes in the Field Properties section (Figure &lt;t3&gt;212&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T105108Z" creationid="manuel" creationdate="20180827T105108Z">
+        <seg>&lt;f0&gt;CostoCarburante&lt;/f0&gt;, &lt;f1&gt;QuantitàCarburante&lt;/f1&gt;, e &lt;f2&gt;Chilometraggio&lt;/f2&gt; necessitano di modifiche nella sezione Proprietà del campo (Figura &lt;t3&gt;212&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;FuelCost&lt;/f0&gt;: Change the Length to 5 and Decimal places to 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T105130Z" creationid="manuel" creationdate="20180827T105130Z">
+        <seg>&lt;f0&gt;CostoCarburante&lt;/f0&gt;: Impostate la Lunghezza a 5 e le Posizioni decimali a 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;FuelID&lt;/f0&gt; field: Type &lt;f1&gt;FuelID&lt;/f1&gt; as the first Field Name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104024Z" creationid="manuel" creationdate="20180822T104024Z">
         <seg>Campo &lt;f0&gt;IDCarburante&lt;/f0&gt;: Digitate &lt;f1&gt;IDCarburante&lt;/f1&gt; come primo Nome campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;FuelQuantity&lt;/f0&gt;: Change &lt;f1&gt;Length&lt;/f1&gt; to 6 and &lt;f2&gt;Decimal places&lt;/f2&gt; to 3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T105906Z" creationid="manuel" creationdate="20180827T105906Z">
+        <seg>&lt;f0&gt;QuantitàCarburante&lt;/f0&gt;: Impostate la &lt;f1&gt;Lunghezza&lt;/f1&gt; a 5 e le &lt;f2&gt;Posizioni decimali&lt;/f2&gt; a 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3587,6 +3627,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T090928Z" creationid="manuel" creationdate="20180530T090928Z">
         <seg>&lt;f0&gt;Incolla Appunti&lt;/f0&gt; – la pressione del pulsante centrale del mouse inserisce il contenuto degli “&lt;i1/&gt;Appunti di selezione” alla posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;PaymentType&lt;/f0&gt; uses Text [VARCHAR], the default setting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T105001Z" creationid="manuel" creationdate="20180827T105001Z">
+        <seg>Per &lt;f0&gt;TipoDiPagamento&lt;/f0&gt; usate Testo [VARCHAR], l'impostazione predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6408,6 +6456,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All other fields (&lt;f0&gt;Date, FuelCost, FuelQuantity, Odometer&lt;/f0&gt;, and &lt;f1&gt;PaymentType&lt;/f1&gt;):</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104516Z" creationid="manuel" creationdate="20180827T104516Z">
+        <seg>Tutti gli altri campi (&lt;f0&gt;Data, CostoCarburante, QuantitàCarburante, Chilometraggio&lt;/f0&gt;, e &lt;f1&gt;TipoDiPagamento&lt;/f1&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All other fields use Number [NUMERIC].</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104820Z" creationid="manuel" creationdate="20180827T104820Z">
+        <seg>Per tutti gli altri campi usate Numero [NUMERIC].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150759Z" creationid="Marco Marega" creationdate="20180714T150759Z">
@@ -6900,6 +6964,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112208Z" creationid="manuel" creationdate="20180705T112208Z">
         <seg>Qualsiasi modifica di un oggetto combinato influisce su tutti gli oggetti usati per creare la combinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any name can be used for this field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104102Z" creationid="manuel" creationdate="20180827T104102Z">
+        <seg>Per il relativo campo può essere usato un qualsiasi nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8294,6 +8366,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135225Z" creationid="Marco Marega" creationdate="20180707T135225Z">
         <seg>Le celle contengono i singoli elementi - testo, numeri, formule, ecc. - che costituiscono i dati da visualizzare e manipolare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Certain of the Integer filed types (Integer and BigInt for example) have an AutoValue Field Property.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T103427Z" creationid="manuel" creationdate="20180827T103427Z">
+        <seg>Alcuni tipi di campo di numeri interi (per esempio Integer e BigInt) hanno la proprietà di campo valore automatico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10425,6 +10505,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T094959Z" creationid="manuel" creationdate="20180622T094959Z">
         <seg>Fate clic sui pulsanti &lt;f1&gt;Trova successivo&lt;/f1&gt; o &lt;f2&gt;Trova precedente&lt;/f2&gt; secondo necessità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f1&gt;Format example&lt;/f1&gt; ellipse button (...) (Figure &lt;t2&gt;212&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T105607Z" creationid="manuel" creationdate="20180827T105507Z">
+        <seg>Fate clic sul pulsante ellittico &lt;f1&gt;Esempio di formato&lt;/f1&gt; (...) (Figura &lt;t2&gt;212&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15411,6 +15499,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062558Z" creationid="manuel" creationdate="20180531T062558Z">
         <seg>I caratteri che sono regolati per l'utilizzo con una scrittura specifica, come l'Arabo, l'Ebraico, il Malayalam, e così via, ora mostrano una ulteriore anteprima di un testo di esempio nella scrittura di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For &lt;f0&gt;Date&lt;/f0&gt; use Date[DATE].</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104729Z" creationid="manuel" creationdate="20180827T104729Z">
+        <seg>Per la &lt;f0&gt;Data&lt;/f0&gt; usate Data[DATE].</seg>
       </tuv>
     </tu>
     <tu>
@@ -23904,6 +24000,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>My currency has two decimal places.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T105701Z" creationid="manuel" creationdate="20180827T105701Z">
+        <seg>Per l'Euro scegliere 2 posizioni decimali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>My expenses divided into three broad areas: fuel purchases, maintenance, and vacations.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154733Z" creationid="manuel" creationdate="20180715T154733Z">
@@ -25676,6 +25780,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184314Z" creationid="Marco Marega" creationdate="20180713T184201Z">
         <seg>Premendo &lt;f2&gt;Maiusc+Invio&lt;/f2&gt; il focus si sposta verso l'alto alla riga precedente nella stessa colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Primary keys for any other field type must be selected by right-clicking the rectangle before the field and selecting &lt;f0&gt;Primary key&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104025Z" creationid="manuel" creationdate="20180827T104025Z">
+        <seg>Le chiavi primarie per qualsiasi altro tipo di campo devono essere selezionate facendo clic con il pulsante destro del mouse sul rettangolo prima del campo e selezionando &lt;f0&gt;Chiave primaria&lt;/f0&gt; nel menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27732,6 +27844,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T083021Z" creationid="manuel" creationdate="20180621T083021Z">
         <seg>Selezionate il pulsante &lt;f1&gt;Nuovo tema&lt;/f1&gt; per creare nuove categorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the Field Type for each field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104652Z" creationid="manuel" creationdate="20180827T104652Z">
+        <seg>Selezionate Tipo campo per ogni campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31929,6 +32049,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The primary key serves only one purpose: to identify each record uniquely.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104055Z" creationid="manuel" creationdate="20180827T104055Z">
+        <seg>La chiave primaria ha un unico scopo: individuare un record in modo univoco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The quickest and easiest method to flip an object horizontally or vertically is as follows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T101406Z" creationid="manuel" creationdate="20180707T101406Z">
@@ -33445,6 +33573,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T162754Z" creationid="manuel" creationdate="20180715T162754Z">
         <seg>Questo apre la finestra Automobile – LibreOffice Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This opens the Field Format window (Figure &lt;t3&gt;213&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T105401Z" creationid="manuel" creationdate="20180827T105401Z">
+        <seg>In tal modo si apre la finestra Formattazione di campo (Figura &lt;t3&gt;213&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36381,6 +36517,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type the next field name in the Field Name column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104543Z" creationid="manuel" creationdate="20180827T104543Z">
+        <seg>Digitate il nome di campo successivo nella colonna Nome campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type the row identifiers in the &lt;f0&gt;Rows to repeat&lt;/f0&gt; box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205012Z" creationid="Marco Marega" creationdate="20180813T204631Z">
@@ -36610,6 +36754,14 @@
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164914Z" creationid="manuel" creationdate="20180626T164914Z">
         <seg>Per vedere la relativa barra degli strumenti usate &lt;f1&gt;Visualizza &gt; Barre degli strumenti &gt; Elenchi puntati e numerati&lt;/f1&gt;.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f4&gt;Currency&lt;/f4&gt; as the Category and your currency as the Format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T105651Z" creationid="manuel" creationdate="20180827T105651Z">
+        <seg>Scegliete &lt;f4&gt;Valuta&lt;/f4&gt; come Categoria e la vostra valuta come Formato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36914,6 +37066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144521Z" creationid="manuel" creationdate="20180608T144521Z">
         <seg>Usate questa opzione per selezionare il comportamento predefinito per l'indirizzamento relativo degli URL nel file system e su Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use what is appropriate for yours.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T105718Z" creationid="manuel" creationdate="20180827T105718Z">
+        <seg>Usate comunque il valore che vi sembra più appropriato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37670,6 +37830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We have used &lt;f0&gt;FuelID&lt;/f0&gt; for convenience, so we know to which table it belongs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104220Z" creationid="manuel" creationdate="20180827T104220Z">
+        <seg>È stato usato &lt;f0&gt;IDCarburante&lt;/f0&gt; per comodità, così da sapere a quale tabella appartiene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T182113Z" creationid="Elisabetta Manuele" creationdate="20180620T181343Z">
@@ -38243,6 +38411,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T160714Z" creationid="manuel" creationdate="20180628T160714Z">
         <seg>Usando un collegamento ipertestuale, non avete possibilità di scelta riguardo al contenuto del collegamento (ad esempio testo o numero di pagina), mentre usando un riferimento incrociato, avete diverse possibilità di scelta, inclusi i segnalibri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using one of these field types, your selection of &lt;f0&gt;Yes&lt;/f0&gt; for the AutoValue value automatically makes the field the primary key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180827T103833Z" creationid="manuel" creationdate="20180827T103833Z">
+        <seg>Quando usate uno di questi tipi di campo, se avete selzionato a &lt;f0&gt;Sì&lt;/f0&gt; il valore automatico ciò fa in modo che il campo diventi la chiave primaria.</seg>
       </tuv>
     </tu>
     <tu>
