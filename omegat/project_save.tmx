@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(&lt;f0&gt;Ctrl+Alt&lt;/f0&gt;) Moves the cursor up or down one paragraph.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133346Z" creationid="briga" creationdate="20180828T133346Z">
+        <seg>(&lt;f0&gt;Ctrl+Alt&lt;/f0&gt;) Sposta il cursore in alto o in basso di un paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Both remain active when the document is exported to PDF.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161108Z" creationid="manuel" creationdate="20180628T161108Z">
@@ -6032,6 +6040,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Activates selected button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133454Z" creationid="briga" creationdate="20180828T133454Z">
+        <seg>Attiva il pulsante selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Activating Quickstarter</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212735Z" creationid="Marco Marega" creationdate="20180607T203659Z">
@@ -10797,6 +10813,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Closes dialog without saving any changes made while it was open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133528Z" creationid="briga" creationdate="20180828T133528Z">
+        <seg>Chiude la finestra di dialogo senza salvare le modifiche effettuate mentre la finestra era aperta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Closes the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154724Z" creationid="luke" creationdate="20180514T154724Z">
@@ -13139,6 +13163,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055918Z" creationid="manuel" creationdate="20180531T055918Z">
         <seg>Abilita e disabilita l'uso del linguaggio grafico 3D OpenGL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133401Z" creationid="briga" creationdate="20180828T133401Z">
+        <seg>Fine</seg>
       </tuv>
     </tu>
     <tu>
@@ -18175,6 +18207,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133352Z" creationid="briga" creationdate="20180828T133352Z">
+        <seg>Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Horizontal lines.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T161053Z" creationid="manuel" creationdate="20180626T161053Z">
@@ -20819,6 +20859,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174559Z" creationid="Elisabetta Manuele" creationdate="20180627T174559Z">
         <seg>Nella maggior parte dei casi in questa guida non si riscontrano termini tecnici, ma può essere utile conoscerli perché si possono ritrovare frequentemente nella Guida in linea o in altre guide e manuali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases where no button is selected, &lt;f0&gt;Enter&lt;/f0&gt; is equivalent to clicking &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133515Z" creationid="briga" creationdate="20180828T133515Z">
+        <seg>Nella maggior parte dei casi in cui nessun pulsante è selezionato, premere &lt;f0&gt;Invio&lt;4 equivale a fare clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases, &lt;f0&gt;Esc&lt;/f0&gt; is equivalent to clicking Cancel.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135516Z" creationid="briga" creationdate="20180828T135516Z">
+        <seg>Nella maggior parte dei casi, &lt;f0&gt;Esc&lt;/f0&gt; equivale al clic su Annulla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23904,6 +23960,78 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves the cursor one character to the left or to the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133314Z" creationid="briga" creationdate="20180828T133314Z">
+        <seg>Sposta il cursore di un carattere a sinistra o a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor one word to the left or to the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133316Z" creationid="briga" creationdate="20180828T133316Z">
+        <seg>Sposta il cursore di una parola a sinistra o a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor to the beginning of the current line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133355Z" creationid="briga" creationdate="20180828T133355Z">
+        <seg>Sposta il cursore all'inizio della riga corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor to the beginning of the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133357Z" creationid="briga" creationdate="20180828T133357Z">
+        <seg>Sposta il cursore all'inizio del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor to the end of the current line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133403Z" creationid="briga" creationdate="20180828T133403Z">
+        <seg>Sposta il cursore alla fine della riga corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor to the end of the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133405Z" creationid="briga" creationdate="20180828T133405Z">
+        <seg>Sposta il cursore alla fine del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor to the footer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133417Z" creationid="briga" creationdate="20180828T133417Z">
+        <seg>Sposta il cursore al piè di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor to the header.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133412Z" creationid="briga" creationdate="20180828T133412Z">
+        <seg>Sposta il cursore all'intestazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor up or down one line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133321Z" creationid="briga" creationdate="20180828T133321Z">
+        <seg>Sposta il cursore in alto o in basso di una riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving a template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T105417Z" creationid="manuel" creationdate="20180616T105417Z">
@@ -25552,6 +25680,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PgDn</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133414Z" creationid="briga" creationdate="20180828T133414Z">
+        <seg>PaginaGiù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PgUp</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133407Z" creationid="briga" creationdate="20180828T133407Z">
+        <seg>PaginaSù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place the cursor in the first paragraph of the new page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102736Z" creationid="manuel" creationdate="20180627T102736Z">
@@ -25628,6 +25772,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T132109Z" creationid="briga" creationdate="20180823T132109Z">
         <seg>Tenete presente che ad eccezione della piattaforma Windows, il supporto per l'accesso facilitato si basa sulla tecnologia Java per comunicare con gli strumenti di accesso facilitato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plus Ctrl key</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133255Z" creationid="briga" creationdate="20180828T133255Z">
+        <seg>Più tasto Ctrl</seg>
       </tuv>
     </tu>
     <tu>
@@ -26464,6 +26616,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right, left arrow keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133310Z" creationid="briga" creationdate="20180828T133310Z">
+        <seg>Tasti freccia destra e sinistra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173402Z" creationid="Elisabetta Manuele" creationdate="20180627T173402Z">
@@ -26884,6 +27044,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080248Z" creationid="manuel" creationdate="20180531T080248Z">
         <seg>Casella solo schermo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scroll down one page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133415Z" creationid="briga" creationdate="20180828T133415Z">
+        <seg>Scorre in basso di una pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scrolls up one page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133408Z" creationid="briga" creationdate="20180828T133408Z">
+        <seg>Scorre in alto di una pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33401,6 +33577,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This element is said to have the focus on it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133441Z" creationid="briga" creationdate="20180828T133441Z">
+        <seg>Si dice che l'elemento è a fuoco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This enables the &lt;f1&gt;Modify&lt;/f1&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T123147Z" creationid="briga" creationdate="20180823T123147Z">
@@ -36773,6 +36957,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Up, down arrow keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133318Z" creationid="briga" creationdate="20180828T133318Z">
+        <seg>Tasti freccia su e giù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Update a style from a selection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155840Z" creationid="manuel" creationdate="20180612T155840Z">
@@ -38787,6 +38979,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163942Z" creationid="Marco Marega" creationdate="20180729T163942Z">
         <seg>Se spostate o copiate un foglio in un altro, o in un nuovo foglio elettronico, potrebbero crearsi dei conflitti con le formule che collegate ad altri fogli che fanno riferimento al posizionamento precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you open any dialog, one element (such as a button, an option field, an entry in a list box, or a checkbox) is highlighted or indicated by a dotted box around the field or button name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133437Z" creationid="briga" creationdate="20180828T133437Z">
+        <seg>Quando aprite una qualsiasi finestra di dialogo, un elemento (come un pulsante, un campo di opzione, una voce in una casella di riepilogo, o una casella di controllo) è evidenziato o indicato con un riquadro tratteggiato intorno al campo o al nome del pulsante.</seg>
       </tuv>
     </tu>
     <tu>
