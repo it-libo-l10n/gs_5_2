@@ -10885,6 +10885,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Closes the application.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150225Z" creationid="briga" creationdate="20180828T150225Z">
+        <seg>Chiude l'applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Closes the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T141119Z" creationid="luke" creationdate="20180514T154724Z">
@@ -11254,6 +11262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creates a new document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150206Z" creationid="briga" creationdate="20180828T150206Z">
+        <seg>Crea un nuovo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating &lt;i0/&gt;new (custom) styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T173925Z" creationid="manuel" creationdate="20180612T173925Z">
@@ -11558,10 +11574,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+N</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150204Z" creationid="briga" creationdate="20180828T150204Z">
+        <seg>Ctrl+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+O</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T141132Z" creationid="briga" creationdate="20180828T141132Z">
         <seg>Ctrl+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+P</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150215Z" creationid="briga" creationdate="20180828T150215Z">
+        <seg>Ctrl+P</seg>
       </tuv>
     </tu>
     <tu>
@@ -11578,6 +11610,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141451Z" creationid="Marco Marega" creationdate="20180714T141451Z">
         <seg>Ctrl+PagSu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150223Z" creationid="briga" creationdate="20180828T150223Z">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+S</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150147Z" creationid="briga" creationdate="20180828T150147Z">
+        <seg>Ctrl+S</seg>
       </tuv>
     </tu>
     <tu>
@@ -11970,6 +12018,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152401Z" creationid="Elisabetta Manuele" creationdate="20180625T152401Z">
         <seg>Definire i tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Del</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150227Z" creationid="briga" creationdate="20180828T150227Z">
+        <seg>Canc</seg>
       </tuv>
     </tu>
     <tu>
@@ -19543,6 +19599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are working on a previously unsaved file, the shortcut launches the Save As dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150157Z" creationid="briga" creationdate="20180828T150157Z">
+        <seg>Se state lavorando su un file precedentemente non salvato, la scelta rapida avvia la finestra di dialogo Salva con nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you cannot place the cursor in the table of contents, choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f0&gt;, and then select &lt;f1&gt;Enable &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Cursor&lt;/f3&gt;&lt;/f2&gt; in the &lt;f4&gt;&lt;f5&gt;P&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;rotected areas&lt;/f6&gt; section.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T152111Z" creationid="manuel" creationdate="20180628T143145Z">
@@ -21183,6 +21247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Save and Open dialogs, deletes the selected files or folders.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150232Z" creationid="briga" creationdate="20180828T150232Z">
+        <seg>Nelle finestre di dialogo Salva e Apri, elimina le cartelle o i file selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Styles and Formatting window, click the arrow next to the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon, and then select &lt;f1&gt;Load Styles&lt;/f1&gt; (see Figure &lt;t2&gt;48&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071049Z" creationid="manuel" creationdate="20180614T071049Z">
@@ -22079,6 +22151,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Items can be retrieved from the Recycle Bin (Trash), if your desktop has one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150253Z" creationid="briga" creationdate="20180828T150253Z">
+        <seg>Gli elementi possono essere recuperati dal Cestino, se il vostro sistema operativo ne ha uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Its Smart Connectors feature allows you to define your own connection points.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210847Z" creationid="Marco Marega" creationdate="20180527T210847Z">
@@ -22299,6 +22379,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155236Z" creationid="manuel" creationdate="20180628T155236Z">
         <seg>In seguito, voi o chiunque può revisionare il documento e accettare o rifiutare qualsiasi modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launches the Open dialog to open a document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150147Z" creationid="briga" creationdate="20180828T150147Z">
+        <seg>Avvia la finestra di dialogo Apri per aprire un documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25456,6 +25544,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the Print dialog to print the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150218Z" creationid="briga" creationdate="20180828T150218Z">
+        <seg>Apre la finestra di dialogo Stampa per stampare un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the Templates and Documents dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150210Z" creationid="briga" creationdate="20180828T150210Z">
+        <seg>Apre la finestra di dialogo Modelli e documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Optional (unstable) options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065108Z" creationid="manuel" creationdate="20180608T065108Z">
@@ -27084,6 +27188,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154808Z" creationid="manuel" creationdate="20180628T154808Z">
         <seg>Salvate le versioni che sono memorizzate come parti del file originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saves the current document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150149Z" creationid="briga" creationdate="20180828T150149Z">
+        <seg>Salva il documento corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29060,6 +29172,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211716Z" creationid="Marco Marega" creationdate="20180712T211716Z">
         <seg>Schede dei fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+N</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150207Z" creationid="briga" creationdate="20180828T150207Z">
+        <seg>Maiusc+Ctrl+N</seg>
       </tuv>
     </tu>
     <tu>
