@@ -29560,6 +29560,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spacebar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135613Z" creationid="briga" creationdate="20180828T135613Z">
+        <seg>Spacebar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spacing options for paragraphs before text tables</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143719Z" creationid="manuel" creationdate="20180608T143719Z">
@@ -38499,6 +38507,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095950Z" creationid="manuel" creationdate="20180707T095950Z">
         <seg>Quando un oggetto è selezionato e fate clic su di esso con il pulsante destro del mouse, si apre un menu contestuale (Figura &lt;t0&gt;196&lt;/t0&gt;) relativo all'oggetto selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When an open drop-down list is selected, &lt;f1&gt;Esc &lt;/f1&gt;closes the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135526Z" creationid="briga" creationdate="20180828T135526Z">
+        <seg>Quando è selezionato un elenco a comparsa aperto, &lt;f1&gt;Esc &lt;/f1&gt;&lt;f2&gt;chiude l'elenco.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
