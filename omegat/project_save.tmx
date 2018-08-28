@@ -7705,6 +7705,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backspace</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150318Z" creationid="briga" creationdate="20180828T150318Z">
+        <seg>Backspace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Barbara M.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180101Z" creationid="Elisabetta Manuele" creationdate="20180627T180101Z">
@@ -11214,6 +11222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copies selected items to the clipboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150349Z" creationid="briga" creationdate="20180828T150349Z">
+        <seg>Copia gli elementi selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy content</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091959Z" creationid="manuel" creationdate="20180530T091959Z">
@@ -11550,10 +11566,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+A</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150411Z" creationid="briga" creationdate="20180828T150411Z">
+        <seg>Ctrl+A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+C, Ctrl+Ins</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150344Z" creationid="briga" creationdate="20180828T150344Z">
+        <seg>Ctrl+C, Ctrl+Ins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+End</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141002Z" creationid="Marco Marega" creationdate="20180714T141002Z">
         <seg>Ctrl+Fine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+F</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150437Z" creationid="briga" creationdate="20180828T150437Z">
+        <seg>Ctrl+F</seg>
       </tuv>
     </tu>
     <tu>
@@ -11626,6 +11666,54 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T150147Z" creationid="briga" creationdate="20180828T150147Z">
         <seg>Ctrl+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+V</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150405Z" creationid="briga" creationdate="20180828T150405Z">
+        <seg>Ctrl+Maiusc+V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+Y</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150417Z" creationid="briga" creationdate="20180828T150417Z">
+        <seg>Ctrl+Shift+Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+V, Shift+Ins</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150359Z" creationid="briga" creationdate="20180828T150359Z">
+        <seg>Ctrl+V, Maiusc+Ins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+X, Shift+Del</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150337Z" creationid="briga" creationdate="20180828T150337Z">
+        <seg>Ctrl+X, Maiusc+Canc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150415Z" creationid="briga" creationdate="20180828T150415Z">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Z</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150413Z" creationid="briga" creationdate="20180828T150413Z">
+        <seg>Ctrl+Z</seg>
       </tuv>
     </tu>
     <tu>
@@ -11746,6 +11834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141810Z" creationid="Marco Marega" creationdate="20180714T141810Z">
         <seg>Personalizzare&lt;i0/&gt; il tasto Invio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cuts selected items.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150341Z" creationid="briga" creationdate="20180828T150341Z">
+        <seg>Taglia gli elementi selezionati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21255,6 +21351,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Save and Open dialogs, shows contents of the current directory’s parent folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150323Z" creationid="briga" creationdate="20180828T150323Z">
+        <seg>Nelle finestre di dialogo Salva e Apri, mostra i contenuti della cartella superiore della cartella corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Styles and Formatting window, click the arrow next to the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon, and then select &lt;f1&gt;Load Styles&lt;/f1&gt; (see Figure &lt;t2&gt;48&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071049Z" creationid="manuel" creationdate="20180614T071049Z">
@@ -22147,6 +22251,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153846Z" creationid="manuel" creationdate="20180715T153846Z">
         <seg>Conterrà un campo per i nomi degli autori ed un altro campo per i titoli dei libri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Items are permanently deleted: they can not be retrieved from the Recycle Bin.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150312Z" creationid="briga" creationdate="20180828T150312Z">
+        <seg>Gli elementi vengono eliminati in modo permanente: essi non possono essere recuperati dal Cestino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25544,6 +25656,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the Paste Special dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150409Z" creationid="briga" creationdate="20180828T150409Z">
+        <seg>Apre la finestra di dialogo Incolla speciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the Print dialog to print the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T150218Z" creationid="briga" creationdate="20180828T150218Z">
@@ -25836,6 +25956,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055204Z" creationid="manuel" creationdate="20180531T055204Z">
         <seg>Incollare contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pastes copied or cut items from the clipboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150403Z" creationid="briga" creationdate="20180828T150403Z">
+        <seg>Incolla dagli appunti gli elementi copiati o tagliati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26496,6 +26624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Redoes last action.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150416Z" creationid="briga" creationdate="20180828T150416Z">
+        <seg>Ripristina l'ultima operazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>References tab</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163708Z" creationid="manuel" creationdate="20180628T163708Z">
@@ -26684,6 +26820,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180827T071500Z" creationid="briga" creationdate="20180827T071500Z">
         <seg>La pressione ripetuta di &lt;f0&gt;F6&lt;/f0&gt; consente di spostare il fuoco attraverso i seguenti oggetti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeats last command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150418Z" creationid="briga" creationdate="20180828T150418Z">
+        <seg>Ripete l'ultimo comando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28976,6 +29120,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selects all.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150412Z" creationid="briga" creationdate="20180828T150412Z">
+        <seg>Seleziona tutto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Send usage data to help The Document Foundation improve usability of the software.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081042Z" creationid="manuel" creationdate="20180530T081042Z">
@@ -29188,6 +29340,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T141106Z" creationid="briga" creationdate="20180828T141106Z">
         <seg>Maiusc+Ctrl+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Del</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150255Z" creationid="briga" creationdate="20180828T150255Z">
+        <seg>Maiusc+Canc</seg>
       </tuv>
     </tu>
     <tu>
@@ -37193,6 +37353,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135923Z" creationid="manuel" creationdate="20180609T135923Z">
         <seg>Sotto Windows viene sempre utilizzato il programma e-mail predefinito del sistema operativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Undoes last action.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150414Z" creationid="briga" creationdate="20180828T150414Z">
+        <seg>Annulla l'ultima operazione.</seg>
       </tuv>
     </tu>
     <tu>
