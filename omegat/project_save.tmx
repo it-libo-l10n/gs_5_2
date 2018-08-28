@@ -11606,6 +11606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+H</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154715Z" creationid="briga" creationdate="20180828T154715Z">
+        <seg>Ctrl+H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Home</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140912Z" creationid="Marco Marega" creationdate="20180714T140912Z">
@@ -11640,16 +11648,16 @@
       <tuv lang="EN">
         <seg>Ctrl+Page Down</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141258Z" creationid="Marco Marega" creationdate="20180714T141258Z">
-        <seg>Ctrl+PagGiù</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154854Z" creationid="Marco Marega" creationdate="20180714T141258Z">
+        <seg>Ctrl+Pagina giù</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Page Up</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141451Z" creationid="Marco Marega" creationdate="20180714T141451Z">
-        <seg>Ctrl+PagSu</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154852Z" creationid="Marco Marega" creationdate="20180714T141451Z">
+        <seg>Ctrl+Pagina su</seg>
       </tuv>
     </tu>
     <tu>
@@ -11670,6 +11678,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+F</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154738Z" creationid="briga" creationdate="20180828T154738Z">
+        <seg>Ctrl+Maiusc+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+I</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154753Z" creationid="briga" creationdate="20180828T154753Z">
+        <seg>Ctrl+Maiusc+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154743Z" creationid="briga" creationdate="20180828T154743Z">
+        <seg>Ctrl+Maiusc+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+V</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T150405Z" creationid="briga" creationdate="20180828T150405Z">
@@ -11682,6 +11714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T150417Z" creationid="briga" creationdate="20180828T150417Z">
         <seg>Ctrl+Shift+Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Spacebar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154843Z" creationid="briga" creationdate="20180828T154843Z">
+        <seg>Ctrl+Barra spaziatrice</seg>
       </tuv>
     </tu>
     <tu>
@@ -24272,6 +24312,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves pointer to the first row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154853Z" creationid="briga" creationdate="20180828T154853Z">
+        <seg>Sposta il puntatore alla prima riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves pointer to the last row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154857Z" creationid="briga" creationdate="20180828T154857Z">
+        <seg>Sposta il puntatore all'ultima riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves the cursor one character to the left or to the right.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T133314Z" creationid="briga" creationdate="20180828T133314Z">
@@ -25648,6 +25704,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the Find &amp; Replace dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154733Z" creationid="briga" creationdate="20180828T154733Z">
+        <seg>Apre la finestra di dialogo Cerca e sostituisci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the Find dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154724Z" creationid="briga" creationdate="20180828T154713Z">
+        <seg>Apre la finestra di dialogo Cercai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the LibreOffice Help dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T132611Z" creationid="briga" creationdate="20180823T132611Z">
@@ -26640,6 +26712,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refreshes (redraws) the document view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154750Z" creationid="briga" creationdate="20180828T154750Z">
+        <seg>Aggiorna la vista del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regina Henschel</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175951Z" creationid="Elisabetta Manuele" creationdate="20180627T175951Z">
@@ -27444,6 +27524,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T133408Z" creationid="briga" creationdate="20180828T133408Z">
         <seg>Scorre in alto di una pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searches for the last entered search term.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154741Z" creationid="briga" creationdate="20180828T154741Z">
+        <seg>Esegue una ricerca per l'ultimo termine inserito nel riquadro di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29056,6 +29144,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting rows and columns in a &lt;i0/&gt;database table opened by &lt;f1&gt;Ctrl+Shift+&lt;/f1&gt;F4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154830Z" creationid="briga" creationdate="20180828T154830Z">
+        <seg>Selezionare righe e colonne in una &lt;i0/&gt;tabella di database aperta tramite combinazione &lt;f1&gt;Ctrl+Maiusc+&lt;/f1&gt;F4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting rows and columns in a database table opened by Ctrl+Shift+F4</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152325Z" creationid="Elisabetta Manuele" creationdate="20180625T152325Z">
@@ -29124,6 +29220,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T150412Z" creationid="briga" creationdate="20180828T150412Z">
         <seg>Seleziona tutto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selects the current column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154851Z" creationid="briga" creationdate="20180828T154851Z">
+        <seg>Seleziona la colonna corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29384,6 +29488,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Spacebar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154849Z" creationid="briga" creationdate="20180828T154849Z">
+        <seg>Maiusc+Barra spaziatrice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Tab</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141607Z" creationid="Marco Marega" creationdate="20180714T141607Z">
@@ -29396,6 +29508,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T132552Z" creationid="briga" creationdate="20180823T132552Z">
         <seg>Tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154832Z" creationid="briga" creationdate="20180828T154832Z">
+        <seg>Tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut keys for &lt;i0/&gt;drawing objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154906Z" creationid="briga" creationdate="20180828T154906Z">
+        <seg>Tasti di scelta rapida per &lt;i0/&gt;oggetti di disegno</seg>
       </tuv>
     </tu>
     <tu>
@@ -29436,6 +29564,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T135922Z" creationid="briga" creationdate="20180828T135922Z">
         <seg>Mostra gli elementi in un elenco a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows or hides the cursor in read-only text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154756Z" creationid="briga" creationdate="20180828T154756Z">
+        <seg>Mostra o nasconde il cursore nel testo in sola lettura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37045,6 +37181,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Toggles row selection, except when the row is in edit mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154841Z" creationid="briga" creationdate="20180828T154841Z">
+        <seg>Commuta la selezione delle righe, tranne quando la riga è in modalità modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toggles row selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154847Z" creationid="briga" creationdate="20180828T154847Z">
+        <seg>Commuta la selezione di riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tool bars and Sidebar panels share many functions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T222247Z" creationid="Marco Marega" creationdate="20180620T222247Z">
@@ -42499,6 +42651,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T113929Z" creationid="manuel" creationdate="20180721T113929Z">
         <seg>tabella database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>database tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T154803Z" creationid="briga" creationdate="20180828T154803Z">
+        <seg>tabelle database</seg>
       </tuv>
     </tu>
     <tu>
