@@ -2441,8 +2441,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Ctrl+*&lt;/f0&gt; (multiplication sign: on number pad only)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135942Z" creationid="briga" creationdate="20180828T135942Z">
-        <seg>&lt;f0&gt;Ctrl+*&lt;/f0&gt; (multiplication sign: on number pad only)</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T141026Z" creationid="briga" creationdate="20180828T135942Z">
+        <seg>&lt;f0&gt;Ctrl+* &lt;/f0&gt; (segno di moltiplicazione: solo del tastierino numerico)</seg>
       </tuv>
     </tu>
     <tu>
