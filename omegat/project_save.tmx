@@ -5520,6 +5520,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A draw object will be placed into the middle of the view, with a predefined size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T132254Z" creationid="briga" creationdate="20180828T132254Z">
+        <seg>L'oggetto di disegno verrà posizionato al centro della vista, con una dimensione predefinita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A drop-down list appears listing any cell in the same column that either has at least one text character or whose format is defined as text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T085743Z" creationid="Marco Marega" creationdate="20180811T085743Z">
@@ -19161,8 +19169,8 @@
       <tuv lang="EN">
         <seg>If the selected icon normally demands a consecutive mouse action, such as inserting a rectangle, then pressing the &lt;f1&gt;Enter&lt;/f1&gt; key is not sufficient: in these cases press &lt;f2&gt;Ctrl+Enter&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154727Z" creationid="luke" creationdate="20180514T154727Z">
-        <seg>If the selected icon normally demands a consecutive mouse action, such as inserting a rectangle, then pressing the &lt;f1&gt;Enter&lt;/f1&gt; key is not sufficient: in these cases press &lt;f2&gt;Ctrl+Enter&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T132238Z" creationid="luke" creationdate="20180514T154727Z">
+        <seg>Se l'icona selezionata normalmente richiede un'azione consecutiva del mouse, come l'inserimento di un rettangolo, la pressione del tasto &lt;f1&gt;Invio&lt;/f1&gt; non è sufficiente; in questi casi premete &lt;f2&gt;Ctrl+Invio&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25688,10 +25696,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt; on an icon for creating a draw object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T132250Z" creationid="briga" creationdate="20180828T132250Z">
+        <seg>Premete &lt;f0&gt;Ctrl+Invio&lt;/f0&gt; su un'icona per creare un oggetto di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;f0&gt;Enter&lt;/f0&gt; to run the selected icon.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180828T131636Z" creationid="briga" creationdate="20180828T131636Z">
-        <seg>Press &lt;f0&gt;Enter&lt;/f0&gt; to run the selected icon.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T132229Z" creationid="briga" creationdate="20180828T131636Z">
+        <seg>Premete &lt;f0&gt;Invio&lt;/f0&gt; per eseguire l'icona selezionata.</seg>
       </tuv>
     </tu>
     <tu>
