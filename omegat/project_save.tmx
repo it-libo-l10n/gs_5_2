@@ -2439,6 +2439,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Ctrl+*&lt;/f0&gt; (multiplication sign: on number pad only)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135942Z" creationid="briga" creationdate="20180828T135942Z">
+        <seg>&lt;f0&gt;Ctrl+*&lt;/f0&gt; (multiplication sign: on number pad only)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; (&lt;f1&gt;Control&lt;/f1&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173457Z" creationid="Elisabetta Manuele" creationdate="20180627T173457Z">
@@ -6248,6 +6256,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advances focus to the next section or element of a dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135858Z" creationid="briga" creationdate="20180828T135858Z">
+        <seg>Fa avanzare il fuoco alla sezione o all'elemento successivo di una finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advantages of LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203232Z" creationid="Marco Marega" creationdate="20180527T211728Z">
@@ -6604,6 +6620,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180827T070857Z" creationid="briga" creationdate="20180827T070857Z">
         <seg>Alt+&lt;?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alt+Down Arrow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135919Z" creationid="briga" creationdate="20180828T135919Z">
+        <seg>Alt+Freccia giù</seg>
       </tuv>
     </tu>
     <tu>
@@ -8946,6 +8970,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checks an empty checkbox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135831Z" creationid="briga" creationdate="20180828T135831Z">
+        <seg>Inserisce la spunta su una casella di controllo vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checks for a single space between sentences, indicating when one or two extra spaces are found.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105705Z" creationid="manuel" creationdate="20180609T105422Z">
@@ -9326,6 +9358,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181029Z" creationid="Elisabetta Manuele" creationdate="20180620T181029Z">
         <seg>Classificazione del contenuto dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clears a checked checkbox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135833Z" creationid="briga" creationdate="20180828T135833Z">
+        <seg>Elimina la spunta da una casella di controllo selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20865,8 +20905,8 @@
       <tuv lang="EN">
         <seg>In most cases where no button is selected, &lt;f0&gt;Enter&lt;/f0&gt; is equivalent to clicking &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180828T133515Z" creationid="briga" creationdate="20180828T133515Z">
-        <seg>Nella maggior parte dei casi in cui nessun pulsante è selezionato, premere &lt;f0&gt;Invio&lt;4 equivale a fare clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135718Z" creationid="briga" creationdate="20180828T133515Z">
+        <seg>Nella maggior parte dei casi in cui nessun pulsante è selezionato, premere &lt;f0&gt;Invio&lt;/f0&gt; equivale a fare clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21355,6 +21395,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154913Z" creationid="manuel" creationdate="20180626T154913Z">
         <seg>Aumentare la spaziatura del paragrafo, diminuire la spaziatura del paragrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Increases or decreases value of a variable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135840Z" creationid="briga" creationdate="20180828T135840Z">
+        <seg>Aumenta o diminuisce il valore di una variabile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22275,6 +22323,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T085425Z" creationid="manuel" creationdate="20180806T085425Z">
         <seg>Lasciate selezionata l'opzione &lt;f0&gt;Inserisci subito i dati&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left, right arrow keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135846Z" creationid="briga" creationdate="20180828T135846Z">
+        <seg>Tasti freccia sinistra e destra</seg>
       </tuv>
     </tu>
     <tu>
@@ -23956,6 +24012,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200546Z" creationid="Marco Marega" creationdate="20180713T200546Z">
         <seg>Sposta il focus di una cella in alto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves focus horizontally within a section of a dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135850Z" creationid="briga" creationdate="20180828T135850Z">
+        <seg>Sposta il fuoco orizzontalmente all'interno di una sezione di una finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves focus up and down a list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135838Z" creationid="briga" creationdate="20180828T135838Z">
+        <seg>Sposta il fuoco su e giù in un elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves focus vertically within a section of dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135844Z" creationid="briga" creationdate="20180828T135844Z">
+        <seg>Sposta il fuoco verticalmente all'interno di una sezione di una finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26592,6 +26672,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns focus to the previous section or element in a dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135914Z" creationid="briga" creationdate="20180828T135914Z">
+        <seg>Riporta il fuoco alla sezione o elemento precedente nella finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Richard Barnes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175927Z" creationid="Elisabetta Manuele" creationdate="20180627T175927Z">
@@ -29016,6 +29104,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shows items in a drop-down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135922Z" creationid="briga" creationdate="20180828T135922Z">
+        <seg>Mostra gli elementi in un elenco a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shows the current language of the text at the current cursor position.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191747Z" creationid="Marco Marega" creationdate="20180620T191747Z">
@@ -29562,8 +29658,8 @@
       <tuv lang="EN">
         <seg>Spacebar</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135613Z" creationid="briga" creationdate="20180828T135613Z">
-        <seg>Spacebar</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135828Z" creationid="briga" creationdate="20180828T135613Z">
+        <seg>Barra spaziatrice</seg>
       </tuv>
     </tu>
     <tu>
@@ -38513,8 +38609,8 @@
       <tuv lang="EN">
         <seg>When an open drop-down list is selected, &lt;f1&gt;Esc &lt;/f1&gt;closes the list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135526Z" creationid="briga" creationdate="20180828T135526Z">
-        <seg>Quando è selezionato un elenco a comparsa aperto, &lt;f1&gt;Esc &lt;/f1&gt;&lt;f2&gt;chiude l'elenco.&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T135746Z" creationid="briga" creationdate="20180828T135526Z">
+        <seg>Quando è selezionato un elenco a comparsa aperto, &lt;f1&gt;Esc &lt;/f1&gt;chiude l'elenco.</seg>
       </tuv>
     </tu>
     <tu>
