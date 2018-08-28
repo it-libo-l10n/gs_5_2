@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(See Chapter 9 for more about macros.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T141104Z" creationid="briga" creationdate="20180828T141104Z">
+        <seg>(Consultate il capitolo 9 per maggiori informazioni sulle macro).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(See Figure &lt;t0&gt;210&lt;/t0&gt;.) You can then make changes to meet your needs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180725T063051Z" creationid="manuel" creationdate="20180725T063051Z">
@@ -2443,6 +2451,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T141026Z" creationid="briga" creationdate="20180828T135942Z">
         <seg>&lt;f0&gt;Ctrl+* &lt;/f0&gt; (segno di moltiplicazione: solo del tastierino numerico)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Ctrl+F4&lt;/f0&gt; or &lt;f1&gt;Alt+F4&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T141117Z" creationid="briga" creationdate="20180828T141117Z">
+        <seg>&lt;f0&gt;Ctrl+F4&lt;/f0&gt; o &lt;f1&gt;Alt+F4&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10845,6 +10861,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Closes LibreOffice when the last open document is closed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T141131Z" creationid="briga" creationdate="20180828T141131Z">
+        <seg>Chiude LibreOffice quando viene chiuso l'ultimo documento aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Closes an open menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180827T071454Z" creationid="briga" creationdate="20180827T071454Z">
@@ -10863,8 +10887,8 @@
       <tuv lang="EN">
         <seg>Closes the current document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154724Z" creationid="luke" creationdate="20180514T154724Z">
-        <seg>Closes the current document.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T141119Z" creationid="luke" creationdate="20180514T154724Z">
+        <seg>Chiude il documento corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11530,6 +11554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T140912Z" creationid="Marco Marega" creationdate="20180714T140912Z">
         <seg>Ctrl+Inizio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+O</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T141132Z" creationid="briga" creationdate="20180828T141132Z">
+        <seg>Ctrl+O</seg>
       </tuv>
     </tu>
     <tu>
@@ -26984,6 +27016,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Runs a macro field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T141029Z" creationid="briga" creationdate="20180828T141029Z">
+        <seg>Esegue un campo macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Same as above, but for the Print dialogs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141909Z" creationid="manuel" creationdate="20180529T061406Z">
@@ -29024,6 +29064,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Ctrl+Q</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T141106Z" creationid="briga" creationdate="20180828T141106Z">
+        <seg>Maiusc+Ctrl+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Enter</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T141656Z" creationid="Marco Marega" creationdate="20180714T141656Z">
@@ -29884,6 +29932,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T084943Z" creationid="manuel" creationdate="20180806T084943Z">
         <seg>Passo 4: Creazione della tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stops a running macro.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T141108Z" creationid="briga" creationdate="20180828T141108Z">
+        <seg>Ferma una macro in esecuzione.</seg>
       </tuv>
     </tu>
     <tu>
