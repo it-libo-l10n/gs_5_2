@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6788,6 +6788,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T213254Z" creationid="Marco Marega" creationdate="20180619T213254Z">
         <seg>Una barra degli strumenti attiva ha un segno di spunta vicino al suo nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An additional &lt;f1&gt;down-arrow&lt;/f1&gt; or &lt;f2&gt;up-arrow&lt;/f2&gt; moves the selection through the menu commands.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T131538Z" creationid="briga" creationdate="20180828T131538Z">
+        <seg>Una ulteriore &lt;f1&gt;freccia verso il basso&lt;/f1&gt; e &lt;f2&gt;freccia verso l'alto&lt;/f2&gt; sposta la selezione attraverso i comandi del menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25680,6 +25688,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Enter&lt;/f0&gt; to run the selected icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T131636Z" creationid="briga" creationdate="20180828T131636Z">
+        <seg>Press &lt;f0&gt;Enter&lt;/f0&gt; to run the selected icon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Enter&lt;/f0&gt; to run the selected menu command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T131604Z" creationid="briga" creationdate="20180828T131604Z">
+        <seg>Premete &lt;f0&gt;Invio&lt;/f0&gt; per eseguire il comando di menu selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;f0&gt;Esc&lt;/f0&gt; to exit from this mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152429Z" creationid="manuel" creationdate="20180621T152429Z">
@@ -25692,6 +25716,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090037Z" creationid="luke" creationdate="20180515T090037Z">
         <seg>Press &lt;f0&gt;F5&lt;/f0&gt; on the keyboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;F6&lt;/f0&gt; repeatedly until the first icon on the toolbar is selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T131615Z" creationid="briga" creationdate="20180828T131615Z">
+        <seg>Premete &lt;f0&gt;F6&lt;/f0&gt; ripetutamente fino a selezionare la prima icona sulla barra degli strumenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26652,6 +26684,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090035Z" creationid="luke" creationdate="20180515T090035Z">
         <seg>Running a slide show</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running a toolbar command</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T131609Z" creationid="briga" creationdate="20180828T131609Z">
+        <seg>Esecuzione di un comando su una barra degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -28880,6 +28920,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Similarly, use the up and down arrows to select any icon on a vertical toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T131627Z" creationid="briga" creationdate="20180828T131627Z">
+        <seg>In modo simile, usate le frecce verso l'alto e verso il basso per selezionare un'icona su una barra degli strumenti verticale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since LibreOffice version 4.4, you can create templates for Master Documents as well as for ordinary documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114422Z" creationid="manuel" creationdate="20180611T114422Z">
@@ -30074,8 +30122,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;down-arrow&lt;/f0&gt; opens a selected menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180827T071738Z" creationid="briga" creationdate="20180827T071738Z">
-        <seg>The &lt;f0&gt;down-arrow&lt;/f0&gt; opens a selected menu.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T131522Z" creationid="briga" creationdate="20180827T071738Z">
+        <seg>La &lt;f0&gt;freccia verso il basso&lt;/f0&gt; apre un menu selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30084,6 +30132,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123542Z" creationid="Marco Marega" creationdate="20180623T123542Z">
         <seg>Nella barra degli strumenti Standard l'icona &lt;f1&gt;Modifica file&lt;/f1&gt; diventa attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f1&gt;Home&lt;/f1&gt; key selects the first icon on a toolbar, and the &lt;f2&gt;End&lt;/f2&gt; key the last.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T131634Z" creationid="briga" creationdate="20180828T131634Z">
+        <seg>Il tasto &lt;f1&gt;Home&lt;/f1&gt; seleziona la prima icona su una barra degli strumenti e il tasto &lt;f2&gt;Fine&lt;/f2&gt; seleziona l'ultima icona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30124,6 +30180,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T135354Z" creationid="manuel" creationdate="20180615T135354Z">
         <seg>Si apre la finestra di dialogo &lt;f2&gt;Salva come&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f3&gt;right-arrow&lt;/f3&gt; opens any existing submenus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T131559Z" creationid="briga" creationdate="20180828T131559Z">
+        <seg>La &lt;f3&gt;freccia a destra&lt;/f3&gt; apre qualsiasi sottomenu esistente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37014,6 +37078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the right and left arrows to select any icon on a horizontal toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T131624Z" creationid="briga" creationdate="20180828T131624Z">
+        <seg>Usate le frecce destra e sinistra per selezionare un'icona su una barra degli strumenti orizzontale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the slide sorter &lt;f0&gt;(see page&lt;/f0&gt; &lt;bf1&gt;160&lt;/bf1&gt;&lt;f2&gt;) &lt;/f2&gt;to reorder your photo album.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085947Z" creationid="luke" creationdate="20180515T085947Z">
@@ -43363,6 +43435,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135855Z" creationid="Marco Marega" creationdate="20180707T135855Z">
         <seg>barra del titolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolbar command</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T131607Z" creationid="briga" creationdate="20180828T131607Z">
+        <seg>Esecuzione di un comando su una barra degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
