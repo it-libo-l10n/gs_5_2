@@ -20031,6 +20031,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to edit, size, or move the selected draw object, first use &lt;f1&gt;Ctrl+F6&lt;/f1&gt; to move the focus into the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T132314Z" creationid="briga" creationdate="20180828T132314Z">
+        <seg>Se volete modificare, ridimensionare o spostare l'oggetto di disegno selezionato, usate prima &lt;f1&gt;Ctrl+F6&lt;/f1&gt; per portare il fuoco nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to go back to working with the ODT version of your document, you must open it again.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143335Z" creationid="manuel" creationdate="20180621T143335Z">
@@ -22083,6 +22091,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123011Z" creationid="Marco Marega" creationdate="20180622T123011Z">
         <seg>Conservare i file su server remoti vi consente di lavorare con i documenti usando diversi computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T132331Z" creationid="briga" creationdate="20180828T132331Z">
+        <seg>Key</seg>
       </tuv>
     </tu>
     <tu>
@@ -25700,6 +25716,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T132250Z" creationid="briga" creationdate="20180828T132250Z">
         <seg>Premete &lt;f0&gt;Ctrl+Invio&lt;/f0&gt; su un'icona per creare un oggetto di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt; on the Selection tool to select the first draw object in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T132303Z" creationid="briga" creationdate="20180828T132303Z">
+        <seg>Premete &lt;f0&gt;Ctrl+Invio&lt;/f0&gt; sullo strumento di Selezione per selezionare il primo oggetto di disegno nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35493,6 +35517,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To move the cursor, press the key or key combination given in the following table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T132323Z" creationid="briga" creationdate="20180828T132323Z">
+        <seg>Per spostare il cursore, premete i tasti o le combinazioni di tasti presenti nella seguente tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To move the focus to another cell using the mouse, simply move the mouse pointer to the cell where you want the focus to be and click the left mouse button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183258Z" creationid="Marco Marega" creationdate="20180713T183258Z">
@@ -35993,6 +36025,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171410Z" creationid="manuel" creationdate="20180706T171410Z">
         <seg>Per selezionare o deselezionare più di un oggetto, tenete premuto il tasto Maiusc mentre fate clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select the characters under the moving cursor, additionally hold down the &lt;f0&gt;Shift&lt;/f0&gt; key when you move the cursor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T132330Z" creationid="briga" creationdate="20180828T132330Z">
+        <seg>Per selezionare i caratteri sotto il cursore in movimento, tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; mentre muovete il cursore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40467,6 +40507,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104125Z" creationid="manuel" creationdate="20180705T104125Z">
         <seg>Potete spostare i piccoli contrassegni dei commenti in qualsiasi punto del disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can navigate through a document and make selections with the keyboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180828T132320Z" creationid="briga" creationdate="20180828T132320Z">
+        <seg>Potete spostarvi nel documento ed effettuare selezioni con la tastiera.</seg>
       </tuv>
     </tu>
     <tu>
