@@ -2134,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Alt&lt;/f0&gt; key while creating or scaling a graphic object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T064024Z" creationid="briga" creationdate="20180830T064024Z">
+        <seg>Tasto &lt;f0&gt;Alt&lt;/f0&gt; nella creazione o scalatura di un oggetto grafico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Any s&lt;/f0&gt;&lt;f1&gt;pace&lt;/f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;at the end of a line in the &lt;/f4&gt;&lt;f5&gt;markup &lt;/f5&gt;&lt;f6&gt;language &lt;/f6&gt;&lt;f7&gt;are ignored by default.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T124912Z" creationid="Marco Marega" creationdate="20180825T124912Z">
@@ -2455,6 +2463,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Ctrl+Enter&lt;/f0&gt; at the Selection icon</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063955Z" creationid="briga" creationdate="20180830T063955Z">
+        <seg>&lt;f0&gt;Ctrl+Invio&lt;/f0&gt; sull'icona Selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Ctrl+F4&lt;/f0&gt; or &lt;f1&gt;Alt+F4&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T141117Z" creationid="briga" creationdate="20180828T141117Z">
@@ -2683,6 +2699,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T060321Z" creationid="manuel" creationdate="20180806T060321Z">
         <seg>&lt;f0&gt;Digitazione necessaria&lt;/f0&gt;: Lasciate &lt;f1&gt;Digitazione necessaria&lt;/f1&gt; su &lt;f2&gt;No&lt;/f2&gt;, a meno che tutta la vostra musica sia su album.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Esc&lt;/f0&gt; (in Handle Selection Mode)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063841Z" creationid="briga" creationdate="20180830T063841Z">
+        <seg>&lt;f0&gt;Esc&lt;/f0&gt; (in modalità selezione maniglia)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3971,6 +3995,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T143300Z" creationid="Marco Marega" creationdate="20180707T143300Z">
         <seg>&lt;f0&gt;Foglio&lt;/f0&gt;&lt;f1&gt; – &lt;s2/&gt;contiene i comandi usati più spesso per lavorare con il foglio di calcolo, come ad esempio&lt;/f1&gt;&lt;f3&gt;Inserisci&lt;/f3&gt; ed &lt;f4&gt;Elimina celle, Colonne, Righe&lt;/f4&gt; e &lt;f5&gt;Fogli&lt;/f5&gt;, così come &lt;f6&gt;Commenti cella&lt;/f6&gt; e  &lt;f7&gt;&lt;f8&gt;Riempi &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;celle&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;/f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Shift&lt;/f0&gt; key while creating or scaling a graphic object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T064032Z" creationid="briga" creationdate="20180830T064032Z">
+        <seg>Tasto &lt;f0&gt;Maiusc&lt;/f0&gt; nella creazione o scalatura di un oggetto grafico</seg>
       </tuv>
     </tu>
     <tu>
@@ -5800,6 +5832,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A new drawing object with default size is placed in the center of the current view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063950Z" creationid="briga" creationdate="20180830T063950Z">
+        <seg>Inserisce un nuovo oggetto di disegno della dimensione predefinita al centro della vista attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A new selection is added to an existing selection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065714Z" creationid="manuel" creationdate="20180618T065714Z">
@@ -5860,6 +5900,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105115Z" creationid="manuel" creationdate="20180704T105115Z">
         <seg>Un poligono senza riempimento non sarà automaticamente chiuso a tracciamento ultimato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A printable character is inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T064015Z" creationid="briga" creationdate="20180830T064015Z">
+        <seg>Viene inserito un carattere stampabile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6068,6 +6116,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T133454Z" creationid="briga" creationdate="20180828T133454Z">
         <seg>Attiva il pulsante selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Activates the Point Selection mode for the selected drawing object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063906Z" creationid="briga" creationdate="20180830T063906Z">
+        <seg>Attiva la modalità selezione punti per l'oggetto di disegno selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Activates the first drawing object in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063957Z" creationid="briga" creationdate="20180830T063957Z">
+        <seg>Attiva il primo oggetto di disegno nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6664,6 +6728,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alt+Up/Down/Left/Right Arrow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063856Z" creationid="briga" creationdate="20180830T063856Z">
+        <seg>Alt+Freccia su/giù/sinistra/destra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, click in the Input Line on the Formula Bar (Figure &lt;t0&gt;87&lt;/t0&gt; on page &lt;t1&gt;115&lt;/t1&gt;), then double-click on the data to highlight it completely and type the new data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094953Z" creationid="Marco Marega" creationdate="20180811T094953Z">
@@ -7076,6 +7148,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T071227Z" creationid="manuel" creationdate="20180627T065912Z">
         <seg>Eventuali tabulazioni che avete definito sovrascriveranno le tabulazioni predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any text or numerical key</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T064006Z" creationid="briga" creationdate="20180830T064006Z">
+        <seg>Qualunque tasto alfanumerico</seg>
       </tuv>
     </tu>
     <tu>
@@ -11590,6 +11670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Enter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063948Z" creationid="briga" creationdate="20180830T063948Z">
+        <seg>Ctrl+Invio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+F</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T150437Z" creationid="briga" creationdate="20180828T150437Z">
@@ -11702,6 +11790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+Tab</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063942Z" creationid="briga" creationdate="20180830T063934Z">
+        <seg>Ctrl+Maiusc+Tab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+V</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T150405Z" creationid="briga" creationdate="20180828T150405Z">
@@ -11722,6 +11818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T154843Z" creationid="briga" creationdate="20180828T154843Z">
         <seg>Ctrl+Barra spaziatrice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Tab</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063925Z" creationid="briga" creationdate="20180830T063925Z">
+        <seg>Ctrl+Tab</seg>
       </tuv>
     </tu>
     <tu>
@@ -13271,6 +13375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit a point of a drawing object (Point Edit mode).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T064004Z" creationid="briga" creationdate="20180830T064004Z">
+        <seg>Permette di modificare un punto di un oggetto di disegno (in modalità modifica punti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit document properties before saving</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144321Z" creationid="manuel" creationdate="20180608T144321Z">
@@ -13435,6 +13547,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T133401Z" creationid="briga" creationdate="20180828T133401Z">
         <seg>Fine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ends Drawing Object selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063834Z" creationid="briga" creationdate="20180830T063834Z">
+        <seg>Termina la selezione dell'oggetto di disegno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13731,6 +13851,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180819T062553Z" creationid="briga" creationdate="20180819T062553Z">
         <seg>I sottomenu esistenti possono essere modificati per cambiare la lettera utilizzata per selezionarli dalla tastiera, quando il menu è aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exit Handle Selection Mode and return to Object Selection Mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063844Z" creationid="briga" creationdate="20180830T063844Z">
+        <seg>Esce dalla modalità selezione maniglia e torna alla modalità selezione oggetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16583,6 +16711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For help with LibreOffice’s keyboard shortcuts, or using LibreOffice with a keyboard only, search the application Help using the “shortcut keys” or “accessibility” keywords.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T064154Z" creationid="briga" creationdate="20180830T064154Z">
+        <seg>Per avere informazioni sui tasti di scelta rapida di LibreOffice, o sull'utilizzo di LibreOffice solo con la tastiera, effettuate una ricerca nella guida in linea, utilizzando parole chiave come “scorciatoia” oppure "accessibilità”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For information about certified professional support, see The Document Foundation’s website: &lt;a0&gt;http&lt;/a0&gt;&lt;a1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;://www.documentfoundation.org/gethelp/support/&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173255Z" creationid="Elisabetta Manuele" creationdate="20180625T173255Z">
@@ -19023,6 +19159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a drawing object is selected, switches to edit mode and places the cursor at the end of the text in the drawing object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T064011Z" creationid="briga" creationdate="20180830T064011Z">
+        <seg>Se è selezionato un oggetto di disegno, attiva la modalità modifica e posiziona il cursore alla fine del testo nell'oggetto di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a drawing object is selected, then the following panels are available:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T143701Z" creationid="manuel" creationdate="20180618T143701Z">
@@ -20815,6 +20959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Rotation mode, the center of rotation can also be selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063933Z" creationid="briga" creationdate="20180830T063933Z">
+        <seg>In modalità rotazione, potete selezionare anche il centro di rotazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Web Layout view, you can use only the Zoom slider; the View Layout buttons on the Status bar are disabled, and most of the choices on the Zoom &amp; View Layout dialog are not available.&lt;f0&gt; In Web layout there is no visual indication of page boundaries.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T105340Z" creationid="manuel" creationdate="20180621T105340Z">
@@ -21003,6 +21155,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T073205Z" creationid="briga" creationdate="20180823T072609Z">
         <seg>Oltre ad utilizzare i tasti di scelta rapida &lt;i0/&gt;integrati&lt;i1/&gt; (elencati nell'Appendice A) è possibile definirne di propri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to using the built-in &lt;i0/&gt;keyboard shortcuts listed in this Appendix, you can define your own.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T064047Z" creationid="briga" creationdate="20180830T064047Z">
+        <seg>In aggiunta ai tasti di scelta rapida integrati &lt;i0/&gt;elencati in questa Appendice, potete definire le vostre scorciatoie personalizzate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22599,6 +22759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Leave the Point Selection mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063959Z" creationid="briga" creationdate="20180830T063959Z">
+        <seg>Abbandona la modalità di selezione punti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Leave the option &lt;f0&gt;Insert data immediately&lt;/f0&gt; checked.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T085425Z" creationid="manuel" creationdate="20180806T085425Z">
@@ -24088,6 +24256,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the selected point (the snap-to-grid functions are temporarily disabled, but end points still snap to each other).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063853Z" creationid="briga" creationdate="20180830T063853Z">
+        <seg>Sposta il punto selezionato (le funzioni di cattura alla griglia vengono temporaneamente disabilitate, ma i punti estremi continuano ad attirarsi reciprocamente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves cell focus down one cell</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200553Z" creationid="Marco Marega" creationdate="20180713T200553Z">
@@ -24404,6 +24580,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T133321Z" creationid="briga" creationdate="20180828T133321Z">
         <seg>Sposta il cursore in alto o in basso di una riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the selected Drawing Object one pixel (in Selection Mode).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063858Z" creationid="briga" creationdate="20180830T063858Z">
+        <seg>Sposta l'oggetto di disegno selezionato di un pixel (in modalità selezione).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25760,6 +25944,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the properties dialog for a Drawing Object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063904Z" creationid="briga" creationdate="20180830T063904Z">
+        <seg>Apre la finestra di dialogo proprietà per un oggetto di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Optional (unstable) options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065108Z" creationid="manuel" creationdate="20180608T065108Z">
@@ -26672,6 +26864,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Re-sizes a Drawing Object (in Handle Selection Mode).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063900Z" creationid="briga" creationdate="20180830T063900Z">
+        <seg>Ridimensiona un oggetto di disegno (in modalità selezione maniglia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reactivating Quickstarter</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T212727Z" creationid="Marco Marega" creationdate="20180616T212727Z">
@@ -27304,6 +27504,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rotates a Drawing Object (in Rotation Mode).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063902Z" creationid="briga" creationdate="20180830T063902Z">
+        <seg>Ruota un oggetto di disegno (in modalità rotazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rotating an object</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T070759Z" creationid="manuel" creationdate="20180707T070759Z">
@@ -27668,6 +27876,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164316Z" creationid="manuel" creationdate="20180608T164316Z">
         <seg>Si veda il Capitolo 13 (Introduzione alle Macro) per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 14, Customizing LibreOffice, for instructions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T064059Z" creationid="briga" creationdate="20180830T064059Z">
+        <seg>Vedere il Capitolo 14 (Personalizzare LibreOffice) per i dettagli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28400,6 +28616,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a point of a drawing object (in Point Selection mode) / Cancel selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063917Z" creationid="briga" creationdate="20180830T063917Z">
+        <seg>Seleziona/deseleziona un punto di un oggetto di disegno (in modalità selezione punti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select an additional point in Point Selection mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063924Z" creationid="briga" creationdate="20180830T063924Z">
+        <seg>Seleziona un punto aggiuntivo in modalità selezione punti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select an object with a single click.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T083823Z" creationid="Marco Marega" creationdate="20180811T083823Z">
@@ -28752,6 +28984,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the document with &lt;f0&gt;Ctrl+F6&lt;/f0&gt; and press &lt;f1&gt;Tab&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063813Z" creationid="briga" creationdate="20180830T063813Z">
+        <seg>Selezionate il documento con &lt;f0&gt;Ctrl+F6&lt;/f0&gt; e premete &lt;f1&gt;Tab&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the fax driver from the &lt;f0&gt;Fax&lt;/f0&gt; list and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T094135Z" creationid="briga" creationdate="20180821T094135Z">
@@ -28832,6 +29072,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the next point of the drawing object (Point Selection mode).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063929Z" creationid="briga" creationdate="20180830T063929Z">
+        <seg>Seleziona il punto successivo dell'oggetto di disegno (in modalità selezione punti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the number of images per slide in the &lt;f0&gt;Slide layout&lt;/f0&gt; list box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085942Z" creationid="luke" creationdate="20180515T085942Z">
@@ -28860,6 +29108,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163303Z" creationid="Marco Marega" creationdate="20180729T163303Z">
         <seg>In &lt;f0&gt;Inserisci prima&lt;/f0&gt; selezionate il punto in cui volete posizionare il foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the previous point of the drawing object (Point Selection mode).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063946Z" creationid="briga" creationdate="20180830T063939Z">
+        <seg>Seleziona il punto precedente dell'oggetto di disegno (in modalità selezione punti).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29232,6 +29488,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selects a Drawing Object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063815Z" creationid="briga" creationdate="20180830T063815Z">
+        <seg>Seleziona un oggetto di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selects all.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T150412Z" creationid="briga" creationdate="20180828T150412Z">
@@ -29244,6 +29508,38 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T154851Z" creationid="briga" creationdate="20180828T154851Z">
         <seg>Seleziona la colonna corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selects the first Drawing Object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063828Z" creationid="briga" creationdate="20180830T063828Z">
+        <seg>Seleziona il primo oggetto di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selects the last Drawing Object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063831Z" creationid="briga" creationdate="20180830T063831Z">
+        <seg>Seleziona l'ultimo oggetto di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selects the next Drawing Object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063818Z" creationid="briga" creationdate="20180830T063818Z">
+        <seg>Seleziona l'oggetto di disegno successivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selects the previous Drawing Object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063823Z" creationid="briga" creationdate="20180830T063823Z">
+        <seg>Seleziona l'oggetto di disegno precedente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32001,6 +32297,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The drawing object is selected afterwards.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T064002Z" creationid="briga" creationdate="20180830T064002Z">
+        <seg>L'oggetto di disegno viene selezionato successivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The easiest way to select an object is to click directly on it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171342Z" creationid="manuel" creationdate="20180706T171342Z">
@@ -32921,6 +33225,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The position of the object’s center is fixed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T064027Z" creationid="briga" creationdate="20180830T064027Z">
+        <seg>Viene corretta la posizione del centro dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The primary key serves only one purpose: to identify each record uniquely.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104055Z" creationid="manuel" creationdate="20180827T104055Z">
@@ -32941,6 +33253,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165218Z" creationid="manuel" creationdate="20180621T165218Z">
         <seg>Le possibilità di scelta del menu Incolla speciale cambiano a seconda dell'origine e della formattazione del testo (o altro oggetto) da incollare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The ratio of the object’s width to height is fixed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T064035Z" creationid="briga" creationdate="20180830T064035Z">
+        <seg>Viene corretto il rapporto tra altezza e larghezza dell'oggetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33109,6 +33429,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143919Z" creationid="Marco Marega" creationdate="20180813T143919Z">
         <seg>L'elenco di selezione viene creato sulla base delle celle selezionate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected point blinks once per second.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063921Z" creationid="briga" creationdate="20180830T063921Z">
+        <seg>Il punto selezionato lampeggia a intervalli di un secondo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37577,6 +37905,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T133318Z" creationid="briga" creationdate="20180828T133318Z">
         <seg>Tasti freccia su e giù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Up/Down/Left/Right Arrow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063849Z" creationid="briga" creationdate="20180830T063849Z">
+        <seg>Freccia su/giù/sinistra/destra</seg>
       </tuv>
     </tu>
     <tu>
