@@ -21839,6 +21839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inserts a Drawing Object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063810Z" creationid="briga" creationdate="20180830T063759Z">
+        <seg>Inserisce un oggetto di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Install the required &lt;i0/&gt;dictionaries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170022Z" creationid="manuel" creationdate="20180608T170022Z">
@@ -28980,6 +28988,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121216Z" creationid="Marco Marega" creationdate="20180812T121216Z">
         <seg>Selezionate il tema che volete applicare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the toolbar with &lt;f0&gt;F6&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063748Z" creationid="briga" creationdate="20180830T063748Z">
+        <seg>Selezionate la barra degli strumenti con &lt;f0&gt;F6&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37832,8 +37848,8 @@
       <tuv lang="EN">
         <seg>Use the &lt;f1&gt;Down Arrow&lt;/f1&gt; and &lt;f2&gt;Right Arrow&lt;/f2&gt; to select the desired toolbar icon and press &lt;f3&gt;Ctrl+Enter&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154722Z" creationid="luke" creationdate="20180514T154722Z">
-        <seg>Use the &lt;f1&gt;Down Arrow&lt;/f1&gt; and &lt;f2&gt;Right Arrow&lt;/f2&gt; to select the desired toolbar icon and press &lt;f3&gt;Ctrl+Enter&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20180830T063758Z" creationid="luke" creationdate="20180514T154722Z">
+        <seg>Usate la &lt;f1&gt;Freccia giù&lt;/f1&gt; e la &lt;f2&gt;Freccia destra&lt;/f2&gt; per selezionare l'icona della barra strumenti desiderata e premete &lt;f3&gt;Ctrl+Invio&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
