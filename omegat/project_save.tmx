@@ -54,6 +54,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Its foreign key&lt;f0&gt;&lt;t1/&gt;&lt;/f0&gt; will contain the same number of fields.) If this were the case in Figure &lt;t2&gt;216&lt;/t2&gt;, the other fields of the primary field for the Fuel table would be listed under Date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T071403Z" creationid="manuel" creationdate="20180910T071403Z">
+        <seg>(La sua chiave esterna&lt;f0&gt;&lt;t1/&gt;&lt;/f0&gt; conterrà lo stesso numero di campi.) Se questo fosse il caso in Figura &lt;t2&gt;216&lt;/t2&gt;, gli altri campi del campo primario per il Combustibile la tabella sarebbero elencati sotto la data.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Many fuel pumps measure fuel to thousandths of a gallon in the USA.) &lt;f3&gt;Odometer&lt;/f3&gt;: Change the &lt;f4&gt;Length&lt;/f4&gt; to 10 and the &lt;f5&gt;Decimal places&lt;/f5&gt; to 1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T062327Z" creationid="manuel" creationdate="20180910T062327Z">
@@ -5636,6 +5645,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134119Z" creationid="manuel" creationdate="20180721T134119Z">
         <seg>Un campo in una tabella rappresenta un pezzo di informazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A field in a table that stores values of the primary key of records in another table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T071200Z" creationid="manuel" creationdate="20180910T071200Z">
+        <seg>Un campo in una tabella che memorizza i valori della chiave primaria dei record in un'altra tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12534,6 +12551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed information about this is in the &lt;f3&gt;Base Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T071531Z" creationid="manuel" creationdate="20180910T071531Z">
+        <seg>Informazioni dettagliate su questo sono nella &lt;f3&gt;Guida a Base&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Details are in Chapter 4, Formatting Pages, in the &lt;f4&gt;Writer Guide&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144312Z" creationid="manuel" creationdate="20180616T144312Z">
@@ -14891,6 +14916,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T064018Z" creationid="manuel" creationdate="20180910T064018Z">
         <seg>Figura &lt;seq0&gt;214&lt;/seq0&gt;: campi nella tabella Vacanze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;215&lt;/seq0&gt;: Designation for a 1:n relationship</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T071111Z" creationid="manuel" creationdate="20180910T071111Z">
+        <seg>Figura &lt;seq0&gt;215&lt;/seq0&gt;: attribuzione di una relazione di tipo 1:n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;216&lt;/seq0&gt;: Selected fields in a relationship</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T071123Z" creationid="manuel" creationdate="20180910T071123Z">
+        <seg>Figura &lt;seq0&gt;216&lt;/seq0&gt;: campi selezionati in una relazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;217&lt;/seq0&gt;: Update options and Delete options section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T071611Z" creationid="manuel" creationdate="20180910T071611Z">
+        <seg>Figura &lt;seq0&gt;217&lt;/seq0&gt;: sezione Opzioni di aggiornamento e Opzioni di eliminazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -22583,6 +22632,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It should now look like Figure &lt;t1&gt;216&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070856Z" creationid="manuel" creationdate="20180910T070856Z">
+        <seg>Ora la finestra dovrebbe assomigliare alla Figura &lt;t1&gt;216&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It will be a table of its own: license fees.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154756Z" creationid="manuel" creationdate="20180715T154756Z">
@@ -24068,6 +24125,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070250Z" creationid="manuel" creationdate="20180531T070250Z">
         <seg>Modificate il &lt;f0&gt;Nome&lt;/f0&gt; come richiesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modify the Update options and Delete options section of the Relation window (Figure &lt;t0&gt;217&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T071005Z" creationid="manuel" creationdate="20180910T071005Z">
+        <seg>Modifica delle sezioni Opzioni di aggiornamento e Opzioni di eliminazione della finestra Relazioni (Figura &lt;t0&gt;217&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28496,10 +28561,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Date&lt;/f0&gt; from the Vacations table list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070842Z" creationid="manuel" creationdate="20180910T070842Z">
+        <seg>Selezionate &lt;f0&gt;Data&lt;/f0&gt; dall'elenco della tabella Vacanze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Date&lt;/f0&gt; in the &lt;f1&gt;Category&lt;/f1&gt; list box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T182352Z" creationid="Marco Marega" creationdate="20180804T182352Z">
         <seg>Selezionate &lt;f0&gt;Data&lt;/f0&gt; nella casella di riepilogo &lt;f1&gt;Categoria&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Delete cascade&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T071056Z" creationid="manuel" creationdate="20180910T071056Z">
+        <seg>Selezionate &lt;f0&gt;Elimina cascata&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28692,6 +28773,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T102026Z" creationid="briga" creationdate="20180823T073425Z">
         <seg>Selezionate &lt;f0&gt;Strumenti &gt; Personalizza &gt; Tastiera&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Update cascade&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T071036Z" creationid="manuel" creationdate="20180910T071036Z">
+        <seg>Selezionate &lt;f0&gt;Aggiorna cascata&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32337,6 +32426,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The corresponding fields of the foreign key would be listed under Vacations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T071432Z" creationid="manuel" creationdate="20180910T071432Z">
+        <seg>I campi corrispondenti della chiave esterna sarebbero elencati in Vacanze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The creation of flowcharts, organization charts, and similar planning tools is further described in&lt;f5&gt; &lt;/f5&gt;Chapter 8, Connections, Flowcharts, and Organization Charts &lt;f6&gt;in the &lt;/f6&gt;&lt;f7&gt;Draw Guide&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T105630Z" creationid="manuel" creationdate="20180706T105630Z">
@@ -33493,6 +33590,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180830T064027Z" creationid="briga" creationdate="20180830T064027Z">
         <seg>Viene corretta la posizione del centro dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The primary key can contain more than one field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T071227Z" creationid="manuel" creationdate="20180910T071227Z">
+        <seg>La chiave primaria può contenere più di un campo.</seg>
       </tuv>
     </tu>
     <tu>
