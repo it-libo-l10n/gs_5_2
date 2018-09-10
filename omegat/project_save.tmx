@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You can also open it by clicking the Add Tables icon on the Relation Design window.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065722Z" creationid="manuel" creationdate="20180910T065722Z">
+        <seg>(È anche possibile aprirla facendo clic sull'icona Aggiungi tabelle sulla finestra Struttura relazione.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(You can change the sequence and remove or insert images later, as you can with any slides.)&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
@@ -7432,6 +7440,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As you create your own databases, you will also need to determine if tables are related and how.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065612Z" creationid="manuel" creationdate="20180910T065612Z">
+        <seg>Nella creazione di un database, è importante determinare quali tabelle sono in relazione tra loro e come.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As you draw the rectangle with the mouse cursor, the rectangle appears with its bottom right corner attached to the cursor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101517Z" creationid="manuel" creationdate="20180704T101517Z">
@@ -9530,6 +9546,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Close&lt;/f0&gt; to close the Add Tables dialog when you have added the tables you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070102Z" creationid="manuel" creationdate="20180910T070102Z">
+        <seg>Fate clic su &lt;f0&gt;Chiudi&lt;/f0&gt; per chiudere la finestra di dialogo Aggiungi tabelle, quando avete aggiunto le tabelle che desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Close&lt;/f0&gt; to return to your document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144802Z" creationid="manuel" creationdate="20180626T144802Z">
@@ -10078,6 +10102,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093522Z" creationid="Marco Marega" creationdate="20180811T093522Z">
         <seg>Fate clic sulla cella per selezionarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the cell to the right of this drop-down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070544Z" creationid="manuel" creationdate="20180910T070544Z">
+        <seg>Fate clic nella cella a destra di questo elenco a discesa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10945,6 +10977,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T205521Z" creationid="Marco Marega" creationdate="20180614T205521Z">
         <seg>Chiudete e riavviate LibreOffice per far apparire Quickstart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close the Fuel table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T063822Z" creationid="manuel" creationdate="20180910T063822Z">
+        <seg>Chiudete la tabella Carburante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12214,6 +12254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Define the relationship between the Vacations and Fuel tables: &lt;s0/&gt;click the &lt;f1&gt;New Relation&lt;/f1&gt; icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070246Z" creationid="manuel" creationdate="20180910T070246Z">
+        <seg>Per definire la relazione tra le tabelle Vacanze e Carburante: &lt;s0/&gt;fate clic sull'icona &lt;f1&gt;Nuova relazione&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defines the function of the &lt;i0/&gt;middle mouse button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085556Z" creationid="manuel" creationdate="20180530T085556Z">
@@ -12226,6 +12274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143951Z" creationid="manuel" creationdate="20180616T143951Z">
         <seg>Definire una &lt;i0/&gt;prima pagina differente per un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defining &lt;i0/&gt;relationships</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065312Z" creationid="manuel" creationdate="20180910T065312Z">
+        <seg>Definizione delle &lt;i0/&gt;relazioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -12827,6 +12883,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191306Z" creationid="Marco Marega" creationdate="20180620T191306Z">
         <seg>Fate doppio clic in questo campo per aprire il Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-click the name of the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065804Z" creationid="manuel" creationdate="20180910T065804Z">
+        <seg>Fate doppio clic sul nome della tabella che volete aggiungere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14823,6 +14887,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;214&lt;/seq0&gt;: Fields in Vacations table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T064018Z" creationid="manuel" creationdate="20180910T064018Z">
+        <seg>Figura &lt;seq0&gt;214&lt;/seq0&gt;: campi nella tabella Vacanze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Viewing the paths of files used by LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070137Z" creationid="manuel" creationdate="20180531T070137Z">
@@ -15875,6 +15947,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170118Z" creationid="manuel" creationdate="20180608T170118Z">
         <seg>Seguite le istruzioni per selezionare e installare quelli che desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow the same steps to create the &lt;f0&gt;Vacations&lt;/f0&gt; table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T064832Z" creationid="manuel" creationdate="20180910T064832Z">
+        <seg>Seguite gli stessi passaggi per creare la tabella &lt;f0&gt;Vacanze&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21399,6 +21479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In our case, do this for both &lt;f0&gt;Vacations&lt;/f0&gt; and &lt;f1&gt;Fuel&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065855Z" creationid="manuel" creationdate="20180910T065855Z">
+        <seg>In questo caso, fatelo sulle tabelle &lt;f0&gt;Vacanze&lt;/f0&gt; e &lt;f1&gt;Carburante&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In some tables, a suitable field for the primary key has already been listed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155339Z" creationid="manuel" creationdate="20180715T155339Z">
@@ -21419,6 +21507,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T074757Z" creationid="manuel" creationdate="20180806T074757Z">
         <seg>Nell'elenco a &lt;f0&gt;discesa Nome del campo&lt;/f0&gt;, selezionate &lt;f1&gt;ID_Collezione&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Fields involved&lt;/f0&gt; section, click the drop-down list under the Fuel label.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070459Z" creationid="manuel" creationdate="20180910T070459Z">
+        <seg>Nella sezione &lt;f0&gt;Campi considerati&lt;/f0&gt; fate clic sull'elenco a tendina sotto l'etichetta Carburante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21515,6 +21611,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205141Z" creationid="Marco Marega" creationdate="20180813T205141Z">
         <seg>Nell'elenco &lt;f2&gt;Colonna da ripetere&lt;/f2&gt;, &lt;f3&gt;- nessuna -&lt;/f3&gt; cambia in &lt;f4&gt;- personalizzato -&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Add Tables dialog, use either of these ways to add a table to the Relation Design window:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065748Z" creationid="manuel" creationdate="20180910T065748Z">
+        <seg>Nella finestra di dialogo Aggiungi tabelle, usate uno di questi metodi per aggiungere una tabella alla finestra Struttura relazione:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21731,6 +21835,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121822Z" creationid="manuel" creationdate="20180615T121443Z">
         <seg>Nell'ultima sezione della procedura guidata, potete specificare il nome del modello che verrà mostrato nella &lt;f0&gt;finestra di dialogo&lt;/f0&gt; Modello, nonché il nome e la posizione per il salvataggio del modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the main database window, click the &lt;f0&gt;Save&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T063954Z" creationid="manuel" creationdate="20180910T063954Z">
+        <seg>Nella finestra principale del database, fate clic sul pulsante &lt;f0&gt;Salva&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23584,6 +23696,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Making Date the primary key has to be done in a different way because this field’s field type is &lt;f0&gt;Date&lt;/f0&gt;, not &lt;f1&gt;Integer&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065132Z" creationid="manuel" creationdate="20180910T065132Z">
+        <seg>Rendere la data chiave primaria deve essere fatto in modo diverso, perché questo tipo di campo è una  &lt;f0&gt;Data&lt;/f0&gt;, e non un &lt;f1&gt;Intero&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Managing documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152140Z" creationid="Elisabetta Manuele" creationdate="20180625T152140Z">
@@ -24100,6 +24220,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085948Z" creationid="luke" creationdate="20180515T085948Z">
         <seg>Most of the tasks are best done in Slide Sorter view where you can see most of the slides simultaneously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of these expenses are in the Vacations table, but the fuel we buy is not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065408Z" creationid="manuel" creationdate="20180910T065408Z">
+        <seg>La maggior parte di queste spese quindi rientrerà nella tabella Vacanze, tranne il carburante acquistato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24784,6 +24912,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name the table &lt;f1&gt;Fuel&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T063814Z" creationid="manuel" creationdate="20180910T063814Z">
+        <seg>Assegnate alla tebella il nome &lt;f1&gt;Carburante&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Native language support</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172446Z" creationid="Elisabetta Manuele" creationdate="20180625T172446Z">
@@ -25052,6 +25188,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T102341Z" creationid="briga" creationdate="20180823T102341Z">
         <seg>Ora selezionate la combinazione di tasti desiderata nell'elenco &lt;f0&gt;Tasti di scelta rapida&lt;/f0&gt; e fate clic sul pulsante &lt;f1&gt;Cambia&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now that the tables have been created, what are the relationships between our tables?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065319Z" creationid="manuel" creationdate="20180910T065319Z">
+        <seg>Ora che le tabelle sono state create, quali sono le relazioni tra di esse?</seg>
       </tuv>
     </tu>
     <tu>
@@ -26016,6 +26160,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Or, for each table, click the name of the table and then click &lt;f0&gt;Add&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070016Z" creationid="manuel" creationdate="20180910T070016Z">
+        <seg>Oppure, fate clic sul nome della tabella e poi fate clic su &lt;f0&gt;Aggiungi&lt;/f0&gt; per ogni tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Organizing templates</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162851Z" creationid="manuel" creationdate="20180615T162851Z">
@@ -26100,6 +26252,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T113442Z" creationid="manuel" creationdate="20180626T113442Z">
         <seg>Altrimenti, continuate a digitare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Our two tables are listed in the &lt;f3&gt;Tables involved&lt;/f3&gt; section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070358Z" creationid="manuel" creationdate="20180910T070358Z">
+        <seg>Le due tabelle sono elencate nella sezione &lt;f3&gt;Tabelle considerate&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27520,6 +27680,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click to the left of the field name &lt;f0&gt;Date&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065219Z" creationid="manuel" creationdate="20180910T065219Z">
+        <seg>Fate clic a sinistra del nome di campo &lt;f0&gt;Data&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-clicking on any of the arrows opens a context menu where you can select a sheet (see Figure &lt;t0&gt;95&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T194506Z" creationid="Marco Marega" creationdate="20180713T194335Z">
@@ -28320,6 +28488,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Date&lt;/f0&gt; from the Fuel table list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070531Z" creationid="manuel" creationdate="20180910T070531Z">
+        <seg>Selezionate &lt;f0&gt;Data&lt;/f0&gt; dall'elenco della tabella Carburante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Date&lt;/f0&gt; in the &lt;f1&gt;Category&lt;/f1&gt; list box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T182352Z" creationid="Marco Marega" creationdate="20180804T182352Z">
@@ -28564,6 +28740,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104115Z" creationid="manuel" creationdate="20180822T104115Z">
         <seg>Selezionate &lt;f3&gt;Intero [INTEGER]&lt;/f3&gt; come Tipo campo dall'elenco a tendina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Primary Key in the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065242Z" creationid="manuel" creationdate="20180910T065242Z">
+        <seg>Selezionate chiave primaria dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30088,6 +30272,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since the Fuel table may have more than one entry per date, this relationship between the Vacations and Fuel tables is one to many (it is designated 1:n.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065422Z" creationid="manuel" creationdate="20180910T065422Z">
+        <seg>Siccome la tabella Carburante potrebbe avere più di un record nella medesima data, la relazione tra le tabelle Vacanze e Carburante è di uno a molti (indicata come 1:n).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since these purchases are made by one of two bank cards or with cash, I want a field to state which payment type was used for each item.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155000Z" creationid="manuel" creationdate="20180715T155000Z">
@@ -30212,6 +30404,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155203Z" creationid="manuel" creationdate="20180715T155203Z">
         <seg>Verrà quindi creata una tabella con un campo per il tipo di pagamento, che verrà usata in un elenco a tendina nei formulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So we will link these two tables using the Date fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065413Z" creationid="manuel" creationdate="20180910T065413Z">
+        <seg>Quindi queste due tabelle verranno collegate usando i campi Data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31424,6 +31624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Automobile – LibreOffice Base: Relation Design window opens and the Add Tables dialog pops up.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065702Z" creationid="manuel" creationdate="20180910T065702Z">
+        <seg>Si aprirà la finestra Automobile – LibreOffice Base: Struttura relazione e verrà mostrata la finestra di dialogo Aggiungi tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Basic IDE Options are available after &lt;f0&gt;Enable experimental features&lt;/f0&gt; has been selected on the Advanced page of the Options dialog and the options have been saved.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T155933Z" creationid="manuel" creationdate="20180608T071541Z">
@@ -31524,6 +31732,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220021Z" creationid="Marco Marega" creationdate="20180707T220021Z">
         <seg>La Barra di calcolo è agganciata permanentemente in questa posizione e non può essere usata come barra degli strumenti mobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Fuel and Maintenance tables do not really have a relationship even though they share similar fields: Date and Odometer readings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065525Z" creationid="manuel" creationdate="20180910T065525Z">
+        <seg>Le tabelle Carburante e Manutenzione non hanno realmente una relazione anche se utilizzano campi simili, come Data e lettura del Chilometraggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32413,6 +32629,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085934Z" creationid="luke" creationdate="20180515T085934Z">
         <seg>The fields you can use in Impress are as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fields, field types, and Descriptions are listed in Figure &lt;t1&gt;214&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T064916Z" creationid="manuel" creationdate="20180910T064916Z">
+        <seg>I campi, i loro tipi di campo e Descrizioni sono elencati nella Figura &lt;t1&gt;214&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34697,6 +34921,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is the time to define them based upon the questions we asked and answered in the beginning.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065325Z" creationid="manuel" creationdate="20180910T065325Z">
+        <seg>È giunto il momento di definirle basandosi sulla serie di domande e di risposte che ci si era posti all'inizio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is what is known as a one-to-many relationship: one author and more than one book.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153921Z" creationid="manuel" creationdate="20180715T153921Z">
@@ -34809,6 +35041,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This opens a drop down list for the Vacations table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070548Z" creationid="manuel" creationdate="20180910T070548Z">
+        <seg>Si aprirà un elenco a discesa per la tabella Vacanze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This opens the &lt;f3&gt;Position&lt;/f3&gt; toolbar giving access to the various arrangement options (Figure &lt;t4&gt;187&lt;/t4&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T061526Z" creationid="manuel" creationdate="20180707T061526Z">
@@ -34829,6 +35069,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180827T105401Z" creationid="manuel" creationdate="20180827T105401Z">
         <seg>In tal modo si apre la finestra Formattazione di campo (Figura &lt;t3&gt;213&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This opens the Relations window (Figure &lt;t2&gt;216&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070313Z" creationid="manuel" creationdate="20180910T070313Z">
+        <seg>Si aprirà così la finestra Relazioni (Figura &lt;t2&gt;216&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35454,6 +35702,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T122127Z" creationid="Marco Marega" creationdate="20180811T122127Z">
         <seg>Per far andare a capo automaticamente il testo all'interno di una cella, usate uno dei metodi seguenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To begin defining relationships, select &lt;f0&gt;Tools &gt; Relationships&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065654Z" creationid="manuel" creationdate="20180910T065654Z">
+        <seg>Per definire le relazioni, selezionate &lt;f0&gt;Strumenti &gt; Relazioni&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37041,6 +37297,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T121125Z" creationid="Marco Marega" creationdate="20180713T121125Z">
         <seg>Per salvare un foglio elettronico e per maggiori dettagli su come farlo manualmente o in modo automatico, vedete il &lt;f0&gt;Capitolo 1 (Introduzione a LibreOffice)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To save and close the table, select &lt;f0&gt;File &gt; Save&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T063741Z" creationid="manuel" creationdate="20180910T063741Z">
+        <seg>Per salvare e chiudere la tabella, seleezionate &lt;f0&gt;File &gt; Chiudi&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39635,6 +39899,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T141053Z" creationid="manuel" creationdate="20180705T141053Z">
         <seg>Quando degli oggetti sono raggruppati in modo permanente, ogni operazione di modifica applicata a quel gruppo sarà applicata anche a tutti gli oggetti del gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When on vacation, we want to enter all of our expenses at once each day.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065332Z" creationid="manuel" creationdate="20180910T065332Z">
+        <seg>Quando si è in vacanza, può essere desiderabile inserire ogni giorno tutte le spese in una volta sola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44235,6 +44507,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T141348Z" creationid="manuel" creationdate="20180621T165554Z">
         <seg>espressioni regolari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>relationships</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065252Z" creationid="manuel" creationdate="20180910T065252Z">
+        <seg>relazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>relationships (database)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065303Z" creationid="manuel" creationdate="20180910T065303Z">
+        <seg>relazioni (database)</seg>
       </tuv>
     </tu>
     <tu>
