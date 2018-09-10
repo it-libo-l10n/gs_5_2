@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -50,6 +50,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180818T143601Z" creationid="briga" creationdate="20180818T143601Z">
         <seg>(apparirà sulla barra dei menu dopo aver salvato la personalizzazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Many fuel pumps measure fuel to thousandths of a gallon in the USA.) &lt;f3&gt;Odometer&lt;/f3&gt;: Change the &lt;f4&gt;Length&lt;/f4&gt; to 10 and the &lt;f5&gt;Decimal places&lt;/f5&gt; to 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T062327Z" creationid="manuel" creationdate="20180910T062327Z">
+        <seg>(La maggior parte delle pompe di carburante può misurare fino a 999,99 litri) &lt;f3&gt;Chilometraggio&lt;/f3&gt;: Impostate la &lt;f4&gt;Lunghezza&lt;/f4&gt; su 10 e le &lt;f5&gt;Posizioni decimali&lt;/f5&gt; a 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2531,6 +2539,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T134148Z" creationid="Marco Marega" creationdate="20180820T134148Z">
         <seg>Nell'Editor delle formule &lt;f0&gt;cancellate &lt;/f0&gt; il primo segnaposto &lt;f1&gt;&lt;f2&gt;&lt;?&gt;&lt;/f2&gt;&lt;/f1&gt;, &lt;f3&gt;prima della parole &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;simeq&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Description&lt;/f0&gt; can be any of the categories listed in the figure below, or can be left blank.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T063339Z" creationid="manuel" creationdate="20180910T063339Z">
+        <seg>&lt;f0&gt;La descrizione&lt;/f0&gt; può essere una delle categorie elencate nella figura sottostante o può essere lasciato vuoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14787,6 +14803,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T105107Z" creationid="manuel" creationdate="20180822T105107Z">
         <seg>Figura &lt;seq0&gt;211&lt;/seq0&gt;: definizione del campo chiave primaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;212&lt;/seq0&gt;: Changing field properties</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T063107Z" creationid="manuel" creationdate="20180910T063107Z">
+        <seg>Figura &lt;seq0&gt;212&lt;/seq0&gt;: impostazioni delle proprietà di campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;213&lt;/seq0&gt;: Format example options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T063539Z" creationid="manuel" creationdate="20180910T063539Z">
+        <seg>Figura &lt;seq0&gt;213&lt;/seq0&gt;: Opzioni di esempio di formato</seg>
       </tuv>
     </tu>
     <tu>
@@ -27104,6 +27136,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repeat steps a) through c) until you have entered all of the fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T063010Z" creationid="manuel" creationdate="20180910T063010Z">
+        <seg>Ripetete i passaggi da a) a c) fino a che non avete compilato tutti i campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repeatedly pressing &lt;f0&gt;F6&lt;/f0&gt; switches the focus and circles through the following objects:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180827T071500Z" creationid="briga" creationdate="20180827T071500Z">
@@ -35181,6 +35221,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T074132Z" creationid="manuel" creationdate="20180626T074132Z">
         <seg>Per accedere a un breve elenco di sinonimi, fare clic con il tasto destro del mouse su una parola e puntare su &lt;f0&gt;Sinonimi&lt;/f0&gt; nel menu di scelta rapida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access additional formatting options, click the ellipse button (…) to the right of the Format example field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180910T063224Z" creationid="manuel" creationdate="20180910T063224Z">
+        <seg>Per accedere ad ulteriori opzioni di formattazione, fate clic sul pulsante ellisse (...) a destra del campo Esempio di formato.</seg>
       </tuv>
     </tu>
     <tu>
