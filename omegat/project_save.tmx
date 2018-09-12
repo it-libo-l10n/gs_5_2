@@ -5817,6 +5817,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list box is useful when a field contains a fixed choice of options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170454Z" creationid="manuel" creationdate="20180912T170454Z">
+        <seg>Una casella di riepilogo è utile quando un campo contiene una scelta di opzioni fissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of page styles pops up; choose a different style by clicking on it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060401Z" creationid="manuel" creationdate="20180618T060301Z">
@@ -6013,6 +6021,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104151Z" creationid="manuel" creationdate="20180822T104151Z">
         <seg>È possibile utilizzare una scorciatoia per selezionare il Tipo di campo dal menu a discesa digitando la prima lettera dell'opzione che si vuole scegliere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A simple form consists of the fields from a table (Figure &lt;t0&gt;218&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170424Z" creationid="manuel" creationdate="20180912T170424Z">
+        <seg>Un semplice formulario è composto dai campi di una tabella (Figura &lt;t0&gt;218&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8150,6 +8166,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T132027Z" creationid="Marco Marega" creationdate="20180623T132027Z">
         <seg>Ma annullare ogni singola modifica e ricordare tutte dove sono state apportate può essere un compito difficile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But, how is the data put into the database?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170355Z" creationid="manuel" creationdate="20180912T170355Z">
+        <seg>Ma come si inseriscono i dati nel database?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11006,6 +11030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the Relation Design dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170332Z" creationid="manuel" creationdate="20180912T165923Z">
+        <seg>Chiudete la finestra di dialogo Struttura delle relazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close the old file without saving.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162514Z" creationid="manuel" creationdate="20180615T162514Z">
@@ -12155,6 +12187,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160806Z" creationid="manuel" creationdate="20180616T160806Z">
         <seg>Integrazione con database, incluso database bibliografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Databases are used to store data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170352Z" creationid="manuel" creationdate="20180912T170352Z">
+        <seg>I Database vengono usati per archiviare dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14944,6 +14984,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;218&lt;/seq0&gt;: Fields of a simple form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170622Z" creationid="manuel" creationdate="20180912T170622Z">
+        <seg>Figura &lt;seq0&gt;218&lt;/seq0&gt;: campi di un semplice formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;219&lt;/seq0&gt;:Simple form with additions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170631Z" creationid="manuel" creationdate="20180912T170631Z">
+        <seg>Figura &lt;seq0&gt;219&lt;/seq0&gt;: semplice formulario con aggiunte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Viewing the paths of files used by LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070137Z" creationid="manuel" creationdate="20180531T070137Z">
@@ -15788,6 +15844,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T162839Z" creationid="manuel" creationdate="20180715T162828Z">
         <seg>La figura &lt;t1&gt;208&lt;/t1&gt; mostra una parte di questa finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t1&gt;219&lt;/t1&gt; is made from the same table with a text label (Fuel Purchases), a list box placed in PaymentType, and a graphic background.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170452Z" creationid="manuel" creationdate="20180912T170452Z">
+        <seg>La figura &lt;t1&gt;219&lt;/t1&gt; mostra la stessa tabella con una etichetta di testo (Acquisti di carburante), una casella di riepilogo (elenco a tendina) in TipodiPagamento e uno sfondo grafico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17304,6 +17368,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Form Wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170728Z" creationid="manuel" creationdate="20180912T170728Z">
+        <seg>creazione guidata Formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Form design and filling</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T160941Z" creationid="manuel" creationdate="20180616T160941Z">
@@ -17436,6 +17508,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164520Z" creationid="manuel" creationdate="20180628T164520Z">
         <seg>Ci sono diversi possibili utilizzi per un formulario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forms are used to do this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170358Z" creationid="manuel" creationdate="20180912T170358Z">
+        <seg>I Formulari vengono usati per questo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18412,6 +18492,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175949Z" creationid="Elisabetta Manuele" creationdate="20180627T175949Z">
         <seg>Harpe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Having them selected permits you to update a table that has a relationship defined with another table which has been modified.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170345Z" creationid="manuel" creationdate="20180912T170345Z">
+        <seg>La loro attivazione vi permette di aggiornare una tabella che ha una relazione con un'altra tabella che è stata modificata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21536,6 +21624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In our database, payments for food or fuel might be made from one of two credit cards (Dan or Kevin) or in cash, so these would be the available options for all boxes that contain payments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170634Z" creationid="manuel" creationdate="20180912T170634Z">
+        <seg>Nel database d'esempio, i pagamenti per cibo o carburante potrebbero essere effettuati con una delle due carte di credito oppure in contanti, quindi queste sarebbero le opzioni disponibili per tutte le caselle che contengono pagamenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In some tables, a suitable field for the primary key has already been listed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155339Z" creationid="manuel" creationdate="20180715T155339Z">
@@ -21876,6 +21972,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171136Z" creationid="manuel" creationdate="20180608T171136Z">
         <seg>Nell'esempio, l'Italiano (Italia) è stato scelto per tutte le impostazioni a disposizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the language of databases, a form is a front end for data entry and editing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170410Z" creationid="manuel" creationdate="20180912T170410Z">
+        <seg>Nel linguaggio dei database, un formulario è l'interfaccia tramite la quale si inseriscono o si modificano i dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22344,6 +22448,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also permits you to delete a field from the table without causing inconsistencies.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170348Z" creationid="manuel" creationdate="20180912T170348Z">
+        <seg>Ciò vi permette inoltre di cancellare un campo dalla tabella senza causare incongruenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also supports popular services like Google Drive and Microsoft OneNote, as well as commercial and open source servers that implement the OASIS CMIS standard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123929Z" creationid="Marco Marega" creationdate="20180622T123929Z">
@@ -22628,6 +22740,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T055130Z" creationid="manuel" creationdate="20180529T055130Z">
         <seg>Reimposta le opzioni sui valori presenti all'apertura della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It saves you from having to type data by hand, and ensures that invalid options are not entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170528Z" creationid="manuel" creationdate="20180912T170528Z">
+        <seg>Vi evita di dover inserire i dati a mano, e impedisce l'inserimento di opzioni non valide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24181,6 +24301,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T150923Z" creationid="Elisabetta Manuele" creationdate="20180625T150923Z">
         <seg>Modifica, gestione e posizionamento delle immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More complex forms can contain much more, including additional text, graphics, selection boxes, and many other elements.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170428Z" creationid="manuel" creationdate="20180912T170428Z">
+        <seg>Formulari più complessi possono contenere molto altro, come testi aggiuntivi, grafica, caselle di scelta e altri elementi ancora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27877,6 +28005,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194026Z" creationid="Marco Marega" creationdate="20180621T194026Z">
         <seg>Comando Salva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save the Relation Design dialog if the &lt;f0&gt;Save&lt;/f0&gt; button is active.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T165804Z" creationid="manuel" creationdate="20180912T165804Z">
+        <seg>Salvate la finestra di dialogo Struttura delle relazioni se il pulsante &lt;f0&gt;Salva&lt;/f0&gt; è attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34082,6 +34218,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The topic is dealt with in detail in the Base User Guide and will not be pursued further here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170652Z" creationid="manuel" creationdate="20180912T170652Z">
+        <seg>L'argomento è trattato in dettaglio nella Guida Utente di Base e  non viene discussa in questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two boxes below list the OpenCL drivers whitelist and blacklist.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140621Z" creationid="manuel" creationdate="20180608T140621Z">
@@ -35030,6 +35174,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065325Z" creationid="manuel" creationdate="20180910T065325Z">
         <seg>È giunto il momento di definirle basandosi sulla serie di domande e di risposte che ci si era posti all'inizio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is then linked to the corresponding field in the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170639Z" creationid="manuel" creationdate="20180912T170639Z">
+        <seg>Questa verrà poi collegata al campo corrispondente nel formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36160,6 +36312,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085920Z" creationid="luke" creationdate="20180515T085920Z">
         <seg>To create a header, you can use a text box as explained in “&lt;bf0&gt;Text&lt;/bf0&gt;” on page &lt;bf1&gt;181&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a list box, we first need to create a small, separate table containing the options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170637Z" creationid="manuel" creationdate="20180912T170637Z">
+        <seg>Per creare una casella di riepilogo (o menu a tendina), è prima necessario creare una piccola tabella separata, contenente le opzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39231,6 +39391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the &lt;i0/&gt;Wizard to create a form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170718Z" creationid="manuel" creationdate="20180912T170718Z">
+        <seg>Utilizzo della &lt;i0/&gt;Procedura guidata per creare un formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the &lt;i0/&gt;Wizard to create a table</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T114012Z" creationid="manuel" creationdate="20180721T114012Z">
@@ -39539,6 +39707,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134227Z" creationid="manuel" creationdate="20180721T134227Z">
         <seg>Verrà creata una tabella con i campi provenienti da tre differenti tabelle suggerite nella Creazione guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will use &lt;i0/&gt;the Form Wizard to create a Vacations form, which will contain a form and a subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170822Z" creationid="manuel" creationdate="20180912T170822Z">
+        <seg>Verrà utilizzata la &lt;i0/&gt;Procedura guidata Formulario per creare il formulario Vacanze, che conterrà un formulario e un formulario secondario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40500,6 +40676,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T103646Z" creationid="manuel" creationdate="20180822T103646Z">
         <seg>Mentre il &lt;f0&gt;Tipo di campo&lt;/f0&gt; e la &lt;f1&gt;formattazione&lt;/f1&gt; sono differenti in Vista struttura, nella Procedura guidata i concetti sono identici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While these options are not strictly necessary, they do help.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170255Z" creationid="manuel" creationdate="20180912T170255Z">
+        <seg>Sebbene queste opzioni non siano strettamente necessarie, costituiscono un aiuto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43328,6 +43512,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>creating using a Wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170703Z" creationid="manuel" creationdate="20180912T170703Z">
+        <seg>creazione usando la Procedura guidata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cross-reference</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161128Z" creationid="manuel" creationdate="20180628T161128Z">
@@ -43420,6 +43612,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134338Z" creationid="manuel" creationdate="20180721T134338Z">
         <seg>database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>database form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170712Z" creationid="manuel" creationdate="20180912T170712Z">
+        <seg>formulario database</seg>
       </tuv>
     </tu>
     <tu>
