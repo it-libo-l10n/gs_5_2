@@ -2231,6 +2231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Available fields&lt;/f0&gt; lists the fields for the Vacations table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075055Z" creationid="manuel" creationdate="20180913T075055Z">
+        <seg>&lt;f0&gt;Campi disponibili&lt;/f0&gt; elenca i campi della tabella Vacanze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Begin a group&lt;/f0&gt; adds a separator line after the highlighted entry.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T101422Z" creationid="briga" creationdate="20180820T101422Z">
@@ -9995,6 +10003,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click Subform based upon existing relation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075524Z" creationid="manuel" creationdate="20180913T075524Z">
+        <seg>Fate clic su Formulario secondario basato su una relazione esistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click a button to select that object type.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T140010Z" creationid="manuel" creationdate="20180621T135612Z">
@@ -10661,6 +10677,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;FuelID&lt;/f0&gt; field to highlight it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T080559Z" creationid="manuel" creationdate="20180913T080559Z">
+        <seg>Fate clic su &lt;f0&gt;IDCarburante&lt;/f0&gt; per evidenziarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Macro Security&lt;/f0&gt; button to open the &lt;i1/&gt;Macro Security dialog (not shown here), where you can adjust the security level for executing macros and specify trusted sources.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073032Z" creationid="manuel" creationdate="20180606T073032Z">
@@ -10822,6 +10846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the box labeled &lt;f0&gt;Add Subform.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075330Z" creationid="manuel" creationdate="20180913T075330Z">
+        <seg>Fate clic sulla casella con l'etichetta &lt;f0&gt;Aggiungi formulario secondario.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the button again to reduce the dialog options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T102920Z" creationid="manuel" creationdate="20180622T102920Z">
@@ -10874,6 +10906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090038Z" creationid="luke" creationdate="20180515T090038Z">
         <seg>Click the mouse to move to the next slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the right double arrow to move all of these fields to the &lt;f0&gt;Fields in the form&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075151Z" creationid="manuel" creationdate="20180913T075151Z">
+        <seg>Fate clic sulla doppia freccia verso destra per spostare tutti i campi nell'elenco &lt;f0&gt;Campi nel formulario&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15008,6 +15048,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;220&lt;/seq0&gt;: Form Wizard steps</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075205Z" creationid="manuel" creationdate="20180913T075205Z">
+        <seg>Figura &lt;seq0&gt;220&lt;/seq0&gt;: fasi della Creazione guidata formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;221&lt;/seq0&gt;: Adding a subform</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075856Z" creationid="manuel" creationdate="20180913T075856Z">
+        <seg>Figura &lt;seq0&gt;221&lt;/seq0&gt;: aggiungere un formulario secondario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Defining colors to use in color palettes in LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070323Z" creationid="manuel" creationdate="20180531T070323Z">
@@ -17736,6 +17792,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fuel is listed as a relation we want to add.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075555Z" creationid="manuel" creationdate="20180913T075555Z">
+        <seg>Carburante viene elencato come relazione che vogliamo aggiungere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuel is preselected under &lt;f0&gt;Tables or queries&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T080438Z" creationid="manuel" creationdate="20180913T080438Z">
+        <seg>Carburante è la voce preselezionata sotto &lt;f0&gt;Tabelle o query&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Function</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T091954Z" creationid="manuel" creationdate="20180530T091954Z">
@@ -19588,6 +19660,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T131334Z" creationid="Marco Marega" creationdate="20180820T131334Z">
         <seg>Se necessario, potete prevenire l'aggiornamento automatico della formula all'interno del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If no relationship had been defined, this would need to be done in step 4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075231Z" creationid="manuel" creationdate="20180913T075231Z">
+        <seg>Se non ci fosse nessuna relazione già definita, questo dovrebbe essere fatto al passo 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21864,6 +21944,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Tasks list, double-click &lt;f2&gt;Use Wizard to Create Form&lt;/f2&gt; to open the Form Wizard (Figure &lt;t3&gt;220&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T074809Z" creationid="manuel" creationdate="20180913T074809Z">
+        <seg>Nel riquadro delle Attività, fate doppio clic su &lt;f2&gt;Usa procedura guidata per la creazione dei formulari...&lt;/f2&gt; per aprire la Creazione guidata formulario (Figura &lt;t3&gt;220&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Templat&lt;f0&gt;es&lt;/f0&gt; dialog, &lt;f1&gt;locate&lt;/f1&gt; &lt;f2&gt;the category &lt;/f2&gt;that contains the template to export.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143633Z" creationid="manuel" creationdate="20180616T143633Z">
@@ -21988,6 +22076,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121822Z" creationid="manuel" creationdate="20180615T121443Z">
         <seg>Nell'ultima sezione della procedura guidata, potete specificare il nome del modello che verrà mostrato nella &lt;f0&gt;finestra di dialogo&lt;/f0&gt; Modello, nonché il nome e la posizione per il salvataggio del modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the main database window (Figure &lt;t0&gt;208&lt;/t0&gt;), click the &lt;f1&gt;Forms&lt;/f1&gt; icon in the left column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T074708Z" creationid="manuel" creationdate="20180913T074708Z">
+        <seg>Nella finestra principale del database (Figura &lt;t0&gt;208&lt;/t0&gt;), fate clic sull'icona &lt;f1&gt;Formulario&lt;/f1&gt; nella colonna di sinistra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30465,6 +30561,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simple forms require only some of these steps, while more complex forms may use all of them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T074846Z" creationid="manuel" creationdate="20180913T074846Z">
+        <seg>Un formulario semplice richiede solo alcuni di questi passi, mentre per formulari più complessi potrebbero essere necessari tutti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since LibreOffice version 4.4, you can create templates for Master Documents as well as for ordinary documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114422Z" creationid="manuel" creationdate="20180611T114422Z">
@@ -30509,6 +30613,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155000Z" creationid="manuel" creationdate="20180715T155000Z">
         <seg>Siccome questi acquisti sono pagati con carte di credito o in contanti, è utile un campo che indichi il tipo di pagamento usato per ogni articolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since we have already created a relationship between the Fuel and Vacations tables, we will use that relationship.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075228Z" creationid="manuel" creationdate="20180913T075228Z">
+        <seg>Dal momento che è già stata creata una relazione tra le tabelle Carburante e Vacanze, verrà usata tale relazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30621,6 +30733,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154919Z" creationid="manuel" creationdate="20180715T154919Z">
         <seg>Così alla lista può essere aggiunto un nuovo campo, per contenere le note.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So click Fuel to highlight it, as in Figure &lt;t0&gt;221&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075829Z" creationid="manuel" creationdate="20180913T075829Z">
+        <seg>Quindi fate clic su Carburante per evidenziarlo, come in &lt;t0&gt;Figura 221&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31117,6 +31237,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T135424Z" creationid="manuel" creationdate="20180721T135424Z">
         <seg>Passo 1: Selezione dei campi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Set up a subform</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075221Z" creationid="manuel" creationdate="20180913T075221Z">
+        <seg>Passo 2: Impostazione di un formulario secondario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 3: Add subform fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T080143Z" creationid="manuel" creationdate="20180913T080143Z">
+        <seg>Passo 3: Aggiungere campi nel formulario secondario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33594,6 +33730,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The only difference is that not all of the fields will be used in the subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T080357Z" creationid="manuel" creationdate="20180913T080357Z">
+        <seg>La sola differenza è che non tutti i campi verranno usati per il formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The option &lt;f0&gt;PDF as Standard Print Job Format&lt;/f0&gt; is not available on Windows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T064053Z" creationid="manuel" creationdate="20180531T064053Z">
@@ -35478,6 +35622,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144811Z" creationid="manuel" creationdate="20180616T144811Z">
         <seg>Questa configurazione può anche essere creata con interruzioni di pagina e stili di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This step is similar to step 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T080236Z" creationid="manuel" creationdate="20180913T080236Z">
+        <seg>Questo passo è simile al passo 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38422,6 +38574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Under Tables or queries, select Table: Vacations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T074923Z" creationid="manuel" creationdate="20180913T074923Z">
+        <seg>In Tabelle o query, selezionate Tabella: Vacanze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Under Windows the operating system’s default e-mail program is always used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135923Z" creationid="manuel" creationdate="20180609T135923Z">
@@ -38715,6 +38875,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085947Z" creationid="luke" creationdate="20180515T085947Z">
         <seg>Use slide transitions &lt;f3&gt;(page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;185&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;) &lt;/f6&gt;to go smoothly to &lt;s7/&gt;the following photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;&lt;&lt;/f0&gt; button to move the &lt;f1&gt;FuelID&lt;/f1&gt; to the left (Figure &lt;t2&gt;222&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T080949Z" creationid="manuel" creationdate="20180913T080949Z">
+        <seg>Usate il pulsante &lt;f0&gt;&lt;&lt;/f0&gt; per spostare il campo &lt;f1&gt;IDCarburante&lt;/f1&gt; a sinistra (Figure &lt;t2&gt;222&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;&gt;&gt;&lt;/f0&gt; button to move all the fields to the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T080540Z" creationid="manuel" creationdate="20180913T080540Z">
+        <seg>Usate il pulsante &lt;f0&gt;&gt;&gt;&lt;/f0&gt;  per spostare tutti i campi a destra.</seg>
       </tuv>
     </tu>
     <tu>
