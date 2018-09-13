@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(&lt;f0&gt;FuelID&lt;/f0&gt; cannot be used.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082644Z" creationid="manuel" creationdate="20180913T082644Z">
+        <seg>(&lt;f0&gt;IDCarburante&lt;/f0&gt; non può essere usato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Both remain active when the document is exported to PDF.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161108Z" creationid="manuel" creationdate="20180628T161108Z">
         <seg>(Entrambi rimangono attivi se il documento viene esportato in PDF.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Date would have to be used.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082614Z" creationid="manuel" creationdate="20180913T082614Z">
+        <seg>(Data deve essere usata.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -131,6 +147,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104130Z" creationid="manuel" creationdate="20180822T104130Z">
         <seg>(L'impostazione predefinita è Testo [VARCHAR]).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(The labels are column headings and the field entries are in spreadsheet format.) Click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T083602Z" creationid="manuel" creationdate="20180913T083602Z">
+        <seg>(Le etichette sono i titoli delle colonne ed i campi sono le voci al loro interno, disposti come in un foglio elettronico.) Fate clic su &lt;f1&gt;Avanti&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4096,6 +4120,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Step 4: &lt;/f0&gt;&lt;i1/&gt;&lt;i2/&gt;&lt;f3&gt;Get joined fields&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T081108Z" creationid="manuel" creationdate="20180913T081108Z">
+        <seg>&lt;f0&gt;Passo 4: &lt;/f0&gt;&lt;i1/&gt;&lt;i2/&gt;&lt;f3&gt;Caricamento dei campi uniti&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Styles and Formatting:&lt;/f0&gt; This deck contains a single panel, which is the same as that opened by selecting the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; button (&lt;f2&gt;F11&lt;/f2&gt;) from the Text Formatting toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T185114Z" creationid="Marco Marega" creationdate="20180708T185114Z">
@@ -5500,6 +5532,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190802Z" creationid="Marco Marega" creationdate="20180620T190802Z">
         <seg>Un menu contestuale può essere il modo più semplice per raggiungere una funzione, specialmente se non siete sicuri di dove questa si trovi nei menu o nelle barre degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A control in a form consists of two parts: label and field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082716Z" creationid="manuel" creationdate="20180913T082716Z">
+        <seg>Un controllo in un formulario è costituito da due parti: l'etichetta ed il campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7353,6 +7393,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arrangement of the main form: Click the second icon (&lt;f0&gt;Columnar—Labels on top&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T083202Z" creationid="manuel" creationdate="20180913T083202Z">
+        <seg>Disposizione del formulario principale: fate clic sulla seconda icona (&lt;f0&gt;In colonna - testo fisso in alto&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrangement of the sub form: Click the third icon (&lt;f0&gt;As Data Sheet&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T083253Z" creationid="manuel" creationdate="20180913T083253Z">
+        <seg>Disposizione del formulario secondario: Fate clic sulla terza icona (&lt;f0&gt;Tabellare&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arranging objects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172452Z" creationid="manuel" creationdate="20180706T172452Z">
@@ -8006,6 +8062,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103803Z" creationid="manuel" creationdate="20180627T103803Z">
         <seg>Siccome la modifica influisce sullo stile di pagina, la modifica dei margini verrà applicata a &lt;f0&gt;tutte&lt;/f0&gt; le pagine che utilizzano quello stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Because we have already defined the relationship, the wizard skips this step.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T081200Z" creationid="manuel" creationdate="20180913T081200Z">
+        <seg>Siccome è già stata definita una relazione, la procedura guidata salta questo passaggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13512,6 +13576,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each pair of joined fields must have the same file type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082649Z" creationid="manuel" creationdate="20180913T082649Z">
+        <seg>Ogni coppia di campi collegati deve avere lo stesso tipo di campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each sheet in a spreadsheet is independent of the other sheets, though references can be linked from one sheet to another.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T193334Z" creationid="Marco Marega" creationdate="20180713T193334Z">
@@ -15060,6 +15132,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075856Z" creationid="manuel" creationdate="20180913T075856Z">
         <seg>Figura &lt;seq0&gt;221&lt;/seq0&gt;: aggiungere un formulario secondario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;222&lt;/seq0&gt;: Selecting fields of a sub form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T081018Z" creationid="manuel" creationdate="20180913T081018Z">
+        <seg>Figura &lt;seq0&gt;222&lt;/seq0&gt;: selezione dei campi di un formulario secondario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;223&lt;/seq0&gt;: Arrange controls</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T084010Z" creationid="manuel" creationdate="20180913T084010Z">
+        <seg>Figura &lt;seq0&gt;223&lt;/seq0&gt;: Disporre i controlli</seg>
       </tuv>
     </tu>
     <tu>
@@ -18984,6 +19072,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to do that and why is discussed in the &lt;f0&gt;Base Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082511Z" creationid="manuel" creationdate="20180913T082511Z">
+        <seg>Le modalità e il motivo di ciò sono discussi nella &lt;f0&gt;Guida a Base&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to get the software</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190833Z" creationid="Marco Marega" creationdate="20180528T190833Z">
@@ -22744,6 +22840,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to create a relationship between two tables that is based upon more than one pair of fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082502Z" creationid="manuel" creationdate="20180913T082502Z">
+        <seg>È possibile creare tra due tabelle una relazione basata su più di una coppia di campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to use a letter already in use in the menu list (for example, in the Insert menu, the letter &lt;f0&gt;v&lt;/f0&gt; is used in &lt;f1&gt;Envelope&lt;/f1&gt; and in &lt;f2&gt;Movie and sound&lt;/f2&gt; as an accelerator).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180819T065440Z" creationid="briga" creationdate="20180819T065440Z">
@@ -25321,6 +25425,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No field from the subform can be the Primary key for its table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082620Z" creationid="manuel" creationdate="20180913T082620Z">
+        <seg>Nessun campo dal formulario secondario può essere la Chiave primaria della sua tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nor can you delete any &lt;f1&gt;categories&lt;/f1&gt; added by the Extension Manager unless you first delete the extension that installed them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T111039Z" creationid="manuel" creationdate="20180616T104814Z">
@@ -26061,6 +26173,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153947Z" creationid="manuel" creationdate="20180715T153947Z">
         <seg>Uno dei campi riporterà i nomi degli impiegati mentre gli altri conterranno il codice fiscale e altri dati personali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One of the fields from the main form must be the Primary key for its table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082603Z" creationid="manuel" creationdate="20180913T082603Z">
+        <seg>Uno dei campi del formulario principale deve essere la Chiave primaria della sua tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31265,6 +31385,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 5: Arrange controls</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082657Z" creationid="manuel" creationdate="20180913T082657Z">
+        <seg>Passo 5: Disporre i controlli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Stops a running macro.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T141108Z" creationid="briga" creationdate="20180828T141108Z">
@@ -31693,6 +31821,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084743Z" creationid="manuel" creationdate="20180530T084743Z">
         <seg>Questa&lt;f0&gt; &lt;/f0&gt;opzione specifica lo stile icona (tema).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That is why we used the Date field from both tables: both their field types are Date[DATE].</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082531Z" creationid="manuel" creationdate="20180913T082531Z">
+        <seg>Questo è il motivo per il quale è stato usato il campo Data in entrambe le tabelle: entrambi i campi sono del tipo Data[DATE].</seg>
       </tuv>
     </tu>
     <tu>
@@ -33138,6 +33274,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The four choices from left to right are &lt;f0&gt;Columnar left, Columnar—Labels on top&lt;/f0&gt;, As &lt;f1&gt;Data Sheet, and In Blocks - Labels Above&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T083122Z" creationid="manuel" creationdate="20180913T083122Z">
+        <seg>Le quattro scelte da sinistra a destra sono &lt;f0&gt;In colonna - testo fisso a sinistra&lt;/f0&gt;, &lt;f1&gt;Tabellare e In riga - testo fisso in alto&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The functionality of LibreOffice Draw is extensive and, even though it was not designed to rival high-end graphics applications, it possesses more functionality than the drawing tools that are generally integrated with most office productivity suites.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060626Z" creationid="manuel" creationdate="20180629T060626Z">
@@ -33326,6 +33470,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105723Z" creationid="manuel" creationdate="20180704T105723Z">
         <seg>L'inserimento di interruzioni di riga o nuovi paragrafi non termina l'attività di modifica del testo né deseleziona la casella di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The labels will be placed above their field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T083211Z" creationid="manuel" creationdate="20180913T083211Z">
+        <seg>Le etichette verranno messe sopra al loro campo relativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35622,6 +35774,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144811Z" creationid="manuel" creationdate="20180616T144811Z">
         <seg>Questa configurazione può anche essere creata con interruzioni di pagina e stili di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This step in creating the form determines where a control’s label and field are placed relative to each other.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082720Z" creationid="manuel" creationdate="20180913T082720Z">
+        <seg>Questo passo nella creazione del formulario determina come l'etichetta ed il campo sono posizionati l'uno rispetto all'altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This step is for tables or queries for which no relationship has been defined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T081144Z" creationid="manuel" creationdate="20180913T081144Z">
+        <seg>Questo passaggio è per quelle tabelle o ricerche per le quali non sono state ancora definite delle relazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40376,6 +40544,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When selecting a pair of fields from two tables to use as a relationship, they have to have the same field type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082528Z" creationid="manuel" creationdate="20180913T082528Z">
+        <seg>Quando selezionate una coppia di campi da due tabelle per utilizzarli come relazione, essi devono avere lo stesso tipo di campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; option (see above) is &lt;f1&gt;not&lt;/f1&gt; selected, the &lt;f2&gt;Display warning&lt;/f2&gt; option becomes available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164336Z" creationid="manuel" creationdate="20180608T164336Z">
@@ -40812,6 +40988,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T141503Z" creationid="manuel" creationdate="20180621T141503Z">
         <seg>Ovunque sia possibile scegliere il formato del documento, scegliete il formato ODF predefinito quando lavorate con LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether a single pair of fields from two tables are chosen as the relationship, or two or more pairs are chosen, certain requirements must be met for the form to work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082600Z" creationid="manuel" creationdate="20180913T082600Z">
+        <seg>In base al numero di coppie di campi scelte come relazione, occorre che certi requisiti siano soddisfatti perché il formulario possa funzionare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44424,6 +44608,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>joined fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T081028Z" creationid="manuel" creationdate="20180913T081028Z">
+        <seg>campi uniti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>keyboard keys</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T184620Z" creationid="Marco Marega" creationdate="20180713T184620Z">
@@ -44940,6 +45132,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T150039Z" creationid="Marco Marega" creationdate="20180813T150039Z">
         <seg>stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>queries (database)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T081036Z" creationid="manuel" creationdate="20180913T081036Z">
+        <seg>ricerche (database)</seg>
       </tuv>
     </tu>
     <tu>
