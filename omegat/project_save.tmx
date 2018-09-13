@@ -54,6 +54,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(I chose the beige which is Orange 4 in the Color table.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T084945Z" creationid="manuel" creationdate="20180913T084945Z">
+        <seg>(Nell'esempio si è scelto il beige che corrisponde a Arancione 4 nella tabella Colore.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(I prefer the 3D look.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T084959Z" creationid="manuel" creationdate="20180913T084959Z">
+        <seg>(Nell'esempio si è scelto il 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you do not have this font on your system, it will not appear in the drop-down list in this box, so you need to type it in.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073809Z" creationid="manuel" creationdate="20180531T073809Z">
@@ -2532,6 +2548,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T141117Z" creationid="briga" creationdate="20180828T141117Z">
         <seg>&lt;f0&gt;Ctrl+F4&lt;/f0&gt; o &lt;f1&gt;Alt+F4&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; a label or field selects only the label or the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085836Z" creationid="manuel" creationdate="20180913T085836Z">
+        <seg>Con &lt;f0&gt;Ctrl+click&lt;/f0&gt; sull'etichetta o sul campo si seleziona solo l'etichetta o il campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; the Date field to select it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090427Z" creationid="manuel" creationdate="20180913T090427Z">
+        <seg>Fate &lt;f0&gt;Ctrl+click&lt;/f0&gt; sul campo Data per selezionarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5464,6 +5496,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A border appears around the control with eight green handles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085741Z" creationid="manuel" creationdate="20180913T085741Z">
+        <seg>Intorno al controllo apparirà un bordo con otto maniglie verdi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A bulleted list is created when you type a hyphen (-), star (*), or plus sign (+), followed by a space or tab at the beginning of a paragraph.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T163938Z" creationid="manuel" creationdate="20180626T163938Z">
@@ -6285,6 +6325,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104443Z" creationid="manuel" creationdate="20180615T104443Z">
         <seg>Aggiungete qualsiasi contenuto che desiderate venga visualizzato in qualsiasi documento creato dal nuovo modello, ad esempio logo aziendale, dichiarazione di copyright e così via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add headings for each group in the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085529Z" creationid="manuel" creationdate="20180913T085529Z">
+        <seg>Aggiungere delle intestazioni per ogni gruppo nel formulario principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7545,6 +7593,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As you drag the cursor, a dashed box appears, showing what is contained in your selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090017Z" creationid="manuel" creationdate="20180913T090017Z">
+        <seg>Mentre trascinate il cursore, appare una casella tratteggiata che indica cosa è contenuto nella selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As you draw the rectangle with the mouse cursor, the rectangle appears with its bottom right corner attached to the cursor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101517Z" creationid="manuel" creationdate="20180704T101517Z">
@@ -8210,6 +8266,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But for a better appearance, changes will be made to these as well.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085519Z" creationid="manuel" creationdate="20180913T085519Z">
+        <seg>Tuttavia, per ottenere un aspetto più gradevole, verranno apportate modifiche anche ad essi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But if you find unexplained changes appearing in your document, this is a good place to look to find the cause.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T141041Z" creationid="manuel" creationdate="20180609T141041Z">
@@ -8731,10 +8795,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the background to a picture, then modify some of the labels so that they can be read clearly against this background.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085610Z" creationid="manuel" creationdate="20180913T085610Z">
+        <seg>Cambiare lo sfondo con un'immagine, quindi modificare alcune delle etichette in modo che siano chiaramente leggibili sullo sfondo scelto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the font color of the headings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085615Z" creationid="manuel" creationdate="20180913T085615Z">
+        <seg>Cambiare il colore del carattere delle intestazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the key that accepts a suggested entry—the options are &lt;f0&gt;&lt;f1&gt;r&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ight arrow&lt;/f2&gt;, &lt;f3&gt;End&lt;/f3&gt; key, &lt;f4&gt;Return&lt;/f4&gt; (&lt;f5&gt;Enter&lt;/f5&gt;), &lt;f6&gt;Space bar&lt;/f6&gt;, &lt;f7&gt;and &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Tab.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143547Z" creationid="manuel" creationdate="20180626T143547Z">
         <seg>Cambiare il tasto che accetta una voce suggerita — le opzioni sono &lt;f0&gt;&lt;f1&gt;Freccia&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;destra&lt;/f2&gt;, &lt;f3&gt;Fine&lt;/f3&gt;, &lt;f4&gt;Invio&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;, &lt;f6&gt;Barra spaziatrice&lt;/f6&gt;, &lt;f7&gt;e &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Tab.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the lengths of several fields and labels.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085516Z" creationid="manuel" creationdate="20180913T085516Z">
+        <seg>Modificare la lunghezza di diversi campi ed etichette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8751,6 +8839,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T092038Z" creationid="manuel" creationdate="20180806T092038Z">
         <seg>Modificate il nome della tabella in &lt;f0&gt;CD-Jazz&lt;/f0&gt; e fate clic su &lt;f1&gt;Avanti&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the wording of some of the labels.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085507Z" creationid="manuel" creationdate="20180913T085507Z">
+        <seg>Cambiare la formulazione di alcune delle etichette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9695,6 +9791,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T185151Z" creationid="Marco Marega" creationdate="20180620T185151Z">
         <seg>Fate clic su &lt;f0&gt;Aggancia Barra degli strumenti&lt;/f0&gt; per ancorare la barra degli strumenti mobile selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Finish&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085351Z" creationid="manuel" creationdate="20180913T085351Z">
+        <seg>Fate clic su &lt;f0&gt;Fine&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10902,6 +11006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the Tolls control to select it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090116Z" creationid="manuel" creationdate="20180913T090116Z">
+        <seg>Fate clic sul controllo Pedaggi per selezionarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the arrow button of the combination &lt;f0&gt;Paste&lt;/f0&gt; button, or</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T162830Z" creationid="manuel" creationdate="20180621T162830Z">
@@ -10938,6 +11050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T123200Z" creationid="briga" creationdate="20180823T123200Z">
         <seg>Fate clic sul simbolo di espansione (di solito un segno + o un triangolo) per espandere l'elenco degli stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the field of the top left control to be moved, to select it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090002Z" creationid="manuel" creationdate="20180913T090002Z">
+        <seg>Fate clic sul campo di controllo più in alto e a sinistra tra quelli che desiderate spostare, per selezionarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11034,6 +11154,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T103835Z" creationid="manuel" creationdate="20180704T103835Z">
         <seg>Fate clic per impostare il punto finale della curva e fissare la linea sulla pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click&lt;f0&gt; Modify the form&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085344Z" creationid="manuel" creationdate="20180913T085344Z">
+        <seg>Fate clic su&lt;f0&gt; Modifica il formulario&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking a label or field selects the entire control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085738Z" creationid="manuel" creationdate="20180913T085738Z">
+        <seg>Facendo clic sull'etichetta o sul campo viene selezionato l'intero controllo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13120,6 +13256,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag the cursor to the bottom right of the group of controls and release the mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090008Z" creationid="manuel" creationdate="20180913T090008Z">
+        <seg>Tenendo premuto il pulsante del mouse trascinate il cursore verso il basso a destra del gruppo dei controlli, poi rilasciate il pulsante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drag the group of controls to where you want them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090114Z" creationid="manuel" creationdate="20180913T090114Z">
+        <seg>Trascinate il gruppo di controlli dove li volete posizionare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drag the mouse in any direction or hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click in the last cell you want to fill.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T204822Z" creationid="Marco Marega" creationdate="20180808T204822Z">
@@ -13868,6 +14020,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122058Z" creationid="Marco Marega" creationdate="20180825T122058Z">
         <seg>Inserendo il codice di markup &lt;f9&gt;&lt;/f9&gt; &lt;f10&gt;&lt;f11&gt;func&lt;/f11&gt;&lt;/f10&gt; prima di &lt;f12&gt;una&lt;/f12&gt; funzione &lt;f13&gt;forzerete Math a riconoscere &lt;/f13&gt;il testo seguente come tale &lt;f14&gt;e ad usare i caratteri normali.&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the name for the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085059Z" creationid="manuel" creationdate="20180913T085059Z">
+        <seg>Inserite il nome del formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15152,6 +15312,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;224&lt;/seq0&gt;: A selected control</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085751Z" creationid="manuel" creationdate="20180913T085751Z">
+        <seg>Figura &lt;seq0&gt;224&lt;/seq0&gt;: un controllo selezionato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;225&lt;/seq0&gt;: Selecting a field of a control</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085954Z" creationid="manuel" creationdate="20180913T085954Z">
+        <seg>Figura &lt;seq0&gt;225&lt;/seq0&gt;: selezione del campo di un controllo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;226&lt;/seq0&gt;: Selecting multiple controls</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090107Z" creationid="manuel" creationdate="20180913T090107Z">
+        <seg>Figura &lt;seq0&gt;226&lt;/seq0&gt;: selezione di controlli multipli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Defining colors to use in color palettes in LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070323Z" creationid="manuel" creationdate="20180531T070323Z">
@@ -16164,6 +16348,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151722Z" creationid="Elisabetta Manuele" creationdate="20180625T151722Z">
         <seg>Ulteriori informazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>First, we must decide what we want to change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085437Z" creationid="manuel" creationdate="20180913T085437Z">
+        <seg>Per prima cosa, bisogna decidere cosa si desidera cambiare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18744,6 +18936,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here are some methods that we will be using in these steps.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085618Z" creationid="manuel" creationdate="20180913T085618Z">
+        <seg>Di seguito alcuni metodi che verranno usati in questi passaggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here are some more features of the spelling checker:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063326Z" creationid="manuel" creationdate="20180626T063326Z">
@@ -19012,6 +19212,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181831Z" creationid="Marco Marega" creationdate="20180620T181831Z">
         <seg>Tenete premuto il pulsante sinistro del mouse e trascinate la barra degli strumenti nella nuova posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hold the left mouse button down as you drag the cursor to the right until the length is 6 cm.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090507Z" creationid="manuel" creationdate="20180913T090507Z">
+        <seg>Tenendo premuto il pulsante sinistro del mouse, trascinate il cursore verso destra fino a raggiungere la lunghezza di 6 cm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22232,6 +22440,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case, it is &lt;f0&gt;Fuel&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085128Z" creationid="manuel" creationdate="20180913T085128Z">
+        <seg>In questo caso, è &lt;f0&gt;Carburante&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this example, we have chosen &lt;f0&gt;Ctrl+9&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T123143Z" creationid="briga" creationdate="20180823T123143Z">
@@ -22696,6 +22912,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It changes to a drag icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090112Z" creationid="manuel" creationdate="20180913T090112Z">
+        <seg>Esso si modifica nell'icona di trascinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It checks for single spaces between words, indicating instances of double or triple spaces, but not of more spaces than that.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T105207Z" creationid="manuel" creationdate="20180609T105207Z">
@@ -22948,6 +23172,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170528Z" creationid="manuel" creationdate="20180912T170528Z">
         <seg>Vi evita di dover inserire i dati a mano, e impedisce l'inserimento di opzioni non valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It should change to a double-headed arrow.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090502Z" creationid="manuel" creationdate="20180913T090502Z">
+        <seg>Dovrebbe modificarsi in una freccia a doppia punta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23308,6 +23540,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142353Z" creationid="Marco Marega" creationdate="20180714T142353Z">
         <seg>Fate clic nella cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lengthen the Note field vertically, add a scroll bar, and move it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085521Z" creationid="manuel" creationdate="20180913T085521Z">
+        <seg>Allungare il campo Note verticalmente, aggiungere una barra di scorrimento e spostarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23985,6 +24225,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make changes in the Date and PaymentType columns of the subform to match the changes in the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085527Z" creationid="manuel" creationdate="20180913T085527Z">
+        <seg>Effettuare modifiche nelle colonne Data e TipoDiPagamento nel Formulario secondario, di modo che siano simili a quelle del formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure &lt;f0&gt;the&lt;/f0&gt; cursor is flashing in the Formula Editor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133451Z" creationid="Marco Marega" creationdate="20180820T133451Z">
@@ -23997,6 +24245,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T190553Z" creationid="Marco Marega" creationdate="20180817T190553Z">
         <seg>Assicuratevi &lt;f0&gt;che&lt;/f0&gt; il cursore si trovi nella posizione corretta all'interno dell'Editor delle formule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure it is big enough to include the entire length of all the controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090057Z" creationid="manuel" creationdate="20180913T090057Z">
+        <seg>Assicuratevi che questa sia sufficientemente ampia da poter contenere tutti i controlli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24465,6 +24721,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modifying a form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085405Z" creationid="manuel" creationdate="20180913T085405Z">
+        <seg>Modifica di un formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifying existing menus</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180819T062306Z" creationid="briga" creationdate="20180818T143633Z">
@@ -24705,10 +24969,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the controls into groups: food, fuel subform, and miscellaneous.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085504Z" creationid="manuel" creationdate="20180913T085504Z">
+        <seg>Disporre i controlli in gruppi: cibo, formulario secondario carburante e varie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the cursor over a higher level folder and release the mouse button to navigate to that folder</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T205124Z" creationid="Marco Marega" creationdate="20180622T205124Z">
         <seg>Portate il cursore sopra ad una cartella di livello superiore e rilasciate il pulsante del mouse per spostarvi in quella cartella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the cursor over one of the fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090110Z" creationid="manuel" creationdate="20180913T090110Z">
+        <seg>Spostate il cursore su uno dei campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the cursor over the middle green handle on the right side.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090459Z" creationid="manuel" creationdate="20180913T090459Z">
+        <seg>Spostate il cursore sulla maniglia verde centrale del lato destro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24725,6 +25013,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104450Z" creationid="manuel" creationdate="20180704T104450Z">
         <seg>Muovete il cursore per tracciare la linea successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the cursor to just above and to the left of the selected control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090004Z" creationid="manuel" creationdate="20180913T090004Z">
+        <seg>Spostate il cursore appena sopra e a sinistra del campo di controllo selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25141,6 +25437,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180830T063858Z" creationid="briga" creationdate="20180830T063858Z">
         <seg>Sposta l'oggetto di disegno selezionato di un pixel (in modalità selezione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving a group of controls is almost as easy as moving one of them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085957Z" creationid="manuel" creationdate="20180913T085957Z">
+        <seg>Spostare un gruppo di controlli è quasi semplice quanto muoverne uno solo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26205,6 +26509,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071729Z" creationid="manuel" creationdate="20180608T071729Z">
         <seg>Aggiornamento Online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only Lunch, Supper, Motel, and Tolls have acceptable lengths.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085518Z" creationid="manuel" creationdate="20180913T085518Z">
+        <seg>Solo Pranzo, Cena, Motel e Pedaggi hanno una lunghezza accettabile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27333,6 +27645,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104949Z" creationid="manuel" creationdate="20180629T104949Z">
         <seg>Proprietà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provide a drop-down capability for the Date field in the main form, and lengthen the field to show the day of the week, month, day, and year.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085449Z" creationid="manuel" creationdate="20180913T085449Z">
+        <seg>Creare un menu a discesa per il campo Data nel formulario principale e allungare il campo per mostrare il giorno della settimana, il giorno in numero, il mese e l'anno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29489,6 +29809,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the Field border you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T084951Z" creationid="manuel" creationdate="20180913T084951Z">
+        <seg>Selezionate il Bordo campo che desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the LibreOffice component you want to open to create a new document, or select &lt;f0&gt;From Template&lt;/f0&gt; to open the Template Manager, or select &lt;f1&gt;Open Document&lt;/f1&gt; to open an existing document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T211809Z" creationid="Marco Marega" creationdate="20180616T211809Z">
@@ -29613,6 +29941,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070212Z" creationid="manuel" creationdate="20180531T070212Z">
         <seg>Selezionate il colore da modificare dall'elenco o dalla tavola dei colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the color you want in the &lt;f0&gt;Apply Styles&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T084921Z" creationid="manuel" creationdate="20180913T084921Z">
+        <seg>Selezionate il colore che desiderate nell'elenco &lt;f0&gt;Applica stili di formato&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30521,6 +30857,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shorten the length of the payment fields (all fields containing the word Payment).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085459Z" creationid="manuel" creationdate="20180913T085459Z">
+        <seg>Accorciare la lunghezza dei campi pagamento (tutti i campi che contengono la parola Pagamento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show the suggested word as a tip (hovering over the word) rather than completing the text as you type.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T135438Z" creationid="manuel" creationdate="20180626T135438Z">
@@ -30905,6 +31249,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some abbreviations should be used if possible (Misc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085511Z" creationid="manuel" creationdate="20180913T085511Z">
+        <seg>Dove possibile bisognerebbe usare abbreviazioni (Km.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some common examples of style use are given in “&lt;f0&gt;&lt;rf1&gt;Examples of style use&lt;/rf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;rf3&gt;79&lt;/rf3&gt;&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144129Z" creationid="manuel" creationdate="20180611T144129Z">
@@ -31065,6 +31417,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some single words should be two words.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085510Z" creationid="manuel" creationdate="20180913T085510Z">
+        <seg>Alcune parole singole dovrebbero diventare due.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Someone taking orders might enter the information for each order into a database using a form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164543Z" creationid="manuel" creationdate="20180628T164543Z">
@@ -31109,6 +31469,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T114050Z" creationid="manuel" creationdate="20180721T114050Z">
         <seg>A volte però ciò potrebbe non essere sufficiente per le vostre necessità; in questi casi si può usare una procedura guidata come punto d'inizio e poi costruire su quanto creato dalla procedura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes we want to work with the entire control, sometimes with only the label or the field, and there are times when we want to work with a group of controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085735Z" creationid="manuel" creationdate="20180913T085735Z">
+        <seg>Alcune volte si agirà sull'intero controllo, altre volte solo sull'etichetta o sul campo, altre ancora su un gruppo di controlli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31353,6 +31721,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 1: Change the Date field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090348Z" creationid="manuel" creationdate="20180913T090348Z">
+        <seg>Passo 1: Modifica del campo Data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 1: Select fields</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T135424Z" creationid="manuel" creationdate="20180721T135424Z">
@@ -31389,6 +31765,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082657Z" creationid="manuel" creationdate="20180913T082657Z">
         <seg>Passo 5: Disporre i controlli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 6: Set data entry</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T084025Z" creationid="manuel" creationdate="20180913T084025Z">
+        <seg>Passo 6: Impostazione immissione dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 7: Apply styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T084833Z" creationid="manuel" creationdate="20180913T084833Z">
+        <seg>Passo 7: Applicare stili di formato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 8: Set name</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085045Z" creationid="manuel" creationdate="20180913T085045Z">
+        <seg>Passo 8: Impostare il nome</seg>
       </tuv>
     </tu>
     <tu>
@@ -32826,6 +33226,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The controls in the main form consist of a label and its field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085720Z" creationid="manuel" creationdate="20180913T085720Z">
+        <seg>I controlli nel formulario principale sono costituiti dalle etichette e dai loro campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The corner handles are for rotating an object and the top, bottom and side handles are to slant an object.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T071844Z" creationid="manuel" creationdate="20180707T071844Z">
@@ -33030,6 +33438,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T170611Z" creationid="manuel" creationdate="20180704T170611Z">
         <seg>La linea di quotatura non appartiene all'oggetto stesso ma è &lt;f7&gt;di solito&lt;/f7&gt; posta vicino ad essa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The discussion will follow this ten step outline of our planned changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085439Z" creationid="manuel" creationdate="20180913T085439Z">
+        <seg>La discussione verrà articolata in dieci passi relativi alle modifiche pianificate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33262,6 +33678,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062554Z" creationid="manuel" creationdate="20180531T062554Z">
         <seg>I caratteri elencati sono quelli installati sul vostro sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The form opens in Edit mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085359Z" creationid="manuel" creationdate="20180913T085359Z">
+        <seg>Il formulario si apre in Modalità struttura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34602,6 +35026,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The vertical dashed line is lined up with the 6.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090510Z" creationid="manuel" creationdate="20180913T090510Z">
+        <seg>La linea tratteggiata verticale è allineata con il numero 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The view you see on your computer display includes the current slide, the upcoming slide, any slide notes, and a presentation timer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090040Z" creationid="luke" creationdate="20180515T090040Z">
@@ -34662,6 +35094,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142314Z" creationid="manuel" creationdate="20180621T142314Z">
         <seg>Quindi scegliete &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then drag it to the right close to the Lunch control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090118Z" creationid="manuel" creationdate="20180913T090118Z">
+        <seg>Quindi trascinatelo sulla destra, vicino al controllo Pranzo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38790,6 +39230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unless you have a need for any of these entries to be checked, accept the default settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T084037Z" creationid="manuel" creationdate="20180913T084037Z">
+        <seg>A meno che abbiate uno specifico bisogno di spuntare una di queste voci, scegliete le impostazioni predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unless you select something else here, the locale of the operating system will be set as default.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171706Z" creationid="manuel" creationdate="20180608T171633Z">
@@ -40047,6 +40495,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We will also modify the label for the PaymentType field as well as change the field to a list box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085435Z" creationid="manuel" creationdate="20180913T085435Z">
+        <seg>Inoltre l'etichetta del campo TipoDiPagamento verrà modificata e il campo verrà trasformato in un elenco a tendina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will be moving the controls to different places in the form and changing the background to a picture.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085407Z" creationid="manuel" creationdate="20180913T085407Z">
+        <seg>I controlli verranno spostati in parti diverse del formulario e lo sfondo verrà cambiato con un'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We will create a table with fields from three different suggested tables in the Wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134227Z" creationid="manuel" creationdate="20180721T134227Z">
@@ -40460,6 +40924,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T123353Z" creationid="Marco Marega" creationdate="20180811T123353Z">
         <seg>In fase di modifica del testo, fate doppio clic sulla cella, quindi posizionate il cursore nel punto della cella nel quale volete inserire l'interruzione di riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When either changing size or moving a control, two properties of the Form Design toolbar should be selected: &lt;f0&gt;Snap to Grid&lt;/f0&gt;, and &lt;f1&gt;Guides when Moving&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090236Z" creationid="manuel" creationdate="20180913T090236Z">
+        <seg>Quando si vuole ridimensionare o spostare un controllo, è opportuno selezionare due proprietà della barra degli strumenti Struttura del formulario: &lt;f0&gt;Cattura alla griglia&lt;/f0&gt;, e &lt;f1&gt;Linee guida durante lo spostamento&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40900,6 +41372,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T133437Z" creationid="briga" creationdate="20180828T133437Z">
         <seg>Quando aprite una qualsiasi finestra di dialogo, un elemento (come un pulsante, un campo di opzione, una voce in una casella di riepilogo, o una casella di controllo) è evidenziato o indicato con un riquadro tratteggiato intorno al campo o al nome del pulsante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you release the mouse button, a border with its green handles appears around the controls you selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090059Z" creationid="manuel" creationdate="20180913T090059Z">
+        <seg>Quando rilasciate il pulsante del mouse, intorno ai campi di controllo selezionati appare un bordo con delle maniglie verdi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42680,6 +43160,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can press the &lt;f1&gt;Tab&lt;/f1&gt; key to change the selection from the field to the label or the label to the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085931Z" creationid="manuel" creationdate="20180913T085931Z">
+        <seg>Premendo il tasto &lt;f1&gt;Tab&lt;/f1&gt; potete spostare la selezione dal campo all'etichetta e viceversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can read more about LibreOffice and The Document Foundation on their websites at &lt;a0&gt;http://www.libreoffice.org/&lt;/a0&gt; and &lt;a1&gt;http://www.documentfoundation.org/&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190141Z" creationid="Marco Marega" creationdate="20180528T190141Z">
@@ -42916,6 +43404,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T204304Z" creationid="Marco Marega" creationdate="20180731T204304Z">
         <seg>Potete quindi modificare il numero nella cella e vedere come influisce su ciascuna formula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then drag and drop it where you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085743Z" creationid="manuel" creationdate="20180913T085743Z">
+        <seg>Potete quindi trascinarlo dove desiderate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43280,6 +43776,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You might want to experiment with the different possible settings.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085001Z" creationid="manuel" creationdate="20180913T085001Z">
+        <seg>Potete sperimentare le differenti configurazioni possibili).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You must activate this option &lt;f0&gt;before&lt;/f0&gt; you create the LibreOffice Basic macro; otherwise the script will not be inserted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164035Z" creationid="manuel" creationdate="20180608T164035Z">
@@ -43320,6 +43824,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You should also have both rulers active (&lt;f2&gt;View &gt; Ruler&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090326Z" creationid="manuel" creationdate="20180913T090326Z">
+        <seg>Sarebbe anche opportuno avere entrambi i righelli attivi (&lt;f2&gt;Visualizza &gt; Righello&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You should be able to download &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;o&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;ther&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt; icon set&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;s&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt; from the software repository for your Linux &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;distribution &lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;if you wish to use them&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;.&lt;/f32&gt;&lt;/f31&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173107Z" creationid="luke" creationdate="20180514T154707Z">
@@ -43340,6 +43852,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T064225Z" creationid="manuel" creationdate="20180806T064225Z">
         <seg>Il numero di tracce inseribili sarà fino a 127.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your controls will line up better, and an outline of what you are moving moves as the cursor moves.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090246Z" creationid="manuel" creationdate="20180913T090246Z">
+        <seg>Sarà più facile allineare i controlli, ed uno schema di ciò che state muovendo si sposterà insieme al cursore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44348,6 +44868,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062314Z" creationid="manuel" creationdate="20180531T062314Z">
         <seg>carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for miscellaneous).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085513Z" creationid="manuel" creationdate="20180913T085513Z">
+        <seg>per chilometraggio).</seg>
       </tuv>
     </tu>
     <tu>
