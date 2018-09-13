@@ -159,6 +159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The arrows are circled in red.) The number in the box changes when you change the record number by clicking an arrow.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093303Z" creationid="manuel" creationdate="20180913T093303Z">
+        <seg>(Le frecce sono cerchiate in rosso). Il numero nella casella cambia in base al numero del record selezionato facendo clic sulle frecce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The default setting is Text [VARCHAR].)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104130Z" creationid="manuel" creationdate="20180822T104130Z">
@@ -10091,6 +10099,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f1&gt;Save&lt;/f1&gt; when asked if you want to save the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093739Z" creationid="manuel" creationdate="20180913T093739Z">
+        <seg>Fate clic su &lt;f1&gt;Salva&lt;/f1&gt; quando viene richiesto se volete salvare il file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f3&gt;Add&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T071946Z" creationid="briga" creationdate="20180823T071946Z">
@@ -10183,6 +10199,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T140010Z" creationid="manuel" creationdate="20180621T135612Z">
         <seg>Fate clic su un pulsante per selezionare la tipologia di oggetto corrispondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click a row of the table in the Data Source window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093834Z" creationid="manuel" creationdate="20180913T093834Z">
+        <seg>Fate clic su una riga della tabella nella finestra Sorgenti dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10391,6 +10415,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T202909Z" creationid="Marco Marega" creationdate="20180731T202909Z">
         <seg>Fate clic nella cella che si trova immediata mente sotto le righe ed a destra delle colonne che volete fissare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click it to open the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T092936Z" creationid="manuel" creationdate="20180913T092936Z">
+        <seg>Fate clic per aprire l'elenco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10813,6 +10845,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Edit File&lt;/f0&gt; button to make the spreadsheet read-only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093821Z" creationid="manuel" creationdate="20180913T093821Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Modifica file&lt;/f0&gt; sulla barra degli strumenti standard, per impostare il foglio in sola lettura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Edit&lt;/f0&gt;, &lt;f1&gt;Add...&lt;/f1&gt; and &lt;f2&gt;Delete&lt;/f2&gt; buttons to modify the lists entries.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140813Z" creationid="manuel" creationdate="20180608T140813Z">
@@ -11006,6 +11046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the Control icon in the Form Controls toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T091528Z" creationid="manuel" creationdate="20180913T091528Z">
+        <seg>Fate clic sull'icona Controllo sulla barra degli strumenti Controlli per formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the Tolls control to select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090116Z" creationid="manuel" creationdate="20180913T090116Z">
@@ -11018,6 +11066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T162830Z" creationid="manuel" creationdate="20180621T162830Z">
         <seg>Fate clic sul pulsante freccia del pulsante combinato &lt;f0&gt;Incolla&lt;/f0&gt;, o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the arrows on the Form Navigation toolbar to view the different records of the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093320Z" creationid="manuel" creationdate="20180913T093320Z">
+        <seg>Fate clic sulle frecce della barra Navigazione formulario per vedere i diversi record della tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11058,6 +11114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090002Z" creationid="manuel" creationdate="20180913T090002Z">
         <seg>Fate clic sul campo di controllo più in alto e a sinistra tra quelli che desiderate spostare, per selezionarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the gray box containing the field name for the table’s ID field (the column header).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093942Z" creationid="manuel" creationdate="20180913T093942Z">
+        <seg>Fate clic sul riquadro grigio contenente il nome del campo per il campo ID della tabella (l'intestazione della colonna).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11146,6 +11210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T061039Z" creationid="manuel" creationdate="20180618T061039Z">
         <seg>Fate clic per aprire un menu dove è possibile scegliere una lingua diversa per il testo selezionato o per il paragrafo in cui si trova il cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click to open the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093051Z" creationid="manuel" creationdate="20180913T093051Z">
+        <seg>Fate clic per aprire l'elenco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13264,6 +13336,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag the data in the ID field in the selected row onto the ID field in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093832Z" creationid="manuel" creationdate="20180913T093832Z">
+        <seg>Trascinate i dati dal campo ID della riga selezionata al campo ID all'interno del foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drag the group of controls to where you want them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090114Z" creationid="manuel" creationdate="20180913T090114Z">
@@ -13512,6 +13592,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drop and drag the gray box for the table’s ID field to where you want the record to appear in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093843Z" creationid="manuel" creationdate="20180913T093843Z">
+        <seg>Trascinate il riquadro grigio dove volete che il record venga inserito nel foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drop-down list from which to select an item.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175010Z" creationid="Elisabetta Manuele" creationdate="20180627T175010Z">
@@ -13676,6 +13764,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T103935Z" creationid="manuel" creationdate="20180721T103935Z">
         <seg>Un campo in una tabella rappresenta un pezzo di informazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each line contains a property of the field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T092301Z" creationid="manuel" creationdate="20180913T092301Z">
+        <seg>Ogni riga contiene una proprietà del campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15336,6 +15432,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;227&lt;/seq0&gt;: Form Controls toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T092310Z" creationid="manuel" creationdate="20180913T092310Z">
+        <seg>Figura &lt;seq0&gt;227&lt;/seq0&gt;: barra degli strumenti Controlli per formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Defining colors to use in color palettes in LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070323Z" creationid="manuel" creationdate="20180531T070323Z">
@@ -15364,6 +15468,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T081021Z" creationid="manuel" creationdate="20180531T081021Z">
         <seg>Figura &lt;seq0&gt;25&lt;/seq0&gt;: opzioni di sicurezza per il caricamento e il salvataggio di documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;269&lt;/seq0&gt;: Navigation arrows of a form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093243Z" creationid="manuel" creationdate="20180913T093243Z">
+        <seg>Figura &lt;seq0&gt;269&lt;/seq0&gt;: frecce di navigazione del formulario</seg>
       </tuv>
     </tu>
     <tu>
@@ -19896,6 +20008,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is not visible, select &lt;f0&gt;View &gt; Toolbars &gt; Form Controls&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T091833Z" creationid="manuel" creationdate="20180913T091833Z">
+        <seg>Se non è visibile, selezionate &lt;f0&gt;Visualizza &gt; Barre degli strumenti &gt; Controlli per formulario&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it mixes font sizes or font styles, those mixed properties will remain the same as before.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T161153Z" creationid="manuel" creationdate="20180612T161153Z">
@@ -22992,6 +23112,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is also a drop down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093049Z" creationid="manuel" creationdate="20180913T093049Z">
+        <seg>Si tratta anche in questo caso di un elenco apribile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is also recommended to save relatively if you want to create a directory structure on an Internet server.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144739Z" creationid="manuel" creationdate="20180608T144739Z">
@@ -23236,6 +23364,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T210847Z" creationid="Marco Marega" creationdate="20180527T210847Z">
         <seg>La funzione Smart Connectors permette di definire punti di connessione personalizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its default setting is No.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093047Z" creationid="manuel" creationdate="20180913T093047Z">
+        <seg>L'impostazione predefinita è No.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25597,6 +25733,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123050Z" creationid="Marco Marega" creationdate="20180816T123050Z">
         <seg>&lt;f0&gt;Nota&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name and save the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093837Z" creationid="manuel" creationdate="20180913T093837Z">
+        <seg>Salvate il foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28033,6 +28177,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repeat until you have moved all of the fields you need to where you want them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093840Z" creationid="manuel" creationdate="20180913T093840Z">
+        <seg>Ripetete questo passaggio fino a che avete posizionato tutti i campi che vi occorrono nella giusta posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repeatedly pressing &lt;f0&gt;F6&lt;/f0&gt; switches the focus and circles through the following objects:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180827T071500Z" creationid="briga" creationdate="20180827T071500Z">
@@ -28677,6 +28829,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T133415Z" creationid="briga" creationdate="20180828T133415Z">
         <seg>Scorre in basso di una pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scroll down to the &lt;f0&gt;Date format&lt;/f0&gt; property.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T092835Z" creationid="manuel" creationdate="20180913T092835Z">
+        <seg>Scorrete verso il basso fino alla proprietà &lt;f0&gt;Formato data&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scroll down to the&lt;f0&gt; Drop down&lt;/f0&gt; property.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093045Z" creationid="manuel" creationdate="20180913T093045Z">
+        <seg>Scorrete verso il basso fino alla proprietà &lt;f0&gt;Apribile&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29489,6 +29657,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f1&gt;Yes&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093139Z" creationid="manuel" creationdate="20180913T093139Z">
+        <seg>Selezionate &lt;f1&gt;Sì&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f2&gt;Screen only&lt;/f2&gt; to replace the screen font only and never replace the font for printing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T075834Z" creationid="manuel" creationdate="20180531T075834Z">
@@ -29797,6 +29973,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T083021Z" creationid="manuel" creationdate="20180621T083021Z">
         <seg>Selezionate il pulsante &lt;f1&gt;Nuovo tema&lt;/f1&gt; per creare nuove categorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f1&gt;Standard (long)&lt;/f1&gt; entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093000Z" creationid="manuel" creationdate="20180913T093000Z">
+        <seg>Selezionate la voce &lt;f1&gt;Standard (esteso)&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32585,6 +32769,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Data Sources window goes blank, the fields in the spreadsheet are populated with data from the row you selected, and the Form Navigation toolbar appears at the bottom of the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093716Z" creationid="manuel" creationdate="20180913T093716Z">
+        <seg>La finestra Sorgenti dati scompare, i campi nel foglio elettronico vengono popolati con i dati della riga precedentemente selezionata, e la barra degli strumenti Navigazione formulario appare nella parte bassa del foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Draw Gallery; see Chapter 11, Graphics, the Gallery, and Fontwork, in this guide for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105334Z" creationid="manuel" creationdate="20180705T105334Z">
@@ -32846,6 +33038,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143852Z" creationid="manuel" creationdate="20180616T143852Z">
         <seg>Si aprirà la finestra Salva con nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Save icon should activate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093828Z" creationid="manuel" creationdate="20180913T093828Z">
+        <seg>L'icona Salva dovrebbe attivarsi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33270,6 +33470,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205343Z" creationid="Marco Marega" creationdate="20180808T205322Z">
         <seg>Il cursore cambia forma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The data in the fields changes correspondingly to the data for that particular record number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093250Z" creationid="manuel" creationdate="20180913T093250Z">
+        <seg>I dati nei campi variano in base al contenuto del record selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35074,6 +35282,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The&lt;f1&gt; Properties: Date Field&lt;/f1&gt; window opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T092929Z" creationid="manuel" creationdate="20180913T092929Z">
+        <seg>Si aprirà la finestra &lt;f1&gt;Proprietà: Campo data&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The&lt;f2&gt; Sample Tables&lt;/f2&gt; drop down list changes to a list of personal sample tables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T154224Z" creationid="manuel" creationdate="20180721T154224Z">
@@ -35830,6 +36046,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T110123Z" creationid="manuel" creationdate="20180622T110123Z">
         <seg>Questo inserisce uno spazio senza interruzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a drop down list with Standard (short) as the default setting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180913T092934Z" creationid="manuel" creationdate="20180913T092934Z">
+        <seg>Si tratta di un elenco a tendina la cui impostazione predefinita è Standard (breve).</seg>
       </tuv>
     </tu>
     <tu>
