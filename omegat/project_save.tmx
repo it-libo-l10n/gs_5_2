@@ -2568,6 +2568,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; the &lt;f1&gt;Misc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T145309Z" creationid="manuel" creationdate="20180918T145309Z">
+        <seg>Fate &lt;f0&gt;Ctrl+click&lt;/f0&gt; sul campo &lt;f1&gt;Note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; the BPayment field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T094411Z" creationid="manuel" creationdate="20180913T094411Z">
@@ -8803,6 +8811,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change it to Multi-line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T145956Z" creationid="manuel" creationdate="20180918T145956Z">
+        <seg>Cambiatelo in Più righe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change nothing in the Insert Index/Table dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T090715Z" creationid="manuel" creationdate="20180628T090715Z">
@@ -8871,6 +8887,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T142829Z" creationid="manuel" creationdate="20180626T142829Z">
         <seg>Cambiare il numero massimo di parole memorizzate per il Completamento parole e la lunghezza minima delle parole da memorizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the selection from &lt;f1&gt;None&lt;/f1&gt; to &lt;f2&gt;Vertical&lt;/f2&gt; in this list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T150148Z" creationid="manuel" creationdate="20180918T150148Z">
+        <seg>In questo elenco modificate la selezione da &lt;f1&gt;Nessuno&lt;/f1&gt; a &lt;f2&gt;Verticale&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10877,6 +10901,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Control&lt;/f0&gt; icon to open the Properties window (Figure &lt;t1&gt;230&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T145853Z" creationid="manuel" creationdate="20180918T145853Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Controllo&lt;/f0&gt; per aprire la finestra Proprietà (Figura &lt;t1&gt;230&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Edit File&lt;/f0&gt; button to make the spreadsheet read-only.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093821Z" creationid="manuel" creationdate="20180913T093821Z">
@@ -11386,6 +11418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T143138Z" creationid="manuel" creationdate="20180918T143138Z">
         <seg>Chiudete la finestra di dialogo Proprietà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close the Properties window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T150202Z" creationid="manuel" creationdate="20180918T150202Z">
+        <seg>Chiudete la finestra Proprietà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12955,6 +12995,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T071531Z" creationid="manuel" creationdate="20180910T071531Z">
         <seg>Informazioni dettagliate su questo sono nella &lt;f3&gt;Guida a Base&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detailed instructions on how to use the Properties window are given in the &lt;f3&gt;Base Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144905Z" creationid="manuel" creationdate="20180918T144905Z">
+        <seg>Istruzioni dettagliate su come usare la finestra Proprietà sono reperibili nella &lt;f3&gt;Guida a Base&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15556,6 +15604,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070323Z" creationid="manuel" creationdate="20180531T070323Z">
         <seg>Figura &lt;seq0&gt;22&lt;/seq0&gt;: definizione dei colori da utilizzare nella tavolozza di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;230&lt;/seq0&gt;: Scroll bar selections in the Properties window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T145213Z" creationid="manuel" creationdate="20180918T145213Z">
+        <seg>Figura &lt;seq0&gt;230&lt;/seq0&gt;: selezione delle Barre di scorrimento nella finestra Proprietà</seg>
       </tuv>
     </tu>
     <tu>
@@ -23672,6 +23728,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Just be careful, and use &lt;f2&gt;Ctrl+Z&lt;/f2&gt; to undo any mistakes you may make.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144840Z" creationid="manuel" creationdate="20180918T144840Z">
+        <seg>Prestate la dovuta attenzione, e utilizzate &lt;f2&gt;Ctrl+Z&lt;/f2&gt; per annullare eventuali errori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keel</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180002Z" creationid="Elisabetta Manuele" creationdate="20180627T180002Z">
@@ -26217,10 +26281,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notes control, which has a field type of Memo, to have a vertical scroll bar for additional text space if desired.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T145505Z" creationid="manuel" creationdate="20180918T145053Z">
+        <seg>Nel controllo NoteVarie ha un campo di tipo memo, di una barra di scorrimento verticale per dello spazio aggiuntivo, in caso si desiderasse aggiungere altro testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notes field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T145141Z" creationid="manuel" creationdate="20180918T144955Z">
+        <seg>Campo NoteVarie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T143958Z" creationid="manuel" creationdate="20180918T143958Z">
         <seg>Note.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notes&lt;/f1&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T145703Z" creationid="manuel" creationdate="20180918T145703Z">
+        <seg>Campo&lt;/f1&gt; NoteVarie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29117,6 +29205,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T092835Z" creationid="manuel" creationdate="20180913T092835Z">
         <seg>Scorrete verso il basso fino alla proprietà &lt;f0&gt;Formato data&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scroll down to the &lt;f0&gt;Scrollbars&lt;/f0&gt; setting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T150028Z" creationid="manuel" creationdate="20180918T150028Z">
+        <seg>Scorrete verso il basso fino alla voce &lt;f0&gt;Barre di scorrimento&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scroll down to the &lt;f0&gt;Text type&lt;/f0&gt; property with &lt;f1&gt;single-line &lt;/f1&gt;as the default value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T145943Z" creationid="manuel" creationdate="20180918T145943Z">
+        <seg>Scorrete verso il basso alla proprietà &lt;f0&gt;Tipo di testo&lt;/f0&gt;, dove vedrete impostato il valore predefinito &lt;f1&gt;Riga singola&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32273,6 +32377,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 6: Change the Misc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144909Z" creationid="manuel" creationdate="20180918T144909Z">
+        <seg>Passo 6: Modificare il campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 6: Set data entry</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T084025Z" creationid="manuel" creationdate="20180913T084025Z">
@@ -34286,6 +34398,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103814Z" creationid="manuel" creationdate="20180627T103814Z">
         <seg>Le parti grigie dei righelli sono i margini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The green handles should surround the field but not its label.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T145732Z" creationid="manuel" creationdate="20180918T145732Z">
+        <seg>Le maniglie verdi appariranno intorno al campo, ma non intorno alla sua etichetta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41107,6 +41227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T182113Z" creationid="Elisabetta Manuele" creationdate="20180620T181343Z">
         <seg>Inoltre, richiediamo che condividiate con il progetto parte dei profitti ottenuti dalla vendita delle Guide, in considerazione di tutto il lavoro svolto per produrle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We want the Misc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T145005Z" creationid="manuel" creationdate="20180918T145005Z">
+        <seg>La modifica prevede l'inserimento,</seg>
       </tuv>
     </tu>
     <tu>
