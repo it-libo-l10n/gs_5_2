@@ -2584,6 +2584,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; the SnackNo label.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T142917Z" creationid="manuel" creationdate="20180918T142917Z">
+        <seg>Fate &lt;f0&gt;Ctrl+click&lt;/f0&gt; sull'etichetta NumSnack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; (&lt;f1&gt;Control&lt;/f1&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173457Z" creationid="Elisabetta Manuele" creationdate="20180627T173457Z">
@@ -6741,6 +6749,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153043Z" creationid="manuel" creationdate="20180715T153043Z">
         <seg>Tutti i file creati da questo motore, inclusi i formulari del database, vengono tenuti in un file .zip compresso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All of the payment fields were changed in step 2, but Misc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144233Z" creationid="manuel" creationdate="20180918T144233Z">
+        <seg>Tutti i campi dei pagamenti sono stati modificati nel passo 2, tranne PagamentiVa,</seg>
       </tuv>
     </tu>
     <tu>
@@ -11366,6 +11382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the Properties dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T143138Z" creationid="manuel" creationdate="20180918T143138Z">
+        <seg>Chiudete la finestra di dialogo Proprietà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close the Relation Design dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170332Z" creationid="manuel" creationdate="20180912T165923Z">
@@ -13152,6 +13176,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do one of the following:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T142932Z" creationid="manuel" creationdate="20180918T142932Z">
+        <seg>Utilizzate uno dei seguenti modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Docked toolbars can be moved to different locations or made to float, and floating toolbars can be docked.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T211821Z" creationid="Marco Marega" creationdate="20180619T211821Z">
@@ -14616,6 +14648,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Field names are required to be single words.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T142807Z" creationid="manuel" creationdate="20180918T142807Z">
+        <seg>I nomi dei campi, fino a poco tempo fa, dovevano essere costituiti da una sola parola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fields</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085929Z" creationid="luke" creationdate="20180515T085929Z">
@@ -14652,6 +14692,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163710Z" creationid="manuel" creationdate="20180628T163710Z">
         <seg>finestra di dialogo Comandi di campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure 22&lt;f0&gt;9&lt;/f0&gt;b: Positioning of controls (right side of form)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T142716Z" creationid="manuel" creationdate="20180918T142716Z">
+        <seg>Figura 22&lt;f0&gt;9&lt;/f0&gt;b: posizionamento dei controlli (lato destro del formulario)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15492,6 +15540,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T094351Z" creationid="manuel" creationdate="20180913T094351Z">
         <seg>Figura &lt;seq0&gt;228&lt;/seq0&gt;: selezione di un campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;229&lt;/seq0&gt;a: Positioning of controls (left side of form)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T142630Z" creationid="manuel" creationdate="20180918T142630Z">
+        <seg>Figura &lt;seq0&gt;229&lt;/seq0&gt;a: posizionamento dei controlli (lato sinistro del formulario)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17024,6 +17080,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you change the Alignment from Left to Center, the word or words in the label are centered within the label.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144041Z" creationid="manuel" creationdate="20180918T144041Z">
+        <seg>Ad esempio, modificando l'Allineamento da Sinistra a Centro, il testo verrà centrato all'interno dell'etichetta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you choose &lt;f0&gt;Text documents&lt;/f0&gt; as the file type, you will only see documents Writer can open (including &lt;f1&gt;.odt&lt;/f1&gt;, &lt;f2&gt;.doc&lt;/f2&gt;, &lt;f3&gt;.txt&lt;/f3&gt;); if you choose &lt;f4&gt;Spreadsheets&lt;/f4&gt;, you will see &lt;f5&gt;.ods&lt;/f5&gt;, &lt;f6&gt;.xls&lt;/f6&gt;, and other files that Calc opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192446Z" creationid="Marco Marega" creationdate="20180621T192446Z">
@@ -17036,6 +17100,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060505Z" creationid="manuel" creationdate="20180629T060505Z">
         <seg>Per esempio, per riutilizzare un'immagine creata in Draw in un documento Writer è sufficiente eseguire un copia e incolla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you enter the values for a new position, both the field and the label moves to the same position and the field is positioned on top of the label.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144641Z" creationid="manuel" creationdate="20180918T144641Z">
+        <seg>Ad esempio, se inserite i valori per una nuova posizione, sia il campo che l'etichetta si sposteranno nella stessa posizione e il campo verrà posizionato sopra l'etichetta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19640,6 +19712,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, the labels for the fields in a form can be more than one word.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T142834Z" creationid="manuel" creationdate="20180918T142834Z">
+        <seg>Tuttavia, le etichette dei campi in un formulario possono essere costituite da più parole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, they also have major differences:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155936Z" creationid="manuel" creationdate="20180628T155936Z">
@@ -19716,6 +19796,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180816T115653Z" creationid="briga" creationdate="20180816T115653Z">
         <seg>Non è tuttavia possibile personalizzare i menu contestuali (pulsante destro del mouse).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you need to be careful not to accidentally select the entire control for use with the Properties dialog or you will apply exactly the same values to both the label and field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144637Z" creationid="manuel" creationdate="20180918T144637Z">
+        <seg>In ogni caso, fate attenzione a non selezionare accidentalmente l'intero controllo quando utilizzate la finestra di dialogo Proprietà, altrimenti applicherete gli stessi identici valori sia all'etichetta che al campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22368,6 +22456,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Label selection, edit the label to Snack No.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T143129Z" creationid="manuel" creationdate="20180918T143129Z">
+        <seg>Nella casella Didascalia, modificate l'etichetta in Num Snack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Open dialog, you can reduce the list of files by selecting the type of file you are looking for.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192232Z" creationid="Marco Marega" creationdate="20180621T192232Z">
@@ -23132,6 +23228,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105840Z" creationid="manuel" creationdate="20180629T105840Z">
         <seg>Essa contiene tutte le funzioni necessarie per disegnare diverse forme geometriche e a mano libera e per poterle organizzare nella pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It contains all the properties of the selected label.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T143116Z" creationid="manuel" creationdate="20180918T143116Z">
+        <seg>Essa contiene tutte le proprietà dell'etichetta selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26113,6 +26217,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T143958Z" creationid="manuel" creationdate="20180918T143958Z">
+        <seg>Note.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notice that a table named “CD-Collection” is now listed in the Tables portion of the window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T085541Z" creationid="manuel" creationdate="20180806T085541Z">
@@ -26597,6 +26709,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T074952Z" creationid="manuel" creationdate="20180627T074952Z">
         <seg>Nella scheda Stili di paragrafo (Figura &lt;t0&gt;77&lt;/t0&gt;), fate clic con il tasto destro su &lt;f1&gt;Predefinito&lt;/f1&gt; e selezionate &lt;f2&gt;Modifica&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Position and Size dialog, change Width to 2 cm.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144513Z" creationid="manuel" creationdate="20180918T144513Z">
+        <seg>Nella finestra di dialogo Posizione e dimensione, modificate la Larghezza a 2 cm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27121,10 +27241,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Or click the Control icon in the Form Control toolbar (Figure &lt;t0&gt;227&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T143107Z" creationid="manuel" creationdate="20180918T143107Z">
+        <seg>In alternativa, fate clic sull'icona Controllo nella barra degli strumenti Struttura del formulario (Figura &lt;t0&gt;227&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or, for each table, click the name of the table and then click &lt;f0&gt;Add&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070016Z" creationid="manuel" creationdate="20180910T070016Z">
         <seg>Oppure, fate clic sul nome della tabella e poi fate clic su &lt;f0&gt;Aggiungi&lt;/f0&gt; per ogni tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or, you can click the Control icon in the &lt;f1&gt;Form Controls &lt;/f1&gt;toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144814Z" creationid="manuel" creationdate="20180918T144805Z">
+        <seg>Oppure, fate clic sull'icona Controllo sulla barra degli strumenti &lt;f1&gt;Controlli per formulario&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27405,6 +27541,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T144855Z" creationid="manuel" creationdate="20180531T070024Z">
         <seg>Opzioni percorsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Payment needs to be changed to 3 cm (1.2 inches).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144244Z" creationid="manuel" creationdate="20180918T144244Z">
+        <seg>che deve essere portato a 3 cm (1.2 pollici).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Payment, and MiscNotes to Misc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T143953Z" creationid="manuel" creationdate="20180918T143953Z">
+        <seg>Vari, e NoteVarie in </seg>
       </tuv>
     </tu>
     <tu>
@@ -28249,6 +28401,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repeat for the other listed controls, using 3 cm for MiscPayment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144527Z" creationid="manuel" creationdate="20180918T144527Z">
+        <seg>Ripetete l'operazione per l'intero elenco dei controlli, usando 3 cm per PagamentiVa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repeat printing &lt;i0/&gt;of rows or columns</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204304Z" creationid="Marco Marega" creationdate="20180813T204304Z">
@@ -28481,6 +28641,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click Breakfast and select &lt;f0&gt;Position and Size&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144503Z" creationid="manuel" creationdate="20180918T144503Z">
+        <seg>Fate clic con il pulsante destro su Colazione e selezionate &lt;f0&gt;Posizione e dimensione&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click a sheet tab and choose &lt;f0&gt;Select All Sheets&lt;/f0&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150958Z" creationid="Marco Marega" creationdate="20180714T150958Z">
@@ -28653,6 +28821,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T204906Z" creationid="Marco Marega" creationdate="20180614T210305Z">
         <seg>Fate clic con il pulsante destro del mouse sull'icona di &lt;f0&gt;Quickstart&lt;/f0&gt; nell'area di notifica in modo da aprire il menu a comparsa (Figura &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click the SnackNo label and select &lt;f0&gt;Control&lt;/f0&gt; from the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T143044Z" creationid="manuel" creationdate="20180918T143044Z">
+        <seg>Fate clic con il pulsante destro sull'etichetta NumSnack e selezionate &lt;f0&gt;Campo di controllo&lt;/f0&gt; dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31497,6 +31673,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So we will change them by editing the text in the label.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T142838Z" creationid="manuel" creationdate="20180918T142838Z">
+        <seg>Ne verrà quindi modificato il testo nelle etichette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So we will create a table with a field for the type of payment and use it in list boxes in the forms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155203Z" creationid="manuel" creationdate="20180715T155203Z">
@@ -32057,6 +32241,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 4: Change the label wording</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T142732Z" creationid="manuel" creationdate="20180918T142732Z">
+        <seg>Passo 4: Modifica delle etichette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 4: Create the table</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T084943Z" creationid="manuel" creationdate="20180806T084943Z">
@@ -32069,6 +32261,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082657Z" creationid="manuel" creationdate="20180913T082657Z">
         <seg>Passo 5: Disporre i controlli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 5: Change the widths of the labels and fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144120Z" creationid="manuel" creationdate="20180918T144120Z">
+        <seg>Passo 5: Modificare la larghezza delle etichette e dei campi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33718,6 +33918,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T101334Z" creationid="briga" creationdate="20180820T101334Z">
         <seg>La finestra di dialogo resta aperta, affinché possiate selezionare più comandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog that opens is labeled Properties: Label Field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T143110Z" creationid="manuel" creationdate="20180918T143110Z">
+        <seg>Si apre una finestra di dialogo chiamata Proprietà: Testo fisso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35462,6 +35670,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150442Z" creationid="manuel" creationdate="20180705T150442Z">
         <seg>Potete poi spostare le maniglie dell'oggetto per produrre l'effetto desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then you will have to move each of them to where you really want them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144646Z" creationid="manuel" creationdate="20180918T144646Z">
+        <seg>Dovrete quindi spostarli entrambi nella posizione desiderata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38294,6 +38510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To move both, use a plain &lt;f1&gt;mouse click&lt;/f1&gt; and drag to the desired spot.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T142540Z" creationid="manuel" creationdate="20180918T142540Z">
+        <seg>Per spostarli entrambi, trascinateli, &lt;f1&gt;tenendo premuto il pulsante del mouse,&lt;/f1&gt; nella posizione desiderata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To move or copy a sheet into a different spreadsheet, you have to use the &lt;f2&gt;Move/Copy Sheet&lt;/f2&gt; dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T123655Z" creationid="Marco Marega" creationdate="20180719T123655Z">
@@ -38370,6 +38594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T125105Z" creationid="Marco Marega" creationdate="20180623T125105Z">
         <seg>Per aprire il Navigatore, fate clic sull'icona &lt;f0&gt;Navigatore&lt;/f0&gt; nella barra degli strumenti Standard, o premete il tasto &lt;f1&gt;F5&lt;/f1&gt;, o andate in &lt;f2&gt;Visualizza &gt; Navigatore&lt;/f2&gt; nella barra del menu, oppure fate clic sull'icona Navigatore nella barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To open the Properties dialog, right-click a control and select &lt;f0&gt;Control&lt;/f0&gt; from the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144738Z" creationid="manuel" creationdate="20180918T144738Z">
+        <seg>Per aprire la finestra Proprietà, fate clic con il pulsante destro su un controllo e selezionate &lt;f0&gt;Campo di controllo&lt;/f0&gt; dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40023,6 +40255,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the same procedure to change these labels as well: BPayment to Payment, LPayment to Payment, SPayment to Payment, Miscellaneous to Misc., SnackCost to Snack Cost, MPayment to Payment, MiscPayment to Misc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T143940Z" creationid="manuel" creationdate="20180918T143940Z">
+        <seg>Utilizzate la stessa procedura per modificare anche queste etichette: PagamentoCo in Pagamento, PagamentoPr in Pagamento, PagamentoCe in Pagamento, SpeseSnack in Spese Snack, PagamentoMo in Pagamento, PagamentiVa in Pagamenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the same steps to move the rest of the controls to where they belong.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T094844Z" creationid="manuel" creationdate="20180913T094844Z">
@@ -40871,6 +41111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We want the fields of the following controls to be 2 cm wide (0.8 inches): Breakfast, Lunch, Supper, Odometer, Snack No., Tolls, Snack Cost, Motel, and Misc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144228Z" creationid="manuel" creationdate="20180918T144228Z">
+        <seg>La larghezza dei seguenti controlli verrà impostata a 2 cm (0.8 pollici): Colazione, Pranzo, Cena, Chilometraggio, Num Snack, Pedaggi, Spese Snack, Motel, e Varie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We want to move the controls so that they look like Figure &lt;t0&gt;229&lt;/t0&gt; &lt;f1&gt;(a and b)&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T094825Z" creationid="manuel" creationdate="20180913T094825Z">
@@ -41256,6 +41504,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When changing the position or size of an entire control, use the Position and Size dialog or the drag and drop method.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144613Z" creationid="manuel" creationdate="20180918T144613Z">
+        <seg>Quando modificate la posizione o la dimensione di un intero controllo, utilizzate la finestra di dialogo Posizione e dimensione oppure il metodo del trascinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When clearing direct formatting, the text formatting will return to the applied paragraph style and not the default paragraph style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T153855Z" creationid="manuel" creationdate="20180626T153855Z">
@@ -41520,6 +41776,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When working with either the label or the field (but not both at the same time), you can use the Properties dialog to make these changes when you want to be exact.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144632Z" creationid="manuel" creationdate="20180918T144632Z">
+        <seg>Quando lavorate su un'etichetta oppure su un campo (ma non entrambi contemporaneamente), potete utilizzare la finestra di dialogo Proprietà, che permette una maggiore precisione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you &lt;i0/&gt;paste text, the result depends on the source of the text and how you paste it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161554Z" creationid="manuel" creationdate="20180621T161554Z">
@@ -41716,6 +41980,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103611Z" creationid="manuel" creationdate="20180622T103611Z">
         <seg>Quando i parametri di ricerca sono stati impostati, fate clic su &lt;f0&gt;Trova &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;successivo&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have some time, you might want to experiment with different settings just to see the results you get.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144054Z" creationid="manuel" creationdate="20180918T144054Z">
+        <seg>Avendo un poco di tempo a disposizione, potete sperimentare le differenti impostazioni giusto per per farvi un'idea di quello che potete ottenere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43452,6 +43724,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T074302Z" creationid="manuel" creationdate="20180616T074302Z">
         <seg>Potete copiare manualmente nuovi modelli nelle cartelle dei modelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify all of the listings in the Properties window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144009Z" creationid="manuel" creationdate="20180918T144009Z">
+        <seg>Potete modificare tutte le specifiche dell'elenco nella finestra Proprietà.</seg>
       </tuv>
     </tu>
     <tu>
