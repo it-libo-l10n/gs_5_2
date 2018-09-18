@@ -8851,6 +8851,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the &lt;f0&gt;Apply Styles drop down list from Default&lt;/f0&gt; to &lt;f1&gt;Heading 2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T172447Z" creationid="manuel" creationdate="20180918T172447Z">
+        <seg>Nell'elenco a discesa &lt;f0&gt;Applica Stile cambiate da Stile predefinito&lt;/f0&gt; a &lt;f1&gt;Intestazione 2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the Field Properties in the bottom section.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104239Z" creationid="manuel" creationdate="20180822T104239Z">
