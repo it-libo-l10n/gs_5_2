@@ -28041,6 +28041,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the &lt;f0&gt;Enter&lt;/f0&gt; key to move the cursor down to the space between the Date field and the Breakfast field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180918T161913Z" creationid="manuel" creationdate="20180918T161913Z">
+        <seg>Premete il tasto &lt;f0&gt;Invio&lt;/f0&gt; per spostare il cursore in basso, nello spazio tra il campo Data e il campo Colazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press the &lt;f0&gt;F2&lt;/f0&gt; key and the cursor is placed at the end of the cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120726Z" creationid="Marco Marega" creationdate="20180811T120726Z">
