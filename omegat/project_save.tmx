@@ -111,6 +111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(List contains None, Color, Gradient, Hatching, and Bitmap.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T062507Z" creationid="manuel" creationdate="20180919T062507Z">
+        <seg>(La lista contiene Nessuno, Colore, Sfumatura, Tratteggio e Bitmap.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Many fuel pumps measure fuel to thousandths of a gallon in the USA.) &lt;f3&gt;Odometer&lt;/f3&gt;: Change the &lt;f4&gt;Length&lt;/f4&gt; to 10 and the &lt;f5&gt;Decimal places&lt;/f5&gt; to 1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T062327Z" creationid="manuel" creationdate="20180910T062327Z">
@@ -6817,6 +6825,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All reports are based upon a single table, view, or query, so you need first to decide what fields you want to use in the report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063522Z" creationid="manuel" creationdate="20180919T063522Z">
+        <seg>Essendo basati su una singola tabella, vista o ricerca, dovete prima decidere quali campi volete usare nel rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150759Z" creationid="Marco Marega" creationdate="20180714T150759Z">
@@ -8342,6 +8358,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085519Z" creationid="manuel" creationdate="20180913T085519Z">
         <seg>Tuttavia, per ottenere un aspetto più gradevole, verranno apportate modifiche anche ad essi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But if you add more data to the query and run the report again, it will contain the new data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063752Z" creationid="manuel" creationdate="20180919T063752Z">
+        <seg>Ma se aggiungete altri dati alla ricerca ed eseguite nuovamente il rapporto, esso conterrà i nuovi dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13824,6 +13848,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dynamic reports update only the &lt;f0&gt;data&lt;/f0&gt; that is changed or added to a table or query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063614Z" creationid="manuel" creationdate="20180919T063614Z">
+        <seg>I rapporti dinamici aggiornano solo i &lt;f0&gt;dati&lt;/f0&gt; che sono stati modificati o aggiunti in una tabella o in una ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E-mail options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135639Z" creationid="manuel" creationdate="20180609T135626Z">
@@ -17048,6 +17080,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f2&gt;after&lt;/f2&gt; creating the report below, open the fuel economy query created in the previous section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063703Z" creationid="manuel" creationdate="20180919T063703Z">
+        <seg>Ad esempio, &lt;/f2&gt;dopo&lt;f2&gt; aver creato il rapporto sottostante, aprite la ricerca Consumo carburante creata nella sezione precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;f7&gt;Rename&lt;/f7&gt; and &lt;f8&gt;Delete&lt;/f8&gt; are not available for the supplied menus, and &lt;f9&gt;Move&lt;/f9&gt; is not available for submenus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180819T062400Z" creationid="briga" creationdate="20180819T062400Z">
@@ -17116,6 +17156,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164343Z" creationid="manuel" creationdate="20180628T164343Z">
         <seg>Un questionario, ad esempio, contiene un'introduzione e delle domande (che non cambiano), e degli spazi nei quali il lettore può inserire le sue risposte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, a report on vacation expenses includes both fuel costs and meal costs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063539Z" creationid="manuel" creationdate="20180919T063539Z">
+        <seg>Ad esempio, un rapporto sulle spese delle vacanze include sia i costi per il carburante che i costi per i pasti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18052,6 +18100,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T183900Z" creationid="Marco Marega" creationdate="20180817T183900Z">
         <seg>Per alcuni comandi usati più raramente, dovete inserire sempre &lt;/f9&gt;&lt;f10&gt;il relativo codice di &lt;/f10&gt;&lt;f11&gt;markup&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the "End-Reading".”Odometer” – “Fuel.”Odometer” column, change the number 1 to the number 3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063710Z" creationid="manuel" creationdate="20180919T063710Z">
+        <seg>Per la colonna "Ultima_lettura".”Chilometraggio” – “Carburante".”Chilometraggio”,  sostituite il numero 1 con 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19212,6 +19268,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175949Z" creationid="Elisabetta Manuele" creationdate="20180627T175949Z">
         <seg>Harpe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Having a copy of the HSQLDB &lt;f1&gt;User Guide&lt;/f1&gt;, available from &lt;a2&gt;http://hsqldb.org/doc/guide/&lt;/a2&gt;, is also extremely useful.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063348Z" creationid="manuel" creationdate="20180919T063348Z">
+        <seg>È inoltre opportuno avere una copia della &lt;f1&gt;Guida all'uso di HSQLDB&lt;/f1&gt;, disponibile sul sito &lt;a2&gt;http://hsqldb.org/doc/guide/&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21560,6 +21624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to use fields from different tables, you must first combine these fields in a single query or view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063529Z" creationid="manuel" creationdate="20180919T063529Z">
+        <seg>Se volete usare campi provenienti da tabelle diverse, dovete prima combinarli in una singola ricerca o vista, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use macros written in Microsoft Excel using the VBA macro code in LibreOffice, you must first edit the code in the LibreOffice Basic IDE editor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T132029Z" creationid="Marco Marega" creationdate="20180707T132029Z">
@@ -22892,6 +22964,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T123143Z" creationid="briga" creationdate="20180823T123143Z">
         <seg>In questo esempio si è scelto &lt;f0&gt;Ctrl+9&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this respect, they are similar to queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063359Z" creationid="manuel" creationdate="20180919T063359Z">
+        <seg>Da questo punto di vista sono simili alle ricerche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28313,6 +28393,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Queries are only designed to answer a question about the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063501Z" creationid="manuel" creationdate="20180919T063501Z">
+        <seg>Le ricerche sono progettate solo per rispondere a una domanda sul database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Questions and answers from the LibreOffice community&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171704Z" creationid="Elisabetta Manuele" creationdate="20180625T171704Z">
@@ -28749,6 +28837,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094531Z" creationid="Marco Marega" creationdate="20180811T094505Z">
         <seg>Sostituzione dei dai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reports are generated from the database’s tables, views, or queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063508Z" creationid="manuel" creationdate="20180919T063508Z">
+        <seg>I rapporti sono generati da una tabella, da una vista o da una ricerca del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reports provide information found in the database arranged in a useful way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063357Z" creationid="manuel" creationdate="20180919T063357Z">
+        <seg>I rapporti forniscono informazioni reperite nel database, disponendole in modo utile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31973,6 +32077,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075829Z" creationid="manuel" creationdate="20180913T075829Z">
         <seg>Quindi fate clic su Carburante per evidenziarlo, come in &lt;t0&gt;Figura 221&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So this report requires you to create a query or view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063601Z" creationid="manuel" creationdate="20180919T063601Z">
+        <seg>Perciò questo rapporto richiede la creazione di una ricerca o di una vista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35394,6 +35506,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The report will be identical before and after you make the change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063718Z" creationid="manuel" creationdate="20180919T063718Z">
+        <seg>Il rapporto resterà identico a come era prima della modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The resolution is the size of the squares or rectangles in the grid.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140947Z" creationid="manuel" creationdate="20180707T140947Z">
@@ -36018,6 +36138,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then you can create a report from this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063533Z" creationid="manuel" creationdate="20180919T063533Z">
+        <seg>utilizzando poi una di queste per creare un rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then you can move the object handles to produce the desired effect.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150442Z" creationid="manuel" creationdate="20180705T150442Z">
@@ -36330,10 +36458,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These values are contained in fields of two different tables: Vacations and Fuel.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063543Z" creationid="manuel" creationdate="20180919T063543Z">
+        <seg>Questi valori sono contenuti nei campi di due differenti tabelle: Vacanze e Carburante, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They also make major formatting changes easy.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143741Z" creationid="manuel" creationdate="20180611T143741Z">
         <seg>Inoltre, rendono più agevole l'esecuzione di modifiche globali della formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are different in that they are designed to be distributed to people.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063429Z" creationid="manuel" creationdate="20180919T063429Z">
+        <seg>Sono diversi in quanto sono progettati per essere distribuiti alle persone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36374,6 +36518,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152655Z" creationid="manuel" creationdate="20180715T152655Z">
         <seg>Possono essere anche usati per visualizzare i campi di una o più tabelle associate al formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They do &lt;f1&gt;not&lt;/f1&gt; show any modifications made to the table or query itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063639Z" creationid="manuel" creationdate="20180919T063639Z">
+        <seg>&lt;f1&gt;Non&lt;/f1&gt; mostrano invece alcuna modifica effettuata a una tabella o a una ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38505,6 +38657,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T165501Z" creationid="Marco Marega" creationdate="20180811T165501Z">
         <seg>Per formattare lo stile ed il colore della linea del bordo di una cella, nella barra degli strumenti di formattazione, fate clic sulle freccette accanto alle icone Stile linea &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; e Colore linea (Colore bordo) &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To fully use queries requires a knowledge of set operations (&lt;f0&gt;unions, intersections, and, or, complements, &lt;/f0&gt;or any combinations of these).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063027Z" creationid="manuel" creationdate="20180919T063027Z">
+        <seg>Per utilizzare appieno le ricerche sono necessarie competenze matematiche, in particolare sulle operazioni insiemistiche (&lt;f0&gt;unioni, intersezioni, AND, OR, complementi,&lt;/f0&gt; e ogni loro combinazione).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45660,6 +45820,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170712Z" creationid="manuel" creationdate="20180912T170712Z">
         <seg>formulario database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>database reports</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063353Z" creationid="manuel" creationdate="20180919T063353Z">
+        <seg>rapporti di database</seg>
       </tuv>
     </tu>
     <tu>
