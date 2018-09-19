@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(It should have a white background while the other tabs have a gray one.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T062213Z" creationid="manuel" creationdate="20180919T062213Z">
+        <seg>(Dovrebbe avere uno sfondo bianco mentre le altre schede ne hanno uno grigio.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(It will appear on the menu bar itself after you save your customizations.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180818T143601Z" creationid="briga" creationdate="20180818T143601Z">
@@ -4196,6 +4204,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T081108Z" creationid="manuel" creationdate="20180913T081108Z">
         <seg>&lt;f0&gt;Passo 4: &lt;/f0&gt;&lt;i1/&gt;&lt;i2/&gt;&lt;f3&gt;Caricamento dei campi uniti&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Step 9: Change &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;the background of a form&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061738Z" creationid="manuel" creationdate="20180919T061738Z">
+        <seg>&lt;f0&gt;Passo 9: Modifica dello &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;sfondo del formulario&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8854,6 +8870,14 @@
         <seg>Change the &lt;f0&gt;Apply Styles drop down list from Default&lt;/f0&gt; to &lt;f1&gt;Heading 2&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T172447Z" creationid="manuel" creationdate="20180918T172447Z">
+        <seg>Nell'elenco a discesa &lt;f0&gt;Applica Stile cambiate da Stile predefinito&lt;/f0&gt; a &lt;f1&gt;Intestazione 2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the &lt;f0&gt;Apply Styles&lt;/f0&gt; drop down list from &lt;f1&gt;Default to Heading 2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061438Z" creationid="manuel" creationdate="20180919T061438Z">
         <seg>Nell'elenco a discesa &lt;f0&gt;Applica Stile cambiate da Stile predefinito&lt;/f0&gt; a &lt;f1&gt;Intestazione 2&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
@@ -15656,6 +15680,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;233&lt;/seq0&gt;: Page style dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T062233Z" creationid="manuel" creationdate="20180919T062233Z">
+        <seg>Figura &lt;seq0&gt;233&lt;/seq0&gt;: finestra di dialogo Stile di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Editing colors</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072822Z" creationid="manuel" creationdate="20180531T072822Z">
@@ -21192,6 +21224,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you know how to create custom colors, you can use them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061819Z" creationid="manuel" creationdate="20180919T061819Z">
+        <seg>Se sapete come crearli, potete anche usare dei colori personalizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you know how to use styles, you can open the Styles and Formatting window using &lt;f0&gt;F11&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061554Z" creationid="manuel" creationdate="20180919T061554Z">
+        <seg>Se sapete usare gli stili, potete aprire la finestra Stili e formattazione con il tasto &lt;f0&gt;F11&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you load a palette in one component of LibreOffice, it is only active in that component; the other components keep their own palettes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072731Z" creationid="manuel" creationdate="20180531T072731Z">
@@ -24701,6 +24749,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090057Z" creationid="manuel" creationdate="20180913T090057Z">
         <seg>Assicuratevi che questa sia sufficientemente ampia da poter contenere tutti i controlli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure the &lt;f0&gt;Area&lt;/f0&gt; tab has been selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T062026Z" creationid="manuel" creationdate="20180919T062026Z">
+        <seg>Assicuratevi che sia selezionata la scheda &lt;f0&gt;Area&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29017,6 +29073,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click the form to open a context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061923Z" creationid="manuel" creationdate="20180919T061923Z">
+        <seg>Fate clic destro sul formulario per aprire il menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click the label PaymentType to open the menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T161606Z" creationid="manuel" creationdate="20180918T161606Z">
@@ -29037,6 +29101,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T194506Z" creationid="Marco Marega" creationdate="20180713T194335Z">
         <seg>Facendo clic con il pulsante destro del mouse su una qualsiasi delle frecce, si apre un menu contestuale nel quale potete selezionare un foglio (vedete la Figura &lt;t0&gt;95&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-clicking the Heading 2 paragraph style allows you to modify the appearance of all three headings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061606Z" creationid="manuel" creationdate="20180919T061606Z">
+        <seg>Selezionando con il pulsante destro del mouse lo stile di paragrafo Intestazione 2 potete modificare l'aspetto di tutte e tre le intestazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29553,6 +29625,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Chapter 6 of the &lt;f1&gt;Writer Guide&lt;/f1&gt; for details.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061638Z" creationid="manuel" creationdate="20180919T061638Z">
+        <seg>Vedere il Capitolo 6 della &lt;f1&gt;Guida a Writer&lt;/f1&gt; per dettagli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Chapter &lt;f1&gt;6&lt;/f1&gt;, Formatting Pages, in the &lt;f2&gt;Writer Guide&lt;/f2&gt; for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102614Z" creationid="manuel" creationdate="20180627T102614Z">
@@ -30033,6 +30113,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Page&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061942Z" creationid="manuel" creationdate="20180919T061928Z">
+        <seg>Selezionate &lt;f0&gt;Pagina&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Protect this sheet and the contents of protected cells&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124301Z" creationid="Marco Marega" creationdate="20180812T124301Z">
@@ -30165,6 +30253,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104115Z" creationid="manuel" creationdate="20180822T104115Z">
         <seg>Selezionate &lt;f3&gt;Intero [INTEGER]&lt;/f3&gt; come Tipo campo dall'elenco a tendina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Color from the drop-down list below &lt;f0&gt;Fill&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T062328Z" creationid="manuel" creationdate="20180919T062328Z">
+        <seg>Selezionate un colore dall'elenco a discesa seguito da &lt;f0&gt;Riempi&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33834,6 +33930,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The background for a form can be a color, or a graphic (picture).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061747Z" creationid="manuel" creationdate="20180919T061747Z">
+        <seg>Lo sfondo del formulario può essere costituito da un colore o da un oggetto grafico (un'immagine).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The backup copy gets the extension BAK.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144437Z" creationid="manuel" creationdate="20180608T144437Z">
@@ -37402,6 +37506,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a color to the form background:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061913Z" creationid="manuel" creationdate="20180919T061913Z">
+        <seg>Per aggiungere un colore allo sfondo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add a field into an object or as a separate object on a slide, select &lt;f0&gt;Insert &gt; Fields&lt;/f0&gt; on the Menu bar and select the required field from the submenu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085933Z" creationid="luke" creationdate="20180515T085933Z">
@@ -39958,6 +40070,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type the heading &lt;f0&gt;Fuel Data&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061533Z" creationid="manuel" creationdate="20180919T061533Z">
+        <seg>Digita l'intestazione &lt;f0&gt;Dati carburante&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the heading &lt;f0&gt;Meals&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T055921Z" creationid="manuel" creationdate="20180919T055921Z">
+        <seg>Digitate l'intestazione &lt;f0&gt;Pasti&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the heading &lt;f0&gt;Snacks&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T060110Z" creationid="manuel" creationdate="20180919T060110Z">
+        <seg>Digitate l'intestazione &lt;&lt;f0&gt;Snack&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type the new cell reference of the cell you want to move to and press &lt;f4&gt;Enter&lt;/f4&gt; key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183613Z" creationid="Marco Marega" creationdate="20180713T183613Z">
@@ -40383,6 +40519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Enter&lt;/f0&gt; key to move the cursor between the Supper control and the subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T060143Z" creationid="manuel" creationdate="20180919T060143Z">
+        <seg>Usate il tasto &lt;f0&gt;Invio&lt;/f0&gt; per spostare il cursore tra il controllo Cena e il formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the &lt;f0&gt;File type&lt;/f0&gt; field to specify the type of file to be opened or the format of the file to be saved.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123217Z" creationid="Marco Marega" creationdate="20180623T123217Z">
@@ -40547,6 +40691,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085947Z" creationid="luke" creationdate="20180515T085947Z">
         <seg>Use the slide sorter &lt;f0&gt;(see page&lt;/f0&gt; &lt;bf1&gt;160&lt;/bf1&gt;&lt;f2&gt;) &lt;/f2&gt;to reorder your photo album.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the spacebar to move the cursor to the center of snack area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T055929Z" creationid="manuel" creationdate="20180919T055929Z">
+        <seg>Usate la barra spaziatrice per muovere il cursore al centro dell'area snack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the spacebar to move the cursor to the center of the subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061102Z" creationid="manuel" creationdate="20180919T061102Z">
+        <seg>Usate la barra spaziatrice per portare il cursore al centro del formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the spacebar to move the cursor to where you want the heading to start.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T055909Z" creationid="manuel" creationdate="20180919T055909Z">
+        <seg>Utilizzate la barra spaziatrice per spostare il cursore dove volete che inizi l'intestazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43456,6 +43624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also use a picture (graphic file) as the background.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061824Z" creationid="manuel" creationdate="20180919T061824Z">
+        <seg>È anche possibile utilizzare un'immagine (un file grafico) come sfondo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also use the &lt;f2&gt;Background&lt;/f2&gt; tab of the Format Cells dialog (Figure &lt;t3&gt;104&lt;/t3&gt; on page &lt;t4&gt;133&lt;/t4&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T192255Z" creationid="Marco Marega" creationdate="20180811T192255Z">
@@ -44424,6 +44600,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can use any of the colors in the Color Table at &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Colors&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061813Z" creationid="manuel" creationdate="20180919T061813Z">
+        <seg>Potete utilizzare qualsiasi colore presente nella Tabella Colori in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Colori&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can use it to create complex equations that include symbols or characters not available in standard font sets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T202956Z" creationid="Marco Marega" creationdate="20180527T211320Z">
@@ -45012,6 +45196,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z" creationid="luke" creationdate="20180515T090031Z">
         <seg>automatically advance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>background</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061645Z" creationid="manuel" creationdate="20180919T061645Z">
+        <seg>sfondo</seg>
       </tuv>
     </tu>
     <tu>
