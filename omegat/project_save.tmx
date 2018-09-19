@@ -223,6 +223,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(This would let us know where the money came from to pay the expenses.) Once you create a query to do any one of these, you can create a report based upon the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070809Z" creationid="manuel" creationdate="20180919T070809Z">
+        <seg>(questo permetterebbe di sapere da dove si preleva il denaro necessario per pagare tali spese). Una volta creata una ricerca per ottenere uno qualsiasi di questi elenchi, è possibile creare un rapporto basato sulla ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(What this field does will be explained later.) We will use this field to number our entries and want that number to automatically increase as we add each entry.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134323Z" creationid="manuel" creationdate="20180721T134323Z">
@@ -1883,6 +1891,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T131050Z" creationid="Marco Marega" creationdate="20180815T131050Z">
         <seg>&lt;/f3&gt;&lt;f4&gt;A seconda del modulo di &lt;/f4&gt;&lt;f5&gt; LibreOffice &lt;/f5&gt;&lt;f6&gt;utilizzato &lt;/f6&gt;&lt;f7&gt;varia il modo in cui dovete posizionare il cursore per inserire la formula.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;f5&gt;No data&lt;/f5&gt;&lt;f6&gt; will be present in the report for which "End-Reading".”Odometer” – “Fuel.”Odometer” &lt;s7/&gt;has the value 3.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070354Z" creationid="manuel" creationdate="20180919T070354Z">
+        <seg>&lt;/f3&gt;&lt;f5&gt;Nessun dato &lt;/f5&gt;&lt;f6&gt; sarà presente nel rapporto per il quale "Fine lettura". "Contachilometri" - "Carburante". Contachilometri "&lt;s7/&gt; ha il valore 3.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5160,6 +5176,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;However, all data will be based upon "End-Reading".”Odometer” – “Fuel.”Odometer” &lt;s4/&gt;having the value 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T065911Z" creationid="manuel" creationdate="20180919T065911Z">
+        <seg>&lt;f3&gt;Tuttavia, tutti i dati saranno basati su "Fine lettura". "Contachilometri" - "Carburante". Contachilometri "&lt;s4/&gt; con valore 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;If you do not have the offline help installed on your computer, your default browser will open a page on the LibreOffice wiki if you are connected to the Internet.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170217Z" creationid="Elisabetta Manuele" creationdate="20180625T170217Z">
@@ -6241,6 +6265,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A third could list the totals for each expense group for each type of payment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070743Z" creationid="manuel" creationdate="20180919T070743Z">
+        <seg>Una terza possibilità potrebbe essere un elenco del totale di ogni categoria di spesa suddiviso per ogni tipo di pagamento. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A typical use is for chapter titles to always start on a new right-hand (odd-numbered) page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T170815Z" creationid="manuel" creationdate="20180615T170815Z">
@@ -7257,6 +7289,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Another could list the expense totals for each day of the vacation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070734Z" creationid="manuel" creationdate="20180919T070734Z">
+        <seg>Un altro potrebbe produrre l'elenco dei totali di spesa per ogni giorno di vacanza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Another forum that provides support for LibreOffice, among other open source office suites, is: &lt;a0&gt;http://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171515Z" creationid="Elisabetta Manuele" creationdate="20180625T171515Z">
@@ -7517,6 +7557,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145819Z" creationid="manuel" creationdate="20180611T145819Z">
         <seg>Applicare gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are any calculations required in the data before being added to the report?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070639Z" creationid="manuel" creationdate="20180919T070639Z">
+        <seg>I dati devono essere elaborati prima di essere inseriti nel rapporto?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8839,6 +8887,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180827T103427Z" creationid="manuel" creationdate="20180827T103427Z">
         <seg>Alcuni tipi di campo di numeri interi (per esempio Integer e BigInt) hanno la proprietà di campo valore automatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Certain questions need to be asked before creating the report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070422Z" creationid="manuel" creationdate="20180919T070422Z">
+        <seg>È opportuno porsi alcune domande prima di creare un rapporto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12051,6 +12107,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084144Z" creationid="manuel" creationdate="20180628T084144Z">
         <seg>Potete creare facilmente un indice generale:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a report: Example</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070411Z" creationid="manuel" creationdate="20180919T070411Z">
+        <seg>Creazione di un rapporto: esempio</seg>
       </tuv>
     </tu>
     <tu>
@@ -19264,6 +19328,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Had the report listed the total expenses for each of these fields, we would have to create a query to provide us with these totals, which is beyond the scope of this chapter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T072237Z" creationid="manuel" creationdate="20180919T072237Z">
+        <seg>Se il rapporto elencasse le spese totali per ciascuno di questi campi, si dovrebbe anche creare una ricerca per avere questi totali, che va oltre lo scopo di questo capitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Harpe</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175949Z" creationid="Elisabetta Manuele" creationdate="20180627T175949Z">
@@ -19692,6 +19764,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181136Z" creationid="Elisabetta Manuele" creationdate="20180627T181136Z">
         <seg>Come riuscite a fare tutto questo gratuitamente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How do we want the information arranged?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070432Z" creationid="manuel" creationdate="20180919T070432Z">
+        <seg>Come si vogliono presentare le informazioni?</seg>
       </tuv>
     </tu>
     <tu>
@@ -27161,6 +27241,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One possible report could list the totals of each of these expense groups.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070649Z" creationid="manuel" creationdate="20180919T070649Z">
+        <seg>Un possibile rapporto potrebbe corrispondere ad un elenco dei totali per ognuna delle categorie di spesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One slide set – multiple presentations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z" creationid="luke" creationdate="20180515T085949Z">
@@ -31953,6 +32041,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since this table includes fuel purchases at times other than during the vacation, we need to create a query that contains only the fuel purchased during vacation periods.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T072348Z" creationid="manuel" creationdate="20180919T072348Z">
+        <seg>Dal momento che questa tabella include acquisti di carburante effettuati anche al di fuori del periodo di vacanze, occorre creare una ricerca che contenga solo gli acquisti di carburante fatti durante il periodo di vacanza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since we have already created a relationship between the Fuel and Vacations tables, we will use that relationship.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075228Z" creationid="manuel" creationdate="20180913T075228Z">
@@ -34522,6 +34618,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The expenses for our vacation are motel, tolls, miscellaneous, breakfast, lunch, supper, snacks, and fuel.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070646Z" creationid="manuel" creationdate="20180919T070646Z">
+        <seg>Le categorie di spesa per la vacanza sono: motel, pedaggi, varie, colazione, pranzo, cena, snack e carburante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The extension begins installing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T130629Z" creationid="briga" creationdate="20180823T130629Z">
@@ -34534,6 +34638,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154042Z" creationid="manuel" creationdate="20180715T154042Z">
         <seg>I campi di un database costituiscono gli &lt;t0/&gt;elementi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fields we need for the first report from the Vacations table are: Date, Motel, Toll, Breakfast, Lunch, Supper, SnackCost, and Miscellaneous.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070820Z" creationid="manuel" creationdate="20180919T070820Z">
+        <seg>I campi della tabella Vacanze necessari per il primo rapporto sono: Data, Motel, Pedaggi, Colazione, Pranzo, Cena, SpeseSnack e Varie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35638,6 +35750,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T160804Z" creationid="manuel" creationdate="20180715T160804Z">
         <seg>La seconda pagina presenta due domande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second report involves the Fuel table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T072239Z" creationid="manuel" creationdate="20180919T072239Z">
+        <seg>Il secondo rapporto riguarda la tabella Carburante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37222,6 +37342,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111522Z" creationid="manuel" creationdate="20180707T111522Z">
         <seg>Questa operazione ripetitiva può essere semplificata con l'utilizzo degli stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This report only requires the Vacation table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070824Z" creationid="manuel" creationdate="20180919T070824Z">
+        <seg>Questo rapporto richiede soltanto la tabella Vacanze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41759,10 +41887,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We will create a report on vacation expenses.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070418Z" creationid="manuel" creationdate="20180919T070418Z">
+        <seg>Si procederà ora a creare un rapporto sulle spese delle vacanze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We will create a table with fields from three different suggested tables in the Wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134227Z" creationid="manuel" creationdate="20180721T134227Z">
         <seg>Verrà creata una tabella con i campi provenienti da tre differenti tabelle suggerite nella Creazione guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will create two reports, one listing the expenses each day (other than fuel) and the second listing fuel statistics.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070817Z" creationid="manuel" creationdate="20180919T070817Z">
+        <seg>Verranno ora creati due rapporti: il primo elencherà le spese di ogni giorno (escluse quelle per il carburante) e il secondo elencherà delle statistiche sul carburante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41840,6 +41984,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What fields are required to provide this information?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070434Z" creationid="manuel" creationdate="20180919T070434Z">
+        <seg>Quali campi sono necessari per fornire queste informazioni?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What fields fit into the food category?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155017Z" creationid="manuel" creationdate="20180715T155017Z">
@@ -41868,6 +42020,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154930Z" creationid="manuel" creationdate="20180715T154930Z">
         <seg>Quali campi sono adatti per la categoria vacanze?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What information do we want in the report?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070426Z" creationid="manuel" creationdate="20180919T070426Z">
+        <seg>Quali informazioni si vogliono inserire nel rapporto?</seg>
       </tuv>
     </tu>
     <tu>
@@ -42868,6 +43028,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T204044Z" creationid="Marco Marega" creationdate="20180731T204044Z">
         <seg>A cosa vi può servire?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will a query or view have to be created because these fields are in different tables?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070437Z" creationid="manuel" creationdate="20180919T070437Z">
+        <seg>Sarà necessario creare una ricerca o una vista, nel caso i campi necessari appartengano a tabelle diverse?</seg>
       </tuv>
     </tu>
     <tu>
