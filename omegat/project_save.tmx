@@ -215,6 +215,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(There are only two that you need to check.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082011Z" creationid="manuel" creationdate="20180919T082011Z">
+        <seg>(Ci sono solo due cose che dovete controllare.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(This example uses a paragraph style, but you can also choose character styles and others.) The &lt;f0&gt;Function&lt;/f0&gt; list will display the names of the available styles for the selected category.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T123244Z" creationid="briga" creationdate="20180823T123244Z">
@@ -5440,6 +5448,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0/&gt;Instead, aliases can be made containing two words each (Album Title and Date Purchased, respectively).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T081450Z" creationid="manuel" creationdate="20180919T081450Z">
+        <seg>&lt;s0/&gt;Invece, è possibile creare alias contenenti due parole ciascuna (rispettivamente Titolo album e Data acquisto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0/&gt;You can also create new toolbars.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T102606Z" creationid="briga" creationdate="20180820T102606Z">
@@ -8979,6 +8995,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change AlbumTitle to Album Title.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T081521Z" creationid="manuel" creationdate="20180919T081521Z">
+        <seg>Cambiare AlbumTitolo in Titolo Album.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change DatePurchased to Date Purchased.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T081550Z" creationid="manuel" creationdate="20180919T081550Z">
+        <seg>Cambiare DataAcquisto in Data acquisto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change a style using the Style dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155834Z" creationid="manuel" creationdate="20180612T155834Z">
@@ -12179,6 +12211,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182223Z" creationid="Elisabetta Manuele" creationdate="20180620T182223Z">
         <seg>Creazione di un album fotografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a query using Design View is not as difficult as it may first seem.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082343Z" creationid="manuel" creationdate="20180919T082343Z">
+        <seg>Creare ricerche usando la Vista struttura non è difficile come potrebbe sembrare a prima vista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20616,6 +20656,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If something is wrong, use the &lt;f0&gt;Back&lt;/f0&gt; button to move to the step that contains the error.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082136Z" creationid="manuel" creationdate="20180919T082136Z">
+        <seg>Se qualcosa non va, utilizzare il pulsante &lt;f0&gt;Indietro&lt;/f0&gt; per passare al passaggio che contiene l'errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;f0&gt;Decimal separator key&lt;/f0&gt; option is selected, LibreOffice use&lt;f1&gt;s&lt;/f1&gt; the character defined by the default locale.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T060442Z" creationid="manuel" creationdate="20180609T060442Z">
@@ -23832,6 +23880,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may take multiple steps, but each step is fairly simple.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082353Z" creationid="manuel" creationdate="20180919T082353Z">
+        <seg>Può richiedere diversi passaggi, ma ognuno di essi è abbastanza semplice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It moves either the field or the label but not both.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T094948Z" creationid="manuel" creationdate="20180913T094948Z">
@@ -24989,6 +25045,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090057Z" creationid="manuel" creationdate="20180913T090057Z">
         <seg>Assicuratevi che questa sia sufficientemente ampia da poter contenere tutti i controlli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure that the query conditions listed in the Overview list are the ones you wanted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T081651Z" creationid="manuel" creationdate="20180919T081651Z">
+        <seg>Assicuratevi che le condizioni della ricerca elencate nell'elenco Panoramica siano quelle che volevate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26381,6 +26445,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143717Z" creationid="manuel" creationdate="20180608T143717Z">
         <seg>Nome del Fax</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name the query (suggestion: &lt;f0&gt;Query_Artists&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082302Z" creationid="manuel" creationdate="20180919T082302Z">
+        <seg>Assegnate un nome alla ricerca (ad esempio: &lt;f0&gt;Ricerca_Interprete&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30273,6 +30345,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Display Query&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082322Z" creationid="manuel" creationdate="20180919T082322Z">
+        <seg>selezionate &lt;f0&gt;Mostra ricerca&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Edit &gt; Copy&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+C&lt;/f1&gt;, to copy the contents of the document to the clipboard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101319Z" creationid="manuel" creationdate="20180616T101113Z">
@@ -32817,6 +32897,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 1: Open the first query in Design View</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082413Z" creationid="manuel" creationdate="20180919T082413Z">
+        <seg>Passo 1: Aprire la prima ricerca in Vista struttura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 1: Select fields</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T135424Z" creationid="manuel" creationdate="20180721T135424Z">
@@ -32941,6 +33029,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T161800Z" creationid="manuel" creationdate="20180918T161800Z">
         <seg>Passo 8: Assegnare delle intestazioni ai gruppi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 8: Overview</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T081557Z" creationid="manuel" creationdate="20180919T081557Z">
+        <seg>Passo 8: Panoramica</seg>
       </tuv>
     </tu>
     <tu>
@@ -34786,6 +34882,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The fields, AlbumTitle and DatePurchased, have names made up of two words.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T080847Z" creationid="manuel" creationdate="20180919T080847Z">
+        <seg>I campi, AlbumTitolo e DataAcquisto, hanno nomi composti da due parole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The fields, field types, and Descriptions are listed in Figure &lt;t1&gt;214&lt;/t1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T064916Z" creationid="manuel" creationdate="20180910T064916Z">
@@ -36394,6 +36498,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then use the Next button to move to step 8.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082221Z" creationid="manuel" creationdate="20180919T082221Z">
+        <seg>Quindi utilizzare il pulsante Avanti per passare al punto 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then you can create a report from this.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063533Z" creationid="manuel" creationdate="20180919T063533Z">
@@ -37478,6 +37590,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152250Z" creationid="manuel" creationdate="20180621T152250Z">
         <seg>In questo modo Writer passa in modalità di “Selezione con aggiunta”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This question requires creating two queries, with the first query used as part of the second query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082358Z" creationid="manuel" creationdate="20180919T082358Z">
+        <seg>Per ottenere tale dato è necessario creare due ricerche, di cui la prima è usata come parte della seconda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40054,6 +40174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To the right of this are two choices.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082305Z" creationid="manuel" creationdate="20180919T082305Z">
+        <seg>Alla destra del nome vi sono due possibili scelte; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To the right side of the title bar of each open deck is a &lt;f0&gt;Close&lt;/f0&gt; button (&lt;f1&gt;X&lt;/f1&gt;), which closes the deck to leave only the Tab bar open.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T185856Z" creationid="Marco Marega" creationdate="20180708T185856Z">
@@ -41703,6 +41831,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the Design View to create a query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082336Z" creationid="manuel" creationdate="20180919T082336Z">
+        <seg>Utilizzo della Vista struttura per creare una ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the Elements window or the context menus to insert a formula provides a convenient way to learn the markup language used by LibreOffice Math.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123214Z" creationid="Marco Marega" creationdate="20180816T123214Z">
@@ -42188,6 +42324,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154930Z" creationid="manuel" creationdate="20180715T154930Z">
         <seg>Quali campi sono adatti per la categoria vacanze?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What fuel economy is our vehicle getting (miles per gallon in the USA)?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082355Z" creationid="manuel" creationdate="20180919T082355Z">
+        <seg>Si supponga di voler sapere quanto consuma il nostro veicolo (in Italia, chilometri per litro).</seg>
       </tuv>
     </tu>
     <tu>
