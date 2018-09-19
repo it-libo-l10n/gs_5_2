@@ -4224,6 +4224,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Step 3: Select &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;the search conditions&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T072605Z" creationid="manuel" creationdate="20180919T072605Z">
+        <seg>&lt;f0&gt;Passo 3: Selezione delle &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;condizioni di ricerca&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Step 4: &lt;/f0&gt;&lt;i1/&gt;&lt;i2/&gt;&lt;f3&gt;Get joined fields&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T081108Z" creationid="manuel" creationdate="20180913T081108Z">
@@ -4964,6 +4972,62 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T125804Z" creationid="Marco Marega" creationdate="20180825T125804Z">
         <seg>&lt;f0&gt;int_0^x f(t) dt&lt;/f0&gt;&lt;f1&gt; da come risultato&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;is equal or greater than&lt;/f0&gt;: the same as or comes after</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T073811Z" creationid="manuel" creationdate="20180919T073811Z">
+        <seg>&lt;f0&gt;è uguale o maggiore di&lt;/f0&gt;: è lo stesso o viene dopo di</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;is equal or less than&lt;/f0&gt;: the same as or comes before</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T073803Z" creationid="manuel" creationdate="20180919T073803Z">
+        <seg>&lt;f0&gt;è uguale o minore di&lt;/f0&gt;: è lo stesso o viene prima di</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;is equal to&lt;/f0&gt;: the same as</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T073724Z" creationid="manuel" creationdate="20180919T073724Z">
+        <seg>&lt;f0&gt;è uguale a:&lt;/f0&gt; lo stesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;is greater than&lt;/f0&gt;: comes after</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T073754Z" creationid="manuel" creationdate="20180919T073754Z">
+        <seg>&lt;f0&gt;è maggiore di&lt;/f0&gt;: viene dopo di</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;is not equal to&lt;/f0&gt;: not the same as</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T073733Z" creationid="manuel" creationdate="20180919T073733Z">
+        <seg>&lt;f0&gt;non è uguale a&lt;/f0&gt;: diverso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;is smaller than&lt;/f0&gt;: comes before</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T073745Z" creationid="manuel" creationdate="20180919T073745Z">
+        <seg>&lt;f0&gt;è minore di&lt;/f0&gt;: viene prima di</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;like&lt;/f0&gt;: similar to in some way</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T073823Z" creationid="manuel" creationdate="20180919T073823Z">
+        <seg>&lt;f0&gt;come&lt;/f0&gt;: simile in qualche modo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7649,6 +7713,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Artist&lt;/f0&gt; in the Fields list and &lt;f1&gt;is equal to&lt;/f1&gt; as the Condition.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T074006Z" creationid="manuel" creationdate="20180919T074006Z">
+        <seg>Interprete&lt;/f0&gt; nell'elenco Comandi di campo e &lt;f1&gt;è uguale a&lt;/f1&gt; come Condizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As an example, we can use the &lt;f0&gt;First Page&lt;/f0&gt; and &lt;f1&gt;Default&lt;/f1&gt; page styles that come with LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144202Z" creationid="manuel" creationdate="20180616T144202Z">
@@ -10039,6 +10111,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T142044Z" creationid="briga" creationdate="20180820T142044Z">
         <seg>Fate clic su &lt;f0&gt;Nuovo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Next&lt;/f0&gt; at the bottom of the window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T074157Z" creationid="manuel" creationdate="20180919T074157Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Avanti&lt;/f0&gt; nella parte inferiore della finestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28929,6 +29009,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Report wizard vs Report Design View</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T072448Z" creationid="manuel" creationdate="20180919T072448Z">
+        <seg>Creazione guidata rapporto contro Vista struttura rapporto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reports are generated from the database’s tables, views, or queries.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063508Z" creationid="manuel" creationdate="20180919T063508Z">
@@ -32049,6 +32137,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since we are only searching for one thing, we will use the default setting of &lt;f0&gt;Match all of the following&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T073856Z" creationid="manuel" creationdate="20180919T073856Z">
+        <seg>Dal momento che si sta cercando una sola cosa, verrà usata l'impostazione standard &lt;f0&gt;Trova tutti i seguenti&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since we have a simple query, the &lt;f0&gt;Grouping&lt;/f0&gt; and &lt;f1&gt;Grouping conditions&lt;/f1&gt; are not needed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T074322Z" creationid="manuel" creationdate="20180919T074322Z">
+        <seg>Dal momento che si sta preparando una ricerca semplice, il &lt;f0&gt;Raggruppamento&lt;/f0&gt; e le &lt;f1&gt;Condizioni di raggruppamento&lt;/f1&gt; non servono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since we have already created a relationship between the Fuel and Vacations tables, we will use that relationship.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075228Z" creationid="manuel" creationdate="20180913T075228Z">
@@ -32769,6 +32873,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 4: Select type of query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T074101Z" creationid="manuel" creationdate="20180919T074101Z">
+        <seg>Passo 4: Selezione del tipo di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 5: Arrange controls</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082657Z" creationid="manuel" creationdate="20180913T082657Z">
@@ -32809,6 +32921,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 7: Assign aliases if desired</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T074341Z" creationid="manuel" creationdate="20180919T074341Z">
+        <seg>Passo 7: Assegnazione degli Alias desiderati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 7: Change labels and fields in the subform</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T161520Z" creationid="manuel" creationdate="20180918T161520Z">
@@ -32829,6 +32949,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085045Z" creationid="manuel" creationdate="20180913T085045Z">
         <seg>Passo 8: Impostare il nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Steps 5 and 6 of the wizard are skipped in our query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T074331Z" creationid="manuel" creationdate="20180919T074331Z">
+        <seg>Quindi i passi 5 e 6 vengono saltati in questo caso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35746,6 +35874,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search conditions allow us to compare the name we entered with the names of the artist in our database and decide whether to include a particular artist in our query results or not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T072708Z" creationid="manuel" creationdate="20180919T072708Z">
+        <seg>Le condizioni di ricerca permettono di confrontare il nome inserito con il nome dell'artista nel database e di decidere se includere o meno quel particolare artista nella ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second page has two questions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T160804Z" creationid="manuel" creationdate="20180715T160804Z">
@@ -36470,6 +36606,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T211440Z" creationid="Marco Marega" creationdate="20180712T211440Z">
         <seg>Le intestazioni di colonna e riga formano i riferimenti di cella che appaiono nella Casella del nome all'interno della Barra di calcolo (Figura &lt;t0&gt;87&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These conditions apply to numbers, letters (using alphabetical order), and dates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T073827Z" creationid="manuel" creationdate="20180919T073827Z">
+        <seg>Queste condizioni si applicano a numeri, lettere (seguendo l'ordine alfabetico) e date.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40382,6 +40526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type the name of the artist in the &lt;f0&gt;Value&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T074042Z" creationid="manuel" creationdate="20180919T074042Z">
+        <seg>Digitate il nome dell'interprete nel riquadro &lt;f0&gt;Valore&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type the new cell reference of the cell you want to move to and press &lt;f4&gt;Enter&lt;/f4&gt; key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183613Z" creationid="Marco Marega" creationdate="20180713T183613Z">
@@ -41815,6 +41967,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We are looking for a particular artist, so select &lt;f0&gt;CD-Collection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T073926Z" creationid="manuel" creationdate="20180919T073926Z">
+        <seg>Si sta cercando un particolare interprete, quindi selezionate &lt;f0&gt;Collezione_CD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We can delete some of these fields and add other fields.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T134111Z" creationid="manuel" creationdate="20180721T134111Z">
@@ -41835,6 +41995,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T182113Z" creationid="Elisabetta Manuele" creationdate="20180620T181343Z">
         <seg>Inoltre, richiediamo che condividiate con il progetto parte dei profitti ottenuti dalla vendita delle Guide, in considerazione di tutto il lavoro svolto per produrle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We want simple information, so the default setting: &lt;f0&gt;Detailed query&lt;/f0&gt; is what we want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T074133Z" creationid="manuel" creationdate="20180919T074133Z">
+        <seg>Desiderando semplici informazioni, l'impostazione standard: &lt;f0&gt;Ricerca dettagliata&lt;/f0&gt; dovrebbe rispondere alle vostre esigenze.</seg>
       </tuv>
     </tu>
     <tu>
