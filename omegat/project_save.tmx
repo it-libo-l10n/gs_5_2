@@ -10043,6 +10043,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Apply&lt;/f0&gt; to see the effects of adding the color.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082948Z" creationid="manuel" creationdate="20180919T082948Z">
+        <seg>Fate clic su &lt;f0&gt;Applica&lt;/f0&gt; per vedere gli effetti della modifica del colore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Close Toolbar&lt;/f0&gt; to close the selected toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190407Z" creationid="Marco Marega" creationdate="20180620T190407Z">
@@ -10063,6 +10071,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144802Z" creationid="manuel" creationdate="20180626T144802Z">
         <seg>Per ritornare al documento fate clic su &lt;f0&gt;Chiudi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Create Query in Design View&lt;/f0&gt; to open a new query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082759Z" creationid="manuel" creationdate="20180919T082759Z">
+        <seg>Fate clic su &lt;f0&gt;Crea ricerca in vista struttura&lt;/f0&gt; per aprire una nuova ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13632,6 +13648,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click the FuelQuantity field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082528Z" creationid="manuel" creationdate="20180919T082528Z">
+        <seg>Sul campo QuantitàCarburante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-click the Odometer field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082521Z" creationid="manuel" creationdate="20180919T082511Z">
+        <seg>Sul campo Chilometraggio e </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click the name of the table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065804Z" creationid="manuel" creationdate="20180910T065804Z">
@@ -15908,6 +15940,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072822Z" creationid="manuel" creationdate="20180531T072822Z">
         <seg>Figura &lt;seq0&gt;23&lt;/seq0&gt;: modifica dei colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;245&lt;/seq0&gt;: Query table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082543Z" creationid="manuel" creationdate="20180919T082543Z">
+        <seg>Figura &lt;seq0&gt;245&lt;/seq0&gt;: tabella ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;247&lt;/seq0&gt;: Fuel table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082609Z" creationid="manuel" creationdate="20180919T082609Z">
+        <seg>Figura &lt;seq0&gt;247&lt;/seq0&gt;: tabella Carburante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;248&lt;/seq0&gt;: Query of Fuel table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082620Z" creationid="manuel" creationdate="20180919T082620Z">
+        <seg>Figura &lt;seq0&gt;248&lt;/seq0&gt;: ricerca della tabella Carburante</seg>
       </tuv>
     </tu>
     <tu>
@@ -26889,6 +26945,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OR, click &lt;f1&gt;OK&lt;/f1&gt; to close the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T083209Z" creationid="manuel" creationdate="20180919T083209Z">
+        <seg>Oppure, fate clic su &lt;f1&gt;OK&lt;/f1&gt; per chiudere la finestra di dialogo.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Object information</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192401Z" creationid="Marco Marega" creationdate="20180620T192401Z">
@@ -29717,6 +29781,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T133415Z" creationid="briga" creationdate="20180828T133415Z">
         <seg>Scorre in basso di una pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scroll down through the colors and then Click &lt;f0&gt;Cyan 2&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082913Z" creationid="manuel" creationdate="20180919T082913Z">
+        <seg>Scorri verso il basso tra i colori e quindi fai clic su &lt;f0&gt;Ciano 2&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32985,10 +33057,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 5: Save and close the query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082630Z" creationid="manuel" creationdate="20180919T082630Z">
+        <seg>Passo 5: Salvare e chiudere la ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 6: Change the Misc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144909Z" creationid="manuel" creationdate="20180918T144909Z">
         <seg>Passo 6: Modificare il campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 6: Create the query to calculate the fuel economy</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082651Z" creationid="manuel" creationdate="20180919T082651Z">
+        <seg>Passo 6: Creare la ricerca per calcolare il consumo di carburante</seg>
       </tuv>
     </tu>
     <tu>
@@ -36170,6 +36258,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The table at the bottom of the query window should now have three columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082532Z" creationid="manuel" creationdate="20180919T082532Z">
+        <seg>La tabella in basso nella finestra della ricerca è costituita adesso da tre colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The table below gives some common substitutions for the instructions in this book.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173248Z" creationid="Elisabetta Manuele" creationdate="20180627T173248Z">
@@ -36478,6 +36574,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142314Z" creationid="manuel" creationdate="20180621T142314Z">
         <seg>Quindi scegliete &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then close the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082639Z" creationid="manuel" creationdate="20180919T082639Z">
+        <seg>Quindi chiudete la ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42155,6 +42259,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144228Z" creationid="manuel" creationdate="20180918T144228Z">
         <seg>La larghezza dei seguenti controlli verrà impostata a 2 cm (0.8 pollici): Colazione, Pranzo, Cena, Chilometraggio, Num Snack, Pedaggi, Spese Snack, Motel, e Varie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We want the query’s FuelID to begin with the numeral 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082547Z" creationid="manuel" creationdate="20180919T082547Z">
+        <seg>Si desidera che il campo IDCarburante della ricerca inizi con il numero 1.</seg>
       </tuv>
     </tu>
     <tu>
