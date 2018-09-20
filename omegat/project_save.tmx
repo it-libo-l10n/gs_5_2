@@ -3984,6 +3984,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Records&lt;/f0&gt; are used to organize the data we enter into a form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071403Z" creationid="manuel" creationdate="20180920T071403Z">
+        <seg>I &lt;f0&gt;record&lt;/f0&gt; servono ad organizzare i dati che vengono inseriti in un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Replace the braces using the commands &lt;/f0&gt;&lt;f1&gt;lbrace&lt;/f1&gt;&lt;f2&gt; and &lt;/f2&gt;&lt;f3&gt;rbrace&lt;/f3&gt;&lt;f4&gt; in the markup language.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T104948Z" creationid="Marco Marega" creationdate="20180824T104948Z">
@@ -11478,6 +11486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the Forms icon in the &lt;f0&gt;Database&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T072129Z" creationid="manuel" creationdate="20180920T072129Z">
+        <seg>Fate clic sull'icona Formulari nell'elenco &lt;f0&gt;Database&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the Tolls control to select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090116Z" creationid="manuel" creationdate="20180913T090116Z">
@@ -13439,6 +13455,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Different types of fields allow different methods of data entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071446Z" creationid="manuel" creationdate="20180920T071446Z">
+        <seg>Differenti tipi di campi consentono metodi differenti di inserimento dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Digital signature</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T070407Z" creationid="manuel" creationdate="20180618T070407Z">
@@ -13772,6 +13796,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082521Z" creationid="manuel" creationdate="20180919T082511Z">
         <seg>Sul campo Chilometraggio e </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-click the form’s name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T073231Z" creationid="manuel" creationdate="20180920T073231Z">
+        <seg>Fate doppio clic sul nome del formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17108,6 +17140,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143904Z" creationid="manuel" creationdate="20180616T143904Z">
         <seg>Trovate la cartella in cui volete esportare il modello e fate clic su &lt;f0&gt;Salva&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find the form’s name in the &lt;f0&gt;Forms&lt;/f0&gt; list (Vacations).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T072851Z" creationid="manuel" creationdate="20180920T072851Z">
+        <seg>Trovate nell'elenco &lt;f0&gt;Formulari&lt;/f0&gt; il nome del formulario (Vacanze).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22828,6 +22868,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213742Z" creationid="Marco Marega" creationdate="20180531T213742Z">
         <seg>In linea di massima, LibreOffice si avvia allo stesso modo in cui, sul vostro computer, avviate qualunque altro programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In many cases, more than one method can be used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071456Z" creationid="manuel" creationdate="20180920T071456Z">
+        <seg>In molti casi, è possibile utilizzare più metodi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35322,6 +35370,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first step to entering data in a form is to open it from the main database window (Figure &lt;t0&gt;208&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071540Z" creationid="manuel" creationdate="20180920T071540Z">
+        <seg>Il primo passo per inserire dati in un formulario consiste nell'aprire il formulario dalla finestra principale del database (Figura &lt;t0&gt;212&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first table to be created is &lt;f0&gt;Fuel&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T103658Z" creationid="manuel" creationdate="20180822T103658Z">
@@ -36202,6 +36258,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The quickest way to enter a date in the Date field is to click the arrow that opens the drop down calendar (Figure &lt;t0&gt;239&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T073310Z" creationid="manuel" creationdate="20180920T073310Z">
+        <seg>Il modo più veloce per inserire la data nel campo Data è di fare clic sulla freccia a destra del campo che apre il calendario a comparsa (Figura &lt;t0&gt;245&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The range of choices on the Paste Special menu varies depending on the origin and formatting of the text (or other object) to be pasted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165218Z" creationid="manuel" creationdate="20180621T165218Z">
@@ -36874,6 +36938,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then click the day the you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T073314Z" creationid="manuel" creationdate="20180920T073314Z">
+        <seg>Quindi fate clic sul giorno che desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then close the query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082639Z" creationid="manuel" creationdate="20180919T082639Z">
@@ -37262,6 +37334,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143741Z" creationid="manuel" creationdate="20180611T143741Z">
         <seg>Inoltre, rendono più agevole l'esecuzione di modifiche globali della formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They also organize the data we enter into a subform.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071426Z" creationid="manuel" creationdate="20180920T071426Z">
+        <seg>Organizzano anche i dati inseriti nei formulari secondari.</seg>
       </tuv>
     </tu>
     <tu>
