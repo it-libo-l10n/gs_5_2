@@ -2656,6 +2656,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; the Date field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T070403Z" creationid="manuel" creationdate="20180920T070403Z">
+        <seg>Fate &lt;f0&gt;Ctrl+click&lt;/f0&gt; sul campo Data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; the SnackNo label.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T142917Z" creationid="manuel" creationdate="20180918T142917Z">
@@ -4252,6 +4260,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212641Z" creationid="Marco Marega" creationdate="20180808T212641Z">
         <seg>&lt;f0&gt;Valore iniziale&lt;/f0&gt; – stabilisce il valore di partenza della serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Step 10: Change &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;the tab order&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T070107Z" creationid="manuel" creationdate="20180920T070107Z">
+        <seg>&lt;f0&gt;Passo 10: Modificare &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;l'ordine delle schede&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10795,6 +10811,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click it and click Backgrounds (Figure &lt;t1&gt;236&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T065018Z" creationid="manuel" creationdate="20180920T065018Z">
+        <seg>Fateci clic e fate clic su Sfondi (Figura &lt;t1&gt;236&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click it to open the list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T092936Z" creationid="manuel" creationdate="20180913T092936Z">
@@ -11317,6 +11341,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Move Up&lt;/f0&gt; button until txtPayment is just below fmtMotel.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071115Z" creationid="manuel" creationdate="20180920T071115Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Sposta in alto&lt;/f0&gt; fino a quando txtPagamentoMo non si trova sotto fmtMotel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Navigate by&lt;/f0&gt; button to open the Navigator and the Navigation toolbar, which are described in “&lt;bf1&gt;Moving quickly through a document&lt;/bf1&gt;” &lt;f2&gt;on page &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;87&lt;/bf4&gt;&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101803Z" creationid="manuel" creationdate="20180622T101803Z">
@@ -11426,6 +11458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T101415Z" creationid="briga" creationdate="20180820T101415Z">
         <seg>Fate clic sul pulsante &lt;f3&gt;Modifica&lt;/f3&gt; e scegliete l'azione richiesta dall'elenco a comparsa delle azioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;i0/&gt;&lt;f1&gt;Activation Order&lt;/f1&gt; icon (circled).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T070905Z" creationid="manuel" creationdate="20180920T070905Z">
+        <seg>Fate clic sull'icona &lt;i0/&gt;&lt;f1&gt;Sequenza di attivazione&lt;/f1&gt; (cerchiata).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12387,6 +12427,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181305Z" creationid="Elisabetta Manuele" creationdate="20180620T181305Z">
         <seg>Creazione di formulari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating forms and sub forms in Design View</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071207Z" creationid="manuel" creationdate="20180920T071207Z">
+        <seg>Creazione di formulari e formulari secondari in Vista struttura</seg>
       </tuv>
     </tu>
     <tu>
@@ -16000,6 +16048,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;234&lt;/seq0&gt;: Finished form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T064346Z" creationid="manuel" creationdate="20180920T064346Z">
+        <seg>Figura &lt;seq0&gt;234&lt;/seq0&gt;: il formulario ultimato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;235&lt;/seq0&gt;: Often used items</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T065726Z" creationid="manuel" creationdate="20180920T065217Z">
+        <seg>Figura &lt;seq0&gt;235&lt;/seq0&gt;: oggetti usati spesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;236&lt;/seq0&gt;: Open Gallery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T065716Z" creationid="manuel" creationdate="20180920T065716Z">
+        <seg>Figura &lt;seq0&gt;236&lt;/seq0&gt;: apri Galleria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;237&lt;/seq0&gt;: Form Design toolbar with Activation Order icon circled</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T070336Z" creationid="manuel" creationdate="20180920T070336Z">
+        <seg>Figura &lt;seq0&gt;237&lt;/seq0&gt;: barra degli strumenti Struttura del formulario con l'icona Sequenza di attivazione cerchiata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;238&lt;/seq0&gt;: Tab order for the main form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071341Z" creationid="manuel" creationdate="20180920T071341Z">
+        <seg>Figura &lt;seq0&gt;238&lt;/seq0&gt;: sequenza di ordinamento per il formulario principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Editing colors</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072822Z" creationid="manuel" creationdate="20180531T072822Z">
@@ -17024,6 +17112,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Find the txtMPayment listing near the bottom of the list and click it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T070924Z" creationid="manuel" creationdate="20180920T070924Z">
+        <seg>Cercate txtPagamentoMo in basso nella lista e fateci clic sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finding and replacing text and formatting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165313Z" creationid="manuel" creationdate="20180621T165313Z">
@@ -17476,6 +17572,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T103912Z" creationid="manuel" creationdate="20180721T103912Z">
         <seg>Per esempio, una tabella potrebbe contenere una rubrica di indirizzi, un catalogo, una rubrica telefonica o un listino prezzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, all of our meal receipts can be grouped together as can our snacks and also our fuel purchases.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T070319Z" creationid="manuel" creationdate="20180920T070319Z">
+        <seg>Ad esempio, tutte le spese pasto possono essere raggruppate insieme, così come le spese snack e gli acquisti carburante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23632,6 +23736,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instructions for creating forms using Design view will be described in the &lt;f2&gt;Database Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071334Z" creationid="manuel" creationdate="20180920T071334Z">
+        <seg>Le istruzioni per creare formulari utilizzando la Vista struttura sono descritte nella &lt;f2&gt;Guida a Base&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Internet options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135322Z" creationid="manuel" creationdate="20180609T135322Z">
@@ -23708,6 +23820,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T194209Z" creationid="Marco Marega" creationdate="20180811T194209Z">
         <seg>Questa vi permette inoltre di formattare molto facilmente le diverse parti del foglio con lo stesso stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It also permits us to group our expenses into areas before we begin entering data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T070242Z" creationid="manuel" creationdate="20180920T070242Z">
+        <seg>Questo permette inoltre di raggruppare le spese in aree prima di iniziare l'inserimento dei dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27433,6 +27553,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the left side of the form window are four icons (Figure &lt;t0&gt;235&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T064430Z" creationid="manuel" creationdate="20180920T064430Z">
+        <seg>Sul lato sinistro della finestra del modulo ci sono quattro icone (Figura &lt;t0&gt;235&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the open Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) select the &lt;f1&gt;Properties&lt;/f1&gt; tab.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T061138Z" creationid="manuel" creationdate="20180628T061138Z">
@@ -28905,6 +29033,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rearrange the order of the fields in the Tab Order window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T070909Z" creationid="manuel" creationdate="20180920T070909Z">
+        <seg>Ora riorganizzate l'ordine dei campi nella finestra Ordine schede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recipients of PDF documents with a trusted timestamp can verify when the document was digitally or electronically signed, as well as verify that the document was not altered after the date the timestamp vouches for.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T153114Z" creationid="manuel" creationdate="20180606T083816Z">
@@ -29569,6 +29705,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click the background you want to use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T065105Z" creationid="manuel" creationdate="20180920T065105Z">
+        <seg>Fate clic con il pulsante secondario del mouse sullo sfondo che volete usare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click the column or row header.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T123958Z" creationid="Marco Marega" creationdate="20180718T123958Z">
@@ -29729,6 +29873,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save and close the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071151Z" creationid="manuel" creationdate="20180920T071151Z">
+        <seg>Salvate e chiudete il formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save command</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194026Z" creationid="Marco Marega" creationdate="20180621T194026Z">
@@ -29741,6 +29893,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180912T165804Z" creationid="manuel" creationdate="20180912T165804Z">
         <seg>Salvate la finestra di dialogo Struttura delle relazioni se il pulsante &lt;f0&gt;Salva&lt;/f0&gt; è attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071154Z" creationid="manuel" creationdate="20180920T071154Z">
+        <seg>Salvate il database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30257,6 +30417,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the &lt;f0&gt;Draw Guide&lt;/f0&gt; for information how to do this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T070032Z" creationid="manuel" creationdate="20180920T070032Z">
+        <seg>Vedere la &lt;f0&gt;Guida a Draw&lt;/f0&gt; per informazioni su come farlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the &lt;f1&gt;Calc Guide Chapter 2 Entering, Editing, and Formatting Data&lt;/f1&gt; for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T122104Z" creationid="Marco Marega" creationdate="20180812T121957Z">
@@ -30737,6 +30905,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;View &gt; Toolbar &gt; Form Design&lt;/f0&gt; to open this toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T070556Z" creationid="manuel" creationdate="20180920T070556Z">
+        <seg>Selezionate &lt;f0&gt;Visualizza &gt; Barre degli strumenti &gt; Struttura del formulario&lt;/f0&gt; per aprire questa barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f1&gt;Employees&lt;/f1&gt; from the drop down list of sample tables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T155148Z" creationid="manuel" creationdate="20180721T155148Z">
@@ -30765,6 +30941,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093139Z" creationid="manuel" creationdate="20180913T093139Z">
         <seg>Selezionate &lt;f1&gt;Sì&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f2&gt;Insert as Background &gt; Page&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T065135Z" creationid="manuel" creationdate="20180920T065135Z">
+        <seg>Selezionate &lt;f2&gt;Inserisci come sfondo &gt; Pagina&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33789,6 +33973,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104155Z" creationid="manuel" creationdate="20180606T104155Z">
         <seg>L'opzione &lt;f0&gt;Strumenti per il supporto con tecnologia assistiva&lt;/f0&gt; non viene mostrata in tutte le installazioni di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Tab&lt;/f0&gt; key moves the cursor from field to field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T070228Z" creationid="manuel" creationdate="20180920T070228Z">
+        <seg>Il tasto &lt;f0&gt;Tab&lt;/f0&gt; sposta il cursore da un campo all'altro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37042,6 +37234,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These techniques are beyond the scope of this document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071306Z" creationid="manuel" creationdate="20180920T071306Z">
+        <seg>Queste tecniche esulano dallo scopo di questo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These tools are divided between the Tools and Data menus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144931Z" creationid="Marco Marega" creationdate="20180813T144931Z">
@@ -37530,6 +37730,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is much easier to do than to click each field to enter data into it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T070237Z" creationid="manuel" creationdate="20180920T070237Z">
+        <seg>È molto più semplice utilizzare questo sistema piuttosto che fare clic su ogni campo per inserirvi i dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is particularly helpful for finding items like index entries, which can be difficult to see in the text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T140757Z" creationid="manuel" creationdate="20180621T140757Z">
@@ -37686,6 +37894,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150018Z" creationid="manuel" creationdate="20180612T150018Z">
         <seg>Questo metodo è particolarmente utile quando dovete formattare con lo stesso stile più paragrafi non consecutivi oppure varie celle o altri elementi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This method requires using the &lt;f0&gt;Form Controls &lt;/f0&gt;and&lt;f1&gt; Form Design&lt;/f1&gt; toolbars extensively.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071303Z" creationid="manuel" creationdate="20180920T071303Z">
+        <seg>Questo metodo richiede l'uso delle barre degli strumenti &lt;f0&gt;Controlli per formulario &lt;/f0&gt;e &lt;f1&gt;Struttura del formulario&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41471,6 +41687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the same two steps to put the fields in the same order as in Figure &lt;t0&gt;238&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071147Z" creationid="manuel" creationdate="20180920T071147Z">
+        <seg>Ripetete questa procedura per mettere i campi nell'ordine mostrato in Figura &lt;t0&gt;238&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the slide sorter &lt;f0&gt;(see page&lt;/f0&gt; &lt;bf1&gt;160&lt;/bf1&gt;&lt;f2&gt;) &lt;/f2&gt;to reorder your photo album.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085947Z" creationid="luke" creationdate="20180515T085947Z">
@@ -44720,6 +44944,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can create custom Gradients, Hatchings, and Bitmaps using the Draw component of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T065946Z" creationid="manuel" creationdate="20180920T065946Z">
+        <seg>Potete personalizzare gradienti, tratteggi e Bitmap usando il componente Draw di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create nested lists (where one or more list items has a sub-list under it, as in an outline) by using the buttons on the Bullets and Numbering toolbar (Figure &lt;t0&gt;74&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T164728Z" creationid="manuel" creationdate="20180626T164728Z">
@@ -45488,6 +45720,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can use the Gallery as a source for backgrounds.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T064807Z" creationid="manuel" creationdate="20180920T064807Z">
+        <seg>Potete usare la Galleria come fonte per gli sfondi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can use the color schemes known as &lt;is0/&gt;CMYK&lt;ie1/&gt; (Cyan, Magenta, Yellow, Black) or &lt;is2/&gt;RGB&lt;ie3/&gt; (Red, Green, Blue).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T163705Z" creationid="manuel" creationdate="20180703T163705Z">
@@ -45976,6 +46216,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>activation order</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T070601Z" creationid="manuel" creationdate="20180920T070601Z">
+        <seg>sequenza di attivazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>adding commands</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180819T065519Z" creationid="briga" creationdate="20180819T065519Z">
@@ -46392,6 +46640,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>creating in Design View</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071159Z" creationid="manuel" creationdate="20180920T071159Z">
+        <seg>creazione in Vista struttura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>creating new</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T163531Z" creationid="manuel" creationdate="20180612T163531Z">
@@ -46772,6 +47028,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082058Z" creationid="manuel" creationdate="20180530T082058Z">
         <seg>abilitare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>entering data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071343Z" creationid="manuel" creationdate="20180920T071343Z">
+        <seg>inserimento dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -48172,6 +48436,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184718Z" creationid="Marco Marega" creationdate="20180817T184718Z">
         <seg>sum a_n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tab order</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T070041Z" creationid="manuel" creationdate="20180920T070041Z">
+        <seg>ordine delle schede</seg>
       </tuv>
     </tu>
     <tu>
