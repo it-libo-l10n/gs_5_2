@@ -2351,6 +2351,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Bitmap&lt;/f0&gt;: Select the bitmap design that you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T061713Z" creationid="manuel" creationdate="20180920T061713Z">
+        <seg>&lt;f0&gt;Bitmap&lt;/f0&gt;: selezionate il disegno bitmap desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Brackets &lt;/f0&gt;&lt;f1&gt;and&lt;/f1&gt;&lt;f2&gt; matrices&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T105040Z" creationid="Marco Marega" creationdate="20180824T105040Z">
@@ -3308,6 +3316,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T210923Z" creationid="Marco Marega" creationdate="20180808T210923Z">
         <seg>&lt;f0&gt;Crescita&lt;/f0&gt; – crea una serie crescente usando il valore di incremento ed il valore finale specificati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hatching&lt;/f0&gt;: Select the hatching design.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T061551Z" creationid="manuel" creationdate="20180920T061551Z">
+        <seg>&lt;f0&gt;Tratteggio&lt;/f0&gt;: seleziona il disegno del tratteggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9043,6 +9059,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change if necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T061858Z" creationid="manuel" creationdate="20180920T061858Z">
+        <seg>Cambiate se necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change it to Multi-line.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T145956Z" creationid="manuel" creationdate="20180918T145956Z">
@@ -10075,6 +10099,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Apply&lt;/f0&gt; to see what your selection will look like in your form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T061838Z" creationid="manuel" creationdate="20180920T061838Z">
+        <seg>Fate clic su &lt;f0&gt;Applica&lt;/f0&gt; per vedere come sarà la vostra selezione nel formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Close Toolbar&lt;/f0&gt; to close the selected toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190407Z" creationid="Marco Marega" creationdate="20180620T190407Z">
@@ -10303,6 +10335,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T091055Z" creationid="Marco Marega" creationdate="20180811T091055Z">
         <seg>Fate clic &lt;f0&gt;OK&lt;/f0&gt; per selezionare i fogli e le loro linguette cambieranno colore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to select your final decision.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T061949Z" creationid="manuel" creationdate="20180920T061949Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per selzionare la vostra decisione finale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21792,6 +21832,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you selected &lt;f0&gt;Bitmap&lt;/f0&gt; and &lt;f1&gt;Sky&lt;/f1&gt; from the Bitmap list, the form should look like Figure &lt;t2&gt;234&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T064324Z" creationid="manuel" creationdate="20180920T064324Z">
+        <seg>Se selezionate &lt;f0&gt;Bitmap&lt;/f0&gt; e &lt;f1&gt;Cielo&lt;/f1&gt; from the Bitmap list, il formulario dovrebbe assomigliare a quello in Figura &lt;t2&gt;234&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you type in cross-references to other parts of a document, those references can easily get out of date if you reorganize the order of topics, add or remove material, or reword a heading.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155644Z" creationid="manuel" creationdate="20180628T155644Z">
@@ -28989,6 +29037,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T083926Z" creationid="manuel" creationdate="20180606T083926Z">
         <seg>Rimuovi le informazioni personali al salvataggio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove the check to specify the amount.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T061504Z" creationid="manuel" creationdate="20180920T061504Z">
+        <seg>Rimuovere il segno di spunta per specificare l'incremento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36638,6 +36694,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090118Z" creationid="manuel" creationdate="20180913T090118Z">
         <seg>Quindi trascinatelo sulla destra, vicino al controllo Pranzo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then if you want a background color, check Background color and select the color.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T061642Z" creationid="manuel" creationdate="20180920T061642Z">
+        <seg>Quindi se desiderate un colore di sfondo, selezionate Colore di sfondo e selezionate il colore.</seg>
       </tuv>
     </tu>
     <tu>
