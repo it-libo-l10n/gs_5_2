@@ -2175,6 +2175,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;To c&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;reate other form backgrounds:&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T054447Z" creationid="manuel" creationdate="20180920T054447Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Per &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;creare altri sfondi per il formulario:&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;x over {–x + 1}&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; gives the result&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T104848Z" creationid="Marco Marega" creationdate="20180824T104848Z">
@@ -3248,6 +3256,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Gradient&lt;/f0&gt;: You can select increments between the colors to be automatic or you can select the amount of it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T060442Z" creationid="manuel" creationdate="20180920T060442Z">
+        <seg>&lt;f0&gt;Gradiente&lt;/f0&gt;: potete selezionare incrementi tra i colori per essere automatici o potete selezionare la quantità di incremento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Granularity.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184853Z" creationid="Marco Marega" creationdate="20180528T184853Z">
@@ -3708,6 +3724,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185618Z" creationid="Marco Marega" creationdate="20180528T185618Z">
         <seg>&lt;f0&gt;Nessun vincolo esclusivo con il produttore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;None&lt;/f0&gt;: No background.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T060307Z" creationid="manuel" creationdate="20180920T060307Z">
+        <seg>&lt;f0&gt;Nessuno&lt;/f0&gt;: Niente sfondo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28169,6 +28193,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perform steps 1-3 for adding color to the background.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T054950Z" creationid="manuel" creationdate="20180920T054950Z">
+        <seg>Eseguite i passaggi 1-3 per aggiungere colore allo sfondo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Permanent grouping</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112758Z" creationid="manuel" creationdate="20180705T112758Z">
@@ -29789,6 +29821,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082913Z" creationid="manuel" creationdate="20180919T082913Z">
         <seg>Scorri verso il basso tra i colori e quindi fai clic su &lt;f0&gt;Ciano 2&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scroll down to background you want from the list of backgrounds based upon your choice in 2) above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T060239Z" creationid="manuel" creationdate="20180920T060239Z">
+        <seg>Scorrete fino allo sfondo desiderato dall'elenco degli sfondi in base alla vostra scelta al punto 2) sopra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31453,6 +31493,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180830T063748Z" creationid="briga" creationdate="20180830T063748Z">
         <seg>Selezionate la barra degli strumenti con &lt;f0&gt;F6&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the type of background from the drop-down list below &lt;f0&gt;Fill&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180920T055042Z" creationid="manuel" creationdate="20180920T055042Z">
+        <seg>Selezionate un tipo di sfondo dall'elenco a discesa seguito da &lt;f0&gt;Riempi&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
