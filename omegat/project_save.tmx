@@ -11742,6 +11742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking the &lt;f0&gt;up arrow&lt;/f0&gt; increases the value, and the &lt;f1&gt;down arrow&lt;/f1&gt; decreases the value by one unit.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T144646Z" creationid="manuel" creationdate="20180927T144646Z">
+        <seg>Facendo clic sulla &lt;f0&gt;freccia verso l'alto&lt;/f0&gt; incrementate il valore, e sulla &lt;f1&gt;freccia verso il basso&lt;/f1&gt; diminuite il valore di una unità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking the &lt;f3&gt;More Options&lt;/f3&gt; button on the &lt;f4&gt;Cell Appearance&lt;/f4&gt; title bar, or clicking &lt;f5&gt;More&lt;/f5&gt; in the panel’s line style drop-down list, opens the Format Cells dialog at the &lt;f6&gt;Borders&lt;/f6&gt; page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T170619Z" creationid="Marco Marega" creationdate="20180811T170619Z">
@@ -14744,6 +14752,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter values directly into them, or use the &lt;f0&gt;up&lt;/f0&gt; and &lt;f1&gt;down arrows&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T144533Z" creationid="manuel" creationdate="20180927T144533Z">
+        <seg>Inserite i valori direttamente al loro interno, oppure utilizzate le frecce &lt;f0&gt;su&lt;/f0&gt; e &lt;f1&gt;giù&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entering data in a form</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184730Z" creationid="Elisabetta Manuele" creationdate="20180620T184730Z">
@@ -16116,6 +16132,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071341Z" creationid="manuel" creationdate="20180920T071341Z">
         <seg>Figura &lt;seq0&gt;238&lt;/seq0&gt;: sequenza di ordinamento per il formulario principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;239&lt;/seq0&gt;: Calendar drop down</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T143959Z" creationid="manuel" creationdate="20180927T143959Z">
+        <seg>Figura &lt;seq0&gt;239&lt;/seq0&gt;: calendario apribile</seg>
       </tuv>
     </tu>
     <tu>
@@ -21360,6 +21384,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If two or more elements of the list have the same first letter, repeated typing of the first letter will cycle through these elements.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T144730Z" creationid="manuel" creationdate="20180927T144730Z">
+        <seg>Se due o più elementi dell'elenco hanno la stessa lettera iniziale, ripetendo la digitazione di tale lettera vedrete comparire ciclicamente questi elementi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you &lt;/f28&gt;&lt;f29&gt;are experienced in using&lt;/f29&gt;&lt;f30&gt; markup &lt;/f30&gt;&lt;f31&gt;language&lt;/f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;f33&gt;it&lt;/f33&gt;&lt;f34&gt; can be the &lt;/f34&gt;&lt;f35&gt;quickest&lt;/f35&gt;&lt;f36&gt; way to enter a formula.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184400Z" creationid="Marco Marega" creationdate="20180817T184400Z">
@@ -22172,6 +22204,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T194034Z" creationid="Marco Marega" creationdate="20180713T194034Z">
         <seg>Se il foglio elettronico contiene molti fogli, le linguette di alcuni fogli potrebbero essere nascoste nella barra di scorrimento orizzontale in fondo allo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, as in my case, all of the elements of the list start with different letters, typing the first letter selects the desired entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T144714Z" creationid="manuel" creationdate="20180927T144714Z">
+        <seg>Se, come in questo caso, tutti gli elementi dell'elenco iniziano con lettere differenti, è sufficiente digitare la lettera iniziale per selezionare la voce desiderata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27041,6 +27081,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notes field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T145011Z" creationid="manuel" creationdate="20180927T145011Z">
+        <seg>Campo NoteVarie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T143958Z" creationid="manuel" creationdate="20180918T143958Z">
@@ -27165,6 +27213,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180237Z" creationid="Marco Marega" creationdate="20180804T180158Z">
         <seg>Usando i metodi che seguono i numeri possono essere inseriti in formato testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Numerals to the right of the decimal place must be changed by deleting them and typing the desired ones.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T144700Z" creationid="manuel" creationdate="20180927T144700Z">
+        <seg>I numeri alla sua destra devono essere modificati cancellandoli e reinserendo il valore desiderato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34458,6 +34514,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Motel’s Payment field is a drop-down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T144705Z" creationid="manuel" creationdate="20180927T144705Z">
+        <seg>Il campo Pagamento del Motel è un elenco a tendina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Name field would contain the names of the items; &lt;s0/&gt;the Price field would contain the amount of each item.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T104220Z" creationid="manuel" creationdate="20180721T104220Z">
@@ -34494,6 +34558,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123921Z" creationid="Marco Marega" creationdate="20180621T123921Z">
         <seg>L'icona Nuovo varia a seconda di quale componente di LibreOffice è aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Odometer, Tolls, and Motel fields are numeric fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T144011Z" creationid="manuel" creationdate="20180927T144011Z">
+        <seg>I campi Chilometraggio, Pedaggi e Motel sono campi numerici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36322,6 +36394,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The rest of the fields of the main form are either numeric fields or drop-down lists until we reach the Misc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T144929Z" creationid="manuel" creationdate="20180927T144929Z">
+        <seg>Il resto dei campi del formulario principale sono campi numerici o elenchi apribili fino al campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rest, including numbers formatted in scientific notation, will be imported as text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221224Z" creationid="Marco Marega" creationdate="20180712T221134Z">
@@ -36970,6 +37050,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then press the &lt;f1&gt;Tab&lt;/f1&gt; key to go to the Odometer field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T143945Z" creationid="manuel" creationdate="20180927T143945Z">
+        <seg>Premete quindi il tasto &lt;f1&gt;Tab&lt;/f1&gt; per spostarvi nel campo Chilometraggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then select &lt;f0&gt;Unformatted text&lt;/f0&gt; from the resulting menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T163110Z" creationid="manuel" creationdate="20180621T163110Z">
@@ -37318,6 +37406,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144931Z" creationid="Marco Marega" creationdate="20180813T144931Z">
         <seg>Questi strumenti si trovano suddivisi nei menu Strumenti e Dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These two arrows only change the numerals to the left of the decimal place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T144649Z" creationid="manuel" creationdate="20180927T144649Z">
+        <seg>Queste due frecce modificano solo i numeri a sinistra della virgola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43328,10 +43424,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the selection is correct, use the &lt;f0&gt;Tab&lt;/f0&gt; key to go to the Misc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T144753Z" creationid="manuel" creationdate="20180927T144753Z">
+        <seg>Quando la selezione è corretta, mediante il tasto &lt;f0&gt;Tab&lt;/f0&gt; spostatevi nel campo Varie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the sequence of images is ready, click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert Slides&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z" creationid="luke" creationdate="20180515T085943Z">
         <seg>When the sequence of images is ready, click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert Slides&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the value has been entered, use the &lt;f2&gt;Tab&lt;/f2&gt; key to go to the next field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T144552Z" creationid="manuel" creationdate="20180927T144552Z">
+        <seg>Dopo avere inserito il valore, usate il tasto &lt;f2&gt;Tab&lt;/f2&gt; per spostarvi nel campo successivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47196,6 +47308,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180724T170139Z" creationid="manuel" creationdate="20180724T170139Z">
         <seg>tipi e formati di campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T144822Z" creationid="manuel" creationdate="20180927T144822Z">
+        <seg>campo.</seg>
       </tuv>
     </tu>
     <tu>
