@@ -16168,6 +16168,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;240&lt;/seq0&gt;: Sample record of the Vacation form and sub form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T160424Z" creationid="manuel" creationdate="20180927T160424Z">
+        <seg>Figura &lt;seq0&gt;240&lt;/seq0&gt;: esempio di record del formulario principale e secondario Vacanze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;245&lt;/seq0&gt;: Query table</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082543Z" creationid="manuel" creationdate="20180919T082543Z">
@@ -16988,6 +16996,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T170450Z" creationid="Marco Marega" creationdate="20180729T170450Z">
         <seg>La Figura &lt;t0&gt;101&lt;/t0&gt; mostra alcune righe e colonne fissate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;240&lt;/t0&gt; is a record with data inserted in its fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T160133Z" creationid="manuel" creationdate="20180927T160133Z">
+        <seg>La Figura &lt;t0&gt;240&lt;/t0&gt; riporta un record con i dati inseriti nei rispettivi campi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21836,6 +21852,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061554Z" creationid="manuel" creationdate="20180919T061554Z">
         <seg>Se sapete usare gli stili, potete aprire la finestra Stili e formattazione con il tasto &lt;f0&gt;F11&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you know the number of the record you want, you can enter it into the record box and then press &lt;f0&gt;Enter&lt;/f0&gt; to take you to that record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T160112Z" creationid="manuel" creationdate="20180927T160112Z">
+        <seg>Se conoscete il numero del record che volete, potete inserirlo nel riquadro Record di dati e poi premere il tasto &lt;f0&gt;Invio&lt;/f0&gt; per visualizzarne il contenuto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36226,6 +36250,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The number in the Record box is the number of the record whose data is shown in the form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T160056Z" creationid="manuel" creationdate="20180927T160056Z">
+        <seg>Il numero che compare nella casella Numero record dati corrisponde al record i cui dati sono visualizzati nel formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The objects within a group also retain their own individual properties.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145108Z" creationid="manuel" creationdate="20180705T145108Z">
@@ -39288,6 +39320,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T160159Z" creationid="manuel" creationdate="20180715T160159Z">
         <seg>Per creare un nuovo database, selezionate &lt;f0&gt;File &gt; Nuovo &gt; Database&lt;/f0&gt; dalla barra dei menu, oppure fate clic sulla freccia di fianco all'icona &lt;f1&gt;&lt;f2&gt;Nuovo&lt;/f2&gt;&lt;/f1&gt; sulla barra degli strumenti Standard e selezionate &lt;f3&gt;Database&lt;/f3&gt; dal menu a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a new record while in last record of the main form, click either the &lt;f0&gt;Next Record&lt;/f0&gt; icon or the &lt;f1&gt;New Record &lt;/f1&gt;icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T155942Z" creationid="manuel" creationdate="20180927T155942Z">
+        <seg>Per creare un nuovo record mentre vi trovate in un altro record sul formulario principale, fate clic sull'icona &lt;f0&gt;Record dati successivo&lt;/f0&gt; oppure sull'icona &lt;f1&gt;Nuovo Record&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
