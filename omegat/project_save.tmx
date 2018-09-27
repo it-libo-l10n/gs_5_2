@@ -7017,6 +7017,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All spacing must be done by the &lt;f1&gt;spacebar&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T145519Z" creationid="manuel" creationdate="20180927T145519Z">
+        <seg>Tutti gli spazi devono essere inseriti mediante la &lt;f1&gt;barra spaziatrice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All tabs between these two selections will turn white (default Calc setup).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150539Z" creationid="Marco Marega" creationdate="20180714T150539Z">
@@ -14680,6 +14688,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the data just as you did in the main form, and use the &lt;f0&gt;Tab&lt;/f0&gt; key to go to the next field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T150314Z" creationid="manuel" creationdate="20180927T150314Z">
+        <seg>Inserite i dati come già avete fatto nel formulario principale, e usate il tasto &lt;f0&gt;Tab&lt;/f0&gt; per spostarvi al campo successivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the information in the cells on the first sheet where you want it to appear and it will be repeated in all the selected sheets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T091236Z" creationid="Marco Marega" creationdate="20180811T091236Z">
@@ -19024,6 +19040,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Furthermore in text fields, the &lt;f2&gt;Enter&lt;/f2&gt; key acts only as a line break to move the cursor to the next line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T145538Z" creationid="manuel" creationdate="20180927T145538Z">
+        <seg>Inoltre, nei campi di testo il tasto &lt;f2&gt;Invio&lt;/f2&gt; agisce come un'interruzione di riga, spostando il cursore nella riga successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gallery</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105021Z" creationid="manuel" creationdate="20180629T105021Z">
@@ -21392,6 +21416,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If we did not have a subform for fuel data, pressing the &lt;f0&gt;Tab&lt;/f0&gt; key in the last field would save all of the fields, clear them, and make the form ready to accept data on the second record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T150152Z" creationid="manuel" creationdate="20180927T150152Z">
+        <seg>Se non vi fosse un formulario secondario per i dati relativi al carburante, premendo il tasto &lt;f0&gt;Tab&lt;/f0&gt; nell'ultimo campo si salverebbe il contenuto di tutti i campi, che verrebbero anche puliti, e il formulario diverrebbe pronto per l'inserimento dei dati relativi al secondo record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you &lt;/f28&gt;&lt;f29&gt;are experienced in using&lt;/f29&gt;&lt;f30&gt; markup &lt;/f30&gt;&lt;f31&gt;language&lt;/f31&gt;&lt;f32&gt;, &lt;/f32&gt;&lt;f33&gt;it&lt;/f33&gt;&lt;f34&gt; can be the &lt;/f34&gt;&lt;f35&gt;quickest&lt;/f35&gt;&lt;f36&gt; way to enter a formula.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184400Z" creationid="Marco Marega" creationdate="20180817T184400Z">
@@ -23472,6 +23504,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case, click the Date field of the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T151223Z" creationid="manuel" creationdate="20180927T151223Z">
+        <seg>In questo caso, fate clic sul campo Data del formulario principale, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case, it does not matter where the referenced directory structure is recorded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144733Z" creationid="manuel" creationdate="20180608T144733Z">
@@ -24068,6 +24108,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T182639Z" creationid="Marco Marega" creationdate="20180708T182639Z">
         <seg>E' una via di mezzo tra una barra degli strumenti ed una finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a text field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T145350Z" creationid="manuel" creationdate="20180927T145350Z">
+        <seg>Si tratta di un campo testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27149,6 +27197,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T104057Z" creationid="briga" creationdate="20180823T104057Z">
         <seg>A questo punto la combinazione di tasti scelta eseguirà la funzione scelta nel passo 3 descritto sopra, ogni qualvolta verrà premuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now you can enter your second set of fuel data for this day.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T150354Z" creationid="manuel" creationdate="20180927T150354Z">
+        <seg>Ora potete inserire un secondo record di dati carburante per il medesimo giorno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32657,6 +32713,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since the &lt;f0&gt;Tab&lt;/f0&gt; key is used to move between fields, it cannot be used in a text field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T145500Z" creationid="manuel" creationdate="20180927T145500Z">
+        <seg>Dato che il tasto &lt;f0&gt;Tab&lt;/f0&gt; viene usato per spostarsi tra i campi, non può essere usato all'interno di un campo di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since the Fuel table may have more than one entry per date, this relationship between the Vacations and Fuel tables is one to many (it is designated 1:n.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065422Z" creationid="manuel" creationdate="20180910T065422Z">
@@ -32693,6 +32757,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T074322Z" creationid="manuel" creationdate="20180919T074322Z">
         <seg>Dal momento che si sta preparando una ricerca semplice, il &lt;f0&gt;Raggruppamento&lt;/f0&gt; e le &lt;f1&gt;Condizioni di raggruppamento&lt;/f1&gt; non servono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since we have a subform, using the &lt;f0&gt;Tab&lt;/f0&gt; key places the cursor in the first Date field of the subform with the date automatically entered to match the Date field of the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T150219Z" creationid="manuel" creationdate="20180927T150219Z">
+        <seg>Siccome è presente un formulario secondario, usando il tasto &lt;f0&gt;Tab&lt;/f0&gt; si posiziona il cursore nel primo campo Data del formulario secondario, con la data inserita automaticamente uguale a quella del campo Data del formulario principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34401,6 +34473,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The FuelCost, FuelQuantity, and Odometer fields are numeric fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T150232Z" creationid="manuel" creationdate="20180927T150232Z">
+        <seg>I campi CostoCarburante, QuantitàCarburante e Chilometraggio sono campi numerici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Gallery (Figure &lt;t0&gt;309&lt;/t0&gt;) provides a convenient way to group reusable objects such as graphics and sounds that you can insert into your documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154824Z" creationid="luke" creationdate="20180514T154824Z">
@@ -34582,6 +34662,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060409Z" creationid="manuel" creationdate="20180618T060323Z">
         <seg>Viene mostrata la finestra di dialogo Stile di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Payment field is a drop-down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T150236Z" creationid="manuel" creationdate="20180927T150236Z">
+        <seg>Il campo Pagamento è un elenco a tendina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37070,6 +37158,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082221Z" creationid="manuel" creationdate="20180919T082221Z">
         <seg>Quindi utilizzare il pulsante Avanti per passare al punto 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then use the directional arrows at the bottom; from left to right:&lt;f0&gt; First Record, Previous Record, Next Record&lt;/f0&gt;, and &lt;f1&gt;Last Record&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T151506Z" creationid="manuel" creationdate="20180927T151506Z">
+        <seg>Quindi utilizzate le frecce direzionali in basso; da sinistra a destra:&lt;f0&gt; Primo record di dati, Record di dati precedente, Record dati successivo&lt;/f0&gt;, e &lt;f1&gt;Ultimo Record&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40086,6 +40182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To move to another record when the form has a subform, click any of the fields of the main form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T151221Z" creationid="manuel" creationdate="20180927T151221Z">
+        <seg>Per muovervi su un altro record quando il formulario ha anche un formulario secondario, fate clic su uno qualsiasi dei campi del formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To navigate a spreadsheet using the keyboard, pressing a key or a combination of keys.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T200239Z" creationid="Marco Marega" creationdate="20180713T200239Z">
@@ -40782,6 +40886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To the right of these arrows is the &lt;f2&gt;New Record&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T151614Z" creationid="manuel" creationdate="20180927T151614Z">
+        <seg>A destra di queste frecce vi è l'icona &lt;f2&gt;Nuovo record di dati&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To the right of this are two choices.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082305Z" creationid="manuel" creationdate="20180919T082305Z">
@@ -41186,6 +41298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T175953Z" creationid="Marco Marega" creationdate="20180804T175953Z">
         <seg>Digitate un apostrofo (') prima del numero, ad esempio '01481.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type anything you desire in this field just as you would any simple text editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T145352Z" creationid="manuel" creationdate="20180927T145352Z">
+        <seg>Digitate quello che volete in questo campo come fareste in un normale editor di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41755,6 +41875,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180724T165747Z" creationid="manuel" creationdate="20180724T165747Z">
         <seg>Utilizzate il pulsante &lt;f2&gt;&gt;&lt;/f2&gt; per spostare il campo &lt;f3&gt;Foto&lt;/f3&gt; dal riquadro &lt;f4&gt;Campi disponibili&lt;/f4&gt; al riquadro &lt;f5&gt;Campi selezionati&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f4&gt;Tab&lt;/f4&gt; key instead.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T145721Z" creationid="manuel" creationdate="20180927T145721Z">
+        <seg>Usate quindi il tasto &lt;f4&gt;Tab&lt;/f4&gt; per uscire da un campo di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43824,6 +43952,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you use the &lt;f0&gt;Tab&lt;/f0&gt; key to leave the Payment field, it goes to the Date field of the next line and automatically enters the date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T150346Z" creationid="manuel" creationdate="20180927T150346Z">
+        <seg>Usando il tasto &lt;f0&gt;Tab&lt;/f0&gt; per lasciare il campo Pagamento vi sposterete nel campo Data della riga successiva, con la data inserita automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you want to remove them, you have to remove each break individually.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T210749Z" creationid="Marco Marega" creationdate="20180813T210749Z">
@@ -43908,6 +44044,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T103646Z" creationid="manuel" creationdate="20180822T103646Z">
         <seg>Mentre il &lt;f0&gt;Tipo di campo&lt;/f0&gt; e la &lt;f1&gt;formattazione&lt;/f1&gt; sono differenti in Vista struttura, nella Procedura guidata i concetti sono identici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While the &lt;f3&gt;Enter&lt;/f3&gt; key will move between non-text fields, it will not do so from a text field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180927T145701Z" creationid="manuel" creationdate="20180927T145701Z">
+        <seg>Mentre &lt;f3&gt;Invio&lt;/f3&gt; vi permette di spostarvi tra campi non testuali, non si comporta allo stesso modo in un campo di testo.</seg>
       </tuv>
     </tu>
     <tu>
