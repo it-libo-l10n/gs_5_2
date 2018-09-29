@@ -21776,6 +21776,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have data in a spreadsheet document that represents the layout of a database table, and you want to copy it into a table of your database, then it is possible to load the sheet contents quickly by dragging and dropping the sheet into a database table:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180929T110027Z" creationid="manuel" creationdate="20180929T105624Z">
+        <seg>Se disponete di dati in un documento di foglio lavoro che rappresenta il layout di una tabella di database e desiderate copiarlo in una tabella del database, è possibile caricare rapidamente il contenuto del foglio trascinando e rilasciando il foglio in una tabella di database:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have enabled both the Line and Filling toolbar and the Text Formatting toolbar, Draw switches between them depending on what object is selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154351Z" creationid="manuel" creationdate="20180703T154351Z">
@@ -28001,6 +28009,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the database file in the LibreOffice Base window (Figure &lt;t0&gt;208&lt;/t0&gt;) and select the Table view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180929T105850Z" creationid="manuel" creationdate="20180929T105850Z">
+        <seg>Aprite il file di database nella finestra di LibreOffice Base (Figura &lt;t0&gt;208&lt;/t0&gt;) e selezionate la vista Tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the document you want to change.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162423Z" creationid="manuel" creationdate="20180615T162423Z">
@@ -28013,6 +28029,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070940Z" creationid="manuel" creationdate="20180614T070940Z">
         <seg>Aprite il documento in cui desiderate copiare gli stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the spreadsheet in LibreOffice Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180929T110038Z" creationid="manuel" creationdate="20180929T105950Z">
+        <seg>Aprite il foglio di lavoro in LibreOffice Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28665,6 +28689,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place the two windows side by side on your desktop.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180929T110926Z" creationid="manuel" creationdate="20180929T110926Z">
+        <seg>Posizionate le due finestre una accanto all'altra sul desktop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Planning a database</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184711Z" creationid="Elisabetta Manuele" creationdate="20180620T184711Z">
@@ -29109,6 +29141,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185607Z" creationid="Elisabetta Manuele" creationdate="20180620T185607Z">
         <seg>Stampa rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quickly populate a table with data from a spreadsheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180929T110007Z" creationid="manuel" creationdate="20180929T105452Z">
+        <seg>Compilate rapidamente una tabella con i dati di un foglio di lavoro</seg>
       </tuv>
     </tu>
     <tu>
@@ -31829,6 +31869,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T122550Z" creationid="Marco Marega" creationdate="20180719T122550Z">
         <seg>Selezionate il foglio nel punto in cui volete inserirne uno nuovo, poi, nella barra del menu andate in &lt;f0&gt;Foglio &gt; Inserisci foglio...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the sheet you want to insert in the Gdatabase.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20180929T110849Z" creationid="manuel" creationdate="20180929T110849Z">
+        <seg>Selezionate il foglio che volete inserire nel Gdatabase.</seg>
       </tuv>
     </tu>
     <tu>
