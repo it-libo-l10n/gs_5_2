@@ -33873,6 +33873,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f0&gt;General&lt;/f0&gt; tab of the Print dialog, you can choose:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T104659Z" creationid="Alessia Mazzarini" creationdate="20181007T104659Z">
+        <seg>Nella scheda &lt;f0&gt;Generale&lt;/f0&gt; della finestra di dialogo Stampa potete scegliere:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f0&gt;Language Settings &gt; English sentence checking&lt;/f0&gt; page, you can choose which items are checked for, reported to you, or converted automatically.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T093007Z">
@@ -39569,6 +39577,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting &lt;i0/&gt;general printing options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T104647Z" creationid="Alessia Mazzarini" creationdate="20181007T104647Z">
+        <seg>Selezione delle &lt;i0/&gt;opzioni generali di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting an item in the list causes the right-hand side of the dialog to display the relevant page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083300Z">
@@ -42061,6 +42077,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T131522Z">
         <seg>La &lt;f0&gt;freccia verso il basso&lt;/f0&gt; apre un menu selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;printer&lt;/f0&gt; (from the printers available).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T104721Z" creationid="Alessia Mazzarini" creationdate="20181007T104721Z">
+        <seg>La &lt;f0&gt;stampante&lt;/f0&gt; (tra quelle disponibili).</seg>
       </tuv>
     </tu>
     <tu>
