@@ -13988,6 +13988,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the additional sheet tabs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202637Z" creationid="Alessia Mazzarini" creationdate="20181007T202637Z">
+        <seg>Fate clic sulle schede degli altri fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the first column or row in the group.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145517Z">
@@ -20104,6 +20112,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;288&lt;/seq0&gt;: Printing a selection of text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202345Z" creationid="Alessia Mazzarini" creationdate="20181007T202345Z">
+        <seg>Figura &lt;seq0&gt;288&lt;/seq0&gt;: stampa di una selezione di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;289&lt;/seq0&gt;: Choosing what to print in Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202438Z" creationid="Alessia Mazzarini" creationdate="20181007T202438Z">
+        <seg>Figura &lt;seq0&gt;298&lt;/seq0&gt;: scegliere cosa stampare in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Personalization dialogs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093545Z">
@@ -24760,6 +24784,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Control&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202629Z" creationid="Alessia Mazzarini" creationdate="20181007T202629Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and click on the sheet tab.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T150721Z">
@@ -28536,6 +28568,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Range and copies&lt;/f0&gt; section of the Print dialog, choose the &lt;f1&gt;Selected sheets&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202542Z" creationid="Alessia Mazzarini" creationdate="20181007T202542Z">
+        <seg>Nella sezione &lt;f0&gt;Intervallo e copie&lt;/f0&gt; della finestra di dialogo Stampa, scegliete l'opzione &lt;f1&gt;Fogli selezionati&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Replace with&lt;/f0&gt; box, select a suitable font from the drop-down list of fonts installed on your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073810Z">
@@ -28932,6 +28972,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T135030Z">
         <seg>Nella sezione Barre degli strumenti &lt;f0&gt; LibreOffice [nome del programma &lt;/f0&gt;(esempio: Writer)&lt;f1&gt;] &gt; Barre degli strumenti&lt;/f1&gt; selezionate dall'elenco a comparsa &lt;f2&gt;Barra degli strumenti&lt;/f2&gt; la barra degli strumenti che volete personalizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the spreadsheet, click on the sheet tab to select the sheet you want to print.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202459Z" creationid="Alessia Mazzarini" creationdate="20181007T202459Z">
+        <seg>Nel foglio elettronico, fate clic sulla scheda del foglio che volete stampare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the spreadsheet, select the sheets to print.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202603Z" creationid="Alessia Mazzarini" creationdate="20181007T202603Z">
+        <seg>Nel foglio elettronico, selezionate i fogli da stampare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36025,6 +36081,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Printing a range of sheets:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202554Z" creationid="Alessia Mazzarini" creationdate="20181007T202554Z">
+        <seg>Stampa di un gruppo di fogli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Printing a selection of text:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201951Z" creationid="Alessia Mazzarini" creationdate="20181007T201951Z">
@@ -36037,6 +36101,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201051Z" creationid="Alessia Mazzarini" creationdate="20181007T201051Z">
         <seg>Stampa di una singola pagina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printing an individual sheet:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202445Z" creationid="Alessia Mazzarini" creationdate="20181007T202445Z">
+        <seg>Stampa di un singolo foglio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39349,6 +39421,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T130204Z">
         <seg>Nell'Editor delle formule, selezionate il primo segnaposto &lt;f0&gt;&lt;f1&gt;&lt;?&gt;,&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;prima della parola &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;times&lt;/f4&gt;,&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;e sostituitelo con il carattere &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;5&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the first sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202613Z" creationid="Alessia Mazzarini" creationdate="20181007T202613Z">
+        <seg>Selezionate il primo foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55476,6 +55556,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095603Z">
         <seg>Potete modificare le proprietà o le opzioni di un oggetto senza dover aprire una finestra di dialogo o utilizzare uno degli strumenti disponibili nelle varie barre degli strumenti fornite da Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can choose single sheets, multiple sheets, and selections of cells for printing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202408Z" creationid="Alessia Mazzarini" creationdate="20181007T202408Z">
+        <seg>Potete scegliere di stampare fogli singoli, multipli e selezioni di celle.</seg>
       </tuv>
     </tu>
     <tu>
