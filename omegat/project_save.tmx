@@ -20064,6 +20064,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;287&lt;/seq0&gt;: Printing multiple page per sheet of paper</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T153705Z" creationid="Alessia Mazzarini" creationdate="20181007T153705Z">
+        <seg>Figura &lt;seq0&gt;287&lt;/seq0&gt;: stampa di pagine multiple per foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Personalization dialogs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093545Z">
@@ -28604,6 +28612,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170419Z">
         <seg>Nella finestra di dialogo Opzioni, fate clic sul simbolo di espansione (segno + o triangolo) &lt;f0&gt;da&lt;/f0&gt; &lt;f1&gt;Impostazioni lingua &gt; Lingue&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Print dialog, select the Page Layout tab (Figure &lt;t0&gt;287&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T153615Z" creationid="Alessia Mazzarini" creationdate="20181007T153615Z">
+        <seg>Nella finestra di dialogo Stampa, selezionate la scheda Layout di pagina (Figura &lt;t0&gt;287&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
