@@ -12595,6 +12595,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File &gt; Print Preview&lt;/f0&gt;, click the &lt;f1&gt;Print Preview&lt;/f1&gt; button (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) on the Standard toolbar or press &lt;f4&gt;Ctrl+Shift+O&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212426Z" creationid="Alessia Mazzarini" creationdate="20181007T212426Z">
+        <seg>Scegliete &lt;f0&gt;File &gt; Anteprima di stampa&lt;/f0&gt;, fate clic sul pulsante &lt;f1&gt;Anteprima di stampa&lt;/f1&gt; (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) sulla barra degli strumenti Standard o premete &lt;f4&gt;Ctrl+Shift+O&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;File &gt; Print&lt;/f0&gt; from the Menu bar, or press &lt;f1&gt;Ctrl+P&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201230Z" creationid="Alessia Mazzarini" creationdate="20181007T201114Z">
@@ -20324,6 +20332,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T210037Z" creationid="Alessia Mazzarini" creationdate="20181007T210037Z">
         <seg>Figura &lt;seq0&gt;291&lt;/seq0&gt;: selezione delle pagine da stampare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;292&lt;/seq0&gt;: Print Preview toolbar (Writer)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212531Z" creationid="Alessia Mazzarini" creationdate="20181007T212531Z">
+        <seg>Figura &lt;seq0&gt;292&lt;/seq0&gt;: barra degli strumenti Anteprima di stampa (Writer)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40089,6 +40105,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the required preview icon: &lt;f0&gt;Two Pages&lt;/f0&gt; (&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;), &lt;f4&gt;Multiple Pages&lt;/f4&gt; (&lt;df5&gt;&lt;di6/&gt;&lt;/df5&gt;) or &lt;i7/&gt;&lt;f8&gt;Book Preview (&lt;/f8&gt;&lt;f9&gt;&lt;df10&gt;&lt;di11/&gt;&lt;/df10&gt;&lt;/f9&gt;&lt;f12&gt;).&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212639Z" creationid="Alessia Mazzarini" creationdate="20181007T212639Z">
+        <seg>Selezionate l'icona di anteprima desiderata: &lt;f0&gt;Due pagine&lt;/f0&gt; (&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;), &lt;f4&gt;Più pagine&lt;/f4&gt; (&lt;df5&gt;&lt;di6/&gt;&lt;/df5&gt;) o &lt;i7/&gt;&lt;f8&gt;Anteprima del libro (&lt;/f8&gt;&lt;f9&gt;&lt;df10&gt;&lt;di11/&gt;&lt;/df10&gt;&lt;/f9&gt;&lt;f12&gt;).&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the required template &lt;f0&gt;and click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, or double-click on the selected template.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T091446Z">
@@ -55352,6 +55376,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writer now displays the &lt;f0&gt;Print Preview&lt;/f0&gt; toolbar instead of the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212453Z" creationid="Alessia Mazzarini" creationdate="20181007T212453Z">
+        <seg>Writer ora mostra la barra degli strumenti &lt;f0&gt;Anteprima di stampa&lt;/f0&gt; invece della barra degli strumenti Formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writer offers several ways to fill information into a form, including check boxes, option buttons, text boxes, pull-down lists, and spinners.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164609Z">
@@ -57996,6 +58028,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104300Z">
         <seg>frecce blocchi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>book preview</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212535Z" creationid="Alessia Mazzarini" creationdate="20181007T212535Z">
+        <seg>anteprima del libro</seg>
       </tuv>
     </tu>
     <tu>
