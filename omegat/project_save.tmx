@@ -20056,6 +20056,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;286&lt;/seq0&gt;: General print options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T151625Z" creationid="Alessia Mazzarini" creationdate="20181007T151625Z">
+        <seg>Figura &lt;seq0&gt;286&lt;/seq0&gt;: Opzioni generali per la stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Personalization dialogs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093545Z">
@@ -34077,6 +34085,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071336Z">
         <seg>Nella finestra di dialogo Carica stili (Figura &lt;t0&gt;51&lt;/t0&gt;), trovate un modello o un documento ordinario da cui copiare gli stili di formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Options tab of the Print dialog (Figure &lt;t0&gt;286&lt;/t0&gt;), the last item, &lt;f1&gt;Use only paper tray from printer preference&lt;/f1&gt;, is not available in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T151508Z" creationid="Alessia Mazzarini" creationdate="20181007T151508Z">
+        <seg>Nella scheda Opzioni della finestra di dialogo Stampa (Figura &lt;t0&gt;286&lt;/t0&gt;), l'ultima voce, &lt;f1&gt;Usa cassetto solo da impostazione stampante&lt;/f1&gt;, non è disponibile in Calc.</seg>
       </tuv>
     </tu>
     <tu>
