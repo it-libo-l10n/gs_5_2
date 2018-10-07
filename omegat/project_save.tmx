@@ -21784,6 +21784,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For details of how to set these up, see Chapter 11, Using Mail Merge, in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211234Z" creationid="Alessia Mazzarini" creationdate="20181007T211234Z">
+        <seg>Per dettagli relativi alle impostazioni, vedere il Capitolo 11 (Uso della stampa in serie) nella &lt;f0&gt;Guida a Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For details on the contents and use of these fields, see Chapter 1, Introducing LibreOffice, in this guide and&lt;f0&gt; &lt;/f0&gt;Chapter 1, Introducing Draw, in the &lt;f1&gt;Draw Guide.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143653Z">
@@ -27500,6 +27508,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081939Z">
         <seg>Se i vostri documenti contengono molti oggetti come le immagini, oppure gli oggetti sono di grosse dimensioni, le prestazioni di LibreOffice potrebbero migliorare se aumentate la memoria per LibreOffice o la memoria per oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your printer can print double-sided automatically, choose &lt;f0&gt;All pages&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211059Z" creationid="Alessia Mazzarini" creationdate="20181007T211059Z">
+        <seg>Se la vostra stampante può stampare fronte-retro automaticamente, scegliete &lt;f0&gt;Tutte le pagine&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34473,6 +34489,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Print dialog, under &lt;f0&gt;Range and copies&lt;/f0&gt;, choose &lt;f1&gt;Pages&lt;/f1&gt; and type &lt;f2&gt;1&lt;/f2&gt; in the box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211300Z" creationid="Alessia Mazzarini" creationdate="20181007T211300Z">
+        <seg>Nella finestra di dialogo Stampa, sotto &lt;f0&gt;Intervallo e copie&lt;/f0&gt;, scegliete &lt;f1&gt;Pagine&lt;/f1&gt; e digitate &lt;f2&gt;1&lt;/f2&gt; nel riquadro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Save As dialog, in the &lt;f0&gt;File type&lt;/f0&gt; (or &lt;f1&gt;Save as type&lt;/f1&gt;) drop-down menu, select the type of Word format you need.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143123Z">
@@ -36257,6 +36281,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Printing &lt;i0/&gt;&lt;i1/&gt;envelopes, labels, business cards</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211156Z" creationid="Alessia Mazzarini" creationdate="20181007T211156Z">
+        <seg>Stampa di &lt;i0/&gt;&lt;i1/&gt;buste, etichette, biglietti da visita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Printing &lt;i0/&gt;multiple pages on a single sheet of paper</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T152645Z" creationid="Alessia Mazzarini" creationdate="20181007T152645Z">
@@ -36345,6 +36377,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Printing envelopes, labels, or business cards using Writer involves two steps: setup and printing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211208Z" creationid="Alessia Mazzarini" creationdate="20181007T211208Z">
+        <seg>La stampa di buste, etichette o biglietti da visita con Writer comporta due passaggi: l'impostazione e la stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Printing from Calc is much the same &lt;i0/&gt;as printing&lt;i1/&gt; from other LibreOffice components (see &lt;f2&gt;Chapter 10 Printing, Exporting, and Emailing&lt;/f2&gt; in this guide).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T150659Z">
@@ -36357,6 +36397,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203942Z" creationid="Alessia Mazzarini" creationdate="20181007T203942Z">
         <seg>Stampa di stampati, &lt;i0/&gt;note o strutture in Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printing in &lt;i0/&gt;black and white (on a color printer)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211328Z" creationid="Alessia Mazzarini" creationdate="20181007T211328Z">
+        <seg>Stampa in &lt;i0/&gt;bianco e nero con una stampante a colori</seg>
       </tuv>
     </tu>
     <tu>
@@ -50190,6 +50238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To print:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211237Z" creationid="Alessia Mazzarini" creationdate="20181007T211237Z">
+        <seg>Per la stampa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To provide &lt;bk1/&gt;additional opportunities such as working with &lt;bk2/&gt;cloud or remote servers, and searching by versions, switch to using LibreOffice dialogs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204122Z">
@@ -57280,6 +57336,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may wish to print documents in black and white on a color printer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211339Z" creationid="Alessia Mazzarini" creationdate="20181007T211339Z">
+        <seg>A volte potreste desiderare di stampare documenti in bianco e nero con una stampante a colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may, within the parameters set in the MPL and/or LGPL.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181331Z">
@@ -57668,6 +57732,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104446Z">
         <seg>bitmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>black and white on color printer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211311Z" creationid="Alessia Mazzarini" creationdate="20181007T211311Z">
+        <seg>bianco e nero con una stampante a colori</seg>
       </tuv>
     </tu>
     <tu>
@@ -58468,6 +58540,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071343Z">
         <seg>inserimento dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>envelope</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211118Z" creationid="Alessia Mazzarini" creationdate="20181007T211118Z">
+        <seg>buste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>envelope printing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211125Z" creationid="Alessia Mazzarini" creationdate="20181007T211125Z">
+        <seg>stampa di buste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>envelopes, labels, business cards</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211111Z" creationid="Alessia Mazzarini" creationdate="20181007T211111Z">
+        <seg>buste, etichette, biglietti da visita</seg>
       </tuv>
     </tu>
     <tu>
