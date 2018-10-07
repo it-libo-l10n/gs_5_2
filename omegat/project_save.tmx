@@ -12531,6 +12531,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File &gt; Print&lt;/f0&gt; from the Menu bar, or press &lt;f1&gt;Ctrl+P&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201230Z" creationid="Alessia Mazzarini" creationdate="20181007T201114Z">
+        <seg>Scegliete &lt;f0&gt;File &gt; Stampa&lt;/f0&gt; dalla barra dei menu o premete &lt;f1&gt;Ctrl+P&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;File &gt; Properties &gt; Description&lt;/f0&gt; and type a title for your document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101636Z">
@@ -28504,6 +28512,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Range and copies&lt;/f0&gt; section of the General page, select the &lt;f1&gt;Pages&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201309Z" creationid="Alessia Mazzarini" creationdate="20181007T201309Z">
+        <seg>Nella sezione &lt;f0&gt;Intervallo e copie&lt;/f0&gt; della scheda Generale, selezionate l'opzione &lt;f1&gt;Pagine&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Replace with&lt;/f0&gt; box, select a suitable font from the drop-down list of fonts installed on your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073810Z">
@@ -34177,6 +34193,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Print dialog, select the page to print.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201243Z" creationid="Alessia Mazzarini" creationdate="20181007T201243Z">
+        <seg>Nella finestra di dialogo Stampa, selezionate la pagina da stampare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Save As dialog, in the &lt;f0&gt;File type&lt;/f0&gt; (or &lt;f1&gt;Save as type&lt;/f1&gt;) drop-down menu, select the type of Word format you need.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143123Z">
@@ -35957,6 +35981,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T152645Z" creationid="Alessia Mazzarini" creationdate="20181007T152645Z">
         <seg>Stampa di &lt;i0/&gt;pagine multiple su foglio singolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printing an individual page:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201051Z" creationid="Alessia Mazzarini" creationdate="20181007T201051Z">
+        <seg>Stampa di una singola pagina:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43558,6 +43590,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T144217Z">
         <seg>L'impostazione predefinita all'apertura di Calc è con le barre degli strumenti Standard e Formattazione agganciate in alto sopra lo spazio di lavoro (Figura &lt;t0&gt;86&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The details vary slightly between Writer, Calc, Draw, and Impress, as described in this section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201044Z" creationid="Alessia Mazzarini" creationdate="20181007T201044Z">
+        <seg>I dettagli variano leggermente tra Writer, Calc, Draw e Impress, come descritto in questa sezione.</seg>
       </tuv>
     </tu>
     <tu>
