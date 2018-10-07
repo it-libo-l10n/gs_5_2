@@ -12435,6 +12435,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check that the printer is set to the same orientation (portrait or landscape) as specified in the page setup for your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205852Z" creationid="Alessia Mazzarini" creationdate="20181007T205852Z">
+        <seg>Controllate che l'impostazione dell'orientamento (verticale o orizzontale) della stampante sia la stessa specificata nelle impostazioni della pagina del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the descriptions to see what licenses and fees apply to the ones that interest you.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T125553Z">
@@ -12567,6 +12575,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201230Z" creationid="Alessia Mazzarini" creationdate="20181007T201114Z">
         <seg>Scegliete &lt;f0&gt;File &gt; Stampa&lt;/f0&gt; dalla barra dei menu o premete &lt;f1&gt;Ctrl+P&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File &gt; Print&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+P&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205826Z" creationid="Alessia Mazzarini" creationdate="20181007T205826Z">
+        <seg>Scegliete &lt;f0&gt;File &gt; Stampa&lt;/f0&gt; o premete &lt;f1&gt;Ctrl+P&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13235,6 +13251,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to return to the Print dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205908Z" creationid="Alessia Mazzarini" creationdate="20181007T205908Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per ritornare alla finestra di dialogo Stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the new list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T084524Z">
@@ -13479,6 +13503,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T071946Z">
         <seg>Fate clic su &lt;f3&gt;Importa&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T210015Z" creationid="Alessia Mazzarini" creationdate="20181007T210015Z">
+        <seg>Fate clic su &lt;f3&gt;OK&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28632,6 +28664,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Page sides&lt;/f0&gt; section, select the &lt;f1&gt;Back sides / left pages&lt;/f1&gt; option from the &lt;f2&gt;Include&lt;/f2&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205959Z" creationid="Alessia Mazzarini" creationdate="20181007T205959Z">
+        <seg>Nella sezione &lt;f0&gt;Lati della pagina&lt;/f0&gt;, selezionate l'opzione &lt;f1&gt;Retro/pagine sinistre&lt;/f1&gt; dall'elenco a discesa Includi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Page sides&lt;/f0&gt; section, select whether to print all pages or only some pages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T154527Z" creationid="Alessia Mazzarini" creationdate="20181007T154527Z">
@@ -28820,6 +28860,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170419Z">
         <seg>Nella finestra di dialogo Opzioni, fate clic sul simbolo di espansione (segno + o triangolo) &lt;f0&gt;da&lt;/f0&gt; &lt;f1&gt;Impostazioni lingua &gt; Lingue&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Print dialog, click &lt;f0&gt;Properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205833Z" creationid="Alessia Mazzarini" creationdate="20181007T205833Z">
+        <seg>Nella finestra di dialogo Stampa, fate clic su &lt;f0&gt;Proprietà&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35697,6 +35745,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plan your document so it will look good when printed half size; choose appropriate margins, font sizes, and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205753Z" creationid="Alessia Mazzarini" creationdate="20181007T205753Z">
+        <seg>Organizzate il documento in modo che risulti adeguato a una stampa a dimensione dimezzata; scegliete opportunamente i margini, la dimensione dei caratteri, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Planning a database</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184711Z">
@@ -39281,6 +39337,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the &lt;f0&gt;Brochure&lt;/f0&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205924Z" creationid="Alessia Mazzarini" creationdate="20181007T205924Z">
+        <seg>Selezionate l'opzione &lt;f0&gt;Depliant&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the &lt;f0&gt;Fill Format Mode&lt;/f0&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T173016Z">
@@ -39301,6 +39365,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180917T211718Z">
         <seg>Selezionate la scheda &lt;f0&gt;Moduli&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f0&gt;Page layout&lt;/f0&gt; tab in the Print dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205919Z" creationid="Alessia Mazzarini" creationdate="20181007T205919Z">
+        <seg>Selezionate la scheda &lt;f0&gt;Layout di pagina&lt;/f0&gt; nella finestra di dialogo Stampa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50086,6 +50158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To print a brochure on a single-sided printer:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205808Z" creationid="Alessia Mazzarini" creationdate="20181007T205808Z">
+        <seg>Per stampare un depliant su una stampante priva della funzione fronte-retro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To print handouts, notes, or outlines:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205400Z" creationid="Alessia Mazzarini" creationdate="20181007T205400Z">
@@ -52899,6 +52979,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T130635Z">
         <seg>Usare la libreria delle formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually the orientation does not matter, but it does for brochures.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205901Z" creationid="Alessia Mazzarini" creationdate="20181007T205901Z">
+        <seg>In generale l'orientamento non è rilevante, ma lo è per i depliant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57108,6 +57196,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144205Z">
         <seg>Nel foglio elettronico potreste avere bisogno di qualcosa in più rispetto a semplici numeri e testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may need to experiment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205759Z" creationid="Alessia Mazzarini" creationdate="20181007T205759Z">
+        <seg>Potreste comunque aver bisogno di fare più prove.</seg>
       </tuv>
     </tu>
     <tu>
