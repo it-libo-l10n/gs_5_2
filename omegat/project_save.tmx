@@ -37657,6 +37657,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Chapter 2, Setting Up LibreOffice, for more details.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T103552Z" creationid="Alessia Mazzarini" creationdate="20181007T103552Z">
+        <seg>Vedere il Capitolo 2, Configurare LibreOffice, per maggiori dettagli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Chapter 3, Styles and Templates, for more about creating and using templates.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170337Z">
@@ -50002,6 +50010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143644Z">
         <seg>Per ordinare le celle di un foglio di lavoro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To specify default printing settings for LibreOffice, go to &lt;f0&gt;Tools &gt; Options &gt;&lt;/f0&gt; &lt;f1&gt;LibreOffice &gt; Print&lt;/f1&gt; and &lt;f2&gt;Tools &gt; Options &gt; LibreOffice [Component] &gt; Print&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T103336Z" creationid="Alessia Mazzarini" creationdate="20181007T103336Z">
+        <seg>Per specificare impostazioni di stampa predefinite per LibreOffice, andate su &lt;f0&gt;Strumenti &gt; Opzioni &gt;&lt;/f0&gt; &lt;f1&gt;LibreOffice &gt; Stampa&lt;/f1&gt; e &lt;f2&gt;Strumenti &gt; Opzioni &gt; LibreOffice [Componente] &gt; Stampa&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
