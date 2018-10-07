@@ -11947,6 +11947,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the printer settings to print in black and white or grayscale:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211404Z" creationid="Alessia Mazzarini" creationdate="20181007T211404Z">
+        <seg>Cambiate le impostazioni della stampante per stampare in bianco e nero o in toni di grigio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the selection from &lt;f1&gt;None&lt;/f1&gt; to &lt;f2&gt;Vertical&lt;/f2&gt; in this list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T150148Z">
@@ -12579,6 +12587,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File &gt; Print&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+P,&lt;/f1&gt; to open the Print dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211442Z" creationid="Alessia Mazzarini" creationdate="20181007T211442Z">
+        <seg>Scegliete &lt;f0&gt;File &gt; Stampa&lt;/f0&gt; o premete &lt;f1&gt;Ctrl+P&lt;/f1&gt; per aprire la finestra di dialogo Stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;File &gt; Print&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+P&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205826Z" creationid="Alessia Mazzarini" creationdate="20181007T205826Z">
@@ -12759,6 +12775,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103238Z">
         <seg>Scegliete lo &lt;f0&gt;Stile&lt;/f0&gt; di pagina richiesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the required setting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211637Z" creationid="Alessia Mazzarini" creationdate="20181007T211637Z">
+        <seg>Scegliete le impostazioni desiderate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13227,6 +13251,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to confirm your choice and return to the Print dialog,</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211706Z" creationid="Alessia Mazzarini" creationdate="20181007T211706Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per confermare le vostre scelte e ritornare alla finestra di dialogo Stampa,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to copy the styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T142531Z">
@@ -13335,6 +13367,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180917T211503Z">
         <seg>Fate clic su  &lt;f0&gt;Gestione&lt;/f0&gt; per aprire la finestra di dialogo Gestione macro Basic (Figura &lt;t1&gt;342&lt;/t1&gt;) e selezionate la scheda &lt;f2&gt;Librerie&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Properties&lt;/f0&gt; to open the Properties dialog for the printer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211457Z" creationid="Alessia Mazzarini" creationdate="20181007T211457Z">
+        <seg>Fate clic su &lt;f0&gt;Proprietà&lt;/f0&gt; per aprire la finestra di dialogo Proprietà della stampante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35817,6 +35857,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please note that some color printers may print in color regardless of the settings you choose.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211355Z" creationid="Alessia Mazzarini" creationdate="20181007T211355Z">
+        <seg>Alcune stampanti potrebbero comunque stampare a colori, indipendentemente dalle opzioni scelte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please refer to the chapters on styles in the &lt;f2&gt;Writer Guide&lt;/f2&gt; for information on how to change the default settings for frame styles for OLE objects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T132107Z">
@@ -38521,6 +38569,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See your printer’s help or user manual for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211608Z" creationid="Alessia Mazzarini" creationdate="20181007T211608Z">
+        <seg>Consultate l'aiuto o il manuale utente della vostra stampante per maggiori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See “&lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;Formulas in LibreOffice documents&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;” on page &lt;/f7&gt;&lt;f8&gt;&lt;bf9&gt;269&lt;/bf9&gt;&lt;/f8&gt;&lt;f10&gt; for more information.&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T130257Z">
@@ -40509,6 +40565,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T143715Z">
         <seg>Impostazioni disponibili in &lt;f0&gt;File &gt; Stampa &gt; Opzioni&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Several choices are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211344Z" creationid="Alessia Mazzarini" creationdate="20181007T211344Z">
+        <seg>Sono disponibili diverse opzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43690,6 +43754,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The available choices vary from one printer to another, but you should find options for the Color settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211600Z" creationid="Alessia Mazzarini" creationdate="20181007T211600Z">
+        <seg>Le scelte disponibili dipendono dal modello di stampante, ma dovrebbero essere disponibili le opzioni per le impostazioni del colore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The axis used for slanting an object is the object edge directly opposite the midpoint handle being used to slant the object.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073615Z">
@@ -43766,6 +43838,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T122844Z">
         <seg>Le scelte possibili sono:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The choices for color might include &lt;f0&gt;black and white&lt;/f0&gt; or &lt;f1&gt;grayscale&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211632Z" creationid="Alessia Mazzarini" creationdate="20181007T211632Z">
+        <seg>Le scelte per il colore potrebbero includere &lt;f0&gt;bianco e nero&lt;/f0&gt; o &lt;f1&gt;toni di grigio&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
