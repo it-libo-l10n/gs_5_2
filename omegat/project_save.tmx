@@ -14512,8 +14512,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;i0/&gt;&lt;f1&gt;Print File Directly&lt;/f1&gt; icon (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) to send the entire document to the default printer defined for your computer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T093710Z" creationid="Alessia Mazzarini" creationdate="20181007T093710Z">
-        <seg>Fate clic sull'icona &lt;i0/&gt;&lt;f1&gt;Print File Directly&lt;/f1&gt; icon (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) to send the entire document to the default printer defined for your computer.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T093934Z" creationid="Alessia Mazzarini" creationdate="20181007T093710Z">
+        <seg>Fate clic sull'icona &lt;i0/&gt;&lt;f1&gt;Stampa file direttamente&lt;/f1&gt; (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) per inviare l'intero documento alla stampante predefinita sul vostro computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35801,6 +35801,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Printing, Exporting, E‑mailing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T094039Z" creationid="Alessia Mazzarini" creationdate="20181007T094039Z">
+        <seg>Stampa, esportazione, invio di e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proceed as for inserting a single column or row above.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124400Z">
@@ -55024,6 +55032,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change the action of the &lt;f0&gt;Print File Directly&lt;/f0&gt; icon to send the document to the printer defined for the document instead of the default printer for the computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T094232Z" creationid="Alessia Mazzarini" creationdate="20181007T094232Z">
+        <seg>È possibile modificare l'azione associata all'icona &lt;f0&gt;Stampa file direttamente&lt;/f0&gt; per stampare sulla stampante predefinita del documento invece che sulla stampante predefinita del computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change the margins directly on the rulers by dragging them with the mouse.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105157Z">
@@ -58652,6 +58668,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T074940Z">
         <seg>chiave primaria (database)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>print file directly</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T094126Z" creationid="Alessia Mazzarini" creationdate="20181007T094126Z">
+        <seg>stampa il file direttamente</seg>
       </tuv>
     </tu>
     <tu>
