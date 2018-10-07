@@ -18360,6 +18360,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the number of the slide to print.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203204Z" creationid="Alessia Mazzarini" creationdate="20181007T203204Z">
+        <seg>Inserite il numero della diapositiva da stampare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the page number of the page you want to print.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201705Z" creationid="Alessia Mazzarini" creationdate="20181007T201705Z">
@@ -20140,6 +20148,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093545Z">
         <seg>Figura &lt;seq0&gt;28&lt;/seq0&gt;: finestre di dialogo Personalizzazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;290&lt;/seq0&gt;: Choosing what to print in Impress and Draw</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203124Z" creationid="Alessia Mazzarini" creationdate="20181007T203124Z">
+        <seg>Figura &lt;seq0&gt;290&lt;/seq0&gt;: scegliere cosa stampare in Impress e Draw</seg>
       </tuv>
     </tu>
     <tu>
@@ -28600,6 +28616,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Range and copies&lt;/f0&gt; section of the Print dialog, select the &lt;f1&gt;Slides&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203159Z" creationid="Alessia Mazzarini" creationdate="20181007T203159Z">
+        <seg>Nella sezione &lt;f0&gt;Intervallo e copie&lt;/f0&gt; della finestra di dialogo Stampa, selezionate l'opzione &lt;f1&gt;Diapositive&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Ranges and copies&lt;/f0&gt; section of the Print dialog, select the &lt;f1&gt;Selected cells&lt;/f1&gt; option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202917Z" creationid="Alessia Mazzarini" creationdate="20181007T202917Z">
@@ -36129,6 +36153,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Printing a range of slides:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203214Z" creationid="Alessia Mazzarini" creationdate="20181007T203214Z">
+        <seg>Stampa di un intervallo di pagine:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Printing a selection of cells:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202727Z" creationid="Alessia Mazzarini" creationdate="20181007T202727Z">
@@ -36157,6 +36189,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202445Z" creationid="Alessia Mazzarini" creationdate="20181007T202445Z">
         <seg>Stampa di un singolo foglio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printing an individual slide:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203130Z" creationid="Alessia Mazzarini" creationdate="20181007T203130Z">
+        <seg>Stampa di una singola diapositiva:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39697,10 +39737,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the slide to print.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203139Z" creationid="Alessia Mazzarini" creationdate="20181007T203139Z">
+        <seg>Selezionate la diapositiva da stampare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the slide you want to hide in the Slide Pane or Slide Sorter view on the Workspace area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085951Z">
         <seg>Select the slide you want to hide in the Slide Pane or Slide Sorter view on the Workspace area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the slides to print.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203238Z" creationid="Alessia Mazzarini" creationdate="20181007T203238Z">
+        <seg>Selezionate le diapositive da stampare.</seg>
       </tuv>
     </tu>
     <tu>
