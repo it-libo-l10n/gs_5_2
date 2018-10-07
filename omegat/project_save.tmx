@@ -55872,6 +55872,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can print multiple pages of a document on one sheet of paper.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T152911Z" creationid="Alessia Mazzarini" creationdate="20181007T152911Z">
+        <seg>Potete stampare più pagine di un documento su un unico foglio di carta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can read more about LibreOffice and The Document Foundation on their websites at &lt;a0&gt;http://www.libreoffice.org/&lt;/a0&gt; and &lt;a1&gt;http://www.documentfoundation.org/&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190141Z">
