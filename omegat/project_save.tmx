@@ -7240,6 +7240,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;The &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Print to File&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; printer is now always available and will generate a PDF file that you save on your disk.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T144827Z" creationid="Alessia Mazzarini" creationdate="20181007T144827Z">
+        <seg>&lt;f1&gt;La stampante &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Stampa nel file&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; è ora sempre disponibile e crea un file PDF che potete salvare sul disco.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Where sensitive information is exchanged between users and organizations, the parties agree how such information will be identified and handled.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170444Z">
