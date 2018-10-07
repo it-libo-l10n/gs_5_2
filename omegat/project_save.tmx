@@ -4296,6 +4296,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Handouts&lt;/f0&gt; prints the slides in reduced size on the page, from one to nine slides per page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T204502Z" creationid="Alessia Mazzarini" creationdate="20181007T204502Z">
+        <seg>Con &lt;f0&gt;Stampati&lt;/f0&gt; le diapositive vengono stampate in dimensioni ridotte sulla pagina, da una a nove diapositive per pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Hatching&lt;/f0&gt;: Select the hatching design.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180920T061551Z">
@@ -4988,6 +4996,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T172640Z">
         <seg>&lt;f0&gt;Avvertenza: &lt;/f0&gt;&lt;f1&gt;tutto ciò che viene inviato a una mailing list, compresi indirizzo email e qualsiasi altra informazione personale contenuta nel messaggio, viene archiviato pubblicamente e non può essere cancellato.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Notes&lt;/f0&gt; prints a single slide per page with any notes entered for that slide in Notes View.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T204651Z" creationid="Alessia Mazzarini" creationdate="20181007T204651Z">
+        <seg>Con l'opzione &lt;f0&gt;Note&lt;/f0&gt; viene stampata una singola diapositiva per pagina, insieme alle note che sono state inserite per la diapositiva in visualizzazione Note.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45846,6 +45862,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143714Z">
         <seg>Le dimensioni sono espresse nell'unità di misura corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The slides can be printed horizontally (landscape orientation) or vertically (portrait orientation) on the page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T204524Z" creationid="Alessia Mazzarini" creationdate="20181007T204524Z">
+        <seg>Le diapositive possono essere stampate sulla pagina con orientamento orizzontale o verticale.</seg>
       </tuv>
     </tu>
     <tu>
