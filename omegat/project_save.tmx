@@ -5002,8 +5002,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Notes&lt;/f0&gt; prints a single slide per page with any notes entered for that slide in Notes View.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T204859Z" creationid="Alessia Mazzarini" creationdate="20181007T204651Z">
-        <seg>Con &lt;f0&gt;Note&lt;/f0&gt; su ciascuna pagina viene stampata una singola diapositiva, con le note inserite in Visualizzazione Note per quella diapositiva.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205349Z" creationid="Alessia Mazzarini" creationdate="20181007T204651Z">
+        <seg>Con &lt;f0&gt;Note&lt;/f0&gt; su ciascuna pagina viene stampata una singola diapositiva, con le note inserite per quella diapositiva in Visualizzazione Note.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21552,6 +21552,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For Handouts, you can then choose how many slides to print per page, and the order in which they are printed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205444Z" creationid="Alessia Mazzarini" creationdate="20181007T205444Z">
+        <seg>Per gli Stampati, potete quindi scegliere quante diapositive stampare per pagina, e l'ordine di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For Linux, you can download it from the same website or you can use openjdk-7-jre, available from the repository of your Linux version.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T102924Z">
@@ -28000,6 +28008,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Writer, Impress, and Draw, you can print a document with two pages on each side of a sheet of paper, arranged so that when the printed pages are folded in half, the pages are in the correct order to form &lt;i0/&gt;a&lt;i1/&gt; &lt;i2/&gt;booklet or &lt;i3/&gt;brochure.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205654Z" creationid="Alessia Mazzarini" creationdate="20181007T205654Z">
+        <seg>In Writer, Impress e Draw, potete stampare un documento con due pagine su ciascun lato del foglio, disposte in modo tale che, quando le pagine stampate vengono ripiegate a metà, le pagine sono nell'ordine corretto per formare &lt;i0/&gt;un&lt;i1/&gt; &lt;i2/&gt;libretto o &lt;i3/&gt;un depliant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Writer, click in the paragraph where you want to insert the formula.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T131115Z">
@@ -28812,6 +28828,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T153615Z" creationid="Alessia Mazzarini" creationdate="20181007T153615Z">
         <seg>Nella finestra di dialogo Stampa, selezionate la scheda Layout di pagina (Figura &lt;t0&gt;287&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Print section of the Print dialog, select the required option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205429Z" creationid="Alessia Mazzarini" creationdate="20181007T205429Z">
+        <seg>Nella sezione Stampa della finestra di dialogo Stampa, selezionate l'opzione desiderata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36173,6 +36197,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T152645Z" creationid="Alessia Mazzarini" creationdate="20181007T152645Z">
         <seg>Stampa di &lt;i0/&gt;pagine multiple su foglio singolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printing a brochure</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205451Z" creationid="Alessia Mazzarini" creationdate="20181007T205451Z">
+        <seg>Stampa di un depliant</seg>
       </tuv>
     </tu>
     <tu>
@@ -50054,6 +50086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To print handouts, notes, or outlines:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205400Z" creationid="Alessia Mazzarini" creationdate="20181007T205400Z">
+        <seg>Per stampare stampati, note o strutture:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To provide &lt;bk1/&gt;additional opportunities such as working with &lt;bk2/&gt;cloud or remote servers, and searching by versions, switch to using LibreOffice dialogs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T204122Z">
@@ -57528,6 +57568,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>booklet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205500Z" creationid="Alessia Mazzarini" creationdate="20181007T205500Z">
+        <seg>libretti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>booklet printing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205520Z" creationid="Alessia Mazzarini" creationdate="20181007T205520Z">
+        <seg>stampa di libretti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>bookmarks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161131Z">
@@ -57540,6 +57596,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T142750Z">
         <seg>parentesi (Math)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>brochure</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205514Z" creationid="Alessia Mazzarini" creationdate="20181007T205514Z">
+        <seg>depliant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>brochure printing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205523Z" creationid="Alessia Mazzarini" creationdate="20181007T205523Z">
+        <seg>stampa di depliant</seg>
       </tuv>
     </tu>
     <tu>
