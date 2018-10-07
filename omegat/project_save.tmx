@@ -12603,6 +12603,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File &gt; Print Preview&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212856Z" creationid="Alessia Mazzarini" creationdate="20181007T212856Z">
+        <seg>Scegliete &lt;f0&gt;File &gt; Anteprima di stampa&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;File &gt; Print&lt;/f0&gt; from the Menu bar, or press &lt;f1&gt;Ctrl+P&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201230Z" creationid="Alessia Mazzarini" creationdate="20181007T201114Z">
@@ -12799,6 +12807,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T123250Z">
         <seg>Scegliete la categoria di stile </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the print options and click the &lt;f4&gt;OK&lt;/f4&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212811Z" creationid="Alessia Mazzarini" creationdate="20181007T212811Z">
+        <seg>Scegliete le opzioni di stampa e fate clic sul pulsante &lt;f4&gt;OK&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20340,6 +20356,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212531Z" creationid="Alessia Mazzarini" creationdate="20181007T212531Z">
         <seg>Figura &lt;seq0&gt;292&lt;/seq0&gt;: barra degli strumenti Anteprima di stampa (Writer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;293&lt;/seq0&gt;: Print Preview toolbar (Calc)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T213005Z" creationid="Alessia Mazzarini" creationdate="20181007T213005Z">
+        <seg>Figura &lt;seq0&gt;293&lt;/seq0&gt;: barra degli strumenti Anteprima di stampa (Calc)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43137,6 +43161,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Calc window now displays the &lt;f0&gt;Print Preview&lt;/f0&gt; toolbar instead of the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212942Z" creationid="Alessia Mazzarini" creationdate="20181007T212942Z">
+        <seg>La finestra di Calc ora mostra la barra degli strumenti &lt;f0&gt;Anteprima di stampa&lt;/f0&gt; invece della barra degli strumenti Formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Certificate Path option appears only on Linux and Mac systems.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T074424Z">
@@ -50446,6 +50478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To preview the sheets in Calc before printing:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212826Z" creationid="Alessia Mazzarini" creationdate="20181007T212826Z">
+        <seg>Per vedere l'anteprima dei fogli in Calc prima della stampa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To print a brochure on a single-sided printer:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205808Z" creationid="Alessia Mazzarini" creationdate="20181007T205808Z">
@@ -50458,6 +50498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205400Z" creationid="Alessia Mazzarini" creationdate="20181007T205400Z">
         <seg>Per stampare stampati, note o strutture:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To print the document from this view, click the &lt;f0&gt;Print &lt;/f0&gt;icon (&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;) to open the Print dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212733Z" creationid="Alessia Mazzarini" creationdate="20181007T212733Z">
+        <seg>Per stampare il documento da questa vista, fate clic sull'icona &lt;f0&gt;Stampa &lt;/f0&gt; (&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;) per aprire la finestra di dialogo Stampa.</seg>
       </tuv>
     </tu>
     <tu>
