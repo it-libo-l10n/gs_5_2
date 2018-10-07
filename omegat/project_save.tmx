@@ -20048,6 +20048,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;285&lt;/seq0&gt;: Choosing whether and where to print comments</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T150919Z" creationid="Alessia Mazzarini" creationdate="20181007T150919Z">
+        <seg>Figura &lt;seq0&gt;285&lt;/seq0&gt;: opzioni di stampa dei commenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Personalization dialogs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093545Z">
@@ -58780,6 +58788,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203727Z">
         <seg>ordine delle pagine, dettagli, scala, in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page orientation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T150926Z" creationid="Alessia Mazzarini" creationdate="20181007T150926Z">
+        <seg>orientamento della pagina</seg>
       </tuv>
     </tu>
     <tu>
