@@ -20024,6 +20024,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;284&lt;/seq0&gt;: The &lt;is1/&gt;Print dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T095536Z" creationid="Alessia Mazzarini" creationdate="20181007T095423Z">
+        <seg>Figura &lt;seq0&gt;284&lt;/seq0&gt;: la &lt;is1/&gt;finestra di dialogo Stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Personalization dialogs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093545Z">
@@ -22436,6 +22444,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124924Z">
         <seg>Per un maggiore controllo o per selezionare altri formati numerici, potete usare la scheda &lt;f0&gt;Numeri&lt;/f0&gt; della finestra di dialogo Formato celle (&lt;t1&gt;Figura 104&lt;/t1&gt; a pagina &lt;t2&gt;133&lt;/t2&gt;) per:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more control over printing, use the Print dialog (&lt;f0&gt;File &gt; Print&lt;/f0&gt; or &lt;f1&gt;Ctrl+P&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T095322Z" creationid="Alessia Mazzarini" creationdate="20181007T095322Z">
+        <seg>Per maggiori controlli sulle funzionalità di stampa, usate la finestra di dialogo Stampa (&lt;f0&gt;File &gt; Stampa&lt;/f0&gt; oppure &lt;f1&gt;Ctrl+P&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
