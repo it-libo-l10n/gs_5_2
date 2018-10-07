@@ -14510,6 +14510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;i0/&gt;&lt;f1&gt;Print File Directly&lt;/f1&gt; icon (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) to send the entire document to the default printer defined for your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T093710Z" creationid="Alessia Mazzarini" creationdate="20181007T093710Z">
+        <seg>Fate clic sull'icona &lt;i0/&gt;&lt;f1&gt;Print File Directly&lt;/f1&gt; icon (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) to send the entire document to the default printer defined for your computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the Control icon in the Form Controls toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T091528Z">
