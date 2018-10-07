@@ -35905,6 +35905,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Printing &lt;i0/&gt;multiple pages on a single sheet of paper</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T152645Z" creationid="Alessia Mazzarini" creationdate="20181007T152645Z">
+        <seg>Stampa di &lt;i0/&gt;pagine multiple su foglio singolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Printing from Calc is much the same &lt;i0/&gt;as printing&lt;i1/&gt; from other LibreOffice components (see &lt;f2&gt;Chapter 10 Printing, Exporting, and Emailing&lt;/f2&gt; in this guide).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T150659Z">
@@ -58612,6 +58620,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T185221Z">
         <seg>Spostarsi da un foglio all'altro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>multiple pages per sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T152623Z" creationid="Alessia Mazzarini" creationdate="20181007T152623Z">
+        <seg>pagine multiple per foglio</seg>
       </tuv>
     </tu>
     <tu>
