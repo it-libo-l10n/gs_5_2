@@ -28848,6 +28848,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the document, select the material (text and graphics) to print.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202026Z" creationid="Alessia Mazzarini" creationdate="20181007T202026Z">
+        <seg>Nel documento, selezionate il materiale (testo e immagini) da stampare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the drop-down menu, choose &lt;f0&gt;Customize Toolbar&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T071911Z">
@@ -37985,6 +37993,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Figure &lt;t2&gt;288&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202314Z" creationid="Alessia Mazzarini" creationdate="20181007T202314Z">
+        <seg>Vedere la Figura &lt;t2&gt;288&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Table &lt;t0&gt;1&lt;/t0&gt; and this web page: &lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://www.libreoffice.org/get-help/&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170810Z">
@@ -42197,6 +42213,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T164258Z">
         <seg>Il pannello delle &lt;f0&gt;Proprietà&lt;/f0&gt; della Barra laterale ha cinque sezioni, &lt;f1&gt;Stili&lt;/f1&gt;, &lt;f2&gt;Carattere&lt;/f2&gt;, &lt;f3&gt;Formato numero&lt;/f3&gt;, &lt;f4&gt;Allineamento&lt;/f4&gt; ed &lt;f5&gt;Aspetto cella&lt;/f5&gt;, che nell'insieme contengono tutti i controlli presenti sulla barra degli strumenti di formattazione ed anche di più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Range and copies&lt;/f0&gt; section of the Print dialog now includes a &lt;f1&gt;Selection&lt;/f1&gt; option and the preview box shows the selected material.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202245Z" creationid="Alessia Mazzarini" creationdate="20181007T202245Z">
+        <seg>La sezione &lt;f0&gt;Intervallo e copie&lt;/f0&gt; della finestra di dialogo Stampa ora include un'opzione &lt;f1&gt;Selezione&lt;/f1&gt; e il riquadro di anteprima mostra il materiale selezionato.</seg>
       </tuv>
     </tu>
     <tu>
