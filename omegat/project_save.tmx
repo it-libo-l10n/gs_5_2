@@ -45738,6 +45738,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text input box displays the current page number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201614Z" creationid="Alessia Mazzarini" creationdate="20181007T201614Z">
+        <seg>La casella di immissione testo visualizza il numero di pagina corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text retains the formatting it had before dragging.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T154030Z">
