@@ -12109,8 +12109,8 @@
       <tuv lang="EN">
         <seg>Chapter 10 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T083520Z">
-        <seg>Chapter 10 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T095613Z">
+        <seg>Capitolo 10 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44766,6 +44766,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082547Z">
         <seg>Le opzioni della pagina &lt;f0&gt;LibreOffice – Vista&lt;/f0&gt; riguardano l'aspetto e il comportamento della finestra dei documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The options selected on the Print dialog apply to this printing of this document only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T095822Z" creationid="Alessia Mazzarini" creationdate="20181007T095822Z">
+        <seg>Le opzioni selezionate nella finestra di dialogo Stampa vengono applicate solo alla stampa del documento corrente.</seg>
       </tuv>
     </tu>
     <tu>
