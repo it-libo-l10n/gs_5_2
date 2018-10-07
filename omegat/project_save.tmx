@@ -21856,6 +21856,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if the document contains no comments, the Print – Comments drop-down list does not work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T145110Z" creationid="Alessia Mazzarini" creationdate="20181007T145110Z">
+        <seg>Ad esempio, se il documento non contiene commenti, l'elenco a discesa Stampa – Commenti non sarà attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if the top two rows of the sheet as well as column A need to be printed on all pages, do the following:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204423Z">
@@ -40745,6 +40753,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some selections may not be available all the time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T145031Z" creationid="Alessia Mazzarini" creationdate="20181007T145031Z">
+        <seg>Alcune selezioni potrebbero non essere sempre presenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some servers are also able to check-in and check-out files, thus controlling their usage and access.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123611Z">
@@ -53844,6 +53860,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082600Z">
         <seg>In base al numero di coppie di campi scelte come relazione, occorre che certi requisiti siano soddisfatti perché il formulario possa funzionare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether to print any &lt;f0&gt;comments&lt;/f0&gt; that are in the document, and where to print the comments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T145018Z" creationid="Alessia Mazzarini" creationdate="20181007T145018Z">
+        <seg>Se e dove stampare i &lt;f0&gt;commenti&lt;/f0&gt; presenti nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Which &lt;f0&gt;pages&lt;/f0&gt; to print, the number of copies to print, and whether to collate multiple copies (&lt;f1&gt;Range and copies&lt;/f1&gt; section).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T144937Z" creationid="Alessia Mazzarini" creationdate="20181007T144937Z">
+        <seg>Quali &lt;f0&gt;pagine&lt;/f0&gt; stampare, il numero di copie, e se fascicolare copie multiple (sezione &lt;f1&gt;Intervallo e copie&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
