@@ -13579,6 +13579,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f2&gt;OK&lt;/f2&gt; to save the change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212036Z" creationid="Alessia Mazzarini" creationdate="20181007T212036Z">
+        <seg>Fate clic su &lt;f2&gt;OK&lt;/f2&gt; per salvare la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f3&gt;Add&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T071946Z">
@@ -17019,6 +17027,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071446Z">
         <seg>Differenti tipi di campi consentono metodi differenti di inserimento dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Different viewing options are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212120Z" creationid="Alessia Mazzarini" creationdate="20181007T212120Z">
+        <seg>Sono disponibili diverse opzioni di visualizzazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26664,6 +26680,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are designing a document to be printed double-sided, you may want to see what facing pages look like.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212153Z" creationid="Alessia Mazzarini" creationdate="20181007T212153Z">
+        <seg>Se state producendo un documento per la stampa fronte-retro può essere utile vedere come risulteranno le pagine affiancate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are importing a Microsoft Word or Excel file containing VBA code, you can select the option &lt;f0&gt;Executable code&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154059Z">
@@ -34913,6 +34937,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Print dialog (&lt;f0&gt;File &gt; Print&lt;/f0&gt;), or press &lt;f1&gt;Ctrl+P&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212053Z" creationid="Alessia Mazzarini" creationdate="20181007T212053Z">
+        <seg>Aprite la finestra di dialogo Stampa (&lt;f0&gt;File &gt; Stampa&lt;/f0&gt;) o premete &lt;f1&gt;Ctrl+P&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) and click the &lt;f1&gt;Open Panel&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) icon on the &lt;f3&gt;Alignment&lt;/f3&gt; panel.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T122859Z">
@@ -36297,6 +36329,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previewing pages/sheets before printing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212104Z" creationid="Alessia Mazzarini" creationdate="20181007T212104Z">
+        <seg>Anteprima di pagine/fogli prima della stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Primary keys for any other field type must be selected by right-clicking the rectangle before the field and selecting &lt;f0&gt;Primary key&lt;/f0&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104025Z">
@@ -36309,6 +36349,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T061229Z">
         <seg>Finestre di dialogo di stampa&lt;f0&gt;&lt;/f0&gt; - Utilizza finestre di dialogo di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Print Preview (read-only view).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212222Z" creationid="Alessia Mazzarini" creationdate="20181007T212222Z">
+        <seg>Anteprima di stampa (vista di sola lettura).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45538,6 +45586,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The normal page view in Writer shows you what each page will look like when printed and you can edit the pages in that view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212142Z" creationid="Alessia Mazzarini" creationdate="20181007T212142Z">
+        <seg>La visualizzazione di pagina normale in Writer vi mostra come risulterà la pagina una volta stampata, e potete modificare le pagine in tale visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The number and position of the visible tools vary with the task in hand and user preferences, therefore your setup may look different from Figure &lt;t0&gt;163&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T065647Z">
@@ -51174,6 +51230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use Print Preview:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212239Z" creationid="Alessia Mazzarini" creationdate="20181007T212239Z">
+        <seg>Per utilizzare Anteprima di stampa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use a custom icon, create it in a graphics program and import it into LibreOffice by clicking the &lt;f0&gt;Import&lt;/f0&gt; button on the Change Icon dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T094041Z">
@@ -53319,6 +53383,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>View Layout (editable view): use the Facing Pages (Book view) button on the status bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212214Z" creationid="Alessia Mazzarini" creationdate="20181007T212214Z">
+        <seg>Vista Layout (vista che consente la modifica): usate il pulsante Fianco a fianco (Anteprima libro) sulla barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View layout</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071336Z">
@@ -55312,6 +55384,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writer provides two ways to do this:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212200Z" creationid="Alessia Mazzarini" creationdate="20181007T212200Z">
+        <seg>Ci sono due modalità per fare questo in Writer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writer provides two ways to ensure that your references are up to date, by inserting links to other parts of the same document or to a different document: hyperlinks and cross-references.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T160732Z">
@@ -57124,6 +57204,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153816Z">
         <seg>Per queste operazioni potete usare il mouse o la tastiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use the previewing options in Writer and Calc to view the document as it will be printed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212116Z" creationid="Alessia Mazzarini" creationdate="20181007T212116Z">
+        <seg>In Writer e Calc potete usare le opzioni di anteprima per vedere come verrà stampato un documento.</seg>
       </tuv>
     </tu>
     <tu>
