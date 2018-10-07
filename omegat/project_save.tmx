@@ -28432,6 +28432,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Layout&lt;/f0&gt; section, select from the drop-down list the number of pages to print per sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T153740Z" creationid="Alessia Mazzarini" creationdate="20181007T153740Z">
+        <seg>Nella sezione &lt;f0&gt;Layout&lt;/f0&gt;, selezionate dall'elenco a discesa il numero di pagine da stampare per foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Macro name&lt;/f0&gt; text box, type a name for the macro you have just recorded, for example &lt;f1&gt;EnterMyName&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T201658Z">
@@ -45046,6 +45054,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180830T064027Z">
         <seg>Viene corretta la posizione del centro dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The preview panel on the left of the Print dialog shows how the printed document will look.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T153807Z" creationid="Alessia Mazzarini" creationdate="20181007T153807Z">
+        <seg>Il pannello di anteprima sulla sinistra della finestra di dialogo Stampa mostra come verrà stampato il documento.</seg>
       </tuv>
     </tu>
     <tu>
