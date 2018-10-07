@@ -35761,6 +35761,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preview pages/sheets before printing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T104621Z" creationid="Alessia Mazzarini" creationdate="20181007T104621Z">
+        <seg>Anteprima di pagine/fogli prima della stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Primary keys for any other field type must be selected by right-clicking the rectangle before the field and selecting &lt;f0&gt;Primary key&lt;/f0&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104025Z">
@@ -35773,6 +35781,38 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T061229Z">
         <seg>Finestre di dialogo di stampa&lt;f0&gt;&lt;/f0&gt; - Utilizza finestre di dialogo di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Print a brochure</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T104553Z" creationid="Alessia Mazzarini" creationdate="20181007T104553Z">
+        <seg>Stampa di un depliant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Print envelopes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T104603Z" creationid="Alessia Mazzarini" creationdate="20181007T104603Z">
+        <seg>Stampa di buste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Print labels or business cards</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T104611Z" creationid="Alessia Mazzarini" creationdate="20181007T104611Z">
+        <seg>Stampa di etichette o biglietti da visita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Print multiple pages/sheets/slides on one page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T104544Z" creationid="Alessia Mazzarini" creationdate="20181007T104544Z">
+        <seg>Stampa di pagine/fogli/diapositive multiple su un'unica pagina</seg>
       </tuv>
     </tu>
     <tu>
