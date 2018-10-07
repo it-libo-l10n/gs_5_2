@@ -5104,6 +5104,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Outline&lt;/f0&gt; prints the title and headings of each slide in outline format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205326Z" creationid="Alessia Mazzarini" creationdate="20181007T205326Z">
+        <seg>Con &lt;f0&gt;Struttura&lt;/f0&gt; vengono stampati titolo e intestazioni di ciascuna diapositiva nel formato struttura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Page Down&lt;/f0&gt; moves the cell focus down one complete screen display.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T185140Z">
