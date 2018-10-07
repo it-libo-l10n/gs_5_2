@@ -36233,6 +36233,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Printing handouts, &lt;i0/&gt;notes, or outlines in Impress</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203942Z" creationid="Alessia Mazzarini" creationdate="20181007T203942Z">
+        <seg>Stampa di stampati, &lt;i0/&gt;note o strutture in Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Printing options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203719Z">
@@ -39245,6 +39253,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T151351Z" creationid="Alessia Mazzarini" creationdate="20181007T151351Z">
         <seg>Selezionate il pulsante &lt;f0&gt;Proprietà&lt;/f0&gt; per visualizzare la finestra di dialogo delle proprietà delle stampante selezionata, qui potete scegliere l'orientamento verticale oppure orizzontale&lt;i1/&gt;, quale cassetto della carta utilizzare, e le dimensioni della carta su cui stampare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f0&gt;Selection&lt;/f0&gt; option in the &lt;f1&gt;Range and copies&lt;/f1&gt; section of the Print dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203819Z" creationid="Alessia Mazzarini" creationdate="20181007T203819Z">
+        <seg>Selezionate l'opzione &lt;f0&gt;Selezione&lt;/f0&gt; nella sezione &lt;f1&gt;Intervallo e copie&lt;/f1&gt; della finestra di dialogo Stampa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58520,6 +58536,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>handouts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203829Z" creationid="Alessia Mazzarini" creationdate="20181007T203829Z">
+        <seg>stampati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>header</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171415Z">
@@ -59132,6 +59156,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151839Z">
         <seg>elementi non consecutivi, selezione di</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>notes (Impress)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203835Z" creationid="Alessia Mazzarini" creationdate="20181007T203835Z">
+        <seg>note (Impress)</seg>
       </tuv>
     </tu>
     <tu>
