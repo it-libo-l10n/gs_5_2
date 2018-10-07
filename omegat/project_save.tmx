@@ -12811,6 +12811,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose the print options and click the &lt;f0&gt;Print button&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T213123Z" creationid="Alessia Mazzarini" creationdate="20181007T213123Z">
+        <seg>Scegliete le opzioni di stampa e fate clic sul pulsante &lt;f0&gt;Stampa&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose the print options and click the &lt;f4&gt;OK&lt;/f4&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212811Z" creationid="Alessia Mazzarini" creationdate="20181007T212811Z">
@@ -50502,6 +50510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To print the document from this view, click the &lt;f0&gt;Print &lt;/f0&gt;icon (&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;) to open the Print dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T213103Z" creationid="Alessia Mazzarini" creationdate="20181007T213103Z">
+        <seg>Per stampare il documento da questa vista, fate clic sull'icona &lt;f0&gt;Stampa &lt;/f0&gt; (&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;) per aprire la finestra di dialogo Stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To print the document from this view, click the &lt;f0&gt;Print &lt;/f0&gt;icon (&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;) to open the Print dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212733Z" creationid="Alessia Mazzarini" creationdate="20181007T212733Z">
@@ -58948,6 +58964,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160215Z">
         <seg>esporta HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>export documents to</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T213137Z" creationid="Alessia Mazzarini" creationdate="20181007T213137Z">
+        <seg>esporta documenti in</seg>
       </tuv>
     </tu>
     <tu>
