@@ -9145,6 +9145,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After printing, be sure to deselect the extra sheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202933Z" creationid="Alessia Mazzarini" creationdate="20181007T202933Z">
+        <seg>Dopo la stampa, assicuratevi di deselezionare i fogli sui quali non dovete lavorare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After selecting the additional grammar checks, you must restart LibreOffice, or reload the document, for them to take effect.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T100148Z">
@@ -26904,6 +26912,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you keep them selected, the next time you enter data on one sheet, you enter data on all the selected sheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202957Z" creationid="Alessia Mazzarini" creationdate="20181007T202957Z">
+        <seg>Mantenendoli selezionati, invece di inserire i dati su un unico foglio li inserirete su tutti i fogli selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you know how to create custom colors, you can use them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061819Z">
@@ -27532,6 +27548,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090042Z">
         <seg>Impress Remote is a mobile application developed by the community for Android and iOS systems that allows you to control a live presentation with a mobile device such as a phone or tablet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress and Draw</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203014Z" creationid="Alessia Mazzarini" creationdate="20181007T203014Z">
+        <seg>Impress e Draw</seg>
       </tuv>
     </tu>
     <tu>
@@ -28576,6 +28600,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Ranges and copies&lt;/f0&gt; section of the Print dialog, select the &lt;f1&gt;Selected cells&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202917Z" creationid="Alessia Mazzarini" creationdate="20181007T202917Z">
+        <seg>Nella sezione &lt;f0&gt;Intervallo e copie&lt;/f0&gt; della finestra di dialogo Stampa, scegliete l'opzione &lt;f1&gt;Celle selezionate&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Replace with&lt;/f0&gt; box, select a suitable font from the drop-down list of fonts installed on your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073810Z">
@@ -28892,6 +28924,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202026Z" creationid="Alessia Mazzarini" creationdate="20181007T202026Z">
         <seg>Nel documento, selezionate il materiale (testo e immagini) da stampare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the document, select the section of cells to print.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202736Z" creationid="Alessia Mazzarini" creationdate="20181007T202736Z">
+        <seg>Nel documento, selezionate la sezione di celle da stampare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36089,6 +36129,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Printing a selection of cells:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202727Z" creationid="Alessia Mazzarini" creationdate="20181007T202727Z">
+        <seg>Stampa di una selezione di celle:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Printing a selection of text:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201951Z" creationid="Alessia Mazzarini" creationdate="20181007T201951Z">
@@ -36565,6 +36613,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151101Z">
         <seg>Collegamenti ipertestuali relativi e assoluti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Release the &lt;f0&gt;Control&lt;/f0&gt; key when all required sheets are selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202708Z" creationid="Alessia Mazzarini" creationdate="20181007T202708Z">
+        <seg>Rilasciate il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; quando avete selezionato tutti i fogli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47458,6 +47514,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This might not be what you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203007Z" creationid="Alessia Mazzarini" creationdate="20181007T203007Z">
+        <seg>Questo potrebbe non essere ciò che volete fare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This new style applies only to this document; it will not be saved in the template.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T064757Z">
@@ -55556,6 +55620,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095603Z">
         <seg>Potete modificare le proprietà o le opzioni di un oggetto senza dover aprire una finestra di dialogo o utilizzare uno degli strumenti disponibili nelle varie barre degli strumenti fornite da Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can choose individual slides, ranges of slides, or selections of slides for printing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203026Z" creationid="Alessia Mazzarini" creationdate="20181007T203026Z">
+        <seg>Potete scegliere di stampare singole diapositive, gruppi di diapositive, o selezioni di diapositive.</seg>
       </tuv>
     </tu>
     <tu>
