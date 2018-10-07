@@ -24112,6 +24112,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f1&gt;Tools &gt; Options &gt; Load/Save &gt; General &lt;/f1&gt;and select the &lt;f2&gt;Load printer settings with the document&lt;/f2&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T094530Z" creationid="Alessia Mazzarini" creationdate="20181007T094530Z">
+        <seg>Andate su &lt;f1&gt;Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale &lt;/f1&gt;e selezionate l'opzione &lt;f2&gt;Carica le impostazioni della stampante assieme al documento&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f1&gt;View &gt; Grid &gt; Snap to Grid&lt;/f1&gt; on the Menu bar or click on the &lt;f2&gt;Snap to Grid&lt;/f2&gt; icon on the &lt;f3&gt;Options&lt;/f3&gt; toolbar to turn on or off the snap to grid function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140506Z">
