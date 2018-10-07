@@ -14478,6 +14478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f1&gt;OK&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T154547Z" creationid="Alessia Mazzarini" creationdate="20181007T154547Z">
+        <seg>Fate clic sul pulsante &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f1&gt;Open&lt;/f1&gt; or &lt;f2&gt;Save&lt;/f2&gt; button to proceed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203046Z">
@@ -27880,6 +27888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Writer, to print two pages per sheet in “facing pages” (book layout) style, print from Print Preview instead.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T154610Z" creationid="Alessia Mazzarini" creationdate="20181007T154610Z">
+        <seg>In Writer, per stampare due pagine per foglio in stile “pagine affiancate” (layout libro), stampate invece da Anteprima di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a Mac operating system, go to &lt;f1&gt;LibreOffice &gt; Quit LibreOffice&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133845Z">
@@ -28468,6 +28484,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T195626Z">
         <seg>Nella finestra di dialogo Aggiungi formattazione automatica che si apre, digitate nella casella &lt;f0&gt;Nome&lt;/f0&gt; un nome esplicativo per il nuovo formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Page sides&lt;/f0&gt; section, select whether to print all pages or only some pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T154527Z" creationid="Alessia Mazzarini" creationdate="20181007T154527Z">
+        <seg>Nella sezione &lt;f0&gt;Lati della pagina&lt;/f0&gt;, selezionate se stampare tutte le pagine o solamente alcune pagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37897,6 +37921,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See page &lt;bf0&gt;301&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T154627Z" creationid="Alessia Mazzarini" creationdate="20181007T154627Z">
+        <seg>Vedere pagina &lt;bf0&gt;301&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the &lt;f0&gt;Calc Guide Chapter 2 Entering, Editing and Formatting Data&lt;/f0&gt; for more information on validating cell contents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093104Z">
@@ -39709,6 +39741,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184451Z">
         <seg>Selezionare gli oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting pages/sheets/slides to print</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T154652Z" creationid="Alessia Mazzarini" creationdate="20181007T154652Z">
+        <seg>Selezione di pagine/fogli/diapositive da stampare</seg>
       </tuv>
     </tu>
     <tu>
@@ -53336,6 +53376,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When printing more than 2 pages per sheet, you can choose the order in which they are printed across and down the paper.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T154507Z" creationid="Alessia Mazzarini" creationdate="20181007T154507Z">
+        <seg>Quando si stampano più di 2 pagine per foglio, è possibile scegliere l'ordine verticale e orizzontale in cui le pagine verranno stampate nel foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When selecting a pair of fields from two tables to use as a relationship, they have to have the same field type.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082528Z">
@@ -59332,6 +59380,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151829Z">
         <seg>selezionare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>selecting what to print</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T154640Z" creationid="Alessia Mazzarini" creationdate="20181007T154640Z">
+        <seg>selezione delle parti da stampare</seg>
       </tuv>
     </tu>
     <tu>
