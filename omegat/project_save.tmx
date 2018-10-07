@@ -17392,6 +17392,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag the sheet tab in the bottom of the Calc window into the table list of the database file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181007T011414Z" creationid="luke" creationdate="20181007T011414Z">
+        <seg>Drag the sheet tab in the bottom of the Calc window into the table list of the database file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drag the split window borders back to their places at the ends of the scroll bars.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210317Z">
@@ -40137,6 +40145,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Similarly, we can change the field formatting of any of the other fields and change the format everywhere that field appears in the report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181007T011431Z" creationid="luke" creationdate="20181007T011431Z">
+        <seg>Similarly, we can change the field formatting of any of the other fields and change the format everywhere that field appears in the report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simple forms require only some of these steps, while more complex forms may use all of them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T074846Z">
@@ -41341,6 +41357,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111517Z">
         <seg>Supponete di voler applicare lo stesso riempimento di area, spessore della linea e bordo ad un gruppo di oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swipe left to go to the next slide, or swipe right to go backwards.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181007T011138Z" creationid="luke" creationdate="20181007T011138Z">
+        <seg>Swipe left to go to the next slide, or swipe right to go backwards.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48312,6 +48336,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T213242Z">
         <seg>Per definire delle serie di riempimento personalizzate:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To delete a record, right-click on the gray box to the left of a row to highlight the entire row, and select &lt;f0&gt;Delete Rows&lt;/f0&gt; to remove the selected row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181007T011458Z" creationid="luke" creationdate="20181007T011458Z">
+        <seg>To delete a record, right-click on the gray box to the left of a row to highlight the entire row, and select &lt;f0&gt;Delete Rows&lt;/f0&gt; to remove the selected row.</seg>
       </tuv>
     </tu>
     <tu>
