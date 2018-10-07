@@ -20224,6 +20224,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;291&lt;/seq0&gt;: Selecting which pages to print</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T210037Z" creationid="Alessia Mazzarini" creationdate="20181007T210037Z">
+        <seg>Figura &lt;seq0&gt;291&lt;/seq0&gt;: selezione delle pagine da stampare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Sample personalized theme</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093609Z">
@@ -42313,6 +42321,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Take the printed pages out of the printer, turn the pages over, and put them back into the printer in the correct orientation to print on the blank side.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T210053Z" creationid="Alessia Mazzarini" creationdate="20181007T210053Z">
+        <seg>Estraete le pagine stampate dalla stampante, capovolgetele, e inseritele nuovamente nella stampante con l'orientamento corretto per stampare sul lato vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Template sets, spelling dictionaries, clipart galleries, macros, and dialog libraries can be packaged as LibreOffice extensions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T125502Z">
@@ -57196,6 +57212,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144205Z">
         <seg>Nel foglio elettronico potreste avere bisogno di qualcosa in più rispetto a semplici numeri e testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may need to experiment a bit to find out what the correct arrangement is for your printer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T210101Z" creationid="Alessia Mazzarini" creationdate="20181007T210101Z">
+        <seg>Potreste aver bisogno di eseguire più prove per trovare la disposizione corretta per la vostra stampante.</seg>
       </tuv>
     </tu>
     <tu>
