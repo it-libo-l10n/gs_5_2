@@ -11907,6 +11907,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the LibreOffice Writer (or Calc, Impress, Draw) settings to print all color text as black, and all graphics as grayscale:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212006Z" creationid="Alessia Mazzarini" creationdate="20181007T212006Z">
+        <seg>Cambiate le impostazioni di LibreOffice Writer (o Calc, Impress, Draw) per stampare tutti i testi colorati in nero, e tutti gli oggetti grafici in toni di grigio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the LibreOffice settings to print all color text and graphics as grayscale:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211815Z" creationid="Alessia Mazzarini" creationdate="20181007T211815Z">
+        <seg>Cambiate le impostazioni di LibreOffice per stampare tutti i testi e gli oggetti grafici in toni di grigio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the background to a picture, then modify some of the labels so that they can be read clearly against this background.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085610Z">
@@ -12683,6 +12699,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Print&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211827Z" creationid="Alessia Mazzarini" creationdate="20181007T211827Z">
+        <seg>Scegliete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Stampa&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; to configure the name you want to appear in the Author field of the comment, or to change it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081236Z">
@@ -13283,6 +13307,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to print the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211746Z" creationid="Alessia Mazzarini" creationdate="20181007T211746Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per stampare il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to return to the Print dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205908Z" creationid="Alessia Mazzarini" creationdate="20181007T205908Z">
@@ -13503,6 +13535,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T072449Z">
         <seg>Fate clic su &lt;f1&gt;OK&lt;/f1&gt; e poi su &lt;f2&gt;Chiudi&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f1&gt;OK&lt;/f1&gt; to save the change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211852Z" creationid="Alessia Mazzarini" creationdate="20181007T211852Z">
+        <seg>Fate clic su &lt;f1&gt;OK&lt;/f1&gt; per salvare la modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24488,6 +24528,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Grayscale is better if you have any graphics in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211805Z" creationid="Alessia Mazzarini" creationdate="20181007T211805Z">
+        <seg>Se ci sono oggetti grafici nel documento è preferibile la sfumatura di grigio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Greek characters</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184738Z">
@@ -34857,6 +34905,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Print dialog (&lt;f0&gt;File &gt; Print&lt;/f0&gt;), or press &lt;f1&gt;Ctrl+P.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211942Z" creationid="Alessia Mazzarini" creationdate="20181007T211942Z">
+        <seg>Aprite la finestra di dialogo Stampa (&lt;f0&gt;File &gt; Stampa&lt;/f0&gt;) o premete &lt;f1&gt;Ctrl+P&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) and click the &lt;f1&gt;Open Panel&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) icon on the &lt;f3&gt;Alignment&lt;/f3&gt; panel.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T122859Z">
@@ -39453,6 +39509,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205924Z" creationid="Alessia Mazzarini" creationdate="20181007T205924Z">
         <seg>Selezionate l'opzione &lt;f0&gt;Depliant&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f0&gt;Convert colors to grayscale&lt;/f0&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211845Z" creationid="Alessia Mazzarini" creationdate="20181007T211845Z">
+        <seg>Selezionate l'opzione &lt;f0&gt;Converti i colori in sfumature di grigio&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51654,6 +51718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Under &lt;f0&gt;Contents&lt;/f0&gt;, select the &lt;f1&gt;Print text in black&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212028Z" creationid="Alessia Mazzarini" creationdate="20181007T212028Z">
+        <seg>Sotto &lt;f0&gt;Contenuto&lt;/f0&gt;, selezionate l'opzione &lt;f1&gt;Stampa testo in nero&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Under &lt;f0&gt;Properties&lt;/f0&gt;, select Wrap text automatically and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T122406Z">
@@ -58916,6 +58988,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T211240Z">
         <seg>file di immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>grayscale on color printer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211752Z" creationid="Alessia Mazzarini" creationdate="20181007T211752Z">
+        <seg>sfumature di grigio su una stampante a colori</seg>
       </tuv>
     </tu>
     <tu>
