@@ -40641,6 +40641,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some tags that are exported are table of contents, hyperlinks, and controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181007T012000Z" creationid="luke" creationdate="20181007T012000Z">
+        <seg>Some tags that are exported are table of contents, hyperlinks, and controls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Someone taking orders might enter the information for each order into a database using a form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164543Z">
@@ -41581,6 +41589,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184603Z">
         <seg>Tabella &lt;seq0&gt;6&lt;/seq0&gt;: Esempi di comandi usando il codice di markup language</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;7&lt;/seq0&gt;: Print options in LibreOffice components</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181007T011938Z" creationid="luke" creationdate="20181007T011938Z">
+        <seg>Table &lt;seq0&gt;7&lt;/seq0&gt;: Print options in LibreOffice components</seg>
       </tuv>
     </tu>
     <tu>
@@ -54428,6 +54444,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154652Z">
         <seg>Potete aggiungere qualsiasi numero di livelli in un documento di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add graphic and image files, including photos, drawings, and scanned images, to LibreOffice documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181007T012014Z" creationid="luke" creationdate="20181007T012014Z">
+        <seg>You can add graphic and image files, including photos, drawings, and scanned images, to LibreOffice documents.</seg>
       </tuv>
     </tu>
     <tu>
