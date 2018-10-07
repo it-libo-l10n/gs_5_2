@@ -18832,6 +18832,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Feature</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T103837Z" creationid="Alessia Mazzarini" creationdate="20181007T103837Z">
+        <seg>Caratteristica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Feedback</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072741Z">
@@ -41643,8 +41651,8 @@
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;7&lt;/seq0&gt;: Print options in LibreOffice components</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181007T011938Z" creationid="luke" creationdate="20181007T011938Z">
-        <seg>Table &lt;seq0&gt;7&lt;/seq0&gt;: Print options in LibreOffice components</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T103831Z" creationid="luke" creationdate="20181007T011938Z">
+        <seg>Tabella &lt;seq0&gt;7&lt;/seq0&gt;: opzioni di stampa nei componenti di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -42642,6 +42650,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Print dialog has four pages, from which you can choose a range of options, as described in the following sections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T103724Z" creationid="Alessia Mazzarini" creationdate="20181007T103724Z">
+        <seg>La finestra di dialogo Stampa ha quattro pagine, tramite le quali potete scegliere diverse opzioni, come descritto nelle seguenti sezioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Protect Sheet dialog will open (Figure &lt;t1&gt;119&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124159Z">
@@ -43430,6 +43446,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T171517Z">
         <seg>Le differenze interessano principalmente le finestre di dialogo Apri, Salva e Stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The different components of LibreOffice have different print settings available, as summarized in Table &lt;t0&gt;7&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T103805Z" creationid="Alessia Mazzarini" creationdate="20181007T103805Z">
+        <seg>Per i vari componenti di LibreOffice sono disponibili differenti impostazioni di stampa, riassunte nella Tabella &lt;t0&gt;7&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
