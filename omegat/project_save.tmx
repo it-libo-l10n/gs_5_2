@@ -5744,6 +5744,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Step 2: Select the &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;sorting order&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095827Z" creationid="manuel" creationdate="20181009T095827Z">
+        <seg>&lt;f0&gt;Passo 2: Selezione del &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;tipo di ordinamento&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Step 3: &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Set primary key&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T073221Z">
@@ -8317,6 +8325,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083245Z">
         <seg>Appare un elenco di pagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A little simple logic helps at this point.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095832Z" creationid="manuel" creationdate="20181009T095832Z">
+        <seg>La scelta implica una piccola riflessione volta ad individuare </seg>
       </tuv>
     </tu>
     <tu>
@@ -13059,6 +13075,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Artist&lt;/f0&gt;, and use the &lt;f1&gt;&gt;&lt;/f1&gt; button to move it to the &lt;f2&gt;Fields in the Query&lt;/f2&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095452Z" creationid="manuel" creationdate="20181009T095452Z">
+        <seg>Fate clic su &lt;f0&gt;Interprete&lt;/f0&gt;, e usate il pulsante &lt;f1&gt;&gt;&lt;/f1&gt; per spostarlo nell'elenco &lt;f2&gt;Comandi di campo nella ricerca&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;CD-Collection.Artist&lt;/f0&gt; to select it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T100111Z" creationid="manuel" creationdate="20181009T100111Z">
+        <seg>Fate clic su &lt;f0&gt;Collezione_CD.Interprete&lt;/f0&gt; per selezionarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;CD-Collection.ArtistTitle&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T100535Z" creationid="manuel" creationdate="20181009T100535Z">
+        <seg>Fate clic su &lt;f0&gt;Collezione_CD.TitoloAlbum&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Close Toolbar&lt;/f0&gt; to close the selected toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190407Z">
@@ -14830,6 +14870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the first &lt;f0&gt;Sort by &lt;/f0&gt;drop down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T100020Z" creationid="manuel" creationdate="20181009T100020Z">
+        <seg>Fate clic sul primo elenco a discesa &lt;f0&gt;Ordina per&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the first control you want to move.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T094827Z">
@@ -14882,6 +14930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075151Z">
         <seg>Fate clic sulla doppia freccia verso destra per spostare tutti i campi nell'elenco &lt;f0&gt;Campi nel formulario&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the second &lt;f0&gt;Sort by &lt;/f0&gt;drop down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T100221Z" creationid="manuel" creationdate="20181009T100221Z">
+        <seg>Fate clic sul secondo elenco a discesa &lt;f0&gt;Ordina per&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20144,6 +20200,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;241&lt;/seq0&gt;: First page of the Query Wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095139Z" creationid="manuel" creationdate="20181009T095139Z">
+        <seg>Figura &lt;seq0&gt;241&lt;/seq0&gt;: prima pagina della Creazione guidata ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;242&lt;/seq0&gt;: Sorting order page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095934Z" creationid="manuel" creationdate="20181009T095934Z">
+        <seg>Figura &lt;seq0&gt;242&lt;/seq0&gt;: pagina di impostazione dell'ordinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;245&lt;/seq0&gt;: Query table</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082543Z">
@@ -22364,6 +22436,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121206Z">
         <seg>Ad esempio, la procedura guidata Fax vi guida attraverso le seguenti scelte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the Lunch field of the Vacation table used in a query has the name &lt;f1&gt;Vacation.Lunch&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095126Z" creationid="manuel" creationdate="20181009T095126Z">
+        <seg>Per esempio, il campo Pranzo della tabella Vacanze sarebbe identificato in una ricerca come &lt;f1&gt;Vacanze.Pranzo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28776,6 +28856,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In our query, the artist is most important.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095854Z" creationid="manuel" creationdate="20181009T095854Z">
+        <seg>&lt;f0&gt;Nella ricerca, il campo Interprete è il più importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In some tables, a suitable field for the primary key has already been listed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155339Z">
@@ -32937,6 +33025,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the &lt;f0&gt;AlbumTitle&lt;/f0&gt; and &lt;f1&gt;DatePurchased&lt;/f1&gt; fields in the same manner.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095518Z" creationid="manuel" creationdate="20181009T095518Z">
+        <seg>Allo stesso modo spostate i campi &lt;f0&gt;TitoloAlbum&lt;/f0&gt; e &lt;f1&gt;DataAcquisto&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the cell focus to another cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T180015Z">
@@ -34261,6 +34357,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T141048Z">
         <seg>Gli oggetti si ancorano alle suddivisioni così come agli angoli della griglia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of course, if we were interested in what music we bought on a given day, the date purchased would be the most important.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095923Z" creationid="manuel" creationdate="20181009T095923Z">
+        <seg>Naturalmente, se si fosse interessati a conoscere il tipo di musica comprato in un certo giorno, la data di acquisto sarebbe il dato più importante.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37345,6 +37449,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repeat this process for &lt;f0&gt;CD-Collection.DatePurchased&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T100637Z" creationid="manuel" creationdate="20181009T100637Z">
+        <seg>Ripetete questa procedura per &lt;f0&gt;Collezione_CD.DataAcquisto&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repeat until you have moved all of the fields you need to where you want them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093840Z">
@@ -39593,6 +39705,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select fields from the CD-Collection table in the &lt;f0&gt;Available fields&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095223Z" creationid="manuel" creationdate="20181009T095223Z">
+        <seg>Selezionate i campi dalla tabella Collezione_CD nell'elenco &lt;f0&gt;Campi disponibili&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select if you want it printable or not, visible or hidden, or locked to prevent further changes or accidental edits.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T145458Z">
@@ -39805,6 +39925,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093000Z">
         <seg>Selezionate la voce &lt;f1&gt;Standard (esteso)&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the CD-Collection table from the drop down list of tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095152Z" creationid="manuel" creationdate="20181009T095152Z">
+        <seg>Selezionate la tabella Collezione_CD dall'elenco a tendina Tabelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42145,6 +42273,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 1: Select the fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095147Z" creationid="manuel" creationdate="20181009T095147Z">
+        <seg>Passo 1: Selezione dei campi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 2: Set up a subform</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T075221Z">
@@ -43959,6 +44095,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144745Z">
         <seg>Il vantaggio è che il documento contenente i riferimenti può essere spostato in altre cartelle, e i riferimenti rimangono validi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The album title is less important, and the date purchased is of least importance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095903Z" creationid="manuel" creationdate="20181009T095903Z">
+        <seg>Ad esso segue il titolo dell'album, e la data di acquisto è il meno importante di tutti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49333,6 +49477,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the order of the fields, select the field you want to move and click the up or down arrow to the right of the &lt;f0&gt;Fields in the Query&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095809Z" creationid="manuel" creationdate="20181009T095809Z">
+        <seg>Per cambiare l'ordine dei campi, selezionate il campo che volete spostare e fate clic sulla freccia verso l'alto o la freccia verso il basso alla destra dei &lt;f0&gt;Comandi di campo nella ricerca&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the page style, right-click on this field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060253Z">
@@ -50322,6 +50474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164529Z">
         <seg>Collegare il formulario ad un database o ad una sorgente dati in modo da consentire ad un utente di inserirvi le informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To list the artists in alphabetical order (a-z), select &lt;f0&gt;Ascending&lt;/f0&gt; on the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T100149Z" creationid="manuel" creationdate="20181009T100149Z">
+        <seg>Per elencare gli Interpreti in ordine alfabetico (a-z), selezionate &lt;f0&gt;Crescente&lt;/f0&gt; sulla destra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52211,6 +52371,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192155Z">
         <seg>Modifiche non salvate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Up to four fields can be used to sort the information of our query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095830Z" creationid="manuel" creationdate="20181009T095830Z">
+        <seg>Per ordinare le informazioni della ricerca è possibile indicare fino a quattro campi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55125,6 +55293,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T144937Z" creationid="Alessia Mazzarini" creationdate="20181007T144937Z">
         <seg>Quali &lt;f0&gt;pagine&lt;/f0&gt; stampare, il numero di copie, e se fascicolare copie multiple (sezione &lt;f1&gt;Intervallo e copie&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Which field is most important?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095846Z" creationid="manuel" creationdate="20181009T095846Z">
+        <seg>quale sia il campo più importante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58201,6 +58377,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and select &lt;f1&gt;Ascending&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T100557Z" creationid="manuel" creationdate="20181009T100557Z">
+        <seg>e selezione &lt;f1&gt;Crescente&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>antialiasing screen font</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084859Z">
@@ -58665,10 +58849,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>creating queries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T100712Z" creationid="manuel" creationdate="20181009T100712Z">
+        <seg>creazione ricerche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>creating tables</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T103622Z">
         <seg>creazione delle tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>creating using Design View</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T100722Z" creationid="manuel" creationdate="20181009T100722Z">
+        <seg>creare usando la Visualizzazione struttura</seg>
       </tuv>
     </tu>
     <tu>
@@ -60673,6 +60873,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>search conditions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T100646Z" creationid="manuel" creationdate="20181009T100646Z">
+        <seg>condizioni di ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>security options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T150612Z">
@@ -60805,6 +61013,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T134836Z">
         <seg>cattura alla griglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sort order (database fields)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095814Z" creationid="manuel" creationdate="20181009T095814Z">
+        <seg>tipo di ordinamento (campi database)</seg>
       </tuv>
     </tu>
     <tu>
