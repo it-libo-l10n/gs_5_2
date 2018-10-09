@@ -175,6 +175,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Queries that require calculations are best created with Design view.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093741Z" creationid="manuel" creationdate="20181009T093741Z">
+        <seg>(È preferibile creare in Vista struttura le ricerche che richiedono dei calcoli.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(See Caution below for the reason why.) Click &lt;f0&gt;Create&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180807T085617Z">
@@ -13091,6 +13099,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Create&lt;/f0&gt; to populate the new table with the spreadsheet data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093110Z" creationid="manuel" creationdate="20181009T093110Z">
+        <seg>Fate clic su &lt;f0&gt;Crea&lt;/f0&gt; per popolare la nuova tabella con i dati del foglio di calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Create&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T182937Z">
@@ -17626,8 +17642,8 @@
       <tuv lang="EN">
         <seg>Drag the sheet tab in the bottom of the Calc window into the table list of the database file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181007T011414Z" creationid="luke" creationdate="20181007T011414Z">
-        <seg>Drag the sheet tab in the bottom of the Calc window into the table list of the database file.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T091722Z" creationid="luke" creationdate="20181007T011414Z">
+        <seg>Trascina la scheda del foglio nella parte inferiore della finestra di Calc nell'elenco della tabella del file del database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17896,6 +17912,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drop the sheet by releasing the mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T092230Z" creationid="manuel" creationdate="20181009T092230Z">
+        <seg>Rilasciate il foglio rilasciando il pulsante del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drop-down list from which to select an item.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175010Z">
@@ -18140,6 +18164,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T184906Z">
         <seg>Ognuno di questi pannelli contiene un pulsante &lt;f0&gt;Altre opzioni&lt;/f0&gt;, che apre una finestra di dialogo contenente un maggior numero di opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each option is explained in the Help (F1).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T092754Z" creationid="manuel" creationdate="20181009T092754Z">
+        <seg>Ogni opzione è spiegata nella Guida (F1).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29296,6 +29328,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the main database window (Figure &lt;t0&gt;208&lt;/t0&gt;), click the Queries icon in the Database section, then in the Tasks section, click &lt;f1&gt;Use Wizard to Create Query&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T094105Z" creationid="manuel" creationdate="20181009T093910Z">
+        <seg>Nella finestra principale del database (Figura &lt;t0&gt;208&lt;/t0&gt;), fate clic sull'icona Ricerche nella sezione Database, poi, nella sezione Attività, fate clic su &lt;f1&gt;Usa procedura guidata per la creazione di ricerche&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the main database window, click the &lt;f0&gt;Save&lt;/f0&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T063954Z">
@@ -30008,6 +30048,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It does not copy formulas.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093352Z" creationid="manuel" creationdate="20181009T093352Z">
+        <seg>Non copia le formule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It does not matter which of these two files you select; both will be imported.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T085829Z">
@@ -30172,6 +30220,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082502Z">
         <seg>È possibile creare tra due tabelle una relazione basata su più di una coppia di campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to obtain a single answer or multiple answers, depending upon the circumstances.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093806Z" creationid="manuel" creationdate="20181009T093806Z">
+        <seg>È possibile ottenere una o più risposte, a seconda delle circostanze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34697,6 +34753,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the first page of the wizard, select the options of the copy operation and name the database table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T092713Z" creationid="manuel" creationdate="20181009T092713Z">
+        <seg>Nella prima pagina della procedura guidata, selezionate le opzioni dell'operazione di copia e denominate la tabella del database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the left is the folder structure of the user space in the server.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T202849Z">
@@ -34733,6 +34797,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171133Z">
         <seg>Sul lato destro della pagina &lt;f0&gt;Impostazioni Lingua – Lingue&lt;/f0&gt;, modificate a vostro piacimento &lt;f1&gt;Interfaccia utente&lt;/f1&gt;, &lt;f2&gt;Impostazione locale&lt;/f2&gt;, &lt;f3&gt;Valuta predefinita&lt;/f3&gt;, e &lt;f4&gt;Lingue predefinite per i documenti&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the second page of the wizard, select the sheet columns you want to copy into the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T092841Z" creationid="manuel" creationdate="20181009T092841Z">
+        <seg>Nella seconda pagina della procedura guidata, selezionate le colonne del foglio che desiderate copiare nella tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the third page of the wizard, define the data type of each column of your table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093012Z" creationid="manuel" creationdate="20181009T093012Z">
+        <seg>Nella terza pagina della procedura guidata, definite il tipo di dati di ciascuna colonna della tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36725,6 +36805,38 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063501Z">
         <seg>Le ricerche sono progettate solo per rispondere a una domanda sul database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Queries are used to get specific information from a database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093411Z" creationid="manuel" creationdate="20181009T093411Z">
+        <seg>Le ricerche servono ad ottenere specifiche informazioni da un database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Queries created by the wizard provide a list or lists of information based upon what one wants to know.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093759Z" creationid="manuel" creationdate="20181009T093759Z">
+        <seg>Le ricerche prodotte dalla Creazione guidata forniscono uno o più elenchi di informazioni, in base a ciò che si vuole conoscere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Query Wizard (database)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093821Z" creationid="manuel" creationdate="20181009T093821Z">
+        <seg>Creazione guidata ricerca (database)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Query results are special tables within the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093508Z" creationid="manuel" creationdate="20181009T093508Z">
+        <seg>I risultati di una ricerca sono tabelle particolari all'interno del database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41153,6 +41265,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since different tables may contain the same field names, the format for naming fields in a query is &lt;f0&gt;Table name.field name&lt;/f0&gt;, with a period (.) between the table name and the field name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T094251Z" creationid="manuel" creationdate="20181009T094251Z">
+        <seg>Dal momento che tabelle differenti possono contenere campi con lo stesso nome, il formato usato per identificare i campi della ricerca è &lt;f0&gt;Nome tabella.nome campo&lt;/f0&gt;, con un punto (.) tra il nome della tabella e il nome del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since music always has artists, set &lt;f1&gt;Entry Required&lt;/f1&gt; to &lt;f2&gt;Yes&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T063910Z">
@@ -43105,6 +43225,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;i2/&gt;&lt;i3/&gt;Query Wizard window opens (Figure &lt;t4&gt;241&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T094023Z" creationid="manuel" creationdate="20181009T094023Z">
+        <seg>Si aprirà la finsetra &lt;i2/&gt;&lt;i3/&gt;Creazione guidata ricerca (Figura &lt;t4&gt;241&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Add Commands dialog is the same as for adding commands to menus (Figure &lt;t0&gt;353&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T093849Z">
@@ -43189,6 +43317,23 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091936Z">
         <seg>Si aprirà la finestra di dialogo Copia tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Copy table operation copies only values and strings from the Calc spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093247Z" creationid="manuel" creationdate="20181009T093247Z">
+        <seg>L'operazione Copia tabella copia solo i valori e le stringhe dal foglio di calcolo di Calc.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Copy table wizard appears to help you migrate the content to the database table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T092605Z" creationid="manuel" creationdate="20181009T092605Z">
+        <seg>Viene visualizzata la procedura guidata Copia tabella per facilitare la migrazione del contenuto nella tabella del database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45154,6 +45299,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The information we might want from the Fuel table includes what our fuel economy is.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093635Z" creationid="manuel" creationdate="20181009T093635Z">
+        <seg>Tra le informazioni che si possono ricavare dai dati della tabella Carburante c'è il consumo medio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The information we want is what albums are by a certain musical group or individual (the album’s author).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T094045Z" creationid="manuel" creationdate="20181009T094045Z">
+        <seg>Si vuole sapere quali album sono di un certo gruppo o musicista (l'autore dell'album).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The insertion of line breaks or new paragraphs does not terminate text editing or deselect the text frame.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105723Z">
@@ -45534,6 +45695,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T161911Z">
         <seg>A seconda delle impostazioni del vostro sistema operativo, il puntatore del mouse potrebbe cambiare aspetto e comprendere un segno più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The mouse pointer shows a square with a + sign.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T091800Z" creationid="manuel" creationdate="20181009T091800Z">
+        <seg>Il puntatore del mouse mostra un quadrato con un segno +.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49516,6 +49685,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To demonstrate the use of queries, we will use two different methods:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093512Z" creationid="manuel" creationdate="20181009T093512Z">
+        <seg>Per mostrare l'utilizzo delle ricerche, verranno usati due diversi metodi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To display &lt;i0/&gt;the &lt;f1&gt;color palette currently in use (Figure&lt;/f1&gt; &lt;t2&gt;168&lt;/t2&gt;), select &lt;f3&gt;View &gt; Toolbars &gt; Color Bar&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T150526Z">
@@ -53087,6 +53264,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using our CD-Collection table, we will create a list of albums by a particular artist.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093514Z" creationid="manuel" creationdate="20181009T093514Z">
+        <seg>Usando la tabella Collezione CD, verrà creato un elenco di album di un particolare artista, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184546Z">
@@ -53275,6 +53460,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155850Z">
         <seg>Usare il menu Stili in Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Wizard to create a query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093754Z" creationid="manuel" creationdate="20181009T093754Z">
+        <seg>Utilizzo della Creazione guidata per creare una ricerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -53543,6 +53736,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We can include when each album was bought.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T094058Z" creationid="manuel" creationdate="20181009T094058Z">
+        <seg>È anche possibile includere la data di acquisto di ogni album.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We have used &lt;f0&gt;FuelID&lt;/f0&gt; for convenience, so we know to which table it belongs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104220Z">
@@ -53643,6 +53844,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070817Z">
         <seg>Verranno ora creati due rapporti: il primo elencherà le spese di ogni giorno (escluse quelle per il carburante) e il secondo elencherà delle statistiche sul carburante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will do this using Design View.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093655Z" creationid="manuel" creationdate="20181009T093655Z">
+        <seg>Ciò verrà fatto utilizzando la Vista struttura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will do this using the Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093707Z" creationid="manuel" creationdate="20181009T093516Z">
+        <seg>Ciò verrà fatto tramite la Creazione guidata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54460,6 +54677,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192107Z">
         <seg>Quando usate la finestra di dialogo Apri, navigate fino alla cartella di vostro interesse e selezionate il file desiderato, quindi fate clic su &lt;f0&gt;Apri&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When working with a query, more than one table can be used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T094128Z" creationid="manuel" creationdate="20181009T094128Z">
+        <seg>Quando lavorate con una ricerca, potete usare più di una tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60116,6 +60341,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T081036Z">
         <seg>ricerche (database)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>query (database)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093810Z" creationid="manuel" creationdate="20181009T093810Z">
+        <seg>ricerca (database)</seg>
       </tuv>
     </tu>
     <tu>
