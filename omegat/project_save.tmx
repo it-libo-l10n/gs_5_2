@@ -31016,6 +31016,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice &lt;i0/&gt;can export documents to &lt;is1/&gt;PDF&lt;ie2/&gt; (Portable Document Format).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T165552Z" creationid="Alessia Mazzarini" creationdate="20181011T165552Z">
+        <seg>Con LibreOffice &lt;i0/&gt;è possibile esportare file in &lt;is1/&gt;PDF&lt;ie2/&gt; (Portable Document Format).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice &gt; Preferences</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173353Z">
