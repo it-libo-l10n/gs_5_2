@@ -46259,6 +46259,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The process and dialogs are the same for Writer, Calc, Impress, and Draw, with a few minor differences mentioned in this section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T165733Z" creationid="Alessia Mazzarini" creationdate="20181011T165733Z">
+        <seg>I processi e le finestre di dialogo sono gli stessi per Writer, Calc, Impress e Draw, con alcune differenze menzionate in questa sezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The publication type defines the basic settings for the intended export.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T122833Z">
@@ -48127,6 +48135,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104642Z">
         <seg>Ciò include l'importazione e l'esportazione di oggetti grafici, &lt;i2/&gt;e&lt;i3/&gt; la conversione da un formato grafico ad un altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This industry-standard file format is ideal for sending the file to someone else to view using Adobe Reader or other PDF viewers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T165616Z" creationid="Alessia Mazzarini" creationdate="20181011T165616Z">
+        <seg>Questo formato standard è ideale per l'invio di file che potranno essere aperti usando Adobe Acrobat Reader o altri visualizzatori PDF.</seg>
       </tuv>
     </tu>
     <tu>
