@@ -36961,6 +36961,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quick export to PDF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T170219Z" creationid="Alessia Mazzarini" creationdate="20181011T170219Z">
+        <seg>Esportazione veloce in PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quick printing</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185607Z">
@@ -52383,6 +52391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unlike &lt;f0&gt;Save As&lt;/f0&gt;, the &lt;f1&gt;Export&lt;/f1&gt; command writes a copy of the current document in a new file with the chosen format, but keeps the current document and format open in your session.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T170154Z" creationid="Alessia Mazzarini" creationdate="20181011T170154Z">
+        <seg>A differenza del comando &lt;f0&gt;Salva con nome&lt;/f0&gt;, il comando &lt;f1&gt;Esporta&lt;/f1&gt; scrive una copia del documento corrente in un nuovo file dal formato scelto, lasciando aperto nella sessione il documento e il formato corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unlike other file formats, ODF (ISO-IEC 26300:2015) is an open standard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T204446Z">
@@ -59413,6 +59429,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160215Z">
         <seg>esporta HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>export directly as PDF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T170225Z" creationid="Alessia Mazzarini" creationdate="20181011T170225Z">
+        <seg>esporta direttamente come file PDF</seg>
       </tuv>
     </tu>
     <tu>
