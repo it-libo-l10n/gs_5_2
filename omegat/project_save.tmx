@@ -9961,6 +9961,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Another choice is to use &lt;f0&gt;&lt;f1&gt;File &gt; &lt;s2/&gt;Export&lt;/f1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T172349Z" creationid="Alessia Mazzarini" creationdate="20181011T172349Z">
+        <seg>Un'altra possibilità è quella di usare &lt;f0&gt;&lt;f1&gt;File &gt; &lt;s2/&gt;Esporta&lt;/f1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Another could list the expense totals for each day of the vacation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070734Z">
@@ -40009,6 +40017,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the PDF file format, file name and location and click &lt;f3&gt;Export&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T172453Z" creationid="Alessia Mazzarini" creationdate="20181011T172453Z">
+        <seg>Selezionate il formato file PDF, il nome del file e la posizione, quindi fate clic su &lt;f3&gt;Esporta&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the Standard library and click &lt;f0&gt;New Module&lt;/f0&gt; to create a &lt;i1/&gt;new module to contain the macro.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T201320Z">
@@ -40043,8 +40059,8 @@
       <tuv lang="EN">
         <seg>Select the appropriate settings, and then click&lt;f1&gt; Export.&lt;/f1&gt; Then you are asked to enter the location and file name of the PDF to be created, and click&lt;f2&gt; Save&lt;/f2&gt; to export the file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181007T004959Z" creationid="luke" creationdate="20181007T004959Z">
-        <seg>Select the appropriate settings, and then click&lt;f1&gt; Export.&lt;/f1&gt; Then you are asked to enter the location and file name of the PDF to be created, and click&lt;f2&gt; Save&lt;/f2&gt; to export the file.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T172259Z" creationid="luke" creationdate="20181007T004959Z">
+        <seg>Selezionate le impostazioni appropriate e poi fate clic su&lt;f1&gt; Esporta.&lt;/f1&gt; Vi verrà chiesto di immettere il percorso e il nome del file PDF che state creando, e di fare clic su&lt;f2&gt; Salva&lt;/f2&gt; per esportare il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48507,6 +48523,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This opens the Export dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T172422Z" creationid="Alessia Mazzarini" creationdate="20181011T172422Z">
+        <seg>Così facendo si aprirà la finestra di dialogo Esporta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This opens the Field Format window (Figure &lt;t3&gt;213&lt;/t3&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180827T105401Z">
@@ -48783,6 +48807,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094328Z">
         <seg>Tale testo diviene quindi parte dell'oggetto grafico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This then opens the PDF Options dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T172536Z" creationid="Alessia Mazzarini" creationdate="20181011T172536Z">
+        <seg>Si aprirà quindi la finestra di dialogo Opzioni PDF.</seg>
       </tuv>
     </tu>
     <tu>
