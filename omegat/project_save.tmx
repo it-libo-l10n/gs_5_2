@@ -43891,6 +43891,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The PDF Options dialog opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T171922Z" creationid="Alessia Mazzarini" creationdate="20181011T171922Z">
+        <seg>Si aprirà la finestra di dialogo Opzioni PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Page Count field inserts the total number of pages in the document, as shown on the Statistics tab of the document’s Properties window (&lt;f0&gt;File &gt; Properties&lt;/f0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T102321Z">
@@ -48031,6 +48039,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105737Z">
         <seg>Questa finestra di dialogo è composta da tre schede: &lt;f9&gt;Linea&lt;/f9&gt;, &lt;f10&gt;Stili linee&lt;/f10&gt;, ed &lt;f11&gt;Estremità linee&lt;/f11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog has six pages (General, Initial View, User Interface, Links, Security, and Digital Signatures).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T172115Z" creationid="Alessia Mazzarini" creationdate="20181011T172115Z">
+        <seg>Questa finestra è composta da sei pagine (Generale, Visualizzazione iniziale, Interfaccia utente, Collegamenti, Sicurezza e Firme digitali).</seg>
       </tuv>
     </tu>
     <tu>
