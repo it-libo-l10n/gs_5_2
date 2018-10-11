@@ -13715,6 +13715,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f4&gt;Export&lt;/f4&gt; when all the selections have been made.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T172618Z" creationid="Alessia Mazzarini" creationdate="20181011T172618Z">
+        <seg>Fate clic su &lt;f4&gt;Esporta&lt;/f4&gt; dopo aver selezionato tutte le opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f4&gt;Yes&lt;/f4&gt; to confirm the deletion.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164728Z">
@@ -35781,6 +35789,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T212535Z">
         <seg>PCX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T172644Z" creationid="Alessia Mazzarini" creationdate="20181011T172644Z">
+        <seg>finestra di dialogo Opzioni PDF</seg>
       </tuv>
     </tu>
     <tu>
