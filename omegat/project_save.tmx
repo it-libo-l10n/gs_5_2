@@ -14782,6 +14782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;i0/&gt;&lt;f1&gt;Export Directly as PDF&lt;/f1&gt; icon (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) to export the entire document using the PDF settings you most recently selected on the PDF Options dialog (see below).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T171700Z" creationid="Alessia Mazzarini" creationdate="20181011T171700Z">
+        <seg>Fate clic sull'icona &lt;i0/&gt;&lt;f1&gt;Esporta direttamente come file PDF&lt;/f1&gt; (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) per esportare l'intero documento utilizzando le impostazioni PDF selezionate nella finestra di dialogo Opzioni PDF (vedi sotto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;i0/&gt;&lt;f1&gt;Print File Directly&lt;/f1&gt; icon (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) to send the entire document to the default printer defined for your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T093934Z" creationid="Alessia Mazzarini" creationdate="20181007T093710Z">
@@ -15498,6 +15506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175525Z">
         <seg>Controllo delle funzioni di correzione automatica di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Controlling PDF content and quality</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T171725Z" creationid="Alessia Mazzarini" creationdate="20181011T171725Z">
+        <seg>Controllo del contenuto e della qualità dei documenti PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -22924,6 +22940,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T095322Z" creationid="Alessia Mazzarini" creationdate="20181007T095322Z">
         <seg>Per maggiori controlli sulle funzionalità di stampa, usate la finestra di dialogo Stampa (&lt;f0&gt;File &gt; Stampa&lt;/f0&gt; oppure &lt;f1&gt;Ctrl+P&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more control over the content and quality of the resulting PDF, use &lt;f0&gt;File &gt; Export as PDF&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T171859Z" creationid="Alessia Mazzarini" creationdate="20181011T171859Z">
+        <seg>Per un maggior controllo sul contenuto e sulla qualità del PDF risultante, utilizzate &lt;f0&gt;File &gt; Esporta nel formato FilePDF&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56061,6 +56085,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180639Z">
         <seg>Sì.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are asked to enter the file name and location for the PDF file, but you do not get a chance to choose a page range, the image compression, or other options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T171712Z" creationid="Alessia Mazzarini" creationdate="20181011T171712Z">
+        <seg>Vi verrà chiesto di inserire il nome del file e il percorso per il file PDF, ma non avrete la possibilità di scegliere un intervallo di pagine, la compressione dell'immagine, o altre opzioni.</seg>
       </tuv>
     </tu>
     <tu>
