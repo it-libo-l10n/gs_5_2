@@ -13035,6 +13035,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Base &gt; Databases&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T165928Z" creationid="manuel" creationdate="20181015T165928Z">
+        <seg>Scegliete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Base &gt; Database&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Print&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T094121Z">
@@ -15346,6 +15354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093942Z">
         <seg>Fate clic sul riquadro grigio contenente il nome del campo per il campo ID della tabella (l'intestazione della colonna).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the gray box to the left of the row (the row header) you want to select if only selecting one row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164955Z" creationid="manuel" creationdate="20181015T164955Z">
+        <seg>Fate clic sulla casella grigia a sinistra della riga (l'intestazione della riga) che desiderate selezionare se avete bisogno di una sola riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52607,6 +52623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remove a single field from the &lt;f0&gt;Table Column(s) &lt;/f0&gt;list, click the field and use the &lt;f1&gt;single arrow &lt;/f1&gt;pointing to the left.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T165158Z" creationid="manuel" creationdate="20181015T165158Z">
+        <seg>Per rimuovere un campo dall'elenco &lt;f0&gt;Colonne tabella&lt;/f0&gt;, fateci clic sopra ed utilizzate la &lt;f1&gt;freccia singola&lt;/f1&gt; che punta a sinistra.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remove a split view, do one of the following:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210214Z">
@@ -53147,6 +53171,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T210102Z">
         <seg>Per avviare direttamente un componente di LibreOffice usando Quickstart:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start over, click the &lt;f0&gt;double arrow pointing to the left.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T165108Z" creationid="manuel" creationdate="20181015T165108Z">
+        <seg>Per ricominciare la procedura, spostando tutti i campi indietro nell'elenco, fate clic sulla &lt;f0&gt;doppia freccia&lt;/f0&gt; che punta verso sinistra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54596,6 +54628,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152305Z">
         <seg>Usate i tasti freccia per spostarvi all'inizio della successiva porzione di testo da selezionare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the default settings as in Figure &lt;t0&gt;268&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T165028Z" creationid="manuel" creationdate="20181015T165028Z">
+        <seg>Utilizzate la configurazione standard mostrata nella Figura &lt;t0&gt;268&lt;/t0&gt;</seg>
       </tuv>
     </tu>
     <tu>
