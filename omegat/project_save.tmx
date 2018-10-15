@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Figure &lt;t1&gt;252&lt;/t1&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T103828Z" creationid="manuel" creationdate="20181015T103828Z">
+        <seg>(Figura &lt;t1&gt;252&lt;/t1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(For more information about keyboard selection of text, see the topic “Navigating and selecting with the keyboard” in the &lt;f0&gt;LibreOffice &lt;/f0&gt;Help &lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;F1&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T152217Z">
@@ -7240,6 +7248,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;("End-Reading"."Odometer" - "Fuel"."Odometer")/"End-Reading"."FuelQuantity" &lt;/f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T105433Z" creationid="manuel" creationdate="20181015T105433Z">
+        <seg>&lt;f1&gt;("Ultima_lettura".”Chilometraggio” – “Carburante".”Chilometraggio”)/"Ultima_lettura"."QuantitàCarburante" &lt;/f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;H&lt;/f1&gt;ere the Automatic option uses an icon set compatible with your operating system and choice of desktop: for example, KDE or Gnome on Linux.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084848Z">
@@ -7332,6 +7348,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T170028Z">
         <seg>&lt;f1&gt;Potete digitare alcuni caratteri nella casella in alto su &lt;/f1&gt;&lt;f2&gt; &lt;f3&gt;Selezione&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; per filtrare l'elenco nella casella di selezione.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;"End-Reading"."Odometer" - "Fuel"."Odometer"&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T105050Z" creationid="manuel" creationdate="20181015T105050Z">
+        <seg>&lt;f2&gt;"Ultima_lettura".”Chilometraggio” – “Carburante".”Chilometraggio”&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11743,6 +11767,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T132309Z">
         <seg>Calc lavora con degli elementi chiamati &lt;i0/&gt;&lt;f1&gt;fogli elettronici&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculate fuel economy: Type &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T105249Z" creationid="manuel" creationdate="20181015T105249Z">
+        <seg>Calcolate il consumo carburante: digitate &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculate the distance traveled:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T104019Z" creationid="manuel" creationdate="20181015T104019Z">
+        <seg>Calcolo della distanza percorsa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17592,6 +17632,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click &lt;f0&gt;Odometer&lt;/f0&gt; in the End-Reading query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T103617Z" creationid="manuel" creationdate="20181015T103617Z">
+        <seg>Nella ricerca Ultima_lettura fate doppio clic sul campo &lt;f0&gt;Chilometraggio&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-click &lt;f0&gt;Odometer&lt;/f0&gt; in the Fuel table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T103704Z" creationid="manuel" creationdate="20181015T103704Z">
+        <seg>Nella tabella Carburante fate doppio clic su &lt;f0&gt;Chilometraggio&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click anywhere between the left and right indent icons on the ruler to open the &lt;f2&gt;Tabs&lt;/f2&gt; page of the Paragraph dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072057Z">
@@ -20420,6 +20476,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T102459Z" creationid="manuel" creationdate="20181015T102452Z">
         <seg>Figura &lt;seq0&gt;250&lt;/seq0&gt;: tabelle in questa ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;251&lt;/seq0&gt;: Added fields to the query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T103714Z" creationid="manuel" creationdate="20181015T103714Z">
+        <seg>Figura &lt;seq0&gt;251&lt;/seq0&gt;: campi aggiunti alla ricerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -29296,6 +29360,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Alias row, type &lt;f0&gt;Distance&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T105123Z" creationid="manuel" creationdate="20181015T105123Z">
+        <seg>Nella riga Alias, digitate &lt;f0&gt;Distanza&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the AutoText dialog, type a name for the AutoText in the &lt;f0&gt;Name&lt;/f0&gt; box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144107Z">
@@ -31100,6 +31172,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180922T131739Z">
         <seg>Imparare a leggere le macro registrare è un buon punto di partenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Leave the &lt;f0&gt;Visible&lt;/f0&gt; cell of this column unchecked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T104911Z" creationid="manuel" creationdate="20181015T104911Z">
+        <seg>Lasciate deselezionata la cella &lt;f0&gt;Visibile&lt;/f0&gt;su questa colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42705,6 +42785,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 8: Enter the FuelID difference field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T103733Z" creationid="manuel" creationdate="20181015T103733Z">
+        <seg>Passo 8: Inserire il campo differenza IDCarburante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 8: Overview</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T081557Z">
@@ -52271,6 +52359,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type &lt;f0&gt;"End-Reading"."FuelID" - "Fuel"."FuelID"&lt;/f0&gt; in the field to the right of the Odometer field of the Fuel Table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T103819Z" creationid="manuel" creationdate="20181015T103819Z">
+        <seg>Digitate &lt;f0&gt;"Ultima_lettura"."IDCarburante" - "Carburante"."IDCarburante"&lt;/f0&gt; nel campo a destra del campo Chilometraggio della tabella Carburante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type &lt;f0&gt;='1' &lt;/f0&gt;in the Criterion cell of this column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T104008Z" creationid="manuel" creationdate="20181015T104008Z">
+        <seg>Digitate &lt;f0&gt;='1'&lt;/f0&gt; nella cella Criteri di questa colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type &lt;f0&gt;&gt;'0' &lt;/f0&gt;in the Criterion cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T105205Z" creationid="manuel" creationdate="20181015T105205Z">
+        <seg>Digitate &lt;f0&gt;&gt;'0' &lt;/f0&gt;nella cella Criteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type &lt;f0&gt;&gt;0&lt;/f0&gt; in the Criterion cell under FuelID in the query table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100647Z" creationid="manuel" creationdate="20181015T100647Z">
@@ -52363,6 +52475,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T134227Z">
         <seg>Digitate almeno un carattere, due trattini (tratti d'unione), e almeno un altro carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type in the Field cell (Figure &lt;t0&gt;253&lt;/t0&gt;):&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T104944Z" creationid="manuel" creationdate="20181015T104944Z">
+        <seg>Digitate nella cella Campo (Figura &lt;t0&gt;253&lt;/t0&gt;):&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54316,6 +54436,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T145005Z">
         <seg>La modifica prevede l'inserimento,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We want the difference between the FuelID value of the Fuel table and FuelID value of the End-Reading query to equal one (1).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T103742Z" creationid="manuel" creationdate="20181015T103742Z">
+        <seg>Si vuole ora impostare ad uno (1) la differenza tra il valore del campo IDCarburante della tabella Carburante ed il valore del campo IDCarburante della ricerca Ultima_Lettura.</seg>
       </tuv>
     </tu>
     <tu>
