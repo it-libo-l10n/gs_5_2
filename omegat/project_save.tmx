@@ -4736,6 +4736,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Layout of headers and footers &lt;/f0&gt;has no possible selections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T154646Z" creationid="manuel" creationdate="20181015T154646Z">
+        <seg>Per la &lt;f0&gt;disposizione di intestazione e piè di pagina&lt;/f0&gt; non sono possibili selezioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Layout&lt;/f0&gt;: Here you place title, text, and object placeholders on your page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T160445Z">
@@ -8955,8 +8963,8 @@
       <tuv lang="EN">
         <seg>Add a space to separate SnackCost into Snack Cost.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112250Z" creationid="manuel" creationdate="20181015T112250Z">
-        <seg>usando la barra spaziatrice dividete SpeseSnack in due parole.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T153514Z" creationid="manuel" creationdate="20181015T112250Z">
+        <seg>Usate la barra spaziatrice per dividere SpeseSnack in due parole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11422,6 +11430,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154857Z">
         <seg>Sarebbe anche utile se ci fosse un modo per scrivere delle note.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But to do these things, you must use Report Builder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T155536Z" creationid="manuel" creationdate="20181015T155022Z">
+        <seg>Ma per fare queste cose, dovete usare il Generatore rapporto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20746,8 +20762,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;261&lt;/seq0&gt;: Report Builder template determined by the Report Wizard</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112346Z" creationid="manuel" creationdate="20181015T112346Z">
-        <seg>Figura &lt;seq0&gt;261&lt;/seq0&gt;: il modello del Report Builder determinato dalla Creazione guidata rapporto</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T155558Z" creationid="manuel" creationdate="20181015T112346Z">
+        <seg>Figura &lt;seq0&gt;261&lt;/seq0&gt;: il modello del Generatore rapporto determinato dalla Creazione guidata rapporto</seg>
       </tuv>
     </tu>
     <tu>
@@ -23396,6 +23412,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T205246Z">
         <seg>Ad esempio, se avete due fogli elettronici nella stessa cartella, collegati l'uno con l'altro, e spostate la cartella in una nuova posizione, un collegamento assoluto non funzionerà più, mentre un collegamento relativo continuerà a funzionare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instructions on how to use the Report Builder, see Chapter 6, Reports, in the &lt;f1&gt;Base Handbook&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T160153Z" creationid="manuel" creationdate="20181015T160153Z">
+        <seg>Potete trovare istruzioni su come utilizzare il Generatore rapporto nel Capitolo 6, Rapporti, della Guida a Base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27362,8 +27386,8 @@
       <tuv lang="EN">
         <seg>If we edit our report, we open Report Builder with this template.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112447Z" creationid="manuel" creationdate="20181015T112447Z">
-        <seg>Modificando il rapporto, si apre il Report Builder con tale modello.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T155415Z" creationid="manuel" creationdate="20181015T112447Z">
+        <seg>Modificando il rapporto, si apre il Generatore rapporto con tale modello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38267,24 +38291,32 @@
       <tuv lang="EN">
         <seg>Report Builder</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112434Z" creationid="manuel" creationdate="20181015T112434Z">
-        <seg>Procedura guidata Rapporti</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T155519Z" creationid="manuel" creationdate="20181015T112434Z">
+        <seg>Generatore rapporto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Report Builder can also create reports by itself.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112509Z" creationid="manuel" creationdate="20181015T112509Z">
-        <seg>Il Report Builder può anche creare rapporti autonomamente.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T155702Z" creationid="manuel" creationdate="20181015T112509Z">
+        <seg>Il Generatore rapporto può anche creare rapporti autonomamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Report Builder is installed with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T155504Z" creationid="manuel" creationdate="20181015T155325Z">
+        <seg>Il Generatore rapporto è installato con LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Report Builder: another way to create reports</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112427Z" creationid="manuel" creationdate="20181015T112427Z">
-        <seg>Report Builder: un altro modo per creare rapporti</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T155111Z" creationid="manuel" creationdate="20181015T112427Z">
+        <seg>Generatore rapporti: un altro modo per creare rapporti</seg>
       </tuv>
     </tu>
     <tu>
@@ -39937,10 +39969,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Columnar, three columns&lt;/f0&gt; for the Layout of data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T154549Z" creationid="manuel" creationdate="20181015T154549Z">
+        <seg>Selezionate &lt;f0&gt;Standard&lt;/f0&gt; per la disposizione dei dati.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Connect to an existing database&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112623Z" creationid="manuel" creationdate="20181015T112623Z">
         <seg>Selezionate l'opzione &lt;f0&gt;Collega a un database esistente&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Create report now&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T154812Z" creationid="manuel" creationdate="20181015T154812Z">
+        <seg>Selezionate &lt;f0&gt;Crea rapporto adesso&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40331,8 +40379,8 @@
       <tuv lang="EN">
         <seg>Select Landscape as the Orientation for the page layout.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112337Z" creationid="manuel" creationdate="20181015T112337Z">
-        <seg>Selezionate l'orientamento Orizzontale per il layout della pagina.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T154701Z" creationid="manuel" creationdate="20181015T112337Z">
+        <seg>Selezionate l'orientamento Orizzontale per la disposizione della pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42011,8 +42059,8 @@
       <tuv lang="EN">
         <seg>Shorten Miscellaneous to Misc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112248Z" creationid="manuel" creationdate="20181015T112248Z">
-        <seg>Lasciate quindi il primo campo com'è; </seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T153414Z" creationid="manuel" creationdate="20181015T112248Z">
+        <seg>Lasciate quindi il primo campo com'è. </seg>
       </tuv>
     </tu>
     <tu>
@@ -42293,6 +42341,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T072348Z">
         <seg>Dal momento che questa tabella include acquisti di carburante effettuati anche al di fuori del periodo di vacanze, occorre creare una ricerca che contenga solo gli acquisti di carburante fatti durante il periodo di vacanza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since we are grouping by the date, use the &lt;f0&gt;&gt;&lt;/f0&gt; button to move the &lt;f1&gt;Date&lt;/f1&gt; field to the Groupings list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T153648Z" creationid="manuel" creationdate="20181015T153648Z">
+        <seg>Dato che dovete raggruppare i dati in base alla data, usate il pulsante &lt;f0&gt;&gt;&lt;/f0&gt; per spostare il campo &lt;f1&gt;Data&lt;/f1&gt; nell'elenco Raggruppamenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43259,8 +43315,8 @@
       <tuv lang="EN">
         <seg>Step 5: Choose layout</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112324Z" creationid="manuel" creationdate="20181015T112324Z">
-        <seg>Passo 5: Scelta del layout</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T153729Z" creationid="manuel" creationdate="20181015T112324Z">
+        <seg>Passo 5: Scelta della disposzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -47307,6 +47363,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The report (Figure &lt;t0&gt;262&lt;/t0&gt;) has been created, but it needs some editing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T154843Z" creationid="manuel" creationdate="20181015T154843Z">
+        <seg>Il rapporto (Figura &lt;t0&gt;262&lt;/t0&gt;) è stato creato, ma necessita di alcune modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The report will be identical before and after you make the change.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063718Z">
@@ -51005,6 +51069,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do this, click &lt;f0&gt;Create Report in Design View&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T155736Z" creationid="manuel" creationdate="20181015T155736Z">
+        <seg>Per fare ciò, fate clic su &lt;f0&gt;Crea rapporto in vista struttura&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do this, press &lt;f0&gt;Ctrl+Spacebar&lt;/f0&gt; instead of just &lt;f1&gt;Spacebar&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T202415Z">
@@ -53583,6 +53655,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;f0&gt;Columnar, three columns &lt;/f0&gt;for the layout.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T154129Z" creationid="manuel" creationdate="20181015T154129Z">
+        <seg>Usate l'opzione &lt;f0&gt;Standard&lt;/f0&gt; per la disposizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f0&gt;Ctrl+Alt+Page Down&lt;/f0&gt; to move to the next comment and &lt;f1&gt;Ctrl+Alt+Page Up&lt;/f1&gt; to move to the previous comment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T083018Z">
@@ -56083,8 +56163,8 @@
       <tuv lang="EN">
         <seg>When we used the Report Wizard, we created a template in Report Builder for our report.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112443Z" creationid="manuel" creationdate="20181015T112443Z">
-        <seg>Utilizzando la Creazione guidata rapporto, è stato creato un modello in Report Builder per il rapporto.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T155455Z" creationid="manuel" creationdate="20181015T112443Z">
+        <seg>Utilizzando la Creazione guidata rapporto, è stato creato un modello in Generatore rapporto per il rapporto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56701,6 +56781,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173318Z">
         <seg>Windows o Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With &lt;i0/&gt;Report Builder, you can create complex and stylish database reports.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T155509Z" creationid="manuel" creationdate="20181015T155250Z">
+        <seg>Con il &lt;i0/&gt;Generatore rapporto potete creare rapporti di database raffinati e complessi.</seg>
       </tuv>
     </tu>
     <tu>
