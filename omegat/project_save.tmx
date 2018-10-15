@@ -8897,6 +8897,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Aliases:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111259Z" creationid="manuel" creationdate="20181015T111259Z">
+        <seg>Aggiungere Alias:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add a header (&lt;f0&gt;Insert &gt; Header and Footer &gt; Header &gt; Default&lt;/f0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101644Z">
@@ -8909,6 +8917,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T144503Z">
         <seg>Aggiungete un nome, titolo e descrizione del livello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add a space to separate SnackCost into Snack Cost.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112250Z" creationid="manuel" creationdate="20181015T112250Z">
+        <seg>usando la barra spaziatrice dividete SpeseSnack in due parole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9269,6 +9285,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T195911Z">
         <seg>Dopo dieci anni di fortunata crescita con Sun Microsystems come fondatore e sponsor principale, il progetto ha costituito una fondazione indipendente chiamata The Document Foundation, al fine di realizzare la promessa di indipendenza sancita nell'atto costitutivo originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After we run the query to make sure it works correctly, we will hide all of the fields that we do not need.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111130Z" creationid="manuel" creationdate="20181015T111130Z">
+        <seg>Dopo avere avviato la ricerca per essere sicuri che tutto funzioni correttamente, si possono nascondere tutti i campi non necessari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11539,6 +11563,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By modifying the template, we also modify the report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112451Z" creationid="manuel" creationdate="20181015T112451Z">
+        <seg>Modificando il modello, viene modificato anche il rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By setting up these sequences, you can usually avoid having to apply styles manually.&lt;/f24&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102311Z">
@@ -11943,6 +11975,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155834Z">
         <seg>Modifica di uno stile tramite la finestra di dialogo Stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change any field labels you wish.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112230Z" creationid="manuel" creationdate="20181015T112230Z">
+        <seg>Potete modificare le didascalie dei campi a piacimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13787,6 +13827,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f2&gt;Finish&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112709Z" creationid="manuel" creationdate="20181015T112709Z">
+        <seg>Fate clic su &lt;f2&gt;Fine&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f2&gt;Next.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112634Z" creationid="manuel" creationdate="20181015T112634Z">
+        <seg>Fate clic su &lt;f2&gt;Avanti.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f2&gt;Next&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112306Z" creationid="manuel" creationdate="20181015T112306Z">
+        <seg>Fate clic su &lt;f2&gt;Avanti&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f2&gt;OK&lt;/f2&gt; to save the change.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212036Z" creationid="Alessia Mazzarini" creationdate="20181007T212036Z">
@@ -14958,6 +15022,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the Run Query icon in the Design Query toolbar (Figure &lt;t0&gt;246&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111217Z" creationid="manuel" creationdate="20181015T111217Z">
+        <seg>Fate clic sull'icona Esegui ricerca nella barra degli strumenti Struttura ricerca (Figura &lt;t0&gt;246&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the Save icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111705Z" creationid="manuel" creationdate="20181015T111705Z">
+        <seg>Fate clic sull'icona Salva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the Tolls control to select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090116Z">
@@ -15322,6 +15402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162514Z">
         <seg>Chiudete il vecchio file senza salvarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112035Z" creationid="manuel" creationdate="20181015T112035Z">
+        <seg>Chiudete la ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20488,10 +20576,90 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;252&lt;/seq0&gt;: Typing in calculation of fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111007Z" creationid="manuel" creationdate="20181015T111007Z">
+        <seg>Figura &lt;seq0&gt;252&lt;/seq0&gt;: inserimento dei calcoli dei campi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;253&lt;/seq0&gt;: Field for distance traveled calculations</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111016Z" creationid="manuel" creationdate="20181015T111016Z">
+        <seg>Figura &lt;seq0&gt;253&lt;/seq0&gt;: campo per il calcolo della distanza percorsa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;254&lt;/seq0&gt;: Fuel economy calculation field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111025Z" creationid="manuel" creationdate="20181015T111025Z">
+        <seg>Figura &lt;seq0&gt;254&lt;/seq0&gt;: campo per il calcolo del consumo di carburante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;255&lt;/seq0&gt;: Result of running the fuel economy query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111140Z" creationid="manuel" creationdate="20181015T111140Z">
+        <seg>Figura &lt;seq0&gt;255&lt;/seq0&gt;: risultato della ricerca consumo di carburante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;256&lt;/seq0&gt;: Query table with aliases added</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111407Z" creationid="manuel" creationdate="20181015T111407Z">
+        <seg>Figura &lt;seq0&gt;256&lt;/seq0&gt;: tabella ricerca con gli alias inseriti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;257&lt;/seq0&gt;: Query run with aliases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111438Z" creationid="manuel" creationdate="20181015T111438Z">
+        <seg>Figura &lt;seq0&gt;257&lt;/seq0&gt;: esecuzione ricerca con alias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;259&lt;/seq0&gt;: Giving aliases to fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112245Z" creationid="manuel" creationdate="20181015T112245Z">
+        <seg>Figura &lt;seq0&gt;259&lt;/seq0&gt;: indicare una didascalia per i campi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Choosing security options for opening and saving documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T081021Z">
         <seg>Figura &lt;seq0&gt;25&lt;/seq0&gt;: opzioni di sicurezza per il caricamento e il salvataggio di documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;260&lt;/seq0&gt;: Selecting fields for grouping data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112316Z" creationid="manuel" creationdate="20181015T112316Z">
+        <seg>Figura &lt;seq0&gt;260&lt;/seq0&gt;: selezionare i campi per il raggruppamento dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;261&lt;/seq0&gt;: Report Builder template determined by the Report Wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112346Z" creationid="manuel" creationdate="20181015T112346Z">
+        <seg>Figura &lt;seq0&gt;261&lt;/seq0&gt;: il modello del Report Builder determinato dalla Creazione guidata rapporto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;262&lt;/seq0&gt;: Report without modifications</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112425Z" creationid="manuel" creationdate="20181015T112425Z">
+        <seg>Figura &lt;seq0&gt;262&lt;/seq0&gt;: il rapporto senza modifiche</seg>
       </tuv>
     </tu>
     <tu>
@@ -22392,6 +22560,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, a mail merge links an external document containing a list of names and addresses into a letter, with one copy of the letter being generated for each entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112541Z" creationid="manuel" creationdate="20181015T112541Z">
+        <seg>Per esempio, una stampa in serie collega un documento esterno contenente un elenco di nomi e di indirizzi ad una lettera, stampando una copia della lettera per ogni voce della lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, a numerical series using 1,3,5 is automatically completed with 7,9,11,13; a date and time series using 01.01.99 and 15.01.99, an interval of fourteen days is used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T211812Z">
@@ -22816,6 +22992,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, we can change the Date field’s format, and it will change the format of all the dates contained in that field in the above report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112501Z" creationid="manuel" creationdate="20181015T112501Z">
+        <seg>Ad esempio, è possibile cambiare il formato del campo Data, cambiando in tal modo anche il formato di tutte le date contenute in tale campo nel rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, when the cursor is in a table, a &lt;f0&gt;Table&lt;/f0&gt; toolbar appears, and when the cursor is in a numbered or bullet list, the &lt;f1&gt;Bullets and Numbering&lt;/f1&gt; toolbar appears.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T183856Z">
@@ -23084,6 +23268,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180830T064154Z">
         <seg>Per avere informazioni sui tasti di scelta rapida di LibreOffice, o sull'utilizzo di LibreOffice solo con la tastiera, effettuate una ricerca nella guida in linea, utilizzando parole chiave come “scorciatoia” oppure "accessibilità”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For hyphenated or multiple-word names (table or query), use double quotes around the table or query name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111047Z" creationid="manuel" creationdate="20181015T111047Z">
+        <seg>Per le tabelle o ricerche aventi nomi composti separati da trattini, racchiudete il nome tra virgolette doppie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26824,6 +27016,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the report had more than one page, the page numbers could be put in a footer of each page, perhaps including the total number of pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112414Z" creationid="manuel" creationdate="20181015T112414Z">
+        <seg>In caso di rapporti più lunghi di una pagina, si potrebbe inserire il numero di pagina nel piè di pagina, magari includendo anche il numero totale di pagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the resolution is 1 cm horizontal and 2 cm vertical, the grid consists of rectangles 2 cm high and 1 cm wide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T141020Z">
@@ -27044,6 +27244,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180927T150152Z">
         <seg>Se non vi fosse un formulario secondario per i dati relativi al carburante, premendo il tasto &lt;f0&gt;Tab&lt;/f0&gt; nell'ultimo campo si salverebbe il contenuto di tutti i campi, che verrebbero anche puliti, e il formulario diverrebbe pronto per l'inserimento dei dati relativi al secondo record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If we edit our report, we open Report Builder with this template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112447Z" creationid="manuel" creationdate="20181015T112447Z">
+        <seg>Modificando il rapporto, si apre il Report Builder con tale modello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30400,6 +30608,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It could use a heading that includes its name, its author, and the date it was prepared.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112411Z" creationid="manuel" creationdate="20181015T112411Z">
+        <seg>Si potrebbe usare una intestazione che includa il suo nome, il suo autore e la data in cui è stato preparato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It does not consider other components of a website such as external cascading style sheets (CSS), external javascript, or other script languages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T193945Z">
@@ -31088,6 +31304,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Label the report: Vacation Expenses.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112352Z" creationid="manuel" creationdate="20181015T112352Z">
+        <seg>Rinominate il rapporto: Spese Vacanze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191650Z">
@@ -31388,6 +31612,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T183916Z">
         <seg>LibreOffice Writer, usando una configurazione denominata Writer/Web, può creare, modificare e salvare pagine web in formato HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice allows &lt;i0/&gt;&lt;i1/&gt;data sources to be accessed and then linked into LibreOffice documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112533Z" creationid="manuel" creationdate="20181015T112533Z">
+        <seg>LibreOffice consente &lt;i0/&gt;&lt;i1/&gt;l'accesso a sorgenti dati e quindi il loro collegamento con documenti di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33129,6 +33361,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More than one calculation can be done by using parentheses to group the arithmetical operations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111118Z" creationid="manuel" creationdate="20181015T111118Z">
+        <seg>È possibile eseguire più operazioni utilizzando le parentesi per raggruppare le operazioni aritmetiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most CSV files come from databases tables, queries, or reports, where further calculations and charting are required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213829Z">
@@ -33977,6 +34217,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>My suggestion for a name is &lt;f0&gt;Fuel Economy&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111533Z" creationid="manuel" creationdate="20181015T111533Z">
+        <seg>Un nome di questa ricerca potrebbe essere &lt;f0&gt;Consumo carburante&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Myfile.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T123420Z">
@@ -34045,6 +34293,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082302Z">
         <seg>Assegnate un nome alla ricerca (ad esempio: &lt;f0&gt;Ricerca_Interprete&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name the query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112021Z" creationid="manuel" creationdate="20181015T112021Z">
+        <seg>Assegnate un nome alla ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37857,6 +38113,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Report Builder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112434Z" creationid="manuel" creationdate="20181015T112434Z">
+        <seg>Procedura guidata Rapporti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Report Builder can also create reports by itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112509Z" creationid="manuel" creationdate="20181015T112509Z">
+        <seg>Il Report Builder può anche creare rapporti autonomamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Report Builder: another way to create reports</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112427Z" creationid="manuel" creationdate="20181015T112427Z">
+        <seg>Report Builder: un altro modo per creare rapporti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Report Wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112159Z" creationid="manuel" creationdate="20181015T112159Z">
+        <seg>Procedura guidata Rapporti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Report Wizard (database)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112211Z" creationid="manuel" creationdate="20181015T112211Z">
+        <seg>Procedura guidata rapporti (database)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Report wizard vs Report Design View</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T072448Z">
@@ -38337,6 +38633,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Run the query again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111415Z" creationid="manuel" creationdate="20181015T111415Z">
+        <seg>Eseguite di nuovo la ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Running a macro</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T202026Z">
@@ -38517,6 +38821,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180912T165804Z">
         <seg>Salvate la finestra di dialogo Struttura delle relazioni se il pulsante &lt;f0&gt;Salva&lt;/f0&gt; è attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save the database file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112039Z" creationid="manuel" creationdate="20181015T112039Z">
+        <seg>Salvate il database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39473,6 +39785,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Connect to an existing database&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112623Z" creationid="manuel" creationdate="20181015T112623Z">
+        <seg>Selezionate l'opzione &lt;f0&gt;Collega a un database esistente&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Cross-fading attributes&lt;/f0&gt; to apply a gradual change of line and fill properties between the two objects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T090037Z">
@@ -39517,6 +39837,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082322Z">
         <seg>selezionate &lt;f0&gt;Mostra ricerca&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Dynamic report&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112403Z" creationid="manuel" creationdate="20181015T112403Z">
+        <seg>Selezionate &lt;f0&gt;Rapporto dinamico&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39837,6 +40165,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T062328Z">
         <seg>Selezionate un colore dall'elenco a discesa seguito da &lt;f0&gt;Riempi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Landscape as the Orientation for the page layout.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112337Z" creationid="manuel" creationdate="20181015T112337Z">
+        <seg>Selezionate l'orientamento Orizzontale per il layout della pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41513,6 +41849,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shorten Miscellaneous to Misc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112248Z" creationid="manuel" creationdate="20181015T112248Z">
+        <seg>Lasciate quindi il primo campo com'è; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shorten the length of the payment fields (all fields containing the word Payment).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085459Z">
@@ -41691,8 +42035,8 @@
       <tuv lang="EN">
         <seg>Similarly, we can change the field formatting of any of the other fields and change the format everywhere that field appears in the report.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181007T011431Z" creationid="luke" creationdate="20181007T011431Z">
-        <seg>Similarly, we can change the field formatting of any of the other fields and change the format everywhere that field appears in the report.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112506Z" creationid="luke" creationdate="20181007T011431Z">
+        <seg>Allo stesso modo, si può cambiare la formattazione di qualsiasi altro campo, cambiando così il formato ovunque tale campo appaia nel rapporto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42593,10 +42937,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 10: Close, save, and name the query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111445Z" creationid="manuel" creationdate="20181015T111445Z">
+        <seg>Passo 10: Chiudere, salvare e assegnare un nome alla ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 1: Change the Date field</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090348Z">
         <seg>Passo 1: Modifica del campo Data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Field selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112217Z" creationid="manuel" creationdate="20181015T112217Z">
+        <seg>Passo 1: Selezione dei campi</seg>
       </tuv>
     </tu>
     <tu>
@@ -42621,6 +42981,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095147Z" creationid="manuel" creationdate="20181009T095147Z">
         <seg>Passo 1: Selezione dei campi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Labeling fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112227Z" creationid="manuel" creationdate="20181015T112227Z">
+        <seg>Passo 2: Indicare una didascalia per i campi</seg>
       </tuv>
     </tu>
     <tu>
@@ -42653,6 +43021,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T080143Z">
         <seg>Passo 3: Aggiungere campi nel formulario secondario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 3: Grouping</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112252Z" creationid="manuel" creationdate="20181015T112252Z">
+        <seg>Passo 3: Raggruppamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -42697,6 +43073,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 4: Sort options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112319Z" creationid="manuel" creationdate="20181015T112319Z">
+        <seg>Passo 4: Opzioni di ordinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 5: Arrange controls</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082657Z">
@@ -42713,6 +43097,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 5: Choose layout</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112324Z" creationid="manuel" creationdate="20181015T112324Z">
+        <seg>Passo 5: Scelta del layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 5: Save and close the query</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082630Z">
@@ -42725,6 +43117,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144909Z">
         <seg>Passo 6: Modificare il campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 6: Create report</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112351Z" creationid="manuel" creationdate="20181015T112351Z">
+        <seg>Passo 6: Creazione del rapporto</seg>
       </tuv>
     </tu>
     <tu>
@@ -42805,6 +43205,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085045Z">
         <seg>Passo 8: Impostare il nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 9: Run the query and make some modification</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111127Z" creationid="manuel" creationdate="20181015T111127Z">
+        <seg>Passo 9: Avviare la ricerca e fare alcune modifiche</seg>
       </tuv>
     </tu>
     <tu>
@@ -44907,6 +45315,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The date could be formatted better, and all the numbers need to be formatted as currency.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112409Z" creationid="manuel" creationdate="20181015T112409Z">
+        <seg>La data potrebbe essere formattata meglio, e tutti i numeri devono essere formattati come valuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The date fields suggest a relationship between the vacation table and the dates in each of these tables: fuel and food, This means that the date fields in these tables will be linked as we create the database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155136Z">
@@ -46667,6 +47083,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The query will then add the rest of the double quotes as in Figure &lt;t0&gt;254&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111114Z" creationid="manuel" creationdate="20181015T111114Z">
+        <seg>La ricerca aggiungerà automaticamente le virgolette rimanenti, come si può notare in Figura &lt;t0&gt;254&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The quickest and easiest method to flip an object horizontally or vertically is as follows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T101406Z">
@@ -46791,6 +47215,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101452Z">
         <seg>Il documento risultante conterrà solo il testo modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results are in Figure &lt;s1/&gt;&lt;t2&gt;255&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111244Z" creationid="manuel" creationdate="20181015T111244Z">
+        <seg>Il risultato è raffigurato in Figura &lt;s1/&gt;&lt;t2&gt;255&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results are in Figure &lt;t0&gt;257&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111429Z" creationid="manuel" creationdate="20181015T111429Z">
+        <seg>Il risultato è raffigurato in Figura &lt;t0&gt;257&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47655,6 +48095,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212047Z">
         <seg>Nessun costo nascosto attuale o futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are obviously other calculations that can be made in this query such as cost per distance traveled and how much of the cost belongs to each of the payment types.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112044Z" creationid="manuel" creationdate="20181015T112044Z">
+        <seg>È ovviamente possibile eseguire molti altri calcoli in questa ricerca, come per esempio il costo per distanza percorsa o quanto si è pagato complessivamente con ogni tipo di pagamento utilizzato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49379,6 +49827,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To access a data source that is not a *.odb file:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112609Z" creationid="manuel" creationdate="20181015T112609Z">
+        <seg>Per accedere a una sorgente dati diversa da un file *.odb:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To access a short list of synonyms, right-click on a word and point to &lt;f0&gt;Synonyms&lt;/f0&gt; on the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T074132Z">
@@ -50113,6 +50569,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180927T155942Z">
         <seg>Per creare un nuovo record mentre vi trovate in un altro record sul formulario principale, fate clic sull'icona &lt;f0&gt;Record dati successivo&lt;/f0&gt; oppure sull'icona &lt;f1&gt;Nuovo Record&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a new report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112136Z" creationid="manuel" creationdate="20181015T112136Z">
+        <seg>Per creare un nuovo rapporto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52399,6 +52863,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type &lt;i0/&gt;the aliases as they are listed in Figure &lt;t1&gt;256&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111356Z" creationid="manuel" creationdate="20181015T111356Z">
+        <seg>Digitate gli &lt;i0/&gt;alias come mostrato nella Figura &lt;t1&gt;256&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type a descriptive name for the new module, for example &lt;f0&gt;Recorded&lt;/f0&gt;, and click &lt;f1&gt;OK&lt;/f1&gt; to create the module.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T201458Z">
@@ -53276,6 +53748,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T074200Z">
         <seg>Pe regolare la distanza tra gli elementi della formula usate la finestra di dialogo Spaziatura (&lt;f0&gt;Figura &lt;/f0&gt;&lt;t1&gt;277&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the arithmetical symbol between the two.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111116Z" creationid="manuel" creationdate="20181015T111116Z">
+        <seg>Usate il simbolo aritmetico tra i due elementi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54240,6 +54720,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Vacations table report</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112134Z" creationid="manuel" creationdate="20181015T112134Z">
+        <seg>Rapporto tabella Vacanze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validating cell contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181743Z">
@@ -54408,6 +54896,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We do not want to do any additional sorting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112322Z" creationid="manuel" creationdate="20181015T112322Z">
+        <seg>In questo caso non si indica alcun tipo di ordinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We have used &lt;f0&gt;FuelID&lt;/f0&gt; for convenience, so we know to which table it belongs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104220Z">
@@ -54548,6 +55044,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T201004Z">
         <seg>Tuteleremo gli investimenti passati costruendo sulla base dei solidi risultati ottenuti nella prima decade, incoraggeremo un'ampia partecipazione nella Comunità, e coordineremo le attività all'interno della stessa.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will shorten Miscellaneous to Misc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112232Z" creationid="manuel" creationdate="20181015T112232Z">
+        <seg>Il campo Varie non necessita di modifiche,</seg>
       </tuv>
     </tu>
     <tu>
@@ -55089,6 +55593,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When entering fields for these calculations, you must follow this format: table or query name followed by a period followed by the field name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111044Z" creationid="manuel" creationdate="20181015T111044Z">
+        <seg>Quando inserite campi per questi calcoli, dovete utilizzare il seguente formato: nome della tabella o della ricerca seguito da un punto (.) e quindi dal nome del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When importing numbers from an HTML page, the decimal and thousands separator characters differ according to the locale of the HTML page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155834Z">
@@ -55357,6 +55869,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T192107Z">
         <seg>Quando usate la finestra di dialogo Apri, navigate fino alla cartella di vostro interesse e selezionate il file desiderato, quindi fate clic su &lt;f0&gt;Apri&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When we used the Report Wizard, we created a template in Report Builder for our report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112443Z" creationid="manuel" creationdate="20181015T112443Z">
+        <seg>Utilizzando la Creazione guidata rapporto, è stato creato un modello in Report Builder per il rapporto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57457,6 +57977,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can define group and page headers, group and page footers, and calculation fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112439Z" creationid="manuel" creationdate="20181015T112439Z">
+        <seg>È possibile definire intestazioni e piè di pagina per pagine e gruppi, e campi di calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can define more than one page style for a spreadsheet and assign different page styles to different sheets within a spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122700Z">
@@ -58889,10 +59417,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>aliases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111307Z" creationid="manuel" creationdate="20181015T111307Z">
+        <seg>alias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>aligning</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112449Z">
         <seg>allineare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and make SnackCost into two words.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112235Z" creationid="manuel" creationdate="20181015T112235Z">
+        <seg> a differenza del campo SpeseSnack.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59941,6 +60485,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060435Z">
         <seg>guida attiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extension</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112437Z" creationid="manuel" creationdate="20181015T112437Z">
+        <seg>estensione</seg>
       </tuv>
     </tu>
     <tu>
@@ -61257,6 +61809,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>report (database)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112207Z" creationid="manuel" creationdate="20181015T112207Z">
+        <seg>rapporto (database)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>resetting to default values</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T124846Z">
@@ -61673,6 +62233,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>spreadsheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112720Z" creationid="manuel" creationdate="20181015T112720Z">
+        <seg>foglio elettronico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>spreadsheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T132205Z">
@@ -61949,6 +62517,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142827Z">
         <seg>impostazioni personalizzate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>using as data source</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112718Z" creationid="manuel" creationdate="20181015T112718Z">
+        <seg>utilizzare come sorgente dati</seg>
       </tuv>
     </tu>
     <tu>
