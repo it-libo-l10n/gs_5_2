@@ -11595,6 +11595,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By giving these two headers different aliases, we can distinguish them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T145708Z" creationid="manuel" creationdate="20181015T145708Z">
+        <seg>Dando due instestazioni diverse agli alias, potete dinstiguerle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By modifying the template, we also modify the report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112451Z" creationid="manuel" creationdate="20181015T112451Z">
@@ -28258,8 +28266,8 @@
       <tuv lang="EN">
         <seg>If you want to use fields from different tables, you must first combine these fields in a single query or view.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063529Z">
-        <seg>Se volete usare campi provenienti da tabelle diverse, dovete prima combinarli in una singola ricerca o vista, </seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T145746Z">
+        <seg>Se volete usare campi provenienti da tabelle diverse, dovete prima combinarli in una singola ricerca o vista. </seg>
       </tuv>
     </tu>
     <tu>
@@ -48125,8 +48133,8 @@
       <tuv lang="EN">
         <seg>Then you can create a report from this.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063533Z">
-        <seg>utilizzando poi una di queste per creare un rapporto.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T145801Z">
+        <seg>Utilizzate poi una di queste per creare un rapporto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52911,6 +52919,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Two of the column headers are identical.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T145605Z" creationid="manuel" creationdate="20181015T145605Z">
+        <seg>Due delle instestazioni delle colonne sono identiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type &lt;f0&gt;"End-Reading"."FuelID" - "Fuel"."FuelID"&lt;/f0&gt; in the field to the right of the Odometer field of the Fuel Table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T103819Z" creationid="manuel" creationdate="20181015T103819Z">
@@ -52939,6 +52955,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100647Z" creationid="manuel" creationdate="20181015T100647Z">
         <seg>Nella tabella Ricerca, digitate &lt;f0&gt;&gt;0&lt;/f0&gt; nella cella Criteri sotto IDCarburante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type &lt;f0&gt;Fuel Economy&lt;/f0&gt; as the alias.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T143329Z" creationid="manuel" creationdate="20181015T143329Z">
+        <seg>Digitate &lt;f0&gt;Calcolo carburante&lt;/f0&gt; come alias.</seg>
       </tuv>
     </tu>
     <tu>
