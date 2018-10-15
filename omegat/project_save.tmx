@@ -263,6 +263,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(There is only one layout available when the wizard is used.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T151458Z" creationid="manuel" creationdate="20181015T151458Z">
+        <seg>(Esiste una sola disposizione disponibile mentre usate la creazione guidata.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(This example uses a paragraph style, but you can also choose character styles and others.) The &lt;f0&gt;Function&lt;/f0&gt; list will display the names of the available styles for the selected category.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T123244Z">
@@ -7608,6 +7616,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;i1/&gt;The &lt;i2/&gt;&lt;i3/&gt;Report Wizard and then the Report Builder opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T152033Z" creationid="manuel" creationdate="20181015T152033Z">
+        <seg>Si apre prima &lt;i1/&gt;la &lt;i2/&gt;&lt;i3/&gt;Creazione guidata rapporti e poi il Generatore di rapporti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block"&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T115342Z">
@@ -10613,6 +10629,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101517Z">
         <seg>Non appena disegnate il rettangolo con il cursore del mouse, il rettangolo appare con l'angolo inferiore destro attaccato al cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As you make your selections in the wizard, these appear in layout in the Report Builder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T151308Z" creationid="manuel" creationdate="20181015T150315Z">
+        <seg>Mentre eseguite le selezioni nella procedura guidata, queste vengono visualizzate nel finestra del Generatore di rapporti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13915,6 +13939,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f3&gt;Next&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T152242Z" creationid="manuel" creationdate="20181015T152242Z">
+        <seg>Fate clic su &lt;f3&gt;Avanti&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T210015Z" creationid="Alessia Mazzarini" creationdate="20181007T210015Z">
@@ -14906,6 +14938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T163027Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;Incolla&lt;/f0&gt; senza rilasciare il tasto sinistro del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Reports&lt;/f0&gt; icon in the Database list in the Automobile – LibreOffice Base window (Figure &lt;t1&gt;208&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T151603Z" creationid="manuel" creationdate="20181015T151603Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Rapporti&lt;/f0&gt; nell'elenco Database della finestra Automobile – LibreOffice Base (Figura &lt;t1&gt;212&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20668,6 +20708,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111438Z" creationid="manuel" creationdate="20181015T111438Z">
         <seg>Figura &lt;seq0&gt;257&lt;/seq0&gt;: esecuzione ricerca con alias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;258&lt;/seq0&gt;: Adding fields to a report</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T152252Z" creationid="manuel" creationdate="20181015T152252Z">
+        <seg>Figura &lt;seq0&gt;258&lt;/seq0&gt;: aggiungere campi in un rapporto</seg>
       </tuv>
     </tu>
     <tu>
@@ -29788,6 +29836,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162130Z">
         <seg>Nella finestra Stili e Formattazione, selezionate lo stile da aggiornare con un solo clic del mouse, fate clic sulla freccia accanto all'icona &lt;f0&gt;Nuovo stile dalla selezione&lt;/f0&gt; e scegliete &lt;f1&gt;Aggiorna stile&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Tasks list, click &lt;f0&gt;Use Wizard to Create Report&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T151737Z" creationid="manuel" creationdate="20181015T151737Z">
+        <seg>Nell'elenco Attività, fate clic su &lt;f0&gt;Usa procedura guidata per la creazione dei rapporti...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40157,6 +40213,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T125208Z">
         <seg>Selezionate &lt;f0&gt;Mostra&lt;/f0&gt; dal sottomenu e il foglio, la riga o la colonna diventeranno visibili o stampabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Table: Vacations&lt;/f0&gt; in the Tables or Queries drop down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T152133Z" creationid="manuel" creationdate="20181015T151919Z">
+        <seg>Selezionate &lt;f0&gt;Tabella: Vacanze&lt;/f0&gt; nell'elenco a tendina Tabelle o query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53744,6 +53808,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;&gt;&lt;/f0&gt; to move these fields from the &lt;f1&gt;Available fields &lt;/f1&gt;list to the &lt;f2&gt;Fields in report&lt;/f2&gt; list: Date, Motel, Tolls, Miscellaneous, Breakfast, Lunch, Supper, and SnackCost.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T152230Z" creationid="manuel" creationdate="20181015T152230Z">
+        <seg>Usate il pulsante &lt;f0&gt;&gt;&lt;/f0&gt; per spostare i seguenti campi dall'elenco &lt;f1&gt;Campi disponibili&lt;/f1&gt; all'elenco &lt;f2&gt;Campi del rapporto&lt;/f2&gt;: Data, Motel, Pedaggi, Varie, Colazione, Pranzo, Cena e SpeseSnack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the &lt;f0&gt;&gt;&gt;&lt;/f0&gt; button to move all the fields to the right.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T080540Z">
@@ -55969,6 +56041,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When using Design View to create a report, you open the Report Builder to design the layout of it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T151350Z" creationid="manuel" creationdate="20181015T151205Z">
+        <seg>Quando utilizzate la Vista struttura per creare un rapporto, aprite il Generatore di rapporti per progettarne la disposizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When using a hyperlink, you do not have a choice of the content of the link (for example text or page number), but when using a cross-reference, you have several choices, including bookmarks.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T160714Z">
@@ -56185,6 +56265,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you have finished making your selections, you save the report, name it and then close it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T150416Z" creationid="manuel" creationdate="20181015T150416Z">
+        <seg>Al termine delle selezioni, salvate il rapporto, dategli un nome e chiudetelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you have finished typing text, click outside the text frame to cancel adding or editing text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093558Z">
@@ -56285,6 +56373,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T133437Z">
         <seg>Quando aprite una qualsiasi finestra di dialogo, un elemento (come un pulsante, un campo di opzione, una voce in una casella di riepilogo, o una casella di controllo) è evidenziato o indicato con un riquadro tratteggiato intorno al campo o al nome del pulsante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you open the Report Wizard, the Report Builder also opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T150231Z" creationid="manuel" creationdate="20181015T150231Z">
+        <seg>Quando aprite la Creazione guidata rapporto, viene aperto anche il Generatore rapporti (Report Builder).</seg>
       </tuv>
     </tu>
     <tu>
@@ -59571,8 +59667,8 @@
       <tuv lang="EN">
         <seg>and make SnackCost into two words.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112235Z" creationid="manuel" creationdate="20181015T112235Z">
-        <seg> a differenza del campo SpeseSnack.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T153140Z" creationid="manuel" creationdate="20181015T112235Z">
+        <seg>a differenza del campo SpeseSnack divisibile in due parole.</seg>
       </tuv>
     </tu>
     <tu>
