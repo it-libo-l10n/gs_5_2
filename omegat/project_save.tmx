@@ -8825,10 +8825,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Accessing a &lt;i0/&gt;spreadsheet as a data source</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112722Z" creationid="manuel" creationdate="20181015T112722Z">
+        <seg>Accedere a un &lt;i0/&gt;foglio elettronico come sorgente dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accessing a menu command</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180827T071619Z">
         <seg>Accesso a un comando di menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Accessing a spreadsheet is similar to accessing other databases:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112728Z" creationid="manuel" creationdate="20181015T112728Z">
+        <seg>Anche in questo caso la procedura è molto simile a quella vista per accedere ai database di altro tipo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9265,6 +9281,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After modifying the spreadsheet and saving it, you will see the changes in the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112751Z" creationid="manuel" creationdate="20181015T112751Z">
+        <seg>Dopo aver modificato e salvato il foglio elettronico, vedrete le modifiche nel database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After printing, be sure to deselect the extra sheets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202933Z" creationid="Alessia Mazzarini" creationdate="20181007T202933Z">
@@ -9389,6 +9413,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180922T141027Z">
         <seg>Tutti i contenitori di librerie disponibili sono visualizzati nella lista &lt;f3&gt;Macro da&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All changes in a spreadsheet must be made in the spreadsheet itself, using Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112749Z" creationid="manuel" creationdate="20181015T112749Z">
+        <seg>Tutte le modifiche in un foglio elettronico devono essere fatte nel foglio stesso, tramite Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12727,6 +12759,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T162705Z">
         <seg>Scegliete &lt;f0&gt;Modifica &gt; Incolla speciale&lt;/f0&gt;, oppure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File &gt; New &gt; Database&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112730Z" creationid="manuel" creationdate="20181015T112730Z">
+        <seg>Scegliete &lt;f0&gt;File &gt; Nuovo &gt; Database&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25320,6 +25360,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Having registered the data source, whether a spreadsheet, text document, external database or other accepted data source, you can use it in other LibreOffice components including Writer and Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112822Z" creationid="manuel" creationdate="20181015T112822Z">
+        <seg>Le sorgenti dati registrate, siano esse fogli elettronici, documenti di testo, database esterni o altre sorgenti compatibili, possono essere utilizzate con gli atri componenti di LibreOffice, inclusi Writer e Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Having them selected permits you to update a table that has a relationship defined with another table which has been modified.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170345Z">
@@ -26504,6 +26552,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a password is also required, check its box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112742Z" creationid="manuel" creationdate="20181015T112742Z">
+        <seg>Se è necessaria anche una password, attivate la corrispondente opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a sheet is printed on multiple pages, you can set up certain rows or columns to repeat on each printed page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T204352Z">
@@ -27468,6 +27524,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161028Z">
         <seg>Se create un documento scegliendo &lt;f0&gt;File &gt; Nuovo &gt; Documento di testo&lt;/f0&gt; (oppure &lt;f1&gt;Foglio elettronico&lt;/f1&gt;, &lt;f2&gt;Presentazione&lt;/f2&gt;, o &lt;f3&gt;Disegno&lt;/f3&gt;) dal menu principale, LibreOffice crea il documento dal modello predefinito per quel tipo di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you create and save an additional sheet in your spreadsheet, the database will have a new table the next time you access it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112754Z" creationid="manuel" creationdate="20181015T112754Z">
+        <seg>Se create e salvate una tabella aggiuntiva nel vostro foglio elettronico, troverete una nuova tabella nel database, alla sua successiva apertura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32593,6 +32657,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure the registered name is correct.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112810Z" creationid="manuel" creationdate="20181015T112810Z">
+        <seg>Assicuratevi di aver scritto correttamente il nome registrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure to change back to &lt;f4&gt;Standard selection&lt;/f4&gt; or you may find yourself extending a cell selection unintentionally.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T144616Z">
@@ -36225,6 +36297,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other programs can also produce databases in this format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112802Z" creationid="manuel" creationdate="20181015T112802Z">
+        <seg>È possibile utilizzare anche altri programmi per creare database in questo formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other uses of this field depend on the LibreOffice component.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191324Z">
@@ -37805,6 +37885,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175951Z">
         <seg>Regina Henschel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Registering *.odb databases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112759Z" creationid="manuel" creationdate="20181015T112759Z">
+        <seg>Registrare database *.odb</seg>
       </tuv>
     </tu>
     <tu>
@@ -54680,6 +54768,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using this method of accessing a spreadsheet, you cannot change anything in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112745Z" creationid="manuel" creationdate="20181015T112745Z">
+        <seg>Utilizzando questo metodo di accesso al foglio elettronico non è possibile fare alcuna modifica nel foglio stesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using your formula library</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T130635Z">
@@ -54844,6 +54940,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181616Z">
         <seg>Viste di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Viewing data sources</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112830Z" creationid="manuel" creationdate="20181015T112830Z">
+        <seg>Visualizzazione delle sorgenti dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -58297,6 +58401,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can only view the contents of the spreadsheet, run queries, and create reports based upon the data already entered into the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112747Z" creationid="manuel" creationdate="20181015T112747Z">
+        <seg>Potete solo visualizzare il contenuto del foglio elettronico, eseguire ricerche e creare rapporti basati sui dati che sono già stati inseriti nel foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can open the Text Formatting toolbar by selecting &lt;f0&gt;View &gt; Toolbars &gt; Text Formatting&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095317Z">
@@ -61677,6 +61789,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154840Z">
         <seg>linee rosse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>registering</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112756Z" creationid="manuel" creationdate="20181015T112756Z">
+        <seg>registrazione</seg>
       </tuv>
     </tu>
     <tu>
