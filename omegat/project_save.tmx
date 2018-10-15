@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Circled in Red.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100753Z" creationid="manuel" creationdate="20181015T100753Z">
+        <seg>(Cerchiato in rosso.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Date would have to be used.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082614Z">
@@ -5744,6 +5752,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Step 2: &lt;/f0&gt;&lt;rs1/&gt;&lt;f2&gt;Add tables&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T095910Z" creationid="manuel" creationdate="20181015T095910Z">
+        <seg>&lt;f0&gt;Passo 2: &lt;/f0&gt;&lt;rs1/&gt;&lt;f2&gt;Aggiungere le tabelle&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Step 2: Select the &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;sorting order&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095827Z" creationid="manuel" creationdate="20181009T095827Z">
@@ -8893,6 +8909,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085529Z">
         <seg>Aggiungere delle intestazioni per ogni gruppo nel formulario principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add the End-Reading query to this query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T101624Z" creationid="manuel" creationdate="20181015T101624Z">
+        <seg> Aggiungete la ricerca Ultima_lettura a questa ricerca appena creata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add the Fuel table to the query just as you did in step 2: &lt;rf0&gt;Add tables&lt;/rf0&gt; but &lt;f1&gt;do not&lt;/f1&gt; close the Add Tables window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T101608Z" creationid="manuel" creationdate="20181015T101608Z">
+        <seg>Aggiungete nella ricerca la tabella Carburante, come già fatto al passo 2: &lt;rf0&gt;Aggiungere tabelle&lt;/rf0&gt;, &lt;f1&gt;senza però&lt;/f1&gt; chiudere la finestra Aggiungi tabella o ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13043,6 +13075,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Add&lt;/f0&gt;, and then click &lt;f1&gt;Close&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T102301Z" creationid="manuel" creationdate="20181015T102301Z">
+        <seg>Fate clic su &lt;f0&gt;Aggiungi&lt;/f0&gt;, e quindi su &lt;f1&gt;Chiudi&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Add&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T195349Z">
@@ -13139,6 +13179,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Close&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100007Z" creationid="manuel" creationdate="20181015T100007Z">
+        <seg>Fate clic su &lt;f0&gt;Chiudi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Create Query in Design View.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T095850Z" creationid="manuel" creationdate="20181015T095850Z">
+        <seg>Fate clic su &lt;f0&gt;Crea ricerca in vista struttura.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Create Query in Design View&lt;/f0&gt; to open a new query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082759Z">
@@ -13207,6 +13263,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T085513Z">
         <seg>Fate clic su &lt;f0&gt;Fine&lt;/f0&gt;&lt;f1&gt; per completare la Creazione guidata della tabella&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Fuel&lt;/f0&gt; to highlight it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T095946Z" creationid="manuel" creationdate="20181015T095946Z">
+        <seg>Fate clic su &lt;f0&gt;Carburante&lt;/f0&gt; per evidenziarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13507,6 +13571,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Queries&lt;/f0&gt; to get the list of queries in the database (Figure &lt;t1&gt;249&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T101755Z" creationid="manuel" creationdate="20181015T101755Z">
+        <seg>Fate clic su &lt;f0&gt;Ricerche&lt;/f0&gt; per ottenere la lista delle ricerche presenti nel database (Figura &lt;t1&gt;249&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Save.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143144Z">
@@ -13767,6 +13839,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T103943Z">
         <seg>Fate clic su Crea tabella in Vista struttura (che apre la finestra di dialogo Struttura tabella).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click End-Reading.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T101800Z" creationid="manuel" creationdate="20181015T101800Z">
+        <seg>Fate clic su Ultima_lettura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14682,6 +14762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180922T123105Z">
         <seg>Per eseguire la macro, fate clic sull'icona &lt;f0&gt;Esegui&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; sulla barre degli strumenti delle Macro, oppure premete il tasto &lt;f3&gt;F5&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Run Query&lt;/f0&gt; icon in the Query Design toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100729Z" creationid="manuel" creationdate="20181015T100729Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Esegui ricerca&lt;/f0&gt; nella barra degli strumenti Struttura ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17496,6 +17584,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click &lt;f0&gt;FuelQuantity&lt;/f0&gt; in the End-Reading query.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T102554Z" creationid="manuel" creationdate="20181015T102554Z">
+        <seg>Nella ricerca Ultima_lettura fate doppio clic sul campo &lt;f0&gt;QuantitàCarburante&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click anywhere between the left and right indent icons on the ruler to open the &lt;f2&gt;Tabs&lt;/f2&gt; page of the Paragraph dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072057Z">
@@ -17552,18 +17648,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click the &lt;f0&gt;FuelID&lt;/f0&gt; field in the Fuel table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100230Z" creationid="manuel" creationdate="20181015T100230Z">
+        <seg>Nella tabella Carburante fate doppio clic sul campo &lt;f0&gt;IDCarburante&lt;/f0&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click the FuelQuantity field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082528Z">
-        <seg>Sul campo QuantitàCarburante.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100317Z">
+        <seg>Doppio clic sul campo QuantitàCarburante.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Double-click the Odometer field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082521Z">
-        <seg>Sul campo Chilometraggio e </seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100258Z">
+        <seg>Doppio clic sul campo Chilometraggio. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20248,10 +20352,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;243&lt;/seq0&gt;: Add Tables or Query dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100022Z" creationid="manuel" creationdate="20181015T100022Z">
+        <seg>Figura &lt;seq0&gt;243&lt;/seq0&gt;: finestra di dialogo Aggiungi tabella o ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;244&lt;/seq0&gt;: Fuel table in query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100118Z" creationid="manuel" creationdate="20181015T100118Z">
+        <seg>Figura &lt;seq0&gt;244&lt;/seq0&gt;: tabella Carburante nella ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;245&lt;/seq0&gt;: Query table</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082543Z">
         <seg>Figura &lt;seq0&gt;245&lt;/seq0&gt;: tabella ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;246&lt;/seq0&gt;: Query Design toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100808Z" creationid="manuel" creationdate="20181015T100808Z">
+        <seg>Figura &lt;seq0&gt;246&lt;/seq0&gt;: barra degli strumenti Struttura ricerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -20272,10 +20400,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;249&lt;/seq0&gt;: Selecting queries to add to another query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T102318Z" creationid="manuel" creationdate="20181015T102318Z">
+        <seg>Figura &lt;seq0&gt;249&lt;/seq0&gt;: selezione delle ricerche da aggiungere a un'altra ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Defining a font to be substituted for another font</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080019Z">
         <seg>Figura &lt;seq0&gt;24&lt;/seq0&gt;: sostituzione di un carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;250&lt;/seq0&gt;: Tables in this query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T102459Z" creationid="manuel" creationdate="20181015T102452Z">
+        <seg>Figura &lt;seq0&gt;250&lt;/seq0&gt;: tabelle in questa ricerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -21460,6 +21604,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180927T160133Z">
         <seg>La Figura &lt;t0&gt;240&lt;/t0&gt; riporta un record con i dati inseriti nei rispettivi campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;247&lt;/t0&gt; contains the Fuel table with my entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100938Z" creationid="manuel" creationdate="20181015T100938Z">
+        <seg>Figura &lt;t0&gt;247&lt;/t0&gt; contiene la tabella Carburante con i vostri inserimenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33121,6 +33273,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the cursor over the bottom edge of the fuel table (Figure &lt;t0&gt;244&lt;/t0&gt;) and drag the edge to make it longer and easier to see all of the fields in the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100103Z" creationid="manuel" creationdate="20181015T100103Z">
+        <seg>Portate il cursore sul bordo inferiore della tabella carburante (Figura &lt;t0&gt;249&lt;/t0&gt;) e trascinatelo per allungare la tabella e visualizzare così tutti i campi presenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the cursor over the label or field of the control.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T094831Z">
@@ -34221,6 +34381,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T085541Z">
         <seg>Notate che la tabella “Collezione_CD” è ora elencata nel riquadro Tabelle, all'interno della finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now click the Save icon in the main database window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T101319Z" creationid="manuel" creationdate="20181015T101319Z">
+        <seg>Ora fate clic sul icona Salva nella finstra principale del database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41513,10 +41681,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since the FuelQuantity we want to use is the final odometer reading, we will use the End-Reading query to get it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T102425Z" creationid="manuel" creationdate="20181015T102425Z">
+        <seg>Poiché la quantità di carburante da considerare è relativa all'ultima lettura del contachilometri, verrà usata la ricerca Ultima_lettura per ottenerla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since these purchases are made by one of two bank cards or with cash, I want a field to state which payment type was used for each item.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155000Z">
         <seg>Siccome questi acquisti sono pagati con carte di credito o in contanti, è utile un campo che indichi il tipo di pagamento usato per ogni articolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since this query contains the final odometer reading for our calculations, name it &lt;f0&gt;End-Reading&lt;/f0&gt; when saving it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T101116Z" creationid="manuel" creationdate="20181015T101116Z">
+        <seg>Visto che questa ricerca contiene l'ultima lettura del contachilometri, chiamatela &lt;f0&gt;Ultima_lettura&lt;/f0&gt; al momento del salvataggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42377,6 +42561,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 3: Add fields to the table at the bottom</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100139Z" creationid="manuel" creationdate="20181015T100139Z">
+        <seg>Passo 3: Aggiungere i campi nella tabella in basso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 3: Add subform fields</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T080143Z">
@@ -42413,6 +42605,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T074101Z">
         <seg>Passo 4: Selezione del tipo di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 4: Set the criterion for the query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100355Z" creationid="manuel" creationdate="20181015T100355Z">
+        <seg>Passo 4: Impostare i criteri per la ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42461,6 +42661,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T084025Z">
         <seg>Passo 6: Impostazione immissione dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 7: Add fields to the table at the bottom of the query</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T102340Z" creationid="manuel" creationdate="20181015T102340Z">
+        <seg>Passo 7: Aggiungere i campi alla tabella nella parte inferiore della ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46363,6 +46571,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The query results based upon the Fuel table are in Figure &lt;t1&gt;248&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T101033Z" creationid="manuel" creationdate="20181015T101033Z">
+        <seg>Il risultato della ricerca basato sulla tabella Carburante è mostrato in Figura &lt;t1&gt;248&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The quickest and easiest method to flip an object horizontally or vertically is as follows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T101406Z">
@@ -50061,6 +50277,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do this we need the FuelQuantity and distance traveled.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T102414Z" creationid="manuel" creationdate="20181015T102401Z">
+        <seg>Per fare ciò c'è bisogno della quantità di carburante e della distanza percorsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do this, choose &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;View &gt; Hide Whitespace&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T134611Z">
@@ -52047,6 +52271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type &lt;f0&gt;&gt;0&lt;/f0&gt; in the Criterion cell under FuelID in the query table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100647Z" creationid="manuel" creationdate="20181015T100647Z">
+        <seg>Nella tabella Ricerca, digitate &lt;f0&gt;&gt;0&lt;/f0&gt; nella cella Criteri sotto IDCarburante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type &lt;f0&gt;fn&lt;/f0&gt; &lt;f1&gt;(mnemonic for &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;f&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ormula &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;n&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;umbered&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;) &lt;/f10&gt;and then press the &lt;f11&gt;F3&lt;/f11&gt; key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T132622Z">
@@ -54024,6 +54256,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We are going to calculate the fuel economy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T102407Z" creationid="manuel" creationdate="20181015T102342Z">
+        <seg>Si desidera ora calcolare il consumo di carburante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We are looking for a particular artist, so select &lt;f0&gt;CD-Collection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T073926Z">
@@ -54116,6 +54356,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085435Z">
         <seg>Inoltre l'etichetta del campo TipoDiPagamento verrà modificata e il campo verrà trasformato in un elenco a tendina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will also use the Odometer field from both the Fuel table and End-Reading queries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T102443Z" creationid="manuel" creationdate="20181015T102443Z">
+        <seg>Verrà usato anche il campo Chilometraggio dalla tabella Carburante e dalla ricerca Ultima_Lettura.</seg>
       </tuv>
     </tu>
     <tu>
