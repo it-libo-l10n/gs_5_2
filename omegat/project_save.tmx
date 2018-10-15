@@ -3872,6 +3872,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;File &gt; New &gt; Database &lt;/f0&gt;opens the &lt;f1&gt;Database Wizard &lt;/f1&gt;window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T160408Z" creationid="manuel" creationdate="20181015T160408Z">
+        <seg>Selezionate &lt;f0&gt;File &gt; Nuovo &gt; Database &lt;/f0&gt;per visualizzarela finestra &lt;f1&gt;Creazione guidata&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;File compatibility.&lt;/f0&gt; In addition to its native OpenDocument formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185448Z">
@@ -8809,6 +8817,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Accept the default settings: &lt;f0&gt;Register the database for me, &lt;/f0&gt;and &lt;f1&gt;Open the database for editing&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T160548Z" creationid="manuel" creationdate="20181015T160548Z">
+        <seg>Accettate le impostazioni predefinite: &lt;f0&gt;Sì, registra il database&lt;/f0&gt; e &lt;f1&gt;Apri il database per la modifica&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access setup options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173358Z">
@@ -13299,6 +13315,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Browse&lt;/f0&gt; and select the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T160507Z" creationid="manuel" creationdate="20181015T160507Z">
+        <seg>Fate clic su &lt;f0&gt;Sfoglia&lt;/f0&gt; e selezionate il database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;CD-Collection.Artist&lt;/f0&gt; to select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181009T100111Z" creationid="manuel" creationdate="20181009T100111Z">
@@ -15154,6 +15178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T162830Z">
         <seg>Fate clic sul pulsante freccia del pulsante combinato &lt;f0&gt;Incolla&lt;/f0&gt;, o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the arrow next to the &lt;f1&gt;Database type&lt;/f1&gt; field and select the database type from the drop down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T160456Z" creationid="manuel" creationdate="20181015T160456Z">
+        <seg>Fate clic sulla freccia di fianco al campo &lt;f1&gt;Tipo di Database&lt;/f1&gt; e selezionate il tipo di database dall'elenco a tendina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34433,6 +34465,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name and save the database in the location of your choice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T160609Z" creationid="manuel" creationdate="20181015T160609Z">
+        <seg>Assegnate un nome al database e salvatelo nella cartella desiderata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name and save the spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093837Z">
@@ -35701,6 +35741,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T093446Z">
         <seg>Un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One of the choices available when you select &lt;f0&gt;Connect to an existing database&lt;/f0&gt; is &lt;f1&gt;LDAP Address Book.&lt;/f1&gt; Beginning with LibreOffice 4.0.0, this option no longer works.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T160752Z" creationid="manuel" creationdate="20181015T160752Z">
+        <seg>Una delle opzioni disponibili quando selezionate &lt;f0&gt;Connetti a un database esistente&lt;/f0&gt; è &lt;f1&gt;Rubrica LDAP.&lt;/f1&gt; A partire da LibreOffice 4.0.0, questa opzione non funziona più.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40325,6 +40373,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101411Z">
         <seg>Selezionate &lt;f1&gt;Maiuscole/minuscole&lt;/f1&gt; per trovare solo le istanze che corrispondono esattamente al termine di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f1&gt;Spreadsheet &lt;/f1&gt;as the &lt;f2&gt;Database type&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T160856Z" creationid="manuel" creationdate="20181015T160856Z">
+        <seg>Selezionate &lt;f1&gt;Foglio elettronico&lt;/f1&gt; come &lt;f2&gt;Tipo di database&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
