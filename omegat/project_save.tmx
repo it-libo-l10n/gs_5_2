@@ -8577,6 +8577,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A record can be edited, added, or deleted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162833Z" creationid="manuel" creationdate="20181015T162833Z">
+        <seg>È possibile modificare, aggiungere o eliminare record di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A relative address always starts from the directory in which the current document is located.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144530Z">
@@ -9001,6 +9009,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add data to the fields of the sentence:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163645Z" creationid="manuel" creationdate="20181015T163645Z">
+        <seg>Aggiungete ora i dati ai campi della frase:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add headings for each group in the main form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085529Z">
@@ -9117,6 +9133,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182121Z">
         <seg>Aggiungere immagini, tabelle, grafici e contenuti multimediali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding records to a spreadsheet is fairly easy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164648Z" creationid="manuel" creationdate="20181015T164648Z">
+        <seg>L'aggiunta di record a un foglio di calcolo è abbastanza semplice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9549,6 +9573,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063522Z">
         <seg>Essendo basati su una singola tabella, vista o ricerca, dovete prima decidere quali campi volete usare nel rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All rows are highlighted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164539Z" creationid="manuel" creationdate="20181015T164539Z">
+        <seg>Tutte le righe verranno evidenziate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11290,6 +11322,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Beneath the records are five tiny buttons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162846Z" creationid="manuel" creationdate="20181015T162846Z">
+        <seg>Al di sotto dei record di dati sono presenti cinque piccoli pulsanti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Block arrows</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104258Z">
@@ -11370,6 +11410,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browse to where the database is located.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162700Z" creationid="manuel" creationdate="20181015T162700Z">
+        <seg>Navigate fino alla cartella in cui si trova il database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bruce Byfield</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170109Z">
@@ -11446,6 +11494,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T154857Z">
         <seg>Sarebbe anche utile se ci fosse un modo per scrivere delle note.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But there are certain differences.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164316Z" creationid="manuel" creationdate="20181015T164316Z">
+        <seg>Vi sono comunque alcune differenze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13323,6 +13379,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Browse&lt;/f0&gt; to locate the spreadsheet you want to access.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162333Z" creationid="manuel" creationdate="20181015T162333Z">
+        <seg>Fate clic su &lt;f0&gt;Sfoglia&lt;/f0&gt; per cercare il foglio elettronico a cui volete collegarvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;CD-Collection.Artist&lt;/f0&gt; to select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181009T100111Z" creationid="manuel" creationdate="20181009T100111Z">
@@ -14171,6 +14235,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click another row and then click this icon again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163711Z" creationid="manuel" creationdate="20181015T163711Z">
+        <seg>Selezionate un'altra riga e fate ancora clic su questa icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click anywhere in the hyperlink text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T221317Z">
@@ -14829,6 +14901,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Data to text&lt;/f0&gt; icon to insert the data into the spreadsheet cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164610Z" creationid="manuel" creationdate="20181015T164610Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Dati in testo&lt;/f0&gt; per inserire i dati nelle celle del foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Edit File&lt;/f0&gt; button to make the spreadsheet read-only.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093821Z">
@@ -15214,6 +15294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the cell of the spreadsheet which you want to be the top left cell of your data, including the column names.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164333Z" creationid="manuel" creationdate="20181015T164333Z">
+        <seg>Fate clic nella cella del foglio elettronico che volete sia l'angolo superiore sinistro dell'insieme di dati, includendo anche il nome della colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the expansion symbol (+ or triangle) to the left of &lt;f1&gt;Load/Save&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142712Z">
@@ -15258,6 +15346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093942Z">
         <seg>Fate clic sul riquadro grigio contenente il nome del campo per il campo ID della tabella (l'intestazione della colonna).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the gray box to the left of the row of data you want to add.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163656Z" creationid="manuel" creationdate="20181015T163656Z">
+        <seg>Fate clic nel riquadro grigio a sinistra della riga di cui volete aggiungere i dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16887,6 +16983,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data can be placed into Writer and Calc documents from the tables in the data source window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162956Z" creationid="manuel" creationdate="20181015T162956Z">
+        <seg>I dati possono essere inseriti in documenti di Writer e Calc attraverso le tabelle della finestra sorgente dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data entered into a Calc spreadsheet or a Writer table must be entered in a format defined by &lt;f0&gt;Locale&lt;/f0&gt; in order to be recognized as dates.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T064037Z">
@@ -16931,6 +17035,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180912T170352Z">
         <seg>I Database vengono usati per archiviare dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Databases created by LibreOffice are in the *.odb (OpenDocument Base) format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162600Z" creationid="manuel" creationdate="20181015T162600Z">
+        <seg>Database creati con LibreOffice sono salvati nelformato *.odb (OpenDocument Base).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18784,6 +18896,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing data sources</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162829Z" creationid="manuel" creationdate="20181015T162829Z">
+        <seg>Modifica delle sorgenti dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editing formulas</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185358Z">
@@ -19108,6 +19228,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180927T144533Z">
         <seg>Inserite i valori direttamente al loro interno, oppure utilizzate le frecce &lt;f0&gt;su&lt;/f0&gt; e &lt;f1&gt;giù&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entering data directly to the spreadsheet cells uses the &lt;f0&gt;Data to Text &lt;/f0&gt;icon as when making a table in a Writer document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164310Z" creationid="manuel" creationdate="20181015T164310Z">
+        <seg>Per inserire i dati direttamente nelle celle del foglio elettronico si utilizza l'icona &lt;f0&gt;Dati in testo&lt;/f0&gt;, come per inserire una tabella in un documento Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20804,6 +20932,46 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112425Z" creationid="manuel" creationdate="20181015T112425Z">
         <seg>Figura &lt;seq0&gt;262&lt;/seq0&gt;: il rapporto senza modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;263&lt;/seq0&gt;: Databases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162824Z" creationid="manuel" creationdate="20181015T162824Z">
+        <seg>Figura &lt;seq0&gt;263&lt;/seq0&gt;: database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;264&lt;/seq0&gt;: View Data Sources navigation buttons</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162901Z" creationid="manuel" creationdate="20181015T162901Z">
+        <seg>Figura &lt;seq0&gt;264&lt;/seq0&gt;: pulsanti di navigazione all'interno della Visualizzazione sorgenti dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;265&lt;/seq0&gt;: Deleting a row in the Data View window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162913Z" creationid="manuel" creationdate="20181015T162913Z">
+        <seg>Figura &lt;seq0&gt;265&lt;/seq0&gt;: eliminazione di una riga nella finestra di Visualizzazione dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;267&lt;/seq0&gt;: Selected row in data source window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163726Z" creationid="manuel" creationdate="20181015T163726Z">
+        <seg>Figura &lt;seq0&gt;267&lt;/seq0&gt;: riga selezionata nel riquadro sorgenti dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;268&lt;/seq0&gt;: Insert Database Columns dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163748Z" creationid="manuel" creationdate="20181015T163748Z">
+        <seg>Figura &lt;seq0&gt;268&lt;/seq0&gt;: finestra di dialogo Inserisci colonne di database</seg>
       </tuv>
     </tu>
     <tu>
@@ -23076,6 +23244,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105932Z">
         <seg>Ad esempio, per cambiare lo stile di una linea, fate clic sulle frecce verso l'alto e verso il basso per lo Stile linea e selezionate lo stile desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, to enter the cost of meals and who paid for them on a certain date of a vacation:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163059Z" creationid="manuel" creationdate="20181015T163059Z">
+        <seg>Ad esempio, per inserire le spese per i pasti e chi le ha pagate, in una determinata data della vacanza:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27224,6 +27400,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the spreadsheet is password protected, check the &lt;f1&gt;Password required &lt;/f1&gt;box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162212Z" creationid="manuel" creationdate="20181015T162212Z">
+        <seg>Se il foglio elettronico è protetto da password, spuntate l'opzione &lt;f1&gt;Password necessaria&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the spreadsheet requires a user’s name, enter it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162237Z" creationid="manuel" creationdate="20181015T162237Z">
+        <seg>Se è necessario specificare un nome utente, indicatelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the style is in use, you receive a warning message asking you to confirm deletion.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T085732Z">
@@ -29016,6 +29208,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Writer, values from individual fields can be inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162958Z" creationid="manuel" creationdate="20181015T162958Z">
+        <seg>In Writer, è possibile inserire valori di singoli campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a Mac operating system, go to &lt;f1&gt;LibreOffice &gt; Quit LibreOffice&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133845Z">
@@ -29028,6 +29228,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070039Z">
         <seg>Ad esempio, in Windows potreste voler salvare in maniera predefinita i documenti in una cartella diversa da Documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a Writer document, it will appear as &lt;FIELD&gt; (where FIELD is the name of the field you dragged).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163057Z" creationid="manuel" creationdate="20181015T163057Z">
+        <seg>Nel documento Writer, esso apparirà come &lt;CAMPO&gt; (dove CAMPO rappresenta il nome del campo trascinato).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30100,6 +30308,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T164614Z">
         <seg>Nella finestra che compare digitate un nome per il &lt;f0&gt;categoria&lt;/f0&gt; e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the same way, fill in the rest of the fields in the sentence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163437Z" creationid="manuel" creationdate="20181015T163437Z">
+        <seg>Allo stesso modo riempite il resto dei campi della frase.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31520,6 +31736,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launching Base to work on data sources</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162916Z" creationid="manuel" creationdate="20181015T162916Z">
+        <seg>Avvio di Base per lavorare con sorgenti dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Laurent Balland-Poirier</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170107Z">
@@ -32797,6 +33021,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T091624Z">
         <seg>Dopo aver finito di inserire i dati da ripetere, prima di continuare ad inserire dati nel foglio elettronico, assicuratevi di aver deselezionato gli altri fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure you have the proper spacing between the field names and the words before and after them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163407Z" creationid="manuel" creationdate="20181015T163407Z">
+        <seg>Assicuratevi di avere il giusto spazio tra il nome del campo e le parole inserite prima e dopo il campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34553,6 +34785,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigate to the place you want to place the table and click the location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163734Z" creationid="manuel" creationdate="20181015T163734Z">
+        <seg>Spostatevi nella posizione in cui volete inserire la tabella e fate clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Navigate to the sheet that you want to set the header or footer for.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122755Z">
@@ -35689,6 +35929,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once in Base, you can edit, add, and delete tables, queries, forms, and reports.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162936Z" creationid="manuel" creationdate="20181015T162936Z">
+        <seg>Una volta avviato Base, è possibile modificare, aggiungere ed eliminare tabelle, ricerche, formulari e rapporti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once tables have been created using the wizard, and data has been entered, editing a table should be very limited.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180807T105534Z">
@@ -35737,10 +35985,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One common way to use a data source is to perform a mail merge.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163001Z" creationid="manuel" creationdate="20181015T163001Z">
+        <seg>Un tipico modo di utilizzare una sorgente dati è quello della stampa in serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T093446Z">
         <seg>Un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One enters the data into the spreadsheet cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164210Z" creationid="manuel" creationdate="20181015T164210Z">
+        <seg>In un caso i dati vengono inseriti nelle celle del foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35893,6 +36157,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173429Z">
         <seg>Apre un menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open a document in Writer or Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162746Z" creationid="manuel" creationdate="20181015T162746Z">
+        <seg>Aprite un documento con Writer oppure Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36345,6 +36617,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Or a complete table can be created in the Writer document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162959Z" creationid="manuel" creationdate="20181015T162959Z">
+        <seg>È anche possibile creare una tabella completa nel documento di Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or click the Control icon in the Form Control toolbar (Figure &lt;t0&gt;227&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T143107Z">
@@ -36469,6 +36749,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T125535Z">
         <seg>Altre possono essere scaricate da vari siti web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise it does not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163403Z" creationid="manuel" creationdate="20181015T163403Z">
+        <seg>In caso contrario, no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38033,6 +38321,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Registering a *.odb database is simple:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162610Z" creationid="manuel" creationdate="20181015T162610Z">
+        <seg>Registrare un database *.odb è semplice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reizinger Zoltán</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170111Z">
@@ -38469,6 +38765,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T132554Z">
         <seg>Risultato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Result: breakfast cost &lt;Breakfast&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163420Z" creationid="manuel" creationdate="20181015T163420Z">
+        <seg>Risultato: la colazione del costo di &lt;Colazione&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Result: paid by &lt;Bpayment&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163433Z" creationid="manuel" creationdate="20181015T163433Z">
+        <seg>Risultato: pagato da &lt;PagamentoCo&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39073,6 +39385,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save the document if you want to use it as an example later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163714Z" creationid="manuel" creationdate="20181015T163714Z">
+        <seg>Salvate il documento se volete utilizzarlo come esempio in seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163823Z" creationid="manuel" creationdate="20181015T163823Z">
+        <seg>Salvate il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save the new database with the name &lt;f0&gt;Automobile&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T162705Z">
@@ -39085,6 +39413,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T122427Z">
         <seg>Salvare i fogli elettronici nel formato file di Calc (&lt;f0&gt;*.ods&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164612Z" creationid="manuel" creationdate="20181015T164612Z">
+        <seg>Salvate il foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39477,6 +39813,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T152440Z">
         <seg>Vedere il Capitolo 10 (Stampa, esportazione e invio di e-mail) in questa guida e il Capitolo &lt;f0&gt;7&lt;/f0&gt; (Stampa, esportazione e invio di e-mail) nella &lt;f1&gt;Guida a Writer&lt;/f1&gt; per dettagli sull'anteprima delle pagine prima della stampa, sulla selezione delle opzioni di stampa, stampa in bianco e nero su stampante a colori, stampa di depliant, e altre funzionalità di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 11 in the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163007Z" creationid="manuel" creationdate="20181015T163007Z">
+        <seg>Vedere il Capitolo 11 nella &lt;f1&gt;Guida a Writer&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41329,6 +41673,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the rows of data you want to add to the spreadsheet:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164524Z" creationid="manuel" creationdate="20181015T164524Z">
+        <seg>Selezionate le righe dei dati che volete inserire nel foglio elettronico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the settings for your table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163815Z" creationid="manuel" creationdate="20181015T163815Z">
+        <seg>Scegliete la configurazione della vostra tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the sheet where you want to insert a new sheet, then go to &lt;f0&gt;Sheet &gt; Insert Sheet...&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T122550Z">
@@ -42857,6 +43217,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes after updating LibreOffice to a newer version, your list of registered database files disappears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162715Z" creationid="manuel" creationdate="20181015T162715Z">
+        <seg>A volte, aggiornando LibreOffice a una nuova versione, l'elenco di file database registrati scompare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes it is necessary to edit the contents of cell without removing all of the data from the cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120313Z">
@@ -44101,6 +44469,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082531Z">
         <seg>Questo è il motivo per il quale è stato usato il campo Data in entrambe le tabelle: entrambi i campi sono del tipo Data[DATE].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That row is highlighted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164527Z" creationid="manuel" creationdate="20181015T164527Z">
+        <seg>Questa riga risulterà evidenziata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45583,6 +45959,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093250Z">
         <seg>I dati nei campi variano in base al contenuto del record selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The data in the sentence changes to this selected row of data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163712Z" creationid="manuel" creationdate="20181015T163712Z">
+        <seg>I dati nella frase cambiano con quelli della riga scelta ora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47187,10 +47571,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The order of the fields in the table you create will be the same as in the data source table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163805Z" creationid="manuel" creationdate="20181015T163805Z">
+        <seg>L'ordine dei campi nella tabella creata sarà lo stesso della tabella sorgente dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The original objects are no longer available as individual entities and cannot be edited as individual objects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112206Z">
         <seg>Gli oggetti originali non sono più disponibili come entità individuali e non possono essere modificati come singoli oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The other creates complete new records in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164213Z" creationid="manuel" creationdate="20181015T164213Z">
+        <seg>Nell'altro caso vengono creati dei record completamente nuovi nel foglio elettronico</seg>
       </tuv>
     </tu>
     <tu>
@@ -47479,6 +47879,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065716Z">
         <seg>Il risultato è una selezione multipla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result: On &lt;Date&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163351Z" creationid="manuel" creationdate="20181015T163351Z">
+        <seg>Il risultato sarà: Il giorno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47807,6 +48215,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190821Z">
         <seg>La barra di stato è posizionata nella parte inferiore dello spazio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The steps are straightforward.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164319Z" creationid="manuel" creationdate="20181015T164319Z">
+        <seg>La procedura è molto semplice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48403,6 +48819,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are two ways to transfer data into a Calc spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164206Z" creationid="manuel" creationdate="20181015T164206Z">
+        <seg>Vi sono due modi per trasferire dati in un foglio elettronico di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are usually two files from which to choose, dialog.xlb and script.xlb.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T085833Z">
@@ -48967,6 +49391,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165544Z">
         <seg>Questa e le altre guide utente di LibreOffice, il sistema di aiuto integrato e i sistemi di assistenza agli utenti presuppongono un minimo di familiarità con il computer e con funzioni basilari quali l'avvio di un programma, l'apertura e il salvataggio di file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This brings up a list of registered databases, which will include Bibliography and any other database registered, such as the Automobile database created earlier in this chapter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162805Z" creationid="manuel" creationdate="20181015T162805Z">
+        <seg>In questo modo viene mostrato un elenco dei database registrati, incluso Bibliography e qualsiasi altro database registrato, come il database Automobile creato precedentemente in questo capitolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49811,6 +50243,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This should fill the fields with the data from the row you chose.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163708Z" creationid="manuel" creationdate="20181015T163708Z">
+        <seg>Questa operazione dovrebbe mostrarvi i campi compilati con i dati della riga che avete scelto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This step in creating the form determines where a control’s label and field are placed relative to each other.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T082720Z">
@@ -49919,6 +50359,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175925Z">
         <seg>Thomas Astleitner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Those rows are highlighted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164535Z" creationid="manuel" creationdate="20181015T164535Z">
+        <seg>Queste righe verranno evidenziate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51558,6 +52006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To insert a field from a table opened in the data source window into a Writer document, click on the field name (the gray square at the top of the field list) and, with the left mouse button held down, drag the field onto the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163028Z" creationid="manuel" creationdate="20181015T163028Z">
+        <seg>Per inserire un campo di una tabella dalla finestra Sorgenti dati all'interno di un documento Writer, fate clic sul nome del campo (il rettangolo grigio sovrastante l'elenco del campo) e, tenendo premuto il pulsante sinistro del mouse, trascinate il campo nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To insert a formula into a chart, create the formula first using the Formula Editor and copy the formula to the clipboard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180915T140804Z">
@@ -52223,6 +52679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To replace (date), click the field name Date in the data source window and drag it to the right of the word &lt;f0&gt;On&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163302Z" creationid="manuel" creationdate="20181015T163245Z">
+        <seg>Per sostituire (data), fate clic sul campo Data nella finestra sorgente dati e trascinatelo alla destra della parola &lt;f0&gt;giorno&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To replace the found text, click &lt;f3&gt;Replace.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103639Z">
@@ -52439,6 +52903,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To select all the rows, click the gray box in the upper left corner.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164538Z" creationid="manuel" creationdate="20181015T164538Z">
+        <seg>Per selezionare tutte le righe presenti, fate clic sul riquadro grigio nell'angolo superiore sinistro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To select an object that is covered by another object using the keyboard, use the &lt;f0&gt;Tab&lt;/f0&gt; key to cycle through the objects, stopping at the object you want to select.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172413Z">
@@ -52491,6 +52963,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171625Z">
         <seg>Per selezionare più oggetti tramite cornice, l'icona &lt;f0&gt;Selezione&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; sulla barra degli strumenti Disegno deve essere attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select multiple rows, hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key while clicking the gray box of the rows you need.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164830Z" creationid="manuel" creationdate="20181015T164830Z">
+        <seg>Per selezionare più righe, tenete premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; mentre fate clic sul riquadro grigio delle righe di cui avete bisogno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53711,6 +54191,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;Lunch&gt; and &lt;LPayment&gt; for the second set of (amount) and (name) in the sentence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163516Z" creationid="manuel" creationdate="20181015T163516Z">
+        <seg>Usate &lt;Pranzo&gt; e &lt;PagamentoPr&gt; per la seconda coppia di (costo) e (nome) della frase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;Supper&gt; and &lt;SPayment&gt; for the third set of (amount) and (name) in the sentence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163638Z" creationid="manuel" creationdate="20181015T163638Z">
+        <seg>Usate &lt;Cena&gt; e &lt;PagamentoCe&gt; per la terza coppia di (costo) e (nome) della frase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f0&gt;Columnar, three columns &lt;/f0&gt;for the layout.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T154129Z" creationid="manuel" creationdate="20181015T154129Z">
@@ -53723,6 +54219,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T083018Z">
         <seg>Premete &lt;f0&gt;Ctrl+Alt+Pag giù&lt;/f0&gt; per passare al commento successivo e &lt;f1&gt;Ctrl+Alt+Pag su&lt;/f1&gt; per spostarvi a quello precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;F4&lt;/f0&gt; to open the database source window and select the table whose data you want to use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164522Z" creationid="manuel" creationdate="20181015T164522Z">
+        <seg>Usate &lt;f0&gt;F4&lt;/f0&gt; per aprire la finestra sorgente dati e selezionate la tabella di cui volete utilizzare i dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54272,6 +54776,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use this sentence: “On (date), our breakfast cost (amount) paid by (name), our lunch cost (amount) paid by (name), and our supper cost (amount) paid by (name).” But only type &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163110Z" creationid="manuel" creationdate="20181015T163110Z">
+        <seg>Create una frase di questo tipo: “Il giorno (data), la colazione del costo di (costo) è stata pagata da (nome), il pranzo del costo di (costo) è stato pagato da (nome), e la cena del costo di (costo) è stata pagata da (nome)." Però digitate solamente &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use what is appropriate for yours.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180827T105718Z">
@@ -54660,6 +55172,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185155Z">
         <seg>Utilizzo delle fonti di dati in LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using data sources in Writer and Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162954Z" creationid="manuel" creationdate="20181015T162954Z">
+        <seg>Utilizzo di sorgenti dati in Writer e Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -55140,6 +55660,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212214Z" creationid="Alessia Mazzarini" creationdate="20181007T212214Z">
         <seg>Vista Layout (vista che consente la modifica): usate il pulsante Fianco a fianco (Anteprima libro) sulla barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View a table’s data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162834Z" creationid="manuel" creationdate="20181015T162834Z">
+        <seg>Visualizzare i dati di una tabella</seg>
       </tuv>
     </tu>
     <tu>
@@ -56057,6 +56585,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When that happens, you can use these steps to re-register your database files with your latest version of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162730Z" creationid="manuel" creationdate="20181015T162730Z">
+        <seg>Quando capita, dovete seguire questi passaggi per registrare i file database con l'ultima versione di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; option (see above) is &lt;f1&gt;not&lt;/f1&gt; selected, the &lt;f2&gt;Display warning&lt;/f2&gt; option becomes available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164336Z">
@@ -56793,6 +57329,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While you can directly access the data inserted into the spreadsheet cells, new records created in the spreadsheet are read-only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164229Z" creationid="manuel" creationdate="20181015T164229Z">
+        <seg>Mentre è possibile accedere direttamente ai dati inseriti nelle celle del foglio elettronico, i dati contenuti nei nuovi record creati nel foglio elettronico possono essere solo visualizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Who is this book for?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152831Z">
@@ -57187,8 +57731,8 @@
       <tuv lang="EN">
         <seg>Writer documents</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T122413Z">
-        <seg>Documenti Writer</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163011Z">
+        <seg>documenti Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -59589,6 +60133,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180922T122410Z">
         <seg>Queste dovreste formattarle manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to have the Data Source window open, your spreadsheet open, and the table you want to use selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164721Z" creationid="manuel" creationdate="20181015T164721Z">
+        <seg>Dovete aver aperto la finestra Sorgente dati e il vostro foglio elettronico, e selezionato la tabella dalla quale desiderate prelevare i dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62921,6 +63473,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>using in OOo documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162950Z" creationid="manuel" creationdate="20181015T162950Z">
+        <seg>utilizzo nei documenti di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>validating cell contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T091647Z">
@@ -63077,6 +63637,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T200737Z">
         <seg>“...agevolare l'evoluzione della Comunità di OpenOffice.org in una nuova struttura organizzativa aperta, indipendente e meritocratica entro i prossimi mesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“On, our breakfast cost paid by , our lunch cost paid by , and our supper cost paid by .”</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163123Z" creationid="manuel" creationdate="20181015T163123Z">
+        <seg>“Il giorno , la colazione del costo di è stata pagata da , il pranzo del costo di è stato pagato da , e la cena del costo di è stata pagata da .”</seg>
       </tuv>
     </tu>
     <tu>
