@@ -3312,6 +3312,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Ctrl+Click&lt;/f0&gt; the gray box to the left of each row of the data source that you want to be a row in your table if the rows are not consecutive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T080303Z" creationid="manuel" creationdate="20181018T080303Z">
+        <seg>Fate &lt;f0&gt;Ctrl+clic&lt;/f0&gt; sul riquadro grigio a sinistra di ogni riga della sorgente dati che volete importare come riga nella vostra tabella, se le righe non sono consecutive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Ctrl+Enter&lt;/f0&gt; at the Selection icon</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180830T063955Z">
@@ -9113,6 +9121,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding data in table format is a little easier and takes perhaps fewer steps.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T080206Z" creationid="manuel" creationdate="20181018T080206Z">
+        <seg>Aggiungere dati in una tabella è più semplice e richiede forse meno passaggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding functionality with extensions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151908Z">
@@ -13187,6 +13203,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choosing &lt;f0&gt;Tools &gt; Mail Merge Wizard&lt;/f0&gt; or clicking on the Mail Merge icon (circled in red) in the Data Sources window launches the Mail Merge wizard which steps you through creating a mail merge document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T074954Z" creationid="manuel" creationdate="20181018T074954Z">
+        <seg>Scegliete &lt;f0&gt;Strumenti &gt; Stampa guidata in serie&lt;/f0&gt; oppure fate clic sull'icona Stampa in serie sul pannello della Visualizzazione sorgenti dati per avviare la procedura Stampa guidata in serie, che vi guida nella creazione di un documento per la stampa in serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choosing &lt;i0/&gt;options for all of LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083208Z">
@@ -14913,6 +14937,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T145853Z">
         <seg>Fate clic sull'icona &lt;f0&gt;Controllo&lt;/f0&gt; per aprire la finestra Proprietà (Figura &lt;t1&gt;230&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Data to Fields &lt;/f0&gt;icon (circled).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T080151Z" creationid="manuel" creationdate="20181018T080151Z">
+        <seg>Fate clic sull'icona (cerchiata) &lt;f0&gt;Dati in campi&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18952,6 +18984,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing this data requires only a click in the cell whose data should be changed, change the data, and click in the row above or below it to save the new data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T074318Z" creationid="manuel" creationdate="20181018T074318Z">
+        <seg>La modifica di questi dati richiede solo un clic nella cella i cui dati devono essere modificati, modificate i dati e fate clic nella riga sopra o sotto per salvare i nuovi dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edits the replacement table for automatically correcting or replacing words or abbreviations in the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202144Z">
@@ -20984,6 +21024,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;266&lt;/seq0&gt;: Toolbar for the Data Sources window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T074916Z" creationid="manuel" creationdate="20181018T074916Z">
+        <seg>Figura &lt;seq0&gt;266&lt;/seq0&gt;: barra strumenti per la finestra Sorgente dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;267&lt;/seq0&gt;: Selected row in data source window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163726Z" creationid="manuel" creationdate="20181015T163726Z">
@@ -22324,6 +22372,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T204043Z">
         <seg>strumento Riempimento, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Final result: On &lt;Date&gt;, our breakfast cost &lt;Breakfast&gt; paid by &lt;BPayment&gt;, our lunch cost &lt;Lunch&gt; paid by &lt;LPayment&gt;, and our supper cost &lt;Supper&gt; paid by &lt;SPayment&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T080000Z" creationid="manuel" creationdate="20181018T080000Z">
+        <seg>Risultato finale: Il giorno &lt;Data&gt;, la colazione del costo di &lt;Colazione&gt; pagato da &lt;PagamentoCo&gt;, il pranzo del costo di &lt;Pranzo&gt; pagato da &lt;PagamentoPr&gt;, e la cena del costo di &lt;Cena&gt; pagato da &lt;PagamentoCe&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27832,6 +27888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you click on a table, its rows and columns of data appear on the right side of the Data Source window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T074223Z" creationid="manuel" creationdate="20181018T074223Z">
+        <seg>Se fate clic su una tabella, le sue righe e colonne di dati vengono visualizzate sul lato destro della finestra Visualizza Sorgente dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you click on one member of the group, the whole group is selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T141059Z">
@@ -28044,6 +28108,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T201928Z">
         <seg>Se avete seguito tutti i passaggi precedenti, la libreria Standard ora contiene un modulo denominato Registrato che contiene la macro InserisciMioNome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have Field shadings turned on (&lt;f1&gt;View &gt; Field shading&lt;/f1&gt;), &lt;Date&gt; has a gray background.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T075404Z" creationid="manuel" creationdate="20181018T075404Z">
+        <seg>Se avete attivato l'ombreggiatura dei nomi di campo (&lt;f1&gt;Visualizza &gt; Contrassegni&lt;/f1&gt;), il campo &lt;Data&gt; sarà contrassegnato da uno sfondo grigio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31628,6 +31700,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144840Z">
         <seg>Prestate la dovuta attenzione, e utilizzate &lt;f2&gt;Ctrl+Z&lt;/f2&gt; per annullare eventuali errori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Just right-click on a database or its Tables or Queries icons and select &lt;f0&gt;Edit Database File&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T074720Z" creationid="manuel" creationdate="20181018T074720Z">
+        <seg>Fate semplicemente clic con il pulsante destro del mouse su un database o sulle icone Tabelle o Ricerche e selezionate &lt;f0&gt;Modifica file del database&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36341,6 +36421,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T122408Z">
         <seg>Aprite i documenti contenenti gli elementi per i quali desiderate creare un riferimento incrociato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the list of data sources (&lt;f0&gt;F4&lt;/f0&gt;) and select the Vacations table in the Automobile database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T075036Z" creationid="manuel" creationdate="20181018T075036Z">
+        <seg>Aprite l'elenco delle sorgenti dati (&lt;f0&gt;F4&lt;/f0&gt;) e selezionate la tabella Vacanze nel database Automobile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43161,6 +43249,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the steps will be quite similar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T080223Z" creationid="manuel" creationdate="20181018T080223Z">
+        <seg>Alcuni dei passaggi sono molto simili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of these additional toolbars are context sensitive and will automatically appear depending on the position of the cursor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T183649Z">
@@ -44517,6 +44613,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164527Z" creationid="manuel" creationdate="20181015T164527Z">
         <seg>Questa riga risulterà evidenziata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That row should be highlighted like the second row of Figure &lt;t0&gt;267&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T080116Z" creationid="manuel" creationdate="20181018T080116Z">
+        <seg>La riga dovrebbe risultare evidenziata come la seconda riga della Figura &lt;t0&gt;267&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46467,6 +46571,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The fifth button, with a small star, inserts a new record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T074413Z" creationid="manuel" creationdate="20181018T074413Z">
+        <seg>Il quinto pulsante, sul quale è raffigurata una piccola stella, permette di inserire un nuovo record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file is installed as a “user only” file in a multi-user system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T130027Z">
@@ -46527,6 +46639,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180921T124530Z">
         <seg>In questo esempio la prima colonna indica il nome di una costante ed ogni nome è seguito da uno spazio ed una tabulazione, ogni riga invece ha due spazi iniziali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first four move the cursor to the beginning, to the left, to the right, and to the end respectively.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T074352Z" creationid="manuel" creationdate="20181018T074352Z">
+        <seg>I primi quattro spostano il cursore all'inizio, a sinistra, a destra e alla fine, rispettivamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49437,8 +49557,8 @@
       <tuv lang="EN">
         <seg>This brings up Queries and Tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T072757Z" creationid="manuel" creationdate="20181018T072532Z">
-        <seg>Questo fa apparire Query e Tabelle.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T074815Z" creationid="manuel" creationdate="20181018T072532Z">
+        <seg>Questo fa apparire Ricerche e Tabelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51463,8 +51583,8 @@
       <tuv lang="EN">
         <seg>To delete a record, right-click on the gray box to the left of a row to highlight the entire row, and select &lt;f0&gt;Delete Rows&lt;/f0&gt; to remove the selected row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181007T011458Z" creationid="luke" creationdate="20181007T011458Z">
-        <seg>To delete a record, right-click on the gray box to the left of a row to highlight the entire row, and select &lt;f0&gt;Delete Rows&lt;/f0&gt; to remove the selected row.</seg>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T074457Z" creationid="luke" creationdate="20181007T011458Z">
+        <seg>Per eliminare un record, fate clic con il pulsante destro sul riquadro grigio a sinistra di una riga per evidenziare l'intera riga, quindi selezionate &lt;f0&gt;Elimina righe&lt;/f0&gt; per eliminare la riga selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52743,6 +52863,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To replace first (amount), click the Breakfast field name and drag it to the right of &lt;f0&gt;our breakfast cost&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T075636Z" creationid="manuel" creationdate="20181018T075636Z">
+        <seg>Per sostituire il primo (costo), fate clic sul campo Colazione e trascinatelo a destra di &lt;f0&gt;la colazione del costo di&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To replace the first (name), click the Bpayment field name and drag it to the right of &lt;f0&gt;paid by&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T075752Z" creationid="manuel" creationdate="20181018T075752Z">
+        <seg>Per sostituire il primo (nome), fate clic sul campo PagamentoCo e trascinatelo a destra di &lt;f0&gt;pagato da&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To replace the found text, click &lt;f3&gt;Replace.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T103639Z">
@@ -52979,6 +53115,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T123217Z">
         <seg>Per selezionare ed eseguire una qualsiasi macro del modulo, fate clic sull'icona &lt;f0&gt;Seleziona Macro &lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; nella barra degli strumenti Standard oppure andate in &lt;f3&gt;Strumenti &gt; Macro &gt; Gestione macro &gt; LibreOffice Basic&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select consecutive rows, click the gray box to the left of the top desired row and &lt;f1&gt;Shift+click&lt;/f1&gt; the bottom desired row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T080333Z" creationid="manuel" creationdate="20181018T080333Z">
+        <seg>Per selezionare righe consecutive, fate clic sul riquadro grigio a sinistra della riga più in alto e poi &lt;f1&gt;Maiusc+clic&lt;/f1&gt; sulla riga più in basso tra quelle che volete selezionare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59205,6 +59349,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190103Z">
         <seg>Anche voi potete entrare a far parte della comunità e contribuire allo sviluppo del prodotto che utilizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can launch LibreOffice Base at any time from the Data Source window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T074628Z" creationid="manuel" creationdate="20181018T074628Z">
+        <seg>In qualsiasi momento è possibile avviare LibreOffice Base dal finestra Sorgenti dati.</seg>
       </tuv>
     </tu>
     <tu>
