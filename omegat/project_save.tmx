@@ -223,6 +223,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The &lt;f2&gt;Data to text &lt;/f2&gt;icon is to the left of the Data to Fields icon in Figure &lt;t3&gt;267&lt;/t3&gt;.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T082841Z" creationid="manuel" creationdate="20181018T082841Z">
+        <seg>(L'icona &lt;f2&gt;Dati in testo&lt;/f2&gt; si trova a sinistra dell'icona Dati in campi in Figura &lt;t3&gt;267&lt;/t3&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The arrows are circled in red.) The number in the box changes when you change the record number by clicking an arrow.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093303Z">
@@ -14949,6 +14957,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Data to text &lt;/f0&gt;icon to open the Insert Database Columns dialog (Figure &lt;t1&gt;268&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T082741Z" creationid="manuel" creationdate="20181018T082741Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Dati in testo&lt;/f0&gt; per aprire la finestra di dialogo Inserisci colonne di database (Figura &lt;t1&gt;268&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Data to text&lt;/f0&gt; icon to insert the data into the spreadsheet cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164610Z" creationid="manuel" creationdate="20181015T164610Z">
@@ -28656,6 +28672,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to use all of the fields, use the&lt;f0&gt; double arrow &lt;/f0&gt;pointing to the right to move all of them at one time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T083055Z" creationid="manuel" creationdate="20181018T083055Z">
+        <seg>Se desiderate invece selezionare tutti i campi, usate la &lt;f0&gt;doppia freccia&lt;/f0&gt; che punta verso destra per spostarli tutti insieme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use fields from different tables, you must first combine these fields in a single query or view.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T145746Z">
@@ -34181,6 +34205,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121302Z">
         <seg>Spostare il cursore nella riga di digitazione della barra della formula (Figura &lt;t0&gt;87&lt;/t0&gt; a pagina &lt;t1&gt;115&lt;/t1&gt;) e fare clic nel punto in cui volete iniziare ad inserire i nuovi dati nella cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the fields you want in your table from the &lt;f0&gt;Database Columns&lt;/f0&gt; list to the &lt;f1&gt;Table column(s)&lt;/f1&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T082936Z" creationid="manuel" creationdate="20181018T082936Z">
+        <seg>Spostate i campi che desiderate nella tabella dall'elenco &lt;f0&gt;Colonne database&lt;/f0&gt; all'elenco &lt;f1&gt;Colonne tabella&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52607,6 +52639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To place the fields in the order you select, click the field and use the &lt;f0&gt;single arrow &lt;/f0&gt;to move the fields in the order you desire.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T083010Z" creationid="manuel" creationdate="20181018T083010Z">
+        <seg>Per posizionare i campi nell'ordine che desiderate, fateci clic sopra ed usate la &lt;f0&gt;freccia singola&lt;/f0&gt; per spostarli nell'ordine preferito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To preserve leading zeros in a number:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T175927Z">
@@ -58485,6 +58525,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T163850Z">
         <seg>Potete inoltre importare ed esportare i modelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also limit the fields you use to less than all of the fields available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T083025Z" creationid="manuel" creationdate="20181018T083025Z">
+        <seg>Potete anche usare solo i campi che vi occorrono e non necessariamente tutti quelli disponibili.</seg>
       </tuv>
     </tu>
     <tu>
