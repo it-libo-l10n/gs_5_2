@@ -14499,6 +14499,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; next to Tables to view the individual tables created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T072733Z" creationid="manuel" creationdate="20181018T072733Z">
+        <seg>Fate clic sul segno &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;accanto a Tabelle per visualizzare le singole tabelle create.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the &lt;f0&gt;&lt;f1&gt;Borders&lt;/f1&gt;&lt;/f0&gt; tab and select the options you want to use for the formula &lt;f2&gt;borders (&lt;/f2&gt;&lt;f3&gt;Figure &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;283&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180913T192116Z">
@@ -35177,6 +35185,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now click on a table to see all the records held in it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T072833Z" creationid="manuel" creationdate="20181018T072833Z">
+        <seg>Ora fate clic su una tabella per visualizzare tutti i record in essa contenuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now click the Save icon in the main database window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T101319Z" creationid="manuel" creationdate="20181015T101319Z">
@@ -43041,6 +43057,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some data sources (but not spreadsheets) can be edited in the Data View window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T072900Z" creationid="manuel" creationdate="20181018T072900Z">
+        <seg>Alcune sorgenti dati (tranne i fogli elettronici) possono essere modificate all'interno della finestra Visualizza Sorgenti dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some dialogs can be left open as you work, so you can switching back and forth between the dialog and the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175348Z">
@@ -49411,6 +49435,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This brings up Queries and Tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T072757Z" creationid="manuel" creationdate="20181018T072532Z">
+        <seg>Questo fa apparire Query e Tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This brings up a list of registered databases, which will include Bibliography and any other database registered, such as the Automobile database created earlier in this chapter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162805Z" creationid="manuel" creationdate="20181015T162805Z">
@@ -53439,10 +53471,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To view each database, click on the arrow to the left of the database’s name (see Figure &lt;t0&gt;263&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T072420Z" creationid="manuel" creationdate="20181018T072420Z">
+        <seg>Per visualizzare ciascun database, fate clic sul segno alla sinistra del nome del database (vedere Figura &lt;t0&gt;239&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To view information held in a database or data source.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164550Z">
         <seg>Visualizzare le informazioni contenute in un database o in una sorgente dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To view the data sources available, press &lt;f0&gt;F4&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;or select &lt;f2&gt;View &gt; Data Sources&lt;/f2&gt; from the pull-down menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T072336Z" creationid="manuel" creationdate="20181018T072336Z">
+        <seg>Per visualizzare le sorgenti dati a disposizione premete &lt;f0&gt;F4&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;oppure selezionate &lt;f2&gt;Visualizza &gt; Sorgenti dati&lt;/f2&gt; dal menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53987,6 +54035,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T122406Z">
         <seg>Nelle &lt;f0&gt;Proprietà&lt;/f0&gt;, selezionate Ritorno a capo automatico e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under &lt;f0&gt;Registered databases&lt;/f0&gt;, click &lt;f1&gt;New&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="manuel" changedate="20181018T072232Z" creationid="manuel" creationdate="20181018T072232Z">
+        <seg>Sotto &lt;f0&gt;Database registrati&lt;/f0&gt;, fate clic su &lt;f1&gt;Nuovo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
