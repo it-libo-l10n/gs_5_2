@@ -19186,8 +19186,8 @@
       <tuv lang="EN">
         <seg>Enter the &lt;f0&gt;slide &lt;/f0&gt;number&lt;f1&gt;s&lt;/f1&gt; to print (for example 1-4 or 1,3,7,11).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203523Z" creationid="Alessia Mazzarini" creationdate="20181007T203523Z">
-        <seg>Inserite il &lt;f0&gt;numero &lt;/f0&gt;delle diapositive&lt;f1&gt;da&lt;/f1&gt; stampare (ad esempio 1-4 or 1,3,7,11).</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181101T113527Z" creationid="Alessia Mazzarini" creationdate="20181007T203523Z">
+        <seg>Inserite il &lt;f0&gt;numero &lt;/f0&gt;delle diapositive&lt;f1&gt;&lt;/f1&gt; da stampare (ad esempio 1-4 o 1,3,7,11).</seg>
       </tuv>
     </tu>
     <tu>
