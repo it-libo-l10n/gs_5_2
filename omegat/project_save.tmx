@@ -41443,8 +41443,8 @@
       <tuv lang="EN">
         <seg>Select the appropriate settings, and then click&lt;f1&gt; Export.&lt;/f1&gt; Then you are asked to enter the location and file name of the PDF to be created, and click&lt;f2&gt; Save&lt;/f2&gt; to export the file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T172259Z" creationid="luke" creationdate="20181007T004959Z">
-        <seg>Selezionate le impostazioni appropriate e poi fate clic su&lt;f1&gt; Esporta.&lt;/f1&gt; Vi verrà chiesto di immettere il percorso e il nome del file PDF che state creando, e di fare clic su&lt;f2&gt; Salva&lt;/f2&gt; per esportare il file.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181101T174000Z" creationid="luke" creationdate="20181007T004959Z">
+        <seg>Selezionate le impostazioni appropriate e poi fate clic su&lt;f1&gt; Esporta.&lt;/f1&gt; Vi verrà chiesto di immettere il percorso e il nome del file PDF che state creando e di fare clic su&lt;f2&gt; Salva&lt;/f2&gt; per esportare il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49765,8 +49765,8 @@
       <tuv lang="EN">
         <seg>This dialog has six pages (General, Initial View, User Interface, Links, Security, and Digital Signatures).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T172115Z" creationid="Alessia Mazzarini" creationdate="20181011T172115Z">
-        <seg>Questa finestra è composta da sei pagine (Generale, Visualizzazione iniziale, Interfaccia utente, Collegamenti, Sicurezza e Firme digitali).</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181101T173921Z" creationid="Alessia Mazzarini" creationdate="20181011T172115Z">
+        <seg>Questa finestra è composta da sei schede (Generale, Visualizzazione iniziale, Interfaccia utente, Collegamenti, Sicurezza e Firme digitali).</seg>
       </tuv>
     </tu>
     <tu>
