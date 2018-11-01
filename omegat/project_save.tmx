@@ -29520,6 +29520,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to printing a full document, you can choose to print individual pages/sheets/slides, ranges of pages/sheets/slides, or a selection of a document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181101T110444Z" creationid="Alessia Mazzarini" creationdate="20181101T110444Z">
+        <seg>Oltre a stampare un intero documento, potete scegliere di stampare singole pagine/fogli/diapositive, intervalli di pagine/fogli/diapositive o una selezione di un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to renaming, you can allocate a letter in a custom menu’s name, which will become underlined, to be used as a keyboard shortcut, allowing you to select that menu by pressing &lt;f0&gt;Alt+&lt;/f0&gt; that letter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180819T062545Z">
