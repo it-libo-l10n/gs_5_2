@@ -13733,8 +13733,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to confirm your choice and return to the Print dialog,</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211706Z" creationid="Alessia Mazzarini" creationdate="20181007T211706Z">
-        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per confermare le vostre scelte e ritornare alla finestra di dialogo Stampa,</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181101T155323Z" creationid="Alessia Mazzarini" creationdate="20181007T211706Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per confermare le vostre scelte e ritornare alla finestra di dialogo Stampa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45853,8 +45853,8 @@
       <tuv lang="EN">
         <seg>The available choices vary from one printer to another, but you should find options for the Color settings.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211600Z" creationid="Alessia Mazzarini" creationdate="20181007T211600Z">
-        <seg>Le scelte disponibili dipendono dal modello di stampante, ma dovrebbero essere disponibili le opzioni per le impostazioni del colore.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181101T155218Z" creationid="Alessia Mazzarini" creationdate="20181007T211600Z">
+        <seg>Le scelte disponibili dipendono dal modello di stampante, ma dovrebbero comunque essere disponibili le opzioni per le impostazioni del colore.</seg>
       </tuv>
     </tu>
     <tu>
