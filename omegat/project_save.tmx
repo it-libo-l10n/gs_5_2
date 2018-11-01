@@ -35945,6 +35945,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Print dialog, in the Page sides section, select the &lt;f0&gt;Front sides / right pages&lt;/f0&gt; option from the Include drop-down box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181101T154704Z" creationid="Alessia Mazzarini" creationdate="20181101T154704Z">
+        <seg>Nella finestra di dialogo Stampa, nella sezione Lati della pagina, selezionate l'opzione &lt;f0&gt;Fronte/pagine destre&lt;/f0&gt; dall'elenco a discesa Includi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Print dialog, select the page to print.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201243Z" creationid="Alessia Mazzarini" creationdate="20181007T201243Z">
