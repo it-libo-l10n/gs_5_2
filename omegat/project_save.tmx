@@ -2799,6 +2799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Archive &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;PDF/A-1a (ISO 19005-1)&lt;/f2&gt;: PDF/A is an ISO standard for long-term preservation of documents, by embedding all the information necessary for faithful reproduction (such as fonts) while forbidding other elements (including forms, security, and encryption).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T193052Z" creationid="Alessia Mazzarini" creationdate="20181104T193052Z">
+        <seg>&lt;f0&gt;Archivio &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;PDF/A-1a (ISO 19005-1)&lt;/f2&gt;: PDF/A is an ISO standard for long-term preservation of documents, by embedding all the information necessary for faithful reproduction (such as fonts) while forbidding other elements (including forms, security, and encryption).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Area:&lt;/f0&gt; Fill and transparency edits are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T143805Z">
@@ -4436,6 +4444,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T114412Z">
         <seg>&lt;f0&gt;Questo produrrà il risultato sbagliato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hyb&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;r&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;id PDF (embed ODF file)&lt;/f3&gt;: Use this setting to export the document as a PDF file containing two file formats: PDF and ODF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T192833Z" creationid="Alessia Mazzarini" creationdate="20181104T192833Z">
+        <seg>&lt;f0&gt;PDF&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;i&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;brido (incorpora il file ODF)&lt;/f3&gt;: usate questa impostazione per esportare il documento come un file PDF contenente due formati di file: PDF e ODF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29388,6 +29404,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084623Z">
         <seg>In Opzioni, nella parte bassa della finestra di dialogo, scorrete verso il basso fino a trovare le impostazioni per la sillabazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In PDF viewers it behaves like a normal PDF file, and it remains fully editable in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T193011Z" creationid="Alessia Mazzarini" creationdate="20181104T193011Z">
+        <seg>Il documento sarà visualizzabile come un normale file PDF dal visualizzatore PDF in uso e rimarrà completamente modificabile in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
