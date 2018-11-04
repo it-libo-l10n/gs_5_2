@@ -9657,6 +9657,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you set a password for permissions, the other choices on the Security page become available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223927Z" creationid="Alessia Mazzarini" creationdate="20181104T223927Z">
+        <seg>Dopo aver inserito una password di autorizzazione, le altre opzioni della scheda Sicurezza diventano accessibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Agnes Belzunce</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175929Z">
@@ -36585,6 +36593,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once opened, there are no restrictions on what the user can do with the document (for example, print, copy, or change it).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223709Z" creationid="Alessia Mazzarini" creationdate="20181104T223709Z">
+        <seg>Una volta aperto il file, non esistono restrizioni su cosa può fare l'utente sul documento (per esempio stamparlo, copiarlo o cambiarlo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once tables have been created using the wizard, and data has been entered, editing a table should be very limited.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180807T105534Z">
@@ -40677,6 +40693,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T165255Z">
         <seg>Vedere Figura &lt;t0&gt;70&lt;/t0&gt; per un esempio con appunti contenenti del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Figure &lt;t1&gt;298&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223826Z" creationid="Alessia Mazzarini" creationdate="20181104T223826Z">
+        <seg>Vedere la Figura &lt;t1&gt;298&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58345,6 +58369,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With &lt;f0&gt;both&lt;/f0&gt; the open password and permission password set, the PDF can only be opened with the correct password, and its permissions can be restricted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T224002Z" creationid="Alessia Mazzarini" creationdate="20181104T224002Z">
+        <seg>Con &lt;f0&gt;entrambe&lt;/f0&gt; le password di apertura e password di autorizzazione impostate, il file PDF può essere aperto solo con la password corretta e le operazioni su esso possono essere limitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With &lt;i0/&gt;Report Builder, you can create complex and stylish database reports.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T155509Z" creationid="manuel" creationdate="20181015T155250Z">
@@ -58377,10 +58409,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With a &lt;f0&gt;permissions password set&lt;/f0&gt;, the PDF can be opened by anyone, but its permissions can be restricted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223812Z" creationid="Alessia Mazzarini" creationdate="20181104T223812Z">
+        <seg>Con una &lt;f0&gt;password di autorizzazione impostata&lt;/f0&gt;, il PDF può essere aperto da chiunque, ma i permessi a operare su esso possono essere limitati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With a transparency gradient, the direction and degree of object fill color changes from opaque to transparent.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150719Z">
         <seg>Con un gradiente di  trasparenza, la direzione e il grado del colore di riempimento di un oggetto cambia da opaco a trasparente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With an &lt;f0&gt;open password&lt;/f0&gt; set, the PDF can only be opened with the &lt;i1/&gt;password&lt;i2/&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223655Z" creationid="Alessia Mazzarini" creationdate="20181104T223655Z">
+        <seg>Impostando una &lt;f0&gt;password di apertura&lt;/f0&gt;, il documento può essere aperto solamente con la &lt;i1/&gt;password&lt;i2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
