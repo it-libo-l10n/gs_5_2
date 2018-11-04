@@ -2769,8 +2769,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Allow duplicate field names:&lt;/f0&gt; If enabled, the same field name can be used for multiple fields in the generated PDF file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T210911Z" creationid="Alessia Mazzarini" creationdate="20181104T203508Z">
-        <seg>&lt;f0&gt;Permetti duplicazione dei nomi di campo:&lt;/f0&gt; Se abilitata, è possibile utilizzare nel PDF generato uno stesso nome di campo per campi multipli.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T211756Z" creationid="Alessia Mazzarini" creationdate="20181104T203508Z">
+        <seg>&lt;f0&gt;Permetti duplicazione dei nomi di campo:&lt;/f0&gt; Se abilitata, è possibile utilizzare nel PDF creato uno stesso nome di campo per campi multipli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58083,8 +58083,8 @@
       <tuv lang="EN">
         <seg>With this option enabled, you can enter data in the first occurrence of the named field in the PDF document and all fields with the same name will carry your entry.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T210635Z" creationid="Alessia Mazzarini" creationdate="20181104T210635Z">
-        <seg>With this option enabled, inserendo dati nella prima occorrenza del campo  in the PDF document and all fields with the same name will carry your entry.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T211703Z" creationid="Alessia Mazzarini" creationdate="20181104T210635Z">
+        <seg>Abilitando questa opzione, una volta inseriti i dati nella prima occorrenza nel documento PDF del campo denominato, automaticamen tutti i campi con lo stesso nome verranno automaticamente rinominati .</seg>
       </tuv>
     </tu>
     <tu>
