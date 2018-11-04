@@ -34225,6 +34225,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most often you will choose the PDF format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T202754Z" creationid="Alessia Mazzarini" creationdate="20181104T202754Z">
+        <seg>Il formato PDF è la scelta più comune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most operating systems can generate a self-signed certificate.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T073411Z">
@@ -49271,6 +49279,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153855Z">
         <seg>Vi è una chiara relazione tra gli autori ed i libri che ciascuno ha scritto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is only one common setting valid for the whole PDF document: PDF (sends the whole document), &lt;is3/&gt;FDF&lt;ie4/&gt; (sends the control contents), HTML, and XML.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T202737Z" creationid="Alessia Mazzarini" creationdate="20181104T202737Z">
+        <seg>È disponibile una sola impostazione comune valida per l'intero documento PDF: PDF (invia l'intero documento), &lt;is3/&gt;FDF&lt;ie4/&gt; (invia i contenuti del controllo), HTML e XML.</seg>
       </tuv>
     </tu>
     <tu>
