@@ -18736,6 +18736,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>EPS (Encapsulated PostScript) images with embedded previews are exported only as previews.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T180719Z" creationid="Alessia Mazzarini" creationdate="20181104T180719Z">
+        <seg>Le immagini EPS (Encapsulated PostScript) con anteprime incorporate sono esportate solo come anteprime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>EPS image</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T180657Z" creationid="Alessia Mazzarini" creationdate="20181104T180657Z">
+        <seg>immagine EPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>EPS images in PDF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T180652Z" creationid="Alessia Mazzarini" creationdate="20181104T180652Z">
+        <seg>immagini EPS in PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>EPS images without embedded previews are exported as empty placeholders.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T180805Z" creationid="Alessia Mazzarini" creationdate="20181104T180805Z">
+        <seg>Le immagini EPS senza anteprima sono esportate come segnaposti vuoti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each &lt;f2&gt;table&lt;/f2&gt; of the database is a group of fields.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152521Z">
@@ -21356,6 +21388,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T213005Z" creationid="Alessia Mazzarini" creationdate="20181007T213005Z">
         <seg>Figura &lt;seq0&gt;293&lt;/seq0&gt;: barra degli strumenti Anteprima di stampa (Calc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;294&lt;/seq0&gt;: General page of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T180533Z" creationid="Alessia Mazzarini" creationdate="20181104T180533Z">
+        <seg>Figura &lt;seq0&gt;294&lt;/seq0&gt;: scheda Generale della finestra di dialogo Opzioni PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -24892,6 +24932,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T174844Z" creationid="Alessia Mazzarini" creationdate="20181011T174844Z">
         <seg>Scheda generale &lt;i0/&gt;della finesta di dialogo Opzioni PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T180820Z" creationid="Alessia Mazzarini" creationdate="20181104T180820Z">
+        <seg>Sezione Generale</seg>
       </tuv>
     </tu>
     <tu>
