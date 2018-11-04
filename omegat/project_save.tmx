@@ -2801,8 +2801,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Archive &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;PDF/A-1a (ISO 19005-1)&lt;/f2&gt;: PDF/A is an ISO standard for long-term preservation of documents, by embedding all the information necessary for faithful reproduction (such as fonts) while forbidding other elements (including forms, security, and encryption).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T193052Z" creationid="Alessia Mazzarini" creationdate="20181104T193052Z">
-        <seg>&lt;f0&gt;Archivio &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;PDF/A-1a (ISO 19005-1)&lt;/f2&gt;: PDF/A is an ISO standard for long-term preservation of documents, by embedding all the information necessary for faithful reproduction (such as fonts) while forbidding other elements (including forms, security, and encryption).</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T193244Z" creationid="Alessia Mazzarini" creationdate="20181104T193052Z">
+        <seg>&lt;f0&gt;Archivio &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;PDF/A-1a (ISO 19005-1)&lt;/f2&gt;: il PDF/A è uno standard ISO per la conservazione dei documenti per lunghi periodi, mediante l'incorporamento di tutte le informazioni necessarie per una riproduzione fedele (come i tipi di carattere) mentre altri elementi vengono tralasciati (inclusi formulari, la sicurezza e la crittografia).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6036,6 +6036,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215210Z">
         <seg>&lt;f0&gt;Tabella&lt;/f0&gt; visualizza i comandi per inserire e modificare una tabella in un documento di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Tagged PDF&lt;/f0&gt;: Tagged PDF contains information about the structure of the document’s contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T193353Z" creationid="Alessia Mazzarini" creationdate="20181104T193353Z">
+        <seg>&lt;f0&gt;PDF con tag&lt;/f0&gt;: Tagged PDF contains information about the structure of the document’s contents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28640,6 +28648,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you select PDF/A-1a, the forbidden elements are grayed-out (not available).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T193314Z" creationid="Alessia Mazzarini" creationdate="20181104T193314Z">
+        <seg>Se selezionate PDF/A-1a, gli elementi tralasciati saranno in grigio (non disponibili).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you select the &lt;f0&gt;Persistently save passwords for web connections&lt;/f0&gt; option, the Set Master Password dialog opens (Figure &lt;t1&gt;45&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T151216Z">
@@ -37165,6 +37181,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T111700Z">
         <seg>L'esportazione in formato PDF per i moduli di LibreOffice è descritta nel Capitolo 10 (Stampa, esportazione e invio di e-mail) &lt;f0&gt;in&lt;/f0&gt; questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF tags are written.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T193254Z" creationid="Alessia Mazzarini" creationdate="20181104T193254Z">
+        <seg>I tag PDF vengono scritti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63845,6 +63869,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T103603Z">
         <seg>tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tagged</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T193323Z" creationid="Alessia Mazzarini" creationdate="20181104T193323Z">
+        <seg>contrassegnati</seg>
       </tuv>
     </tu>
     <tu>
