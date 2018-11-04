@@ -28496,6 +28496,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have defined links to other documents with OpenDocument extensions (such as .odt, .ods, and .odp), this option converts the files’ extensions to .pdf in the exported PDF document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T222433Z" creationid="Alessia Mazzarini" creationdate="20181104T222433Z">
+        <seg>Se avete definito dei collegamenti ad altri documenti con estensione OpenDocument (come .ODT, .ODS, e .ODP), questa opzione converte le estensioni dei file in .pdf nel documento PDF esportato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have enabled both the Line and Filling toolbar and the Text Formatting toolbar, Draw switches between them depending on what object is selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T154351Z">
