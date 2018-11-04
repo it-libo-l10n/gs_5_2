@@ -19848,6 +19848,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export URLs relative to file system</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T222755Z" creationid="Alessia Mazzarini" creationdate="20181104T222755Z">
+        <seg>Esporta URL relativamente al file system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export bookmarks as named destinations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T222149Z" creationid="Alessia Mazzarini" creationdate="20181104T222149Z">
