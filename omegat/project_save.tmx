@@ -1943,6 +1943,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;Recommended for other kinds of images or graphics.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T170326Z" creationid="Alessia Mazzarini" creationdate="20181104T170326Z">
+        <seg>&lt;/f1&gt;Consigliato per altri tipi di immagini od oggetti grafici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;The word will be hyphenated at this position when it is at the end of the line, even if automatic hyphenation for this paragraph is switched off.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T085502Z">
@@ -4756,6 +4764,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T083206Z">
         <seg>In LibreOffice Math &lt;f0&gt;Non è possibile selezionare &lt;/f0&gt;&lt;f1&gt;un &lt;/f1&gt;&lt;f2&gt;colore di sfondo color&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;per le formule&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;JPEG compression&lt;/f0&gt;: Allows for varying degrees of quality.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T170353Z" creationid="Alessia Mazzarini" creationdate="20181104T170353Z">
+        <seg>&lt;f0&gt;Compressione JPEG&lt;/f0&gt;: consente di variare la gradazione della qualità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44565,6 +44581,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112718Z">
         <seg>Raggruppamento temporaneo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tends to make large files when used with photographs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T170123Z" creationid="Alessia Mazzarini" creationdate="20181104T170123Z">
+        <seg>Crea file di grandi dimensioni quando il documento contiene fotografie.</seg>
       </tuv>
     </tu>
     <tu>
