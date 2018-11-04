@@ -5216,6 +5216,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Pages&lt;/f0&gt;: To export a range of pages, use the format &lt;f1&gt;3-6&lt;/f1&gt; (pages 3 to 6).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T165144Z" creationid="Alessia Mazzarini" creationdate="20181104T165144Z">
+        <seg>&lt;f0&gt;Pagine&lt;/f0&gt;: per esportare un intervallo di pagine usate il formato &lt;f1&gt;3-6&lt;/f1&gt; (pagine da 3 a 6).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Paragraph styles&lt;/f0&gt; control all aspects of a paragraph’s appearance, such as text alignment, tab stops, line spacing, and borders, and can include character formatting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T144220Z">
@@ -52046,6 +52054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To export single pages, use the format &lt;f2&gt;7;9;11&lt;/f2&gt; (pages 7, 9 and 11).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T165156Z" creationid="Alessia Mazzarini" creationdate="20181104T165156Z">
+        <seg>Per esportare pagine singole, usate il formato &lt;f2&gt;7;9;11&lt;/f2&gt; (pagine 7, 9 e 11).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To export to one of these formats, choose &lt;f0&gt;File &gt; Export&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T220147Z">
@@ -58557,6 +58573,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T111617Z">
         <seg>Potete anche esportare file di Draw in formato HTML, XHTML, PDF, o Flash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also export a combination of page ranges and single pages, by using a format like &lt;f3&gt;3-6;8;10;12&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T165214Z" creationid="Alessia Mazzarini" creationdate="20181104T165214Z">
+        <seg>Potete anche esportare una combinazione di un intervallo di pagine e pagine singole, utilizzando un formato come &lt;f3&gt;3-6;8;10;12&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
