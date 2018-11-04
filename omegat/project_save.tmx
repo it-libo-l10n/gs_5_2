@@ -2751,6 +2751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;All&lt;/f0&gt;: Exports the entire document to PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T165132Z" creationid="Alessia Mazzarini" creationdate="20181104T165132Z">
+        <seg>&lt;f0&gt;Tutto&lt;/f0&gt;: esporta tutto il documento in PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Alt&lt;/f0&gt; key while creating or scaling a graphic object</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180830T064024Z">
@@ -14117,8 +14125,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f4&gt;Export&lt;/f4&gt; when all the selections have been made.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T172618Z" creationid="Alessia Mazzarini" creationdate="20181011T172618Z">
-        <seg>Fate clic su &lt;f4&gt;Esporta&lt;/f4&gt; dopo aver selezionato tutte le opzioni.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T164853Z" creationid="Alessia Mazzarini" creationdate="20181011T172618Z">
+        <seg>Fate clic su &lt;f4&gt;Esporta&lt;/f4&gt; dopo aver selezionato tutte le opzioni desiderate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35721,6 +35729,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f0&gt;General&lt;/f0&gt; page (Figure &lt;t1&gt;294&lt;/t1&gt;), you can choose which pages to include in the PDF, the type of compression to use for images (which affects the quality of images in the PDF), and other options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T165054Z" creationid="Alessia Mazzarini" creationdate="20181104T165054Z">
+        <seg>Nella scheda &lt;f0&gt;Generale&lt;/f0&gt; (Figura &lt;t1&gt;294&lt;/t1&gt;), potete scegliere quali pagine includere nel PDF, il tipo di compressione da usare per le immagini (che influisce sulla qualità delle immagini nel PDF) e altre opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f0&gt;General&lt;/f0&gt; tab of the Print dialog, you can choose:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T104659Z" creationid="Alessia Mazzarini" creationdate="20181007T104659Z">
@@ -38333,6 +38349,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145038Z">
         <seg>Intervallo di celle non contigue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Range section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T165120Z" creationid="Alessia Mazzarini" creationdate="20181104T165120Z">
+        <seg>Sezione Intervallo</seg>
       </tuv>
     </tu>
     <tu>
@@ -62749,6 +62773,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T150926Z" creationid="Alessia Mazzarini" creationdate="20181007T150926Z">
         <seg>orientamento della pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pages to export</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T165101Z" creationid="Alessia Mazzarini" creationdate="20181104T165101Z">
+        <seg>pagine da esportare</seg>
       </tuv>
     </tu>
     <tu>
