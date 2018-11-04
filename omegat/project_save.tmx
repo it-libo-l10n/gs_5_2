@@ -43587,8 +43587,8 @@
       <tuv lang="EN">
         <seg>Some tags that are exported are table of contents, hyperlinks, and controls.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181007T012000Z" creationid="luke" creationdate="20181007T012000Z">
-        <seg>Some tags that are exported are table of contents, hyperlinks, and controls.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T194230Z" creationid="luke" creationdate="20181007T012000Z">
+        <seg>Alcuni dei tag esportati sono indici, collegamenti e controlli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49867,6 +49867,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can help to display the document on devices with different screens, and when using screen reader software.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T194215Z" creationid="Alessia Mazzarini" creationdate="20181104T194215Z">
+        <seg>Ciò può essere utile per la visualizzazione del documento su dispositivi con schermi differenti e se vengono usati software appositi per la lettura su schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can save several repetitive menu navigation clicks or keyboard shortcuts, especially when the command is taken from a secondary menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131209Z">
@@ -50479,6 +50487,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T201005Z">
         <seg>In questo modo si aprirà la finestra di dialogo Imposta la Password nella quale potrete inserire una nuova password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option can increase file sizes significantly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T194239Z" creationid="Alessia Mazzarini" creationdate="20181104T194239Z">
+        <seg>Questa opzione può far incrementare in modo significativo le dimensioni del file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62069,6 +62085,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085513Z">
         <seg>per chilometraggio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>form</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T194243Z" creationid="Alessia Mazzarini" creationdate="20181104T194243Z">
+        <seg>formulario</seg>
       </tuv>
     </tu>
     <tu>
