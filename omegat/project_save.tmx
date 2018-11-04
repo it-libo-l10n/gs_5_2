@@ -36121,6 +36121,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;i0/&gt;&lt;f1&gt;Initial View&lt;/f1&gt; page (Figure &lt;t2&gt;295&lt;/t2&gt;), you can choose how the PDF opens by default in a PDF viewer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213909Z" creationid="Alessia Mazzarini" creationdate="20181104T213909Z">
+        <seg>Nella scheda &lt;i0/&gt;&lt;f1&gt;Visualizzazione iniziale&lt;/f1&gt; (Figura &lt;t2&gt;295&lt;/t2&gt;), potete scegliere la modalità predefinita di apertura del file PDF in un visualizzatore PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Add Commands dialog (Figure &lt;t0&gt;353&lt;/t0&gt;), select a category and then the command, and click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T101311Z">
@@ -48607,6 +48615,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T071558Z">
         <seg>Le maniglie di selezione cambieranno forma e colore (Figura &lt;t0&gt;191&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selections should be self-explanatory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213929Z" creationid="Alessia Mazzarini" creationdate="20181104T213929Z">
+        <seg>Le selezioni dovrebbero essere autoesplicative.</seg>
       </tuv>
     </tu>
     <tu>
