@@ -5688,6 +5688,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Selection&lt;/f0&gt;: Exports all the selected material.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T165514Z" creationid="Alessia Mazzarini" creationdate="20181104T165514Z">
+        <seg>&lt;f0&gt;Selezione&lt;/f0&gt;: esporta il contenuto selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Separated by&lt;/f0&gt; – select the separator used in the data to delimit the data into columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215928Z">
@@ -62157,6 +62165,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T160157Z">
         <seg>ignora le impostazioni nell'importazione HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>image compression and resolution</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T165524Z" creationid="Alessia Mazzarini" creationdate="20181104T165524Z">
+        <seg>compressione e risoluzione dell'immagine</seg>
       </tuv>
     </tu>
     <tu>
