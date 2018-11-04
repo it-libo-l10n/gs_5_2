@@ -3840,6 +3840,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Export bookmarks&lt;/f0&gt;: Exports headings in Writer documents, and page or slide names in Impress and Draw documents, as “bookmarks” (a table of contents list displayed by most PDF viewers, including Adobe Reader).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213019Z" creationid="Alessia Mazzarini" creationdate="20181104T213019Z">
+        <seg>&lt;f0&gt;Esporta segnalibri&lt;/f0&gt;: esporta le intestazioni dei documenti di Writer, i nomi di pagine e diapositive dei documenti di Impress e Draw, come “segnalibri” (un elenco indice mostrato dalla maggior parte dei lettori PDF, incluso Adobe Reader).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Export comments&lt;/f0&gt;: Exports comments as PDF notes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213043Z" creationid="Alessia Mazzarini" creationdate="20181104T213043Z">
+        <seg>&lt;f0&gt;Esporta i commenti&lt;/f0&gt;: Esporta i commenti come note PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Extensive language support&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212241Z">
@@ -27194,8 +27210,8 @@
       <tuv lang="EN">
         <seg>If disabled, field names will be exported using generated unique names.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T212236Z" creationid="Alessia Mazzarini" creationdate="20181104T212236Z">
-        <seg>eiSe disabilitata, i nomi di campo will be exported using generated unique names.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T212909Z" creationid="Alessia Mazzarini" creationdate="20181104T212236Z">
+        <seg>Se l'opzione è disabilitata, i nomi dei campi saranno esportati utilizzando nomi univoci generati artificialmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60633,6 +60649,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may not want this!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213054Z" creationid="Alessia Mazzarini" creationdate="20181104T213054Z">
+        <seg>Forse non desiderate questo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may prefer to save the new file under a new name and preserve the old file under its original name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T101425Z">
@@ -61109,6 +61133,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T150104Z">
         <seg>vuota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>blank page export</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213058Z" creationid="Alessia Mazzarini" creationdate="20181104T213058Z">
+        <seg>esporta pagine vuote</seg>
       </tuv>
     </tu>
     <tu>
