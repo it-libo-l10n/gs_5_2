@@ -21624,6 +21624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;298&lt;/seq0&gt;: Security page of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T224033Z" creationid="Alessia Mazzarini" creationdate="20181104T224033Z">
+        <seg>Figura &lt;seq0&gt;298/seq0&gt;: scheda sicurezza della finestra di dialogo Opzioni PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Sample personalized theme</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093609Z">
@@ -22580,6 +22588,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T100938Z" creationid="manuel" creationdate="20181015T100938Z">
         <seg>Figura &lt;t0&gt;247&lt;/t0&gt; contiene la tabella Carburante con i vostri inserimenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;299&lt;/t0&gt; shows the pop-up dialog displayed when you click the &lt;f1&gt;Set passwords&lt;/f1&gt; button on the Security page of the PDF Options dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T224207Z" creationid="Alessia Mazzarini" creationdate="20181104T224207Z">
+        <seg>La figura &lt;t0&gt;299&lt;/t0&gt; mostra la finestra di dialogo che viene visualizzata facendo clic sul pulsante &lt;f1&gt;Imposta password&lt;/f1&gt; contenuta nella scheda Sicurezza della finestra di dialogo Opzioni PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37773,6 +37789,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112758Z">
         <seg>Raggruppamento permanente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Permissions settings are effective only if the user’s PDF viewer respects the settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T224013Z" creationid="Alessia Mazzarini" creationdate="20181104T224013Z">
+        <seg>Le impostazioni di autorizzazione funzionano solo se il visualizzatore di file PDF dell'utente rispetta tali impostazioni.</seg>
       </tuv>
     </tu>
     <tu>
