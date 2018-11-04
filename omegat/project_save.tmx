@@ -3840,6 +3840,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Export automatically inserted &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;blank pages&lt;/f2&gt;: If selected, automatically inserted blank pages are exported to the PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213139Z" creationid="Alessia Mazzarini" creationdate="20181104T213139Z">
+        <seg>&lt;f0&gt;Esporta pagine vuote inserite &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;automaticamente&lt;/f2&gt;: se l'opzione è selezionata, le pagine vuote inserite automaticamente vengono esportate in PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Export bookmarks&lt;/f0&gt;: Exports headings in Writer documents, and page or slide names in Impress and Draw documents, as “bookmarks” (a table of contents list displayed by most PDF viewers, including Adobe Reader).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213019Z" creationid="Alessia Mazzarini" creationdate="20181104T213019Z">
@@ -23212,6 +23220,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T131039Z">
         <seg>Per esempio, ipotizzate di voler scrivere un gestore di eventi che viene richiamato ogni volta che un tasto viene premuto, ma commettete un errore tale che l'evento non sia correttamente gestito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, books usually have chapters set to always start on an odd-numbered (right-hand) page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213222Z" creationid="Alessia Mazzarini" creationdate="20181104T213222Z">
+        <seg>Per esempio, i capitoli dei libri di solito iniziano sempre su una pagina dispari (a destra).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50227,6 +50243,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is best if you are printing the PDF double-sided.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213207Z" creationid="Alessia Mazzarini" creationdate="20181104T213207Z">
+        <seg>Questa opzione torna utile se si stampa il PDF fronte-retro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is important if you want to make the document available to other computers that may have a completely different directory structure, drive or volume names.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144737Z">
@@ -50551,6 +50575,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T194239Z" creationid="Alessia Mazzarini" creationdate="20181104T194239Z">
         <seg>Questa opzione può far incrementare in modo significativo le dimensioni del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option controls whether to export that blank page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213241Z" creationid="Alessia Mazzarini" creationdate="20181104T213241Z">
+        <seg>Questa opzione controlla se esportare o no la pagina vuota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57253,6 +57285,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T161556Z">
         <seg>Quando il puntatore cambia forma, fate clic e trascinate, spostando il divisore verso destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the previous chapter ends on an odd page, LibreOffice inserts a blank page between the two odd pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213229Z" creationid="Alessia Mazzarini" creationdate="20181104T213229Z">
+        <seg>Quando il precedente capitolo si conclude su una pagina dispari, LibreOffice inserisce una pagina vuota tra le due pagine dispari.</seg>
       </tuv>
     </tu>
     <tu>
