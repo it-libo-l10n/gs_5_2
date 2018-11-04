@@ -5800,6 +5800,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Sign with Watermark:&lt;/f0&gt; When this option is selected, a transparent overlay of the text you enter into the &lt;f1&gt;Watermark Text&lt;/f1&gt; box will appear on each page of the PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T180457Z" creationid="Alessia Mazzarini" creationdate="20181104T180457Z">
+        <seg>&lt;f0&gt;Firma con la filigrana:&lt;/f0&gt; Quando questa opzione è selezionata, su ogni pagina del PDF apparirà una sovrapposizione trasparente del testo inserito nel riquadro &lt;f1&gt;Testo della filigrana&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Since LibreOffice 5.1, t&lt;/f0&gt;he menu bars in Writer, Calc, and Impress have been reorganized to improve the usability of the application.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180818T101819Z">
