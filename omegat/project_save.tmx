@@ -8697,6 +8697,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A setting of 90% works well with photographs (small file size, little perceptible loss of quality).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T175810Z" creationid="Alessia Mazzarini" creationdate="20181104T175810Z">
+        <seg>L'impostazione 90% è adatta alle fotografie (file di piccole dimensioni, perdita di qualità appena percettibile).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A shop stock list could be a data source managed through LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T151456Z">
