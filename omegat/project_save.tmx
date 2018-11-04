@@ -3304,6 +3304,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Create &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;PDF form – Submit format:&lt;/f2&gt; Choose the format of submitting forms from within the PDF file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T202544Z" creationid="Alessia Mazzarini" creationdate="20181104T202544Z">
+        <seg>&lt;f0&gt;Crea &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;formulario PDF – Invio formato:&lt;/f2&gt; Scegliete il formato per l'invio dei formulari dal file PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Create New Folder&lt;/f0&gt; – creates a new sub-folder in the folder that is displayed in the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T123131Z">
@@ -50679,6 +50687,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180912T123640Z">
         <seg>Questa impostazione è memorizzata nel documento e viene applicata a tutte le formule al suo interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This setting overrides the control’s URL property that you set in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T202614Z" creationid="Alessia Mazzarini" creationdate="20181104T202614Z">
+        <seg>Questa impostazione consente di ignorare le proprietà URL del controllo che avete impostato nel documento.</seg>
       </tuv>
     </tu>
     <tu>
