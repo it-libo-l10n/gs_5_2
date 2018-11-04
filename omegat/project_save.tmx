@@ -3504,6 +3504,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Default mode&lt;/f0&gt;: The PDF links will be handled as specified in your operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223235Z" creationid="Alessia Mazzarini" creationdate="20181104T223222Z">
+        <seg>&lt;f0&gt;Modalità predefinita&lt;/f0&gt;: i collegamenti PDF saranno trattati come specificato nel vostro sistema operativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Delete Selected Design&lt;/f0&gt; deletes the selected design from the design list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T211408Z">
@@ -5300,6 +5308,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203514Z">
         <seg>&lt;f0&gt;Open source.&lt;/f0&gt; Nel rispetto delle licenze Open Source di LibreOffice potete distribuire, copiare e modificare il software come desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Open with Internet browser&lt;/f0&gt;: Use the default Internet browser to display linked PDF documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223334Z" creationid="Alessia Mazzarini" creationdate="20181104T223334Z">
+        <seg>&lt;f0&gt;Apri con il browser Internet&lt;/f0&gt;: utilizza il browser Internet predefinito per la visualizzazione dei documenti PDF collegati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Open with PDF reader application&lt;/f0&gt;: Use the same application used to display the PDF document to open linked PDF documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223239Z" creationid="Alessia Mazzarini" creationdate="20181104T223230Z">
+        <seg>&lt;f0&gt;Apri con il visualizzatore di PDF&lt;/f0&gt;: utilizza la stessa applicazione utilizzata per visualizzare il documento PDF per aprire i documenti collegati in formato PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16767,6 +16791,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cross-document links</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223142Z" creationid="Alessia Mazzarini" creationdate="20181104T223142Z">
+        <seg>Collegamenti incrociati a un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cross-fading</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145810Z">
@@ -17515,6 +17547,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180920T124743Z">
         <seg>Definisce la variabile document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defines the behavior of links clicked in PDF files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223204Z" creationid="Alessia Mazzarini" creationdate="20181104T223204Z">
+        <seg>Definisce il comportamento dei collegamenti su cui si fa clic nei file PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28508,6 +28548,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T222433Z" creationid="Alessia Mazzarini" creationdate="20181104T222433Z">
         <seg>Se avete definito dei collegamenti ad altri documenti con estensione OpenDocument (come .ODT, .ODS, e .ODP), questa opzione converte le estensioni dei file in .pdf nel documento PDF esportato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have defined relative links in a document, this option exports those links to the PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223136Z" creationid="Alessia Mazzarini" creationdate="20181104T223136Z">
+        <seg>Se avete definito dei collegamenti relativi in un documento, questa opzione esporta questi collegamenti nel PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41621,6 +41669,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090030Z">
         <seg>Select its checkbox and when you make any changes in a slide transition, the new slide is previewed in the Slide Design area, including its transition effect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select one among the following alternatives:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223210Z" creationid="Alessia Mazzarini" creationdate="20181104T223210Z">
+        <seg>Selezionate una delle seguenti alternative:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63885,6 +63941,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T150612Z">
         <seg>Opzioni di sicurezza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>security settings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223338Z" creationid="Alessia Mazzarini" creationdate="20181104T223338Z">
+        <seg>impostazioni di sicurezza</seg>
       </tuv>
     </tu>
     <tu>
