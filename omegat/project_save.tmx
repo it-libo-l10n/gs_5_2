@@ -3080,6 +3080,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Center window on screen.&lt;/f0&gt; Causes the PDF viewer window to be centered on the computer screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221750Z" creationid="Alessia Mazzarini" creationdate="20181104T221750Z">
+        <seg>&lt;f0&gt;Centra finestra sullo schermo.&lt;/f0&gt; Fa sì che il visualizzatore di PDF centri la finestra sullo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Chang&lt;/f0&gt;ing data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120153Z">
@@ -3572,6 +3580,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T205922Z">
         <seg>&lt;f0&gt;Direzione&lt;/f0&gt; – determina la direzione in cui verrà creata la serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Display document title.&lt;/f0&gt; Causes the PDF viewer to display the document’s title in the title bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221812Z" creationid="Alessia Mazzarini" creationdate="20181104T221812Z">
+        <seg>&lt;f0&gt;Visualizza titolo documento.&lt;/f0&gt; Fa sì che il visualizzatore di PDF mostri il titolo del documento nella barra del titolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4448,6 +4464,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide menubar.&lt;/f0&gt; Causes the PDF viewer to hide the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221913Z" creationid="Alessia Mazzarini" creationdate="20181104T221913Z">
+        <seg>&lt;f0&gt;Nascondi barra dei menu.&lt;/f0&gt; Fa sì che il visualizzatore di PDF nasconda la barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide toolbar.&lt;/f0&gt; Causes the PDF viewer to hide the toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221924Z" creationid="Alessia Mazzarini" creationdate="20181104T221924Z">
+        <seg>&lt;f0&gt;Nascondi barra degli strumenti.&lt;/f0&gt; Fa sì che il visualizzatore di PDF nasconda la barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide window controls.&lt;/f0&gt; Causes the PDF viewer to hide other window controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221933Z" creationid="Alessia Mazzarini" creationdate="20181104T221933Z">
+        <seg>&lt;f0&gt;Nascondi controlli finestra.&lt;/f0&gt; Fa sì che il visualizzatore di PDF nasconda altri controlli finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Hide&lt;/f0&gt; – the data in the column are not imported.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T222054Z">
@@ -5244,6 +5284,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T125918Z">
         <seg>&lt;f0&gt;Aprite un documento usando &lt;/f0&gt; &lt;f1&gt;Writer, Calc, Draw o Impress.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Open in full screen mode.&lt;/f0&gt; Causes the PDF viewer to open full-screen instead of in a smaller window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221802Z" creationid="Alessia Mazzarini" creationdate="20181104T221802Z">
+        <seg>&lt;f0&gt;Apri in modalità schermo intero.&lt;/f0&gt; Fa sì che il visualizzatore di PDF apra a pieno schermo invece che in una finestra più piccola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11526,6 +11574,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T155905Z">
         <seg>Grassetto, Corsivo, Sottolineato, Doppio Sottolineato, Sovrapposizione, Barrato, Contorno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bookmarks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221954Z" creationid="Alessia Mazzarini" creationdate="20181104T221954Z">
+        <seg>Segnalibri</seg>
       </tuv>
     </tu>
     <tu>
@@ -21480,6 +21536,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;296&lt;/seq0&gt;: User Interface page of the PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221842Z" creationid="Alessia Mazzarini" creationdate="20181104T221842Z">
+        <seg>Figura &lt;seq0&gt;296&lt;/seq0&gt;: scheda Interfaccia utente della finestra di dialogo Opzioni PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Sample personalized theme</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093609Z">
@@ -29400,6 +29464,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Impress, displays slide transition effects as their respective PDF effects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221951Z" creationid="Alessia Mazzarini" creationdate="20181104T221951Z">
+        <seg>In Impress, gli effetti di transizione delle diapositive vengono visualizzati come i rispettivi effetti PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Insert mode, any text after the cursor position moves forward to make room for the text you type; in Overwrite mode, text after the cursor position is replaced by the text you type.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T064938Z">
@@ -32949,6 +33021,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180940Z">
         <seg>Collegamenti e riferimenti incrociati all'interno di un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links page of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T222021Z" creationid="Alessia Mazzarini" creationdate="20181104T222021Z">
+        <seg>Finestra di dialogo Opzioni PDF - scheda Collegamenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -41461,6 +41541,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095223Z" creationid="manuel" creationdate="20181009T095223Z">
         <seg>Selezionate i campi dalla tabella Collezione_CD nell'elenco &lt;f0&gt;Campi disponibili&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select how many heading levels are displayed as bookmarks, if &lt;f0&gt;Export bookmarks&lt;/f0&gt; is selected on the General page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T222016Z" creationid="Alessia Mazzarini" creationdate="20181104T222016Z">
+        <seg>Selezionate quanti livelli di intestazione devono essere visualizzati come segnalibri, se &lt;f0&gt;Esporta segnalibri&lt;/f0&gt; è selezionato sulla scheda Generale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54231,6 +54319,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Transitions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221937Z" creationid="Alessia Mazzarini" creationdate="20181104T221937Z">
+        <seg>Transizioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Turning on hyphenation for &lt;f0&gt;the &lt;/f0&gt;paragraph Default Style affects all other paragraph styles that are based on Default Style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T075610Z">
@@ -55564,6 +55660,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T171207Z">
         <seg>Interfaccia utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User interface options section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221850Z" creationid="Alessia Mazzarini" creationdate="20181104T221850Z">
+        <seg>Sezione Opzioni interfaccia utente</seg>
       </tuv>
     </tu>
     <tu>
