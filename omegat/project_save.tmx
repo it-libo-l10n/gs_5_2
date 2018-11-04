@@ -4848,6 +4848,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Lossless compression&lt;/f0&gt;&lt;f1&gt;: &lt;s2/&gt;Images are stored without any loss of quality.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T170053Z" creationid="Alessia Mazzarini" creationdate="20181104T170053Z">
+        <seg>&lt;f0&gt;Compressione senza perdite&lt;/f0&gt;&lt;f1&gt;: &lt;s2/&gt;il salvataggio avviene senza perdita di qualità nelle immagini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;&lt;f1&gt;arkup &lt;/f1&gt;&lt;f2&gt;language&lt;/f2&gt;&lt;ie3/&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;is entered directly&lt;/f5&gt;&lt;f6&gt; in&lt;/f6&gt;&lt;f7&gt;to&lt;/f7&gt;&lt;f8&gt; the &lt;/f8&gt;&lt;f9&gt;Formula Editor&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184134Z">
@@ -28836,6 +28844,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T123721Z">
         <seg>Le immagini inserite nel documento di testo come PNG, &lt;f0&gt;BMP,&lt;/f0&gt; o JPEG &lt;f1&gt;mantengono&lt;/f1&gt; il loro formato &lt;f2&gt;originale&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Images section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T170001Z" creationid="Alessia Mazzarini" creationdate="20181104T170001Z">
+        <seg>Sezione Immagini</seg>
       </tuv>
     </tu>
     <tu>
