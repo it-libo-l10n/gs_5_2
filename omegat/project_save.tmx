@@ -6536,6 +6536,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;View PDF after export:&lt;/f0&gt; Your default PDF viewer will open and display the newly exported PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213617Z" creationid="Alessia Mazzarini" creationdate="20181104T213617Z">
+        <seg>&lt;f0&gt;Visualizza il PDF dopo l'esportazione:&lt;/f0&gt; il visualizzatore PDF predefinito si apre e mostra il PDF appena creato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for controlling the display of the document such as Zoom and Web Layout.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214755Z">
@@ -30948,6 +30956,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T093450Z">
         <seg>Le informazioni come i numeri di pagina inserite in un'intestazione o in un piè di pagina sono visualizzate in ogni pagina del documento con quello stile di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initial View page of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213744Z" creationid="Alessia Mazzarini" creationdate="20181104T213744Z">
+        <seg>Finestra di dialogo Opzioni PDF - scheda Visualizzazione iniziale</seg>
       </tuv>
     </tu>
     <tu>
@@ -62557,6 +62573,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T184722Z">
         <seg>infinity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>initial view selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213751Z" creationid="Alessia Mazzarini" creationdate="20181104T213751Z">
+        <seg>selezione visualizzazione iniziale</seg>
       </tuv>
     </tu>
     <tu>
