@@ -5376,6 +5376,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Reduce image resolution&lt;/f0&gt;: Lower DPI (dots per inch) images have lower quality.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T175918Z" creationid="Alessia Mazzarini" creationdate="20181104T175918Z">
+        <seg>&lt;f0&gt;Riduci risoluzione immagine&lt;/f0&gt;: le immagini con un numero inferiore di DPI (dots per inch - punti per pollice) sono di qualità più scarsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Replace the braces using the commands &lt;/f0&gt;&lt;f1&gt;lbrace&lt;/f1&gt;&lt;f2&gt; and &lt;/f2&gt;&lt;f3&gt;rbrace&lt;/f3&gt;&lt;f4&gt; in the markup language.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T104948Z">
@@ -24296,6 +24304,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For viewing on a computer screen, generally a resolution of 72dpi (for Windows) or 96dpi (GNU/Linux) is sufficient, while for printing it is generally preferable to use at least 300 or 600dpi, depending on the capability of the printer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T180053Z" creationid="Alessia Mazzarini" creationdate="20181104T180053Z">
+        <seg>Per la visualizzazione a schermo generalmente una risoluzione di 72dpi (per Windows) o 96dpi (per GNU/Linux) è sufficiente, mentre per la stampa è normalmente preferibile usare almeno 300 o 600 dpi, a seconda delle caratteristiche della stampante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Forces the use of OpenGL even if the graphics device is blacklisted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T061432Z">
@@ -26060,6 +26076,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085950Z">
         <seg>Hiding slides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Higher DPI settings greatly increase the size of the exported file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T180149Z" creationid="Alessia Mazzarini" creationdate="20181104T180149Z">
+        <seg>Con valori di dpi più elevati le dimensioni del file esportato aumentano notevolmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56116,6 +56140,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T212537Z">
         <seg>WMF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Watermark section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T180155Z" creationid="Alessia Mazzarini" creationdate="20181104T180155Z">
+        <seg>Sezione filigrana</seg>
       </tuv>
     </tu>
     <tu>
