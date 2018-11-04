@@ -2769,8 +2769,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Allow duplicate field names:&lt;/f0&gt; If enabled, the same field name can be used for multiple fields in the generated PDF file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T204431Z" creationid="Alessia Mazzarini" creationdate="20181104T203508Z">
-        <seg>&lt;f0&gt;Permetti duplicazione del nome di campo:&lt;/f0&gt; Se abilitata, uno stesso nome di campo può essere usato nel PDF generato per campi multipli .</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T210911Z" creationid="Alessia Mazzarini" creationdate="20181104T203508Z">
+        <seg>&lt;f0&gt;Permetti duplicazione dei nomi di campo:&lt;/f0&gt; Se abilitata, è possibile utilizzare nel PDF generato uno stesso nome di campo per campi multipli.</seg>
       </tuv>
     </tu>
     <tu>
