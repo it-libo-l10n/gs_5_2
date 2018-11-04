@@ -5448,6 +5448,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Resize window to initial page.&lt;/f0&gt; Causes the PDF viewer window to resize to fit the first page of the PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221734Z" creationid="Alessia Mazzarini" creationdate="20181104T221734Z">
+        <seg>&lt;f0&gt;Ridimensiona finestra a pagina iniziale.&lt;/f0&gt; Fa sì che il visualizzatore di PDF ridimensioni la finestra adattandola alla prima pagina del file PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Right-click on the formula and select &lt;/f0&gt;&lt;f1&gt;Anchor &gt; To Page&lt;/f1&gt;&lt;f2&gt; or &lt;/f2&gt;&lt;f3&gt;To Cell&lt;/f3&gt;&lt;f4&gt; from the context menu&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180915T133709Z">
@@ -28352,6 +28360,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have Complex Text Layout enabled (in &lt;f0&gt;Tools &gt; Options &gt; Language settings &gt; Languages&lt;/f0&gt;), an additional selection is available under &lt;f1&gt;Continuous facing&lt;/f1&gt;: &lt;f2&gt;First page is left&lt;/f2&gt; (normally, the first page is on the right when using the &lt;f3&gt;Continuous facing&lt;/f3&gt; option).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221515Z" creationid="Alessia Mazzarini" creationdate="20181104T221515Z">
+        <seg>Se avete abilitato la Disposizione di testo complesso (Complex Text Layout) (in &lt;f0&gt;Strumenti &gt; Opzioni &gt; Impostazioni della lingua &gt; Lingue&lt;/f0&gt;), sarà disponibile un'ulteriore opzione sotto &lt;f1&gt;Continuo - pagine affiancate&lt;/f1&gt;: &lt;f2&gt;Prima pagina a sinistra&lt;/f2&gt; (normalmente, la prima pagina è sulla destra utilizzando l'opzione &lt;f3&gt;Continuo - pagine affiancate/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have Field shadings turned on (&lt;f1&gt;View &gt; Field shading&lt;/f1&gt;), &lt;Date&gt; has a gray background.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181018T075404Z" creationid="manuel" creationdate="20181018T075404Z">
@@ -36129,6 +36145,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;i0/&gt;&lt;f1&gt;U&lt;/f1&gt;&lt;f2&gt;ser Interface&lt;/f2&gt; page, you can choose more settings to control how a PDF viewer displays the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221642Z" creationid="Alessia Mazzarini" creationdate="20181104T221642Z">
+        <seg>Nella scheda &lt;i0/&gt;&lt;f1&gt;I&lt;/f1&gt;&lt;f2&gt;nterfaccia utente&lt;/f2&gt;, potete scegliere diverse impostazioni e determinare come verrà visualizzato il vostro file sul visualizzatore PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Add Commands dialog (Figure &lt;t0&gt;353&lt;/t0&gt;), select a category and then the command, and click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T101311Z">
@@ -43605,6 +43629,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T183649Z">
         <seg>Alcune di queste barre degli strumenti aggiuntive sono sensibili al contesto ed appaiono in automatico a seconda della posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some of these choices are particularly useful when you are creating a PDF to be used as a presentation or a kiosk-type display.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221651Z" creationid="Alessia Mazzarini" creationdate="20181104T221651Z">
+        <seg>Alcune di queste scelte sono particolarmente utili se state creando un PDF da usare come presentazione o come visualizzazione da chiosco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55488,6 +55520,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User Interface page of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221531Z" creationid="Alessia Mazzarini" creationdate="20181104T221531Z">
+        <seg>Finestra di dialogo Opzioni PDF - scheda Interfaccia utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User Interface – &lt;i0/&gt;Icon size</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084154Z">
@@ -58053,6 +58093,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070437Z">
         <seg>Sarà necessario creare una ricerca o una vista, nel caso i campi necessari appartengano a tabelle diverse?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Window options section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221655Z" creationid="Alessia Mazzarini" creationdate="20181104T221655Z">
+        <seg>Sezione Opzioni finestra</seg>
       </tuv>
     </tu>
     <tu>
