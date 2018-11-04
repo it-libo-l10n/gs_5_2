@@ -37481,6 +37481,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF export includes options &lt;i0/&gt;to encrypt the PDF (so that it cannot be opened without a password) and apply &lt;i1/&gt;&lt;i2/&gt;some digital rights management (DRM) features.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223632Z" creationid="Alessia Mazzarini" creationdate="20181104T223632Z">
+        <seg>L'esportazione dei file in PDF include le opzioni per la &lt;i0/&gt;cifratura del PDF (così che essi non possano essere aperti senza una password) e per l'applicazione &lt;i1/&gt;&lt;i2/&gt;di alcune funzionalità relative alla gestione dei diritti digitali (DRM).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDF tags are written.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T193254Z" creationid="Alessia Mazzarini" creationdate="20181104T193254Z">
@@ -40365,6 +40373,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T080344Z">
         <seg>Opzioni di sicurezza e avvisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Security page of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223346Z" creationid="Alessia Mazzarini" creationdate="20181104T223346Z">
+        <seg>Finestra di dialogo Opzioni PDF - scheda Sicurezza</seg>
       </tuv>
     </tu>
     <tu>
@@ -62121,6 +62137,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>digital rights management (DRM)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223422Z" creationid="Alessia Mazzarini" creationdate="20181104T223422Z">
+        <seg>gestione diritti digitali - digital rights management (DRM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>dispatch framework</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180922T124022Z">
@@ -62277,6 +62301,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T082058Z">
         <seg>abilitare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>encrypt</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223402Z" creationid="Alessia Mazzarini" creationdate="20181104T223402Z">
+        <seg>codifica</seg>
       </tuv>
     </tu>
     <tu>
@@ -63461,6 +63493,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T165101Z" creationid="Alessia Mazzarini" creationdate="20181104T165101Z">
         <seg>pagine da esportare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>password-protect</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223637Z" creationid="Alessia Mazzarini" creationdate="20181104T223637Z">
+        <seg>protezione con password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>password-protect PDF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223643Z" creationid="Alessia Mazzarini" creationdate="20181104T223643Z">
+        <seg>Protezione dei PDF con password</seg>
       </tuv>
     </tu>
     <tu>
