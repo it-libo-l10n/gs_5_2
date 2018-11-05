@@ -14251,6 +14251,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Tools &gt; Mail Merge Wizard&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164707Z" creationid="Alessia Mazzarini" creationdate="20181105T164707Z">
+        <seg>Fate clic su &lt;f0&gt;Strumenti &gt; Stampa guidata in serie&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083228Z">
@@ -21780,6 +21788,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202531Z">
         <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Centro di Avvio di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;300&lt;/seq0&gt;: Select starting document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164749Z" creationid="Alessia Mazzarini" creationdate="20181105T164749Z">
+        <seg>Figura &lt;seq0&gt;300&lt;/seq0&gt;: selezione del documento iniziale</seg>
       </tuv>
     </tu>
     <tu>
@@ -36765,6 +36781,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T220301Z">
         <seg>Nella prima pagina della procedura guidata, selezionate le impostazioni desiderate e fate clic su &lt;f0&gt;Avanti &gt;&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the first page of the wizard, select &lt;f1&gt;Use the current document&lt;/f1&gt; and click &lt;f2&gt;Next&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164728Z" creationid="Alessia Mazzarini" creationdate="20181105T164728Z">
+        <seg>Sulla prima pagina della procedura guidata, selezionate &lt;f1&gt;Usa il documento attivo&lt;/f1&gt; e fate clic su &lt;f2&gt;Avanti&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54599,6 +54623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use &lt;i0/&gt;the &lt;i1/&gt;Mail Merge Wizard to send a previously-created Writer document:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164654Z" creationid="Alessia Mazzarini" creationdate="20181105T164654Z">
+        <seg>Uso &lt;i0/&gt;della &lt;i1/&gt;Stampa guidata in serie per inviare un documento precedentemente creato con Writer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use Base, you need to use a Java Runtime Environment (JRE).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153146Z">
@@ -62741,6 +62773,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163708Z" creationid="Alessia Mazzarini" creationdate="20181105T163708Z">
         <seg>invio tramite e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>e-mailing Writer document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164458Z" creationid="Alessia Mazzarini" creationdate="20181105T164458Z">
+        <seg>Invio di documenti Writer tramite posta elettronica</seg>
       </tuv>
     </tu>
     <tu>
