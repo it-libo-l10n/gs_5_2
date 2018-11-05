@@ -14259,6 +14259,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Sign Document&lt;/f0&gt; to add a public key to the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T180002Z" creationid="Alessia Mazzarini" creationdate="20181105T180002Z">
+        <seg>Fate clic su &lt;f0&gt;Firma documento&lt;/f0&gt; per aggiungere una chiave pubblica al documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Slide Show &gt; Start from first Slide&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090036Z">
@@ -14311,6 +14319,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T135305Z">
         <seg>Fate clic su &lt;f0&gt;Usa procedura guidata per la creazione di tabelle...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Yes&lt;/f0&gt; to save the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T175915Z" creationid="Alessia Mazzarini" creationdate="20181105T175915Z">
+        <seg>Fate clic su &lt;f0&gt;Sì&lt;/f0&gt; per salvare il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28906,8 +28922,8 @@
       <tuv lang="EN">
         <seg>If you have set LibreOffice to warn you when the document contains comments (see “&lt;bf1&gt;Removing personal data&lt;/bf1&gt;” below), you may see a message box asking whether you want to want to continue signing the document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T175826Z" creationid="Alessia Mazzarini" creationdate="20181105T175826Z">
-        <seg>Se avete impostato LibreOffice in modo che vi avverta quando il documento contiene dei commenti (vedete “&lt;bf1&gt;Eliminare i dati personali&lt;/bf1&gt;” più sotto), potrebbe apparire una finestra di messaggio che vi chiede se volete continuare con la firma del documento.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T175905Z" creationid="Alessia Mazzarini" creationdate="20181105T175826Z">
+        <seg>Se avete impostato LibreOffice in modo che vi avverta quando il documento contiene dei commenti (vedete “&lt;bf1&gt;Eliminare i dati personali&lt;/bf1&gt;” più sotto), potrebbe apparire un messaggio che vi chiede se volete continuare con la firma del documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30964,6 +30980,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T150323Z">
         <seg>Nelle finestre di dialogo Salva e Apri, mostra i contenuti della cartella superiore della cartella corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Select Certificate dialog, select your certificate and click &lt;f0&gt;OK&lt;/f0&gt; to return to the Digital Signatures dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T180054Z" creationid="Alessia Mazzarini" creationdate="20181105T180054Z">
+        <seg>Nella finestra di dialogo Seleziona certificato, selezionate il vostro certificato e fate clic su &lt;f0&gt;OK&lt;/f0&gt; per tornare alla finestra di dialogo Firme digitali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46214,6 +46238,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093716Z">
         <seg>La finestra Sorgenti dati scompare, i campi nel foglio elettronico vengono popolati con i dati della riga precedentemente selezionata, e la barra degli strumenti Navigazione formulario appare nella parte bassa del foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Digital Signatures dialog opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T175953Z" creationid="Alessia Mazzarini" creationdate="20181105T175953Z">
+        <seg>Si aprirà la finestra di dialogo Firme digitali.</seg>
       </tuv>
     </tu>
     <tu>
