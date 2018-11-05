@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If the address list you need is not shown here, you can click &lt;f2&gt;Add&lt;/f2&gt; to find it and add it to the list.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164845Z" creationid="Alessia Mazzarini" creationdate="20181105T164845Z">
+        <seg>(se l'elenco di cui avete bisogno non viene mostrato, potete fare clic su &lt;f2&gt;Aggiungi&lt;/f2&gt; per trovarlo e aggiungerlo all'elenco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you do not have this font on your system, it will not appear in the drop-down list in this box, so you need to type it in.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073809Z">
@@ -11394,6 +11402,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Back on the Select address list page, click &lt;f0&gt;Next&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164908Z" creationid="Alessia Mazzarini" creationdate="20181105T164908Z">
+        <seg>Una volta tornati alla pagina di selezione dell'elenco indirizzi, fate clic su &lt;f0&gt;Avanti&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background &lt;f0&gt;and &lt;/f0&gt;borders</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180913T190610Z">
@@ -21800,6 +21816,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;301&lt;/seq0&gt;: Select document type</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164809Z" creationid="Alessia Mazzarini" creationdate="20181105T164809Z">
+        <seg>Figura &lt;seq0&gt;301&lt;/seq0&gt;: selezione del tipo di documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;302&lt;/seq0&gt;: Selecting an address list</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164859Z" creationid="Alessia Mazzarini" creationdate="20181105T164859Z">
+        <seg>Figura &lt;seq0&gt;302&lt;/seq0&gt;: selezione dell'elenco di indirizzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;303&lt;/seq0&gt;: Deselecting a salutation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164937Z" creationid="Alessia Mazzarini" creationdate="20181105T164937Z">
+        <seg>Figura &lt;seq0&gt;303&lt;/seq0&gt;: deselezione della formula di saluto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Showing or hiding text, object, and table boundaries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100633Z">
@@ -31064,6 +31104,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the left-hand list, click &lt;f0&gt;8.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164944Z" creationid="Alessia Mazzarini" creationdate="20181105T164944Z">
+        <seg>Nell'elenco di sinistra selezionate &lt;f0&gt;8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the main database window (Figure &lt;t0&gt;208&lt;/t0&gt;), click the &lt;f1&gt;Forms&lt;/f1&gt; icon in the left column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T074708Z">
@@ -36625,6 +36673,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Create salutation page, deselect &lt;f1&gt;This document should contain a salutation&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164923Z" creationid="Alessia Mazzarini" creationdate="20181105T164923Z">
+        <seg>Sulla pagina Crea una formula di saluto, deselezionate &lt;f1&gt;Questo documento dovrebbe contenere una formula di saluto&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Customize dialog, select the menu in the &lt;f1&gt;Menu&lt;/f1&gt; list and click the &lt;f2&gt;Add&lt;/f2&gt; button in the &lt;f3&gt;Menu Content&lt;/f3&gt; section of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T101253Z">
@@ -36849,10 +36905,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the second page, select &lt;f0&gt;E-mail message&lt;/f0&gt; and click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164757Z" creationid="Alessia Mazzarini" creationdate="20181105T164757Z">
+        <seg>Sulla seconda pagina, selezionate &lt;f0&gt;Messaggio e-mail&lt;/f0&gt; e fate clic su &lt;f1&gt;Avanti&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the third page of the wizard, define the data type of each column of your table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093012Z" creationid="manuel" creationdate="20181009T093012Z">
         <seg>Nella terza pagina della procedura guidata, definite il tipo di dati di ciascuna colonna della tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the third page, click the &lt;f0&gt;Select Address List&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164818Z" creationid="Alessia Mazzarini" creationdate="20181105T164818Z">
+        <seg>Sulla terza pagina, fate clic sul pulsante &lt;f0&gt;Seleziona elenco di indirizzi&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40417,6 +40489,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save, print or send&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164953Z" creationid="Alessia Mazzarini" creationdate="20181105T164953Z">
+        <seg>Salvate, stampate o inviate il documento&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saves the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T150149Z">
@@ -42669,6 +42749,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T152725Z">
         <seg>Selezionate l'intervallo di celle da ricomprendere nell'area di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the required address list (even if only one is shown) and then click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164830Z" creationid="Alessia Mazzarini" creationdate="20181105T164830Z">
+        <seg>Scegliete l'elenco di indirizzi desiderato (anche se ne viene visualizzato soltanto uno) e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
