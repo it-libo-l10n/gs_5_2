@@ -17991,6 +17991,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Digital signatures are used to ensure that the PDF was really created by the original author (that is, you), and that the document has not been modified since it was signed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T150030Z" creationid="Alessia Mazzarini" creationdate="20181105T150030Z">
+        <seg>Le firme digitali servono per garantire che il PDF sia stato creato dall'autore originale (ossia voi) e che, dal momento della firma, il documento non sia stato modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Digital signing of documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185736Z">
