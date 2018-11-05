@@ -27584,6 +27584,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If both are the same, the program will signal that you see the original, unchanged document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174525Z" creationid="Alessia Mazzarini" creationdate="20181105T174525Z">
+        <seg>Se risultano uguali, il programma vi segnalerà che state visualizzando il documento originale, non modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If both options are selected and you edit the disabled code in LibreOffice, the original Microsoft Basic code will be saved when saving in a Microsoft Office format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154154Z">
@@ -30308,6 +30316,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143950Z">
         <seg>Inoltre, gli stili vengono utilizzati da LibreOffice per eseguire numerose procedure che non risultano visibili agli utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, the program can show you the public key information from the certificate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174534Z" creationid="Alessia Mazzarini" creationdate="20181105T174534Z">
+        <seg>Inoltre, il programma può mostrarvi informazioni sulla chiave pubblica del certificato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46963,6 +46979,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The checksum and your public key are stored together with the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174450Z" creationid="Alessia Mazzarini" creationdate="20181105T174450Z">
+        <seg>La somma di controllo e la vostra chiave pubblica vengono salvate insieme nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The choices are:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T122844Z">
@@ -58137,6 +58161,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When someone later opens the document on any computer with a recent version of LibreOffice, the program will compute the checksum again and compare it with the stored checksum.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174515Z" creationid="Alessia Mazzarini" creationdate="20181105T174515Z">
+        <seg>Quando qualcuno, successivamente, aprirà il documento su qualsiasi computer che possiede una versione recente di LibreOffice, il programma ricalcolerà di nuovo la somma di controllo, comparandola poi con quella salvata in precedenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When that happens, you can use these steps to re-register your database files with your latest version of LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162730Z" creationid="manuel" creationdate="20181015T162730Z">
@@ -58365,6 +58397,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161554Z">
         <seg>Quando &lt;i0/&gt;incollate del testo, il risultato dipende dalla sorgente del testo e da come lo incollate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you apply &lt;i0/&gt;a digital signature to a document, a kind of checksum is computed from the document’s content plus your personal key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174438Z" creationid="Alessia Mazzarini" creationdate="20181105T174438Z">
+        <seg>Quando applicate una &lt;i0/&gt;firma digitale a un documento, viene calcolata una specie di somma di controllo dal contenuto del documento e dalla vostra chiave personale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60345,6 +60385,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can compare the public key with the public key that is published on the web site of the certificate authority.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174607Z" creationid="Alessia Mazzarini" creationdate="20181105T174607Z">
+        <seg>Potete fare una comparazione tra la chiave pubblica ricevuta e la chiave pubblica presente sul sito web dell'autorità di certificazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can configure shortcut keys to quickly assign styles in your document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T123013Z">
@@ -60661,6 +60709,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124144Z">
         <seg>In generale potete usare il metodo che preferite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can get a certificate from a certification authority, which may be a private company or a governmental institution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174325Z" creationid="Alessia Mazzarini" creationdate="20181105T174325Z">
+        <seg>Potete ottenere un certificato da una autorità di certificazione, che potrebbe essere un'azienda privata o un'istituzione governativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62821,6 +62877,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223422Z" creationid="Alessia Mazzarini" creationdate="20181104T223422Z">
         <seg>gestione diritti digitali - digital rights management (DRM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>digital signature</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174328Z" creationid="Alessia Mazzarini" creationdate="20181105T174328Z">
+        <seg>Firma digitale</seg>
       </tuv>
     </tu>
     <tu>
