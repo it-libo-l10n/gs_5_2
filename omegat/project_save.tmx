@@ -48963,6 +48963,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The signed PDF export uses the keys and X.509 certificates already stored in your default key store location or on a smartcard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T150536Z" creationid="Alessia Mazzarini" creationdate="20181105T150536Z">
+        <seg>L'esportazione di un file PDF firmato utilizza le chiavi e i certificati X.509 già memorizzati nella posizione predefinita dell'archivio chiavi o su una smartcard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The simplest method is to assign a unique number to each one: number the first person 1, the second 2, and so on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T084801Z">
