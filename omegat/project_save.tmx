@@ -27848,6 +27848,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the key store password has already been entered in the Select Certificate dialog, the key store may already be unlocked and not require the password again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T154732Z" creationid="Alessia Mazzarini" creationdate="20181105T154732Z">
+        <seg>Nel caso in cui la password dell'archivio chiavi sia stata già inserita nella finestra di dialogo Seleziona certificato, l'archivio chiavi potrebbe essere già sbloccato e non richiedere nuovamente la password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the list of available buttons for a toolbar does not include all the commands you want on that toolbar, you can add commands.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T093807Z">
@@ -56634,8 +56642,8 @@
       <tuv lang="EN">
         <seg>Usually this is the key store password.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T154456Z" creationid="Alessia Mazzarini" creationdate="20181105T154456Z">
-        <seg>Di solito si tratta della password dell'archivio password.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T154533Z" creationid="Alessia Mazzarini" creationdate="20181105T154456Z">
+        <seg>Di solito si tratta della password dell'archivio chiavi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57845,6 +57853,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T153717Z" creationid="Alessia Mazzarini" creationdate="20181105T153717Z">
         <seg>Se si utilizza una smartcard protetta da un PIN, vi verrà chiesto anche quest'ultimo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using a smartcard, enter the PIN here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T154814Z" creationid="Alessia Mazzarini" creationdate="20181105T154814Z">
+        <seg>Se si utilizza una smartcard, inserire qui il PIN.</seg>
       </tuv>
     </tu>
     <tu>
