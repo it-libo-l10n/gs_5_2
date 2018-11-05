@@ -10395,8 +10395,8 @@
       <tuv lang="EN">
         <seg>An icon with a red seal (&lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;) indicates that the document was signed and the certificate was validated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T180353Z" creationid="Alessia Mazzarini" creationdate="20181105T180353Z">
-        <seg>Un sigillo rosso (&lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;) indica che il documento è stato firmato e il certificato validato.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T181040Z" creationid="Alessia Mazzarini" creationdate="20181105T180353Z">
+        <seg>Il simbolo di un sigillo rosso (&lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;) indica che il documento è stato firmato e il certificato validato.</seg>
       </tuv>
     </tu>
     <tu>
