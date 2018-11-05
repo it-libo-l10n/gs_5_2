@@ -28880,6 +28880,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have not saved the document since the last change, a message box appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T175856Z" creationid="Alessia Mazzarini" creationdate="20181105T175856Z">
+        <seg>Se non avete salvato il documento dall'ultima modifica, vi apparirà un messaggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have not specified a default template, LibreOffice uses the blank template for that type of document that is installed with LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T114040Z">
@@ -28892,6 +28900,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220600Z">
         <seg>Se avete selezionato un intervallo di celle al quale è stato anche assegnato un nome, il nome dell'intervallo verrà visualizzato in questa casella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have set LibreOffice to warn you when the document contains comments (see “&lt;bf1&gt;Removing personal data&lt;/bf1&gt;” below), you may see a message box asking whether you want to want to continue signing the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T175826Z" creationid="Alessia Mazzarini" creationdate="20181105T175826Z">
+        <seg>Se avete impostato LibreOffice in modo che vi avverta quando il documento contiene dei commenti (vedete “&lt;bf1&gt;Eliminare i dati personali&lt;/bf1&gt;” più sotto), potrebbe apparire una finestra di messaggio che vi chiede se volete continuare con la firma del documento.</seg>
       </tuv>
     </tu>
     <tu>
