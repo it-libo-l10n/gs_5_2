@@ -3088,6 +3088,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Certificate password:&lt;/f0&gt; Enter the password used for protecting the private key associated with the selected certificate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T154349Z" creationid="Alessia Mazzarini" creationdate="20181105T154349Z">
+        <seg>&lt;f0&gt;Password certificato:&lt;/f0&gt; inserite la password utilizzata per proteggere la chiave privata associata al certificato selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Chang&lt;/f0&gt;ing data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120153Z">
@@ -56620,6 +56628,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205901Z" creationid="Alessia Mazzarini" creationdate="20181007T205901Z">
         <seg>In generale l'orientamento non è rilevante, ma lo è per i depliant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually this is the key store password.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T154456Z" creationid="Alessia Mazzarini" creationdate="20181105T154456Z">
+        <seg>Di solito si tratta della password dell'archivio password.</seg>
       </tuv>
     </tu>
     <tu>
