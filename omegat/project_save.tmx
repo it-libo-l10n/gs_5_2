@@ -11370,6 +11370,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A personal key is stored on your computer as a combination of a private key, which must be kept secret, and a public key, which you add to your documents when you sign them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174243Z" creationid="Alessia Mazzarini" creationdate="20181105T174243Z">
+        <seg>Una chiave personale è immagazzinata sul vostro computer come combinazione di una chiave privata, che deve essere mantenuta segreta, e di una chiave pubblica, che viene aggiunta ai vostri documenti quando li firmate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>BLACK</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180921T125204Z">
@@ -21836,6 +21844,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164937Z" creationid="Alessia Mazzarini" creationdate="20181105T164937Z">
         <seg>Figura &lt;seq0&gt;303&lt;/seq0&gt;: deselezione della formula di saluto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;304&lt;/seq0&gt;: Sending a document as an email message</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174054Z" creationid="Alessia Mazzarini" creationdate="20181105T174054Z">
+        <seg>Figura &lt;seq0&gt;304&lt;/seq0&gt;: invio di un documento come messaggio e-mail</seg>
       </tuv>
     </tu>
     <tu>
@@ -33244,6 +33260,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T204847Z">
         <seg>LibreOffice, per impostazione predefinita, salva i documenti nel formato OpenDocument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice sends the e-mails.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174037Z" creationid="Alessia Mazzarini" creationdate="20181105T174037Z">
+        <seg>LibreOffice invia le e-mail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54515,6 +54539,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104224Z">
         <seg>Per mostrare o nascondere i contrassegni dei commenti, andate su &lt;f0&gt;Visualizza &gt; Commenti&lt;/f0&gt; sulla barra del Menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To sign a document digitally, you need a personal key, also known as a &lt;f0&gt;certificate&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174201Z" creationid="Alessia Mazzarini" creationdate="20181105T174201Z">
+        <seg>Per apporre una firma digitale a un documento è necessario possedere una chiave personale, anche conosciuta come certificato.</seg>
       </tuv>
     </tu>
     <tu>
