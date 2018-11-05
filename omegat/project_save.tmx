@@ -3992,6 +3992,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;File &gt; Send &gt; E-mail as OpenDocument [Text&lt;/f0&gt;, &lt;f1&gt;Spreadsheet&lt;/f1&gt;, or &lt;f2&gt;Presentation]&lt;/f2&gt; has the same effect.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164114Z" creationid="Alessia Mazzarini" creationdate="20181105T164114Z">
+        <seg>Tramite &lt;f0&gt;File &gt; Invia &gt; Documento allegato nel formato OpenDocument [Text&lt;/f0&gt;, &lt;f1&gt;Foglio elettronico&lt;/f1&gt; o &lt;f2&gt;Presentazione]&lt;/f2&gt; si ottiene lo stesso risultato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;File compatibility.&lt;/f0&gt; In addition to its native OpenDocument formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T185448Z">
@@ -13255,6 +13263,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101636Z">
         <seg>Scegliete &lt;f0&gt;File &gt; Proprietà &gt; Descrizione&lt;/f0&gt; e digitate il titolo per il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File &gt; Send &gt; Document as E-mail&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163827Z" creationid="Alessia Mazzarini" creationdate="20181105T163827Z">
+        <seg>Scegliete &lt;f0&gt;File &gt; Invia &gt; Documento come e-mail&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31160,6 +31176,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In your e-mail program, enter the recipient, subject, and any text you want to add, then send the e-mail.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163854Z" creationid="Alessia Mazzarini" creationdate="20181105T163854Z">
+        <seg>Nel vostro programma di posta elettronica inserite il destinatario, l'oggetto e ogni parte di testo che volete aggiungere, quindi inviate la e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Included material</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T142652Z">
@@ -33068,6 +33092,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105749Z">
         <seg>LibreOffice necessita di Java per far girare diverse procedure guidate (come &lt;f0&gt;File &gt; Creazione guidata &gt; Lettera&lt;/f0&gt;&lt;f1&gt;) e per far girare database con il motore interno di HSQLDB.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice opens your default e-mail program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163835Z" creationid="Alessia Mazzarini" creationdate="20181105T163835Z">
+        <seg>LibreOffice aprirà il programma di posta predefinito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47215,6 +47247,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180920T230616Z">
         <seg>Il dispatch helper invia una richiesta al contenitore del documento (memorizzato nella variabile denominata document) mediante il comando .uno:InsertText.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The document is attached.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163838Z" creationid="Alessia Mazzarini" creationdate="20181105T163838Z">
+        <seg>Il documento viene allegato.</seg>
       </tuv>
     </tu>
     <tu>
