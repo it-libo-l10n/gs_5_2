@@ -21632,6 +21632,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;299&lt;/seq0&gt;: Setting a password to encrypt a PDF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T145355Z" creationid="Alessia Mazzarini" creationdate="20181105T145355Z">
+        <seg>Figura &lt;seq0&gt;299&lt;/seq0&gt;: impostare una password per codificare un PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Sample personalized theme</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093609Z">
@@ -57989,6 +57997,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065422Z">
         <seg>Quando avete raggiunto la dimensione desiderata dell'oggetto, rilasciate il pulsante del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have set all the options you require, click on &lt;f0&gt;Export&lt;/f0&gt; to open the Export dialog, where you can set the file name and the save location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T145344Z" creationid="Alessia Mazzarini" creationdate="20181105T145344Z">
+        <seg>Dopo aver impostato tutte le opzioni desiderate, fate clic su &lt;f0&gt;Esporta&lt;/f0&gt; per aprire la finestra di dialogo Esporta, dove potete scegliere il nome del file e la posizione in cui salvarlo.</seg>
       </tuv>
     </tu>
     <tu>
