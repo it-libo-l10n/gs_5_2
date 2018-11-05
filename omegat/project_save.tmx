@@ -33032,6 +33032,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice displays a “Creating documents” message and then displays the &lt;f1&gt;Save, print or send&lt;/f1&gt; page of the Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T173252Z" creationid="Alessia Mazzarini" creationdate="20181105T173252Z">
+        <seg>LibreOffice visualizza un messaggio di “Creazione documenti” e successivamente la pagina della creazione guidata &lt;f1&gt;Salvate, stampate o inviate il documento&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice does not have a similar default template file; the “factory defaults” are embedded within the software.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161315Z">
@@ -36675,8 +36683,8 @@
       <tuv lang="EN">
         <seg>On the Create salutation page, deselect &lt;f1&gt;This document should contain a salutation&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164923Z" creationid="Alessia Mazzarini" creationdate="20181105T164923Z">
-        <seg>Sulla pagina Crea una formula di saluto, deselezionate &lt;f1&gt;Questo documento dovrebbe contenere una formula di saluto&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T173306Z" creationid="Alessia Mazzarini" creationdate="20181105T164923Z">
+        <seg>Sulla pagina Crea la formula di saluto, deselezionate &lt;f1&gt;Questo documento dovrebbe contenere una formula di saluto&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
