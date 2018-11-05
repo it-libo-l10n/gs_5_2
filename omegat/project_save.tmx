@@ -9825,6 +9825,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All other fields on the Digital Signatures tab are accessible only after a certificate has been selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T154132Z" creationid="Alessia Mazzarini" creationdate="20181105T154132Z">
+        <seg>Gli altri campi presenti nella scheda Firme digitali sono accessibili solo nel momento in cui viene selezionato un certificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All other fields use Number [NUMERIC].</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104820Z">
