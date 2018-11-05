@@ -10393,6 +10393,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An icon with a red seal (&lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;) indicates that the document was signed and the certificate was validated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T180353Z" creationid="Alessia Mazzarini" creationdate="20181105T180353Z">
+        <seg>Un sigillo rosso (&lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;) indica che il documento è stato firmato e il certificato validato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An independent Foundation is a better match to the values of our contributors, users, and supporters, and will enable a more effective, efficient, transparent, and inclusive Community.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T200907Z">
@@ -47027,6 +47035,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The certificate used is displayed in the dialog with an icon next to its name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T180221Z" creationid="Alessia Mazzarini" creationdate="20181105T180221Z">
+        <seg>Il certificato usato viene visualizzato nella finestra di dialogo con un'icona accanto al nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The changed code is saved in an ODF document but is not retained if you save into a Microsoft Office format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T153945Z">
@@ -51095,6 +51111,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180922T141440Z">
         <seg>Ciò aiuta a proteggere queste macro, dato che non dovrebbero essere modificate e voi non dovreste memorizzare le vostre macro nel contenitore LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This icon indicates the status of the digital signature.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T180301Z" creationid="Alessia Mazzarini" creationdate="20181105T180301Z">
+        <seg>Tale icona indica lo stato della firma digitale.</seg>
       </tuv>
     </tu>
     <tu>
