@@ -4978,8 +4978,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Location, Contact information, Reason:&lt;/f0&gt; Optionally enter additional information about the digital signature that will be applied to the PDF.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T155318Z" creationid="Alessia Mazzarini" creationdate="20181105T155318Z">
-        <seg>&lt;f0&gt;Luogo, Informazioni di contatto, Motivo:&lt;/f0&gt; si possono inserire delle informazioni facoltative sulla firma digitale che verrà applicata al PDF.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T161146Z" creationid="Alessia Mazzarini" creationdate="20181105T155318Z">
+        <seg>&lt;f0&gt;Luogo, Informazioni di contatto, Motivo:&lt;/f0&gt; potete inserire facoltativamente delle informazioni aggiuntive sulla firma digitale che verrà applicata al PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6308,6 +6308,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T124658Z">
         <seg>&lt;f0&gt;Tilde&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;~&lt;/f2&gt;&lt;f3&gt; per aggiungere uno spazio largo.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Time Stamp Authority:&lt;/f0&gt; Optionally select a Time Stamping Authority (TSA) URL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T161113Z" creationid="Alessia Mazzarini" creationdate="20181105T161113Z">
+        <seg>&lt;f0&gt;Autorità di marcatura temporale:&lt;/f0&gt; potete selezionare facoltativamente un URL TSA (Time Stamping Authority – marcatura temporale).</seg>
       </tuv>
     </tu>
     <tu>
