@@ -18360,6 +18360,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documents can only be sent from the LibreOffice menu if a mail profile has been set up in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Mail Merge E-mail&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163759Z" creationid="Alessia Mazzarini" creationdate="20181105T163759Z">
+        <seg>I documenti possono essere inviati utilizzando il menu di LibreOffice soltanto se è stato impostato un profilo di posta elettronica in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Writer &gt; Stampa in serie e-mail&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documents that were saved with one currency as the default will open using the new currency defaults.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T062652Z">
@@ -28352,6 +28360,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you cannot find what you want under &lt;f0&gt;File &gt; Save As&lt;/f0&gt;, look under &lt;f1&gt;File &gt; Export&lt;/f1&gt; as well.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163535Z" creationid="Alessia Mazzarini" creationdate="20181105T163535Z">
+        <seg>Se non riuscite a trovare quello che desiderate sotto &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt;, cercate anche sotto &lt;f1&gt;File &gt; Esporta&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you cannot place the cursor in the table of contents, choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f0&gt;, and then select &lt;f1&gt;Enable &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Cursor&lt;/f3&gt;&lt;/f2&gt; in the &lt;f4&gt;&lt;f5&gt;P&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;rotected areas&lt;/f6&gt; section.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T152111Z">
@@ -30148,6 +30164,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180830T064047Z">
         <seg>In aggiunta ai tasti di scelta rapida integrati &lt;i0/&gt;elencati in questa Appendice, potete definire le vostre scorciatoie personalizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, Draw and Impress can export to Adobe &lt;is0/&gt;Flash&lt;ie1/&gt; (SWF) and a range of image formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163615Z" creationid="Alessia Mazzarini" creationdate="20181105T163615Z">
+        <seg>Inoltre, Draw e Impress possono esportare in Adobe &lt;is0/&gt;Flash&lt;ie1/&gt; (SWF) e in diversi altri formati immagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32840,6 +32864,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice can export files to XHTML.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163548Z" creationid="Alessia Mazzarini" creationdate="20181105T163548Z">
+        <seg>LibreOffice può esportare file in XHTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice can open a wide variety of file formats in addition to the OpenDocument formats, including Portable Document Format (PDF), if an ODF file is embedded in the PDF (see Chapter 10 Printing, Exporting, and Emailing for more information).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T210031Z">
@@ -33052,6 +33084,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155519Z">
         <seg>Gli stili di formato possono essere selezionati in vari modi in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice provides several ways to send documents quickly and easily as e-mail &lt;i0/&gt;attachments in one of three formats: OpenDocument (LibreOffice’s default format), Microsoft Office formats, or PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163731Z" creationid="Alessia Mazzarini" creationdate="20181105T163731Z">
+        <seg>LibreOffice offre svariati metodi per inviare documenti facilmente e velocemente come allegati &lt;i0/&gt;di posta elettronica in uno dei tre seguenti formati: OpenDocument (formato predefinito di LibreOffice), Microsoft Office o PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36525,6 +36565,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154719Z">
         <seg>On the Export dialog, specify a file name for the exported document, then select the desired format in the &lt;f1&gt;File format&lt;/f1&gt; list and click the &lt;f2&gt;Export&lt;/f2&gt; button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Export dialog, specify a file name for the exported document, then select the required format in the &lt;f1&gt;File format&lt;/f1&gt; list and click the &lt;f2&gt;Export&lt;/f2&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163651Z" creationid="Alessia Mazzarini" creationdate="20181105T163651Z">
+        <seg>Nella finestra di dialogo Esporta, specificate un nome file per il documento che state esportando, poi selezionate il formato desiderato nell'elenco &lt;f1&gt;Formato file&lt;/f1&gt; e fate clic sul pulsante &lt;f2&gt;Esporta&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51611,6 +51659,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;i0/&gt;send the current document in OpenDocument format:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163815Z" creationid="Alessia Mazzarini" creationdate="20181105T163815Z">
+        <seg>Per&lt;i0/&gt; inviare il documento corrente nel formato OpenDocument:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To accept the suggestion, press &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T113438Z">
@@ -59001,6 +59057,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writer document as attachment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163704Z" creationid="Alessia Mazzarini" creationdate="20181105T163704Z">
+        <seg>Documenti di Writer come allegati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writer documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163011Z">
@@ -62553,6 +62617,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>e-mailing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163708Z" creationid="Alessia Mazzarini" creationdate="20181105T163708Z">
+        <seg>invio tramite e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>eBook (.pdb)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T210600Z">
@@ -64349,6 +64421,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142333Z">
         <seg>selezione, in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>send document as e-mail</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163803Z" creationid="Alessia Mazzarini" creationdate="20181105T163803Z">
+        <seg>invio documenti come e-mail</seg>
       </tuv>
     </tu>
     <tu>
