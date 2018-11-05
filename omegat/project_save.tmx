@@ -18936,6 +18936,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During the PDF signing process, the TSA will be used to obtain a digitally signed timestamp that is then embedded in the signature.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T162758Z" creationid="Alessia Mazzarini" creationdate="20181105T162758Z">
+        <seg>Durante la firma del PDF, il TSA permetterà di ottenere una marcatura temporale firmata digitalmente che verrà poi incorporata nella firma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dynamic &lt;i0/&gt;transparency gradients</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150646Z">
