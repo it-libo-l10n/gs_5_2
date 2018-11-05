@@ -44049,6 +44049,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some smartcard software will prompt you for the PIN again before signing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T154945Z" creationid="Alessia Mazzarini" creationdate="20181105T154945Z">
+        <seg>Il software di alcune smartcard potrebbero nuovamente chiedervi il PIN prima della firma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some tags that are exported are table of contents, hyperlinks, and controls.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T194230Z" creationid="luke" creationdate="20181007T012000Z">
