@@ -19184,6 +19184,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each or all of the three fields may be left blank.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T155740Z" creationid="Alessia Mazzarini" creationdate="20181105T155740Z">
+        <seg>Potete lasciare in bianco qualsiasi campo o tutti e tre insieme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each page is scaled down in order to make space for the comments to fit on the underlying paper size.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T083123Z">
