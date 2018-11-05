@@ -17975,6 +17975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Digital Signatures page of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T145504Z" creationid="Alessia Mazzarini" creationdate="20181105T145504Z">
+        <seg>Finestra di dialogo Opzioni PDF - scheda Firme digitali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Digital signature</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T070407Z">
@@ -50967,6 +50975,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T133844Z">
         <seg>Questa opzione sostituisce due trattini (tratti d'unione), in certe condizioni, con il corrispondente trattino (lineetta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This page contains the options related to exporting a digitally signed PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T145617Z" creationid="Alessia Mazzarini" creationdate="20181105T145617Z">
+        <seg>Questa scheda contiene le opzioni relative all'esportazione di un PDF firmato digitalmente.</seg>
       </tuv>
     </tu>
     <tu>
