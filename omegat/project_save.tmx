@@ -13227,6 +13227,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File &gt; Digital Signatures&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174709Z" creationid="Alessia Mazzarini" creationdate="20181105T174709Z">
+        <seg>Scegliete &lt;f0&gt;File &gt; Firme digitali&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;File &gt; New &gt; Database&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112730Z" creationid="manuel" creationdate="20181015T112730Z">
@@ -23324,6 +23332,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T164426Z">
         <seg>Per una descrizione più dettagliata delle tavolozze dei colori e delle relative opzioni, vedere il&lt;f0&gt; &lt;/f0&gt;Capitolo 11 (Draw tecniche avanzate) &lt;f1&gt;nella &lt;/f1&gt;&lt;f2&gt;Guida a Draw.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a more detailed description of how to get and manage a certificate, and signature validation, see “About Digital Signatures” in the LibreOffice Help.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174702Z" creationid="Alessia Mazzarini" creationdate="20181105T174702Z">
+        <seg>Per una descrizione più dettagliata di come ottenere e operare con un certificato, e per la convalida della firma, vedere "Applicare le firme digitali" nella Guida di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36441,10 +36457,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On Solaris and Linux systems, files that are supplied by Thunderbird, Mozilla or Firefox are used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174653Z" creationid="Alessia Mazzarini" creationdate="20181105T174653Z">
+        <seg>Su sistemi Solaris e Linux, vengono utilizzati i file forniti da Thunderbird, Mozilla o Firefox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On Windows and Linux, the document closes and the LibreOffice Start Center opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133035Z">
         <seg>In Windows e Linux, il documento si chiuderà e si aprirà il Centro di Avvio di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On Windows operating systems, the Windows features of validating a signature are used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174646Z" creationid="Alessia Mazzarini" creationdate="20181105T174646Z">
+        <seg>Sui sistemi operativi Windows vengono utilizzate le funzionalità di convalida della firma digitale fornite da Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54577,8 +54609,8 @@
       <tuv lang="EN">
         <seg>To sign a document:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181007T005504Z" creationid="luke" creationdate="20181007T005504Z">
-        <seg>To sign a document:</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174704Z" creationid="luke" creationdate="20181007T005504Z">
+        <seg>Per firmare un documento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58773,6 +58805,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T210749Z">
         <seg>Nel caso vogliate rimuoverle, dovete farlo una alla volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever someone changes something in the document, this change breaks the digital signature.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174637Z" creationid="Alessia Mazzarini" creationdate="20181105T174637Z">
+        <seg>Nel caso qualcuno cambi qualcosa nel documento, queste variazioni modificano la firma digitale.</seg>
       </tuv>
     </tu>
     <tu>
