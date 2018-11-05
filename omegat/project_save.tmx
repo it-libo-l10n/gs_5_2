@@ -27824,6 +27824,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the key store is protected by a password, you are prompted for it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T153613Z" creationid="Alessia Mazzarini" creationdate="20181105T153613Z">
+        <seg>Se l'archivio chiavi è protetto, vi verrà chiesta una password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the list of available buttons for a toolbar does not include all the commands you want on that toolbar, you can add commands.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T093807Z">
@@ -42141,6 +42149,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T143653Z">
         <seg>Selezionate le celle da ordinare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the certificate to use for digitally signing the exported PDF, then click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T153823Z" creationid="Alessia Mazzarini" creationdate="20181105T153823Z">
+        <seg>Selezionate il certificato da utilizzare per firmare digitalmente il PDF esportato e fate clic su &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57797,6 +57813,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T160714Z">
         <seg>Usando un collegamento ipertestuale, non avete possibilità di scelta riguardo al contenuto del collegamento (ad esempio testo o numero di pagina), mentre usando un riferimento incrociato, avete diverse possibilità di scelta, inclusi i segnalibri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using a smartcard that is protected by a PIN, you are also prompted for that.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T153717Z" creationid="Alessia Mazzarini" creationdate="20181105T153717Z">
+        <seg>Se si utilizza una smartcard protetta da un PIN, vi verrà chiesto anche quest'ultimo.</seg>
       </tuv>
     </tu>
     <tu>
