@@ -16527,6 +16527,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create the document in Writer without using the Wizard, then use the Wizard to send it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164355Z" creationid="Alessia Mazzarini" creationdate="20181105T164355Z">
+        <seg>Create il documento in Writer senza usare la procedura guidata, quindi usate la Stampa guidata per inviarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create, edit, and save web pages using Writer/Web.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T204809Z">
@@ -19004,6 +19012,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135639Z">
         <seg>Opzioni e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E-mailing a document &lt;i0/&gt;to several recipients</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164255Z" creationid="Alessia Mazzarini" creationdate="20181105T164255Z">
+        <seg>Inviare per e-mail un documento &lt;i0/&gt;a diversi destinatari</seg>
       </tuv>
     </tu>
     <tu>
@@ -28400,6 +28416,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you choose &lt;f0&gt;E-mail as Microsoft [Word&lt;/f0&gt;,&lt;f1&gt; Excel&lt;/f1&gt;, or&lt;f2&gt; PowerPoint]&lt;/f2&gt;, LibreOffice first creates a file in one of those formats and then opens your e-mail program with the file attached.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164146Z" creationid="Alessia Mazzarini" creationdate="20181105T164146Z">
+        <seg>Se scegliete &lt;f0&gt;Documento allegato nel formato Microsoft [Word&lt;/f0&gt;,&lt;f1&gt; Excel&lt;/f1&gt; o&lt;f2&gt; Powerpoint]&lt;/f2&gt;, LibreOffice creerà prima un file in uno di questi formati e poi aprirà il vostro programma di posta allegando il file creato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you choose &lt;f0&gt;Keep Old Styles&lt;/f0&gt;, the document is no longer connected to the template, even though the template is still listed under &lt;f1&gt;File &gt; Properties &gt; General.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T171618Z">
@@ -33645,6 +33669,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175922Z">
         <seg>Magnus Adielsson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mail Merge Wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164430Z" creationid="Alessia Mazzarini" creationdate="20181105T164430Z">
+        <seg>Stampa guidata in serie</seg>
       </tuv>
     </tu>
     <tu>
@@ -40769,6 +40801,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Chapter 11, Using Mail Merge, in the &lt;f0&gt;Writer Guide&lt;/f0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164349Z" creationid="Alessia Mazzarini" creationdate="20181105T164349Z">
+        <seg>Vedere il Capitolo 11 (Uso della stampa in serie) nella &lt;f0&gt;Guida a Writer&lt;/f0&gt; per maggiori dettagli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Chapter 12, Creating Web Pages, for details on creating hyperlinks within a document and to other documents and websites.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T165843Z">
@@ -43605,6 +43645,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T104058Z">
         <seg>Allo stesso modo, una tabella di listino prezzi potrebbe contenere due campi: Nome e Prezzo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, if you choose &lt;f0&gt;E-mail as PDF&lt;/f0&gt;, LibreOffice first creates a PDF using your default PDF settings (as when using the &lt;f1&gt;Export Directly as PDF&lt;/f1&gt; toolbar button) and then opens your email program with the PDF file attached.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164208Z" creationid="Alessia Mazzarini" creationdate="20181105T164208Z">
+        <seg>Allo stesso modo, se scegliete &lt;f0&gt;E-mail come PDF&lt;/f0&gt;, LibreOffice creerà prima un PDF usando le vostre impostazioni PDF predefinite (le stesse che vengono usate con il pulsante &lt;f1&gt;Esporta direttamente come file PDF&lt;/f1&gt;) e poi aprirà il vostro programma di posta, allegando il file PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51067,6 +51115,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This method is described here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164421Z" creationid="Alessia Mazzarini" creationdate="20181105T164357Z">
+        <seg>Viene ora descritto questo metodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This method is quite useful when you need to format many scattered paragraphs, cells, or other items with the same style:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150018Z">
@@ -52826,6 +52882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102526Z">
         <seg>Per disegnare un ellisse o un cerchio partendo dal suo centro, posizionate il cursore sul disegno, premete il pulsante del mouse e tenete premuto il tasto &lt;f0&gt;Alt&lt;/f0&gt; mentre trascinate con il cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To e-mail a document to several recipients, you can use the features in your e-mail program or you can use LibreOffice’s mail merge facilities to extract email addresses from an address book.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164313Z" creationid="Alessia Mazzarini" creationdate="20181105T164313Z">
+        <seg>Per inviare un documento tramite posta elettronica a più destinatari, potete utilizzare le funzionalità del vostro programma di posta oppure la stampa in serie di LibreOffice per estrarre gli indirizzi di posta elettronica da una rubrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55796,6 +55860,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T194100Z">
         <seg>Usate il modo Testo sorgente HTML per inserire manualmente all'interno della pagina dei collegamenti a questo tipo di componenti esterni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the Mail Merge Wizard to create the document and send it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164330Z" creationid="Alessia Mazzarini" creationdate="20181105T164330Z">
+        <seg>Usate la procedura della Stampa guidata in serie per creare il documento e quindi inviarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61001,6 +61073,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can use LibreOffice’s mail merge to send e-mail in two ways:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164320Z" creationid="Alessia Mazzarini" creationdate="20181105T164320Z">
+        <seg>Potete usare la stampa in serie di LibreOffice per inviare i messaggi in due modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can use any of the colors in the Color Table at &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Colors&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061813Z">
@@ -64485,6 +64565,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083206Z">
         <seg>opzioni di installazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>several recipients</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164219Z" creationid="Alessia Mazzarini" creationdate="20181105T164219Z">
+        <seg>destinatari diversi</seg>
       </tuv>
     </tu>
     <tu>
