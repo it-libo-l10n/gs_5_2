@@ -27616,6 +27616,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If no TSA URL is selected (the default), the signature will not be timestamped, but will use the current time from your local computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163355Z" creationid="Alessia Mazzarini" creationdate="20181105T163355Z">
+        <seg>Se non è selezionato nessun URL TSA (impostazione predefinita), la firma non verrà marcato temporalmente, ma utilizzerà l'ora corrente del vostro computer locale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If no options are selected, the library is copied to your user macro directory.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T090856Z">
@@ -33101,6 +33109,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200722Z">
         <seg>LibreOffice usa un meccanismo di crittografia molto forte che, , nel caso in cui smarriate o dimentichiate la password, rende quasi impossibile recuperare i contenuti di un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice uses the term “export” for some file operations involving a change of file type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163442Z" creationid="Alessia Mazzarini" creationdate="20181105T163442Z">
+        <seg>LibreOffice usa il termine “esporta” per alcune operazioni sui file che comportano una modifica del tipo di file.</seg>
       </tuv>
     </tu>
     <tu>
