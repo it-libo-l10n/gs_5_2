@@ -48317,8 +48317,8 @@
       <tuv lang="EN">
         <seg>The key store to be used can be selected under &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Security &gt; Certificate Path&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T151052Z" creationid="Alessia Mazzarini" creationdate="20181105T151052Z">
-        <seg>The key store to be used can be selected under &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Sicurezza &gt; Percorso certificato&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T182522Z" creationid="Alessia Mazzarini" creationdate="20181105T151052Z">
+        <seg>L'archivio chiavi da usare si può selezionare da &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Sicurezza &gt; Percorso certificato&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
