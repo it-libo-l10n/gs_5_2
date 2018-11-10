@@ -27794,8 +27794,8 @@
       <tuv lang="EN">
         <seg>If no TSA URL is selected (the default), the signature will not be timestamped, but will use the current time from your local computer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163355Z" creationid="Alessia Mazzarini" creationdate="20181105T163355Z">
-        <seg>Se non è selezionato nessun URL TSA (impostazione predefinita), la firma non verrà marcato temporalmente, ma utilizzerà l'ora corrente del vostro computer locale.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T184927Z" creationid="Alessia Mazzarini" creationdate="20181105T163355Z">
+        <seg>Se non è selezionato nessun URL TSA (impostazione predefinita), la firma non verrà marcata temporalmente, ma utilizzerà l'ora corrente del vostro computer locale.</seg>
       </tuv>
     </tu>
     <tu>
