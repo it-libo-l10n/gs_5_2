@@ -55745,8 +55745,8 @@
       <tuv lang="EN">
         <seg>Unlike &lt;f0&gt;Save As&lt;/f0&gt;, the &lt;f1&gt;Export&lt;/f1&gt; command writes a copy of the current document in a new file with the chosen format, but keeps the current document and format open in your session.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181101T171147Z" creationid="Alessia Mazzarini" creationdate="20181011T170154Z">
-        <seg>A differenza del comando &lt;f0&gt;Salva con nome&lt;/f0&gt;, il comando &lt;f1&gt;Esporta&lt;/f1&gt; scrive una copia del documento corrente in un nuovo file del formato scelto, lasciando il documento e il formato corrente aperto nella sessione.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T175111Z" creationid="Alessia Mazzarini" creationdate="20181011T170154Z">
+        <seg>A differenza del comando &lt;f0&gt;Salva con nome&lt;/f0&gt;, il comando &lt;f1&gt;Esporta&lt;/f1&gt; scrive una copia del documento corrente in un nuovo file del formato scelto, lasciando aperto nella sessione il documento e il formato corrente.</seg>
       </tuv>
     </tu>
     <tu>
