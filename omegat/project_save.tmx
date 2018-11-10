@@ -18153,8 +18153,8 @@
       <tuv lang="EN">
         <seg>Digital signatures are used to ensure that the PDF was really created by the original author (that is, you), and that the document has not been modified since it was signed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T150030Z" creationid="Alessia Mazzarini" creationdate="20181105T150030Z">
-        <seg>Le firme digitali servono per garantire che il PDF sia stato creato dall'autore originale (ossia voi) e che, dal momento della firma, il documento non sia stato modificato.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T181856Z" creationid="Alessia Mazzarini" creationdate="20181105T150030Z">
+        <seg>Le firme digitali servono per garantire che il PDF sia stato effettivamente creato dall'autore originale (ossia voi) e che il documento non sia stato modificato successivamente alla firma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49541,8 +49541,8 @@
       <tuv lang="EN">
         <seg>The signed PDF export uses the keys and X.509 certificates already stored in your default key store location or on a smartcard.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T150536Z" creationid="Alessia Mazzarini" creationdate="20181105T150536Z">
-        <seg>L'esportazione di un file PDF firmato utilizza le chiavi e i certificati X.509 già memorizzati nella posizione predefinita dell'archivio chiavi o su una smartcard.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T181937Z" creationid="Alessia Mazzarini" creationdate="20181105T150536Z">
+        <seg>L'esportazione di un file PDF firmato utilizza le chiavi e i certificati X.509 già memorizzati nella posizione predefinita del vostro archivio chiavi o su una smartcard.</seg>
       </tuv>
     </tu>
     <tu>
