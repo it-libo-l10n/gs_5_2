@@ -5346,16 +5346,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Open with Internet browser&lt;/f0&gt;: Use the default Internet browser to display linked PDF documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223334Z" creationid="Alessia Mazzarini" creationdate="20181104T223334Z">
-        <seg>&lt;f0&gt;Apri con il browser Internet&lt;/f0&gt;: utilizza il browser Internet predefinito per la visualizzazione dei documenti PDF collegati.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T181627Z" creationid="Alessia Mazzarini" creationdate="20181104T223334Z">
+        <seg>&lt;f0&gt;Apri con il browser internet&lt;/f0&gt;: utilizza il browser Internet predefinito per la visualizzazione dei documenti PDF collegati.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Open with PDF reader application&lt;/f0&gt;: Use the same application used to display the PDF document to open linked PDF documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223239Z" creationid="Alessia Mazzarini" creationdate="20181104T223230Z">
-        <seg>&lt;f0&gt;Apri con il visualizzatore di PDF&lt;/f0&gt;: utilizza la stessa applicazione utilizzata per visualizzare il documento PDF per aprire i documenti collegati in formato PDF.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T181622Z" creationid="Alessia Mazzarini" creationdate="20181104T223230Z">
+        <seg>&lt;f0&gt;Apri con l'applicazione di visualizzazione PDF&lt;/f0&gt;: utilizza la stessa applicazione utilizzata per visualizzare il documento PDF per aprire i documenti collegati in formato PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16472,8 +16472,8 @@
       <tuv lang="EN">
         <seg>Convert document references to PDF targets</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T222341Z" creationid="Alessia Mazzarini" creationdate="20181104T222341Z">
-        <seg>Converti i segnalibri secondo il formato PDF</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T181446Z" creationid="Alessia Mazzarini" creationdate="20181104T222341Z">
+        <seg>Converti i riferimenti di un documento nei parametri del formato PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -20106,8 +20106,8 @@
       <tuv lang="EN">
         <seg>Export URLs relative to file system</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T222755Z" creationid="Alessia Mazzarini" creationdate="20181104T222755Z">
-        <seg>Esporta URL relativamente al file system</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T181526Z" creationid="Alessia Mazzarini" creationdate="20181104T222755Z">
+        <seg>Esporta URL relativi al file system</seg>
       </tuv>
     </tu>
     <tu>
