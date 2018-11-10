@@ -51309,8 +51309,8 @@
       <tuv lang="EN">
         <seg>This is usually done during installation of the smartcard software.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T151504Z" creationid="Alessia Mazzarini" creationdate="20181105T151504Z">
-        <seg>Normalmente questo avviene durante l'installazione del software della smartcard.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T182755Z" creationid="Alessia Mazzarini" creationdate="20181105T151504Z">
+        <seg>Normalmente questo viene fatto durante l'installazione del software della smartcard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58459,8 +58459,8 @@
       <tuv lang="EN">
         <seg>When using a smartcard, it must already be configured for use by your key store.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T151511Z" creationid="Alessia Mazzarini" creationdate="20181105T151415Z">
-        <seg>Se si utilizza una smartcard, questa deve essere già configurata per l'uso dall'archivio chiavi.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T182653Z" creationid="Alessia Mazzarini" creationdate="20181105T151415Z">
+        <seg>Se si utilizza una smartcard, questa deve essere già configurata per l'uso dal vostro archivio chiavi.</seg>
       </tuv>
     </tu>
     <tu>
