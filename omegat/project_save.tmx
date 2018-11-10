@@ -27674,8 +27674,8 @@
       <tuv lang="EN">
         <seg>If disabled, field names will be exported using generated unique names.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T212909Z" creationid="Alessia Mazzarini" creationdate="20181104T212236Z">
-        <seg>Se l'opzione è disabilitata, i nomi dei campi saranno esportati utilizzando nomi univoci generati artificialmente.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T180715Z" creationid="Alessia Mazzarini" creationdate="20181104T212236Z">
+        <seg>Se l'opzione è disabilitata, i nomi dei campi saranno esportati utilizzando nomi univoci generati automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59291,8 +59291,8 @@
       <tuv lang="EN">
         <seg>With this option enabled, you can enter data in the first occurrence of the named field in the PDF document and all fields with the same name will carry your entry.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T212109Z" creationid="Alessia Mazzarini" creationdate="20181104T210635Z">
-        <seg>Abilitando questa opzione, i dati immessi nella prima occorrenza del campo denominato nel documento PDF verranno automaticamente trasferiti in tutti gli altri campi con lo stesso nome.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T180613Z" creationid="Alessia Mazzarini" creationdate="20181104T210635Z">
+        <seg>Abilitando questa opzione, i dati immessi in un campo nel documento PDF vengono riportati in automatico in tutte le occorrenze successive di campi con lo stesso nome.</seg>
       </tuv>
     </tu>
     <tu>
