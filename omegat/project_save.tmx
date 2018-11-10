@@ -44507,8 +44507,8 @@
       <tuv lang="EN">
         <seg>Some smartcard software will prompt you for the PIN again before signing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T154945Z" creationid="Alessia Mazzarini" creationdate="20181105T154945Z">
-        <seg>Il software di alcune smartcard potrebbero nuovamente chiedervi il PIN prima della firma.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T183920Z" creationid="Alessia Mazzarini" creationdate="20181105T154945Z">
+        <seg>Il software di alcune smartcard potrebbe nuovamente chiedervi il PIN prima della firma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51157,8 +51157,8 @@
       <tuv lang="EN">
         <seg>This information will be embedded in the appropriate PDF fields and will be visible to anyone viewing the PDF.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T155428Z" creationid="Alessia Mazzarini" creationdate="20181105T155428Z">
-        <seg>Queste informazioni verrano inserite negli appositi campi del PDF e saranno visibili a chiunque visualizzi il PDF.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T184111Z" creationid="Alessia Mazzarini" creationdate="20181105T155428Z">
+        <seg>Queste informazioni verrano incorporate nei campi appropriati del PDF e saranno visibili a chiunque visualizzi il PDF.</seg>
       </tuv>
     </tu>
     <tu>
