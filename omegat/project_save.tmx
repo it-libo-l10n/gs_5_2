@@ -32954,8 +32954,8 @@
       <tuv lang="EN">
         <seg>LibreOffice &lt;f1&gt;&lt;s2/&gt;now&lt;/f1&gt; provide&lt;f3&gt;s&lt;/f3&gt; a signature description, &lt;f4&gt;so&lt;/f4&gt; multiple signatures from the same author &lt;f5&gt;are now allowed&lt;/f5&gt;, because each signature can have a different meaning.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T183146Z" creationid="Alessia Mazzarini" creationdate="20181111T183146Z">
-        <seg>LibreOffice &lt;f1&gt;&lt;s2/&gt;offre&lt;/f1&gt; ora&lt;f3&gt;&lt;/f3&gt; una descrizione della firma &lt;f4&gt;e&lt;/f4&gt; permettendo così firme multiple da uno stesso autore&lt;f5&gt;&lt;/f5&gt;visto che ogni firma può avere un significato diverso.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T190445Z" creationid="Alessia Mazzarini" creationdate="20181111T183146Z">
+        <seg>LibreOffice &lt;f1&gt;&lt;s2/&gt;offre&lt;/f1&gt; ora&lt;f3&gt;&lt;/f3&gt; una descrizione della firma &lt;f4&gt;&lt;/f4&gt; permettendo così firme multiple da uno stesso autore&lt;f5&gt;&lt;/f5&gt;visto che ogni firma può avere un significato diverso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59019,8 +59019,8 @@
       <tuv lang="EN">
         <seg>Whenever someone changes something in the document, this change breaks the digital signature.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174637Z" creationid="Alessia Mazzarini" creationdate="20181105T174637Z">
-        <seg>Nel caso qualcuno cambi qualcosa nel documento, queste variazioni modificano la firma digitale.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T185950Z" creationid="Alessia Mazzarini" creationdate="20181105T174637Z">
+        <seg>Ogni volta che qualcuno cambia qualcosa nel documento, tale modifica invalida la firma digitale.</seg>
       </tuv>
     </tu>
     <tu>
