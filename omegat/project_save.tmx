@@ -13811,6 +13811,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Close&lt;/f0&gt; to apply the digital signature.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T175900Z" creationid="Alessia Mazzarini" creationdate="20181111T175900Z">
+        <seg>Per apporre la firma digitale fate clic su &lt;f0&gt;Chiudi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Close&lt;/f0&gt; to close the Add Tables dialog when you have added the tables you want.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070102Z">
