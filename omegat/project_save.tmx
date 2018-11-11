@@ -21944,6 +21944,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;306&lt;/seq0&gt;: Signatures &lt;f1&gt;can now &lt;/f1&gt;have a description</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T184349Z" creationid="Alessia Mazzarini" creationdate="20181111T184349Z">
+        <seg>Figura &lt;seq0&gt;306&lt;/seq0&gt;: è ora possibile aggiungere &lt;f1&gt;una descrizione&lt;/f1&gt; alla firma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Showing or hiding text, object, and table boundaries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100633Z">
@@ -29812,6 +29820,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T131755Z">
         <seg>Nell'elenco a discesa &lt;f0&gt;Salva in&lt;/f0&gt;, selezionate LibreOffice oppure un determinato documento nel quale salvare il vostro evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Security &gt; Options&lt;/f0&gt;, you can set LibreOffice to remind (warn) you when files contain certain information and remove personal information automatically on saving.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T184542Z" creationid="Alessia Mazzarini" creationdate="20181111T184542Z">
+        <seg>In &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Sicurezza &gt; Opzioni&lt;/f0&gt;, potete impostare LibreOffice in modo da essere avvisati quando i file contengono determinate informazioni ed eliminare le informazioni personali automaticamente durante il salvataggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54271,6 +54287,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remove personal and some other data from a file, go to &lt;f0&gt;File &gt; Properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T184559Z" creationid="Alessia Mazzarini" creationdate="20181111T184559Z">
+        <seg>Per eliminare dati personali e di altro tipo da un file, andate su &lt;f0&gt;File &gt; Proprietà&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remove the inverted question marks and create unpaired brackets, &lt;/f13&gt;&lt;f14&gt;backslashes are added.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T122651Z">
@@ -61993,6 +62017,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may wish to ensure that personal data, versions, notes, hidden information, or recorded changes are removed from files before you send them to other people or create PDFs from them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T184509Z" creationid="Alessia Mazzarini" creationdate="20181111T184509Z">
+        <seg>Potreste volervi assicurare che i dati personali, le versioni, le note, le informazioni nascoste o le modifiche registrate siano eliminati dai file prima di inviarli ad altre persone o di esportarli in PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may wish to print documents in black and white on a color printer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211339Z" creationid="Alessia Mazzarini" creationdate="20181007T211339Z">
@@ -64757,6 +64789,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T093121Z">
         <seg>eliminare dati da una cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>removing personal data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T184432Z" creationid="Alessia Mazzarini" creationdate="20181111T184432Z">
+        <seg>eliminare i dati personali</seg>
       </tuv>
     </tu>
     <tu>
