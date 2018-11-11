@@ -34843,8 +34843,8 @@
       <tuv lang="EN">
         <seg>More than one signature can be added to a document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T180451Z" creationid="Alessia Mazzarini" creationdate="20181111T180451Z">
-        <seg>A un documento si può aggiungere più di una firma.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T182314Z" creationid="Alessia Mazzarini" creationdate="20181111T180451Z">
+        <seg>È possibile aggiungere più firme a un documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43939,8 +43939,8 @@
       <tuv lang="EN">
         <seg>Signing multiple times &lt;f0&gt;with same signature&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T181852Z" creationid="Alessia Mazzarini" creationdate="20181111T181852Z">
-        <seg>USigning multiple times &lt;f0&gt;with same signature&lt;/f0&gt;</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T182355Z" creationid="Alessia Mazzarini" creationdate="20181111T181852Z">
+        <seg>Firmare più volte usando &lt;f0&gt;la stessa firma&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
