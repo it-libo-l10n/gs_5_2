@@ -4768,6 +4768,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In the past, &lt;/f0&gt;LibreOffice prohibited creating multiple signatures by the same author on a document, because there was no semantic meaning of signing the same document multiple times.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T182827Z" creationid="Alessia Mazzarini" creationdate="20181111T182827Z">
+        <seg>&lt;f0&gt;Una volta &lt;/f0&gt;LibreOffice proibiva la creazione di firme multiple dello stesso autore su un documento, in quanto firmare più volte lo stesso documento non aveva nessun significato semantico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In the&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Insert reference to&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;section, &lt;/f5&gt;&lt;f6&gt;select &lt;/f6&gt;&lt;f7&gt;Reference&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;and c&lt;/f9&gt;&lt;f10&gt;lick &lt;/f10&gt;&lt;f11&gt;Insert&lt;/f11&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180910T124708Z">
