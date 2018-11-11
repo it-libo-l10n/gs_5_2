@@ -12819,6 +12819,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing the value of &lt;f0&gt;an existing&lt;/f0&gt; description invalidates the signature.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T184257Z" creationid="Alessia Mazzarini" creationdate="20181111T184257Z">
+        <seg>Cambiare il valore di una descrizione &lt;f0&gt;esistente&lt;/f0&gt; invalida la firma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 1 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085837Z">
@@ -57925,6 +57933,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060447Z">
         <seg>Se la &lt;f0&gt;Guida attiva&lt;/f0&gt; è abilitata, mantenendo il puntatore del mouse su un'icona, un comando di menu o un campo di una finestra, appare una breve descrizione della loro funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;f0&gt;you&lt;/f0&gt; click on the &lt;f1&gt;Sign Document&lt;/f1&gt; button, the dialog &lt;f2&gt;(Figure &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;306&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;)&lt;/f5&gt; for certificate selection now also asks for an optional description.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T184152Z" creationid="Alessia Mazzarini" creationdate="20181111T184152Z">
+        <seg>Quando &lt;f0&gt;fate&lt;/f0&gt; clic sul pulsante &lt;f1&gt;Firma documento&lt;/f1&gt;, la finestra di dialogo &lt;f2&gt;(Figurae &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;306&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;)&lt;/f5&gt; Seleziona certificato richiede ora una descrizione facoltativa.</seg>
       </tuv>
     </tu>
     <tu>
