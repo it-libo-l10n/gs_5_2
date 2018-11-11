@@ -54793,8 +54793,8 @@
       <tuv lang="EN">
         <seg>To sign a document digitally, you need a personal key, also known as a &lt;f0&gt;certificate&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174201Z" creationid="Alessia Mazzarini" creationdate="20181105T174201Z">
-        <seg>Per apporre una firma digitale a un documento è necessario possedere una chiave personale, anche conosciuta come certificato.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T185444Z" creationid="Alessia Mazzarini" creationdate="20181105T174201Z">
+        <seg>Per apporre una firma digitale a un documento è necessario possedere una chiave personale, anche conosciuta come &lt;f0&gt;certificato&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60971,8 +60971,8 @@
       <tuv lang="EN">
         <seg>You can get a certificate from a certification authority, which may be a private company or a governmental institution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174325Z" creationid="Alessia Mazzarini" creationdate="20181105T174325Z">
-        <seg>Potete ottenere un certificato da una autorità di certificazione, che potrebbe essere un'azienda privata o un'istituzione governativa.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T185505Z" creationid="Alessia Mazzarini" creationdate="20181105T174325Z">
+        <seg>Potete ottenere un certificato da un'autorità di certificazione, che potrebbe essere un'azienda privata o un'istituzione governativa.</seg>
       </tuv>
     </tu>
     <tu>
