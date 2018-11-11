@@ -36833,6 +36833,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f1&gt;General&lt;/f1&gt; tab, uncheck &lt;f2&gt;Apply user data&lt;/f2&gt; and then click the &lt;f3&gt;Reset Properties&lt;/f3&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T184844Z" creationid="Alessia Mazzarini" creationdate="20181111T184844Z">
+        <seg>Sulla scheda &lt;f1&gt;Generale&lt;/f1&gt;, deselezionate &lt;f2&gt;Usa i dati utente&lt;/f2&gt; e poi fate clic sul pulsante &lt;f3&gt;Azzera le proprietà&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f1&gt;Name&lt;/f1&gt; dialog (Figure &lt;t2&gt;355&lt;/t2&gt;), type the new toolbar’s name and choose from the &lt;f3&gt;Save In&lt;/f3&gt; drop-down list where to save this changed menu: for the application (for example, Writer) or for a selected document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T142132Z">
@@ -51731,6 +51739,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This removes any names in the created and modified fields, deletes the modification and printing dates, and resets the editing time to zero, the creation date to the current date and time, and the version number to 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T184908Z" creationid="Alessia Mazzarini" creationdate="20181111T184908Z">
+        <seg>In tal modo verrà rimosso qualsiasi nome presente in comandi di campo creati o modificati, verranno eliminate le date di modifica e stampa, il tempo di modifica verrà azzerato, la data di creazione verrà impostata alla data e ora corrente, e il numero di versione verrà riportato a 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This repetitive process can be greatly simplified by the use of styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111522Z">
@@ -54305,8 +54321,8 @@
       <tuv lang="EN">
         <seg>To remove version information, either go to &lt;f0&gt;File &gt; Versions&lt;/f0&gt;, select the versions from the list and click &lt;f1&gt;Delete;&lt;/f1&gt; or use &lt;f2&gt;File &gt; Save As&lt;/f2&gt; and save the file with a different name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181007T004846Z" creationid="luke" creationdate="20181007T004846Z">
-        <seg>To remove version information, either go to &lt;f0&gt;File &gt; Versions&lt;/f0&gt;, select the versions from the list and click &lt;f1&gt;Delete;&lt;/f1&gt; or use &lt;f2&gt;File &gt; Save As&lt;/f2&gt; and save the file with a different name.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T185202Z" creationid="luke" creationdate="20181007T004846Z">
+        <seg>Per eliminare le informazioni di versione, potete (a) andare su &lt;f0&gt;File &gt; Versioni&lt;/f0&gt;, selezionare le versioni dall'elenco e fare clic su &lt;f1&gt;Elimina;&lt;/f1&gt; oppure b) usare &lt;f2&gt;File &gt; Salva con nome&lt;/f2&gt; e salvare il file con un nome differente.</seg>
       </tuv>
     </tu>
     <tu>
