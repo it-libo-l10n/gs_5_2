@@ -10403,24 +10403,24 @@
       <tuv lang="EN">
         <seg>An icon of a yellow caution triangle &lt;f0&gt;by itself&lt;/f0&gt; (&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;) indicates an invalid digital signature.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T184926Z" creationid="Alessia Mazzarini" creationdate="20181105T184926Z">
-        <seg>Il triangolo giallo di attenzione &lt;f0&gt;da solo&lt;/f0&gt; (&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;) indica una firma digitale non valida.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T182120Z" creationid="Alessia Mazzarini" creationdate="20181105T184926Z">
+        <seg>Un'icona con un triangolo di attenzione giallo &lt;f0&gt;da solo&lt;/f0&gt; (&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;) indica una firma digitale non valida.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>An icon with a red seal (&lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;) indicates that the document was signed and the certificate was validated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T181040Z" creationid="Alessia Mazzarini" creationdate="20181105T180353Z">
-        <seg>Il simbolo di un sigillo rosso (&lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;) indica che il documento è stato firmato e il certificato validato.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T181925Z" creationid="Alessia Mazzarini" creationdate="20181105T180353Z">
+        <seg>Un'icona con un sigillo rosso (&lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;) indica che il documento è stato firmato e il certificato convalidato.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>An icon with a yellow caution triangle overlaying the red seal (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;) indicates that the document is signed but that the certificate could not be validated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T184933Z" creationid="Alessia Mazzarini" creationdate="20181105T184838Z">
-        <seg>Un triangolo giallo di attenzione sopra il sigillo rosso (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;) indica che il documento è firmato ma il certificato non è stato validato.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T182047Z" creationid="Alessia Mazzarini" creationdate="20181105T184838Z">
+        <seg>Un'icona con un triangolo di attenzione giallo sopra un sigillo rosso (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;) indica che il documento è firmato ma il certificato non è stato convalidato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43933,6 +43933,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095430Z">
         <seg>Proprietà della barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Signing multiple times &lt;f0&gt;with same signature&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T181852Z" creationid="Alessia Mazzarini" creationdate="20181111T181852Z">
+        <seg>USigning multiple times &lt;f0&gt;with same signature&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
