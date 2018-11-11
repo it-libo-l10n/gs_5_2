@@ -58403,8 +58403,8 @@
       <tuv lang="EN">
         <seg>When someone later opens the document on any computer with a recent version of LibreOffice, the program will compute the checksum again and compare it with the stored checksum.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174515Z" creationid="Alessia Mazzarini" creationdate="20181105T174515Z">
-        <seg>Quando qualcuno, successivamente, aprirà il documento su qualsiasi computer che possiede una versione recente di LibreOffice, il programma ricalcolerà di nuovo la somma di controllo, comparandola poi con quella salvata in precedenza.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T185818Z" creationid="Alessia Mazzarini" creationdate="20181105T174515Z">
+        <seg>Quando qualcuno aprirà successivamente il documento su qualsiasi computer con una versione recente di LibreOffice, il programma calcolerà di nuovo la somma di controllo e ne confronterà il risultato con il valore salvato nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58643,8 +58643,8 @@
       <tuv lang="EN">
         <seg>When you apply &lt;i0/&gt;a digital signature to a document, a kind of checksum is computed from the document’s content plus your personal key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174438Z" creationid="Alessia Mazzarini" creationdate="20181105T174438Z">
-        <seg>Quando applicate una &lt;i0/&gt;firma digitale a un documento, viene calcolata una specie di somma di controllo dal contenuto del documento e dalla vostra chiave personale.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T185625Z" creationid="Alessia Mazzarini" creationdate="20181105T174438Z">
+        <seg>Quando apponete una &lt;i0/&gt;firma digitale a un documento, viene calcolata una specie di somma di controllo (checksum), utilizzando il contenuto del documento e la vostra chiave personale.</seg>
       </tuv>
     </tu>
     <tu>
