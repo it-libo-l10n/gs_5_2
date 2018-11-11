@@ -21928,6 +21928,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;305&lt;/seq0&gt;: Signatures of the document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T183550Z" creationid="Alessia Mazzarini" creationdate="20181111T183550Z">
+        <seg>Figura &lt;seq0&gt;305&lt;/seq0&gt;: Firme del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Showing or hiding text, object, and table boundaries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100633Z">
@@ -57917,6 +57925,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060447Z">
         <seg>Se la &lt;f0&gt;Guida attiva&lt;/f0&gt; è abilitata, mantenendo il puntatore del mouse su un'icona, un comando di menu o un campo di una finestra, appare una breve descrizione della loro funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;f0&gt;you&lt;/f0&gt; select &lt;f1&gt;File &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Digital Signatures&lt;/f4&gt;, the dialog (Figure &lt;t5&gt;305&lt;/t5&gt;) lists existing signatures together with their description (if they have any):</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T183532Z" creationid="Alessia Mazzarini" creationdate="20181111T183532Z">
+        <seg>Quando &lt;f0&gt;selezionate&lt;/f0&gt; &lt;f1&gt;File &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Firme digitali&lt;/f4&gt;, la finestra di dialogo (Figura &lt;t5&gt;305&lt;/t5&gt;) elenca le firme disponibili assieme a una descrizione (se presente):</seg>
       </tuv>
     </tu>
     <tu>
