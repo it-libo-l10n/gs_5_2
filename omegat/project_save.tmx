@@ -34841,6 +34841,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More than one signature can be added to a document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T180451Z" creationid="Alessia Mazzarini" creationdate="20181111T180451Z">
+        <seg>A un documento si può aggiungere più di una firma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most CSV files come from databases tables, queries, or reports, where further calculations and charting are required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T213829Z">
