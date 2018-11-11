@@ -21946,8 +21946,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;306&lt;/seq0&gt;: Signatures &lt;f1&gt;can now &lt;/f1&gt;have a description</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T184349Z" creationid="Alessia Mazzarini" creationdate="20181111T184349Z">
-        <seg>Figura &lt;seq0&gt;306&lt;/seq0&gt;: è ora possibile aggiungere &lt;f1&gt;una descrizione&lt;/f1&gt; alla firma</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T190840Z" creationid="Alessia Mazzarini" creationdate="20181111T184349Z">
+        <seg>Figura &lt;seq0&gt;306&lt;/seq0&gt;: è ora possibile aggiungere &lt;f1&gt;una descrizione&lt;/f1&gt; alle firme</seg>
       </tuv>
     </tu>
     <tu>
@@ -57979,8 +57979,8 @@
       <tuv lang="EN">
         <seg>When &lt;f0&gt;you&lt;/f0&gt; click on the &lt;f1&gt;Sign Document&lt;/f1&gt; button, the dialog &lt;f2&gt;(Figure &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;306&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;)&lt;/f5&gt; for certificate selection now also asks for an optional description.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T184152Z" creationid="Alessia Mazzarini" creationdate="20181111T184152Z">
-        <seg>Quando &lt;f0&gt;fate&lt;/f0&gt; clic sul pulsante &lt;f1&gt;Firma documento&lt;/f1&gt;, la finestra di dialogo &lt;f2&gt;(Figurae &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;306&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;)&lt;/f5&gt; Seleziona certificato richiede ora una descrizione facoltativa.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T190744Z" creationid="Alessia Mazzarini" creationdate="20181111T184152Z">
+        <seg>Quando &lt;f0&gt;fate&lt;/f0&gt; clic sul pulsante &lt;f1&gt;Firma documento&lt;/f1&gt;, la finestra di dialogo &lt;f2&gt;(Figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;306&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;)&lt;/f5&gt; per la selezione del certificato richiede ora una descrizione facoltativa.</seg>
       </tuv>
     </tu>
     <tu>
