@@ -28882,8 +28882,8 @@
       <tuv lang="EN">
         <seg>If you have Complex Text Layout enabled (in &lt;f0&gt;Tools &gt; Options &gt; Language settings &gt; Languages&lt;/f0&gt;), an additional selection is available under &lt;f1&gt;Continuous facing&lt;/f1&gt;: &lt;f2&gt;First page is left&lt;/f2&gt; (normally, the first page is on the right when using the &lt;f3&gt;Continuous facing&lt;/f3&gt; option).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221515Z" creationid="Alessia Mazzarini" creationdate="20181104T221515Z">
-        <seg>Se avete abilitato la Disposizione di testo complesso (Complex Text Layout) (in &lt;f0&gt;Strumenti &gt; Opzioni &gt; Impostazioni della lingua &gt; Lingue&lt;/f0&gt;), sarà disponibile un'ulteriore opzione sotto &lt;f1&gt;Continuo - pagine affiancate&lt;/f1&gt;: &lt;f2&gt;Prima pagina a sinistra&lt;/f2&gt; (normalmente, la prima pagina è sulla destra utilizzando l'opzione &lt;f3&gt;Continuo - pagine affiancate/f3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181112T164110Z" creationid="Alessia Mazzarini" creationdate="20181104T221515Z">
+        <seg>Se avete abilitato la Disposizione di testo complesso (Complex Text Layout) (in &lt;f0&gt;Strumenti &gt; Opzioni &gt; Impostazioni della lingua &gt; Lingue&lt;/f0&gt;), sarà disponibile un'ulteriore opzione sotto &lt;f1&gt;Continuo - pagine affiancate&lt;/f1&gt;: &lt;f2&gt;Prima pagina a sinistra&lt;/f2&gt; (normalmente, la prima pagina è sulla destra utilizzando l'opzione &lt;f3&gt;Continuo - pagine affiancate&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30810,8 +30810,8 @@
       <tuv lang="EN">
         <seg>In the &lt;f0&gt;Page sides&lt;/f0&gt; section, select the &lt;f1&gt;Back sides / left pages&lt;/f1&gt; option from the &lt;f2&gt;Include&lt;/f2&gt; drop-down list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205959Z" creationid="Alessia Mazzarini" creationdate="20181007T205959Z">
-        <seg>Nella sezione &lt;f0&gt;Lati della pagina&lt;/f0&gt;, selezionate l'opzione &lt;f1&gt;Retro/pagine sinistre&lt;/f1&gt; dall'elenco a discesa Includi.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181112T164025Z" creationid="Alessia Mazzarini" creationdate="20181007T205959Z">
+        <seg>Nella sezione &lt;f0&gt;Lati della pagina&lt;/f0&gt;, selezionate l'opzione &lt;f1&gt;Retro/pagine sinistre&lt;/f1&gt; dall'elenco a discesa &lt;f2&gt;Includi&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
