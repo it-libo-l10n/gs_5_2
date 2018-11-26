@@ -38073,6 +38073,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, the main Impress window is displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T182341Z" creationid="Elisabetta Manuele" creationdate="20181126T182341Z">
+        <seg>In caso contrario viene visualizzata la finestra principale Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Our two tables are listed in the &lt;f3&gt;Tables involved&lt;/f3&gt; section.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070358Z">
@@ -41589,6 +41597,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T163412Z">
         <seg>Si veda “&lt;bf0&gt;Copia di stili da un modello o documento&lt;/bf0&gt;” a pagina &lt;bf1&gt;70&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See “&lt;bf0&gt;Creating a new presentation using the Presentation Wizard&lt;/bf0&gt;” on page &lt;bf1&gt;162&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T182318Z" creationid="Elisabetta Manuele" creationdate="20181126T182318Z">
+        <seg>Vd.: “&lt;bf0&gt;Creare una nuova presentazione tramite la Presentazione guidata&lt;/bf0&gt;” a pag. &lt;bf1&gt;162&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59081,6 +59097,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you start Impress for the first time, the Presentation Wizard may be shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T182210Z" creationid="Elisabetta Manuele" creationdate="20181126T182210Z">
+        <seg>Al primo avvio di Impress solitamente compare la Presentazione guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you type text (such as a website addresses or URL) that can be used as a hyperlink, and then press the spacebar or the &lt;f0&gt;Enter&lt;/f0&gt; key, LibreOffice automatically creates the hyperlink and applies formatting to the text (usually a color and underlining).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T210302Z">
@@ -61585,6 +61609,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can start Impress in several ways, as described in &lt;f0&gt;Chapter 1 Introducing LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T182138Z" creationid="Elisabetta Manuele" creationdate="20181126T182138Z">
+        <seg>Esistono diversi metodi per avviare Impress, come descritto nel &lt;f0&gt;Capitolo 1 (Introduzione a LibreOffice)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can start LibreOffice by double-clicking the filename of an ODF document on the desktop, or in a file manager such as Windows Explorer or the Mac’s Finder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T202031Z">
@@ -61989,6 +62021,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143126Z">
         <seg>Potreste anche scegliere di cambiare il nome del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may also wish to consult the &lt;f2&gt;Draw Guide&lt;/f2&gt; for more details on how to use the drawing tools.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T182055Z" creationid="Elisabetta Manuele" creationdate="20181126T182055Z">
+        <seg>Per ulteriori dettagli sull'uso degli strumenti di disegno, consultate la &lt;f2&gt;Guida a Draw&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
