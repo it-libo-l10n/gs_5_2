@@ -25546,8 +25546,8 @@
       <tuv lang="EN">
         <seg>Getting Started with Impress</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T083204Z">
-        <seg>Getting Started with Impress</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T180801Z">
+        <seg>Guida introduttiva a Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -29696,6 +29696,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Impress</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T180927Z" creationid="Elisabetta Manuele" creationdate="20181126T180927Z">
+        <seg>Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Impress (presentations)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T201041Z">
@@ -29772,6 +29780,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090034Z">
         <seg>Impress will memorize the timings for each slide and will advance to the next slide automatically using these timings when you run the slide show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress&lt;ie0/&gt; is the presentation (slide show) program included in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T180956Z" creationid="Elisabetta Manuele" creationdate="20181126T180956Z">
+        <seg>Impress&lt;ie0/&gt; è il programma di presentazioni (presentazioni di diapositive) incluso in LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -38601,6 +38617,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Powerpoint</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T180856Z" creationid="Elisabetta Manuele" creationdate="20181126T180856Z">
+        <seg>Powerpoint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preface</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173338Z">
@@ -38613,6 +38637,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145754Z">
         <seg>Presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Presentations in LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T180817Z" creationid="Elisabetta Manuele" creationdate="20181126T180817Z">
+        <seg>Presentazioni con LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -57883,8 +57915,8 @@
       <tuv lang="EN">
         <seg>What is Impress?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181927Z">
-        <seg>Introduzione a Impress</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T180924Z">
+        <seg>Che cos'è Impress?</seg>
       </tuv>
     </tu>
     <tu>
@@ -60725,6 +60757,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T163748Z">
         <seg>Potete creare nuove &lt;f1&gt;categorie&lt;/f1&gt; di modelli e usarle per organizzare i vostri modelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create slides that contain many different elements, including text, bulleted and numbered lists, tables, charts, and a wide range of graphic objects such as clipart, drawings, and photographs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T181042Z" creationid="Elisabetta Manuele" creationdate="20181126T181042Z">
+        <seg>con il quale potete creare diapositive contenenti numerosi elementi diversi, tra cui testo, elenchi puntati e numerati, tabelle, grafici e un'ampia gamma di oggetti grafici come clip art, disegni e fotografie.</seg>
       </tuv>
     </tu>
     <tu>
