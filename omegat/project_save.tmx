@@ -61657,6 +61657,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can turn the Presentation Wizard on and off in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General &gt; New document&lt;/f0&gt; by selecting or deselecting the &lt;f1&gt;Start with wizard&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T182536Z" creationid="Elisabetta Manuele" creationdate="20181126T182536Z">
+        <seg>Potete attivare o disattivare la Presentazione guidata selezionando o deselezionando l'opzione &lt;f0&gt;Inizia con la procedura guidata&lt;/f0&gt;, all'interno del menu &lt;f1&gt;Strumenti &gt; Opzioni &gt; LibreOffice Impress &gt; Generale &gt; Nuovo documento&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can update styles by copying (loading) them from a template or another document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T163317Z">
