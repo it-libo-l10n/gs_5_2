@@ -54535,6 +54535,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To restore a pane, click again on its Hide/Show marker.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T183759Z" creationid="Elisabetta Manuele" creationdate="20181126T183759Z">
+        <seg>Per ripristinare i pannelli, fate nuovamente clic sui contrassegni Nascondi/Mostra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To restrict who can edit the document, click &lt;f0&gt;Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T195920Z">
@@ -57268,6 +57276,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101242Z">
         <seg>Uso della barra degli strumenti di Trova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Hide/Show marker hides, but does not close, the Slide pane or Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T183718Z" creationid="Elisabetta Manuele" creationdate="20181126T183718Z">
+        <seg>Selezionando i contrassegni Nascondi/Mostra, il pannello Diapositive e la Barra laterale vengono nascosti senza essere chiusi.</seg>
       </tuv>
     </tu>
     <tu>
