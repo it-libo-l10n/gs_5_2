@@ -54447,6 +54447,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To reopen a pane, go to &lt;f5&gt;View&lt;/f5&gt; on the Menu bar and select &lt;f6&gt;Slide Pane&lt;/f6&gt; or &lt;f7&gt;Sidebar&lt;/f7&gt; again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T183543Z" creationid="Elisabetta Manuele" creationdate="20181126T183543Z">
+        <seg>Per riaprire un pannello, accedete alla voce &lt;f5&gt;Visualizza&lt;/f5&gt; nella barra dei menu, quindi scegliete &lt;f6&gt;Riquadro diapositiva&lt;/f6&gt; e &lt;f7&gt;Barra laterale&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To repeat the last command applied to your document, use the shortcut &lt;f0&gt;Ctrl+Shift+Y&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131016Z">
