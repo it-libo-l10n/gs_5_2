@@ -44337,6 +44337,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slides that contain text use styles to determine the appearance of that text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T184310Z" creationid="Elisabetta Manuele" creationdate="20181126T184310Z">
+        <seg>Le diapositive contenenti testo si avvalgono degli stili che ne determinano l'aspetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Slideshows can be further enhanced using Fontwork special effects text, as well as sound and video clips.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T202338Z">
