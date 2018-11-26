@@ -16887,6 +16887,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating drawings in Impress is similar to the Draw program included in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T181828Z" creationid="Elisabetta Manuele" creationdate="20181126T181828Z">
+        <seg>La creazione di disegni in Impress è analoga a quella del programma Draw, incluso in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating fill-in forms</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181305Z">
@@ -24916,6 +24924,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T214705Z">
         <seg>Di conseguenza è preferibile usare altri formati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this reason, we recommend that you also see &lt;f0&gt;Chapter 3 Using Styles and Templates&lt;/f0&gt; and &lt;f1&gt;Chapter 7 Getting Started with Draw&lt;/f1&gt; in this guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T182016Z" creationid="Elisabetta Manuele" creationdate="20181126T182016Z">
+        <seg>Per questa ragione è consigliabile consultare anche il &lt;f0&gt;Capitolo 3 (Uso di stili e modelli)&lt;/f0&gt; e il &lt;f1&gt;Capitolo 7 (Guida introduttiva a Draw)&lt;/f1&gt;, della presente guida.</seg>
       </tuv>
     </tu>
     <tu>
