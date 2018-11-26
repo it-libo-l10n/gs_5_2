@@ -10217,6 +10217,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although more difficult designs are mentioned in this chapter, explanations for creating them are in the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T181459Z" creationid="Elisabetta Manuele" creationdate="20181126T181459Z">
+        <seg>Sebbene in questo capitolo si faccia riferimento a soluzioni più complesse, le spiegazioni utili alla loro creazione sono contenute nella &lt;f0&gt;Guida a Impress&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although tables of contents can be customized extensively in Writer, often the default settings are all you need.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T084127Z">
@@ -28900,6 +28908,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091354Z">
         <seg>Se disponete di una vasta collezione di musica, potreste voler creare una tabella per ogni tipo di musica che avete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have a working knowledge of how to create slide shows, we recommend you use the &lt;f1&gt;Impress Guide&lt;/f1&gt; for your source of information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T181549Z" creationid="Elisabetta Manuele" creationdate="20181126T181549Z">
+        <seg>Se disponete di una conoscenza pratica sulla creazione di presentazioni, è consigliabile fare riferimento alla &lt;f1&gt;Guida a Impress&lt;/f1&gt; come fonte di informazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55083,6 +55099,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153146Z">
         <seg>Per usare Base, avete bisogno di usare un Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use Impress for more than very simple slide shows requires some knowledge of the elements which the slides contain.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T181648Z" creationid="Elisabetta Manuele" creationdate="20181126T181648Z">
+        <seg>Un uso di Impress più avanzato rispetto alla realizzazione di una semplice presentazione presuppone la conoscenza degli elementi contenuti all'interno della diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
