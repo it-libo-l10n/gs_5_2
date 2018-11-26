@@ -46161,6 +46161,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Workspace&lt;/f0&gt; (normally in the center of the main window) opens in the &lt;f1&gt;Normal&lt;/f1&gt; view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T184647Z" creationid="Elisabetta Manuele" creationdate="20181126T184647Z">
+        <seg>L'&lt;f0&gt;Area di lavoro&lt;/f0&gt;, che normalmente si trova al centro della finestra principale, si apre nella visualizzazione &lt;f1&gt;Normale&lt;/f1&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Writer S&lt;/f0&gt;idebar con&lt;f1&gt;tains&lt;/f1&gt; four decks &lt;f2&gt;by default&lt;/f2&gt;: &lt;f3&gt;Properties&lt;/f3&gt;, &lt;f4&gt;Styles and Formatting&lt;/f4&gt;, &lt;f5&gt;Gallery&lt;/f5&gt;, and &lt;f6&gt;Navigator&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T140952Z">
@@ -60349,6 +60357,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181018T083025Z" creationid="manuel" creationdate="20181018T083025Z">
         <seg>Potete anche usare solo i campi che vi occorrono e non necessariamente tutti quelli disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also maximize the &lt;f0&gt;Workspace&lt;/f0&gt; area by clicking on the Hide/Show marker in the middle of the vertical separator line (highlighted in Figure &lt;t1&gt;125&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T184524Z" creationid="Elisabetta Manuele" creationdate="20181126T184446Z">
+        <seg>Potete anche espandere l'&lt;f0&gt;Area di lavoro&lt;/f0&gt; facendo clic sui contrassegni Nascondi/Mostra al centro delle linee di separazione verticali (evidenziati nella figura &lt;t1&gt;125&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
