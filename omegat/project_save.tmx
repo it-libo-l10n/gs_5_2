@@ -3472,6 +3472,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Cursor position&lt;/f0&gt; – the position of the cursor or of the top left corner of the selection measured from the top left corner of the slide, followed by the width and height of the selection or text box where the cursor is located.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183556Z" creationid="Elisabetta Manuele" creationdate="20181127T183556Z">
+        <seg>&lt;f0&gt;Posizione del puntatore&lt;/f0&gt;: la posizione del puntatore o dell'angolo superiore sinistro della selezione misurata dall'angolo superiore sinistro della diapositiva, seguita dalla larghezza e dall'altezza della selezione o della casella di testo in cui si trova il cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data&lt;/f0&gt; – contains commands for manipulating data in the spreadsheet; for example, &lt;f1&gt;Define Database Range&lt;/f1&gt;, &lt;f2&gt;Sort&lt;/f2&gt;, &lt;f3&gt;Statistics, Pivot Tables, Consolidate&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T143430Z">
@@ -6540,6 +6548,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180807T110447Z">
         <seg>&lt;f0&gt;A meno che non ne siate certi, non cancellate mai una tabella&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Unsaved changes&lt;/f0&gt; – a flag indicating that the file needs saving.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183631Z" creationid="Elisabetta Manuele" creationdate="20181127T183631Z">
+        <seg>&lt;f0&gt;Modifiche non salvate&lt;/f0&gt;: un contrassegno che indica la necessità di salvare il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11762,6 +11778,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bitmap with transparency selected</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183441Z" creationid="Elisabetta Manuele" creationdate="20181127T183441Z">
+        <seg>Bitmap con trasparenza selezionata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Block arrows</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T104258Z">
@@ -13215,6 +13239,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144333Z">
         <seg>Grafici creati utilizzando l'apposito componente Chart di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Charts, spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183355Z" creationid="Elisabetta Manuele" creationdate="20181127T183355Z">
+        <seg>Grafici, fogli elettronici</seg>
       </tuv>
     </tu>
     <tu>
@@ -19716,6 +19748,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T110025Z">
         <seg>Trattino lungo (lineetta emme); trattino corto (lineetta enne)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Embedded object (OLE) “ObjectName” selected</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183414Z" creationid="Elisabetta Manuele" creationdate="20181127T183414Z">
+        <seg>Oggetto incorporato (OLE) “NomeOggetto” selezionato</seg>
       </tuv>
     </tu>
     <tu>
@@ -26418,8 +26458,8 @@
       <tuv lang="EN">
         <seg>Graphics</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145810Z">
-        <seg>Grafico</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183434Z">
+        <seg>Immagini</seg>
       </tuv>
     </tu>
     <tu>
@@ -46237,6 +46277,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T211104Z">
         <seg>Text CSV (.csv e .txt)&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Edit: Paragraph x, Row y, Column z</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183348Z" creationid="Elisabetta Manuele" creationdate="20181127T183348Z">
+        <seg>Modifica testo: Paragrafo x, Riga y, Colonna z</seg>
       </tuv>
     </tu>
     <tu>
