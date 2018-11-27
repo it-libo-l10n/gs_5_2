@@ -20920,6 +20920,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;127&lt;/seq0&gt;: Outline view</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T192224Z" creationid="Elisabetta Manuele" creationdate="20181127T192224Z">
+        <seg>Figura &lt;seq0&gt;127&lt;/seq0&gt;: vista Struttura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Remote server configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125254Z">
@@ -32856,6 +32864,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It shows topic titles, bulleted lists, and numbered lists for each slide in outline format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T192007Z" creationid="Elisabetta Manuele" creationdate="20181127T192007Z">
+        <seg>Per ogni diapositiva vengono visualizzati titoli, elenchi puntati e numerati nel formato struttura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It specifies text that will be added as a &lt;f1&gt;NAME&lt;/f1&gt; attribute in the HTML code behind the hyperlink.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T220954Z">
@@ -37845,6 +37861,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T185606Z">
         <seg>Con l'eccezione che il pulsante &lt;f4&gt;Contenuti&lt;/f4&gt; è assente nel pannello del Navigatore nella barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the text contained in the default text boxes in each slide is shown, so if your slide includes other text boxes or drawing objects, the text in these objects is not displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T192152Z" creationid="Elisabetta Manuele" creationdate="20181127T192152Z">
+        <seg>Compare solo il testo contenuto nelle caselle di testo predefinite di ogni diapositiva, quindi quello incluso in altre caselle o in oggetti di disegno non verrà visualizzato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44829,6 +44853,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z">
         <seg>Slide advance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide names are not included either.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T192206Z" creationid="Elisabetta Manuele" creationdate="20181127T192206Z">
+        <seg>Non compaiono neppure i nomi delle diapositive.</seg>
       </tuv>
     </tu>
     <tu>
