@@ -20664,6 +20664,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;125&lt;/seq0&gt;: Main window of Impress; ovals indicate the Hide/Show markers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T174459Z" creationid="Elisabetta Manuele" creationdate="20181127T174459Z">
+        <seg>Figura &lt;seq0&gt;125&lt;/seq0&gt;: finestra principale di Impress; gli ovali indicano i contrassegni Mostra/Nascondi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Remote server configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125254Z">
@@ -44353,6 +44361,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slides pane</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T174556Z" creationid="Elisabetta Manuele" creationdate="20181127T174556Z">
+        <seg>Riquadro diapositive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Slides that contain text use styles to determine the appearance of that text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T184310Z" creationid="Elisabetta Manuele" creationdate="20181126T184310Z">
@@ -47047,6 +47063,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T154411Z">
         <seg>Si apre la finestra di dialogo &lt;f4&gt;Modelli&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The View Tab Bar is visible in this image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T174553Z" creationid="Elisabetta Manuele" creationdate="20181127T174553Z">
+        <seg>In questa immagine è visibile la Barra a schede dei modi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50263,6 +50287,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T055643Z">
         <seg>Il conteggio delle parole e dei caratteri viene mostrato nella barra di stato, e viene aggiornato durante la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The workspace views are described in “&lt;bf0&gt;Workspace views&lt;/bf0&gt;” on page &lt;bf1&gt;158&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T174419Z" creationid="Elisabetta Manuele" creationdate="20181127T174419Z">
+        <seg>Le visualizzazioni dell'Area di lavoro sono descritte in “&lt;bf0&gt;Viste dell'area di lavoro&lt;/bf0&gt;” a pagina &lt;bf1&gt;158&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
