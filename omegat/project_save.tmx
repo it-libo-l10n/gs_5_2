@@ -44145,6 +44145,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shows the layouts included within Impress.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T175837Z" creationid="Elisabetta Manuele" creationdate="20181127T175837Z">
+        <seg>Riporta i layout inclusi in Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shows the style of the current page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060246Z">
