@@ -46257,6 +46257,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Sidebar&lt;/f0&gt; has seven sections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T175507Z" creationid="Elisabetta Manuele" creationdate="20181127T175507Z">
+        <seg>La &lt;f0&gt;Barra laterale&lt;/f0&gt; è composta da sette sezioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Slides pane&lt;/f0&gt; contains thumbnail pictures of the slides in your presentation in the order in which they will be shown, unless you change the slide show order.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T174713Z" creationid="Elisabetta Manuele" creationdate="20181127T174713Z">
@@ -53706,6 +53714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090039Z">
         <seg>To exit the slide show at any time including when the slide show has ended, press the &lt;f0&gt;Esc&lt;/f0&gt; key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To expand a section you want to use, click on its icon or click on the small triangle at the top of the icons and select a section from the drop down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T175715Z" creationid="Elisabetta Manuele" creationdate="20181127T175715Z">
+        <seg>Per espandere una sezione, fate clic sulla relativa icona o sul piccolo triangolo situato nella parte superiore delle icone, quindi selezionate una sezione dall'elenco a discesa.</seg>
       </tuv>
     </tu>
     <tu>
