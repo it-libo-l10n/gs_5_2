@@ -9113,6 +9113,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A variety of animations can be used to emphasize or enhance different elements of each slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T181114Z" creationid="Elisabetta Manuele" creationdate="20181127T181114Z">
+        <seg>È disponibile una serie di animazioni in grado di enfatizzare o valorizzare i diversi elementi di ogni diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ability to open, edit, and save Microsoft Excel spreadsheets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131832Z">
@@ -27248,6 +27256,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, many additional transitions are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T181312Z" creationid="Elisabetta Manuele" creationdate="20181127T181312Z">
+        <seg>Sono comunque disponibili diverse altre transizioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, mirroring an object can be emulated by using the &lt;f0&gt;Flip&lt;/f0&gt; tool, as described &lt;f1&gt;in&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Chapter 4, Changing Object Attributes, in the &lt;f3&gt;Draw Guide.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150619Z">
@@ -39449,6 +39465,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Provides a number of slide transition options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T181208Z" creationid="Elisabetta Manuele" creationdate="20181127T181208Z">
+        <seg>Fornisce una serie di opzioni per la transizione delle diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Publication date and software version</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T072758Z">
@@ -44497,6 +44521,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slide Transition</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T181153Z" creationid="Elisabetta Manuele" creationdate="20181127T181153Z">
+        <seg>Cambio diapositiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Slide advance</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z">
@@ -46658,6 +46690,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Custom Animation section provides an easy way to add, change, or remove animations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T181150Z" creationid="Elisabetta Manuele" creationdate="20181127T181150Z">
+        <seg>La sezione Animazione personalizzata fornisce un metodo semplice per aggiungere, modificare o rimuovere le animazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Customize dialog &lt;f1&gt;(Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;359&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;) &lt;/f4&gt;opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T102130Z">
@@ -47823,6 +47863,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T122813Z">
         <seg>L'icona predefinita del modo trascinamento è quella del collegamento ipertestuale &lt;f5&gt;&lt;df6&gt;&lt;di7/&gt;&lt;/df6&gt;&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default is set to &lt;f0&gt;No Transition&lt;/f0&gt;, in which the following slide simply replaces the existing one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T181235Z" creationid="Elisabetta Manuele" creationdate="20181127T181235Z">
+        <seg>L'impostazione predefinita è &lt;f0&gt;Nessuna transizione&lt;/f0&gt;, con la quale la diapositiva successiva semplicemente sostituisce quella esistente.</seg>
       </tuv>
     </tu>
     <tu>
