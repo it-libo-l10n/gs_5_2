@@ -17391,6 +17391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Animation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T180919Z" creationid="Elisabetta Manuele" creationdate="20181127T180919Z">
+        <seg>Animazione personalizzata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom icons should be 16 x 16 pixels in size to achieve the best quality and should not contain more than 256 colors.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T094049Z">
@@ -25924,6 +25932,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203711Z">
         <seg>Nella barra del menu andate in &lt;f0&gt;Formato &gt; Area di stampa &gt; Modifica&lt;/f0&gt; in modo da aprire la finestra di dialogo &lt;f1&gt;Modifica area di stampa&lt;/f1&gt;, nella quale potete definire l'area di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format &gt; Styles &gt; Styles and Formatting&lt;/f0&gt; on the Menu bar or press the &lt;f1&gt;F11&lt;/f1&gt; key to open the Styles and Formatting dialog, where you can modify the styles used in any master page to suit your purpose.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T180848Z" creationid="Elisabetta Manuele" creationdate="20181127T180848Z">
+        <seg>Accedete al menu &lt;f0&gt;Formato &gt; Stili e formattazione&lt;/f0&gt; nella Barra dei menu o premete il tasto &lt;f1&gt;F11&lt;/f1&gt; per aprire la finestra di dialogo Stili e formattazione, in cui è possibile modificare gli stili utilizzati in ogni pagina master in base alle vostre esigenze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51271,6 +51287,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162805Z" creationid="manuel" creationdate="20181015T162805Z">
         <seg>In questo modo viene mostrato un elenco dei database registrati, incluso Bibliography e qualsiasi altro database registrato, come il database Automobile creato precedentemente in questo capitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be done at any time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T180903Z" creationid="Elisabetta Manuele" creationdate="20181127T180903Z">
+        <seg>Si può effettuare tale operazione in qualsiasi momento.</seg>
       </tuv>
     </tu>
     <tu>
