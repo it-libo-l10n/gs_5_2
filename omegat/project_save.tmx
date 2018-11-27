@@ -29592,6 +29592,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you notice from your outline that another slide is needed, you can create it directly in the Outline view or you can return to the Normal view to create it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T193619Z" creationid="Elisabetta Manuele" creationdate="20181127T193619Z">
+        <seg>Se dalla struttura risulta necessaria un'ulteriore diapositiva, è possibile crearla direttamente nella vista Struttura oppure realizzarla ripristinando la vista Normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you notice unexpected formatting changes occurring in your document, this is the first place to look for the cause.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T160530Z">
@@ -36845,6 +36853,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180927T145011Z">
         <seg>Campo NoteVarie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notes view</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T193623Z" creationid="Elisabetta Manuele" creationdate="20181127T193623Z">
+        <seg>Vista Note</seg>
       </tuv>
     </tu>
     <tu>
@@ -57204,6 +57220,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T162428Z">
         <seg>Quando spostate o copiate un foglio, usate la finestra di dialogo &lt;f0&gt;Sposta/Copia foglio&lt;/f0&gt; (Figura &lt;t1&gt;100&lt;/t1&gt;) per specificare esattamente se volete un foglio nello stesso foglio elettronico o in un altro, la sua posizione all'interno di questo ed il suo nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Notes view&lt;/f0&gt; (Figure &lt;t1&gt;129&lt;/t1&gt;) to add notes to a slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T193629Z" creationid="Elisabetta Manuele" creationdate="20181127T193629Z">
+        <seg>Utilizzate la &lt;f0&gt;Vista note&lt;/f0&gt; (&lt;t1&gt;Figura 143&lt;/t1&gt;) per aggiungere note a una diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
