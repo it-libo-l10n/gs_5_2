@@ -4816,6 +4816,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Information area&lt;/f0&gt; – changes depending on the selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183235Z" creationid="Elisabetta Manuele" creationdate="20181127T183235Z">
+        <seg>&lt;f0&gt;Area informazioni&lt;/f0&gt;, che cambia in base alla selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Input line&lt;/f0&gt; – displays the contents of the selected cell (data, formula, or function) and allows you to edit the cell contents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T221730Z">
@@ -20144,6 +20152,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183252Z" creationid="Elisabetta Manuele" creationdate="20181127T183252Z">
+        <seg>Selezione di esempio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example: &lt;i0/&gt;Assigning styles to shortcut keys</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T104926Z">
@@ -20172,6 +20188,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144612Z">
         <seg>Esempi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Examples of information shown</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183310Z" creationid="Elisabetta Manuele" creationdate="20181127T183310Z">
+        <seg>Esempi delle informazioni visualizzate</seg>
       </tuv>
     </tu>
     <tu>
@@ -24440,6 +24464,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183239Z" creationid="Elisabetta Manuele" creationdate="20181127T183239Z">
+        <seg>Ad esempio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example: Consider a database for a library.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T153837Z">
@@ -25412,6 +25444,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173548Z">
         <seg>FAQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From left to right, you will find:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183210Z" creationid="Elisabetta Manuele" creationdate="20181127T183210Z">
+        <seg>Da sinistra a destra compaiono:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46225,6 +46265,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text area</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183316Z" creationid="Elisabetta Manuele" creationdate="20181127T183316Z">
+        <seg>Area di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text documents &lt;f4&gt;in office suites have a richer set of resources that will not appear in HTML, for example page formatting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T124024Z">
@@ -50147,6 +50195,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The sizes are given in the current measurement unit (not to be confused with the ruler units).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183104Z" creationid="Elisabetta Manuele" creationdate="20181127T183038Z">
+        <seg>Le dimensioni sono espresse nell'unità di misura corrente (da non confondere con le unità di misura dei righelli)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The sizes are given in the current measurement unit.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143714Z">
@@ -52031,6 +52087,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T123724Z">
         <seg>Ciò significa che dovete copiare nuovamente il dato da ripetere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This measurement unit is defined in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183153Z" creationid="Elisabetta Manuele" creationdate="20181127T183059Z">
+        <seg>specificata nel menu &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Impress &gt; Generale&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
