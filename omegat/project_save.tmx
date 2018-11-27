@@ -23648,6 +23648,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For details on the contents and use of these fields, see &lt;f2&gt;Chapter 1 Introducing LibreOffice&lt;/f2&gt; in this guide and the &lt;f3&gt;Impress Guide Chapter 1 Introducing Impress&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183003Z" creationid="Elisabetta Manuele" creationdate="20181127T183003Z">
+        <seg>Per ulteriori informazioni sul contenuto e sull'uso di questi campi consultate il &lt;f2&gt;Capitolo 1 (Introduzione a LibreOffice)&lt;/f2&gt; di questa guida e il &lt;f3&gt;Capitolo 1 (Introduzione a Impress) della Guida a Impress&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For details on the contents and use of these fields, see Chapter 1, Introducing LibreOffice, in this guide and&lt;f0&gt; &lt;/f0&gt;Chapter 1, Introducing Draw, in the &lt;f1&gt;Draw Guide.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143653Z">
@@ -39873,6 +39881,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refer to the &lt;f0&gt;Draw Guide&lt;/f0&gt; for details on the functions available and how to use them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T182730Z" creationid="Elisabetta Manuele" creationdate="20181127T182730Z">
+        <seg>Fate riferimento alla &lt;f0&gt;Guida a Draw&lt;/f0&gt; per ulteriori dettagli sulle funzioni disponibili e su come usarle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Refer to the section on AutoText in Chapter 4, Getting Started with Writer.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180910T124045Z">
@@ -46445,6 +46461,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105745Z">
         <seg>La barra degli strumenti &lt;f0&gt;Standard&lt;/f0&gt; è la stessa per tutti i componenti di LibreOffice e non viene descritta in dettaglio in questo capitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Status bar&lt;/f0&gt; (Figure &lt;t1&gt;126&lt;/t1&gt;), located at the bottom of the Impress window, contains information that you may find useful when working on a presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T182901Z" creationid="Elisabetta Manuele" creationdate="20181127T182901Z">
+        <seg>La &lt;f0&gt;Barra di stato&lt;/f0&gt; (figura &lt;t1&gt;126&lt;/t1&gt;) situata nella parte inferiore della finestra di Impress, contiene informazioni che possono rivelarsi utili per la realizzazione di una presentazione.</seg>
       </tuv>
     </tu>
     <tu>
