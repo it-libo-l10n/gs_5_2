@@ -17895,6 +17895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delete a slide from the presentation if it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T175023Z" creationid="Elisabetta Manuele" creationdate="20181127T175023Z">
+        <seg>Eliminare dalla presentazione una diapositiva non più necessaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delete any unwanted text or graphics from this new document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T100745Z">
@@ -19100,6 +19108,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175010Z">
         <seg>Elenco a discesa dal quale selezionare una voce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Duplicate a slide (copy and paste).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T175038Z" creationid="Elisabetta Manuele" creationdate="20181127T175038Z">
+        <seg>Duplicare una diapositiva (tramite copia e incolla).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28248,6 +28264,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the position is not visible in the slide pane, the slide stack will scroll up or down accordingly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T175123Z" creationid="Elisabetta Manuele" creationdate="20181127T175123Z">
+        <seg>Se la posizione non è visibile nel riquadro delle diapositive, la sequenza scorrerà verso l'alto o verso il basso in base alle esigenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the report had more than one page, the page numbers could be put in a footer of each page, perhaps including the total number of pages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112414Z" creationid="manuel" creationdate="20181015T112414Z">
@@ -34377,6 +34401,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark a slide as hidden so that it will not be shown as part of the presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T174958Z" creationid="Elisabetta Manuele" creationdate="20181127T174958Z">
+        <seg>Contrassegnare una diapositiva come nascosta, così da non venire visualizzata come elemento della presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark this box to emulate OpenCL if your computer video card driver does not support OpenCL.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T140408Z">
@@ -35181,6 +35213,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165848Z">
         <seg>Sposta in alto con sottopunti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move a slide to another place in the slide stack by dragging and dropping it to the desired position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T175104Z" creationid="Elisabetta Manuele" creationdate="20181127T175104Z">
+        <seg>Spostare una diapositiva in un altro punto della sequenza trascinandola nella posizione desiderata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39861,6 +39901,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T210201Z">
         <seg>Eliminare la vista divisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rename a slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T175026Z" creationid="Elisabetta Manuele" creationdate="20181127T175026Z">
+        <seg>Rinominare una diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
