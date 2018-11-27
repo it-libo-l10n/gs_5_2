@@ -36539,8 +36539,8 @@
       <tuv lang="EN">
         <seg>Normal view</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191436Z" creationid="Elisabetta Manuele" creationdate="20181127T191436Z">
-        <seg>Vista normale</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191842Z" creationid="Elisabetta Manuele" creationdate="20181127T191436Z">
+        <seg>Vista Normale</seg>
       </tuv>
     </tu>
     <tu>
@@ -38541,6 +38541,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070358Z">
         <seg>Le due tabelle sono elencate nella sezione &lt;f3&gt;Tabelle considerate&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Outline view</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191854Z" creationid="Elisabetta Manuele" creationdate="20181127T191835Z">
+        <seg>Vista Struttura</seg>
       </tuv>
     </tu>
     <tu>
@@ -54851,6 +54859,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063106Z">
         <seg>Per eseguire un controllo combinato ortografico e grammaticale del documento (o di una porzione di testo selezionato), fate clic sul pulsante &lt;f0&gt;Ortografia e grammatica&lt;/f0&gt; &lt;f1&gt;sulla barra degli strumenti Standard,oppure scegliete &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Strumenti &gt; Ortografia e grammatica&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To place a slide in the slide design area (Normal view) (Figure &lt;t0&gt;125&lt;/t0&gt; on page &lt;t1&gt;155&lt;/t1&gt;), click the slide thumbnail in the Slides pane or double-click it in the Navigator (see &lt;f2&gt;Chapter 1 Introducing LibreOffice&lt;/f2&gt; and the &lt;f3&gt;Impress Guide&lt;/f3&gt; for more information on the Navigator).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191826Z" creationid="Elisabetta Manuele" creationdate="20181127T191826Z">
+        <seg>Per collocare una diapositiva nell'area di disegno (Vista normale, figura &lt;t0&gt;125&lt;/t0&gt; a pag. &lt;t1&gt;155&lt;/t1&gt;), fate clic sulla relativa miniatura nel riquadro Diapositive oppure doppio clic sulla sua miniatura all'interno del Navigatore (consultate il &lt;f2&gt;Capitolo 1, Introduzione a LibreOffice&lt;/f2&gt;, o la &lt;f3&gt;Guida a Impress&lt;/f3&gt;, per un approfondimento sull'uso del Navigatore).</seg>
       </tuv>
     </tu>
     <tu>
