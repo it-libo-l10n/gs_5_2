@@ -5400,6 +5400,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Page (slide) style&lt;/f0&gt; – the style associated with the slide, handout, or notes page currently in the Workspace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T190446Z" creationid="Elisabetta Manuele" creationdate="20181127T190446Z">
+        <seg>&lt;f0&gt;Stile di pagina (diapositiva)&lt;/f0&gt;: lo stile associato alla diapositiva, stampato, o pagina note attivi nell'Area di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Page Down&lt;/f0&gt; moves the cell focus down one complete screen display.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T185140Z">
@@ -6018,8 +6026,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Slide number&lt;/f0&gt; – the slide number currently displayed in the Workspace and the total number of slides in the presentation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183912Z" creationid="Elisabetta Manuele" creationdate="20181127T183912Z">
-        <seg>&lt;f0&gt;Numero diapositiva&lt;/f0&gt; ‑ il numero della diapositiva correntemente visualizzata nell'Area di lavoro e il numero totale di diapositive nella presentazione.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T190408Z" creationid="Elisabetta Manuele" creationdate="20181127T183912Z">
+        <seg>&lt;f0&gt;Numero diapositiva&lt;/f0&gt;: il numero della diapositiva attualmente in uso nell'Area di lavoro e il numero totale di diapositive contenute nella presentazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6972,6 +6980,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133646Z">
         <seg>&lt;f0&gt;Supponiamo che vogliate&lt;/f0&gt; inserire la formula &lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;formula&lt;/s4&gt;&lt;/df1&gt;&lt;f5&gt;nella quale &lt;/f5&gt;il valore del pi greco &lt;f6&gt;sia &lt;/f6&gt;arrotondato a 5 cifre decimali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Zoom percentage&lt;/f0&gt; – indicates the zoom percentage of the Workspace displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T190551Z" creationid="Elisabetta Manuele" creationdate="20181127T190551Z">
+        <seg>&lt;f0&gt;Percentuale dello zoom&lt;/f0&gt;: indica la percentuale dello zoom dell'Area di lavoro visualizzata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Zoom slider&lt;/f0&gt; – adjusts the zoom percentage of the Workspace displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T190527Z" creationid="Elisabetta Manuele" creationdate="20181127T190527Z">
+        <seg>&lt;f0&gt;Cursore dello zoom&lt;/f0&gt;: regola la percentuale dello zoom dell'Area di lavoro visualizzata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18812,6 +18836,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T131808Z">
         <seg>Con un doppio clic sulla formula potete aprire l'Editor delle formule di LibreOffice Math, &lt;f0&gt;nel quale&lt;/f0&gt; &lt;f1&gt;potete&lt;/f1&gt; modificare la formula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-clicking on the style name opens the slide design dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T190509Z" creationid="Elisabetta Manuele" creationdate="20181127T190509Z">
+        <seg>Facendo doppio clic sul nome dello stile si apre la finestra di dialogo Modello diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
