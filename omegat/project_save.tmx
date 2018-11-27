@@ -12571,6 +12571,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change slide layout for a group of slides simultaneously.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T175431Z" creationid="Elisabetta Manuele" creationdate="20181127T175431Z">
+        <seg>Modificare simultaneamente il layout delle diapositive di un gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change some &lt;i0/&gt;locale and language settings</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170123Z">
@@ -12679,6 +12687,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T150148Z">
         <seg>In questo elenco modificate la selezione da &lt;f1&gt;Nessuno&lt;/f1&gt; a &lt;f2&gt;Verticale&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the slide design.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T175402Z" creationid="Elisabetta Manuele" creationdate="20181127T175402Z">
+        <seg>Cambiare il modello di diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the slide transition following the selected slide or after each slide in a group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T175357Z" creationid="Elisabetta Manuele" creationdate="20181127T175357Z">
+        <seg>Modificare la sequenza di scorrimento dopo la diapositiva selezionata o dopo ogni diapositiva di un gruppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32220,6 +32244,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093049Z">
         <seg>Si tratta anche in questo caso di un elenco apribile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is also possible to perform the following operations, although there are more efficient methods than using the Slides pane:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T175235Z" creationid="Elisabetta Manuele" creationdate="20181127T175235Z">
+        <seg>È anche possibile eseguire le seguenti operazioni, anche se esistono metodi più efficaci rispetto all'uso del riquadro Diapositive:</seg>
       </tuv>
     </tu>
     <tu>
