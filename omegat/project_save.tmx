@@ -11818,6 +11818,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Beginning with LibreOffice 5.1, the Workspace View tab bar is hidden by default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191148Z" creationid="Elisabetta Manuele" creationdate="20181127T191148Z">
+        <seg>A partire da LibreOffice 5.1 la Barra a schede delle viste è nascosta per impostazione predefinita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Beneath the records are five tiny buttons.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162846Z" creationid="manuel" creationdate="20181015T162846Z">
@@ -19432,6 +19440,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each Workspace view displays a different set of toolbars when selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191258Z" creationid="Elisabetta Manuele" creationdate="20181127T191258Z">
+        <seg>Ogni vista dell'Area di lavoro presenta una serie diversa di barre strumenti, se selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each category contains sample tables from which to choose.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T114140Z">
@@ -19556,6 +19572,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104456Z">
         <seg>Ogni clic del mouse imposta un angolo e permette di continuare a disegnare un'altra linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each of the Workspace views is designed to ease the completion of certain tasks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191113Z" creationid="Elisabetta Manuele" creationdate="20181127T191113Z">
+        <seg>Ogni vista dell'area di lavoro è progettata per facilitare il completamento di determinate attività,</seg>
       </tuv>
     </tu>
     <tu>
@@ -32708,6 +32732,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180922T122718Z">
         <seg>È fastidioso eseguire ripetutamente una macro usando le voci &lt;f0&gt;Strumenti &gt; Macro &gt; Esegui Macro&lt;/f0&gt; della barra del menu principale, dato che la macro può essere eseguita all'interno dell'&lt;is1/&gt;IDE&lt;ie2/&gt; (Figura &lt;t3&gt;343&lt;/t3&gt; a pagina &lt;t4&gt;350&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is therefore useful to familiarize yourself with them in order to accomplish those tasks quickly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191129Z" creationid="Elisabetta Manuele" creationdate="20181127T191129Z">
+        <seg>quindi è utile acquisire dimestichezza con esse per poter svolgere rapidamente tali compiti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56031,6 +56063,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Turn it visible by choosing &lt;f0&gt;View &gt; Modes Tab Bar&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191216Z" creationid="Elisabetta Manuele" creationdate="20181127T191216Z">
+        <seg>Per renderla visibile scegliete la voce &lt;f0&gt;Visualizza &gt; Barra a schede dei modi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Turning on hyphenation for &lt;f0&gt;the &lt;/f0&gt;paragraph Default Style affects all other paragraph styles that are based on Default Style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T075610Z">
@@ -60355,8 +60395,8 @@
       <tuv lang="EN">
         <seg>Workspace views</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181951Z">
-        <seg>Vista Area di lavoro</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191045Z">
+        <seg>Viste Area di lavoro</seg>
       </tuv>
     </tu>
     <tu>
@@ -61845,6 +61885,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T150658Z">
         <seg>Potete nasconderla o mostrarla facendo clic sul suo pulsante Nascondi/Mostra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can hide the Status Bar and its information by going to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and deselecting &lt;f1&gt;Status Bar&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191033Z" creationid="Elisabetta Manuele" creationdate="20181127T191033Z">
+        <seg>Potete nascondere la Barra di stato e le relative informazioni deselezionando la voce &lt;f0&gt;Barra di stato&lt;/f0&gt; nel menu &lt;f1&gt;Visualizza&lt;/f1&gt; della Barra principale.</seg>
       </tuv>
     </tu>
     <tu>
