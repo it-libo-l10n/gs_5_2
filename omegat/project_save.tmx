@@ -5240,6 +5240,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Normal view&lt;/f0&gt; is the main view for working with individual slides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191521Z" creationid="Elisabetta Manuele" creationdate="20181127T191521Z">
+        <seg>La &lt;f0&gt;vista Normale&lt;/f0&gt; rappresenta la visualizzazione di riferimento per la gestione di singole diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Normal&lt;/f0&gt; &lt;f1&gt;(previously called Print Layout) &lt;/f1&gt;is the default view in Writer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T105046Z">
@@ -36529,6 +36537,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Normal view</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191436Z" creationid="Elisabetta Manuele" creationdate="20181127T191436Z">
+        <seg>Vista normale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Normally only footers are used on a slide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085918Z">
@@ -51363,6 +51379,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These toolbar sets can be customized by going to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, then check or uncheck the toolbar you want to add or remove.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191434Z" creationid="Elisabetta Manuele" creationdate="20181127T191434Z">
+        <seg>Questi insiemi di barre possono essere personalizzati accedendo alla voce &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt;, nella Barra dei menu, quindi selezionando o deselezionando la barra degli strumenti da aggiungere o rimuovere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These tools are divided between the Tools and Data menus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T144931Z">
@@ -57332,6 +57356,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163110Z" creationid="manuel" creationdate="20181015T163110Z">
         <seg>Create una frase di questo tipo: “Il giorno (data), la colazione del costo di (costo) è stata pagata da (nome), il pranzo del costo di (costo) è stato pagato da (nome), e la cena del costo di (costo) è stata pagata da (nome)." Però digitate solamente &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this view to format and design and to add text, graphics, and animation effects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191545Z" creationid="Elisabetta Manuele" creationdate="20181127T191545Z">
+        <seg>Consente di formattare e strutturare le diapositive, di aggiungere testo, immagini ed effetti di animazione.</seg>
       </tuv>
     </tu>
     <tu>
