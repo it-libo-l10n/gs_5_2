@@ -47067,6 +47067,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Workspace below the View buttons changes with the chosen view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T174158Z" creationid="Elisabetta Manuele" creationdate="20181127T174158Z">
+        <seg>L'Area di lavoro sottostante ai Pulsanti di visualizzazione cambia in base alla vista selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Writer &lt;i0/&gt;Status Bar provides information about the document and convenient ways to change some document features quickly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T161306Z">
