@@ -3474,8 +3474,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Cursor position&lt;/f0&gt; – the position of the cursor or of the top left corner of the selection measured from the top left corner of the slide, followed by the width and height of the selection or text box where the cursor is located.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183556Z" creationid="Elisabetta Manuele" creationdate="20181127T183556Z">
-        <seg>&lt;f0&gt;Posizione del puntatore&lt;/f0&gt;: la posizione del puntatore o dell'angolo superiore sinistro della selezione misurata dall'angolo superiore sinistro della diapositiva, seguita dalla larghezza e dall'altezza della selezione o della casella di testo in cui si trova il cursore.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183745Z" creationid="Elisabetta Manuele" creationdate="20181127T183556Z">
+        <seg>&lt;f0&gt;Posizione del puntatore&lt;/f0&gt;: indica la posizione del puntatore o dell'angolo superiore sinistro della selezione misurata dall'angolo superiore sinistro della diapositiva, seguita dalla larghezza e dall'altezza della selezione o della casella di testo in cui si trova il cursore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3572,6 +3572,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T220821Z">
         <seg>&lt;f0&gt;Individua numeri speciali&lt;/f0&gt; – se questa opzione è abilitata, Calc individuerà automaticamente tutti i formati numerici, compresi quelli speciali come le date, gli orari e le notazioni scientifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Digital signature&lt;/f0&gt; – a flag indicating whether the document is digitally signed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183841Z" creationid="Elisabetta Manuele" creationdate="20181127T183726Z">
+        <seg>&lt;f0&gt;Firma digitale&lt;/f0&gt;: un contrassegno che indica l'eventuale presenza di una firma digitale sul documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6004,6 +6012,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180818T101819Z">
         <seg>&lt;f0&gt;A partire da LibreOffice 5.1, l&lt;/f0&gt;e barre dei menu in Writer, Calc, e Impress sono state riorganizzate per migliorare l'usabilità dell'applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Slide number&lt;/f0&gt; – the slide number currently displayed in the Workspace and the total number of slides in the presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183912Z" creationid="Elisabetta Manuele" creationdate="20181127T183912Z">
+        <seg>&lt;f0&gt;Numero diapositiva&lt;/f0&gt; ‑ il numero della diapositiva correntemente visualizzata nell'Area di lavoro e il numero totale di diapositive nella presentazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9749,6 +9765,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T195911Z">
         <seg>Dopo dieci anni di fortunata crescita con Sun Microsystems come fondatore e sponsor principale, il progetto ha costituito una fondazione indipendente chiamata The Document Foundation, al fine di realizzare la promessa di indipendenza sancita nell'atto costitutivo originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After the file has been saved, double-clicking on this flag opens the digital signatures dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183905Z" creationid="Elisabetta Manuele" creationdate="20181127T183905Z">
+        <seg>Dopo il salvataggio del file, facendo doppio clic su questo indicatore si apre la finestra di dialogo Firme digitali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18788,6 +18812,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T131808Z">
         <seg>Con un doppio clic sulla formula potete aprire l'Editor delle formule di LibreOffice Math, &lt;f0&gt;nel quale&lt;/f0&gt; &lt;f1&gt;potete&lt;/f1&gt; modificare la formula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-clicking on this flag opens the file save dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183703Z" creationid="Elisabetta Manuele" creationdate="20181127T183703Z">
+        <seg>Facendo doppio clic su questo indicatore si apre la finestra di dialogo Salva.</seg>
       </tuv>
     </tu>
     <tu>
