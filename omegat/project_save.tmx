@@ -12995,6 +12995,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing the outline level for any of the paragraphs in a slide using the left and right arrow buttons (Promote or Demote) on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T193421Z" creationid="Elisabetta Manuele" creationdate="20181127T193421Z">
+        <seg>Modificare il livello di struttura dei singoli paragrafi di una diapositiva tramite i pulsanti freccia sinistra e destra (Un livello più alto o Un livello più basso) nella barra degli strumenti Formattazione del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing the password</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200736Z">
@@ -16490,6 +16498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214334Z">
         <seg>Le caratteristiche comuni comprendono, nella parte superiore della finestra: la barra dei menu, la barra strumenti standard, la barra degli strumenti di formattazione e, nella parte inferiore, la barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comparing slides with your outline (if you have prepared one in advance).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T193530Z" creationid="Elisabetta Manuele" creationdate="20181127T193530Z">
+        <seg>Confrontare le diapositive con la struttura, se già predisposta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36169,6 +36185,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving a paragraph and changing its outline level at the same time using a combination of these four arrow buttons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T193451Z" creationid="Elisabetta Manuele" creationdate="20181127T193451Z">
+        <seg>Spostare un paragrafo e simultaneamente modificarne il livello di struttura tramite una combinazione delle quattro frecce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving a template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T105417Z">
@@ -36205,6 +36229,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180107Z">
         <seg>Spostarsi rapidamente all'interno di un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving the paragraphs of text in the selected slide up or down by using the up and down arrow buttons (Move Up or Move Down) on the Text Formatting toolbar (highlighted in Figure &lt;t0&gt;128&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T193317Z" creationid="Elisabetta Manuele" creationdate="20181127T193317Z">
+        <seg>Spostare i paragrafi di testo all'interno della diapositiva selezionata verso l'alto o verso il basso tramite i pulsanti freccia su o giù (Verso l'alto o Verso il basso) nella barra degli strumenti Formattazione del testo (evidenziati nella Figura &lt;t0&gt;128&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
