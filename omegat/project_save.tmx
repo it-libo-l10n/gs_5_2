@@ -5400,6 +5400,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Outline view&lt;/f0&gt; (Figure &lt;t1&gt;127&lt;/t1&gt;) contains all the slides of the presentation in their numbered sequence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T192909Z" creationid="Elisabetta Manuele" creationdate="20181127T192909Z">
+        <seg>&lt;f0&gt;La vista Struttura&lt;/f0&gt; (figura &lt;t1&gt;127&lt;/t1&gt;) contiene tutte le diapositive della presentazione numerate in sequenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Outline&lt;/f0&gt; prints the title and headings of each slide in outline format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T174630Z" creationid="Alessia Mazzarini" creationdate="20181007T205326Z">
@@ -18880,6 +18888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-clicking on zoom percentage opens the zoom and layout dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T192753Z" creationid="Elisabetta Manuele" creationdate="20181127T192753Z">
+        <seg>Facendo doppio clic sulla percentuale dello zoom si apre la finestra di dialogo Zoom e layout visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the extension package (OXT file) and save it anywhere on your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160444Z">
@@ -20916,6 +20932,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T174459Z" creationid="Elisabetta Manuele" creationdate="20181127T174459Z">
         <seg>Figura &lt;seq0&gt;125&lt;/seq0&gt;: finestra principale di Impress; gli ovali indicano i contrassegni Mostra/Nascondi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;126&lt;/seq0&gt;: Status bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T192737Z" creationid="Elisabetta Manuele" creationdate="20181127T192737Z">
+        <seg>Figura &lt;seq0&gt;126&lt;/seq0&gt;: Barra di stato</seg>
       </tuv>
     </tu>
     <tu>
@@ -30132,6 +30156,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T215254Z">
         <seg>Con Impress è possibile inoltre esportare in formato MacroMedia Flash (.swf) e in uno qualsiasi dei formati grafici elencati per Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress includes several designs for Master Pages (slide masters).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T192717Z" creationid="Elisabetta Manuele" creationdate="20181127T192717Z">
+        <seg>Impress contiene diversi modelli di Pagine Master (diapositive master).</seg>
       </tuv>
     </tu>
     <tu>
