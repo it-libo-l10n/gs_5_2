@@ -8312,6 +8312,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A copy of an object is independent of the original object, so changes to the object have no effect on the copy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T181912Z" creationid="Elisabetta Manuele" creationdate="20181127T181912Z">
+        <seg>Una copia è indipendente dall'oggetto originale quindi non viene alterata da eventuali modifiche apportate all'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A copy of an object is independent of the original object.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180630T151517Z">
@@ -8653,6 +8661,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T165555Z">
         <seg>Verranno visualizzate rispettivamente la tavolozza degli stili di linea e dei colori per i bordi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A link remains dependent on the original object and changes to the object are reflected in the link.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T181925Z" creationid="Elisabetta Manuele" creationdate="20181127T181925Z">
+        <seg>Un collegamento, invece, continua a dipendere dall'oggetto originale le cui modifiche si riflettono sul collegamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29632,6 +29648,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to ensure that the styles on a specific slide are not updated, create a new master page for the slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T181759Z" creationid="Elisabetta Manuele" creationdate="20181127T181759Z">
+        <seg>Se desiderate assicurarvi che non vengano aggiornati i modelli di una particolare diapositiva, create una nuova pagina master/schema per quella diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to go back to working with the ODT version of your document, you must open it again.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T143335Z">
@@ -38021,6 +38045,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T154724Z">
         <seg>Apre la finestra di dialogo Cercai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the Impress gallery from which you can insert an object into your presentation either as a copy or as a link.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T181850Z" creationid="Elisabetta Manuele" creationdate="20181127T181850Z">
+        <seg>La sezione consente di aprire la Galleria di Impress da cui è possibile scegliere un oggetto da inserire in una presentazione come copia o collegamento.</seg>
       </tuv>
     </tu>
     <tu>
