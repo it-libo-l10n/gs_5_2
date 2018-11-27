@@ -9505,6 +9505,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding and deleting the text in a slide as in the Normal view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T193230Z" creationid="Elisabetta Manuele" creationdate="20181127T193230Z">
+        <seg>Aggiungere o eliminare testo in una diapositiva come nella vista Normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding and formatting text</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182104Z">
@@ -20948,6 +20956,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T192224Z" creationid="Elisabetta Manuele" creationdate="20181127T192224Z">
         <seg>Figura &lt;seq0&gt;127&lt;/seq0&gt;: vista Struttura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;128&lt;/seq0&gt;: Outline level and movement arrows in Text Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T193030Z" creationid="Elisabetta Manuele" creationdate="20181127T193030Z">
+        <seg>Figura &lt;seq0&gt;128&lt;/seq0&gt;: frecce dei livelli di struttura e di movimento nella barra strumenti Formattazione testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -34657,6 +34673,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Making changes in the text of a slide:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T193157Z" creationid="Elisabetta Manuele" creationdate="20181127T193157Z">
+        <seg>Modifiche al testo di una diapositiva:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Managing documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152140Z">
@@ -39917,6 +39941,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185607Z">
         <seg>Stampa rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quickly inserting text for fast content creation or editing, when formatting and adding &lt;s0/&gt;graphic objects is postponed until the final stages of creating the presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T193136Z" creationid="Elisabetta Manuele" creationdate="20181127T193136Z">
+        <seg>Inserimento immediato del testo per creare o modificare rapidamente i contenuti, nel caso in cui la formattazione e l'aggiunta di &lt;s0/&gt;oggetti grafici vengano rinviate alle fasi finali di creazione della presentazione. </seg>
       </tuv>
     </tu>
     <tu>
@@ -56996,6 +57028,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T172929Z">
         <seg>Potete utilizzare Formato riempimento per applicare uno stile a più aree differenti velocemente senza dover ritornare alla finestra Stili e Formattazione e fare doppio clic ogni volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Outline view for the following purposes:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T193043Z" creationid="Elisabetta Manuele" creationdate="20181127T193043Z">
+        <seg>La vista Struttura ha le seguenti funzioni:</seg>
       </tuv>
     </tu>
     <tu>
