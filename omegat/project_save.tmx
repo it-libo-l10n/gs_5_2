@@ -9329,6 +9329,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add new slides to the presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T174918Z" creationid="Elisabetta Manuele" creationdate="20181127T174918Z">
+        <seg>Aggiungere nuove diapositive alla presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add the End-Reading query to this query.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T101624Z" creationid="manuel" creationdate="20181015T101624Z">
@@ -16002,6 +16010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085738Z">
         <seg>Facendo clic sull'etichetta o sul campo viene selezionato l'intero controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking a slide in this pane selects it and places it in the &lt;f1&gt;Workspace&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T174756Z" creationid="Elisabetta Manuele" creationdate="20181127T174756Z">
+        <seg>Facendo clic su una diapositiva all'interno del riquadro, questa viene selezionata e collocata nell'&lt;f1&gt;Area di lavoro&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43737,6 +43753,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several additional operations can be performed on one or more slides simultaneously in the Slides pane:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T174911Z" creationid="Elisabetta Manuele" creationdate="20181127T174911Z">
+        <seg>Potete eseguire un certo numero di operazioni supplementari su una o più diapositive contemporaneamente, nel Riquadro diapositive:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several choices are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211344Z" creationid="Alessia Mazzarini" creationdate="20181007T211344Z">
@@ -46149,6 +46173,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104926Z">
         <seg>La &lt;f0&gt;Barra laterale&lt;/f0&gt; ha quattro sezioni principali &lt;f1&gt;in Draw&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Slides pane&lt;/f0&gt; contains thumbnail pictures of the slides in your presentation in the order in which they will be shown, unless you change the slide show order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T174713Z" creationid="Elisabetta Manuele" creationdate="20181127T174713Z">
+        <seg>Il &lt;f0&gt;riquadro Diapositive&lt;/f0&gt; visualizza le immagini in miniatura delle diapositive contenute nella presentazione in ordine di riproduzione, a meno che quest'ultimo non venga modificato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58357,6 +58389,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T122017Z">
         <seg>Quando create un nuovo modulo, esso contiene un commento e una macro vuota chiamata Main, che non fa nulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a slide is in the Workspace, you can make changes to it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T174824Z" creationid="Elisabetta Manuele" creationdate="20181127T174824Z">
+        <seg>Quando una diapositiva si trova nell'Area di lavoro è possibile modificarla.</seg>
       </tuv>
     </tu>
     <tu>
