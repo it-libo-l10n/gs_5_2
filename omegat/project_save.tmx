@@ -26752,6 +26752,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you define the page (slide) style for your presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T180342Z" creationid="Elisabetta Manuele" creationdate="20181127T180342Z">
+        <seg>In questa sezione è possibile definire lo stile della pagina (diapositiva) per la presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you put buttons and other controls of your drawing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T160614Z">
@@ -27212,6 +27220,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084112Z">
         <seg>Comunque, non ha alcun effetto sulle dimensioni dei caratteri del testo nei vostri documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, it is not possible to save customized layouts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T180249Z" creationid="Elisabetta Manuele" creationdate="20181127T180249Z">
+        <seg>Non è comunque possibile salvare layout personalizzati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34469,6 +34485,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170105Z">
         <seg>Martin Saffron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master Pages</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T180259Z" creationid="Elisabetta Manuele" creationdate="20181127T180259Z">
+        <seg>Pagine schema</seg>
       </tuv>
     </tu>
     <tu>
@@ -60981,6 +61005,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T145335Z">
         <seg>Per indicare il vostro colore potete scegliere il sistema RGB (Red, Green, Blue - Rosso, Verde, Blu) oppure il sistema CMYK (Cyan, Magenta, Yellow, Black - Ciano, Magenta, Giallo, Nero).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can choose the one you want and use it as it is, or modify it to meet your own requirements.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T180237Z" creationid="Elisabetta Manuele" creationdate="20181127T180237Z">
+        <seg>Potete scegliere quello che desiderate e usarlo così com'è, oppure modificarlo in base alle esigenze personali.</seg>
       </tuv>
     </tu>
     <tu>
