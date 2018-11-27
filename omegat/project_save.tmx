@@ -24880,6 +24880,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information, refer to Chapter 1, Introducing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T182628Z" creationid="Elisabetta Manuele" creationdate="20181127T182628Z">
+        <seg>Per ulteriori informazioni fate riferimento al Capitolo 1 (Introduzione a LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information, see &lt;a1&gt;&lt;f2&gt;http://www.linuxfound&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;f4&gt;ation.org/collaborate/workgroups/openprinting/pdf_as_standard_print_job_format&lt;/f4&gt;&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T065651Z">
@@ -34485,6 +34493,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T132218Z">
         <seg>Molti oggetti di un documento possono essere impostati in modo da richiamare delle macro all'avverarsi di determinati eventi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many of the toolbars in Impress are similar to the toolbars in Draw.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T182700Z" creationid="Elisabetta Manuele" creationdate="20181127T182700Z">
+        <seg>Diverse barre degli strumenti di Impress sono simili a quelle di Draw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51211,6 +51227,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They can be displayed or hidden by going to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and selecting from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T182429Z" creationid="Elisabetta Manuele" creationdate="20181127T182429Z">
+        <seg>che si possono visualizzare o nascondere accedendo alla voce &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt; nella Barra dei menu e selezionando un sottomenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They do &lt;f1&gt;not&lt;/f1&gt; show any modifications made to the table or query itself.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063639Z">
@@ -60885,6 +60909,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T164611Z">
         <seg>Per aprire la finestra di dialogo Formato celle potete anche selezionare il pulsante &lt;f1&gt;Altre opzioni&lt;/f1&gt; nel pannello della Barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also select the icons that you wish to appear on each toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T182538Z" creationid="Elisabetta Manuele" creationdate="20181127T182434Z">
+        <seg>Potete inoltre selezionare le icone da rendere visibili in ogni barra degli strumenti.</seg>
       </tuv>
     </tu>
     <tu>
