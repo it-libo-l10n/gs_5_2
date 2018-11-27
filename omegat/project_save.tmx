@@ -32488,6 +32488,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is recommended to give slides and objects in your presentation meaningful names so that you can easily identify them when using the navigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T182246Z" creationid="Elisabetta Manuele" creationdate="20181127T182246Z">
+        <seg>È consigliabile assegnare nomi significativi a diapositive e oggetti della presentazione per agevolarne l'identificazione tramite il Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is recommended to rename sheets in a spreadsheet to make them more recognizable.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T194934Z">
@@ -34509,6 +34517,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143416Z">
         <seg>Molti formattano manualmente i paragrafi, le parole, le tabelle, i layout di pagina e altre parti dei loro documenti ignorando gli stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many toolbars can be used during slide creation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T182316Z" creationid="Elisabetta Manuele" creationdate="20181127T182316Z">
+        <seg>Durante il processo di creazione della diapositiva potete avvalervi di svariate barre strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -38053,6 +38069,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T181850Z" creationid="Elisabetta Manuele" creationdate="20181127T181850Z">
         <seg>La sezione consente di aprire la Galleria di Impress da cui è possibile scegliere un oggetto da inserire in una presentazione come copia o collegamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the Impress navigator, in which you can quickly move to another slide or select an object on a slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T182140Z" creationid="Elisabetta Manuele" creationdate="20181127T182140Z">
+        <seg>La sezione consente di aprire il navigatore di Impress nel quale è possibile passare rapidamente a una diversa diapositiva o selezionare un oggetto contenuto in essa.</seg>
       </tuv>
     </tu>
     <tu>
