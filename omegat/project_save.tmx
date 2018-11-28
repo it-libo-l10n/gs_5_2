@@ -16134,6 +16134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the slide and the slide is highlighted (Figure &lt;t0&gt;132&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T150541Z" creationid="Elisabetta Manuele" creationdate="20181128T150541Z">
+        <seg>Fate clic sulla diapositiva per evidenziarla (Figura &lt;t0&gt;132&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the small triangle on the right of the Font Name box on the Formatting toolbar (highlighted in Figure &lt;t0&gt;116&lt;/t0&gt;) and select a font from the drop-down list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T163336Z">
@@ -19024,6 +19032,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag and drop the slide to the location you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T150601Z" creationid="Elisabetta Manuele" creationdate="20181128T150601Z">
+        <seg>Trascinatela e rilasciatela nella posizione desiderata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drag the Zoom slider, or click on the &lt;f0&gt;+&lt;/f0&gt; and &lt;f1&gt;–&lt;/f1&gt; signs to change the view magnification of your document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192731Z">
@@ -20780,6 +20796,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T142716Z">
         <seg>Figura 22&lt;f0&gt;9&lt;/f0&gt;b: posizionamento dei controlli (lato destro del formulario)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;f0&gt;&lt;seq1&gt;133&lt;/seq1&gt;&lt;/f0&gt;: Slide Sorter and Slide View toolbars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T150431Z" creationid="Elisabetta Manuele" creationdate="20181128T150343Z">
+        <seg>Figura &lt;f0&gt;&lt;seq1&gt;133&lt;/seq1&gt;&lt;/f0&gt;: barre degli strumenti Ordine diapositive e Vista diapositiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -36337,6 +36361,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving a slide using Slide Sorter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T150447Z" creationid="Elisabetta Manuele" creationdate="20181128T150346Z">
+        <seg>Spostare una diapositiva tramite Ordine diapositive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving a template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T105417Z">
@@ -44181,6 +44213,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083300Z">
         <seg>Selezionando un elemento dell'elenco apparirà, sul lato destro della finestra di dialogo, la pagina relativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting and moving groups of slides</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T150613Z" creationid="Elisabetta Manuele" creationdate="20181128T150613Z">
+        <seg>Selezionare e spostare gruppi di diapositive</seg>
       </tuv>
     </tu>
     <tu>
@@ -55010,6 +55050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T161501Z">
         <seg>Per spostare un foglio in una posizione differente, all'interno dello stesso foglio elettronico, fate clic sulla linguetta del foglio e trascinatela nella sua nuova posizione prima di rilasciare il pulsante del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move a slide in a presentation in the Slide Sorter:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T150512Z" creationid="Elisabetta Manuele" creationdate="20181128T150512Z">
+        <seg>Per spostare una diapositiva della presentazione tramite Ordine diapositive procedete come segue:</seg>
       </tuv>
     </tu>
     <tu>
