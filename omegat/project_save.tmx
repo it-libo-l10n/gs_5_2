@@ -2351,6 +2351,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;Original&gt; is for a blank presentation slide design.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T162201Z" creationid="Elisabetta Manuele" creationdate="20181128T162201Z">
+        <seg>L'opzione &lt;Originale&gt; prevede un modello di diapositiva di presentazione vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;http://api.openoffice.org/docs/common/ref/com/sun/star/module-ix.html&lt;/a0&gt; (official IDL reference; here you will find almost every command with a description)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T143549Z">
@@ -60485,6 +60493,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T140249Z">
         <seg>Quando salvate un foglio elettronico per la prima volta, vi sarà richiesto di inserire un nome di vostra scelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you select a presentation background, you will see a preview of the slide design in the Preview window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T162136Z" creationid="Elisabetta Manuele" creationdate="20181128T162136Z">
+        <seg>Al momento della selezione di uno sfondo di presentazione nella finestra Anteprima sarà visibile un'anteprima del modello di diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
