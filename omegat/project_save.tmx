@@ -3544,6 +3544,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Delete Slide&lt;/f0&gt; – deletes the selected slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T151731Z" creationid="Elisabetta Manuele" creationdate="20181128T151731Z">
+        <seg>&lt;f0&gt;Elimina diapositiva&lt;/f0&gt;: consente di eliminare la diapositiva selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Delete the sample formula and i&lt;/f0&gt;nsert your formula as an object &lt;f1&gt;in the left column&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T132945Z">
@@ -5616,6 +5624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Rename Slide&lt;/f0&gt; – allows you to rename the selected slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T151805Z" creationid="Elisabetta Manuele" creationdate="20181128T151805Z">
+        <seg>&lt;f0&gt;Rinomina diapositiva&lt;/f0&gt;: consente di rinominare la diapositiva selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Replace the braces using the commands &lt;/f0&gt;&lt;f1&gt;lbrace&lt;/f1&gt;&lt;f2&gt; and &lt;/f2&gt;&lt;f3&gt;rbrace&lt;/f3&gt;&lt;f4&gt; in the markup language.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T104948Z">
@@ -6056,10 +6072,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Slide Layout&lt;/f0&gt; – allows you to change the layout of the selected slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T151836Z" creationid="Elisabetta Manuele" creationdate="20181128T151836Z">
+        <seg>&lt;f0&gt;Layout diapositiva&lt;/f0&gt;: consente di modificare il layout della diapositiva selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Slide Sorter&lt;/f0&gt; view (Figure &lt;t1&gt;132&lt;/t1&gt;) contains all of the slide thumbnails.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T120936Z" creationid="Elisabetta Manuele" creationdate="20181128T120936Z">
         <seg>La vista &lt;f0&gt;Ordine diapositive&lt;/f0&gt; (Figura &lt;t1&gt;132&lt;/t1&gt;) riporta tutte le miniature delle diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Slide Transition&lt;/f0&gt; – allows you to change the transition of one or a group of selected slides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T151911Z" creationid="Elisabetta Manuele" creationdate="20181128T151911Z">
+        <seg>&lt;f0&gt;Cambio diapositiva&lt;/f0&gt;: consente di modificare la transizione di una o più diapositive selezionate.</seg>
       </tuv>
     </tu>
     <tu>
