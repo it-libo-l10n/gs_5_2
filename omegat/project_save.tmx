@@ -21232,6 +21232,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;135&lt;/seq0&gt;: Selecting a slide design</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T162240Z" creationid="Elisabetta Manuele" creationdate="20181128T162240Z">
+        <seg>Figura &lt;seq0&gt;135&lt;/seq0&gt;: selezionare un modello diapositiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Remote Files dialog when connected to a server</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203115Z">
@@ -43377,6 +43385,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select how the presentation will be used under &lt;f0&gt;Select an output medium&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T162315Z" creationid="Elisabetta Manuele" creationdate="20181128T162315Z">
+        <seg>Indicate la destinazione d'uso della presentazione nell'area &lt;f0&gt;Scegli il mezzo per la presentazione&lt;/f0&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select if you want it printable or not, visible or hidden, or locked to prevent further changes or accidental edits.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T145458Z">
@@ -49911,6 +49927,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T214007Z">
         <seg>La finestra principale, a parte qualche dettaglio, è simile per tutti i componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The majority of presentations are created for computer screen display so it is recommended to select &lt;f1&gt;Screen&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T162356Z" creationid="Elisabetta Manuele" creationdate="20181128T162356Z">
+        <seg>Le presentazioni per lo più vengono create per la visualizzazione su schermo del computer, in tal caso selezionate &lt;f1&gt;Schermo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62165,6 +62189,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105157Z">
         <seg>Potete cambiare i margini direttamente dai righelli trascinandoli con il mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the page format at any time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T162416Z" creationid="Elisabetta Manuele" creationdate="20181128T162416Z">
+        <seg>Potete modificare il formato della pagina in qualsiasi momento.</seg>
       </tuv>
     </tu>
     <tu>
