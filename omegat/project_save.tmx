@@ -26696,6 +26696,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Slide &lt;/f0&gt;on the Menu bar and select &lt;f1&gt;New Page/Slide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171636Z" creationid="Elisabetta Manuele" creationdate="20181128T171636Z">
+        <seg>Accedete alla voce &lt;f0&gt;Diapositiva &lt;/f0&gt;sulla barra dei menu e selezionate la voce &lt;f1&gt;Nuova diapositiva&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Slide &gt; Hide Slide&lt;/f0&gt; on the Menu bar or right-click on the slide thumbnail and select &lt;f1&gt;Hide Slide&lt;/f1&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085951Z">
@@ -39037,6 +39045,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070016Z">
         <seg>Oppure, fate clic sul nome della tabella e poi fate clic su &lt;f0&gt;Aggiungi&lt;/f0&gt; per ogni tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or, right-click in an empty space in the Workspace and select &lt;f0&gt;Slide &gt; New Slide&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171811Z" creationid="Elisabetta Manuele" creationdate="20181128T171811Z">
+        <seg>O ancora, fate clic con il pulsante destro del mouse in uno spazio vuoto dell'Area di lavoro e scegliete la voce &lt;f0&gt;Diapositiva &gt; Nuova diapositiva&lt;/f0&gt; dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or, right-click on a slide in the Slides Pane or Slide Sorter view and select &lt;f0&gt;New Slide&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171737Z" creationid="Elisabetta Manuele" creationdate="20181128T171737Z">
+        <seg>In alternativa selezionate con il pulsante destro del mouse la miniatura di una diapositiva nel riquadro Diapositive, oppure, nella vista Ordine diapositive, scegliete la voce &lt;f0&gt;Nuova diapositiva&lt;/f0&gt; dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
