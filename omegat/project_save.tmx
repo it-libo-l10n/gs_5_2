@@ -10481,6 +10481,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although you can make changes as you go, you will save a lot of time by having an initial idea of who the audience will be, the structure, the content, and how the presentation will be delivered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T152522Z" creationid="Elisabetta Manuele" creationdate="20181128T152522Z">
+        <seg>Sebbene sia possibile apportare modifiche in corso di esecuzione, formarsi un'idea del pubblico di riferimento, della struttura, del contenuto, della modalità di presentazione, vi farà risparmiare parecchio tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although you can use &lt;f0&gt;Tools &gt; Macros &gt; Run Macro&lt;/f0&gt; to run all macros, this is not efficient for frequently run macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T092750Z">
@@ -49123,6 +49131,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first thing to do is decide on the purpose of the presentation and set out a plan.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T152442Z" creationid="Elisabetta Manuele" creationdate="20181128T152442Z">
+        <seg>Il primo passo consiste nel decidere lo scopo della presentazione e la sua pianificazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following examples of common use of page and paragraph styles are taken from Writer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143918Z">
@@ -66077,6 +66093,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102725Z">
         <seg>poligono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>presentation wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T152553Z" creationid="Elisabetta Manuele" creationdate="20181128T152553Z">
+        <seg>procedura guidata presentazione</seg>
       </tuv>
     </tu>
     <tu>
