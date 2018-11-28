@@ -31424,6 +31424,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In step 1, under &lt;f0&gt;Type&lt;/f0&gt;, choose one of the options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T152815Z" creationid="Elisabetta Manuele" creationdate="20181128T152730Z">
+        <seg>Al punto 1, nell'area &lt;f0&gt;Tipo&lt;/f0&gt;, scegliete una delle opzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In that mode you must know the HTML markup language.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T191800Z">
@@ -51795,6 +51803,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These options are covered in the &lt;f1&gt;Impress Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T152833Z" creationid="Elisabetta Manuele" creationdate="20181128T152741Z">
+        <seg>descritte nella &lt;f1&gt;Guida a Impress&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These options are for macro programmers and are not discussed here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T071621Z">
@@ -60397,6 +60413,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T182210Z" creationid="Elisabetta Manuele" creationdate="20181126T182210Z">
         <seg>Al primo avvio di Impress solitamente compare la Presentazione guidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you start Impress, &lt;i0/&gt;the &lt;i1/&gt;Presentation Wizard may appear (Figure &lt;t2&gt;134&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T152651Z" creationid="Elisabetta Manuele" creationdate="20181128T152651Z">
+        <seg>All'avvio di Impress solitamente compare &lt;i0/&gt;la&lt;i1/&gt; Presentazione guidata (figura &lt;t2&gt;134&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
