@@ -39081,6 +39081,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Or, click on the triangle to the right of the &lt;f0&gt;Slide&lt;/f0&gt; icon in the Presentation toolbar and select &lt;f1&gt;Duplicate Page/Slide&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T181439Z" creationid="Elisabetta Manuele" creationdate="20181128T181439Z">
+        <seg>O infine, fate clic sul triangolo a destra dell'icona &lt;f0&gt;Diapositiva&lt;/f0&gt; nella barra degli strumenti Presentazione e selezionate &lt;f1&gt;Duplica diapositiva&lt;/f1&gt; dal menu a discesa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or, for each table, click the name of the table and then click &lt;f0&gt;Add&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T070016Z">
@@ -39101,6 +39109,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171737Z" creationid="Elisabetta Manuele" creationdate="20181128T171737Z">
         <seg>In alternativa selezionate con il pulsante destro del mouse la miniatura di una diapositiva nel riquadro Diapositive, oppure, nella vista Ordine diapositive, scegliete la voce &lt;f0&gt;Nuova diapositiva&lt;/f0&gt; dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or, right-click on a slide in the Workspace and select &lt;f0&gt;Slide &gt; Duplicate Slide&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T181240Z" creationid="Elisabetta Manuele" creationdate="20181128T181240Z">
+        <seg>O ancora, fate clic con il pulsante destro del mouse in uno spazio vuoto dell'Area di lavoro e scegliete la voce &lt;f0&gt;Diapositiva &gt; Duplica diapositiva&lt;/f0&gt; dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or, right-click on the slide in the Slides Pane or Slide Sorter view and select &lt;f0&gt;Duplicate Slide&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T181215Z" creationid="Elisabetta Manuele" creationdate="20181128T181215Z">
+        <seg>In alternativa selezionate con il pulsante destro del mouse la miniatura di una diapositiva nel riquadro Diapositive, oppure, nella vista Ordine diapositive, scegliete la voce &lt;f0&gt;Duplica diapositiva&lt;/f0&gt; dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
