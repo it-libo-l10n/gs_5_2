@@ -5208,6 +5208,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;New Slide&lt;/f0&gt; – adds a new slide after the selected slide (see “&lt;bf1&gt;New slide&lt;/bf1&gt;” on page &lt;bf2&gt;165&lt;/bf2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T151436Z" creationid="Elisabetta Manuele" creationdate="20181128T151436Z">
+        <seg>&lt;f0&gt;Nuova diapositiva&lt;/f0&gt;: consente di aggiungere una nuova diapositiva dopo quella selezionata (vd. &lt;bf1&gt;Nuova diapositiva&lt;/bf1&gt; a pagina &lt;bf2&gt;165&lt;/bf2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;New design&lt;/f0&gt; – creates a new design in the next pages of the Wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T211141Z">
