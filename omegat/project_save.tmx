@@ -9649,6 +9649,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adjust the number of slides (up to a maximum of 15).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T150244Z" creationid="Elisabetta Manuele" creationdate="20181128T150244Z">
+        <seg>Definite il numero di diapositive (fino ad un massimo di 15).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adjusting &lt;f0&gt;formula &lt;/f0&gt;spacing</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180906T122740Z">
@@ -26596,6 +26604,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T070941Z">
         <seg>Andate su &lt;f0&gt;Visualizza &gt; Barre degli strumenti &gt; Modo&lt;/f0&gt; e selezionate l'icona Ruota &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; and select &lt;f1&gt;Slide Sorter&lt;/f1&gt; and &lt;f2&gt;Slide View&lt;/f2&gt; to show or hide the Slide Sorter and Slide View toolbars (Figure &lt;t3&gt;133&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T150213Z" creationid="Elisabetta Manuele" creationdate="20181128T150213Z">
+        <seg>Accedete al menu &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt; e selezionate le voci &lt;f1&gt;Ordine diapositive&lt;/f1&gt; e &lt;f2&gt;Vista diapositiva&lt;/f2&gt; per rendere visibili o nascondere le omonime barre degli strumenti (Figura &lt;t3&gt;133&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53785,6 +53801,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084924Z">
         <seg>Per modificare il numero minimo di caratteri per la sillabazione, &lt;f0&gt;o&lt;/f0&gt; il numero minimo di caratteri prima &lt;f1&gt;o dopo &lt;/f1&gt;una interruzione di riga, selezionate l'elemento, quindi fate clic sul pulsante &lt;f2&gt;Modifica&lt;/f2&gt; nella sezione Opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the number of slides per row:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T150051Z" creationid="Elisabetta Manuele" creationdate="20181128T150051Z">
+        <seg>Per modificare il numero di diapositive per riga:</seg>
       </tuv>
     </tu>
     <tu>
