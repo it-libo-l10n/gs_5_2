@@ -15718,6 +15718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Notes&lt;/f0&gt; tab in the Workspace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T114031Z" creationid="Elisabetta Manuele" creationdate="20181128T114031Z">
+        <seg>Fate clic sulla scheda &lt;f0&gt;Note&lt;/f0&gt; nell'Area di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Options&lt;/f0&gt; button on the Spelling and Grammar dialog to open a dialog similar to the one in &lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; Writing Aids&lt;/f1&gt; described in Chapter 2.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T064728Z">
@@ -20980,6 +20988,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T193030Z" creationid="Elisabetta Manuele" creationdate="20181127T193030Z">
         <seg>Figura &lt;seq0&gt;128&lt;/seq0&gt;: frecce dei livelli di struttura e di movimento nella barra strumenti Formattazione testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;129&lt;/seq0&gt;: Notes view</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T113956Z" creationid="Elisabetta Manuele" creationdate="20181128T113956Z">
+        <seg>Figura &lt;seq0&gt;129&lt;/seq0&gt;: vista Note</seg>
       </tuv>
     </tu>
     <tu>
@@ -43793,6 +43809,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the slide to which you want to add notes: click the slide in the Slides pane, or double-click the slide name in the Navigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T114126Z" creationid="Elisabetta Manuele" creationdate="20181128T114126Z">
+        <seg>Selezionate la diapositiva alla quale aggiungere note con un clic all'interno del riquadro Diapositive o con un doppio clic all'interno del Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the slide you want to hide in the Slide Pane or Slide Sorter view on the Workspace area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085951Z">
@@ -51487,6 +51511,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T121527Z">
         <seg>Queste modifiche non cambiano il tema; cambiano soltanto l'aspetto dello stile all'interno del foglio elettronico che state creando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These notes are for your information and are not seen by the audience when the presentation is shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T113924Z" creationid="Elisabetta Manuele" creationdate="20181128T113924Z">
+        <seg>Le note sono a titolo informativo e non sono visibili al pubblico durante la presentazione.</seg>
       </tuv>
     </tu>
     <tu>
