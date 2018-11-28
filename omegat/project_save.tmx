@@ -26304,6 +26304,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Insert &gt; Page Number,&lt;/f0&gt; &lt;f1&gt;Insert &gt; Fields, or Insert &gt; Header and Footer&lt;/f1&gt; on the Menu bar and the Header and Footer dialog opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T120554Z" creationid="Elisabetta Manuele" creationdate="20181128T120554Z">
+        <seg>Accedete alle voci &lt;f0&gt;Inserisci &gt; Numero diapositiva&lt;/f0&gt;, o &lt;f1&gt;Comando di campo, oppure Intestazione e piè di pagina&lt;/f1&gt; nella Barra dei menu per aprire la finestra di dialogo Intestazione e piè di pagina. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Modify &gt; Group&lt;/f0&gt; on the Menu bar, or right-click on the selection and select &lt;f1&gt;Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Ctrl+Shift+G&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T173025Z">
@@ -40277,6 +40285,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T150416Z">
         <seg>Ripristina l'ultima operazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Refer to Chapter 10, Printing, E-mailing, Exporting, and Saving Slide Shows, &lt;f0&gt;in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Impress Guide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;for instructions on printing slides, handouts, and notes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T120444Z" creationid="Elisabetta Manuele" creationdate="20181128T120444Z">
+        <seg>Per istruzioni sulla stampa di diapositive, stampati e note fate riferimento al Capitolo 10 (Stampa, invio tramite e-mail, esportazione e salvataggio delle presentazioni), &lt;f0&gt;della &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Guida a Impress&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
