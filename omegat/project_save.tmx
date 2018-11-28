@@ -30824,6 +30824,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General &gt; Help&lt;/f0&gt;, select the &lt;f1&gt;Extended tips&lt;/f1&gt; option to get more detailed tooltip information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T184404Z" creationid="Elisabetta Manuele" creationdate="20181128T184404Z">
+        <seg>In &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale &gt; Guida&lt;/f0&gt;, selezionate l'opzione &lt;f1&gt;Guida attiva&lt;/f1&gt; per ottenere informazioni più dettagliate sulla descrizione degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Security &gt; Options&lt;/f0&gt;, you can set LibreOffice to remind (warn) you when files contain certain information and remove personal information automatically on saving.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T184542Z" creationid="Alessia Mazzarini" creationdate="20181111T184542Z">
@@ -57003,6 +57011,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T142643Z">
         <seg>Per visualizzare l'aiuto per Basic, scegliete &lt;f1&gt;LibreOffice Basic&lt;/f1&gt; dal menu a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To view the names for the included layouts, use the Tooltip feature: position the cursor on an icon in the Layout section (or on any toolbar icon) and its name will be displayed in a small rectangle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T184310Z" creationid="Elisabetta Manuele" creationdate="20181128T184310Z">
+        <seg>Per visualizzare i nomi dei layout inclusi fate ricorso alla funzione Suggerimento posizionando il puntatore su un'icona della sezione Layout (o su una icona qualsiasi delle barre strumenti) il cui nome verrà riportato in un piccolo rettangolo.</seg>
       </tuv>
     </tu>
     <tu>
