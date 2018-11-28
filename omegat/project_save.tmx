@@ -30256,6 +30256,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to use one of these other than &lt;Original&gt;, click it to select it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153922Z" creationid="Elisabetta Manuele" creationdate="20181128T153922Z">
+        <seg>Se preferite avvalervi di uno di questi, piuttosto che di quella &lt;Originale&gt;, fate clic per selezionarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want your new style to be linked with an existing style, first select that style and then right-click and select &lt;f0&gt;New&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063429Z">
@@ -51255,6 +51263,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155152Z">
         <seg>Il tipo di pagamento include due carte di credito e il contante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The types of Presentation Backgrounds are shown in Figure &lt;t0&gt;135&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153930Z" creationid="Elisabetta Manuele" creationdate="20181128T153930Z">
+        <seg>&lt;f0&gt;I diversi tipi di &lt;/f0&gt;&lt;f1&gt;Sfondi di presentazione&lt;/f1&gt;&lt;f2&gt; sono mostrati in &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figura 149&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
