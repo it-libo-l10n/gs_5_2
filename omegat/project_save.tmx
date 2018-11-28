@@ -48035,6 +48035,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Screen page is set by default for a 4:3 display (28cm x 21cm) so it is not suitable for modern widescreen displays.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T162640Z" creationid="Elisabetta Manuele" creationdate="20181128T162640Z">
+        <seg>La pagina Schermo prevede una impostazione predefinita adatta a uno schermo con rapporto 4:3 (28 x 21 cm), quindi non compatibile con un moderno widescreen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Sidebar (Figure &lt;t1&gt;8&lt;/t1&gt;) is located on the right side of the edit views of Writer, Calc, Impress, and Draw.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T221125Z">
@@ -57828,6 +57836,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T074200Z">
         <seg>Pe regolare la distanza tra gli elementi della formula usate la finestra di dialogo Spaziatura (&lt;f0&gt;Figura &lt;/f0&gt;&lt;t1&gt;277&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the Widescreen option instead.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T162732Z" creationid="Elisabetta Manuele" creationdate="20181128T162732Z">
+        <seg>per il quale invece è preferibile utilizzare l'opzione Schermo largo.</seg>
       </tuv>
     </tu>
     <tu>
