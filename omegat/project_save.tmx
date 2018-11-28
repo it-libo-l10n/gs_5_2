@@ -3792,6 +3792,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Empty presentation&lt;/f0&gt; creates a blank presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T152935Z" creationid="Elisabetta Manuele" creationdate="20181128T152935Z">
+        <seg>&lt;f0&gt;Presentazione vuota&lt;/f0&gt;, con cui viene creata una nuova presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;End Value&lt;/f0&gt; – determines the end value for the series.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T212744Z">
@@ -4276,6 +4284,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215313Z">
         <seg>&lt;f0&gt;Dalla riga&lt;/f0&gt; – specifica la riga  a partire dalla quale volete iniziare l'importazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;From template&lt;/f0&gt; uses a template design already created as the basis for a new presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153021Z" creationid="Elisabetta Manuele" creationdate="20181128T153021Z">
+        <seg>&lt;f0&gt;Da modello&lt;/f0&gt;, con cui si utilizza un modello già creato come base per una nuova presentazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5404,6 +5420,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T125918Z">
         <seg>&lt;f0&gt;Aprite un documento usando &lt;/f0&gt; &lt;f1&gt;Writer, Calc, Draw o Impress.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Open existing presentation&lt;/f0&gt; continues work on a previously created presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153157Z" creationid="Elisabetta Manuele" creationdate="20181128T153157Z">
+        <seg>&lt;f0&gt;Apri presentazione esistente&lt;/f0&gt;, con cui è possibile continuare il lavoro su una presentazione creata in precedenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13863,6 +13887,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T123138Z">
         <seg>Scegliete la combinazione di tasti a cui volete assegnare uno stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the template you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153126Z" creationid="Elisabetta Manuele" creationdate="20181128T153126Z">
+        <seg>Scegliete il modello desiderato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51263,6 +51295,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T210136Z">
         <seg>Le pagine web create useranno i valori predefiniti per le impostazioni nelle quali non avete modificato nulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The wizard changes to show a list of available templates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153039Z" creationid="Elisabetta Manuele" creationdate="20181128T153039Z">
+        <seg>La procedura guidata si modifica per visualizzare un elenco di modelli disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The wizard changes to show a list of existing presentations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153223Z" creationid="Elisabetta Manuele" creationdate="20181128T153223Z">
+        <seg>La procedura guidata si modifica per visualizzare un elenco di presentazioni esistenti.</seg>
       </tuv>
     </tu>
     <tu>
