@@ -8673,6 +8673,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A duplicate slide is inserted after the selected slide in the presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T181612Z" creationid="Elisabetta Manuele" creationdate="20181128T181612Z">
+        <seg>Le diapositive duplicate vengono inserite dopo la diapositiva selezionata nella presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A few examples of the drawing functions are: layer management, magnetic grid-point system, dimensions and measurement display, connectors for making organization charts, 3D functions that enable small three-dimensional drawings to be created (with texture and lighting effects), drawing and page-style integration, and Bézier curves.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060646Z">
@@ -28888,6 +28896,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Presentation toolbar is not visible, go to &lt;f2&gt;View &gt; Toolbars&lt;/f2&gt; on the Menu bar and select &lt;f3&gt;Presentation&lt;/f3&gt; from the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T181545Z" creationid="Elisabetta Manuele" creationdate="20181128T181545Z">
+        <seg>Se la barra degli strumenti Presentazione non è visibile, accedete alla voce &lt;f2&gt;Visualizza &gt; Barre degli strumenti&lt;/f2&gt; nella Barra dei menu e selezionate &lt;f3&gt;Presentazione&lt;/f3&gt; dall'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Presentation toolbar is not visible, go to &lt;f3&gt;View &gt; Toolbars&lt;/f3&gt; on the Menu bar and select &lt;f4&gt;Presentation&lt;/f4&gt; from the list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T180528Z" creationid="Elisabetta Manuele" creationdate="20181128T180528Z">
@@ -44761,6 +44777,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting slide layout</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T181638Z" creationid="Elisabetta Manuele" creationdate="20181128T181638Z">
+        <seg>Scegliere il layout di una diapositiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting this option enables features that are not yet complete or contain known bugs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065548Z">
@@ -60073,6 +60097,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When creating a presentation, the first slide is normally a title slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T181711Z" creationid="Elisabetta Manuele" creationdate="20181128T181711Z">
+        <seg>La prima diapositiva di una presentazione in fase di creazione, solitamente è una diapositiva introduttiva con un titolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When creating a table, you also determine the characteristics of each field within it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152633Z">
@@ -63605,6 +63637,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T061813Z">
         <seg>Potete utilizzare qualsiasi colore presente nella Tabella Colori in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Colori&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use either a blank layout or one of the title layouts as your title slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T181735Z" creationid="Elisabetta Manuele" creationdate="20181128T181735Z">
+        <seg>Per la diapositiva introduttiva potete optare per un layout vuoto o per uno tra quelli previsti per i titoli.</seg>
       </tuv>
     </tu>
     <tu>
