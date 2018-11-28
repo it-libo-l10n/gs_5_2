@@ -21360,6 +21360,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;139&lt;/seq0&gt;: Available slide &lt;i1/&gt;layouts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T183622Z" creationid="Elisabetta Manuele" creationdate="20181128T183622Z">
+        <seg>Figura &lt;seq0&gt;139&lt;/seq0&gt;: &lt;i1/&gt;layout diapositiva disponibili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Remote Files dialog when connected to a server</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203115Z">
@@ -50053,8 +50061,8 @@
       <tuv lang="EN">
         <seg>The layouts included in LibreOffice range from a blank slide to a slide with six contents boxes and a title.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T182712Z" creationid="Elisabetta Manuele" creationdate="20181128T182712Z">
-        <seg>I layout variano da una diapositiva vuota a una con sei riquadri per i contenuti e un titolo.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T183539Z" creationid="Elisabetta Manuele" creationdate="20181128T182712Z">
+        <seg>La gamma di layout disponibili spazia dalla diapositiva vuota a quella con sei riquadri per i contenuti e un titolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67261,6 +67269,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090017Z">
         <seg>presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>slides</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T183546Z" creationid="Elisabetta Manuele" creationdate="20181128T183546Z">
+        <seg>diapositive</seg>
       </tuv>
     </tu>
     <tu>
