@@ -47289,6 +47289,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text and graphical elements can be readjusted at any time during the preparation of the presentation, but changing the layout of a slide that already contains some content can have an effect on the content format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T184131Z" creationid="Elisabetta Manuele" creationdate="20181128T184131Z">
+        <seg>Il testo e gli elementi grafici possono essere riadattati in qualsiasi momento durante la realizzazione della presentazione, ma la modifica del layout di una diapositiva che già include contenuti può avere effetti indesiderati sul loro formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text area</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183316Z" creationid="Elisabetta Manuele" creationdate="20181127T183316Z">
@@ -52031,6 +52039,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180922T142448Z">
         <seg>Perciò, se memorizzate le vostre macro nella libreria Standard, non potrete importarle in altri contenitori di libreria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, it is recommended that you pay particular attention to the layout you select to prevent any loss of content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T184211Z" creationid="Elisabetta Manuele" creationdate="20181128T184211Z">
+        <seg>Si consiglia quindi di porre particolare attenzione alla selezione del layout per evitare la perdita di contenuti.</seg>
       </tuv>
     </tu>
     <tu>
