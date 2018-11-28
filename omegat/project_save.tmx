@@ -13827,6 +13827,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose a design under &lt;f0&gt;Select a slide design&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153623Z" creationid="Elisabetta Manuele" creationdate="20181128T153623Z">
+        <seg>Scegliete un modello nell'area &lt;f0&gt;Selezione modello di diapositiva&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose spelling options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170004Z">
@@ -19804,6 +19812,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T184906Z">
         <seg>Ognuno di questi pannelli contiene un pulsante &lt;f0&gt;Altre opzioni&lt;/f0&gt;, che apre una finestra di dialogo contenente un maggior numero di opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each one has a list of choices for slide designs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153852Z" creationid="Elisabetta Manuele" creationdate="20181128T153638Z">
+        <seg>ciascuna delle quali visualizza un elenco di opzioni per i modelli di diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50871,6 +50887,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143714Z">
         <seg>Le dimensioni sono espresse nell'unità di misura corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The slide design section gives you two main choices: &lt;f1&gt;Presentation Backgrounds&lt;/f1&gt; and &lt;f2&gt;Presentations&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153752Z" creationid="Elisabetta Manuele" creationdate="20181128T153635Z">
+        <seg>L'area Modello di diapositiva delle guide offre due alternative principali: &lt;f1&gt;Sfondi di presentazione&lt;/f1&gt; e &lt;f2&gt;Presentazioni&lt;/f2&gt;,</seg>
       </tuv>
     </tu>
     <tu>
