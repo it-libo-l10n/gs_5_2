@@ -9009,10 +9009,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A new presentation contains only one empty slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171405Z" creationid="Elisabetta Manuele" creationdate="20181128T171405Z">
+        <seg>Una nuova presentazione contiene un'unica diapositiva vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A new selection is added to an existing selection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065714Z">
         <seg>Alla selezione esistente viene aggiunta una nuova selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A new slide can be inserted into a presentation as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171528Z" creationid="Elisabetta Manuele" creationdate="20181128T171528Z">
+        <seg>Una nuova diapositiva si può inserire in una presentazione come segue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25682,8 +25698,8 @@
       <tuv lang="EN">
         <seg>Formatting a presentation</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182059Z">
-        <seg>Formattazione di una presentazione</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171341Z">
+        <seg>Formattare una presentazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -32352,6 +32368,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this section we will start adding new slides and preparing them for the intended contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171433Z" creationid="Elisabetta Manuele" creationdate="20181128T171433Z">
+        <seg>In questa sezione inizieremo ad aggiungere nuove diapositive e a predisporle per il contenuto desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this step you give the fields their properties.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180725T062942Z">
@@ -32644,6 +32668,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T214404Z">
         <seg>Inserire nuovi fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserting slides</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171448Z" creationid="Elisabetta Manuele" creationdate="20181128T171448Z">
+        <seg>Inserimento di diapositive </seg>
       </tuv>
     </tu>
     <tu>
@@ -37045,6 +37077,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T201737Z">
         <seg>È possibile aggiungere nuove funzionalità tramite le estensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New slide</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171502Z" creationid="Elisabetta Manuele" creationdate="20181128T171502Z">
+        <seg>Nuova diapositiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -52151,6 +52191,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180927T144649Z">
         <seg>Queste due frecce modificano solo i numeri a sinistra della virgola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These two features are explained in more detail in &lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;Chapter 9, Slide Shows, &lt;f4&gt;in the &lt;/f4&gt;&lt;f5&gt;Impress Guide&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171329Z" creationid="Elisabetta Manuele" creationdate="20181128T171329Z">
+        <seg>Queste due funzioni sono illustrate più dettagliatamente nel &lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;Capitolo 9, Presentazioni, &lt;f4&gt;della &lt;/f4&gt;&lt;f5&gt;Guida a Impress&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
