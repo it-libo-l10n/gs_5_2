@@ -54084,10 +54084,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add text content, depending on the slide layout selected, click on &lt;f1&gt;Click to add text&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T183806Z" creationid="Elisabetta Manuele" creationdate="20181128T183806Z">
+        <seg>Per aggiungere contenuto testuale in base al layout della diapositiva selezionato, scegliete &lt;f1&gt;Fai clic per aggiungere testo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To adjust the deck width, drag on the left edge of the sidebar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T190148Z">
         <seg>Per regolare la larghezza del pannello, trascinate il bordo sinistro della barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To adjust the formatting of the title, subtitle or content modify the presentation style; see the &lt;f2&gt;Impress Guide Chapter 2 Using Slide Masters, Styles, and Templates&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T183900Z" creationid="Elisabetta Manuele" creationdate="20181128T183900Z">
+        <seg>Per adattare la formattazione del titolo o del sottotitolo, oppure modificare lo stile di presentazione del contenuto consultate il &lt;f2&gt;Capitolo 2 della Guida a Impress, Utilizzo di master di diapositiva, stili e modelli&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54721,6 +54737,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121247Z">
         <seg>Per creare un modello usando una procedura guidata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a title, if one of the title layouts has been selected, click on &lt;f0&gt;Click to add title &lt;/f0&gt;and then type the title text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T183735Z" creationid="Elisabetta Manuele" creationdate="20181128T183735Z">
+        <seg>Se è stato selezionato un layout per i titoli, scegliete &lt;f0&gt;Fai clic per aggiungere un titolo &lt;/f0&gt;e quindi digitate il testo del titolo per generarlo.</seg>
       </tuv>
     </tu>
     <tu>
