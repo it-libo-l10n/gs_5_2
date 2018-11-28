@@ -14251,6 +14251,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Create&lt;/f0&gt; and your new presentation is created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T170539Z" creationid="Elisabetta Manuele" creationdate="20181128T170539Z">
+        <seg>Fate clic su &lt;f0&gt;Crea&lt;/f0&gt; per generare la nuova presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Create&lt;/f0&gt; to populate the new table with the spreadsheet data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093110Z" creationid="manuel" creationdate="20181009T093110Z">
@@ -21264,6 +21272,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;136&lt;/seq0&gt;: Selecting a slide transition effect</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T170442Z" creationid="Elisabetta Manuele" creationdate="20181128T170442Z">
+        <seg>Figura &lt;seq0&gt;136&lt;/seq0&gt;: selezionare un effetto di transizione tra le diapositive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Remote Files dialog when connected to a server</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203115Z">
@@ -24152,6 +24168,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For details on the choices under Automatic, see the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T170419Z" creationid="Elisabetta Manuele" creationdate="20181128T170419Z">
+        <seg>Per ulteriori informazioni sulle opzioni disponibili per Automatico, consultate la &lt;f0&gt;Guida di Impress&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For details on the contents and use of these fields, see &lt;f2&gt;Chapter 1 Introducing LibreOffice&lt;/f2&gt; in this guide and the &lt;f3&gt;Impress Guide Chapter 1 Introducing Impress&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183003Z" creationid="Elisabetta Manuele" creationdate="20181127T183003Z">
@@ -25468,6 +25492,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150920Z">
         <seg>Per ulteriori utilizzi del Navigatore in Writer, consultate la &lt;f0&gt;Guida a Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For most purposes, choose Default; you can change this later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T170337Z" creationid="Elisabetta Manuele" creationdate="20181128T170337Z">
+        <seg>Selezionate Predefinito come opzione valida praticamente per tutti gli usi, è possibile modificarla in un secondo momento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29484,6 +29516,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203126Z">
         <seg>Se non avete associato i tipi di file e Microsoft Office è installato sul vostro computer, allora,, quando farete doppio clic su un file di Microsoft Office, questo si aprirà usando il componente appropriato di Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you did not select a template in step 1 of the Presentation Wizard, then steps 4 and 5 will not appear after step 3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T170515Z" creationid="Elisabetta Manuele" creationdate="20181128T170515Z">
+        <seg>Se non è stato selezionato un modello nel punto 1 della Presentazione guidata, i punti 4 e 5 non saranno visibili dopo il punto 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44077,6 +44117,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T163303Z">
         <seg>In &lt;f0&gt;Inserisci prima&lt;/f0&gt; selezionate il punto in cui volete posizionare il foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the presentation type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T170304Z" creationid="Elisabetta Manuele" creationdate="20181128T170304Z">
+        <seg>Scegliete il tipo di presentazione.</seg>
       </tuv>
     </tu>
     <tu>
