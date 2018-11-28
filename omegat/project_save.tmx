@@ -21200,6 +21200,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;134&lt;/seq0&gt;: Choosing the type of presentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153303Z" creationid="Elisabetta Manuele" creationdate="20181128T153303Z">
+        <seg>Figura &lt;seq0&gt;134&lt;/seq0&gt;: scegliere il tipo di presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Remote Files dialog when connected to a server</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203115Z">
@@ -23476,6 +23484,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081054Z">
         <seg>La Figura &lt;t0&gt;84&lt;/t0&gt; illustra un esempio di un testo con commenti inseriti da due diversi autori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t1&gt;135&lt;/t1&gt; shows the &lt;f2&gt;Presentation&lt;/f2&gt; Wizard step 2 as it appears if you selected Empty Presentation at step 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153429Z" creationid="Elisabetta Manuele" creationdate="20181128T153429Z">
+        <seg>La Figura &lt;t1&gt;135&lt;/t1&gt; illustra il secondo punto della &lt;f2&gt;Presentazione&lt;/f2&gt; guidata, come appare selezionando l'opzione Presentazione vuota al primo punto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30020,6 +30036,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180920T064324Z">
         <seg>Se selezionate &lt;f0&gt;Bitmap&lt;/f0&gt; e &lt;f1&gt;Cielo&lt;/f1&gt; from the Bitmap list, il formulario dovrebbe assomigliare a quello in Figura &lt;t2&gt;234&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you selected &lt;f3&gt;From template&lt;/f3&gt;, an example slide is shown in the Preview box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153523Z" creationid="Elisabetta Manuele" creationdate="20181128T153523Z">
+        <seg>Scegliendo l’opzione &lt;f3&gt;Da modello&lt;/f3&gt;, nel riquadro Anteprima viene visualizzata un diapositiva d'esempio.</seg>
       </tuv>
     </tu>
     <tu>
