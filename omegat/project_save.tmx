@@ -15840,8 +15840,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;f1&gt;Handout&lt;/f1&gt; tab in the workspace and the &lt;f2&gt;Layouts&lt;/f2&gt; section opens on the Sidebar (Figure &lt;t3&gt;130&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T114845Z" creationid="Elisabetta Manuele" creationdate="20181128T114845Z">
-        <seg>Fate clic sulla scheda &lt;f1&gt;Stampato&lt;/f1&gt; nell'Area di lavoro e si aprirà la sezione Layout all'interno della Barra laterale (figura 130).</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T115218Z" creationid="Elisabetta Manuele" creationdate="20181128T114845Z">
+        <seg>Fate clic sulla scheda &lt;f1&gt;Stampato&lt;/f1&gt; nell'Area di lavoro e si aprirà la sezione &lt;f2&gt;Layout&lt;/f2&gt; all'interno della Barra laterale (figura &lt;t3&gt;130&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27024,6 +27024,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can choose to print 1, 2, 3, 4, 6, or 9 slides per page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T115234Z" creationid="Elisabetta Manuele" creationdate="20181128T115234Z">
+        <seg>Potete scegliere di stampare una, due, tre, quattro, sei o nove diapositive per pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can delete the different aspects of the data in the cell or to delete everything in the cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094055Z">
@@ -28460,6 +28468,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220128Z">
         <seg>Se la Barra di calcolo non è visibile, nella Barra del menu andate in &lt;f5&gt;Visualizza&lt;/f5&gt; e selezionate &lt;f6&gt;Barra di calcolo&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Layouts section does not open, then click on the Properties icon &lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt; at the side of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T115321Z" creationid="Elisabetta Manuele" creationdate="20181128T115321Z">
+        <seg>In caso di mancata apertura della sezione Layout fate clic sull'icona Proprietà, &lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt; a fianco della Barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57604,6 +57620,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T163110Z" creationid="manuel" creationdate="20181015T163110Z">
         <seg>Create una frase di questo tipo: “Il giorno (data), la colazione del costo di (costo) è stata pagata da (nome), il pranzo del costo di (costo) è stato pagato da (nome), e la cena del costo di (costo) è stata pagata da (nome)." Però digitate solamente &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this view also to customize the information printed on the handout.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T115343Z" creationid="Elisabetta Manuele" creationdate="20181128T115343Z">
+        <seg>Questa vista è utile anche per personalizzare le informazioni da inserire nello stampato.</seg>
       </tuv>
     </tu>
     <tu>
