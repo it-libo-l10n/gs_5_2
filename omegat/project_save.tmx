@@ -15838,6 +15838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f1&gt;Handout&lt;/f1&gt; tab in the workspace and the &lt;f2&gt;Layouts&lt;/f2&gt; section opens on the Sidebar (Figure &lt;t3&gt;130&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T114845Z" creationid="Elisabetta Manuele" creationdate="20181128T114845Z">
+        <seg>Fate clic sulla scheda &lt;f1&gt;Stampato&lt;/f1&gt; nell'Area di lavoro e si aprirà la sezione Layout all'interno della Barra laterale (figura 130).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f1&gt;More Options&lt;/f1&gt; button to open the Format Cells dialog described above.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T125522Z">
