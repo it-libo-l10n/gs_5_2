@@ -26760,6 +26760,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Slide&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Duplicate Page/Slide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T181119Z" creationid="Elisabetta Manuele" creationdate="20181128T181119Z">
+        <seg>Accedete alla voce &lt;f0&gt;Diapositiva &lt;/f0&gt; sulla barra dei menu e selezionate la voce &lt;f1&gt;Duplica diapositiva&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Tools &gt; Cell Contents &gt; AutoCalculate&lt;/f0&gt; on the Menu bar to enable this feature.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T122024Z">
@@ -44397,6 +44405,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T114126Z" creationid="Elisabetta Manuele" creationdate="20181128T114126Z">
         <seg>Selezionate la diapositiva alla quale aggiungere note con un clic all'interno del riquadro Diapositive o con un doppio clic all'interno del Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the slide you want to duplicate from the Slides Pane.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T180834Z" creationid="Elisabetta Manuele" creationdate="20181128T180834Z">
+        <seg>Selezionate la diapositiva da duplicare nel Riquadro diapositive.</seg>
       </tuv>
     </tu>
     <tu>
