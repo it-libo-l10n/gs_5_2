@@ -50051,6 +50051,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The layouts included in LibreOffice range from a blank slide to a slide with six contents boxes and a title.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T182712Z" creationid="Elisabetta Manuele" creationdate="20181128T182712Z">
+        <seg>I layout variano da una diapositiva vuota a una con sei riquadri per i contenuti e un titolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The letter indicates the column and the number indicates the row of the selected cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220419Z">
