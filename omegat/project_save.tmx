@@ -21280,6 +21280,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;137&lt;/seq0&gt;: Entering information about your presentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T170722Z" creationid="Elisabetta Manuele" creationdate="20181128T170722Z">
+        <seg>Figura &lt;seq0&gt;137&lt;/seq0&gt;: inserire informazioni sulla presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Remote Files dialog when connected to a server</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203115Z">
@@ -28984,6 +28992,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the preview does not appear, select &lt;f2&gt;Preview&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T170858Z" creationid="Elisabetta Manuele" creationdate="20181128T170858Z">
+        <seg>Se non compare selezionate l'opzione &lt;f2&gt;Anteprima&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the report had more than one page, the page numbers could be put in a footer of each page, perhaps including the total number of pages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T112414Z" creationid="manuel" creationdate="20181015T112414Z">
@@ -31588,6 +31604,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T152815Z" creationid="Elisabetta Manuele" creationdate="20181128T152730Z">
         <seg>Al punto 1, nell'area &lt;f0&gt;Tipo&lt;/f0&gt;, scegliete una delle opzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In step 4 of the Presentation Wizard, you can enter information about your company and the presentation you are creating.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T170615Z" creationid="Elisabetta Manuele" creationdate="20181128T170615Z">
+        <seg>Al punto 4 della Presentazione guidata potete inserire informazioni sulla vostra azienda e sulla presentazione in fase di realizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In step 5, the Presentation Wizard shows a preview of what your presentation will look like (Figure &lt;t1&gt;138&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T170835Z" creationid="Elisabetta Manuele" creationdate="20181128T170835Z">
+        <seg>Al punto 5 è visibile un'anteprima dell'aspetto della presentazione (Figura &lt;t1&gt;138&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
