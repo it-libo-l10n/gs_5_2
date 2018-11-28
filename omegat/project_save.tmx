@@ -6048,6 +6048,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Slide Sorter&lt;/f0&gt; view (Figure &lt;t1&gt;132&lt;/t1&gt;) contains all of the slide thumbnails.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T120936Z" creationid="Elisabetta Manuele" creationdate="20181128T120936Z">
+        <seg>La vista &lt;f0&gt;Ordine diapositive&lt;/f0&gt; (Figura &lt;t1&gt;132&lt;/t1&gt;) riporta tutte le miniature delle diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Slide number&lt;/f0&gt; – the slide number currently displayed in the Workspace and the total number of slides in the presentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T190408Z" creationid="Elisabetta Manuele" creationdate="20181127T183912Z">
@@ -17631,6 +17639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customizing Slide Sorter view</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T121029Z" creationid="Elisabetta Manuele" creationdate="20181128T121029Z">
+        <seg>Personalizzare la vista Ordine diapositive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizing menu content</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151812Z">
@@ -21020,6 +21036,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T125254Z">
         <seg>Figura &lt;seq0&gt;12&lt;/seq0&gt;: configurazione di un Server remoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;130&lt;/seq0&gt;: Handout layouts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T120820Z" creationid="Elisabetta Manuele" creationdate="20181128T120820Z">
+        <seg>Figura &lt;seq0&gt;130&lt;/seq0&gt;: layout Stampati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;131&lt;/seq0&gt;: Header and Footer dialog – Notes and Handouts page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T120901Z" creationid="Elisabetta Manuele" creationdate="20181128T120901Z">
+        <seg>Figura &lt;seq0&gt;131&lt;/seq0&gt;: finestra di dialogo Intestazione e piè di pagina, scheda Note e stampati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;132&lt;/seq0&gt;: Slide Sorter view</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T121017Z" creationid="Elisabetta Manuele" creationdate="20181128T121017Z">
+        <seg>Figura &lt;seq0&gt;132&lt;/seq0&gt;: vista Ordine diapositive</seg>
       </tuv>
     </tu>
     <tu>
@@ -35505,6 +35545,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More details on how to use this dialog are provided in the &lt;f4&gt;Impress Guide&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T120804Z" creationid="Elisabetta Manuele" creationdate="20181128T120804Z">
+        <seg>Ulteriori informazioni sull'uso di questa finestra di dialogo sono disponibili nella &lt;f4&gt;Guida a Impress&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More memory can make LibreOffice faster and more convenient (for example, more undo steps require more memory); but less memory &lt;f0&gt;is &lt;/f0&gt;available for other applications.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T081907Z">
@@ -45037,6 +45085,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T073551Z">
         <seg>Inclinare un oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide Sorter view</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T120912Z" creationid="Elisabetta Manuele" creationdate="20181128T120912Z">
+        <seg>Vista Ordine diapositive</seg>
       </tuv>
     </tu>
     <tu>
@@ -57652,6 +57708,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191545Z" creationid="Elisabetta Manuele" creationdate="20181127T191545Z">
         <seg>Consente di formattare e strutturare le diapositive, di aggiungere testo, immagini ed effetti di animazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this view to work with a group of slides or with only one slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T121002Z" creationid="Elisabetta Manuele" creationdate="20181128T121002Z">
+        <seg>Questa visualizzazione consente di gestire una sola diapositiva oppure un gruppo.</seg>
       </tuv>
     </tu>
     <tu>
