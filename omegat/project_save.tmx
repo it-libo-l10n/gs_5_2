@@ -4480,6 +4480,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Handout view&lt;/f0&gt; is for setting up the layout of your slide for a printed handout.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T114748Z" creationid="Elisabetta Manuele" creationdate="20181128T114748Z">
+        <seg>La &lt;f0&gt;vista Stampati&lt;/f0&gt; consente di impostare il layout della diapositiva per poterla stampare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Handouts&lt;/f0&gt; prints the slides in reduced size on the page, from one to nine slides per page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T204502Z" creationid="Alessia Mazzarini" creationdate="20181007T204502Z">
@@ -26812,6 +26820,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T072237Z">
         <seg>Se il rapporto elencasse le spese totali per ciascuno di questi campi, si dovrebbe anche creare una ricerca per avere questi totali, che va oltre lo scopo di questo capitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Handout view</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T114716Z" creationid="Elisabetta Manuele" creationdate="20181128T114716Z">
+        <seg>Vista Stampati</seg>
       </tuv>
     </tu>
     <tu>
@@ -54782,6 +54798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make changes in the text style, click on the Styles and Formatting icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T114713Z" creationid="Elisabetta Manuele" creationdate="20181128T114713Z">
+        <seg>Per apportare modifiche allo stile del testo, fate clic sull'icona Stili e formattazione &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; nella Barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make changes to the page order, drag and drop one or more pages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T095237Z">
@@ -61269,6 +61293,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T162315Z">
         <seg>Potete anche modificare gli stili usando il sottomenu su ogni stile nell'elenco Applica stile sulla barra degli strumenti Formattazione (si veda Figura&lt;t0&gt;49&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also move the box by placing the pointer on the border, then clicking and dragging.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T114626Z" creationid="Elisabetta Manuele" creationdate="20181128T114626Z">
+        <seg>e spostarlo posizionandovi il puntatore, quindi facendo clic e trascinandolo.</seg>
       </tuv>
     </tu>
     <tu>
