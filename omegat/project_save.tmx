@@ -9033,6 +9033,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A new slide is inserted after the selected slide in the presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T180555Z" creationid="Elisabetta Manuele" creationdate="20181128T180555Z">
+        <seg>Le nuove diapositive vengono inserite dopo la diapositiva selezionata nella presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A number format is not applied.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221924Z">
@@ -19584,6 +19592,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate slide</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T180608Z" creationid="Elisabetta Manuele" creationdate="20181128T180608Z">
+        <seg>Duplicare una diapositiva:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Duplication</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T145121Z">
@@ -28860,6 +28876,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104856Z">
         <seg>Se il riquadro Pagine non è visibile, andate in &lt;f1&gt;Visualizza&lt;/f1&gt; nella barra menu e selezionate &lt;f2&gt;Riquadro pagina&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Presentation toolbar is not visible, go to &lt;f3&gt;View &gt; Toolbars&lt;/f3&gt; on the Menu bar and select &lt;f4&gt;Presentation&lt;/f4&gt; from the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T180528Z" creationid="Elisabetta Manuele" creationdate="20181128T180528Z">
+        <seg>Se la barra degli strumenti Presentazione non è visibile, accedete alla voce &lt;f3&gt;Visualizza &gt; Barre degli strumenti&lt;/f3&gt; nella Barra dei menu e selezionate &lt;f4&gt;Presentazione&lt;/f4&gt; dall'elenco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46037,6 +46061,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085735Z">
         <seg>Alcune volte si agirà sull'intero controllo, altre volte solo sull'etichetta o sul campo, altre ancora su un gruppo di controlli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes, rather than starting from a new slide you may want to duplicate a slide already included in your presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T180759Z" creationid="Elisabetta Manuele" creationdate="20181128T180759Z">
+        <seg>Talvolta potreste voler duplicare una diapositiva già inserita, invece di cominciare con una nuova.</seg>
       </tuv>
     </tu>
     <tu>
