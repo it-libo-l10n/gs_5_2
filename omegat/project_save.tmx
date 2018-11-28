@@ -27368,6 +27368,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hold down the left mouse button and drag the cursor until all of the slides you want selected are highlighted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T151114Z" creationid="Elisabetta Manuele" creationdate="20181128T151114Z">
+        <seg>Tenete premuto il pulsante del mouse e trascinate il puntatore fino a evidenziare tutte le diapositive da selezionare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hold down the left mouse button and drag the mouse to move the margin.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T162214Z">
@@ -52963,6 +52971,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This selects all of the other slides between the first and the last slide selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T151003Z" creationid="Elisabetta Manuele" creationdate="20181128T151003Z">
+        <seg> In tal modo verranno selezionate tutte le diapositive comprese tra la prima e l'ultima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This setting is stored with the document and applies to all formulas within it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180912T123640Z">
@@ -54974,6 +54990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make changes, right-click a slide and choose any of the following from the context menu:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T151229Z" creationid="Elisabetta Manuele" creationdate="20181128T151229Z">
+        <seg>Per apportare modifiche, fate clic con il pulsante destro del mouse su una diapositiva e scegliete una delle seguenti voci dal menu contestuale:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make changes, select an item in the list shown in Figure &lt;t0&gt;21&lt;/t0&gt; and click &lt;f1&gt;Edit&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T070112Z">
@@ -55034,6 +55058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T182110Z">
         <seg>Per spostare una barra strumenti mobile, fate clic sulla sua barra del titolo e trascinatela in una nuova posizione oppure agganciatela in cima o in fondo alla finestra principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move a group of slides, select them and then drag and drop the group to their new location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T151130Z" creationid="Elisabetta Manuele" creationdate="20181128T151130Z">
+        <seg>Per spostare un gruppo di diapositive, selezionarle e trascinarle nella nuova posizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58528,6 +58560,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the mouse – click slightly to one side (left or right) of the first slide to be selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T151036Z" creationid="Elisabetta Manuele" creationdate="20181128T151036Z">
+        <seg>Tramite mouse: fate clic leggermente a lato (sinistro o destro) della prima diapositiva da selezionare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the mouse:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T123357Z">
@@ -60773,6 +60813,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105404Z">
         <seg>Lavorare &lt;i0/&gt;&lt;i1/&gt;con oggetti tridimensionali (3D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working in Slide Sorter view</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T151143Z" creationid="Elisabetta Manuele" creationdate="20181128T151143Z">
+        <seg>Vista Ordine diapositive</seg>
       </tuv>
     </tu>
     <tu>
@@ -63053,6 +63101,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142444Z">
         <seg>Potete verificare la selezione guardando la Casella del nome nella barra della formula (Figura &lt;t0&gt;87&lt;/t0&gt; a pagina &lt;t1&gt;115&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can work with slides in the Slide Sorter view just as you can in the Slide pane.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T151208Z" creationid="Elisabetta Manuele" creationdate="20181128T151208Z">
+        <seg>Potete elaborare le diapositive nella vista Ordine diapositive esattamente come nel riquadro Diapositive.</seg>
       </tuv>
     </tu>
     <tu>
