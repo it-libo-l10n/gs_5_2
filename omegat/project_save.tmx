@@ -3328,6 +3328,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Copy&lt;/f0&gt; – copies the selected slide to the clipboard without removing it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T152032Z" creationid="Elisabetta Manuele" creationdate="20181128T152032Z">
+        <seg>&lt;f0&gt;Copia&lt;/f0&gt;: consente di copiare la diapositiva selezionata negli appunti senza rimuoverla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Create &lt;/f0&gt;&lt;f1&gt;the&lt;/f1&gt;&lt;f2&gt; formula in your Writer &lt;/f2&gt;&lt;f3&gt;document.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180912T124334Z">
@@ -3476,6 +3484,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183745Z" creationid="Elisabetta Manuele" creationdate="20181127T183556Z">
         <seg>&lt;f0&gt;Posizione del puntatore&lt;/f0&gt;: indica la posizione del puntatore o dell'angolo superiore sinistro della selezione misurata dall'angolo superiore sinistro della diapositiva, seguita dalla larghezza e dall'altezza della selezione o della casella di testo in cui si trova il cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Cut&lt;/f0&gt; – removes the selected slide and saves it to the clipboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T152003Z" creationid="Elisabetta Manuele" creationdate="20181128T152003Z">
+        <seg>&lt;f0&gt;Taglia&lt;/f0&gt;: consente di rimuovere la diapositiva selezionata e di salvarla negli appunti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5508,6 +5524,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T090928Z">
         <seg>&lt;f0&gt;Incolla Appunti&lt;/f0&gt; – la pressione del pulsante centrale del mouse inserisce il contenuto degli “&lt;i1/&gt;Appunti di selezione” alla posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Paste&lt;/f0&gt; – inserts a slide from the clipboard after the selected slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T152114Z" creationid="Elisabetta Manuele" creationdate="20181128T152114Z">
+        <seg>&lt;f0&gt;Incolla&lt;/f0&gt;: consente di inserire una diapositiva precedentemente copiata negli appunti dopo la diapositiva selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17049,8 +17073,8 @@
       <tuv lang="EN">
         <seg>Creating a new presentation using the Presentation Wizard</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182053Z">
-        <seg>Creazione di una nuova presentazione tramite la Presentazione guidata</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T152132Z">
+        <seg>Creare una nuova presentazione tramite la Presentazione guidata</seg>
       </tuv>
     </tu>
     <tu>
@@ -52975,6 +52999,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T102608Z">
         <seg>Questa sezione descrive come creare nuove barre degli strumenti e aggiungere o rimuovere icone su quelle esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This section describes how to start a new presentation using the Presentation Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T152154Z" creationid="Elisabetta Manuele" creationdate="20181128T152154Z">
+        <seg>Questa sezione descrive come avviare una nuova presentazione tramite la Presentazione guidata.</seg>
       </tuv>
     </tu>
     <tu>
