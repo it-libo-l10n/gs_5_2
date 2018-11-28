@@ -6360,6 +6360,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;o create a summary of your presentation, select &lt;f1&gt;Create summary&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T170959Z" creationid="Elisabetta Manuele" creationdate="20181128T170959Z">
+        <seg>&lt;f0&gt;P&lt;/f0&gt;er creare un riepilogo della presentazione selezionate l'opzione &lt;f1&gt;Crea riepilogo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Table&lt;/f0&gt; – contains commands to insert and edit a table in a text document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180616T215210Z">
@@ -12062,6 +12070,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101551Z">
         <seg>Entrambi i metodi vi portano alla stessa scheda della finestra di dialogo Stile di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both of these values can be changed later while working with slide transitions and animations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171223Z" creationid="Elisabetta Manuele" creationdate="20181128T171223Z">
+        <seg>Entrambi i valori possono essere modificati in seguito, durante l'elaborazione delle transizioni di diapositive e le animazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21284,6 +21300,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T170722Z" creationid="Elisabetta Manuele" creationdate="20181128T170722Z">
         <seg>Figura &lt;seq0&gt;137&lt;/seq0&gt;: inserire informazioni sulla presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;138&lt;/seq0&gt;: Presentation preview</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T170925Z" creationid="Elisabetta Manuele" creationdate="20181128T170925Z">
+        <seg>Figura &lt;seq0&gt;138&lt;/seq0&gt;: anteprima della presentazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -61653,6 +61677,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150713Z">
         <seg>Potete &lt;i0/&gt;controllare i gradienti di trasparenza con lo stesso metodo utilizzato per i gradienti di colore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can accept the default values for both &lt;f0&gt;Effect&lt;/f0&gt; and &lt;f1&gt;Speed&lt;/f1&gt; unless you are skilled at creating presentations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171115Z" creationid="Elisabetta Manuele" creationdate="20181128T171115Z">
+        <seg>Potete accettare i valori predefiniti sia per &lt;f0&gt;Effetto&lt;/f0&gt; che per &lt;f1&gt;Velocità&lt;/f1&gt;, a meno che non siate esperti nella creazione di presentazioni.</seg>
       </tuv>
     </tu>
     <tu>
