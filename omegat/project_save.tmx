@@ -9241,6 +9241,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A slide contains elements that were included in the slide master, as well as those elements included in the selected slide layout.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T170547Z" creationid="Elisabetta Manuele" creationdate="20181129T170547Z">
+        <seg>Una diapositiva contiene elementi presenti nel master di diapositiva, come pure elementi inclusi nel layout della diapositiva selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A small box containing your initials appears in the upper left-hand corner of your drawing with a larger text box beside it (Figure &lt;t1&gt;207&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T103955Z">
@@ -21384,6 +21392,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;140&lt;/seq0&gt;: Selecting content type</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T170457Z" creationid="Elisabetta Manuele" creationdate="20181129T170457Z">
+        <seg>Figura &lt;seq0&gt;140&lt;/seq0&gt;: selezione del tipo di contenuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Navigator in Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130224Z">
@@ -28000,6 +28016,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, it is unlikely that the predefined layouts will suit all your needs for your presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T170622Z" creationid="Elisabetta Manuele" creationdate="20181129T170622Z">
+        <seg>Tuttavia è improbabile che i layout predefiniti soddisfino tutte le esigenze di presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, many additional transitions are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T181312Z" creationid="Elisabetta Manuele" creationdate="20181127T181312Z">
@@ -29980,6 +30004,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T104713Z">
         <seg>Se installate o aggiornate un Java Runtime Environment (JRE) dopo l'installazione di LibreOffice, o se avete più di un JRE installato, potete usare la pagina &lt;f0&gt;LibreOffice – Opzioni avanzate&lt;/f0&gt; per selezionare il JRE da usare con LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you intend to use the content box for text, click on &lt;f1&gt;Click to add text&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T170442Z" creationid="Elisabetta Manuele" creationdate="20181129T170442Z">
+        <seg>Se desiderate adattare il riquadro per contenuti testuali selezionate la stringa &lt;f1&gt;Fai clic per aggiungere testo&lt;/f1&gt;.&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35965,6 +35997,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T101358Z">
         <seg>Modifica delle voci del menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying slide elements</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T170502Z" creationid="Elisabetta Manuele" creationdate="20181129T170502Z">
+        <seg>Modificare gli elementi di una diapositiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -62705,6 +62745,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can choose the type of content by clicking on the corresponding icon that is displayed in the middle of the content box as shown in Figure &lt;t0&gt;140&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T170359Z" creationid="Elisabetta Manuele" creationdate="20181129T170359Z">
+        <seg>Potete scegliere il tipo di contenuti facendo clic sull'icona corrispondente visibile al centro del riquadro, come illustrato nella figura &lt;t0&gt;140&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can choose to show all styles or other groups of styles, for example only custom styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T140027Z">
@@ -64205,6 +64253,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T131857Z">
         <seg>Potrebbe capitarvi di voler annullare tutte le modifiche apportate nella sessione di lavoro dopo l'ultima volta che il documento è stato salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may want to remove elements that are not required or insert objects such as text and graphics.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T170654Z" creationid="Elisabetta Manuele" creationdate="20181129T170654Z">
+        <seg>Potete decidere di rimuovere elementi non necessari o inserire oggetti come testo e immagini.</seg>
       </tuv>
     </tu>
     <tu>
