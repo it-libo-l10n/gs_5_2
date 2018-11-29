@@ -13971,6 +13971,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose a predefined layout from the &lt;f0&gt;Layouts&lt;/f0&gt; section of the Sidebar and do not select any special content type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174610Z" creationid="Elisabetta Manuele" creationdate="20181129T174610Z">
+        <seg>Scegliete un layout predefinito dalla sezione &lt;f0&gt;Layout&lt;/f0&gt; della Barra laterale, ma nessun tipo di contenuto speciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose spelling options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170004Z">
@@ -17179,6 +17187,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T084244Z">
         <seg>Create sul vostro computer una cartella nella quale inserire le vostre formule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a text box using the &lt;f0&gt;Text&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Standard toolbar (Figure &lt;t3&gt;141&lt;/t3&gt;) or the Text toolbar (Figure &lt;t4&gt;142&lt;/t4&gt;), or use the keyboard shortcut &lt;f5&gt;F2&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174841Z" creationid="Elisabetta Manuele" creationdate="20181129T174841Z">
+        <seg>Create una casella di testo tramite l'icona &lt;f0&gt;Testo&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; sulla barra degli strumenti Standard (Figura &lt;t3&gt;141&lt;/t3&gt;), o sulla barra degli strumenti Testo (Figura &lt;t4&gt;142&lt;/t4&gt;), oppure servitevi del tasto di scelta rapida &lt;f5&gt;F2&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21484,6 +21500,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T170457Z" creationid="Elisabetta Manuele" creationdate="20181129T170457Z">
         <seg>Figura &lt;seq0&gt;140&lt;/seq0&gt;: selezione del tipo di contenuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;141&lt;/seq0&gt;: Standard toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174904Z" creationid="Elisabetta Manuele" creationdate="20181129T174904Z">
+        <seg>Figura &lt;seq0&gt;141&lt;/seq0&gt;: barra degli strumenti Standard</seg>
       </tuv>
     </tu>
     <tu>
@@ -52631,6 +52655,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180920T071306Z">
         <seg>Queste tecniche esulano dallo scopo di questo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These text boxes are &lt;i1/&gt;&lt;i2/&gt;called &lt;f3&gt;AutoLayout&lt;/f3&gt; text boxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174719Z" creationid="Elisabetta Manuele" creationdate="20181129T174719Z">
+        <seg>Queste caselle di testo vengono &lt;i1/&gt;&lt;i2/&gt;definite &lt;f3&gt;Layout automatici&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
