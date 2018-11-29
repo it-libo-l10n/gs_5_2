@@ -35529,6 +35529,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many of your slides are likely to contain some text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174139Z" creationid="Elisabetta Manuele" creationdate="20181129T174139Z">
+        <seg>Molte diapositive prevedono un contenuto testuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Many people also find AutoInput helpful.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T203930Z">
@@ -42981,6 +42989,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T173057Z" creationid="Elisabetta Manuele" creationdate="20181129T173057Z">
         <seg>Consultate il &lt;f1&gt;Capitolo 2 (Utilizzo di master di diapositiva, stili e modelli) della Guida a Impress&lt;/f1&gt; per ulteriori informazioni sulla creazione e la modifica dei master di diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the &lt;f1&gt;Impress Guide&lt;/f1&gt; for details on how to use all of these features.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174036Z" creationid="Elisabetta Manuele" creationdate="20181129T174036Z">
+        <seg>Consultate la &lt;f1&gt;Guida a Impress&lt;/f1&gt; per ulteriori dettagli sull'uso di queste funzionalità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53819,6 +53835,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This section gives some guidelines on how to add text and change its appearance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174221Z" creationid="Elisabetta Manuele" creationdate="20181129T174221Z">
+        <seg>Questa sezione intende fornire alcune linee guida sulle modalità di aggiunta di testo e sulla modifica del suo aspetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This section is an introduction to some of these effects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T100825Z">
@@ -54825,6 +54849,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065325Z">
         <seg>Per cambiare le dimensioni di un oggetto selezionato (o di un gruppo di oggetti selezionati), spostate il cursore del mouse su una delle maniglie di selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the slide transition, animate slides, add a soundtrack to the presentation, and make other enhancements, you need to use functions in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174006Z" creationid="Elisabetta Manuele" creationdate="20181129T174006Z">
+        <seg>Per modificare la transizione delle diapositive, inserire animazioni, aggiungere una colonna sonora alla presentazione e apportare altre migliorie è necessario avvalervi delle opzioni presenti nella Barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
