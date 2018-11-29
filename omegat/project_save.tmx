@@ -19912,6 +19912,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each of these content boxes can be configured to contain text, movies, images, charts or tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T170247Z" creationid="Elisabetta Manuele" creationdate="20181129T170247Z">
+        <seg>ognuno dei quali si può configurare per includere testo, filmati, immagini, grafici o tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each of these panels has a &lt;f0&gt;More Options&lt;/f0&gt; button, which opens a dialog giving a greater number of options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T184906Z">
@@ -45089,6 +45097,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several layouts contain one or more content boxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T170207Z" creationid="Elisabetta Manuele" creationdate="20181129T170207Z">
+        <seg>Diversi layout dispongono di uno o più riquadri per i contenuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several types of arrowheads are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T110007Z">
@@ -56523,6 +56539,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085556Z">
         <seg>Per selezionare elementi non consecutivi usando la tastiera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select or change the layout of a slide, select the slide in the Slides Pane so that it appears in the Workspace and select the desired layout from the Layouts section in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T170127Z" creationid="Elisabetta Manuele" creationdate="20181129T170127Z">
+        <seg>Per scegliere o modificare il layout di una diapositiva, selezionarla nel riquadro Diapositive in modo che sia visibile nell'Area di lavoro, quindi fate clic sul layout desiderato nella sezione Layout della barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
