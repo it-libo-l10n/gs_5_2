@@ -10513,6 +10513,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although Impress does not allow you to create new layouts, you can resize and move the layout elements.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T170836Z" creationid="Elisabetta Manuele" creationdate="20181129T170836Z">
+        <seg>Sebbene non sia prevista la possibilità di creare nuovi layout, potete comunque ridimensionarne e spostarne gli elementi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although LibreOffice will work without Java support, some features will not be available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190658Z">
@@ -33204,6 +33212,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093049Z">
         <seg>Si tratta anche in questo caso di un elenco apribile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is also possible to add elements without being limited to the size and position of the layout boxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T170951Z" creationid="Elisabetta Manuele" creationdate="20181129T170951Z">
+        <seg>È inoltre possibile aggiungere elementi senza vincoli di dimensioni e posizione dei riquadri di layout.</seg>
       </tuv>
     </tu>
     <tu>
