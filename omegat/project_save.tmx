@@ -11522,6 +11522,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Attempting any changes by modifying a slide master, although possible, may result in unpredictable results and requires extra care as well as a certain amount of trial and error.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171457Z" creationid="Elisabetta Manuele" creationdate="20181129T171457Z">
+        <seg>Tentare di apportare delle modifiche tramite master di diapositiva, sebbene possibile, potrebbe condurre a esiti imprevedibili e richiede particolare attenzione, oltre a comportare un certo numero di tentativi ed errori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attempting to rename a sheet with an invalid name will produce an error message.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165850Z">
@@ -13071,6 +13079,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T163009Z">
         <seg>A questo punto potete eseguire modifiche al database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changes to any of the layouts included in Impress can only be made using &lt;f0&gt;View &gt; Normal&lt;/f0&gt;, which is the default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171405Z" creationid="Elisabetta Manuele" creationdate="20181129T171405Z">
+        <seg>Le modifiche ai layout inclusi in Impress si possono effettuare solo tramite il menu &lt;f0&gt;Visualizza &gt; Normale&lt;/f0&gt;, corrispondente all'impostazione predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48363,6 +48379,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Outline styles are automatically applied to the text as you insert it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171629Z" creationid="Elisabetta Manuele" creationdate="20181129T171629Z">
+        <seg>Gli stili di Struttura vengono automaticamente applicati al testo mentre lo inserite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PDF Options dialog opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T171922Z" creationid="Alessia Mazzarini" creationdate="20181011T171922Z">
@@ -54208,6 +54232,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T183806Z" creationid="Elisabetta Manuele" creationdate="20181128T183806Z">
         <seg>Per aggiungere contenuto testuale in base al layout della diapositiva selezionato, scegliete &lt;f1&gt;Fai clic per aggiungere testo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add text to a slide that contains a text frame, click on &lt;f0&gt;Click to add text&lt;/f0&gt; in the text frame and then type your text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171607Z" creationid="Elisabetta Manuele" creationdate="20181129T171607Z">
+        <seg>Per aggiungere testo a una diapositiva contenente una cornice di testo, scegliete &lt;f0&gt;Fai clic per aggiungere testo&lt;/f0&gt; all'interno della cornice, quindi digitate il testo desiderato.</seg>
       </tuv>
     </tu>
     <tu>
