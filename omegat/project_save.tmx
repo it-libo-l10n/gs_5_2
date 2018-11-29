@@ -11642,6 +11642,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AutoLayout</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174501Z" creationid="Elisabetta Manuele" creationdate="20181129T174419Z">
+        <seg>Autolayout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AutoRecovery</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144233Z">
@@ -25396,6 +25404,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T133328Z">
         <seg>Per maggiori informazioni sugli Oggetti OLE, vedete le &lt;/f7&gt;&lt;f8&gt;guide &lt;/f8&gt;&lt;f9&gt;di &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Math&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;, &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Writer&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;, &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Calc&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Draw&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; e &lt;/f21&gt;&lt;f22&gt;&lt;f23&gt;Impress&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;.&lt;/f24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on adding and formatting text, see the &lt;f1&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174324Z" creationid="Elisabetta Manuele" creationdate="20181129T174324Z">
+        <seg>Per ulteriori informazioni sull'aggiunta o sulla formattazione di testo, consultate il &lt;f1&gt;Capitolo 3 (Aggiunta e formattazione del testo) della Guida a Impress&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47609,6 +47625,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text used in slides is contained in &lt;f0&gt;text boxes&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174254Z" creationid="Elisabetta Manuele" creationdate="20181129T174254Z">
+        <seg>Qualsiasi testo presente nelle diapositive è contenuto in &lt;f0&gt;caselle di testo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Th&lt;/f2&gt;&lt;f3&gt;e default value used for spacing is set within the frame style for formula objects and can be changed by modifying the formula frame style, see the chapters on styles in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Writer Guide&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for more information.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180912T124145Z">
@@ -62369,6 +62393,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add two types of text boxes to a slide:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174342Z" creationid="Elisabetta Manuele" creationdate="20181129T174342Z">
+        <seg>Potete aggiungere due tipi di caselle di testo a una diapositiva:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add your own special characters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T112019Z">
@@ -68029,6 +68061,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T094056Z">
         <seg>margini di testo (mostra/nascondi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>text box</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174430Z" creationid="Elisabetta Manuele" creationdate="20181129T174430Z">
+        <seg>casella di testo</seg>
       </tuv>
     </tu>
     <tu>
