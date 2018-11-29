@@ -9729,6 +9729,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171913Z" creationid="Elisabetta Manuele" creationdate="20181129T171913Z">
+        <seg>Aggiungere oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding pictures, tables, charts, and media</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182121Z">
@@ -25532,6 +25540,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T112152Z">
         <seg>Per maggiori informazioni sugli stili, vedere il Capitolo 3 (Uso di stili e modelli) in questa guida, il&lt;f0&gt; &lt;/f0&gt;Capitolo &lt;f1&gt;8&lt;/f1&gt; (Introduzione agli stili) &lt;f2&gt;nella &lt;/f2&gt;&lt;f3&gt;Guida a Writer &lt;/f3&gt;e il&lt;f4&gt; &lt;/f4&gt;Capitolo 4 (Modificare gli attributi degli oggetti) &lt;f5&gt;nella&lt;s6/&gt; &lt;/f5&gt;&lt;f7&gt;Guida a Draw.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on text, see “&lt;bf5&gt;Adding and formatting text&lt;/bf5&gt;” on page &lt;bf6&gt;169&lt;/bf6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171903Z" creationid="Elisabetta Manuele" creationdate="20181129T171903Z">
+        <seg>Per maggiori informazioni sul testo, consultate il capitolo “&lt;bf5&gt;Aggiunta e formattazione del testo&lt;/bf5&gt;”, a pag. &lt;bf6&gt;169&lt;/bf6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62781,6 +62797,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105157Z">
         <seg>Potete cambiare i margini direttamente dai righelli trascinandoli con il mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the outline level of each paragraph as well as its position within the text by using the arrow buttons on the &lt;f1&gt;Text Formatting&lt;/f1&gt; toolbar (see Figure &lt;t2&gt;128&lt;/t2&gt; and “&lt;bf3&gt;Outline view&lt;/bf3&gt;” on page &lt;bf4&gt;158&lt;/bf4&gt;) or using the Tab key while positioning the cursor at the beginning of the paragraph.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171824Z" creationid="Elisabetta Manuele" creationdate="20181129T171824Z">
+        <seg>Potete modificare il livello di struttura di ogni paragrafo, così come la sua posizione all'interno del testo, grazie ai pulsanti freccia presenti nella barra strumenti &lt;f1&gt;Formattazione del testo&lt;/f1&gt; (figura &lt;t2&gt;128&lt;/t2&gt; e sezione “&lt;bf3&gt;Vista struttura&lt;/bf3&gt;” a pagina &lt;bf4&gt;158&lt;/bf4&gt;), oppure avvalendovi del tasto Tab mentre posizionate il cursore all'inizio del paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
