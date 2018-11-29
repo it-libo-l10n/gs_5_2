@@ -15355,6 +15355,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click in the text box that reads &lt;f0&gt;Click to add text&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T175045Z" creationid="Elisabetta Manuele" creationdate="20181129T175045Z">
+        <seg>Selezionate la casella di testo che riporta &lt;f0&gt;Fai clic per aggiungere testo&lt;/f0&gt;.&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in the text where you want to position the cursor; click in a cell to make it the active cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065606Z">
@@ -21508,6 +21516,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174904Z" creationid="Elisabetta Manuele" creationdate="20181129T174904Z">
         <seg>Figura &lt;seq0&gt;141&lt;/seq0&gt;: barra degli strumenti Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;142&lt;/seq0&gt;: Text toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174932Z" creationid="Elisabetta Manuele" creationdate="20181129T174932Z">
+        <seg>Figura &lt;seq0&gt;142&lt;/seq0&gt;: barra degli strumenti Testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -35317,6 +35333,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180817T190553Z">
         <seg>Assicuratevi &lt;f0&gt;che&lt;/f0&gt; il cursore si trovi nella posizione corretta all'interno dell'Editor delle formule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure Normal view is selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T175016Z" creationid="Elisabetta Manuele" creationdate="20181129T175016Z">
+        <seg>Assicuratevi che sia selezionata la vista Normale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57783,6 +57807,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type or paste your text in the text box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T175056Z" creationid="Elisabetta Manuele" creationdate="20181129T175056Z">
+        <seg>Digitate o incollate il testo nella casella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type the cell reference into the Column and Row fields and press the &lt;f4&gt;Enter&lt;/f4&gt; key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T183935Z">
@@ -59080,6 +59112,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using AutoLayout text boxes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174959Z" creationid="Elisabetta Manuele" creationdate="20181129T174959Z">
+        <seg>Utilizzare caselle di testo Layout automatici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using AutoText</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143637Z">
@@ -59388,6 +59428,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072454Z">
         <seg>Si sconsiglia l'utilizzo delle tabulazioni per distanziare materiale su una pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using text boxes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T175118Z" creationid="Elisabetta Manuele" creationdate="20181129T175118Z">
+        <seg>Utilizzare le caselle di testo</seg>
       </tuv>
     </tu>
     <tu>
