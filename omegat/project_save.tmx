@@ -8608,6 +8608,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dialog opens asking if the background should be applied to all the slides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T173424Z" creationid="Elisabetta Manuele" creationdate="20181129T173424Z">
+        <seg>Comparirà una finestra di dialogo in cui indicare se desiderate impostare lo sfondo per tutte le diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dialog opens, in which you can type a new name for the sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T212650Z">
@@ -14579,6 +14587,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to apply it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T173351Z" creationid="Elisabetta Manuele" creationdate="20181129T173351Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per applicarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close this small dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T123107Z">
@@ -14847,6 +14863,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T135305Z">
         <seg>Fate clic su &lt;f0&gt;Usa procedura guidata per la creazione di tabelle...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Yes&lt;/f0&gt; if you want all the slides modified and Impress will automatically modify the master page for you.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T173459Z" creationid="Elisabetta Manuele" creationdate="20181129T173459Z">
+        <seg>Scegliete &lt;f0&gt;Sì&lt;/f0&gt; se desiderate modificare tutte le diapositive, in tal modo la pagina master verrà automaticamente modificata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44285,6 +44309,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T163208Z" creationid="Elisabetta Manuele" creationdate="20181128T163208Z">
         <seg>Selezionate la &lt;f0&gt;velocità&lt;/f0&gt; desiderata per la transizione tra le diverse diapositive della presentazione dal menu a discesa &lt;f1&gt;Velocità&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the desired background between solid color, gradient, hatching, and bitmap.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T173342Z" creationid="Elisabetta Manuele" creationdate="20181129T173342Z">
+        <seg>Quindi lo sfondo desiderato tra le voci di elenco: Colore, Sfumatura, Tratteggio e Bitmap.</seg>
       </tuv>
     </tu>
     <tu>
