@@ -16246,6 +16246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the element to highlight it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171202Z" creationid="Elisabetta Manuele" creationdate="20181129T171202Z">
+        <seg>Fate clic sull'elemento per evidenziarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the expansion symbol (+ or triangle) to the left of &lt;f1&gt;Load/Save&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142712Z">
@@ -40217,6 +40225,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the &lt;f0&gt;Delete&lt;/f0&gt; key to remove it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171321Z" creationid="Elisabetta Manuele" creationdate="20181129T171321Z">
+        <seg>Premete il tasto &lt;f0&gt;Canc&lt;/f0&gt; per eliminarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press the &lt;f0&gt;Enter&lt;/f0&gt; key to move the cursor down to the space between the Date field and the Breakfast field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T161913Z">
@@ -51019,6 +51035,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The resizing handles show that it is selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171248Z" creationid="Elisabetta Manuele" creationdate="20181129T171248Z">
+        <seg>Le maniglie di ridimensionamento indicano che è selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The resolution is the size of the squares or rectangles in the grid.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T140947Z">
@@ -55839,6 +55863,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To move it, place the mouse cursor on the frame so that the cursor changes shape.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171116Z" creationid="Elisabetta Manuele" creationdate="20181129T171116Z">
+        <seg>Per spostarlo, posizionate il cursore del mouse sulla cornice finché non cambia forma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To move or copy a sheet into a different spreadsheet, you have to use the &lt;f2&gt;Move/Copy Sheet&lt;/f2&gt; dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180719T123655Z">
@@ -56195,6 +56227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T154205Z">
         <seg>Per eliminare qualsiasi possibile virus collegato a macro dai documenti Microsoft Office, deselezionate &lt;f0&gt;Salva codice Basic originale&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove any unwanted element:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171155Z" creationid="Elisabetta Manuele" creationdate="20181129T171155Z">
+        <seg>Per rimuovere elementi indesiderati procedete come segue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63373,6 +63413,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T192710Z">
         <seg>Qui potete inserire i contenuti al documento digitando o incollando testo, immagini, tabelle ed altri oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can now click and drag the contents box to a new position on the slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171138Z" creationid="Elisabetta Manuele" creationdate="20181129T171138Z">
+        <seg>Potete ora fare clic e trascinare il riquadro nella sua nuova posizione all'interno della diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
