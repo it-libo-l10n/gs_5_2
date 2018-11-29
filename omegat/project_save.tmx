@@ -25640,6 +25640,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information, see “&lt;bf1&gt;Adding pictures, tables, charts, and media&lt;/bf1&gt;” on page &lt;bf2&gt;174&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172124Z" creationid="Elisabetta Manuele" creationdate="20181129T172124Z">
+        <seg>Per ulteriori informazioni, consultate “&lt;bf1&gt;Aggiungere immagini, tabelle, grafici e supporti&lt;/bf1&gt;” a pagina &lt;bf2&gt;174&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information, see&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;Chapter 2, Drawing Basic Shapes, and Chapter 11, Advanced Draw Techniques,&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;in&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; the &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Draw Guide&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171222Z">
@@ -36069,6 +36077,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154358Z">
         <seg>Modificare gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying the appearance of all slides</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172153Z" creationid="Elisabetta Manuele" creationdate="20181129T172153Z">
+        <seg>Modificare l'aspetto di tutte le diapositive</seg>
       </tuv>
     </tu>
     <tu>
@@ -54224,6 +54240,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124202Z">
         <seg>Per aggiungere una risorsa, navigate fino alla cartella in cui si trova il vostro documento e fate clic sul pulsante &lt;f0&gt;+&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add any objects to a slide, for example a picture, clipart, drawing, photograph, or spreadsheet, click on &lt;f0&gt;Insert&lt;/f0&gt; then select from the drop down menu what type of object you want to insert.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172034Z" creationid="Elisabetta Manuele" creationdate="20181129T172034Z">
+        <seg>Per aggiungere oggetti a una diapositiva, ad esempio un'immagine, una clipart, un disegno, una fotografia, oppure un foglio elettronico, fate clic sulla voce &lt;f0&gt;Inserisci&lt;/f0&gt;, quindi selezionate l'elemento desiderato dal menu a discesa.</seg>
       </tuv>
     </tu>
     <tu>
