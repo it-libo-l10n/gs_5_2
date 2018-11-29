@@ -34689,6 +34689,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice uses three terms for a slide that is used to create other slides: &lt;f0&gt;master slide&lt;/f0&gt;, &lt;f1&gt;slide master&lt;/f1&gt;, and &lt;f2&gt;master page&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172742Z" creationid="Elisabetta Manuele" creationdate="20181129T172742Z">
+        <seg>In LibreOffice coesistono tre termini che si riferiscono tutti a una diapositiva impiegata per crearne altre: &lt;f0&gt;master di diapositiva&lt;/f0&gt;, &lt;f1&gt;diapositiva master&lt;/f1&gt;, e &lt;f2&gt;pagina master&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice will always correctly interpret dates entered in ISO 8601 format as Y-M-D and YYYY-MM-DD.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T063845Z">
@@ -52767,6 +52775,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175907Z">
         <seg>La presente guida costituisce un adattamento e un aggiornamento della &lt;f0&gt;Guida introduttiva a OpenOffice.org 3.3&lt;/f0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This book uses the &lt;i3/&gt;term &lt;f4&gt;slide master,&lt;/f4&gt; except when describing the user interface.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172843Z" creationid="Elisabetta Manuele" creationdate="20181129T172843Z">
+        <seg>La presente guida adotta il &lt;i3/&gt;termine &lt;f4&gt;master di diapositiva&lt;/f4&gt;, tranne che nelle descrizioni dell'interfaccia utente (in cui si utilizza anche il termine “Pagina schema” - n.d.t.).</seg>
       </tuv>
     </tu>
     <tu>
