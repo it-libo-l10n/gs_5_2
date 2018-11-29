@@ -12314,6 +12314,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default the slide show will display all the slides in the same order as they appear in the slide sorter, without any transition between slides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T173703Z" creationid="Elisabetta Manuele" creationdate="20181129T173703Z">
+        <seg>Per impostazione predefinita, la presentazione visualizza tutte le diapositive nella stessa sequenza evidenziata nella vista Ordine diapositive, prive di ogni transizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, &lt;f0&gt;Page break&lt;/f0&gt; is selected on the Insert Break dialog (&lt;t1&gt;Figure 82&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103221Z">
@@ -36141,6 +36149,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172153Z" creationid="Elisabetta Manuele" creationdate="20181129T172153Z">
         <seg>Modificare l'aspetto di tutte le diapositive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying the slide show</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T173622Z" creationid="Elisabetta Manuele" creationdate="20181129T173622Z">
+        <seg>Modificare la presentazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -63985,6 +64001,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can use &lt;f0&gt;Slide Show&lt;/f0&gt; on the Menu bar to change the order of the slides, choose which ones are shown, automate moving from one slide to the next, and other settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T173837Z" creationid="Elisabetta Manuele" creationdate="20181129T173837Z">
+        <seg>La voce &lt;f0&gt;Presentazione&lt;/f0&gt;, nella barra dei menu, vi consentirà di modificare l'ordine delle diapositive, scegliere quelle da visualizzare, automatizzare lo spostamento da una diapositiva all'altra e altre impostazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can use &lt;i0/&gt;&lt;i1/&gt;Calc’s AutoFormat&lt;i2/&gt; feature to format a group of cells quickly and easily.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T194055Z">
@@ -64621,6 +64645,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164721Z" creationid="manuel" creationdate="20181015T164721Z">
         <seg>Dovete aver aperto la finestra Sorgente dati e il vostro foglio elettronico, e selezionato la tabella dalla quale desiderate prelevare i dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to use keyboard input or mouse interaction to move from one slide to the next.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T173740Z" creationid="Elisabetta Manuele" creationdate="20181129T173740Z">
+        <seg>Per passare da una diapositiva all'altra è necessario un intervento tramite tastiera o mouse.</seg>
       </tuv>
     </tu>
     <tu>
