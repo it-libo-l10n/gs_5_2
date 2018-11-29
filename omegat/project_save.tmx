@@ -8248,6 +8248,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;Slide Master&lt;/f0&gt; is a slide with a specified set of characteristics that acts as a template and is used as the starting point for creating other slides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172414Z" creationid="Elisabetta Manuele" creationdate="20181129T172414Z">
+        <seg>Un &lt;f0&gt;master di diapositiva&lt;/f0&gt; è una diapositiva con uno specifico insieme di caratteristiche che funge da modello e viene utilizzato come punto di partenza per creare altre diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;database&lt;/f0&gt; consists of a number of &lt;f1&gt;fields&lt;/f1&gt; that contain the individual pieces of data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T152515Z">
@@ -52299,6 +52307,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These characteristics include slide background, objects in the background, formatting of any text used, and any background graphics.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172535Z" creationid="Elisabetta Manuele" creationdate="20181129T172535Z">
+        <seg>Queste caratteristiche comprendono lo sfondo, gli oggetti sullo sfondo, la formattazione del testo utilizzato e ogni immagine inclusa nello sfondo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These checkers are enabled by default if the language is the computer’s default language.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T135213Z">
@@ -54545,6 +54561,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T201945Z">
         <seg>Per modificare le opzioni di correzione automatica, nella barra del Menu andate in &lt;f0&gt;Strumenti &gt; Opzioni di correzione automatica&lt;/f0&gt; in modo da aprire la finestra di dialogo &lt;f1&gt;Correzione automatica&lt;/f1&gt; (Figura &lt;t2&gt;107&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the background and other characteristics of all slides in the presentation, you need to &lt;i0/&gt;modify the master page or choose a different master page as explained in “&lt;bf1&gt;Working with slide masters and styles&lt;/bf1&gt;” on page &lt;bf2&gt;176&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172326Z" creationid="Elisabetta Manuele" creationdate="20181129T172326Z">
+        <seg>Per modificare lo sfondo e altre caratteristiche dell'intero set di diapositive della presentazione occorre &lt;i0/&gt;modificare la pagina master o scegliere una pagina master differente, come illustrato in “&lt;bf1&gt;Lavorare con stili e pagine master&lt;/bf1&gt;”, a pag. &lt;bf2&gt;176&lt;/bf2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67541,6 +67565,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155509Z">
         <seg>dimensioni per HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>slide master</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172549Z" creationid="Elisabetta Manuele" creationdate="20181129T172549Z">
+        <seg>master di diapositiva</seg>
       </tuv>
     </tu>
     <tu>
