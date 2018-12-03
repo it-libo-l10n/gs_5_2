@@ -19032,6 +19032,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not worry about the vertical size and position as the text box will expand if needed as you type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170122Z" creationid="Elisabetta Manuele" creationdate="20181203T170122Z">
+        <seg>Non preoccupatevi per la dimensione verticale e la posizione in quanto la casella di testo si espanderà, se necessario, durante la digitazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do one of the following:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T142932Z">
@@ -41313,6 +41321,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Release the mouse button when finished.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170139Z" creationid="Elisabetta Manuele" creationdate="20181203T170139Z">
+        <seg>Rilasciate il pulsante del mouse al termine dell'operazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Release the mouse button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T181957Z">
@@ -49303,6 +49319,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144224Z">
         <seg>Le impostazioni della stampante corrente verranno salvate con il documento anche se questa opzione non è selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The cursor appears in the text box, which is now in edit mode (a colored border shown in Figure &lt;t0&gt;143&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170304Z" creationid="Elisabetta Manuele" creationdate="20181203T170304Z">
+        <seg>Il cursore comparirà nella casella di testo che si trova ora in modalità modifica (con bordo colorato come illustrato in figura &lt;t0&gt;143&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
