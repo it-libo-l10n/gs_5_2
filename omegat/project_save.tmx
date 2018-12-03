@@ -11169,6 +11169,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apply any necessary manual formatting to the text to change font attributes, tabs, and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173652Z" creationid="Elisabetta Manuele" creationdate="20181203T173652Z">
+        <seg>Applicate al testo la formattazione manuale necessaria per modificare gli attributi dei caratteri, le tabulazioni, ecc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apply any of the data types in the &lt;f0&gt;Category&lt;/f0&gt; list to the data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T124936Z">
@@ -11650,10 +11658,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AutoLayout &lt;i0/&gt;text boxes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173911Z" creationid="Elisabetta Manuele" creationdate="20181203T173911Z">
+        <seg>&lt;i0/&gt;Caselle di testo a Layout automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AutoLayout text boxes can automatically resize fonts to let the box contain all the text you insert.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171155Z" creationid="Elisabetta Manuele" creationdate="20181203T171155Z">
         <seg>Le caselle di testo a Layout automatico possono ridimensionare i caratteri automaticamente per essere in grado di contenere tutto il testo inserito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>AutoLayout text boxes included in the available layouts are already formatted as a bulleted list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173933Z" creationid="Elisabetta Manuele" creationdate="20181203T173933Z">
+        <seg>Le caselle di testo a Layout automatico incluse nei layout disponibili sono già formattate come elenchi puntati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17499,6 +17523,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T192504Z">
         <seg>Creare e modificare un documento HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating bulleted and numbered lists</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173702Z" creationid="Elisabetta Manuele" creationdate="20181203T173702Z">
+        <seg>Creare elenchi puntati e numerati</seg>
       </tuv>
     </tu>
     <tu>
@@ -25864,6 +25896,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For normal text boxes an additional step is required to create a bulleted list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173834Z" creationid="Elisabetta Manuele" creationdate="20181203T173834Z">
+        <seg>Nel caso delle caselle di testo normali è richiesto un passaggio ulteriore per creare un elenco puntato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For objects that are not filled, click on the object outline to select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T171349Z">
@@ -31212,6 +31252,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124037Z">
         <seg>Nella sezione chiamata &lt;f1&gt;Formato file predefinito e impostazioni ODF&lt;/f1&gt;, come &lt;f2&gt;Tipo documento&lt;/f2&gt;, selezionate &lt;f3&gt;Foglio elettronico,&lt;/f3&gt; quindi in &lt;f4&gt;Salva sempre come&lt;/f4&gt;, selezionate il formato file che preferite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In AutoLayout text boxes, the outline styles available are, by default, bulleted lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173814Z" creationid="Elisabetta Manuele" creationdate="20181203T173814Z">
+        <seg>Nelle caselle di testo a Layout automatico, gli stili di struttura disponibili sono, per impostazione predefinita, gli elenchi puntati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51451,6 +51499,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The procedure to create &lt;i0/&gt;a bulleted or numbered list is quite different depending on the type of text box used, although the tools to manage the list and customize the appearance are the same.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173758Z" creationid="Elisabetta Manuele" creationdate="20181203T173758Z">
+        <seg>La procedura per la creazione di un &lt;i0/&gt;elenco puntato o numerato varia in base al tipo di casella di testo utilizzata, anche se gli strumenti per la gestione dell'elenco e per la personalizzazione del suo aspetto restano gli stessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The process and dialogs are the same for Writer, Calc, Impress, and Draw, with a few minor differences mentioned in this section.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T165733Z" creationid="Alessia Mazzarini" creationdate="20181011T165733Z">
@@ -65589,6 +65645,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T205523Z" creationid="Alessia Mazzarini" creationdate="20181007T205523Z">
         <seg>stampa di depliant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bulleted or numbered list</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173712Z" creationid="Elisabetta Manuele" creationdate="20181203T173712Z">
+        <seg>elenchi puntati o numerati &lt;s0/&gt;167</seg>
       </tuv>
     </tu>
     <tu>
