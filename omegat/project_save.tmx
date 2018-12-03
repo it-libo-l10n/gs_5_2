@@ -21592,6 +21592,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;145&lt;/seq0&gt;: Text Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172312Z" creationid="Elisabetta Manuele" creationdate="20181203T172312Z">
+        <seg>Figura &lt;seq0&gt;145&lt;/seq0&gt;: barra degli strumenti Formattazione del testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Navigator in Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130224Z">
@@ -26080,6 +26088,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting pasted text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172043Z" creationid="Elisabetta Manuele" creationdate="20181203T172043Z">
+        <seg>Formattare testo incollato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting text</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180218Z">
@@ -29092,6 +29108,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T164348Z">
         <seg>Se l'opzione &lt;f3&gt;Mostra avviso&lt;/f3&gt; è selezionata, durante l'esportazione in HTML verrà mostrato un avvertimento per ricordare che le macro di LibreOffice Basic andranno perdute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the &lt;f5&gt;Character&lt;/f5&gt; and &lt;f6&gt;Paragraph&lt;/f6&gt; sections do not automatically open after selecting some text, click on the Properties icon &lt;df7&gt;&lt;di8/&gt;&lt;/df7&gt; at the side of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172258Z" creationid="Elisabetta Manuele" creationdate="20181203T172258Z">
+        <seg>Se le sezioni &lt;f5&gt;Carattere&lt;/f5&gt; e &lt;f6&gt;Paragrafo&lt;/f6&gt; non si aprono automaticamente dopo aver selezionato un testo, fate clic sull'icona Proprietà &lt;df7&gt;&lt;di8/&gt;&lt;/df7&gt; esternamente alla Barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60909,6 +60933,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111044Z" creationid="manuel" creationdate="20181015T111044Z">
         <seg>Quando inserite campi per questi calcoli, dovete utilizzare il seguente formato: nome della tabella o della ricerca seguito da un punto (.) e quindi dal nome del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When formatting pasted text, you can use the tools available on the Text Formatting toolbar (Figure &lt;t0&gt;145&lt;/t0&gt;), or the tools available in the &lt;f1&gt;Character&lt;/f1&gt; and &lt;f2&gt;Paragraph&lt;/f2&gt; sections of the &lt;f3&gt;Properties&lt;/f3&gt; deck in the Sidebar (Figure &lt;t4&gt;146&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172207Z" creationid="Elisabetta Manuele" creationdate="20181203T172207Z">
+        <seg>Per la formattazione del testo incollato potete utilizzare gli strumenti disponibili nella barra degli strumenti Formattazione testo (Figura &lt;t0&gt;145&lt;/t0&gt;), o nelle sezioni &lt;f1&gt;Carattere&lt;/f1&gt; e &lt;f2&gt;Paragrafo&lt;/f2&gt; del pannello &lt;f3&gt;Proprietà&lt;/f3&gt;, nella Barra laterale (Figura &lt;t4&gt;146&lt;/t4&gt;). </seg>
       </tuv>
     </tu>
     <tu>
