@@ -12290,6 +12290,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bullets and Numbering dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T181632Z" creationid="Elisabetta Manuele" creationdate="20181203T181632Z">
+        <seg>finestra di dialogo Elenchi puntati e numerati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But for a better appearance, changes will be made to these as well.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085519Z">
@@ -21716,6 +21724,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172352Z" creationid="Elisabetta Manuele" creationdate="20181203T172352Z">
         <seg>Figura &lt;seq0&gt;146&lt;/seq0&gt;: sezione Carattere della Barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;147&lt;/seq0&gt;: Bullets and Numbering dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T181613Z" creationid="Elisabetta Manuele" creationdate="20181203T181613Z">
+        <seg>Figura &lt;seq0&gt;147&lt;/seq0&gt;: finestra di dialogo Elenchi puntati e numerati</seg>
       </tuv>
     </tu>
     <tu>
@@ -43881,6 +43897,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Format &gt; Bullets and Numbering&lt;/f0&gt; on the Menu bar or click on the &lt;f1&gt;Bullets &lt;/f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;f5&gt;or Numbering&lt;/f5&gt; icon &lt;df6&gt;&lt;di7/&gt;&lt;/df6&gt; on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T181553Z" creationid="Elisabetta Manuele" creationdate="20181203T181553Z">
+        <seg>Selezionate il menu &lt;f0&gt;Formato &gt; Elenchi puntati e numerati&lt;/f0&gt; oppure fate clic sulle icone &lt;f1&gt;Elenchi puntati&lt;/f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;f5&gt;o Elenchi Numerati&lt;/f5&gt; &lt;df6&gt;&lt;di7/&gt;&lt;/df6&gt; nella barra strumenti Formattazione del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Format &gt; Default formatting&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172538Z" creationid="Elisabetta Manuele" creationdate="20181203T172538Z">
@@ -48605,6 +48629,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T155933Z">
         <seg>Le opzioni di Basic IDE sono disponibili dopo che è stato selezionato &lt;f0&gt;Abilita funzioni sperimentali&lt;/f0&gt; nella pagina Avanzate della finestra di dialogo Opzioni e le opzioni sono state salvate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Bullets and Numbering dialog (Figure &lt;t0&gt;147&lt;/t0&gt;) contains five pages: Bullets, Numbering type, Image, Position, and Customize.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T181746Z" creationid="Elisabetta Manuele" creationdate="20181203T181746Z">
+        <seg>La finestra di dialogo Elenchi puntati e numerati (Figura &lt;t0&gt;147&lt;/t0&gt;) contiene cinque schede: Punti, Tipo di numerazione, Immagine, Posizione e Personalizza.</seg>
       </tuv>
     </tu>
     <tu>
