@@ -24560,6 +24560,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a single list entry, click anywhere in the text and then follow steps 2 and 3 above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182120Z" creationid="Elisabetta Manuele" creationdate="20181203T182120Z">
+        <seg>Per una singola voce dell'elenco, fate clic in un punto qualsiasi del testo, quindi seguite i punti 2 e 3 sopra riportati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a vertical split, drag the new vertical window border across to the right of the column where you want the vertical split positioned.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T205543Z">
@@ -28920,6 +28928,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a graphics style is needed, select one from those available on the &lt;f0&gt;Image&lt;/f0&gt; page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T181933Z" creationid="Elisabetta Manuele" creationdate="20181203T181933Z">
+        <seg>Se desiderate uno stile grafico, selezionatene uno tra quelli disponibili nella scheda &lt;f0&gt;Immagine&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a macro is contained in a document, then a recorded macro will attempt to work on that document; because it primarily uses “ThisComponent” for its actions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180922T142117Z">
@@ -28932,6 +28948,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T175907Z">
         <seg>Se un numero viene inserito con degli zeri iniziali, ad esempio 01481, prima di aver impostato il parametro Zeri iniziali, per impostazione predefinita Calc rimuoverà automaticamente lo 0 iniziale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a numbered list is needed, select one of the default numbering styles on the &lt;f0&gt;Numbering type&lt;/f0&gt; page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182007Z" creationid="Elisabetta Manuele" creationdate="20181203T182007Z">
+        <seg>Se desiderate un elenco numerato, selezionate uno degli stili di numerazione predefiniti nella scheda &lt;f0&gt;Tipo di numerazione&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59176,6 +59200,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Customize&lt;/f0&gt; page to customize the numbering, color, relative size, and character used for your list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182059Z" creationid="Elisabetta Manuele" creationdate="20181203T182059Z">
+        <seg>Selezionate la scheda &lt;f0&gt;Personalizza&lt;/f0&gt; per personalizzare numerazione, colore, dimensione relativa e carattere usato per l'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the &lt;f0&gt;Enter&lt;/f0&gt; key to move the cursor between the Supper control and the subform.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T060143Z">
@@ -59220,6 +59252,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T110014Z">
         <seg>Potete utilizzare la barra degli strumenti &lt;f0&gt;Opzioni&lt;/f0&gt; per attivare o disattivare varie opzioni di aiuto al disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Position&lt;/f0&gt; page to set the indent and numbering spacing and alignment of your list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182033Z" creationid="Elisabetta Manuele" creationdate="20181203T182033Z">
+        <seg>Scegliete la scheda &lt;f0&gt;Posizione&lt;/f0&gt; per impostare la spaziatura e l'allineamento del rientro e della numerazione all'interno dell'elenco.</seg>
       </tuv>
     </tu>
     <tu>
