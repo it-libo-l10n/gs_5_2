@@ -29136,6 +29136,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Standard or Text toolbars are not visible, go to &lt;f2&gt;View &gt; Toolbars&lt;/f2&gt; on the Menu bar and select &lt;f3&gt;Standard&lt;/f3&gt; or &lt;f4&gt;Text&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T165722Z" creationid="Elisabetta Manuele" creationdate="20181203T165722Z">
+        <seg>Se le barre degli strumenti Standard o Testo non sono visibili accedete alla voce &lt;f2&gt;Visualizza &gt; Barre degli strumenti&lt;/f2&gt; nella Barra dei menu e selezionate &lt;f3&gt;Standard&lt;/f3&gt; o &lt;f4&gt;Testo&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Vertical Text icon is not visible, check that &lt;f2&gt;Asian &lt;/f2&gt;has been selected in &lt;f3&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105447Z">
