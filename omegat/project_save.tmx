@@ -15909,6 +15909,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Bullets On/Off&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T174647Z" creationid="Elisabetta Manuele" creationdate="20181203T174647Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Elenco puntato sì/no&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; nella barra strumenti Formattazione del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Cell Protection&lt;/f0&gt; tab (Figure &lt;t1&gt;120&lt;/t1&gt;) and deselect the hide options for the cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T125548Z">
@@ -17355,6 +17363,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T151153Z">
         <seg>Creare pagine web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a &lt;i0/&gt;new outline level</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T174844Z" creationid="Elisabetta Manuele" creationdate="20181203T174844Z">
+        <seg>Creare un &lt;i0/&gt;nuovo livello di struttura</seg>
       </tuv>
     </tu>
     <tu>
@@ -29048,6 +29064,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If necessary, press &lt;f0&gt;Enter&lt;/f0&gt; to begin a new list entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T174915Z" creationid="Elisabetta Manuele" creationdate="20181203T174915Z">
+        <seg>Se necessario, premete &lt;f0&gt;Invio&lt;/f0&gt; per cominciare una nuova riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If necessary, select &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;View &gt; Sidebar&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from the Menu bar to display it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T102229Z">
@@ -31276,6 +31300,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T124037Z">
         <seg>Nella sezione chiamata &lt;f1&gt;Formato file predefinito e impostazioni ODF&lt;/f1&gt;, come &lt;f2&gt;Tipo documento&lt;/f2&gt;, selezionate &lt;f3&gt;Foglio elettronico,&lt;/f3&gt; quindi in &lt;f4&gt;Salva sempre come&lt;/f4&gt;, selezionate il formato file che preferite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In AutoLayout text boxes, create a new outline level as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T174859Z" creationid="Elisabetta Manuele" creationdate="20181203T174859Z">
+        <seg>All'interno delle caselle di testo a Layout automatico, create un nuovo livello di struttura come segue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58359,6 +58391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type the text and press &lt;f0&gt;Enter&lt;/f0&gt; to start a new bulleted line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T174712Z" creationid="Elisabetta Manuele" creationdate="20181203T174712Z">
+        <seg>Digitate il testo e premete &lt;f0&gt;Invio&lt;/f0&gt; per iniziare una nuova voce dell'elenco puntato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type the text into your document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143906Z">
@@ -67629,6 +67669,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T102441Z">
         <seg>orientamento della pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>outline level</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T174816Z" creationid="Elisabetta Manuele" creationdate="20181203T174816Z">
+        <seg>livello di struttura</seg>
       </tuv>
     </tu>
     <tu>
