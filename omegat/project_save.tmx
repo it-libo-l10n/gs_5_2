@@ -39473,6 +39473,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Or click on the small triangle next to the &lt;f0&gt;Paste&lt;/f0&gt; icon in the Standard toolbar and select &lt;f1&gt;Unformatted text&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171842Z" creationid="Elisabetta Manuele" creationdate="20181203T171842Z">
+        <seg>Oppure fate clic sul piccolo triangolo accanto all'icona &lt;f0&gt;Incolla&lt;/f0&gt; nella barra degli strumenti Standard e selezionate la voce &lt;f1&gt;Testo non formattato&lt;/f1&gt; dal menu a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or click the &lt;f0&gt;NewPage/Slide&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; in the Presentation toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171911Z" creationid="Elisabetta Manuele" creationdate="20181128T171911Z">
@@ -56487,6 +56495,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To paste text without formatting:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171730Z" creationid="Elisabetta Manuele" creationdate="20181203T171730Z">
+        <seg>Per incollare testo senza formattazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To perform a combined spelling and grammar check on the document (or a text selection), click the &lt;f0&gt;Spelling and Grammar&lt;/f0&gt; button &lt;f1&gt;on the Standard toolbar, or choose &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Tools &gt; Spelling and Grammar&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T063106Z">
@@ -58940,6 +58956,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194736Z">
         <seg>Usate la combinazione di tasti&lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+V&lt;/f0&gt; and select &lt;f1&gt;Unformatted text&lt;/f1&gt; from the Paste Special dialog that opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171803Z" creationid="Elisabetta Manuele" creationdate="20181203T171803Z">
+        <seg>Servitevi della combinazione di tasti &lt;f0&gt;Ctrl+Maiusc+V&lt;/f0&gt; e selezionate &lt;f1&gt;Testo non formattato&lt;/f1&gt; nella successiva finestra di dialogo Incolla speciale.</seg>
       </tuv>
     </tu>
     <tu>
