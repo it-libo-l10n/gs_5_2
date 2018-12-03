@@ -29768,6 +29768,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are pasting text in a &lt;f0&gt;text box&lt;/f0&gt;, you can still use styles to &lt;i1/&gt;&lt;i2/&gt;format the text quickly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173457Z" creationid="Elisabetta Manuele" creationdate="20181203T173457Z">
+        <seg>Se avete incollato del testo in una &lt;f0&gt;casella di testo&lt;/f0&gt;, potete comunque servirvi degli stili per &lt;i1/&gt;&lt;i2/&gt;formattarlo rapidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are pasting the text into an &lt;f0&gt;AutoLayout&lt;/f0&gt; text box, you need to apply the appropriate &lt;f1&gt;outline style&lt;/f1&gt; to the text to give it the same look and feel as the rest of the presentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172453Z" creationid="Elisabetta Manuele" creationdate="20181203T172453Z">
@@ -38969,6 +38977,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only one graphic style can be applied to the pasted text, as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173539Z" creationid="Elisabetta Manuele" creationdate="20181203T173539Z">
+        <seg>Si può applicare solo uno stile grafico al testo incollato, nel modo seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only one section at a time can be open.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104511Z">
@@ -44661,6 +44677,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T131926Z">
         <seg>Selezionate l'evento desiderato e fate clic sul pulsante &lt;f0&gt;Macro&lt;/f0&gt; per aprire la finestra di dialogo Selettore Macro (&lt;t1&gt;Figura 344&lt;/t1&gt; a pagina &lt;t2&gt;351&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the desired graphical style to format the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173608Z" creationid="Elisabetta Manuele" creationdate="20181203T173608Z">
+        <seg>Selezionate lo stile grafico desiderato per formattare il testo.</seg>
       </tuv>
     </tu>
     <tu>
