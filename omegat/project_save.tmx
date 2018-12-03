@@ -15571,6 +15571,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Text&lt;/f0&gt; icon on the Standard or Text toolbar or use the keyboard shortcut &lt;f1&gt;F2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T165228Z" creationid="Elisabetta Manuele" creationdate="20181203T165228Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Testo&lt;/f0&gt; nella barra degli strumenti Standard oppure servitevi del tasto di scelta rapida &lt;f1&gt;F2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the &lt;f0&gt;Toolbar&lt;/f0&gt; or &lt;f1&gt;Modify&lt;/f1&gt; buttons, and add commands to a toolbar by clicking on the &lt;f2&gt;Add&lt;/f2&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T135042Z">
