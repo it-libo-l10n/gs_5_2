@@ -34312,6 +34312,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left arrow promotes a list entry by one level (for example from Outline 3 to Outline 2).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172940Z" creationid="Elisabetta Manuele" creationdate="20181203T172940Z">
+        <seg>La freccia verso sinistra incrementa la voce dell'elenco di un livello (per esempio da Struttura 3 a Struttura 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left, right arrow keys</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T135846Z">
@@ -58986,8 +58994,8 @@
       <tuv lang="EN">
         <seg>Use the four arrow buttons on &lt;i0/&gt;the Text Formatting toolbar (highlighted in Figure &lt;t1&gt;128&lt;/t1&gt; on page &lt;t2&gt;158&lt;/t2&gt;) to move the text to the appropriate position and give it the appropriate outline level.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172640Z" creationid="Elisabetta Manuele" creationdate="20181203T172640Z">
-        <seg>Ricorrete ai quattro pulsanti freccia sulla barra degli strumenti Formattazione del testo (evidenziati in figura 128 a pag.158) per spostare il testo nella posizione appropriata e applicargli il livello di struttura adeguato.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172909Z" creationid="Elisabetta Manuele" creationdate="20181203T172640Z">
+        <seg>Ricorrete ai quattro pulsanti freccia sulla &lt;i0/&gt;barra degli strumenti Formattazione del testo (evidenziati in figura &lt;t1&gt;128&lt;/t1&gt; a pag.&lt;t2&gt;158&lt;/t2&gt;) per spostare il testo nella posizione appropriata e applicargli il livello di struttura adeguato.</seg>
       </tuv>
     </tu>
     <tu>
