@@ -19352,6 +19352,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Down arrow moves a list entry down in the list order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173200Z" creationid="Elisabetta Manuele" creationdate="20181203T173200Z">
+        <seg>La freccia giù sposta la voce dell'elenco verso il basso nell'ordine di inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the extension package (OXT file) and save it anywhere on your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160444Z">
@@ -40633,6 +40641,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the &lt;f0&gt;Tab&lt;/f0&gt; key to get the same result after placing the cursor at the beginning of the paragraph.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173049Z" creationid="Elisabetta Manuele" creationdate="20181203T173049Z">
+        <seg>Premete il tasto &lt;f0&gt;Tab&lt;/f0&gt; per ottenere lo stesso risultato dopo aver posizionato il cursore all'inizio del paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press the &lt;f2&gt;Tab&lt;/f2&gt; key to move to the Field Type column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104048Z">
@@ -41941,6 +41957,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175955Z">
         <seg>Richard Holt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right arrow button demotes a list entry by one level.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173024Z" creationid="Elisabetta Manuele" creationdate="20181203T173024Z">
+        <seg>Il pulsante freccia a destra decrementa la voce dell'elenco di un livello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58443,6 +58467,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192155Z">
         <seg>Modifiche non salvate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Up arrow moves a list entry up in the list order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173110Z" creationid="Elisabetta Manuele" creationdate="20181203T173110Z">
+        <seg>La freccia su sposta la voce dell'elenco verso l'alto nell'ordine di inserimento.</seg>
       </tuv>
     </tu>
     <tu>
