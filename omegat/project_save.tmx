@@ -13267,6 +13267,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing list appearance</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T175752Z" creationid="Elisabetta Manuele" creationdate="20181203T175752Z">
+        <seg>Modificare l'aspetto degli elenchi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing the Language on the Font tab of the Paragraph Styles dialog, will change the language for all paragraphs that use that paragraph style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T150528Z">
@@ -19120,6 +19128,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not try to change the outline level by selecting the text and then clicking the desired outline style as you would in Writer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T175712Z" creationid="Elisabetta Manuele" creationdate="20181203T175712Z">
+        <seg>Non è possibile cambiare il livello di struttura selezionando il testo quindi facendo clic sullo stile di struttura desiderato come in Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not use &lt;f0&gt;Ctrl+click&lt;/f0&gt; when moving a field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T094919Z">
@@ -19844,6 +19860,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T175010Z">
         <seg>Elenco a discesa dal quale selezionare una voce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Due to the way that presentation styles work in Impress, it is not possible to change the level in this way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T175736Z" creationid="Elisabetta Manuele" creationdate="20181203T175736Z">
+        <seg>A causa del tipo di funzionamento degli stili di presentazione in Impress, non è possibile modificare il livello mediante questo procedimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64133,6 +64157,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131141Z">
         <seg>Potete inserire dei dati (solitamente numerici) in un foglio elettronico e poi manipolarli per ottenere determinati risultati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can fully customize list appearance by changing the bullet type or numbering for the entire list or for only a single entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T175842Z" creationid="Elisabetta Manuele" creationdate="20181203T175842Z">
+        <seg>È possibile personalizzare totalmente l'aspetto di un elenco modificando il tipo di punti o la numerazione per l'intero elenco o per una sola voce.</seg>
       </tuv>
     </tu>
     <tu>
