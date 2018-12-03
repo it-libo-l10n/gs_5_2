@@ -10441,6 +10441,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, after inserting a new slide, click the &lt;f0&gt;Insert Image&lt;/f0&gt; icon (Figure &lt;t1&gt;140&lt;/t1&gt; on page &lt;t2&gt;167&lt;/t2&gt;) on the new slide and select the file from the Insert Image dialog that opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182931Z" creationid="Elisabetta Manuele" creationdate="20181203T182931Z">
+        <seg>In alternativa, dopo aver inserito una nuova diapositiva, fate clic sull'icona &lt;f0&gt;Inserisci immagine&lt;/f0&gt; (Figura &lt;t1&gt;140&lt;/t1&gt; a pagina &lt;t2&gt;167&lt;/t2&gt;) all'interno della nuova diapositiva e selezionate il file nella successiva finestra di dialogo Inserisci immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, click in the Input Line on the Formula Bar (Figure &lt;t0&gt;87&lt;/t0&gt; on page &lt;t1&gt;115&lt;/t1&gt;), then double-click on the data to highlight it completely and type the new data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094953Z">
@@ -27104,6 +27112,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Insert &gt; Image&lt;/f0&gt; on the Menu bar and then select either &lt;f1&gt;From file&lt;/f1&gt; or &lt;f2&gt;Scan&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182830Z" creationid="Elisabetta Manuele" creationdate="20181203T182830Z">
+        <seg>Accedete alla voce &lt;f0&gt;Inserisci &gt; Immagine&lt;/f0&gt; nella Barra dei menu e selezionate &lt;f1&gt;Da file&lt;/f1&gt; o da &lt;f2&gt;Scansione&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Insert &gt; Object &gt; OLE Object&lt;/f0&gt; on the menu bar to open the Insert OLE Object dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T131010Z">
@@ -37109,6 +37125,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142612Z">
         <seg>Portate il mouse all'angolo opposto dell'intervallo desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the picture to the desired location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T183028Z" creationid="Elisabetta Manuele" creationdate="20181203T183028Z">
+        <seg>Spostate l'immagine nella posizione desiderata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57483,6 +57507,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T154342Z">
         <seg>Per salvare le modifiche apportate come &lt;i0/&gt;schema colori, fate clic su &lt;f1&gt;Salva&lt;/f1&gt;, digitate un nome nel campo &lt;f2&gt;Nome dello schema colori&lt;/f2&gt;, e poi fate clic su &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To see a preview of the picture, select &lt;f3&gt;Preview&lt;/f3&gt; at the bottom of the Insert Image dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T183015Z" creationid="Elisabetta Manuele" creationdate="20181203T183015Z">
+        <seg>Per visualizzare un'anteprima dell'immagine, selezionate l'opzione &lt;f3&gt;Anteprima&lt;/f3&gt; in fondo alla finestra di dialogo Inserisci immagine.</seg>
       </tuv>
     </tu>
     <tu>
