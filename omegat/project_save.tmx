@@ -16222,6 +16222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f1&gt;Vertical Text&lt;/f1&gt; icon &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt; in the Standard toolbar or Text toolbar to create a vertical text box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170822Z" creationid="Elisabetta Manuele" creationdate="20181203T170822Z">
+        <seg>Fate clic sull'icona &lt;f1&gt;Testo verticale&lt;/f1&gt; &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt; nella barra degli strumenti Standard o Testo per creare una casella di testo verticale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f2&gt;Target in Document&lt;/f2&gt; icon to open the Target in Document dialog where you can select the type of target; or, if you know the name of the target, you can type it into the box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T220016Z">
@@ -21556,6 +21564,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174932Z" creationid="Elisabetta Manuele" creationdate="20181129T174932Z">
         <seg>Figura &lt;seq0&gt;142&lt;/seq0&gt;: barra degli strumenti Testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;143&lt;/seq0&gt;: Creating and editing text boxes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170837Z" creationid="Elisabetta Manuele" creationdate="20181203T170837Z">
+        <seg>Figura &lt;seq0&gt;143&lt;/seq0&gt;: creare e modificare caselle di testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -30964,6 +30980,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172952Z" creationid="Elisabetta Manuele" creationdate="20181129T172952Z">
         <seg>Impress include diversi master di diapositiva contenuti nella sezione &lt;f0&gt;Pagine schema&lt;/f0&gt; della Barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress has an &lt;f0&gt;Increase Font&lt;/f0&gt; icon and a &lt;f1&gt;Decrease Font&lt;/f1&gt; icon on the Text Formatting toolbar (highlighted in Figure &lt;t2&gt;144&lt;/t2&gt;) to increase or decrease the font size of selected text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171024Z" creationid="Elisabetta Manuele" creationdate="20181203T171024Z">
+        <seg>Per aumentare o diminuire la dimensione del carattere per il testo selezionato, Impress dispone rispettivamente delle icone &lt;f0&gt;Aumenta la dimensione del carattere&lt;/f0&gt; e &lt;f1&gt;Riduci la dimensione del carattere&lt;/f1&gt;, nella barra degli strumenti Formattazione del testo (evidenziata nella Figura &lt;t2&gt;144&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40949,6 +40973,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181011T170219Z" creationid="Alessia Mazzarini" creationdate="20181011T170219Z">
         <seg>Esportazione veloce in PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quick font resizing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170910Z" creationid="Elisabetta Manuele" creationdate="20181203T170910Z">
+        <seg>Ridimensionamento rapido dei caratteri</seg>
       </tuv>
     </tu>
     <tu>
@@ -66309,6 +66341,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062314Z">
         <seg>carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>font resizing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170851Z" creationid="Elisabetta Manuele" creationdate="20181203T170851Z">
+        <seg>ridimensionamento caratteri</seg>
       </tuv>
     </tu>
     <tu>
