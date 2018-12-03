@@ -13179,6 +13179,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changes made to the outline style will apply to all the slides using them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182217Z" creationid="Elisabetta Manuele" creationdate="20181203T182217Z">
+        <seg>Le modifiche apportate allo stile di struttura verranno applicate a tutte le diapositive che se ne avvalgono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changes to any of the layouts included in Impress can only be made using &lt;f0&gt;View &gt; Normal&lt;/f0&gt;, which is the default.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171405Z" creationid="Elisabetta Manuele" creationdate="20181129T171405Z">
@@ -29524,6 +29532,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T093807Z">
         <seg>Se l'elenco dei pulsanti disponibili per una barra degli strumenti non include tutti i comandi che desiderate su quella barra degli strumenti, potete aggiungere dei comandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the list was created in an AutoLayout text box, then an alternative way to change the entire list is to modify the Outline styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182149Z" creationid="Elisabetta Manuele" creationdate="20181203T182149Z">
+        <seg>Se l'elenco era stato creato in una casella di testo a Layout automatico un metodo alternativo per modificare l'intero elenco consiste nel ridefinire gli stili di Struttura.</seg>
       </tuv>
     </tu>
     <tu>
