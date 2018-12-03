@@ -9801,6 +9801,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding tables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T183449Z" creationid="Elisabetta Manuele" creationdate="20181203T183449Z">
+        <seg>Aggiungere tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding templates obtained from other sources</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175937Z">
@@ -41853,6 +41861,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175358Z">
         <seg>Ricaricare un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember also that resizing a bitmap image will reduce its quality; it is better to create an image of the desired size outside of Impress.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T183446Z" creationid="Elisabetta Manuele" creationdate="20181203T183446Z">
+        <seg>Tenete presente inoltre che il ridimensionamento di un'immagine bitmap ne riduce la qualità, è preferibile creare un'immagine delle dimensioni desiderate esternamente a Impress.</seg>
       </tuv>
     </tu>
     <tu>
