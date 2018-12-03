@@ -50883,6 +50883,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The list entry moves to the right and is indented to the next outline level.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T175038Z" creationid="Elisabetta Manuele" creationdate="20181203T175038Z">
+        <seg>La voce dell'elenco si sposta a destra e viene fatta rientrare al livello di struttura successivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The list in the left-hand box of the Options – LibreOffice dialog varies depending on which component of LibreOffice is open.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180528T083231Z">
@@ -55741,6 +55749,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To demote a list entry (move it to the right), press the &lt;f0&gt;Tab&lt;/f0&gt; key or click the Demote (right arrow) icon on the Text Formatting toolbar or use the keyboard shortcut &lt;f1&gt;Alt+Shift+Right&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T175016Z" creationid="Elisabetta Manuele" creationdate="20181203T175016Z">
+        <seg>Per decrementare una voce dell'elenco di un livello (spostarla verso destra), premete il tasto &lt;f0&gt;Tab&lt;/f0&gt; o fate clic sull'icona Un livello più basso (freccia destra) nella barra strumenti Formattazione del testo, oppure servitevi della combinazione di tasti &lt;f1&gt;Alt+Maiusc+freccia destra&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To display &lt;i0/&gt;the &lt;f1&gt;color palette currently in use (Figure&lt;/f1&gt; &lt;t2&gt;168&lt;/t2&gt;), select &lt;f3&gt;View &gt; Toolbars &gt; Color Bar&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T150526Z">
@@ -56875,6 +56891,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211237Z" creationid="Alessia Mazzarini" creationdate="20181007T211237Z">
         <seg>Per la stampa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To promote a list entry (move it to the left), press &lt;f0&gt;Shift+Tab &lt;/f0&gt;or click the Promote (left arrow) icon on the Text Formatting toolbar or use the keyboard shortcut &lt;f1&gt;Alt+Shift+Left&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T175245Z" creationid="Elisabetta Manuele" creationdate="20181203T175245Z">
+        <seg>Per incrementare una voce dell'elenco di un livello (spostarla verso sinistra), premete il tasto &lt;f0&gt;Maiusc + Tab&lt;/f0&gt; o fate clic sull'icona Un livello più alto (freccia sinistra) nella barra strumenti Formattazione del testo, oppure servitevi della combinazione di tasti &lt;f1&gt;Alt+Maiusc+freccia sinistra&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
