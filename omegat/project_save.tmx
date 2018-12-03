@@ -15171,6 +15171,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click and drag to draw a box for the text on the slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T165955Z" creationid="Elisabetta Manuele" creationdate="20181203T165955Z">
+        <seg>Fate clic e trascinate per creare un riquadro per il testo all'interno della diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click and draw the first line from the start point with the left mouse button held down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104437Z">
