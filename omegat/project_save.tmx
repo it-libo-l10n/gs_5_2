@@ -8520,6 +8520,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A contents box can contain pictures, tables, charts, or media as well as text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182548Z" creationid="Elisabetta Manuele" creationdate="20181203T182548Z">
+        <seg>Un riquadro per i contenuti può includere immagini, tabelle, grafici o file multimediali, nonché testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A context menu can be the easiest way to reach a function, especially if you are not sure where the function is located in the menus or toolbars.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190802Z">
@@ -9757,6 +9765,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171913Z" creationid="Elisabetta Manuele" creationdate="20181129T171913Z">
         <seg>Aggiungere oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding pictures</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182701Z" creationid="Elisabetta Manuele" creationdate="20181203T182701Z">
+        <seg>Aggiungere immagini</seg>
       </tuv>
     </tu>
     <tu>
@@ -25676,6 +25692,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174324Z" creationid="Elisabetta Manuele" creationdate="20181129T174324Z">
         <seg>Per ulteriori informazioni sull'aggiunta o sulla formattazione di testo, consultate il &lt;f1&gt;Capitolo 3 (Aggiunta e formattazione del testo) della Guida a Impress&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on adding pictures, tables, charts, or media, please refer to the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182652Z" creationid="Elisabetta Manuele" creationdate="20181203T182652Z">
+        <seg>Per ulteriori informazioni sull'aggiunta di immagini, tabelle, grafici o contenuti multimediali, fate riferimento alla &lt;f0&gt;Guida di Impress&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54563,6 +54587,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This section provides a quick overview of how to work with these objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182608Z" creationid="Elisabetta Manuele" creationdate="20181203T182608Z">
+        <seg>Questa sezione fornisce una rapida panoramica sulla gestione di questi oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This section provides some advice &lt;f0&gt;on how to layout complex formulas in Math or in a LibreOffice document.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T142726Z">
@@ -55064,6 +55096,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T111510Z">
         <seg>Per aggiungere nuove voci all'elenco, digitatele nei campi &lt;f2&gt;Sostituisci&lt;/f2&gt; e &lt;f3&gt;Con&lt;/f3&gt; sulla scheda Sostituzione, e fate clic su &lt;f4&gt;Nuovo&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add a picture to a contents box:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182737Z" creationid="Elisabetta Manuele" creationdate="20181203T182737Z">
+        <seg>Per aggiungere un'immagine a un riquadro per i contenuti:</seg>
       </tuv>
     </tu>
     <tu>
