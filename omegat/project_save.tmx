@@ -11650,6 +11650,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AutoLayout text boxes can automatically resize fonts to let the box contain all the text you insert.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171155Z" creationid="Elisabetta Manuele" creationdate="20181203T171155Z">
+        <seg>Le caselle di testo a Layout automatico possono ridimensionare i caratteri automaticamente per essere in grado di contenere tutto il testo inserito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AutoRecovery</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144233Z">
@@ -21576,6 +21584,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;144&lt;/seq0&gt;: Quick font resizing on Text Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171134Z" creationid="Elisabetta Manuele" creationdate="20181203T171134Z">
+        <seg>Figura &lt;seq0&gt;144&lt;/seq0&gt;: ridimensionamento rapido dei caratteri nella barra degli strumenti Formattazione del testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Navigator in Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130224Z">
@@ -30212,6 +30228,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T123544Z">
         <seg>Se dovete inserire ripetutamente lo stesso dato, dopo averlo inserito nel documento per la prima volta, potete copiarlo ed incollarlo nel documento ogni volta che volete usarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you insert a long piece of text, the font size may shrink to fit into the box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171222Z" creationid="Elisabetta Manuele" creationdate="20181203T171222Z">
+        <seg>Se inserite una lunga stringa di testo, la dimensione del carattere potrebbe ridursi per adattarsi alla casella,</seg>
       </tuv>
     </tu>
     <tu>
@@ -39641,6 +39665,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, the font keeps its default size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171239Z" creationid="Elisabetta Manuele" creationdate="20181203T171239Z">
+        <seg>in caso contrario il carattere mantiene le proprie dimensioni predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, the main Impress window is displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T182341Z" creationid="Elisabetta Manuele" creationdate="20181126T182341Z">
@@ -39933,6 +39965,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055303Z">
         <seg>Copia in un altro documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pasting text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171244Z" creationid="Elisabetta Manuele" creationdate="20181203T171244Z">
+        <seg>Incollare testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -47737,6 +47777,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text may be inserted into the text box by copying it from another document &lt;i0/&gt;and pasting it into Impress.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171327Z" creationid="Elisabetta Manuele" creationdate="20181203T171327Z">
+        <seg>Il testo può essere inserito nella casella di testo copiandolo da un altro documento &lt;i0/&gt;e incollandolo in Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text mode</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180913T190013Z">
@@ -48983,6 +49031,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T080320Z">
         <seg>Le impostazioni di allineamento determinano il modo in cui gli elementi della formula, che si trovano uno sopra all'altro, vengono allineati orizzontalmente ciascuno rispetto agli altri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The amount by which the font size changes depends on the standard sizes available for the font in use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171059Z" creationid="Elisabetta Manuele" creationdate="20181203T171059Z">
+        <seg>Il grado di variazione della dimensione del carattere è determinato dai formati standard disponibili per il carattere in uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67337,6 +67393,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>pasting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171250Z" creationid="Elisabetta Manuele" creationdate="20181203T171250Z">
+        <seg>incollare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>path options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T144847Z">
@@ -68269,6 +68333,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T112132Z">
         <seg>modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171251Z" creationid="Elisabetta Manuele" creationdate="20181203T171251Z">
+        <seg>testo</seg>
       </tuv>
     </tu>
     <tu>
