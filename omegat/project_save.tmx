@@ -10185,6 +10185,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All of the changes can be made using the Bullets and Numbering dialog (Figure &lt;t0&gt;147&lt;/t0&gt;), which is accessed by going to &lt;f1&gt;Format &gt; Bullets and Numbering&lt;/f1&gt; on the Menu bar or by clicking on the &lt;f2&gt;Bullets Icon &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f7&gt;or the Numbering&lt;/f7&gt; icon &lt;df8&gt;&lt;di9/&gt;&lt;/df8&gt; on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T180108Z" creationid="Elisabetta Manuele" creationdate="20181203T180108Z">
+        <seg>Tutte le modifiche possono essere effettuate tramite la finestra di dialogo Elenchi puntati e numerati (figura &lt;t0&gt;147&lt;/t0&gt;) a cui potete accedere selezionando il menu &lt;f1&gt;Formato &gt; Elenchi puntati e numerati&lt;/f1&gt;, oppure facendo clic sulle icone &lt;f2&gt;Elenchi puntati&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f7&gt;, Elenchi numerati sì/no&lt;/f7&gt; &lt;df8&gt;&lt;di9/&gt;&lt;/df8&gt; nella barra strumenti Formattazione del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All of the fields with a label containing the word payment are too wide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T094341Z">
@@ -26020,6 +26028,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T063710Z">
         <seg>Per la colonna "Ultima_lettura".”Chilometraggio” – “Carburante".”Chilometraggio”,  sostituite il numero 1 con 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the entire list:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T180113Z" creationid="Elisabetta Manuele" creationdate="20181203T180113Z">
+        <seg>Per l'intero elenco:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44893,6 +44909,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180830T063813Z">
         <seg>Selezionate il documento con &lt;f0&gt;Ctrl+F6&lt;/f0&gt; e premete &lt;f1&gt;Tab&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the entire list or click on the border of the text box so that the resizing handles are displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T180201Z" creationid="Elisabetta Manuele" creationdate="20181203T180201Z">
+        <seg>Selezionate l'intero elenco oppure fate clic sul bordo della casella di testo, in modo da rendere visibili le maniglie di ridimensionamento.</seg>
       </tuv>
     </tu>
     <tu>
