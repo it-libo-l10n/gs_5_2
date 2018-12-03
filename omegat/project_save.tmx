@@ -15853,6 +15853,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click outside the text box to deselect it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170445Z" creationid="Elisabetta Manuele" creationdate="20181203T170445Z">
+        <seg>Fate clic all'esterno della casella di testo per deselezionarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;&gt;&gt;&lt;/f0&gt; button to move all the fields from the left box to the right box and click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180807T085343Z">
@@ -25760,6 +25768,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information, see the &lt;f0&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170606Z" creationid="Elisabetta Manuele" creationdate="20181203T170606Z">
+        <seg>Per ulteriori informazioni consultate il &lt;f0&gt;Capitolo 3 della Guida a Impress (Aggiunta e formattazione del testo)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information, see “&lt;bf1&gt;Adding pictures, tables, charts, and media&lt;/bf1&gt;” on page &lt;bf2&gt;174&lt;/bf2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172124Z" creationid="Elisabetta Manuele" creationdate="20181129T172124Z">
@@ -31636,6 +31652,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T134849Z">
         <seg>Oltre alle funzionalità di navigazione della Barra di stato (descritte sopra), è possibile utilizzare la finestra di dialogo Navigatore e la barra degli strumenti di navigazione, dalla barra degli strumenti standard oppure dalla barra laterale come descritto nel Capitolo 1 (Introduzione a LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to the normal text boxes where text is horizontally aligned, it is possible to insert text boxes where the text is aligned vertically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170646Z" creationid="Elisabetta Manuele" creationdate="20181203T170646Z">
+        <seg>Oltre alle normali caselle di testo in cui allineare testo orizzontalmente, è possibile inserirne altre in cui allinearlo verticalmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59888,6 +59912,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Vertical text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170610Z" creationid="Elisabetta Manuele" creationdate="20181203T170610Z">
+        <seg>Testo verticale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vertical text is available only when Asian languages are enabled in &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170720Z" creationid="Elisabetta Manuele" creationdate="20181203T170720Z">
+        <seg>Questa scelta è disponibile solo se si è attivata l'opzione per le lingue asiatiche nel menu &lt;f0&gt;Strumenti &gt; Opzioni &gt; Impostazioni della lingua &gt; Lingue&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View Layout (editable view): use the Facing Pages (Book view) button on the status bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212214Z" creationid="Alessia Mazzarini" creationdate="20181007T212214Z">
@@ -63789,6 +63829,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104125Z">
         <seg>Potete spostare i piccoli contrassegni dei commenti in qualsiasi punto del disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can move, resize, and delete text boxes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170525Z" creationid="Elisabetta Manuele" creationdate="20181203T170525Z">
+        <seg>È possibile spostare, ridimensionare ed eliminare le caselle di testo.</seg>
       </tuv>
     </tu>
     <tu>
