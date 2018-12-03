@@ -39985,6 +39985,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pasting unformatted text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171603Z" creationid="Elisabetta Manuele" creationdate="20181203T171603Z">
+        <seg>Incollare testo non formattato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paths options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T144855Z">
@@ -52475,6 +52483,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are several ways to ensure consistency in your presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171556Z" creationid="Elisabetta Manuele" creationdate="20181203T171556Z">
+        <seg>Esistono diversi metodi per garantire uniformità alla presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are three ways to navigate between sheets in a spreadsheet:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180713T193423Z">
@@ -53719,6 +53735,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T112642Z">
         <seg>Questo &lt;/f7&gt;&lt;f8&gt;linguaggio &lt;/f8&gt; di markup &lt;f9&gt;è progettato per &lt;/f9&gt;&lt;f10&gt;essere &lt;/f10&gt;&lt;f11&gt; letto facilmente (in inglese)&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt; ogni qualvolta ciò sia possibile, &lt;/f16&gt;&lt;f17&gt;ad&lt;/f17&gt;&lt;f18&gt; esempio, &lt;/f18&gt; il testo &lt;f19&gt;a over b&lt;/f19&gt;, quando usato in una formula, &lt;f20&gt; genera &lt;/f20&gt;&lt;f21&gt;la formula della&lt;/f21&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;frazione&lt;/f23&gt;&lt;f24&gt;&lt;df25&gt;&lt;d26/&gt;&lt;di27/&gt;&lt;s28&gt;&lt;/s28&gt;&lt;/df25&gt;&lt;/f24&gt;&lt;f29&gt;&lt;/f29&gt;&lt;f30&gt;.&lt;/f30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This may be what you want on some occasions; however, in most cases you want to make sure that the presentation style is consistent and does not become a patchwork of different paragraph styles, font types, bullet points and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171542Z" creationid="Elisabetta Manuele" creationdate="20181203T171542Z">
+        <seg>Questo potrebbe corrispondere a quanto desiderate in alcune occasioni; tuttavia, nella maggior parte dei casi è auspicabile assicurarsi che lo stile di presentazione sia uniforme, evitando un effetto macedonia prodotto da stili diversi di paragrafo, tipi di carattere, punti elenco, ecc.</seg>
       </tuv>
     </tu>
     <tu>
