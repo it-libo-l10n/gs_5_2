@@ -16198,6 +16198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Text&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Standard toolbar and draw a text box on your slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T174606Z" creationid="Elisabetta Manuele" creationdate="20181203T174606Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Testo&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; nella barra degli strumenti Standard e tracciate una casella di testo nella diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f1&gt;Find Next&lt;/f1&gt; or &lt;f2&gt;Find Previous&lt;/f2&gt; buttons as needed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T094959Z">
@@ -17251,6 +17259,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170156Z">
         <seg>Copertina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a bulleted list in a text box as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T174530Z" creationid="Elisabetta Manuele" creationdate="20181203T174530Z">
+        <seg>Per creare un elenco puntato in una casella di testo, procedete come segue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29284,6 +29300,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T165722Z" creationid="Elisabetta Manuele" creationdate="20181203T165722Z">
         <seg>Se le barre degli strumenti Standard o Testo non sono visibili accedete alla voce &lt;f2&gt;Visualizza &gt; Barre degli strumenti&lt;/f2&gt; nella Barra dei menu e selezionate &lt;f3&gt;Standard&lt;/f3&gt; o &lt;f4&gt;Testo&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Text Formatting toolbar is not displayed, go to &lt;f5&gt;View &gt; Toolbar &gt; Text Formatting&lt;/f5&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T174452Z" creationid="Elisabetta Manuele" creationdate="20181203T174452Z">
+        <seg>Se la barra degli strumenti Formattazione del testo non è visibile, accedete alla voce &lt;f5&gt;Visualizza &gt; Barre degli strumenti &gt; Formattazione del testo&lt;/f5&gt;, nella Barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47961,6 +47985,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text boxes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T174507Z" creationid="Elisabetta Manuele" creationdate="20181203T174507Z">
+        <seg>Caselle di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text documents &lt;f4&gt;in office suites have a richer set of resources that will not appear in HTML, for example page formatting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T124024Z">
@@ -57555,6 +57587,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T143904Z">
         <seg>Per salvare del testo come Testo automatico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To switch off bullets altogether, click the &lt;f1&gt;Bullets On/Off&lt;/f1&gt; icon &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt; on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T174414Z" creationid="Elisabetta Manuele" creationdate="20181203T174414Z">
+        <seg>Per disattivare tutti i punti elenco contemporaneamente, fate clic sull'icona &lt;f1&gt;Elenco puntato sì/no&lt;/f1&gt; &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt; nella barra strumenti Formattazione del testo.</seg>
       </tuv>
     </tu>
     <tu>
