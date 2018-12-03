@@ -21600,6 +21600,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;146&lt;/seq0&gt;: Sidebar Character section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172352Z" creationid="Elisabetta Manuele" creationdate="20181203T172352Z">
+        <seg>Figura &lt;seq0&gt;146&lt;/seq0&gt;: sezione Carattere della Barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Navigator in Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130224Z">
@@ -29748,6 +29756,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T195225Z">
         <seg>Se ancora non conoscete LibreOffice, questa appendice vi fornirà delle informazioni riguardanti la sua storia, la sua comunità ed alcune delle sue specifiche tecniche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are pasting the text into an &lt;f0&gt;AutoLayout&lt;/f0&gt; text box, you need to apply the appropriate &lt;f1&gt;outline style&lt;/f1&gt; to the text to give it the same look and feel as the rest of the presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172453Z" creationid="Elisabetta Manuele" creationdate="20181203T172453Z">
+        <seg>Se desiderate incollare testo in una casella a &lt;f0&gt;Layout automatico&lt;/f0&gt;, dovrete applicare lo &lt;f1&gt;stile di struttura&lt;/f1&gt; appropriato per conferirgli un aspetto coerente con il resto della presentazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39985,6 +40001,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paste the text in the desired position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172500Z" creationid="Elisabetta Manuele" creationdate="20181203T172500Z">
+        <seg>Incollate il testo nella posizione desiderata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pastes copied or cut items from the clipboard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T150403Z">
@@ -43625,6 +43649,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Format &gt; Default formatting&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172538Z" creationid="Elisabetta Manuele" creationdate="20181203T172538Z">
+        <seg>Scegliete &lt;f0&gt;Formato &gt; Formattazione predefinita&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Format &gt; Styles and Formatting &lt;/f0&gt;or press &lt;f1&gt;F11&lt;/f1&gt; to open the Styles and Formatting dialog, or click on the Styles and Formatting icon on the Sidebar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094110Z">
@@ -45005,6 +45037,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T141946Z">
         <seg>Selezionate il modello che volete eliminare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the text you have just pasted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172520Z" creationid="Elisabetta Manuele" creationdate="20181203T172520Z">
+        <seg>Selezionatelo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47763,8 +47803,8 @@
       <tuv lang="EN">
         <seg>Text Formatting toolbar</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105937Z">
-        <seg>Barra degli strumenti Formattazione del testo</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172618Z">
+        <seg>barra degli strumenti Formattazione del testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -58940,6 +58980,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180917T211125Z">
         <seg>Per creare una libreria che contenga le vostre macro, usate questi passaggi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the four arrow buttons on &lt;i0/&gt;the Text Formatting toolbar (highlighted in Figure &lt;t1&gt;128&lt;/t1&gt; on page &lt;t2&gt;158&lt;/t2&gt;) to move the text to the appropriate position and give it the appropriate outline level.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172640Z" creationid="Elisabetta Manuele" creationdate="20181203T172640Z">
+        <seg>Ricorrete ai quattro pulsanti freccia sulla barra degli strumenti Formattazione del testo (evidenziati in figura 128 a pag.158) per spostare il testo nella posizione appropriata e applicargli il livello di struttura adeguato.</seg>
       </tuv>
     </tu>
     <tu>
