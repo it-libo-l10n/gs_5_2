@@ -8432,6 +8432,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A change in level and style produces other changes, for example, to font size, bullet type, and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T175536Z" creationid="Elisabetta Manuele" creationdate="20181203T175536Z">
+        <seg>Di conseguenza, un cambio di livello produce anche altre modifiche (ad esempio le dimensioni del carattere, il tipo di punto, ecc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A chart &lt;f0&gt;in a Calc spreadsheet &lt;/f0&gt;is itself an OLE object; &lt;f1&gt;t&lt;/f1&gt;herefore you cannot &lt;f2&gt;use the Formula Editor to create and insert a formula into a chart.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180915T140718Z">
@@ -32448,6 +32456,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the AutoLayout text boxes, promoting or demoting an item in the list corresponds to applying a different outline style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T175435Z" creationid="Elisabetta Manuele" creationdate="20181203T175435Z">
+        <seg>Nelle caselle di testo a Layout automatico, l’incremento o il decremento di livello di un elemento in elenco corrisponde all'applicazione di un diverso stile di struttura. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the AutoText dialog, type a name for the AutoText in the &lt;f0&gt;Name&lt;/f0&gt; box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144107Z">
@@ -50883,6 +50899,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The list entry moves to the left and is indented at the next higher level.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T175320Z" creationid="Elisabetta Manuele" creationdate="20181203T175320Z">
+        <seg>La voce dell'elenco si sposta a sinistra e viene fatta rientrare al livello di struttura più elevato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The list entry moves to the right and is indented to the next outline level.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T175038Z" creationid="Elisabetta Manuele" creationdate="20181203T175038Z">
@@ -51911,6 +51935,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T072708Z">
         <seg>Le condizioni di ricerca permettono di confrontare il nome inserito con il nome dell'artista nel database e di decidere se includere o meno quel particolare artista nella ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second outline level corresponds to Outline 2 style, the third outline level to Outline 3 style, and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T175457Z" creationid="Elisabetta Manuele" creationdate="20181203T175457Z">
+        <seg>Il secondo livello di struttura corrisponde allo stile Struttura 2, il terzo allo stile Struttura 3, ecc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55561,6 +55593,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T160159Z">
         <seg>Per creare un nuovo database, selezionate &lt;f0&gt;File &gt; Nuovo &gt; Database&lt;/f0&gt; dalla barra dei menu, oppure fate clic sulla freccia di fianco all'icona &lt;f1&gt;&lt;f2&gt;Nuovo&lt;/f2&gt;&lt;/f1&gt; sulla barra degli strumenti Standard e selezionate &lt;f3&gt;Database&lt;/f3&gt; dal menu a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a new list entry at the same level as the previous one, press &lt;f0&gt;Enter&lt;/f0&gt; again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T175408Z" creationid="Elisabetta Manuele" creationdate="20181203T175408Z">
+        <seg>Per creare una nuova voce dell'elenco allo stesso livello del precedente, premete nuovamente &lt;f0&gt;Invio&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
