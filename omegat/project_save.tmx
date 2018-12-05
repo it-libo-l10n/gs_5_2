@@ -31512,6 +31512,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Impress offers the capability of inserting into a slide various other types of objects such as Writer documents, Math formulas, Draw drawings, or another presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T173841Z" creationid="Elisabetta Manuele" creationdate="20181205T173841Z">
+        <seg>Potete inoltre inserire in una diapositiva diversi altri tipi di oggetti come documenti di Writer, formule di Math, disegni di Draw o altre presentazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Impress presentations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T124514Z">
@@ -54635,6 +54643,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This opens a spreadsheet in the middle of the slide and the menus and toolbars change to those used in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T173718Z" creationid="Elisabetta Manuele" creationdate="20181205T173645Z">
+        <seg>In questo modo si aprirà un foglio di calcolo al centro della diapositiva, mentre i menu e le barre degli strumenti verranno sostituiti da quelli presenti in Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This opens the &lt;f3&gt;Position&lt;/f3&gt; toolbar giving access to the various arrangement options (Figure &lt;t4&gt;187&lt;/t4&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T061526Z">
@@ -63841,6 +63857,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also insert an existing spreadsheet and use the viewport to select the data that you want to display on your slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T173805Z" creationid="Elisabetta Manuele" creationdate="20181205T173805Z">
+        <seg>È inoltre possibile inserire un foglio di calcolo esistente e selezionare i dati da riprodurre sulla diapositiva tramite la finestra Viewport.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also limit the fields you use to less than all of the fields available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181018T083025Z" creationid="manuel" creationdate="20181018T083025Z">
@@ -65177,6 +65201,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can select from options that include a LibreOffice 5.0 Spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T173613Z" creationid="Elisabetta Manuele" creationdate="20181205T173613Z">
+        <seg>È possibile scegliere tra le opzioni che consentono di incorporare un foglio di calcolo LibreOffice 5.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can select multiple changes and undo them at the same time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130628Z">
@@ -65293,6 +65325,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123059Z">
         <seg>In LibreOffice potete aprire un nuovo documento in vari modi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can start adding data, though you may have to resize the visible area on the slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T173742Z" creationid="Elisabetta Manuele" creationdate="20181205T173742Z">
+        <seg>Potete iniziare ad aggiungere dati, tenendo conto che potrebbe essere necessario ridimensionare l'area visibile sulla diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
