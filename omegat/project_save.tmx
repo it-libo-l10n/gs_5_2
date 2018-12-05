@@ -27176,6 +27176,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Insert &gt; Table&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Table&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T161625Z" creationid="Elisabetta Manuele" creationdate="20181205T161625Z">
+        <seg>Accedete alla voce &lt;f0&gt;Inserisci &gt; Tabella&lt;/f0&gt; nella barra dei menu oppure fate clic sull'icona &lt;f1&gt;Tabella&lt;/f1&gt; &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; nella barra degli strumenti Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Modify &gt; Group&lt;/f0&gt; on the Menu bar, or right-click on the selection and select &lt;f1&gt;Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Ctrl+Shift+G&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T173025Z">
@@ -29780,6 +29788,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172126Z">
         <seg>Se sono presenti diversi oggetti nascosti, continuate a tenere premuto il tasto &lt;f1&gt;Alt&lt;/f1&gt; e a fare clic fino a quando non raggiungete l'oggetto desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there is a table already on the slide and it is selected, click the &lt;f0&gt;Table&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Table toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T161704Z" creationid="Elisabetta Manuele" creationdate="20181205T161704Z">
+        <seg>Se nella diapositiva è già presente una tabella selezionata, fate clic sull'icona &lt;f0&gt;Tabella&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; nella barra degli strumenti Tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55200,6 +55216,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172034Z" creationid="Elisabetta Manuele" creationdate="20181129T172034Z">
         <seg>Per aggiungere oggetti a una diapositiva, ad esempio un'immagine, una clipart, un disegno, una fotografia, oppure un foglio elettronico, fate clic sulla voce &lt;f0&gt;Inserisci&lt;/f0&gt;, quindi selezionate l'elemento desiderato dal menu a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add basic tables to a slide:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T161507Z" creationid="Elisabetta Manuele" creationdate="20181205T161507Z">
+        <seg>Per aggiungere tabelle semplici a una diapositiva:</seg>
       </tuv>
     </tu>
     <tu>
