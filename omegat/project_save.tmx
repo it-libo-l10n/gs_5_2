@@ -26112,6 +26112,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information, see the &lt;f0&gt;Draw Guide Chapter 7 Getting Started with Draw&lt;/f0&gt;, or the &lt;f1&gt;Impress Guide Chapters 4, 5&lt;/f1&gt;, and 6.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T173332Z" creationid="Elisabetta Manuele" creationdate="20181205T173332Z">
+        <seg>Per ulteriori informazioni, consultate il &lt;f0&gt;Capitolo 7 della Guida introduttiva a Draw&lt;/f0&gt;, o i &lt;f1&gt;Capitoli 4, 5 e 6 della Guida a Impress&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information, see the &lt;f0&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170606Z" creationid="Elisabetta Manuele" creationdate="20181203T170606Z">
@@ -30804,6 +30812,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T193612Z">
         <seg>Se avete la necessità di aggiungere HTML del contenuto direttamente nel documento, attivate il modo di visualizzazione Testo sorgente HTML facendo clic sull'icona &lt;f0&gt;Sorgente HTML&lt;/f0&gt; nella barre degli strumenti oppure scegliendo &lt;f1&gt;Visualizza &gt; Testo sorgente HTML&lt;/f1&gt; dalla barra del menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you need to analyze your data or apply formulas, these operations are best performed in a Calc spreadsheet and the results displayed in an embedded Calc spreadsheet or even better in an Impress table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T173503Z" creationid="Elisabetta Manuele" creationdate="20181205T173503Z">
+        <seg>Se occorre analizzare dati o applicare formule, è preferibile eseguire queste operazioni in un foglio elettronico di Calc e visualizzarne i risultati in un foglio di Calc integrato o meglio ancora, in una tabella di Impress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47461,6 +47477,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T140233Z">
         <seg>I fogli elettronici sono formati da un certo numero di &lt;i2/&gt;&lt;f3&gt;fogli di lavoro&lt;/f3&gt; singoli, ognuno contenente delle celle disposte in righe e colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spreadsheets embedded in Impress include most of the functionality of Calc spreadsheets and are capable of performing extremely complex calculations and data analysis.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T173419Z" creationid="Elisabetta Manuele" creationdate="20181205T173419Z">
+        <seg>L'inclusione di un foglio elettronico in Impress assicura la maggior parte delle funzionalità di un foglio di Calc e, di conseguenza, consente di svolgere calcoli e analisi dei dati estremamente complessi.</seg>
       </tuv>
     </tu>
     <tu>
