@@ -10489,6 +10489,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, click the small triangle to the right of the &lt;f0&gt;Table&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; and select the number of rows and columns by dragging the cursor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T164824Z" creationid="Elisabetta Manuele" creationdate="20181205T164824Z">
+        <seg>In alternativa, fate clic sul piccolo triangolo a destra dell'icona &lt;f0&gt;Tabella&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; e selezionate il numero di righe e di colonne trascinando il puntatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; on the main menu bar to open the LibreOffice Basic Macros dialog, select your macro and click &lt;f1&gt;Run&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180919T124500Z">
@@ -29360,6 +29368,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;f1&gt;Table Design&lt;/f1&gt; section does not automatically open after inserting or selecting a table, click on the Properties icon at the side of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T164935Z" creationid="Elisabetta Manuele" creationdate="20181205T164935Z">
+        <seg>Se la sezione &lt;f1&gt;Struttura tabella&lt;/f1&gt; non si apre automaticamente dopo l'inserimento o la selezione di una tabella, fate clic sull'icona Proprietà a lato della Barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;f2&gt;Keys&lt;/f2&gt; list is empty, it indicates that the chosen key combination is free for use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T104745Z">
@@ -30212,6 +30228,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T161028Z">
         <seg>Se create un documento scegliendo &lt;f0&gt;File &gt; Nuovo &gt; Documento di testo&lt;/f0&gt; (oppure &lt;f1&gt;Foglio elettronico&lt;/f1&gt;, &lt;f2&gt;Presentazione&lt;/f2&gt;, o &lt;f3&gt;Disegno&lt;/f3&gt;) dal menu principale, LibreOffice crea il documento dal modello predefinito per quel tipo di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you create a table by another method, you can still apply a style of your choice later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T165033Z" creationid="Elisabetta Manuele" creationdate="20181205T165033Z">
+        <seg>Se create una tabella con un altro metodo è comunque possibile applicare uno stile preferito in un secondo momento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44465,6 +44489,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a design style from the available options for your table in the Table Design deck in the Properties section of the Sidebar (Figure &lt;t0&gt;148&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T164854Z" creationid="Elisabetta Manuele" creationdate="20181205T164854Z">
+        <seg>Selezionate uno stile grafico tra le opzioni disponibili per la tabella all'interno del pannello Struttura tabella, nella sezione Proprietà della Barra laterale (Figura &lt;t0&gt;148&lt;/t0&gt;). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a document rather than a directory on disk to import libraries contained in a document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T090007Z">
@@ -45677,6 +45709,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142341Z">
         <seg>Selezionare celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting from any of the styles in the Table Design section in the Sidebar creates a table based on that style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T164959Z" creationid="Elisabetta Manuele" creationdate="20181205T164959Z">
+        <seg>La selezione di uno degli stili nella sezione Struttura tabella della barra laterale genera una tabella basata su tale stile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49463,6 +49503,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T114112Z">
         <seg>La Procedura (o Creazione) guidata Tabella in Base contiene due categorie di tabelle: lavoro e personale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Table toolbar in Impress offers the same functions as the Table toolbar in Writer, with the exception of the calculation functions Sort and Sum.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T165102Z" creationid="Elisabetta Manuele" creationdate="20181205T165102Z">
+        <seg>La barra degli strumenti Tabella in Impress offre le stesse funzioni di quella presente in Writer, eccettuate le funzioni di calcolo Ordina e Somma.</seg>
       </tuv>
     </tu>
     <tu>
