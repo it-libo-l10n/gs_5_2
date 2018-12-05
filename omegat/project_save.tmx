@@ -11345,6 +11345,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Applying a slide master</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T191319Z" creationid="Elisabetta Manuele" creationdate="20181205T191319Z">
+        <seg>Applicare un master di diapositiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applying special effects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184613Z">
@@ -21960,10 +21968,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;149&lt;/seq0&gt;: Sidebar Master Pages section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T191253Z" creationid="Elisabetta Manuele" creationdate="20181205T191253Z">
+        <seg>Figura &lt;seq0&gt;149&lt;/seq0&gt;: sezione Pagine schema della Barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Navigator in Writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130224Z">
         <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: il Navigatore in Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;150&lt;/seq0&gt;: Master View toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T191314Z" creationid="Elisabetta Manuele" creationdate="20181205T191314Z">
+        <seg>Figura &lt;seq0&gt;150&lt;/seq0&gt;: barra degli strumenti Vista schema</seg>
       </tuv>
     </tu>
     <tu>
@@ -55824,6 +55848,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T150204Z">
         <seg>Per applicare uno stile di paragrafo, pagina o cornice, passate il mouse sul paragrafo, pagina o cornice e fate clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To apply a slide master to all the slides in your presentation:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T191344Z" creationid="Elisabetta Manuele" creationdate="20181205T191344Z">
+        <seg>Per applicare un master di diapositiva a tutte le diapositive della presentazione:</seg>
       </tuv>
     </tu>
     <tu>
