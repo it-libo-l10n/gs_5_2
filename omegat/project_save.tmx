@@ -10457,6 +10457,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, and after inserting a new slide into your presentation, click the &lt;f0&gt;Insert Table&lt;/f0&gt; icon (Figure &lt;t1&gt;140&lt;/t1&gt; on page &lt;t2&gt;167&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T164727Z" creationid="Elisabetta Manuele" creationdate="20181205T164727Z">
+        <seg>In alternativa, dopo aver aggiunto una nuova diapositiva alla presentazione, fate clic sull'icona &lt;f0&gt;Inserisci tabella&lt;/f0&gt;, all'interno della diapositiva (Figura &lt;t1&gt;140&lt;/t1&gt; a pagina &lt;t2&gt;167&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, click in the Input Line on the Formula Bar (Figure &lt;t0&gt;87&lt;/t0&gt; on page &lt;t1&gt;115&lt;/t1&gt;), then double-click on the data to highlight it completely and type the new data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094953Z">
@@ -45225,6 +45233,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the number of rows and columns required from the Insert Table dialog that opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T164746Z" creationid="Elisabetta Manuele" creationdate="20181205T164746Z">
+        <seg>Selezionate il numero di righe e di colonne desiderato nella successiva finestra di dialogo Inserisci tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the option &lt;f0&gt;Create from file&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T131040Z">
@@ -49447,6 +49463,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180721T114112Z">
         <seg>La Procedura (o Creazione) guidata Tabella in Base contiene due categorie di tabelle: lavoro e personale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Table toolbar is only visible after selecting &lt;f3&gt;View &gt; Toolbars &gt; Table&lt;/f3&gt; on the Menu bar and when a table is selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T164611Z" creationid="Elisabetta Manuele" creationdate="20181205T164611Z">
+        <seg>La barra degli strumenti Tabella è visibile solo dopo aver selezionato la voce &lt;f3&gt;Visualizza &gt; Barre degli strumenti &gt; Tabella&lt;/f3&gt; nella Barra dei menu e solo se è presente una tabella attiva all'interno della diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
