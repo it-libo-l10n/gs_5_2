@@ -9769,6 +9769,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding media files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T172128Z" creationid="Elisabetta Manuele" creationdate="20181205T172128Z">
+        <seg>Aggiungere file multimediali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding objects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171913Z" creationid="Elisabetta Manuele" creationdate="20181129T171913Z">
@@ -27196,6 +27204,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T125040Z">
         <seg>Nella barra del menu andate in &lt;f0&gt;Formato&lt;/f0&gt; e selezionate &lt;f1&gt;Foglio&lt;/f1&gt;, &lt;f2&gt;Riga&lt;/f2&gt; o &lt;f3&gt;Colonna&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Insert &gt; Audio or Video&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T172218Z" creationid="Elisabetta Manuele" creationdate="20181205T172218Z">
+        <seg>Accedete a &lt;f0&gt;Inserisci &gt; Audio o video&lt;/f0&gt; nella Barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56846,6 +56862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To insert media files, such as music and movie clips, in a slide:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T172145Z" creationid="Elisabetta Manuele" creationdate="20181205T172145Z">
+        <seg>Per inserire file multimediali, come musica e filmati, in una diapositiva:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To insert the cross-reference number without parentheses, select &lt;f0&gt;Numbering&lt;/f0&gt; instead of &lt;f1&gt;Reference&lt;/f1&gt; in the &lt;f2&gt;Insert&lt;/f2&gt; reference to section.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180911T122938Z">
@@ -57018,6 +57042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T134848Z">
         <seg>Per modificare una barra degli strumenti esistente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify the chart type, insert your own data and change the formatting, refer to the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T172121Z" creationid="Elisabetta Manuele" creationdate="20181205T172121Z">
+        <seg>Per modificare il tipo di grafico, inserire i dati e cambiare la formattazione, fate riferimento alla &lt;f0&gt;Guida di Impress&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
