@@ -9089,6 +9089,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A new slide master appears in the Slides pane.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T190256Z" creationid="Elisabetta Manuele" creationdate="20181205T190256Z">
+        <seg>Un secondo master di diapositiva compare nel riquadro Diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A number format is not applied.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221924Z">
@@ -29680,6 +29688,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Master View toolbar does not appear, go to &lt;f3&gt;View &gt; Toolbars&lt;/f3&gt; and select &lt;f4&gt;Master View.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T190121Z" creationid="Elisabetta Manuele" creationdate="20181205T190121Z">
+        <seg>Se questa barra non si dovesse aprire, accedete al menu &lt;f3&gt;Visualizza &gt; Barre degli strumenti&lt;/f3&gt; e selezionate la voce &lt;f4&gt;Vista schema&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Options dialog is not already open, click &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T142648Z">
@@ -34152,6 +34168,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is also recommended that you rename this new slide master.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T190325Z" creationid="Elisabetta Manuele" creationdate="20181205T190325Z">
+        <seg>È consigliabile rinominare questo nuovo master di diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is also recommended to save relatively if you want to create a directory structure on an Internet server.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144739Z">
@@ -36953,6 +36977,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modify this slide master to suit your requirements.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T190314Z" creationid="Elisabetta Manuele" creationdate="20181205T190314Z">
+        <seg>Modificate questo master in base alle le vostre necessità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifying a form</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085405Z">
@@ -39221,6 +39253,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071336Z">
         <seg>Nella finestra di dialogo Carica stili (Figura &lt;t0&gt;51&lt;/t0&gt;), trovate un modello o un documento ordinario da cui copiare gli stili di formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Master View toolbar, click the &lt;f0&gt;New Master&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T190209Z" creationid="Elisabetta Manuele" creationdate="20181205T190209Z">
+        <seg>Nella barra strumenti Vista schema, fate clic sull'icona &lt;f0&gt;Nuovo schema&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
