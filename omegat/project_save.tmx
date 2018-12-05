@@ -25690,8 +25690,8 @@
       <tuv lang="EN">
         <seg>For image styles, you can modify the prepackaged styles and also create new image styles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T183059Z" creationid="Elisabetta Manuele" creationdate="20181205T183059Z">
-        <seg>Riguardo agli stili grafici è possibile modificare quelli preconfezionati e anche crearne di nuovi.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T183210Z" creationid="Elisabetta Manuele" creationdate="20181205T183059Z">
+        <seg>Riguardo agli stili grafici è possibile modificare quelli preconfigurati e crearne anche di nuovi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40965,6 +40965,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145754Z">
         <seg>Presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Presentation styles affect three elements of a slide master: background, background objects (such as icons, decorative lines, and text frames), and text placed on the slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T183327Z" creationid="Elisabetta Manuele" creationdate="20181205T183327Z">
+        <seg>Gli stili di presentazione incidono su tre elementi dei master di diapositiva: lo sfondo, gli oggetti dello sfondo (come icone, linee decorative, e cornici di testo), e il testo presente nella diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
