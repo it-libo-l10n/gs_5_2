@@ -15852,6 +15852,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the Master Pages icon &lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt; in the Sidebar to open the Master Pages section (Figure &lt;t3&gt;149&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T191423Z" creationid="Elisabetta Manuele" creationdate="20181205T191423Z">
+        <seg>Fate clic sull'icona Pagine schema &lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt; della barra laterale per aprire l'omonima sezione (figura &lt;t3&gt;149&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the Navigator icon in the Sidebar or press &lt;f0&gt;F5&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T122455Z">
