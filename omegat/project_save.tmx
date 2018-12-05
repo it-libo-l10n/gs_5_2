@@ -42897,6 +42897,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the slide in the Slides pane and select &lt;f0&gt;Rename master&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T190450Z" creationid="Elisabetta Manuele" creationdate="20181205T190450Z">
+        <seg>A questo scopo fate clic con il pulsante destro del mouse sulla diapositiva nel riquadro Diapositive e scegliete la voce &lt;f0&gt;Rinomina diapositiva&lt;/f0&gt; dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on the&lt;f0&gt; CD-Collection&lt;/f0&gt; table icon.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091616Z">
@@ -62117,6 +62125,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111044Z" creationid="manuel" creationdate="20181015T111044Z">
         <seg>Quando inserite campi per questi calcoli, dovete utilizzare il seguente formato: nome della tabella o della ricerca seguito da un punto (.) e quindi dal nome del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When finished creating a slide master, click &lt;f0&gt;Close Master View&lt;/f0&gt; on the Master View toolbar and return to normal slide editing mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T190528Z" creationid="Elisabetta Manuele" creationdate="20181205T190528Z">
+        <seg>Al termine della creazione di un master di diapositiva fate clic su &lt;f0&gt;Chiudi vista schema&lt;/f0&gt;, nell'omonima barra strumenti e tornate alla normale modalità di modifica delle diapositive.</seg>
       </tuv>
     </tu>
     <tu>
