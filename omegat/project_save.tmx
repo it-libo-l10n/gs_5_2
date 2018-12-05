@@ -9721,6 +9721,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T165808Z" creationid="Elisabetta Manuele" creationdate="20181205T165808Z">
+        <seg>Aggiungere grafici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding comments to a document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180301Z">
@@ -27180,6 +27188,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T125040Z">
         <seg>Nella barra del menu andate in &lt;f0&gt;Formato&lt;/f0&gt; e selezionate &lt;f1&gt;Foglio&lt;/f1&gt;, &lt;f2&gt;Riga&lt;/f2&gt; o &lt;f3&gt;Colonna&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Insert &gt; Chart&lt;/f0&gt; on the Menu bar or click on the &lt;f1&gt;Chart&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; in the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T165937Z" creationid="Elisabetta Manuele" creationdate="20181205T165937Z">
+        <seg>Accedete alla voce &lt;f0&gt;Inserisci &gt; Grafico&lt;/f0&gt; nella barra dei menu oppure fate clic sull'icona &lt;f1&gt;Grafico&lt;/f1&gt; &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; nella barra degli strumenti Standard</seg>
       </tuv>
     </tu>
     <tu>
@@ -56722,6 +56738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T144807Z">
         <seg>Per inserire Testo automatico, digitate la scelta rapida e premete &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To insert a chart in a slide:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T165857Z" creationid="Elisabetta Manuele" creationdate="20181205T165857Z">
+        <seg>Per inserire un grafico in una diapositiva:</seg>
       </tuv>
     </tu>
     <tu>
