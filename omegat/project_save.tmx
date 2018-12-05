@@ -9289,6 +9289,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A slide master is a slide that is used as the starting point for other slides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T173956Z" creationid="Elisabetta Manuele" creationdate="20181205T173956Z">
+        <seg>Un master è una diapositiva utilizzata come punto di partenza per la creazione di altre diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A small box containing your initials appears in the upper left-hand corner of your drawing with a larger text box beside it (Figure &lt;t1&gt;207&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T103955Z">
@@ -24788,6 +24796,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180703T143653Z">
         <seg>Per dettagli sui contenuti e l'uso di questi campi, vedere il Capitolo 1 (Introduzione a LibreOffice) in questa guida e il&lt;f0&gt; &lt;/f0&gt;Capitolo 1 (Introduzione a Draw) nella &lt;f1&gt;Guida a Draw.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For details on using these objects, refer to the &lt;f0&gt;Impress Guide Chapter 7 Including Spreadsheets, Charts, and Other Objects&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T173914Z" creationid="Elisabetta Manuele" creationdate="20181205T173914Z">
+        <seg>Per informazioni dettagliate sull'utilizzo di questi oggetti, fate riferimento al &lt;f0&gt;Capitolo 7 della Guida di Impress (Inserimento di fogli elettronici, grafici e altri oggetti)&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63187,8 +63203,8 @@
       <tuv lang="EN">
         <seg>Working with slide masters and styles</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T182151Z">
-        <seg>Lavorare con i master di diapositiva e relativi stili</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T173929Z">
+        <seg>Gestione di stili e master di diapositiva</seg>
       </tuv>
     </tu>
     <tu>
