@@ -25688,6 +25688,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For image styles, you can modify the prepackaged styles and also create new image styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T183059Z" creationid="Elisabetta Manuele" creationdate="20181205T183059Z">
+        <seg>Riguardo agli stili grafici è possibile modificare quelli preconfezionati e anche crearne di nuovi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For information about certified professional support, see The Document Foundation’s website: &lt;a0&gt;http&lt;/a0&gt;&lt;a1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;://www.documentfoundation.org/gethelp/support/&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173255Z">
@@ -46889,6 +46897,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slide masters have two types of styles associated with them: &lt;f0&gt;presentation styles&lt;/f0&gt; and &lt;f1&gt;image styles&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T182939Z" creationid="Elisabetta Manuele" creationdate="20181205T182939Z">
+        <seg>I master di diapositiva sono associati a due tipi di stili: &lt;f0&gt;stili di presentazione&lt;/f0&gt; e &lt;f1&gt;stili grafici&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Slide names are not included either.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T192206Z" creationid="Elisabetta Manuele" creationdate="20181127T192206Z">
@@ -52111,6 +52127,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180830T064027Z">
         <seg>Viene corretta la posizione del centro dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The prepackaged presentation styles can be modified, but new presentation styles cannot be created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T183033Z" creationid="Elisabetta Manuele" creationdate="20181205T183033Z">
+        <seg>Gli stili di presentazione preconfigurati possono essere modificati, ma non è possibile crearne di nuovi.</seg>
       </tuv>
     </tu>
     <tu>
