@@ -31416,6 +31416,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Image styles are not restricted and can affect many of the elements of a slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T183926Z" creationid="Elisabetta Manuele" creationdate="20181205T183926Z">
+        <seg>Gli stili grafici non possiedono limitazioni e possono incidere su molti elementi di una diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Images created by another program, including photographs from a digital camera (&lt;f0&gt;Insert &gt; Picture &gt; From File&lt;/f0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105301Z">
