@@ -8985,6 +8985,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A media player will open at the bottom of the screen and you can preview the media.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T172738Z" creationid="Elisabetta Manuele" creationdate="20181205T172738Z">
+        <seg>Si aprirà un lettore multimediale nella parte inferiore dello schermo e potrete visualizzare il video/audio in anteprima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A message box appears and asks you to confirm the deletion.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142242Z">
@@ -9757,6 +9765,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151908Z">
         <seg>Aggiunta di funzioni mediante le estensioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding graphics, spreadsheets, and other objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T172855Z" creationid="Elisabetta Manuele" creationdate="20181205T172855Z">
+        <seg>Aggiungere grafica, fogli di calcolo e altri oggetti</seg>
       </tuv>
     </tu>
     <tu>
@@ -61645,6 +61661,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T140136Z">
         <seg>Quando un foglio elettronico viene creato da un modello o come documento vuoto, il suo nome è &lt;f1&gt;Senza nome X&lt;/f1&gt;, dove &lt;f2&gt;X&lt;/f2&gt; è un numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When an audio file is inserted, the contents box will show a loudspeaker image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T172819Z" creationid="Elisabetta Manuele" creationdate="20181205T172819Z">
+        <seg>Quando viene inserito un file audio il riquadro dei contenuti visualizza l'immagine di un altoparlante.</seg>
       </tuv>
     </tu>
     <tu>
