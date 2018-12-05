@@ -24904,6 +24904,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, Outline 2 is used for the sub-points of Outline 1, and Outline 3 is used for the sub-points of Outline 2, and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T183806Z" creationid="Elisabetta Manuele" creationdate="20181205T183806Z">
+        <seg>Per esempio, la Struttura 2 viene utilizzata per i punti secondari della Struttura 1, e la Struttura 3 per i punti secondari della Struttura 2, ecc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T143958Z">
@@ -48625,6 +48633,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text styles are further divided into &lt;f0&gt;Notes&lt;/f0&gt;,&lt;f1&gt; Outline 1 &lt;/f1&gt;through &lt;f2&gt;Outline 9&lt;/f2&gt;,&lt;f3&gt; Subtitle&lt;/f3&gt;, and &lt;f4&gt;Title&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T183630Z" creationid="Elisabetta Manuele" creationdate="20181205T183630Z">
+        <seg>Gli stili di testo sono ulteriormente suddivisi in &lt;f0&gt;Note&lt;/f0&gt;, da &lt;f1&gt; Struttura 1 &lt;/f1&gt; a &lt;f2&gt;Struttura 9&lt;/f2&gt;,&lt;f3&gt; Sottotitolo&lt;/f3&gt;, &lt;f4&gt;Titolo&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text to include in the footer (business fax)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121242Z">
@@ -52055,6 +52071,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T084127Z">
         <seg>Le altre opzioni in questa finestra di dialogo dovrebbero essere autoesplicative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The outline styles are used for the different levels of the outline to which they belong.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T183653Z" creationid="Elisabetta Manuele" creationdate="20181205T183653Z">
+        <seg>Gli stili di struttura sono usati per i differenti livelli della struttura alla quale appartengono.</seg>
       </tuv>
     </tu>
     <tu>
