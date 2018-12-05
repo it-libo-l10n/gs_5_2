@@ -10705,6 +10705,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although it is highly recommended to use the slide masters whenever possible, there are occasions where manual changes are needed for a particular slide, for example to enlarge the chart area when the text and chart layout is used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T182821Z" creationid="Elisabetta Manuele" creationdate="20181205T182821Z">
+        <seg>Sebbene si consigli vivamente l'uso dei master di diapositiva, quando possibile, in alcune occasioni si rendono necessarie modifiche manuali per una particolare diapositiva, ad esempio per estendere l'area di un grafico in presenza di layout di testo e di grafico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although more difficult designs are mentioned in this chapter, explanations for creating them are in the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T181459Z" creationid="Elisabetta Manuele" creationdate="20181126T181459Z">
@@ -13383,6 +13391,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103331Z">
         <seg>Modifica &lt;i0/&gt;dei margini di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing a style in a slide master results in changes to all slides based on that slide master, but you can modify individual slides without affecting the slide master.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T182720Z" creationid="Elisabetta Manuele" creationdate="20181205T182720Z">
+        <seg>La variazione di uno stile apportata a un master si riflette su tutte le diapositive basate su tale master, ma è comunque possibile modificare singole diapositive senza per questo influire sul master di diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
