@@ -10281,6 +10281,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All of the characteristics of slide masters are controlled by styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T182339Z" creationid="Elisabetta Manuele" creationdate="20181205T182339Z">
+        <seg>Tutte le caratteristiche dei master di diapositiva sono controllate dagli stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All of the fields with a label containing the word payment are too wide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T094341Z">
@@ -38125,6 +38133,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T171502Z" creationid="Elisabetta Manuele" creationdate="20181128T171502Z">
         <seg>Nuova diapositiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New slides that you create using a slide master have styles that are inherited from the slide master which was used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T182413Z" creationid="Elisabetta Manuele" creationdate="20181205T182413Z">
+        <seg>Le nuove diapositive realizzate tramite master di diapositiva possiedono stili ereditati dal master usato per la loro creazione.</seg>
       </tuv>
     </tu>
     <tu>
