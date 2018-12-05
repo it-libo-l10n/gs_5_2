@@ -27712,6 +27712,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Graphics, such as shapes, callouts, and arrows, are often useful to complement the text on a slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T173131Z" creationid="Elisabetta Manuele" creationdate="20181205T173131Z">
+        <seg>Gli oggetti grafici, come forme, didascalie, frecce, rappresentano spesso un'utile integrazione del testo di una diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Grayscale is better if you have any graphics in the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181101T155452Z" creationid="Alessia Mazzarini" creationdate="20181007T211805Z">
@@ -53551,6 +53559,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T113924Z" creationid="Elisabetta Manuele" creationdate="20181128T113924Z">
         <seg>Le note sono a titolo informativo e non sono visibili al pubblico durante la presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These objects are handled much the same way as graphics in Draw.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T173156Z" creationid="Elisabetta Manuele" creationdate="20181205T173156Z">
+        <seg>Questi oggetti vengono gestiti in modo analogo a quelli di Draw.</seg>
       </tuv>
     </tu>
     <tu>
