@@ -38393,6 +38393,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that text styles exist in both the presentation and image style selections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T184638Z" creationid="Elisabetta Manuele" creationdate="20181205T184638Z">
+        <seg>Notate che gli stili di testo sono presenti sia nella selezione di stile presentazione sia in quella grafica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that you can change the list of available colors as described in “&lt;bf1&gt;Color options&lt;/bf1&gt;” on page &lt;bf2&gt;42&lt;/bf2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T142127Z">
