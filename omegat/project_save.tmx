@@ -9297,6 +9297,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A slide show can have more than one slide master.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T181406Z" creationid="Elisabetta Manuele" creationdate="20181205T181406Z">
+        <seg>Una presentazione può prevedere più di un master di diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A small box containing your initials appears in the upper left-hand corner of your drawing with a larger text box beside it (Figure &lt;t1&gt;207&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T103955Z">
@@ -34220,6 +34228,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191000Z">
         <seg>È simile in Writer, Calc, Impress e Draw, anche se ogni componente di LibreOffice include alcuni elementi specifici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is similar to a page style in Writer and it controls the basic formatting of all slides based on it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T181338Z" creationid="Elisabetta Manuele" creationdate="20181205T181338Z">
+        <seg>È simile a uno stile di pagina in Writer e determina la formattazione di base di tutte le diapositive basate su tale master.</seg>
       </tuv>
     </tu>
     <tu>
