@@ -10057,6 +10057,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the table is created, you can modify it by adding and deleting rows and columns, adjusting width and spacing, adding borders, background colors and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T165341Z" creationid="Elisabetta Manuele" creationdate="20181205T165341Z">
+        <seg>Dopo aver creato la tabella, è possibile modificarla aggiungendo ed eliminando righe e colonne, regolando larghezza e spaziatura, inserendo bordi, colori di sfondo ecc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After we run the query to make sure it works correctly, we will hide all of the fields that we do not need.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T111130Z" creationid="manuel" creationdate="20181015T111130Z">
@@ -25972,6 +25980,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150949Z">
         <seg>Per maggiori informazioni sull'utilizzo di Trova e sostituisci, vedere la &lt;f0&gt;Guida a Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on working with tables see the &lt;f0&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f0&gt; and the &lt;f1&gt;Writer Guide Chapter 9 Working with Tables&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T165435Z" creationid="Elisabetta Manuele" creationdate="20181205T165435Z">
+        <seg>Per ulteriori informazioni sull'uso delle tabelle, consultate il &lt;f0&gt;Capitolo 3, Aggiunta e formattazione del testo, della Guida di Impress&lt;/f0&gt; e il &lt;f1&gt;Capitolo 9, Uso delle tabelle, della Guida di Writer&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58211,6 +58227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T212239Z" creationid="Alessia Mazzarini" creationdate="20181007T212239Z">
         <seg>Per utilizzare Anteprima di stampa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use Sum and Sort in your presentation, you have to insert a Calc spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T165238Z" creationid="Elisabetta Manuele" creationdate="20181205T165238Z">
+        <seg>Per utilizzare Ordina e Somma nella presentazione è necessario inserire un foglio di calcolo Calc.</seg>
       </tuv>
     </tu>
     <tu>
