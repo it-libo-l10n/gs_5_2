@@ -9289,6 +9289,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A slide master has a defined set of characteristics, including background colors, graphics, gradients; and other objects (such as logos, decorative lines and so on), headers and footers, placement and size of text frames, and text format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T181738Z" creationid="Elisabetta Manuele" creationdate="20181205T181738Z">
+        <seg>Un master di diapositiva contiene un insieme di caratteristiche definite, come il colore di sfondo, l'immagine o la sfumatura di sfondo, oggetti inseriti nello sfondo (come loghi, linee decorative, ecc.), intestazioni e piè di pagina, posizionamento e dimensioni delle cornici di testo, formattazione del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A slide master is a slide that is used as the starting point for other slides.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T173956Z" creationid="Elisabetta Manuele" creationdate="20181205T173956Z">
@@ -47981,6 +47989,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155957Z">
         <seg>finestra di dialogo Stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T181741Z" creationid="Elisabetta Manuele" creationdate="20181205T181741Z">
+        <seg>Stili</seg>
       </tuv>
     </tu>
     <tu>
