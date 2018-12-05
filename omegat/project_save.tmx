@@ -31560,6 +31560,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Impress comes with a collection of slide masters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T184920Z" creationid="Elisabetta Manuele" creationdate="20181205T184920Z">
+        <seg>Impress è dotato di una collezione di master di diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Impress has a range of slide masters and these are found in the &lt;f0&gt;Master Pages&lt;/f0&gt; section of the Sidebar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172952Z" creationid="Elisabetta Manuele" creationdate="20181129T172952Z">
@@ -38395,8 +38403,8 @@
       <tuv lang="EN">
         <seg>Note that text styles exist in both the presentation and image style selections.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T184638Z" creationid="Elisabetta Manuele" creationdate="20181205T184638Z">
-        <seg>Notate che gli stili di testo sono presenti sia nella selezione di stile presentazione sia in quella grafica.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T184829Z" creationid="Elisabetta Manuele" creationdate="20181205T184638Z">
+        <seg>Si evidenzia che gli stili di testo esistono sia a livello di presentazione che di stile grafico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46925,6 +46933,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z">
         <seg>Slide advance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide masters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T184834Z" creationid="Elisabetta Manuele" creationdate="20181205T184834Z">
+        <seg>Master di diapositiva</seg>
       </tuv>
     </tu>
     <tu>
