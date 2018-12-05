@@ -17583,6 +17583,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a &lt;i0/&gt;new slide master is similar to modifying the default slide master.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T185708Z" creationid="Elisabetta Manuele" creationdate="20181205T185708Z">
+        <seg>La creazione di un &lt;i0/&gt;nuovo master di diapositiva è analoga al procedimento di modifica del master predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a database form</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184724Z">
@@ -17699,6 +17707,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T070411Z">
         <seg>Creazione di un rapporto: esempio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a slide master</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T185603Z" creationid="Elisabetta Manuele" creationdate="20181205T185603Z">
+        <seg>Creare un master di diapositiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -30668,6 +30684,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T183041Z">
         <seg>Se avete creato una nuova struttura per le pagine web, digitate un nome da assegnargli e fate clic su &lt;f0&gt;Salva&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have created your own templates, or added templates from other sources, slide masters from those templates will also appear in this list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T185550Z" creationid="Elisabetta Manuele" creationdate="20181205T185550Z">
+        <seg>Se avete creato dei modelli personalizzati, o aggiunto modelli provenienti da altre fonti, anche i master di diapositiva tratti da questi modelli compariranno in tale elenco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68237,6 +68261,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T103320Z">
         <seg>margini (Writer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>master pages</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T185615Z" creationid="Elisabetta Manuele" creationdate="20181205T185615Z">
+        <seg>pagine schema</seg>
       </tuv>
     </tu>
     <tu>
