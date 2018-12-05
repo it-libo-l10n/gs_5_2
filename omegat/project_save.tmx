@@ -16093,6 +16093,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the + sign next to the name of a subsection to expand it to show thumbnails of the slides, or click the – sign to collapse the subsection to hide the thumbnails.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T185320Z" creationid="Elisabetta Manuele" creationdate="20181205T185320Z">
+        <seg>Fate clic sul segno + accanto al nome di una sottosezione per espanderla e visualizzare le miniature delle diapositive, oppure sul segno - per chiudere la sottosezione e nasconderne le miniature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;&gt;&gt;&lt;/f0&gt; button to move all the fields from the left box to the right box and click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180807T085343Z">
@@ -53799,6 +53807,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T110553Z">
         <seg>Queste opzioni impongono un trattino lungo senza spazi per sostituire un trattino corto spaziato, o forzare un trattino corto con spaziatura per sostituire un trattino lungo non distanziato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These slide masters &lt;f0&gt;are&lt;/f0&gt; shown in &lt;i1/&gt;the Master Pages section of the Sidebar (Figure &lt;t2&gt;149&lt;/t2&gt;), &lt;f3&gt;which &lt;/f3&gt;has three subsections: &lt;f4&gt;Used in This Presentation&lt;/f4&gt;, &lt;f5&gt;Recently Used&lt;/f5&gt;, and &lt;f6&gt;Available for Use&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T185133Z" creationid="Elisabetta Manuele" creationdate="20181205T185133Z">
+        <seg>Questi master &lt;f0&gt;sono&lt;/f0&gt; visibili nella sezione &lt;i1/&gt;Pagine schema della barra laterale (Figura &lt;t2&gt;149&lt;/t2&gt;), &lt;f3&gt;suddivisa &lt;/f3&gt;in tre sottosezioni denominate: &lt;f4&gt;Usate in questa presentazione&lt;/f4&gt;, &lt;f5&gt;Usate recentemente&lt;/f5&gt; e &lt;f6&gt;Disponibili per l'uso&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
