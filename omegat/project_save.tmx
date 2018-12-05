@@ -20688,6 +20688,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable editing of slide masters by selecting &lt;f0&gt;View &gt; Slide Master&lt;/f0&gt; on the Menu bar and the &lt;f1&gt;Master View&lt;/f1&gt; toolbar opens (Figure &lt;t2&gt;150&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T185826Z" creationid="Elisabetta Manuele" creationdate="20181205T185826Z">
+        <seg>Attivate la modifica dei master di diapositiva selezionando la voce &lt;f0&gt;Visualizza &gt; Schema diapositive&lt;/f0&gt; nella Barra dei menu, in tal modo si aprirà la barra degli strumenti &lt;f1&gt;Vista schema&lt;/f1&gt; (figura &lt;t2&gt;150&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable macro recording (limited)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T065852Z">
