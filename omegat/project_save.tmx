@@ -15475,6 +15475,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click in the cell you wish to add data to and begin typing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T165545Z" creationid="Elisabetta Manuele" creationdate="20181205T165545Z">
+        <seg>Fate clic sulla cella nella quale desiderate inserire i dati e iniziate a digitare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in the column or header to select the column or row.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124842Z">
@@ -20824,6 +20832,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entering data into table cells is similar to working with text box objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T165516Z" creationid="Elisabetta Manuele" creationdate="20181205T165516Z">
+        <seg>L'inserimento dei dati nelle celle della tabella è simile alla gestione degli oggetti dei riquadri di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entire sheet</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T145658Z">
@@ -21804,6 +21820,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T181613Z" creationid="Elisabetta Manuele" creationdate="20181203T181613Z">
         <seg>Figura &lt;seq0&gt;147&lt;/seq0&gt;: finestra di dialogo Elenchi puntati e numerati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;148&lt;/seq0&gt;: Sidebar Table Design section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T165500Z" creationid="Elisabetta Manuele" creationdate="20181205T165500Z">
+        <seg>Figura &lt;seq0&gt;148&lt;/seq0&gt;: sezione Struttura tabella della Barra laterale</seg>
       </tuv>
     </tu>
     <tu>
@@ -41041,6 +41065,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the &lt;f0&gt;arrow&lt;/f0&gt; keys to move the cursor to another cell if the cell is empty, or to the next character if the cell already contains text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T165656Z" creationid="Elisabetta Manuele" creationdate="20181205T165656Z">
+        <seg>Premete i tasti &lt;f0&gt;freccia&lt;/f0&gt; per spostare il cursore su un'altra cella, se vuota, oppure sul carattere successivo se contiene già del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press the &lt;f2&gt;Tab&lt;/f2&gt; key to move to the Field Type column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104048Z">
@@ -57011,6 +57043,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T062053Z">
         <seg>Per spostare un oggetto (o un gruppo di oggetti), selezionatelo e fate clic all'interno dei bordi dell'oggetto, quindi tenete premuto il pulsante sinistro del mouse mentre trascinate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move around cells quickly, use the following keyboard options:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T165627Z" creationid="Elisabetta Manuele" creationdate="20181205T165627Z">
+        <seg>Per spostarvi rapidamente tra le celle ricorrete alle seguenti opzioni da tastiera:</seg>
       </tuv>
     </tu>
     <tu>
