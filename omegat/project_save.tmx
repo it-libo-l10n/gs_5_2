@@ -31928,6 +31928,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Impress supports comments similar to those in Writer and Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T175902Z" creationid="Elisabetta Manuele" creationdate="20181207T175902Z">
+        <seg>I commenti in Impress vengono supportati in modo analogo a quelli di Writer e Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Impress will create a presentation with as many pages as determined by the Slide layout number of slides per page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085944Z">
@@ -32276,6 +32284,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180821T142327Z">
         <seg>In Math, dopo aver apportato modifiche alla formula, salvatele.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Normal View, go to &lt;f0&gt;Insert &gt; Comment &lt;/f0&gt;on the Menu bar to open a blank comment (Figure &lt;t1&gt;156&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T175940Z" creationid="Elisabetta Manuele" creationdate="20181207T175940Z">
+        <seg>Nella visualizzazione Normale, accedete alla voce &lt;f0&gt;Inserisci &gt; Commento &lt;/f0&gt;nella barra dei menu per aprire un commento vuoto (Figura &lt;t1&gt;156&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56372,6 +56388,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change a paragraph style throughout your presentation, open the Styles and Formatting dialog and modify the appropriate presentation style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T175830Z" creationid="Elisabetta Manuele" creationdate="20181207T175830Z">
+        <seg>Per cambiare lo stile di un paragrafo durante la presentazione, aprite il pannello Stili e formattazione e modificate lo stile di presentazione corrispondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change an existing style using &lt;i0/&gt;the Style dialog, right-click on the required style in the Styles and Formatting window and select &lt;f1&gt;Modify&lt;/f1&gt; from the pop-up menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T160553Z">
@@ -56609,6 +56633,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T084924Z">
         <seg>Per modificare il numero minimo di caratteri per la sillabazione, &lt;f0&gt;o&lt;/f0&gt; il numero minimo di caratteri prima &lt;f1&gt;o dopo &lt;/f1&gt;una interruzione di riga, selezionate l'elemento, quindi fate clic sul pulsante &lt;f2&gt;Modifica&lt;/f2&gt; nella sezione Opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the number format (1,2,3 or a,b,c or i,ii,iii, and so on) for the number field, go to &lt;f0&gt;Slide &gt; Page/Slide Properties...&lt;/f0&gt; on the Menu bar and then select a format from the &lt;f1&gt;Format&lt;/f1&gt; list in the &lt;f2&gt;Layout Settings&lt;/f2&gt; area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T175743Z" creationid="Elisabetta Manuele" creationdate="20181207T175743Z">
+        <seg>Per modificare il formato del numero (1,2,3 o a,b,c oppure i,ii,iii, ecc.) dell'area numero diapositiva, scegliete la voce &lt;f0&gt;Diapositiva &gt; Proprietà della diapositiva...&lt;/f0&gt; nella Barra dei menu, quindi selezionate un formato dall'elenco &lt;f1&gt;Formato&lt;/f1&gt; nell'area &lt;f2&gt;Impostazioni layout&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
