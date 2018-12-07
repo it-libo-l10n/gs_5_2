@@ -9297,6 +9297,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A slide master can have text, footers, or fields added so that they appear on every slide in your presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T171051Z" creationid="Elisabetta Manuele" creationdate="20181207T171051Z">
+        <seg>Un master di diapositiva può contenere testo, piè di pagina o campi aggiunti in modo da renderli visibili in ogni diapositiva della presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A slide master has a defined set of characteristics, including background colors, graphics, gradients; and other objects (such as logos, decorative lines and so on), headers and footers, placement and size of text frames, and text format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T181738Z" creationid="Elisabetta Manuele" creationdate="20181205T181738Z">
@@ -9885,6 +9893,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105158Z">
         <seg>Aggiungere testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding text, footers, and fields to all slides</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T171021Z" creationid="Elisabetta Manuele" creationdate="20181207T171021Z">
+        <seg>Aggiungere testo, piè di pagina e campi a tutte le diapositive</seg>
       </tuv>
     </tu>
     <tu>
@@ -22056,6 +22072,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;153&lt;/seq0&gt;: Editing a slide master</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T170957Z" creationid="Elisabetta Manuele" creationdate="20181207T170957Z">
+        <seg>Figura &lt;seq0&gt;153&lt;/seq0&gt;: modificare un master di diapositiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;154&lt;/seq0&gt;: Example master view</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085921Z">
@@ -28188,6 +28212,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T122317Z">
         <seg>Le intestazioni e i piè di pagina vengono impostati e configurati usando lo stesso metodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Headers are not normally added to slides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T171117Z" creationid="Elisabetta Manuele" creationdate="20181207T171117Z">
+        <seg>Le intestazioni solitamente non vengono aggiunte alle diapositive.</seg>
       </tuv>
     </tu>
     <tu>
