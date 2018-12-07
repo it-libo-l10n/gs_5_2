@@ -22008,6 +22008,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;151&lt;/seq0&gt;: Slide Design dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T155931Z" creationid="Elisabetta Manuele" creationdate="20181207T155931Z">
+        <seg>Figura &lt;seq0&gt;151&lt;/seq0&gt;: finestra di dialogo Struttura diapositiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;154&lt;/seq0&gt;: Example master view</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085921Z">
@@ -52911,6 +52919,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153752Z" creationid="Elisabetta Manuele" creationdate="20181128T153635Z">
         <seg>L'area Modello di diapositiva delle guide offre due alternative principali: &lt;f1&gt;Sfondi di presentazione&lt;/f1&gt; e &lt;f2&gt;Presentazioni&lt;/f2&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The slide masters in the template you selected to use are now shown in the &lt;f0&gt;Available for use&lt;/f0&gt; subsection of Master Pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T155911Z" creationid="Elisabetta Manuele" creationdate="20181207T155911Z">
+        <seg>I master di diapositiva nel modello selezionato per l'uso vengono ora visualizzati nella sottosezione &lt;f0&gt;Disponibile per l'uso&lt;/f0&gt;, all'interno della sezione Pagine schema della Barra laterale.</seg>
       </tuv>
     </tu>
     <tu>
