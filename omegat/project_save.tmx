@@ -26136,6 +26136,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on modifying slide masters, see the &lt;f0&gt;Impress Guide Chapter 2 Using Slide Masters, Styles, and Templates&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T161133Z" creationid="Elisabetta Manuele" creationdate="20181207T161133Z">
+        <seg>Per ulteriori informazioni sulla modifica dei master di diapositiva fate riferimento al &lt;f0&gt;Capitolo 2 (Utilizzo di master di diapositiva, stili e modelli) della Guida a Impress&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on moving and adjusting object size, see&lt;f0&gt; &lt;/f0&gt;Chapter 3, Working with Objects and Object Points, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T062012Z">
@@ -44793,6 +44801,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;View &gt; Slide Master&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T161213Z" creationid="Elisabetta Manuele" creationdate="20181207T161213Z">
+        <seg>Selezionate la voce &lt;f0&gt;Visualizza &gt; Schema diapositive&lt;/f0&gt; dalla Barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;View &gt; Styles and Formatting&lt;/f0&gt; or &lt;f1&gt;Styles &gt; Styles and Formatting&lt;/f1&gt; from the Menu bar, or press &lt;f2&gt;F11&lt;/f2&gt; (&lt;f3&gt;⌘+T &lt;/f3&gt;on a Mac), or click the Styles and Formatting tab in the Sidebar (&lt;f4&gt;View &gt; Sidebar&lt;/f4&gt; to open it).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161301Z">
@@ -47133,6 +47149,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121123Z">
         <seg>Fare un clic per selezionare la cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Size and placement of default frames for slide titles and content</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T161042Z" creationid="Elisabetta Manuele" creationdate="20181207T161042Z">
+        <seg>Dimensioni e posizionamento delle cornici predefinite per i titoli e i contenuti delle diapositive</seg>
       </tuv>
     </tu>
     <tu>
@@ -55503,6 +55527,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T172106Z">
         <seg>Questa barra degli strumenti contiene delle liste per aiutare a selezionare la sicurezza del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This unlocks the properties of a slide master so you can edit it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T161241Z" creationid="Elisabetta Manuele" creationdate="20181207T161241Z">
+        <seg>Questa operazione sblocca le proprietà del master di diapositiva, che diviene, così, modificabile.</seg>
       </tuv>
     </tu>
     <tu>
