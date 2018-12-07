@@ -58935,6 +58935,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To show or hide the comment markers, choose &lt;f0&gt;View &gt; Comments&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T180602Z" creationid="Elisabetta Manuele" creationdate="20181207T180602Z">
+        <seg>Per visualizzare o nascondere i contrassegni dei commenti selezionate il menu &lt;f0&gt;Visualizza &gt; Commento&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To show or hide the comment markers, go to &lt;f0&gt;View &gt; Comments&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104224Z">
@@ -59865,8 +59873,8 @@
       <tuv lang="EN">
         <seg>Typically you might place it on or near an object you refer to in the comment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104128Z">
-        <seg>Tipicamente potrebbe essere posizionato sopra o vicino ad un oggetto a cui fate riferimento nel commento.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T180443Z">
+        <seg>In genere potete posizionarlo sopra o in prossimità di un oggetto a cui fate riferimento nel commento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65757,6 +65765,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T104125Z">
         <seg>Potete spostare i piccoli contrassegni dei commenti in qualsiasi punto del disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can move the small comment markers to anywhere you wish on the slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T180406Z" creationid="Elisabetta Manuele" creationdate="20181207T180406Z">
+        <seg>Potete spostare i piccoli contrassegni dei commenti in un punto qualsiasi della diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
