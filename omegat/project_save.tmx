@@ -10665,6 +10665,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, you can add the date/time, footer text and slide number directly into their respective areas as shown in Figure &lt;t0&gt;154&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T172617Z" creationid="Elisabetta Manuele" creationdate="20181207T172617Z">
+        <seg>In alternativa, è possibile aggiungere la data/ora, il testo a piè di pagina e il numero di diapositiva direttamente nelle rispettive aree, come indicato nella figura &lt;t0&gt;154&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, you can enter data and then use Calc in a “What if...” manner by changing some of the data and observing the results without having to retype the entire spreadsheet or sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131451Z">
@@ -14535,6 +14543,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090028Z">
         <seg>Click &lt;f0&gt;Apply to All Slides&lt;/f0&gt; to apply the transition for all of your presentation or continue selecting transitions to place between each slide in your presentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Apply to All&lt;/f0&gt; to apply your changes to all the slide masters in your presentation, or click &lt;f1&gt;Apply&lt;/f1&gt; to apply your changes to the selected slide master in your presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T172541Z" creationid="Elisabetta Manuele" creationdate="20181207T172541Z">
+        <seg>Fate clic su &lt;f0&gt;Applica a tutto&lt;/f0&gt; per apportare le modifiche a tutti i master di diapositiva della presentazione, oppure su &lt;f1&gt;Applica&lt;/f1&gt; per le modifiche al master selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38595,8 +38611,8 @@
       <tuv lang="EN">
         <seg>Normally only footers are used on a slide.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085918Z">
-        <seg>Normally only footers are used on a slide.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T172644Z">
+        <seg>Solitamente in una diapositiva vengono riportati solo i piè di pagina.</seg>
       </tuv>
     </tu>
     <tu>
