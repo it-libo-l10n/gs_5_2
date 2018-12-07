@@ -24440,6 +24440,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T175400Z" creationid="Elisabetta Manuele" creationdate="20181207T175400Z">
+        <seg>Nome file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File formats LibreOffice can open</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T152656Z">
@@ -40841,6 +40849,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page Count: the number of slides in your presentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T175357Z" creationid="Elisabetta Manuele" creationdate="20181207T175357Z">
+        <seg>Numero diapositiva: il numero delle diapositive della presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page Number: the slide number in Impress</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T175228Z" creationid="Elisabetta Manuele" creationdate="20181207T175228Z">
@@ -56457,6 +56473,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180814T123544Z">
         <seg>Per modificare l'aspetto dell'intestazione o del piè di pagina, fate clic sul pulsante &lt;f0&gt;Altro&lt;/f0&gt; in modo da aprire la finestra di dialogo per l'impostazione dei bordi e dello sfondo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the author information, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T175438Z" creationid="Elisabetta Manuele" creationdate="20181207T175438Z">
+        <seg>Per modificare le informazioni sull'autore, accedete al menu &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Dati utente&lt;/f0&gt; nella Barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
