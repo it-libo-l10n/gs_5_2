@@ -3384,6 +3384,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Creating a p&lt;/f0&gt;hoto album</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T180844Z" creationid="Elisabetta Manuele" creationdate="20181207T180844Z">
+        <seg>&lt;f0&gt;Creare un album f&lt;/f0&gt;otografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Cross-platform.&lt;/f0&gt; LibreOffice runs on several hardware architectures and under multiple operating systems, such as Microsoft Windows, Mac OS X and Linux.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T212217Z">
@@ -29680,6 +29688,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If more than one person edits the document, each author is automatically allocated a different background color for their comments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T180819Z" creationid="Elisabetta Manuele" creationdate="20181207T180819Z">
+        <seg>Se il documento viene modificato da più persone a ciascun autore è automaticamente assegnato un diverso colore di sfondo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If more than one person edits the document, each author is automatically allocated a different background color.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T081247Z">
@@ -31860,6 +31876,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T180132Z" creationid="Elisabetta Manuele" creationdate="20181207T180132Z">
         <seg>Nome e data attuale vengono aggiunti automaticamente in fondo alla casella di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress can &lt;f0&gt;creat a photo album from &lt;/f0&gt;a set of images, usually with one photo per slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T180933Z" creationid="Elisabetta Manuele" creationdate="20181207T180933Z">
+        <seg>È possibile &lt;f0&gt;creare un album fotografico da &lt;/f0&gt;un insieme di immagini, in genere con una foto per diapositiva,</seg>
       </tuv>
     </tu>
     <tu>
@@ -44981,6 +45005,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T102026Z">
         <seg>Selezionate &lt;f0&gt;Strumenti &gt; Personalizza &gt; Tastiera&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Tools &gt; Options &gt; User Data&lt;/f0&gt; to configure the name you want to appear in the comment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T180740Z" creationid="Elisabetta Manuele" creationdate="20181207T180740Z">
+        <seg>Selezionate la voce &lt;f0&gt;Strumenti &gt; Opzioni &gt; Dati utente&lt;/f0&gt; per impostare il nome da visualizzare nel commento.</seg>
       </tuv>
     </tu>
     <tu>
