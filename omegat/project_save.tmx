@@ -27528,6 +27528,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Slide &gt; Slide Design&lt;/f0&gt; on the Menu bar or right-click on a slide in the Slides Pane and select &lt;f1&gt;Slide Design&lt;/f1&gt; from the context menu to open the Slide Design dialog (Figure &lt;t2&gt;151&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T154544Z" creationid="Elisabetta Manuele" creationdate="20181207T154544Z">
+        <seg>Accedete alla voce &lt;f0&gt;Diapositiva &gt; Struttura schema diapositiva&lt;/f0&gt; nella barra dei menu o fate clic con il pulsante destro del mouse su una diapositiva nel riquadro Diapositive e selezionate &lt;f1&gt;Struttura schema diapositiva&lt;/f1&gt; dal menu contestuale per aprire la finestra di dialogo Struttura diapositiva (Figura &lt;t2&gt;151&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Slide &gt; Slide Transition&lt;/f0&gt; on the Menu bar or click on the Slide Transition icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; on the Sidebar to open the options available for slide transitions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090028Z">
@@ -54503,6 +54511,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T084249Z">
         <seg>Questa finestra di dialogo mostra: nella casella a sinistra gli &lt;f2&gt;Elenchi&lt;/f2&gt; già definiti in precedenza e nella casella &lt;f3&gt;Voci&lt;/f3&gt; il contenuto dell'elenco selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog shows the slide masters already available for use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T154709Z" creationid="Elisabetta Manuele" creationdate="20181207T154709Z">
+        <seg>Quest'ultima presenta i master di diapositiva già disponibili per l'uso.</seg>
       </tuv>
     </tu>
     <tu>
