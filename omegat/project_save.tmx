@@ -15467,6 +15467,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click and drag in the master page to draw a text object and then type or paste your text into the text object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T171630Z" creationid="Elisabetta Manuele" creationdate="20181207T171630Z">
+        <seg>Fate clic e trascinate nella pagina master per disegnare un oggetto di testo in cui digitare o incollare testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click and drag to draw a box for the text on the slide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T165955Z" creationid="Elisabetta Manuele" creationdate="20181203T165955Z">
@@ -24752,6 +24760,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Footers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T171731Z" creationid="Elisabetta Manuele" creationdate="20181207T171731Z">
+        <seg>Piè di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For &lt;f0&gt;Date&lt;/f0&gt; use Date[DATE].</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180827T104729Z">
@@ -27804,6 +27820,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T124133Z">
         <seg>Andate in &lt;f0&gt;Strumenti &gt; Proteggi foglio&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;View &gt; Normal&lt;/f0&gt; on the Menu bar or click on &lt;f1&gt;Close Master View&lt;/f1&gt; on the Master View toolbar when you have finished entering text objects that you want to appear on every slide in your presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T171722Z" creationid="Elisabetta Manuele" creationdate="20181207T171722Z">
+        <seg>Accedete alla voce &lt;f0&gt;Visualizza &gt; Normale&lt;/f0&gt; nella Barra dei menu o fate clic su &lt;f1&gt;Chiudi vista schema&lt;/f1&gt; nella barra degli strumenti Vista schema, una volta terminato di inserire gli oggetti di testo da visualizzare in ogni diapositiva della presentazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55999,6 +56023,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085933Z">
         <seg>To add a field into an object or as a separate object on a slide, select &lt;f0&gt;Insert &gt; Fields&lt;/f0&gt; on the Menu bar and select the required field from the submenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add a footer to your slides:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T171744Z" creationid="Elisabetta Manuele" creationdate="20181207T171744Z">
+        <seg>Per aggiungere un piè di pagina alle diapositive:</seg>
       </tuv>
     </tu>
     <tu>
