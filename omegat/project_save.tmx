@@ -27522,8 +27522,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Insert &gt; Field&lt;/f0&gt; or &lt;f1&gt;Insert &gt; Page Number&lt;/f1&gt; on the Menu bar and time to open the Header and Footer dialog (Figure &lt;t2&gt;155&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T172052Z" creationid="Elisabetta Manuele" creationdate="20181207T172052Z">
-        <seg>Accedete alle voci &lt;f0&gt;Inserisci &gt; Comando di campo&lt;/f0&gt;, o &lt;f1&gt;Inserisci &gt; Numero di pagina&lt;/f1&gt; nella barra dei menu e l'ora di apertura della finestra di dialogo Intestazione e piè di pagina (Figura &lt;t2&gt;155&lt;/t2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T172245Z" creationid="Elisabetta Manuele" creationdate="20181207T172052Z">
+        <seg>Accedete alle voci &lt;f0&gt;Inserisci &gt; Comando di campo&lt;/f0&gt;, o &lt;f1&gt;Inserisci &gt; Numero di pagina&lt;/f1&gt; nella barra dei menu e l'ora di apertura nella finestra di dialogo Intestazione e piè di pagina (Figura &lt;t2&gt;155&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46181,6 +46181,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180920T055042Z">
         <seg>Selezionate un tipo di sfondo dall'elenco a discesa seguito da &lt;f0&gt;Riempi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the type of date and time and type in the footer text and slide number from the available options in the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T172415Z" creationid="Elisabetta Manuele" creationdate="20181207T172415Z">
+        <seg>Selezionate il tipo di data e ora, digitate il testo a piè di pagina e il numero di diapositiva tra le opzioni disponibili nella finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
