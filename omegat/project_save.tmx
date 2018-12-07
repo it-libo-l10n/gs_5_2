@@ -24256,6 +24256,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;153&lt;/t0&gt; shows a graphic object selected with the &lt;f1&gt;Graphic&lt;/f1&gt; properties section open on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T161510Z" creationid="Elisabetta Manuele" creationdate="20181207T161510Z">
+        <seg>La figura &lt;t0&gt;153&lt;/t0&gt; presenta un oggetto grafico selezionato tramite la sezione &lt;f1&gt;Proprietà immagine&lt;/f1&gt; aperta nella Barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;240&lt;/t0&gt; is a record with data inserted in its fields.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180927T160133Z">
@@ -45053,6 +45061,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180830T063924Z">
         <seg>Seleziona un punto aggiuntivo in modalità selezione punti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select an object on the slide master in the Workspace and the Sidebar will display the property options that can be changed for the selected object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T161339Z" creationid="Elisabetta Manuele" creationdate="20181207T161339Z">
+        <seg>Selezionate un oggetto nella pagina master all'interno dell'Area di lavoro e la Barra laterale visualizzerà le opzioni delle proprietà modificabili per l'oggetto selezionato.</seg>
       </tuv>
     </tu>
     <tu>
