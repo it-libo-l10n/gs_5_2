@@ -11786,6 +11786,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Author: first and last names listed in the LibreOffice user data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T175100Z" creationid="Elisabetta Manuele" creationdate="20181207T175100Z">
+        <seg>Autore: nome e cognome inseriti nella finestra dati utente di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Authors and reviewers often use &lt;i0/&gt;comments to exchange ideas, ask for suggestions, or mark items needing attention.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T070810Z">
@@ -40833,6 +40841,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page Number: the slide number in Impress</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T175228Z" creationid="Elisabetta Manuele" creationdate="20181207T175228Z">
+        <seg>Numero di diapositiva: numero di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page breaks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205324Z">
@@ -55767,6 +55783,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174947Z">
         <seg>Miniatura o anteprima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Time (variable): updates automatically when you reload a file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T175045Z" creationid="Elisabetta Manuele" creationdate="20181207T175045Z">
+        <seg>Orario (variabile): con aggiornamento automatico quando ricaricate il file</seg>
       </tuv>
     </tu>
     <tu>
