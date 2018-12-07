@@ -25624,6 +25624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you may need a completely different layout for the first slide of the presentation, or you may want to add to your presentation a slide from a different presentation (based on a template available on the hard disk).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T154420Z" creationid="Elisabetta Manuele" creationdate="20181207T154420Z">
+        <seg>Per esempio, potrebbe essere necessario un layout completamente diverso per la prima diapositiva della presentazione, o potreste voler aggiungere una diapositiva tratta da un'altra presentazione (sulla base di un modello disponibile sul disco fisso).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you might have one template &lt;f2&gt;category&lt;/f2&gt; for report templates and another for letter templates.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T163842Z">
@@ -33032,6 +33040,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Master Pages section on the Sidebar, right-click on the slide master you want to apply to the selected slides, and select &lt;f0&gt;Apply to Selected Slides&lt;/f0&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T154205Z" creationid="Elisabetta Manuele" creationdate="20181207T154205Z">
+        <seg>Nella sezione Pagine schema della Barra laterale fate clic con il pulsante destro del mouse sul master di diapositiva da applicare alle diapositive selezionate, quindi scegliete la voce &lt;f0&gt;Applica alle diapositive selezionate&lt;/f0&gt; dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Navigator list, select the item that you want to insert as a hyperlink.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T123007Z">
@@ -35901,6 +35917,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T124822Z">
         <seg>Caricare una configurazione di tasti salvata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading additional slide masters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T154218Z" creationid="Elisabetta Manuele" creationdate="20181207T154218Z">
+        <seg>Caricare master di diapositiva aggiuntivi</seg>
       </tuv>
     </tu>
     <tu>
@@ -47549,6 +47573,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085735Z">
         <seg>Alcune volte si agirà sull'intero controllo, altre volte solo sull'etichetta o sul campo, altre ancora su un gruppo di controlli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes, in the same set of slides, you may need to mix multiple slide masters that may belong to different templates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T154252Z" creationid="Elisabetta Manuele" creationdate="20181207T154252Z">
+        <seg>A volte, nella stessa serie di diapositive, potrebbe essere necessario combinare più master di diapositiva eventualmente appartenenti a modelli diversi. .</seg>
       </tuv>
     </tu>
     <tu>
