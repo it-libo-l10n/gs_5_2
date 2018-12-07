@@ -27808,6 +27808,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;View &gt; Slide Master&lt;/f0&gt; on the Menu bar to open Master View (Figure &lt;t1&gt;154&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T171424Z" creationid="Elisabetta Manuele" creationdate="20181207T171424Z">
+        <seg>Accedete a alla voce &lt;f0&gt;Visualizza &gt; Schema diapositive&lt;/f0&gt; sulla Barra dei menu per aprire la Vista schema (Figura &lt;t1&gt;154&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;View &gt; Slide Sorter&lt;/f0&gt; on the Menu bar or click the Slide Sorter tab at the top of the Workspace.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085949Z">
