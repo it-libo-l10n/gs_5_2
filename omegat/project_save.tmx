@@ -4840,6 +4840,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In the Create Photo Album dialog (Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;157&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;), click &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Add&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T181700Z" creationid="Elisabetta Manuele" creationdate="20181207T181700Z">
+        <seg>&lt;f0&gt;Nella finestra di dialogo Crea un album fotografico (Figura &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;157&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;), fate clic su &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Aggiungi&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In the Elements window, s&lt;/f0&gt;elect &lt;f1&gt;&lt;f2&gt;Relations&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;from the drop-down list&lt;/f3&gt; and then select the &lt;f4&gt;&lt;f5&gt;Is Similar Or Equal&lt;/f5&gt;&lt;/f4&gt; icon &lt;df6&gt;&lt;di7/&gt;&lt;/df6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180820T133938Z">
@@ -9397,6 +9405,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T093441Z">
         <seg>Un tipo di documento specifico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A standard file browser opens.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T181724Z" creationid="Elisabetta Manuele" creationdate="20181207T181724Z">
+        <seg>Si aprirà una finestra di esplorazione file.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29816,6 +29832,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If several images are in the same folder, you can select a group of photos using the &lt;f0&gt;Shift&lt;/f0&gt; or &lt;f1&gt;Ctrl&lt;/f1&gt; keys while clicking on their filenames.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T181853Z" creationid="Elisabetta Manuele" creationdate="20181207T181853Z">
+        <seg>Se nella stessa cartella sono presenti più immagini, potete selezionare un gruppo di foto tramite i tasti &lt;f0&gt;Maiusc&lt;/f0&gt; o &lt;f1&gt;Ctrl&lt;/f1&gt; mentre fate clic sul nome del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If something is wrong, use the &lt;f0&gt;Back&lt;/f0&gt; button to move to the step that contains the error.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082136Z">
@@ -36213,6 +36237,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T202412Z">
         <seg>Opzioni localizzate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Locate the files you want to insert.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T181809Z" creationid="Elisabetta Manuele" creationdate="20181207T181809Z">
+        <seg>Localizzate il file da inserire.</seg>
       </tuv>
     </tu>
     <tu>
