@@ -33112,6 +33112,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Slide Pane, select the slide or slides where you want to use a new slide master.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T154050Z" creationid="Elisabetta Manuele" creationdate="20181207T154050Z">
+        <seg>Nel Riquadro diapositive, selezionate la diapositiva o le diapositive a cui applicare un nuovo master.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Styles and Formatting window, click the arrow next to the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon, and then select &lt;f1&gt;Load Styles&lt;/f1&gt; (see Figure &lt;t2&gt;48&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T071049Z">
@@ -55844,6 +55852,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To apply a different slide master to one or more selected slides:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T154027Z" creationid="Elisabetta Manuele" creationdate="20181207T154027Z">
+        <seg>Per applicare un master di diapositiva diverso a una o più diapositive selezionate procedete come segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To apply a paragraph style, position the insertion point in the paragraph, and then select one of the &lt;s0/&gt;paragraph styles in the &lt;f1&gt;Style&lt;/f1&gt; menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T160453Z">
@@ -55880,6 +55896,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161555Z">
         <seg>Per applicare uno stile esistente, posizionate il punto di inserimento nel paragrafo, nella cornice, nella pagina o nella parola, quindi fate doppio clic sul nome dello stile in uno di questi elenchi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To apply one of the slide masters from the available selection to &lt;f0&gt;all slides&lt;/f0&gt; in your presentation, right-click on it and select &lt;f1&gt;Apply to All Slides&lt;/f1&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T153951Z" creationid="Elisabetta Manuele" creationdate="20181207T153951Z">
+        <seg>Per applicare a &lt;f0&gt;tutte le diapositive&lt;/f0&gt; della presentazione uno dei master di diapositiva della selezione disponibile, selezionatene uno con il pulsante destro del mouse e scegliete la voce &lt;f1&gt;Applica a tutte le diapositive&lt;/f1&gt; dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
