@@ -30056,6 +30056,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the slide master was not used in the presentation, it is removed from the list of available slide masters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T160347Z" creationid="Elisabetta Manuele" creationdate="20181207T160347Z">
+        <seg>I master di diapositiva non utilizzati nella presentazione, vengono rimossi dall'elenco dei master di diapositiva disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the spreadsheet is password protected, check the &lt;f1&gt;Password required &lt;/f1&gt;box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162212Z" creationid="manuel" creationdate="20181015T162212Z">
@@ -37093,6 +37101,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085405Z">
         <seg>Modifica di un formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying a slide master</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T160428Z" creationid="Elisabetta Manuele" creationdate="20181207T160428Z">
+        <seg>Modificare un master di diapositiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -51195,6 +51211,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following items can be changed on a slide master:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T160447Z" creationid="Elisabetta Manuele" creationdate="20181207T160447Z">
+        <seg>In un master di diapositiva potete modificare i seguenti elementi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following links and references contain information regarding macro programming:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T143005Z">
@@ -57426,6 +57450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160355Z">
         <seg>Per sapere dove vengono salvate le cartelle dei modelli sul vostro computer, vedete &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Percorsi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To limit the size of the presentation file, you may want to minimize the number of slide masters used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T160425Z" creationid="Elisabetta Manuele" creationdate="20181207T160425Z">
+        <seg>Per limitare le dimensioni del file di presentazione, dovreste ridurre al minimo il numero dei master di diapositiva utilizzati.</seg>
       </tuv>
     </tu>
     <tu>
