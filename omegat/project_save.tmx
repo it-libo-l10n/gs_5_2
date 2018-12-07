@@ -10793,6 +10793,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Always make sure you Close Master View and return to Normal view before working on any of the presentation slides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T162015Z" creationid="Elisabetta Manuele" creationdate="20181207T162015Z">
+        <seg>Assicuratevi sempre di chiudere la Vista schema e di tornare alla visualizzazione Normale prima di lavorare su qualsiasi diapositiva della presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always save as</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152622Z">
