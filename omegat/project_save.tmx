@@ -12042,6 +12042,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Background (color, gradient, hatching, or bitmap)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T160900Z" creationid="Elisabetta Manuele" creationdate="20181207T160900Z">
+        <seg>Sfondo (colore, sfumatura, tratteggio, o bitmap)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background &lt;f0&gt;and &lt;/f0&gt;borders</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180913T190610Z">
@@ -12062,6 +12070,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T083117Z">
         <seg>Colore di sfondo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Background objects (for example, a logo or decorative graphics)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T160927Z" creationid="Elisabetta Manuele" creationdate="20181207T160927Z">
+        <seg>Oggetti di sfondo (per es. un logo, o immagini decorative)</seg>
       </tuv>
     </tu>
     <tu>
