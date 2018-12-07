@@ -22016,6 +22016,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;152&lt;/seq0&gt;: Load Slide Design dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T160042Z" creationid="Elisabetta Manuele" creationdate="20181207T160042Z">
+        <seg>Figura &lt;seq0&gt;152&lt;/seq0&gt;: finestra di dialogo Carica Struttura di diapositiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;154&lt;/seq0&gt;: Example master view</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085921Z">
@@ -31356,6 +31364,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T085953Z">
         <seg>If you want to create a custom slide show from the same presentation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to delete the unused slide masters, click the corresponding checkbox in the Slide Design dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T160214Z" creationid="Elisabetta Manuele" creationdate="20181207T160214Z">
+        <seg>Se desiderate eliminare i master inutilizzati, fate clic sulla casella di controllo corrispondente nella finestra di dialogo Struttura schema diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52927,6 +52943,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T155911Z" creationid="Elisabetta Manuele" creationdate="20181207T155911Z">
         <seg>I master di diapositiva nel modello selezionato per l'uso vengono ora visualizzati nella sottosezione &lt;f0&gt;Disponibile per l'uso&lt;/f0&gt;, all'interno della sezione Pagine schema della Barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The slide masters you have loaded will also be available the next time you load the presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T160109Z" creationid="Elisabetta Manuele" creationdate="20181207T160109Z">
+        <seg>I master di diapositiva caricati saranno disponibili anche alla successiva riapertura della presentazione.</seg>
       </tuv>
     </tu>
     <tu>
