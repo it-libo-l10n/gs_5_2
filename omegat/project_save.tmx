@@ -3168,6 +3168,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Choose &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Media &gt; Photo Album&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T181158Z" creationid="Elisabetta Manuele" creationdate="20181207T181158Z">
+        <seg>&lt;f0&gt;Scegliete il menu &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Inserisci &gt; Media &gt; Album fotografico&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Classifying d&lt;/f0&gt;ocument contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164228Z">
@@ -27992,6 +28000,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to the slide that precede&lt;f0&gt;s&lt;/f0&gt; the photo album.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T181118Z" creationid="Elisabetta Manuele" creationdate="20181207T181118Z">
+        <seg>Accedete alla diapositiva che preced&lt;f0&gt;e&lt;/f0&gt; l'album fotografico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to&lt;f0&gt; File &gt; Send &gt; Create HTML Document&lt;/f0&gt; on the menu bar to open the Name and Path of the HTML Document dialog (Figure &lt;t1&gt;332&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T204059Z">
@@ -40085,6 +40101,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T104351Z">
         <seg>Aprite un documento, nuovo o già esistente, del tipo per cui volete creare un modello (testo, foglio elettronico, disegno, presentazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open an existing or blank presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T181050Z" creationid="Elisabetta Manuele" creationdate="20181207T181050Z">
+        <seg>Aprite una nuova presentazione vuota oppure una già esistente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55531,6 +55555,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This photo album can source multimedia shows with graphics and &lt;f1&gt;images or even collect your latest vacation pictures into a presentation file.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T181017Z" creationid="Elisabetta Manuele" creationdate="20181207T181017Z">
+        <seg>e riprodurne presentazioni multimediali con grafica e &lt;f1&gt;immagini, o anche di raccogliere le ultime foto delle vacanze in un file di presentazione.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This process is slightly different for each type of template, but the format is very similar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T121421Z">
@@ -57730,6 +57762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T205905Z">
         <seg>Per inserire una interruzione di pagina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To insert a photo album into your presentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T181029Z" creationid="Elisabetta Manuele" creationdate="20181207T181029Z">
+        <seg>Per inserire un album fotografico nella presentazione procedete come segue:</seg>
       </tuv>
     </tu>
     <tu>
