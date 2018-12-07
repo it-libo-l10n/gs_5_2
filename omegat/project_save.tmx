@@ -14819,6 +14819,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; again to close the Slide Design dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T155039Z" creationid="Elisabetta Manuele" creationdate="20181207T155039Z">
+        <seg>Fate nuovamente clic su &lt;f0&gt;OK&lt;/f0&gt; per chiudere la finestra di dialogo Struttura diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and the dialog closes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T200103Z">
@@ -45049,6 +45057,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select in the Load Slide Design dialog the template from which to load the slide master and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T154926Z" creationid="Elisabetta Manuele" creationdate="20181207T154926Z">
+        <seg>Nella finestra di dialogo Carica struttura di diapositiva selezionate il modello da cui caricare il master della diapositiva e fate clic su &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select its checkbox and when you make any changes in a slide transition, the new slide is previewed in the Slide Design area, including its transition effect.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090030Z">
@@ -55816,6 +55832,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T161507Z" creationid="Elisabetta Manuele" creationdate="20181205T161507Z">
         <seg>Per aggiungere tabelle semplici a una diapositiva:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add more slide masters, click the &lt;f0&gt;Load&lt;/f0&gt; button to open the Load Slide Design dialog (Figure &lt;t1&gt;152&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T154840Z" creationid="Elisabetta Manuele" creationdate="20181207T154840Z">
+        <seg>Per aggiungere altri master di diapositiva, selezionate il pulsante &lt;f0&gt;Carica&lt;/f0&gt; per aprire la finestra di dialogo Carica struttura di diapositiva (Figura &lt;t1&gt;152&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
