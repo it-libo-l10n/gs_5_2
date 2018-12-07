@@ -11089,6 +11089,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any changes made to one slide when in Master View mode will appear on &lt;f0&gt;all&lt;/f0&gt; slides using this slide master.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T161941Z" creationid="Elisabetta Manuele" creationdate="20181207T161941Z">
+        <seg>Qualsiasi modifica apportata a una diapositiva in modalità Vista schema verrà estesa a &lt;f0&gt;tutte&lt;/f0&gt; le diapositive della presentazione basate su tale schema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any changes recorded (tracked) in the document will be lost during this process.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162842Z">
@@ -36249,6 +36257,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make all necessary changes to the slide master, then click the &lt;f0&gt;Close Master View&lt;/f0&gt; icon on the Master View toolbar or go to &lt;f1&gt;View &gt; Normal&lt;/f1&gt; on the Menu bar to exit from editing slide masters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T161813Z" creationid="Elisabetta Manuele" creationdate="20181207T161813Z">
+        <seg>Apportate tutte le modifiche necessarie al master di diapositiva, quindi fate clic sull'icona &lt;f0&gt;Chiudi vista schema&lt;/f0&gt; nella barra degli strumenti Vista schema, o accedete alla voce &lt;f1&gt;Visualizza &gt; Normale&lt;/f1&gt; nella Barra dei menu per uscire dalla modalità di modifica dei master di diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make any other required changes, and then click &lt;f0&gt;OK&lt;/f0&gt; to save these settings and close the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T123845Z">
@@ -43453,6 +43469,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154808Z">
         <seg>Salvate le versioni che sono memorizzate come parti del file originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save your presentation file before continuing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T161852Z" creationid="Elisabetta Manuele" creationdate="20181207T161852Z">
+        <seg>Salvate il file prima di proseguire.</seg>
       </tuv>
     </tu>
     <tu>
