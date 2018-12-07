@@ -3386,8 +3386,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Create the required sequence by removing images or moving them up or down in the list of images.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z">
-        <seg>&lt;f0&gt;Create the required sequence by removing images or moving them up or down in the list of images.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T182155Z">
+        <seg>&lt;f0&gt;Create la sequenza desiderata eliminando le immagini o spostandole verso l'alto o verso il basso nell'elenco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5986,8 +5986,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085943Z">
-        <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add caption to each slide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option, if necessary, to insert a text box for the caption.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T182133Z">
+        <seg>&lt;f0&gt;Scegliete l'opzione &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Aggiungi titolo a ogni diapositiva&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, se necessario, per inserire una casella di testo per la didascalia&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15813,8 +15813,8 @@
       <tuv lang="EN">
         <seg>Click on a file name to display it in the Preview area.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085942Z">
-        <seg>Click on a file name to display it in the Preview area.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T182015Z">
+        <seg>Fate clic sul nome di un file per visualizzarlo nell'area Anteprima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22164,6 +22164,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T173226Z">
         <seg>Figura &lt;seq0&gt;155&lt;/seq0&gt;: finestra di dialogo Piè di pagina in Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;157&lt;/seq0&gt;: The photo album dialog box with photo preview</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T181953Z" creationid="Elisabetta Manuele" creationdate="20181207T181953Z">
+        <seg>Figura &lt;seq0&gt;157&lt;/seq0&gt;: finestra di dialogo dell'album fotografico con anteprima della foto</seg>
       </tuv>
     </tu>
     <tu>
@@ -46059,8 +46067,8 @@
       <tuv lang="EN">
         <seg>Select the number of images per slide in the &lt;f0&gt;Slide layout&lt;/f0&gt; list box.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T085942Z">
-        <seg>Select the number of images per slide in the &lt;f0&gt;Slide layout&lt;/f0&gt; list box.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T182044Z">
+        <seg>Selezionate il numero di immagini per diapositiva nella casella di riepilogo &lt;f0&gt;Layout diapositiva&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
