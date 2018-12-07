@@ -50419,6 +50419,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The changes made to one of the slides in Normal view (for example, changes to the bullet point style, the color of the title area, and so on) will not be overridden by subsequent changes to the slide master.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T170322Z" creationid="Elisabetta Manuele" creationdate="20181207T170322Z">
+        <seg>Le modifiche apportate a una delle diapositive nella visualizzazione Normale (per esempio quelle effettuate sullo stile dei punti elenco, sul colore dell'area del titolo, ecc.) non verranno sovrascritte da successive modifiche del master di diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The characters selected for insertion are shown in the lower left of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105715Z">
@@ -53727,6 +53735,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180919T202814Z">
         <seg>Ci sono degli argomenti avanzati che vanno al di là degli scopi di questa guida, ma la loro conoscenza potrebbe essere utile:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are cases, however, where it is desirable to revert a manually modified element of the slide to the style defined in the slide master.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T170407Z" creationid="Elisabetta Manuele" creationdate="20181207T170407Z">
+        <seg>In alcuni casi, tuttavia, è opportuno ripristinare lo schema di un elemento della diapositiva personalizzato manualmente allo stile predefinito del master di diapositiva:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58339,6 +58355,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180731T211236Z">
         <seg>Per far si che quando si inseriscono dei numeri in una cella, questi abbiano un numero minimo di caratteri in modo da mantenere un determinato formato, ad esempio 1234 e 0012, gli zeri iniziali devono essere aggiunti in uno dei seguenti modi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To revert back to default formatting, select the element and select &lt;f0&gt;Format &gt; Default Formatting&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T170446Z" creationid="Elisabetta Manuele" creationdate="20181207T170446Z">
+        <seg>a questo scopo, selezionate l'elemento e scegliete la voce &lt;f0&gt;Formato &gt; Formattazione predefinita&lt;/f0&gt; dalla barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
