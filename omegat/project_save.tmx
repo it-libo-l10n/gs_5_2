@@ -39817,6 +39817,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Drawing toolbar, select the &lt;f0&gt;Text&lt;/f0&gt; icon or press the &lt;f1&gt;F2&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T200410Z" creationid="Elisabetta Manuele" creationdate="20181210T200410Z">
+        <seg>Nella barra degli strumenti Disegno, selezionate l'icona &lt;f0&gt;Casella di testo&lt;/f0&gt; oppure premete il tasto &lt;f1&gt;F2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Export dialog, specify a file name for the exported document, then select the desired format in the &lt;f1&gt;File format&lt;/f1&gt; list and click the &lt;f2&gt;Export&lt;/f2&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180514T154719Z">
