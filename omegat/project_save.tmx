@@ -30450,8 +30450,8 @@
       <tuv lang="EN">
         <seg>If the slide master was not used in the presentation, it is removed from the list of available slide masters.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T160347Z" creationid="Elisabetta Manuele" creationdate="20181207T160347Z">
-        <seg>I master di diapositiva non utilizzati nella presentazione, vengono rimossi dall'elenco dei master di diapositiva disponibili.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T195911Z" creationid="Elisabetta Manuele" creationdate="20181207T160347Z">
+        <seg>I master di diapositiva non utilizzati nella presentazione vengono rimossi dall'elenco dei master di diapositiva disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45593,6 +45593,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a slide master in &lt;f0&gt;Master Pages&lt;/f0&gt; in the Slides pane.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T200119Z" creationid="Elisabetta Manuele" creationdate="20181210T200119Z">
+        <seg>Selezionate un master di diapositiva in &lt;f0&gt;Pagine schema&lt;/f0&gt; del riquadro diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select an additional point in Point Selection mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180830T063924Z">
@@ -47717,6 +47725,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T161042Z" creationid="Elisabetta Manuele" creationdate="20181207T161042Z">
         <seg>Dimensioni e posizionamento delle cornici predefinite per i titoli e i contenuti delle diapositive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Size, placement, and contents of header and footer elements to appear on every slide</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T200034Z" creationid="Elisabetta Manuele" creationdate="20181210T200003Z">
+        <seg>Dimensioni, posizionamento e contenuti degli elementi di intestazione e piè di pagina visibili in ogni diapositiva</seg>
       </tuv>
     </tu>
     <tu>
