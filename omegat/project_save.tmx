@@ -20640,6 +20640,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each of the slide masters shown in the &lt;f0&gt;Available for Use&lt;/f0&gt; list is from a template of the same name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T195545Z" creationid="Elisabetta Manuele" creationdate="20181210T195545Z">
+        <seg>Ogni master di diapositiva visualizzato nell'elenco &lt;f0&gt;Disponibile per l'uso&lt;/f0&gt; deriva da un modello con lo stesso nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each of these content boxes can be configured to contain text, movies, images, charts or tables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T170247Z" creationid="Elisabetta Manuele" creationdate="20181129T170247Z">
@@ -48235,8 +48243,8 @@
       <tuv lang="EN">
         <seg>Sometimes, in the same set of slides, you may need to mix multiple slide masters that may belong to different templates.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T154252Z" creationid="Elisabetta Manuele" creationdate="20181207T154252Z">
-        <seg>A volte, nella stessa serie di diapositive, potrebbe essere necessario combinare più master di diapositiva eventualmente appartenenti a modelli diversi. .</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T195728Z" creationid="Elisabetta Manuele" creationdate="20181207T154252Z">
+        <seg>A volte, nella stessa serie di diapositive, potrebbe essere necessario combinare più master di diapositiva eventualmente appartenenti a modelli diversi.</seg>
       </tuv>
     </tu>
     <tu>
