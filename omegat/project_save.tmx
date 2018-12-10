@@ -18751,6 +18751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Date (variable): updates automatically when you reload a file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T200644Z" creationid="Elisabetta Manuele" creationdate="20181210T200644Z">
+        <seg>Data (variabile): con aggiornamento automatico quando ricaricate il file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date acceptance patterns</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T063407Z">
@@ -56255,6 +56263,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174947Z">
         <seg>Miniatura o anteprima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Time (fixed)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T200649Z" creationid="Elisabetta Manuele" creationdate="20181210T200649Z">
+        <seg>Orario (fisso)</seg>
       </tuv>
     </tu>
     <tu>
