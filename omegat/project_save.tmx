@@ -40803,8 +40803,8 @@
       <tuv lang="EN">
         <seg>Or, click on the triangle to the right of the &lt;f0&gt;Slide&lt;/f0&gt; icon in the Presentation toolbar and select &lt;f1&gt;Duplicate Page/Slide&lt;/f1&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T181439Z" creationid="Elisabetta Manuele" creationdate="20181128T181439Z">
-        <seg>O infine, fate clic sul triangolo a destra dell'icona &lt;f0&gt;Diapositiva&lt;/f0&gt; nella barra degli strumenti Presentazione e selezionate &lt;f1&gt;Duplica diapositiva&lt;/f1&gt; dal menu a discesa. </seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T185037Z" creationid="Elisabetta Manuele" creationdate="20181128T181439Z">
+        <seg>O infine, fate clic sul triangolo a destra dell'icona &lt;f0&gt;Diapositiva&lt;/f0&gt; nella barra degli strumenti Presentazione e selezionate &lt;f1&gt;Duplica diapositiva&lt;/f1&gt; dal menu a discesa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57570,6 +57570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102526Z">
         <seg>Per disegnare un ellisse o un cerchio partendo dal suo centro, posizionate il cursore sul disegno, premete il pulsante del mouse e tenete premuto il tasto &lt;f0&gt;Alt&lt;/f0&gt; mentre trascinate con il cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To duplicate a slide:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T184932Z" creationid="Elisabetta Manuele" creationdate="20181210T184932Z">
+        <seg>Per duplicare una diapositiva:</seg>
       </tuv>
     </tu>
     <tu>
