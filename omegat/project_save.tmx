@@ -14589,8 +14589,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Apply to All Slides&lt;/f0&gt; to apply the transition for all of your presentation or continue selecting transitions to place between each slide in your presentation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090028Z">
-        <seg>Click &lt;f0&gt;Apply to All Slides&lt;/f0&gt; to apply the transition for all of your presentation or continue selecting transitions to place between each slide in your presentation.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171055Z">
+        <seg>Fate clic su &lt;f0&gt;Applica la transizione a tutte le diapositive&lt;/f0&gt; per applicarla tutte le diapositive della presentazione oppure continuate a selezionare le transizioni da inserire tra ogni diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45435,8 +45435,8 @@
       <tuv lang="EN">
         <seg>Select its checkbox and when you make any changes in a slide transition, the new slide is previewed in the Slide Design area, including its transition effect.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090030Z">
-        <seg>Select its checkbox and when you make any changes in a slide transition, the new slide is previewed in the Slide Design area, including its transition effect.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171229Z">
+        <seg>Selezionandone la casella di controllo durante le modifiche di una transizione, la nuova diapositiva viene visualizzata in anteprima nell'area Schema diapositiva, compreso l'effetto di transizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45899,8 +45899,8 @@
       <tuv lang="EN">
         <seg>Select the desired transition, the speed of the animation, and whether the transition should happen when you click the mouse (preferred) or automatically after a certain number of seconds.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090028Z">
-        <seg>Select the desired transition, the speed of the animation, and whether the transition should happen when you click the mouse (preferred) or automatically after a certain number of seconds.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171003Z">
+        <seg>Selezionate la transizione desiderata, la velocità dell'animazione e la modalità di cambio diapositiva, cioè se effettuarla al clic del mouse (preferibile) o automaticamente dopo un certo numero di secondi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47491,8 +47491,8 @@
       <tuv lang="EN">
         <seg>Slide advance</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z">
-        <seg>Slide advance</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171246Z">
+        <seg>Cambio diapositiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -50301,8 +50301,8 @@
       <tuv lang="EN">
         <seg>The Slide Transition section has a very useful choice: Automatic preview.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090029Z">
-        <seg>The Slide Transition section has a very useful choice: Automatic preview.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171151Z">
+        <seg>La sezione Cambio diapositiva presenta un'opzione molto utile: Anteprima automatica.</seg>
       </tuv>
     </tu>
     <tu>
