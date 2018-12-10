@@ -10617,6 +10617,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively and after inserting a new slide, click on the &lt;f0&gt;Insert Audio or Video&lt;/f0&gt; icon (Figure &lt;t1&gt;140&lt;/t1&gt; on page &lt;t2&gt;167&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T193600Z" creationid="Elisabetta Manuele" creationdate="20181210T193600Z">
+        <seg>In alternativa, dopo aver aggiunto una nuova diapositiva, fate clic sull'icona &lt;f0&gt;Inserisci audio o video&lt;/f0&gt;, all'interno della diapositiva (Figura &lt;t1&gt;140&lt;/t1&gt; a pagina &lt;t2&gt;167&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively and after inserting a new slide, click on the &lt;f0&gt;Insert Chart&lt;/f0&gt; icon (Figure &lt;t1&gt;140&lt;/t1&gt; on page &lt;t2&gt;167&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T171742Z" creationid="Elisabetta Manuele" creationdate="20181205T171742Z">
@@ -41981,6 +41989,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173049Z" creationid="Elisabetta Manuele" creationdate="20181203T173049Z">
         <seg>Premete il tasto &lt;f0&gt;Tab&lt;/f0&gt; per ottenere lo stesso risultato dopo aver posizionato il cursore all'inizio del paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the &lt;f0&gt;Tab&lt;/f0&gt; key to move to the next cell on the right and press &lt;f1&gt;Shift+Tab&lt;/f1&gt; to move to the next cell on the left.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T193422Z" creationid="Elisabetta Manuele" creationdate="20181210T193422Z">
+        <seg>Premete il tasto &lt;f0&gt;Tab&lt;/f0&gt; per spostarvi alla cella successiva, sulla destra e &lt;f1&gt;Maiusc+Tab&lt;/f1&gt; per tornare alla cella precedente, sulla sinistra.</seg>
       </tuv>
     </tu>
     <tu>
