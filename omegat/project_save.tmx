@@ -3728,6 +3728,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Duplicate Slide&lt;/f0&gt; – creates a duplicate of the selected slide and places the new slide immediately after the selected slide (see “&lt;bf1&gt;Duplicate slide&lt;/bf1&gt;” on page &lt;bf2&gt;165&lt;/bf2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T184126Z" creationid="Elisabetta Manuele" creationdate="20181210T184126Z">
+        <seg>&lt;f0&gt;Duplica diapositiva&lt;/f0&gt;: consente di creare un duplicato della diapositiva selezionata e di inserirla nella posizione immediatamente successiva (vd. “&lt;bf1&gt;Duplica diapositiva&lt;/bf1&gt;” a pagina &lt;bf2&gt;165&lt;/bf2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;E&lt;/f0&gt;&lt;f1&gt;nter the &lt;/f1&gt;&lt;f2&gt;following&lt;/f2&gt;&lt;f3&gt; in the Formula Editor:&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180904T202227Z">
@@ -55901,8 +55909,8 @@
       <tuv lang="EN">
         <seg>This selects all of the other slides between the first and the last slide selected.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T151003Z" creationid="Elisabetta Manuele" creationdate="20181128T151003Z">
-        <seg> In tal modo verranno selezionate tutte le diapositive comprese tra la prima e l'ultima.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T183901Z" creationid="Elisabetta Manuele" creationdate="20181128T151003Z">
+        <seg>In tal modo verranno selezionate tutte le diapositive comprese tra la prima e l'ultima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61740,6 +61748,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T123318Z">
         <seg>Usando il menu &lt;f0&gt;Foglio&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the &lt;f0&gt;Shift&lt;/f0&gt; key – click on the first slide, and while pressing the &lt;f1&gt;Shift&lt;/f1&gt; key, select the final slide in the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T183848Z" creationid="Elisabetta Manuele" creationdate="20181210T183848Z">
+        <seg>Tramite tasto &lt;f0&gt;Maiusc&lt;/f0&gt;: fate clic sulla prima diapositiva e, mantenendo &lt;f1&gt;Maiusc&lt;/f1&gt; premuto, selezionate l'ultima diapositiva del gruppo.</seg>
       </tuv>
     </tu>
     <tu>
