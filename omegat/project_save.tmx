@@ -27120,6 +27120,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the Layout pane, choose a slide design that contains a text box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T192024Z" creationid="Elisabetta Manuele" creationdate="20181210T192024Z">
+        <seg>Dal pannello del Layout, scegliete un modello di diapositiva contenente una casella di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From the Menu bar, choose &lt;f0&gt;File &gt; New &gt; Templates&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T090643Z">
@@ -33418,8 +33426,8 @@
       <tuv lang="EN">
         <seg>In the AutoLayout text boxes, promoting or demoting an item in the list corresponds to applying a different outline style.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T175435Z" creationid="Elisabetta Manuele" creationdate="20181203T175435Z">
-        <seg>Nelle caselle di testo a Layout automatico, l’incremento o il decremento di livello di un elemento in elenco corrisponde all'applicazione di un diverso stile di struttura. </seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T192311Z" creationid="Elisabetta Manuele" creationdate="20181203T175435Z">
+        <seg>Nelle caselle di testo a Layout automatico, l’incremento o il decremento di livello di un elemento in elenco corrisponde all'applicazione di un diverso stile di struttura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52639,6 +52647,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T094815Z">
         <seg>I nuovi dati sostituiranno quelli contenuti dalla cella, ma manterranno la formattazione originaria della cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new line will have the same indentation as the previous line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T192117Z" creationid="Elisabetta Manuele" creationdate="20181210T192117Z">
+        <seg>La nuova riga avrà lo stesso rientro di quella precedente.</seg>
       </tuv>
     </tu>
     <tu>
