@@ -15893,8 +15893,8 @@
       <tuv lang="EN">
         <seg>Click on the &lt;f0&gt;Apply to All Slides&lt;/f0&gt; button to apply the same display time to all slides.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090033Z">
-        <seg>Click on the &lt;f0&gt;Apply to All Slides&lt;/f0&gt; button to apply the same display time to all slides.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171536Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Applica la transizione a tutte le diapositive&lt;/f0&gt; per assegnare lo stesso tempo di visualizzazione a tutte le diapositive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21050,8 +21050,8 @@
       <tuv lang="EN">
         <seg>Enter the required amount of time in seconds that each slide will be displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z">
-        <seg>Enter the required amount of time in seconds that each slide will be displayed.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171506Z">
+        <seg>Inserite il periodo di tempo in secondi necessario per la visualizzazione di ogni diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27362,8 +27362,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Advance slide&lt;/f0&gt; and select the &lt;f1&gt;Automatically after&lt;/f1&gt; option.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z">
-        <seg>Go to &lt;f0&gt;Advance slide&lt;/f0&gt; and select the &lt;f1&gt;Automatically after&lt;/f1&gt; option.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171447Z">
+        <seg>Accedete alla sezione &lt;f0&gt;Cambio diapositiva&lt;/f0&gt; e selezionate l'opzione &lt;f1&gt;Automaticamente dopo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66219,8 +66219,8 @@
       <tuv lang="EN">
         <seg>You can set the presentation &lt;i0/&gt;to advance automatically to the next slide after a set amount of time from the Slide Transition section in the Sidebar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090032Z">
-        <seg>You can set the presentation &lt;i0/&gt;to advance automatically to the next slide after a set amount of time from the Slide Transition section in the Sidebar.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171414Z">
+        <seg>Nella sezione Cambio diapositive della Barra laterale è possibile impostare la presentazione per il &lt;i0/&gt;cambio automatico alla diapositiva successiva dopo un determinato periodo di tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67275,8 +67275,8 @@
       <tuv lang="EN">
         <seg>automatically advance</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090031Z">
-        <seg>automatically advance</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171354Z">
+        <seg>cambio automatico</seg>
       </tuv>
     </tu>
     <tu>
