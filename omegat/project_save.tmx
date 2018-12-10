@@ -15789,8 +15789,8 @@
       <tuv lang="EN">
         <seg>Click in the text box that reads &lt;f0&gt;Click to add text&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T175045Z" creationid="Elisabetta Manuele" creationdate="20181129T175045Z">
-        <seg>Selezionate la casella di testo che riporta &lt;f0&gt;Fai clic per aggiungere testo&lt;/f0&gt;.&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T190512Z" creationid="Elisabetta Manuele" creationdate="20181129T175045Z">
+        <seg>Selezionate la casella di testo che riporta &lt;f0&gt;Fai clic per aggiungere testo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19570,8 +19570,8 @@
       <tuv lang="EN">
         <seg>Do not worry about the vertical size and position as the text box will expand if needed as you type.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170122Z" creationid="Elisabetta Manuele" creationdate="20181203T170122Z">
-        <seg>Non preoccupatevi per la dimensione verticale e la posizione in quanto la casella di testo si espanderà, se necessario, durante la digitazione.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T190552Z" creationid="Elisabetta Manuele" creationdate="20181203T170122Z">
+        <seg>Non preoccupatevi per la dimensione verticale e la posizione, in quanto la casella di testo si espanderà, se necessario, durante la digitazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62186,8 +62186,8 @@
       <tuv lang="EN">
         <seg>Vertical text is available only when Asian languages are enabled in &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170720Z" creationid="Elisabetta Manuele" creationdate="20181203T170720Z">
-        <seg>Questa scelta è disponibile solo se si è attivata l'opzione per le lingue asiatiche nel menu &lt;f0&gt;Strumenti &gt; Opzioni &gt; Impostazioni della lingua &gt; Lingue&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T190647Z" creationid="Elisabetta Manuele" creationdate="20181203T170720Z">
+        <seg>Questa scelta è disponibile solo se è stata attivata l'opzione per le lingue asiatiche nel menu &lt;f0&gt;Strumenti &gt; Opzioni &gt; Impostazioni della lingua &gt; Lingue&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
