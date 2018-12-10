@@ -47419,8 +47419,8 @@
       <tuv lang="EN">
         <seg>Since LibreOffice 5.1, the View buttons are not shown by default; but they can be activated by choosing &lt;f7&gt;View &gt; Modes Tab Bar&lt;/f7&gt; from the menu bar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T184952Z" creationid="Elisabetta Manuele" creationdate="20181126T184952Z">
-        <seg>Dalla versione 5.1 di LibreOffice i Pulsanti di visualizzazione non compaiono per impostazione predefinita, ma si possono attivare tramite menu &lt;f7&gt;Visualizza &gt;Barra a schede dei modi&lt;/f7&gt;, dalla barra dei menu.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T182147Z" creationid="Elisabetta Manuele" creationdate="20181126T184952Z">
+        <seg>Dalla versione 5.1 di LibreOffice i Pulsanti di visualizzazione non sono visibili per impostazione predefinita, ma si possono attivare tramite menu &lt;f7&gt;Visualizza &gt;Barra a schede dei modi&lt;/f7&gt;, dalla barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58817,8 +58817,8 @@
       <tuv lang="EN">
         <seg>To restore a pane, click again on its Hide/Show marker.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T183759Z" creationid="Elisabetta Manuele" creationdate="20181126T183759Z">
-        <seg>Per ripristinare i pannelli, fate nuovamente clic sui contrassegni Nascondi/Mostra.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T182008Z" creationid="Elisabetta Manuele" creationdate="20181126T183759Z">
+        <seg>Per ripristinare i pannelli fate nuovamente clic sui contrassegni Nascondi/Mostra.</seg>
       </tuv>
     </tu>
     <tu>
