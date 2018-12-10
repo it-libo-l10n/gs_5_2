@@ -17358,6 +17358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connecting the mobile device to the computer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T175906Z" creationid="Elisabetta Manuele" creationdate="20181210T175906Z">
+        <seg>Collegamento del dispositivo mobile al computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connectors</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T095603Z">
@@ -27226,8 +27234,8 @@
       <tuv lang="EN">
         <seg>Getting Impress Remote</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090042Z">
-        <seg>Getting Impress Remote</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T175647Z">
+        <seg>Come ottenere LibreOffice Impress Remote</seg>
       </tuv>
     </tu>
     <tu>
@@ -43969,6 +43977,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for “Impress Remote” and select the one that is from The Document Foundation and install it in your device.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T175853Z" creationid="Elisabetta Manuele" creationdate="20181210T175853Z">
+        <seg>Cercate “LibreOffice Impress Remote”, selezionate la versione della Document Foundation e installatela nel vostro dispositivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Searches for the last entered search term.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T154741Z">
@@ -57608,8 +57624,8 @@
       <tuv lang="EN">
         <seg>To get the software, access your mobile device application store, either Google Play Store for Android devices or Apple Store for IOs devices.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090048Z">
-        <seg>To get the software, access your mobile device application store, either Google Play Store for Android devices or Apple Store for IOs devices.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T175747Z">
+        <seg>Per ottenere il software, accedete al negozio di applicazioni per dispositivi mobili, Google Play Store dedicato ai dispositivi Android, o Apple Store ai dispositivi iOS.</seg>
       </tuv>
     </tu>
     <tu>
