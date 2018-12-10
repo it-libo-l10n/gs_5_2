@@ -17711,6 +17711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a slide with a bulleted list as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T192008Z" creationid="Elisabetta Manuele" creationdate="20181210T192008Z">
+        <seg>Per creare una diapositiva con un elenco puntato procedete come segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create a text box using the &lt;f0&gt;Text&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Standard toolbar (Figure &lt;t3&gt;141&lt;/t3&gt;) or the Text toolbar (Figure &lt;t4&gt;142&lt;/t4&gt;), or use the keyboard shortcut &lt;f5&gt;F2&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174841Z" creationid="Elisabetta Manuele" creationdate="20181129T174841Z">
@@ -65977,6 +65985,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can get the same result by placing the cursor at the beginning of the paragraph and pressing the &lt;f0&gt;Shift + Tab&lt;/f0&gt; keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T191728Z" creationid="Elisabetta Manuele" creationdate="20181210T191728Z">
+        <seg>Potete ottenere lo stesso risultato posizionando il cursore all'inizio del paragrafo e premendo i tasti &lt;f0&gt;Maiusc + Tab&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can get to the official template repository by using the &lt;f0&gt;Get more templates for LibreOffice&lt;/f0&gt; button at the right-hand end of the Template&lt;f1&gt;s&lt;/f1&gt; dialog, as shown in Figure &lt;t2&gt;55&lt;/t2&gt;, or by typing &lt;a3&gt;http://templates.libreoffice.org/template-center&lt;/a3&gt; in your browser’s address bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T172349Z">
@@ -67683,8 +67699,8 @@
       <tuv lang="EN">
         <seg>bulleted or numbered list</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T173712Z" creationid="Elisabetta Manuele" creationdate="20181203T173712Z">
-        <seg>elenchi puntati o numerati &lt;s0/&gt;167</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T191838Z" creationid="Elisabetta Manuele" creationdate="20181203T173712Z">
+        <seg>elenchi puntati o numerati</seg>
       </tuv>
     </tu>
     <tu>
@@ -68813,6 +68829,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T211240Z">
         <seg>file di immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>graphic styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T191800Z" creationid="Elisabetta Manuele" creationdate="20181210T191800Z">
+        <seg>stili grafici</seg>
       </tuv>
     </tu>
     <tu>
