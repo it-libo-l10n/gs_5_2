@@ -53907,6 +53907,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The unformatted text will be formatted with the outline or paragraph style at the cursor position in an AutoLayout text box or with the default graphic style in a normal text box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T191522Z" creationid="Elisabetta Manuele" creationdate="20181210T191522Z">
+        <seg>Al testo non formattato verrà applicato lo stile di struttura o di paragrafo relativo alla posizione del cursore all'interno di una casella di testo a Layout automatico, oppure in base allo stile grafico predefinito all'interno di una casella di testo normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The units of measurement are those selected in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T061824Z">
@@ -63075,8 +63083,8 @@
       <tuv lang="EN">
         <seg>When formatting pasted text, you can use the tools available on the Text Formatting toolbar (Figure &lt;t0&gt;145&lt;/t0&gt;), or the tools available in the &lt;f1&gt;Character&lt;/f1&gt; and &lt;f2&gt;Paragraph&lt;/f2&gt; sections of the &lt;f3&gt;Properties&lt;/f3&gt; deck in the Sidebar (Figure &lt;t4&gt;146&lt;/t4&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T172207Z" creationid="Elisabetta Manuele" creationdate="20181203T172207Z">
-        <seg>Per la formattazione del testo incollato potete utilizzare gli strumenti disponibili nella barra degli strumenti Formattazione testo (Figura &lt;t0&gt;145&lt;/t0&gt;), o nelle sezioni &lt;f1&gt;Carattere&lt;/f1&gt; e &lt;f2&gt;Paragrafo&lt;/f2&gt; del pannello &lt;f3&gt;Proprietà&lt;/f3&gt;, nella Barra laterale (Figura &lt;t4&gt;146&lt;/t4&gt;). </seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T191550Z" creationid="Elisabetta Manuele" creationdate="20181203T172207Z">
+        <seg>Per la formattazione del testo incollato potete utilizzare gli strumenti disponibili nella barra degli strumenti Formattazione testo (Figura &lt;t0&gt;145&lt;/t0&gt;), o nelle sezioni &lt;f1&gt;Carattere&lt;/f1&gt; e &lt;f2&gt;Paragrafo&lt;/f2&gt; del pannello &lt;f3&gt;Proprietà&lt;/f3&gt;, nella Barra laterale (Figura &lt;t4&gt;146&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
