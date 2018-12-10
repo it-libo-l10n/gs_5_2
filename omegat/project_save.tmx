@@ -58975,6 +58975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To select a group&lt;re0/&gt; of slides, use one of these methods:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T183643Z" creationid="Elisabetta Manuele" creationdate="20181210T183643Z">
+        <seg>Per selezionare un gruppo&lt;re0/&gt; di diapositive adottate uno dei seguenti metodi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To select a range of cells by dragging the mouse cursor:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T142522Z">
@@ -61722,8 +61730,8 @@
       <tuv lang="EN">
         <seg>Using the &lt;f0&gt;Ctrl&lt;/f0&gt; key – click on the first slide and, while pressing the &lt;f1&gt;Ctrl&lt;/f1&gt; key, select the other desired slides.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T150848Z" creationid="Elisabetta Manuele" creationdate="20181128T150848Z">
-        <seg>Tramite tasto &lt;f0&gt;Control (Ctrl)&lt;/f0&gt;: fate clic sulla prima diapositiva e, mantenendo il &lt;f1&gt;tasto&lt;/f1&gt; premuto, selezionate le altre diapositive desiderate.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T183733Z" creationid="Elisabetta Manuele" creationdate="20181128T150848Z">
+        <seg>Tramite tasto &lt;f0&gt;Control (Ctrl)&lt;/f0&gt;: fate clic sulla prima diapositiva e, mantenendo &lt;f1&gt;Ctrl&lt;/f1&gt; premuto, selezionate le altre diapositive desiderate.</seg>
       </tuv>
     </tu>
     <tu>
