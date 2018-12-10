@@ -4600,6 +4600,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide Slide&lt;/f0&gt; – any slides that are hidden are not shown in the slide show.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T184214Z" creationid="Elisabetta Manuele" creationdate="20181210T184214Z">
+        <seg>&lt;f0&gt;Nascondi diapositiva&lt;/f0&gt;: consente di evitare la visualizzazione di diapositive nascoste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Hide menubar.&lt;/f0&gt; Causes the PDF viewer to hide the menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221913Z" creationid="Alessia Mazzarini" creationdate="20181104T221913Z">
@@ -14383,6 +14391,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T163109Z" creationid="Elisabetta Manuele" creationdate="20181128T163109Z">
         <seg>Scegliete il tipo di transizione diapositiva desiderata dal menu a discesa &lt;f0&gt;Effetto&lt;/f0&gt;.&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the presentation you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T184410Z" creationid="Elisabetta Manuele" creationdate="20181210T184410Z">
+        <seg>Scegliete la presentazione desiderata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31562,8 +31578,8 @@
       <tuv lang="EN">
         <seg>If you selected &lt;f3&gt;From template&lt;/f3&gt;, an example slide is shown in the Preview box.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T153523Z" creationid="Elisabetta Manuele" creationdate="20181128T153523Z">
-        <seg>Scegliendo l’opzione &lt;f3&gt;Da modello&lt;/f3&gt;, nel riquadro Anteprima viene visualizzata un diapositiva d'esempio.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T184446Z" creationid="Elisabetta Manuele" creationdate="20181128T153523Z">
+        <seg>Scegliendo l’opzione &lt;f3&gt;Da modello&lt;/f3&gt;, nel riquadro Anteprima viene visualizzata una diapositiva d'esempio.</seg>
       </tuv>
     </tu>
     <tu>
