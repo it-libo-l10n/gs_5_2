@@ -15893,8 +15893,8 @@
       <tuv lang="EN">
         <seg>Click on the &lt;f0&gt;Apply to All Slides&lt;/f0&gt; button to apply the same display time to all slides.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171536Z">
-        <seg>Fate clic sul pulsante &lt;f0&gt;Applica la transizione a tutte le diapositive&lt;/f0&gt; per assegnare lo stesso tempo di visualizzazione a tutte le diapositive.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171849Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Applica la transizione a tutte le diapositive&lt;/f0&gt; per assegnare lo stesso intervallo di visualizzazione a tutte le diapositive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56382,8 +56382,8 @@
       <tuv lang="EN">
         <seg>To apply a different display time to each slide in your presentation:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T090033Z">
-        <seg>To apply a different display time to each slide in your presentation:</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171831Z">
+        <seg>Per assegnare a ciascuna diapositiva della presentazione un intervallo di visualizzazione diverso, procedete come segue:</seg>
       </tuv>
     </tu>
     <tu>
