@@ -15179,6 +15179,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Open&lt;/f0&gt; to add the files to the Photo Album.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T201338Z" creationid="Elisabetta Manuele" creationdate="20181210T201338Z">
+        <seg>Fate clic su &lt;f0&gt;Apri&lt;/f0&gt; per aggiungere i file all'album fotografico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Organizer&lt;/f0&gt; to open the Basic Macro Organizer dialog (Figure &lt;t1&gt;342&lt;/t1&gt;) and select the &lt;f2&gt;Libraries&lt;/f2&gt; tab.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180917T211503Z">
@@ -22284,6 +22292,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T173226Z">
         <seg>Figura &lt;seq0&gt;155&lt;/seq0&gt;: finestra di dialogo Piè di pagina in Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;156&lt;/seq0&gt;: Inserting comments</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T201201Z" creationid="Elisabetta Manuele" creationdate="20181210T201201Z">
+        <seg>Figura &lt;seq0&gt;156&lt;/seq0&gt;: inserire commenti</seg>
       </tuv>
     </tu>
     <tu>
