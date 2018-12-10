@@ -29152,6 +29152,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, pasted text will probably not match the formatting of the surrounding text on the slide or that of the other slides in the presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T190819Z" creationid="Elisabetta Manuele" creationdate="20181210T190819Z">
+        <seg>Tuttavia il testo incollato probabilmente non corrisponderà alla formattazione del testo circostante o a quella delle altre diapositive della presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, recorded macros in LibreOffice always create subroutines, not functions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180919T203129Z">
@@ -34708,6 +34716,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180527T205227Z">
         <seg>È integrato con le funzioni grafiche avanzate dei componenti Draw e Math di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is normally good practice to paste text without formatting and apply the formatting later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T190923Z" creationid="Elisabetta Manuele" creationdate="20181210T190923Z">
+        <seg>Normalmente è buona norma incollare il testo senza formattazione per applicarla in un secondo momento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55517,8 +55533,8 @@
       <tuv lang="EN">
         <seg>This may be what you want on some occasions; however, in most cases you want to make sure that the presentation style is consistent and does not become a patchwork of different paragraph styles, font types, bullet points and so on.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T171542Z" creationid="Elisabetta Manuele" creationdate="20181203T171542Z">
-        <seg>Questo potrebbe corrispondere a quanto desiderate in alcune occasioni; tuttavia, nella maggior parte dei casi è auspicabile assicurarsi che lo stile di presentazione sia uniforme, evitando un effetto macedonia prodotto da stili diversi di paragrafo, tipi di carattere, punti elenco, ecc.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T190849Z" creationid="Elisabetta Manuele" creationdate="20181203T171542Z">
+        <seg>Questo potrebbe corrispondere a quanto desiderate in alcune occasioni, tuttavia, nella maggior parte dei casi è auspicabile assicurarsi che lo stile di presentazione sia uniforme, evitando un effetto macedonia prodotto da stili diversi di paragrafo, tipi di carattere, punti elenco, ecc.</seg>
       </tuv>
     </tu>
     <tu>
