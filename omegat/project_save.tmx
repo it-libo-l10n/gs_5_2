@@ -29576,6 +29576,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a bullet list is needed, select the desired bullet style from the default styles available on the &lt;f0&gt;Bullets&lt;/f0&gt; page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T192726Z" creationid="Elisabetta Manuele" creationdate="20181210T192726Z">
+        <seg>Se dovete inserire un elenco puntato, selezionate lo stile di punto desiderato dagli stili predefiniti disponibili nella scheda &lt;f0&gt;Punti&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a database is not registered, this window will not contain it, so you cannot access the database in Writer or Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T162621Z">
@@ -59065,8 +59073,8 @@
       <tuv lang="EN">
         <seg>To see a preview of the picture, select &lt;f3&gt;Preview&lt;/f3&gt; at the bottom of the Insert Image dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T183015Z" creationid="Elisabetta Manuele" creationdate="20181203T183015Z">
-        <seg>Per visualizzare un'anteprima dell'immagine, selezionate l'opzione &lt;f3&gt;Anteprima&lt;/f3&gt; in fondo alla finestra di dialogo Inserisci immagine.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T192904Z" creationid="Elisabetta Manuele" creationdate="20181203T183015Z">
+        <seg>Per visualizzare un'anteprima dell'immagine selezionate l'opzione &lt;f3&gt;Anteprima&lt;/f3&gt; in fondo alla finestra di dialogo Inserisci immagine.</seg>
       </tuv>
     </tu>
     <tu>
