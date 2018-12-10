@@ -6608,6 +6608,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To end the presentation, use the Back button of the phone, or open the menu and select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Stop slide show&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T181207Z" creationid="Elisabetta Manuele" creationdate="20181210T181207Z">
+        <seg>&lt;f0&gt;Per terminare la presentazione, utilizzate il pulsante Indietro del telefono, oppure aprite il menu e selezionate &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Ferma la presentazione&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To hide &lt;/f0&gt;&lt;f1&gt;rows&lt;/f1&gt; &lt;f2&gt;or&lt;/f2&gt; &lt;f3&gt;columns&lt;/f3&gt;:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123658Z">
@@ -19820,6 +19828,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T192753Z" creationid="Elisabetta Manuele" creationdate="20181127T192753Z">
         <seg>Facendo doppio clic sulla percentuale dello zoom si apre la finestra di dialogo Zoom e layout visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-tap the slide thumbnail or use the phone’s physical volume down button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T181014Z" creationid="Elisabetta Manuele" creationdate="20181210T181014Z">
+        <seg>Toccare due volte la miniatura della diapositiva o utilizzare il pulsante fisico del telefono per ridurre il volume.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48899,8 +48915,8 @@
       <tuv lang="EN">
         <seg>Swipe left to go to the next slide, or swipe right to go backwards.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181007T011138Z" creationid="luke" creationdate="20181007T011138Z">
-        <seg>Swipe left to go to the next slide, or swipe right to go backwards.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T181059Z" creationid="luke" creationdate="20181007T011138Z">
+        <seg>Scorrete a sinistra per passare alla diapositiva successiva, oppure a destra per tornare alla precedente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57774,6 +57790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To go backwards</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T180944Z" creationid="Elisabetta Manuele" creationdate="20181210T180944Z">
+        <seg>Per tornare indietro nella presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To have Calc save documents by default in a file format other than the default ODF format, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T160255Z">
@@ -59235,6 +59259,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T174704Z" creationid="luke" creationdate="20181007T005504Z">
         <seg>Per firmare un documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To skip slide animations and transitions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T181030Z" creationid="Elisabetta Manuele" creationdate="20181210T181030Z">
+        <seg>Per ignorare le animazioni e le transizioni delle diapositive</seg>
       </tuv>
     </tu>
     <tu>
