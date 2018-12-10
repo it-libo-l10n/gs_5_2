@@ -22240,6 +22240,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;161&lt;/seq0&gt;: Impress presentation as seen in mobile device</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T180647Z" creationid="Elisabetta Manuele" creationdate="20181210T180647Z">
+        <seg>Figura &lt;seq0&gt;161&lt;/seq0&gt;: presentazione vista da dispositivo mobile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;162&lt;/seq0&gt;: All slides</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T180714Z" creationid="Elisabetta Manuele" creationdate="20181210T180714Z">
+        <seg>Figura &lt;seq0&gt;162&lt;/seq0&gt;: tutte le diapositive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;163&lt;/seq0&gt;: LibreOffice Draw workspace</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104939Z">
@@ -49137,6 +49153,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tap the slide thumbnail or use the phone’s physical volume up button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T180918Z" creationid="Elisabetta Manuele" creationdate="20181210T180918Z">
+        <seg>Toccare la miniatura della diapositiva o utilizzare il pulsante fisico del telefono per alzare il volume.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Template sets, spelling dictionaries, clipart galleries, macros, and dialog libraries can be packaged as LibreOffice extensions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T125502Z">
@@ -56456,6 +56480,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T183900Z" creationid="Elisabetta Manuele" creationdate="20181128T183900Z">
         <seg>Per adattare la formattazione del titolo o del sottotitolo, oppure modificare lo stile di presentazione del contenuto consultate il &lt;f2&gt;Capitolo 2 della Guida a Impress, Utilizzo di master di diapositiva, stili e modelli&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To advance the presentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T180724Z" creationid="Elisabetta Manuele" creationdate="20181210T180724Z">
+        <seg>Per avanzare nella presentazione</seg>
       </tuv>
     </tu>
     <tu>
