@@ -22232,6 +22232,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;160&lt;/seq0&gt;: Bluetooth visible device</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T180557Z" creationid="Elisabetta Manuele" creationdate="20181210T180557Z">
+        <seg>Figura &lt;seq0&gt;160&lt;/seq0&gt;: dispositivo Bluetooth visibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;163&lt;/seq0&gt;: LibreOffice Draw workspace</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104939Z">
@@ -39393,6 +39401,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On both devices, make sure Bluetooth is already enabled and configured.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T180340Z" creationid="Elisabetta Manuele" creationdate="20181210T180340Z">
+        <seg>Assicuratevi che il Bluetooth sia stato attivato e configurato su entrambi i dispositivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On completion, the dispatcher variable contains a reference to a DispatchHelper.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180920T230158Z">
@@ -39905,6 +39921,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On your computer, open the presentation you would like to present.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T180351Z" creationid="Elisabetta Manuele" creationdate="20181210T180351Z">
+        <seg>Sul computer aprite la presentazione desiderata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On your phone:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T180400Z" creationid="Elisabetta Manuele" creationdate="20181210T180400Z">
+        <seg>Sul telefono:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once in Base, you can edit, add, and delete tables, queries, forms, and reports.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162936Z" creationid="manuel" creationdate="20181015T162936Z">
@@ -40133,6 +40165,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T201157Z">
         <seg>Aprite la &lt;i0/&gt;raccolta di librerie &lt;f1&gt;Macros personali&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Impress Remote from the main menu (Figure &lt;t0&gt;160&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T180427Z" creationid="Elisabetta Manuele" creationdate="20181210T180427Z">
+        <seg>Avviate LibreOffice Impress Remote dal menu principale (Figura &lt;t0&gt;160&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -52843,6 +52883,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The presentation opened on the computer begins automatically (Figures &lt;t0&gt;161&lt;/t0&gt; and &lt;t1&gt;162&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T180530Z" creationid="Elisabetta Manuele" creationdate="20181210T180530Z">
+        <seg>La presentazione aperta sul computer inizia automaticamente (Figure &lt;t0&gt;161&lt;/t0&gt; e &lt;t1&gt;162&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The preview box changes to show the selected page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T201741Z" creationid="Alessia Mazzarini" creationdate="20181007T201741Z">
@@ -58759,6 +58807,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To run a slide show using Impress Remote, follow these steps:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T180326Z" creationid="Elisabetta Manuele" creationdate="20181210T180326Z">
+        <seg>Per eseguire una presentazione tramite LibreOffice Impress Remote attenetevi alla seguente procedura:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To run a slide show, do one of the following:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T174334Z">
@@ -59027,6 +59083,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203832Z">
         <seg>Per selezionare le opzioni di stampa relative &lt;i0/&gt;all'ordine delle pagine, i dettagli e la scala da usare quando stampare un foglio di lavoro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select your computer, tap its name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T180458Z" creationid="Elisabetta Manuele" creationdate="20181210T180458Z">
+        <seg>Per selezionare il computer in uso toccate il nome. </seg>
       </tuv>
     </tu>
     <tu>
