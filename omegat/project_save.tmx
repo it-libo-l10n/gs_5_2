@@ -10681,6 +10681,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, go to &lt;f0&gt;Insert &gt; Object &gt; OLE Object &lt;/f0&gt;on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T193757Z" creationid="Elisabetta Manuele" creationdate="20181210T193757Z">
+        <seg>In alternativa, accedete alla voce &lt;f0&gt;Inserisci &gt; Oggetto &gt; Oggetto OLE &lt;/f0&gt;nella Barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; on the main menu bar to open the LibreOffice Basic Macros dialog, select your macro and click &lt;f1&gt;Run&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180919T124500Z">
@@ -36131,8 +36139,8 @@
       <tuv lang="EN">
         <seg>LibreOffice uses three terms for a slide that is used to create other slides: &lt;f0&gt;master slide&lt;/f0&gt;, &lt;f1&gt;slide master&lt;/f1&gt;, and &lt;f2&gt;master page&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172742Z" creationid="Elisabetta Manuele" creationdate="20181129T172742Z">
-        <seg>In LibreOffice coesistono tre termini che si riferiscono tutti a una diapositiva impiegata per crearne altre: &lt;f0&gt;master di diapositiva&lt;/f0&gt;, &lt;f1&gt;diapositiva master&lt;/f1&gt;, e &lt;f2&gt;pagina master&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T193920Z" creationid="Elisabetta Manuele" creationdate="20181129T172742Z">
+        <seg>In LibreOffice coesistono tre termini che si riferiscono tutti a una diapositiva impiegata per crearne altre: &lt;f0&gt;master di diapositiva&lt;/f0&gt;, &lt;f1&gt;diapositiva master&lt;/f1&gt; e &lt;f2&gt;pagina master&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
