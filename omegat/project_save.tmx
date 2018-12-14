@@ -9649,6 +9649,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Activate Bluetooth on both devices, then pair the devices.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181214T184949Z" creationid="Elisabetta Manuele" creationdate="20181214T184949Z">
+        <seg>Attivate il Bluetooth su entrambi i dispositivi, quindi eseguite la procedura di abbinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Activates selected button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T133454Z">
@@ -43765,6 +43773,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180515T090035Z">
         <seg>Running a slide show</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running a slide show with Impress Remote</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181214T185041Z" creationid="Elisabetta Manuele" creationdate="20181214T185041Z">
+        <seg>Esecuzione di una presentazione con LibreOffice Impress Remote</seg>
       </tuv>
     </tu>
     <tu>
