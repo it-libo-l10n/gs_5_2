@@ -58991,6 +58991,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To resize a contents box, click on the outer frame so that the resizing handles are displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181214T184816Z" creationid="Elisabetta Manuele" creationdate="20181214T184816Z">
+        <seg>Per ridimensionare un riquadro per i contenuti, fate clic sulla cornice esterna, in modo da rendere visibili le maniglie di ridimensionamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To resize along both axes, use a corner handle.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T065444Z">
