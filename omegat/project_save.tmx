@@ -25058,8 +25058,8 @@
       <tuv lang="EN">
         <seg>For a &lt;f0&gt;Document&lt;/f0&gt; hyperlink, specify the document path (clicking &lt;f1&gt;Open File&lt;/f1&gt; opens a file browser) or leave this blank if you want to link to a target in the same document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T215746Z">
-        <seg>Per un collegamento ipertestuale della categoria &lt;f0&gt;Documento&lt;/f0&gt;, specificate il percorso del documento (se fate clic su &lt;f1&gt;Apri file&lt;/f1&gt; si aprirà una finestra di esplorazione file), oppure lasciatelo vuoto se desiderate un collegamento a una destinazione nello stesso documento.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T233956Z">
+        <seg>Per un collegamento ipertestuale della categoria &lt;f0&gt;Documento&lt;/f0&gt;, specificare il percorso del documento (facendo clic su &lt;f1&gt;Apri file&lt;/f1&gt; si aprirà una finestra di esplorazione file), oppure lasciarlo vuoto se si desidera un collegamento a una destinazione nello stesso documento.</seg>
       </tuv>
     </tu>
     <tu>
