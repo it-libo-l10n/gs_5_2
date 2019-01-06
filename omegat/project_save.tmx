@@ -63563,8 +63563,8 @@
       <tuv lang="EN">
         <seg>When using the Navigator to insert a hyperlink to an object such as a graphic, it is recommended to have the hyperlink show a useful name, for example &lt;f0&gt;2009 Sales Graph.&lt;/f0&gt; You need to give such objects useful names instead of leaving them as the default names, for example Graphics6, or you will have to edit the name of the resulting link using the Hyperlink dialog, as described below.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T123504Z">
-        <seg>Quando utilizzate il Navigatore per collegare un oggetto come un'immagine, è consigliato fare in modo che il collegamento mostri un testo significativo, come &lt;f0&gt;Grafico vendite 2009&lt;/f0&gt;. A tal fine dovrete dare a quel oggetto un nome significativo, invece di lasciargli il nome predefinito (“Grafico6”), oppure dovrete modificare il testo del collegamento risultante tramite la finestra di dialogo Collegamento ipertestuale, come descritto di seguito.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T192129Z">
+        <seg>Quando si utilizza il Navigatore per collegare un oggetto come un'immagine, è consigliato fare in modo che il collegamento mostri un testo significativo, come &lt;f0&gt;Grafico vendite 2009&lt;/f0&gt;. A tal fine si dovrà dare a quegli oggetti un nome significativo, invece di lasciare i nomi predefiniti, per esempio Grafico6, altrimenti si dovrà modificare il testo del collegamento risultante tramite la finestra di dialogo Collegamento ipertestuale, come descritto di seguito.</seg>
       </tuv>
     </tu>
     <tu>
