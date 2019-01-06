@@ -16495,8 +16495,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Hyperlink &lt;/f0&gt;icon on the Standard toolb&lt;f1&gt;ar,&lt;/f1&gt; or go to &lt;f2&gt;Edit &gt; Hyperlink&lt;/f2&gt; on the menu bar, or right-click and select &lt;f3&gt;Edit Hyperlink&lt;/f3&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T122920Z">
-        <seg>Fate clic sull'icona &lt;f0&gt;Collegamento ipertestuale &lt;/f0&gt; sulla barra degli strumenti Standard &lt;f1&gt;,&lt;/f1&gt; oppure nella barra del menu andate in &lt;f2&gt;Modifica &gt; Collegamento&lt;/f2&gt;, o fare clic con il pulsante destro del mouse e nel menu contestuale selezionate &lt;f3&gt;Modifica Collegamento&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T235429Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Collegamento ipertestuale &lt;/f0&gt; sulla barra degli strumenti Standard &lt;f1&gt;,&lt;/f1&gt; oppure nella barra del menu selezionare &lt;f2&gt;Modifica &gt; Collegamento&lt;/f2&gt;, o fare clic con il pulsante destro del mouse e nel menu contestuale selezionare &lt;f3&gt;Modifica Collegamento&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36875,8 +36875,8 @@
       <tuv lang="EN">
         <seg>Make your changes and click &lt;f0&gt;Apply&lt;/f0&gt; to save your changes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T123006Z">
-        <seg>Fate le vostre modifiche, quindi fate clic su &lt;f0&gt;Applica&lt;/f0&gt; per salvarle.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T235515Z">
+        <seg>Fare le modifiche desiderate, quindi fare clic su &lt;f0&gt;Applica&lt;/f0&gt; per salvarle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50301,8 +50301,8 @@
       <tuv lang="EN">
         <seg>The Hyperlink dialog remains open, allowing you to continue editing hyperlinks.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T123101Z">
-        <seg>La finestra di dialogo Collegamento ipertestuale rimane aperta, permettendovi di continuare a modificare i collegamenti.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T235538Z">
+        <seg>La finestra di dialogo Collegamento ipertestuale rimane aperta, permettendo di continuare a modificare i collegamenti.</seg>
       </tuv>
     </tu>
     <tu>
