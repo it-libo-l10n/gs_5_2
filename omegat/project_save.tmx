@@ -33562,8 +33562,8 @@
       <tuv lang="EN">
         <seg>In the Navigator list, select the item that you want to insert as a hyperlink.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T123007Z">
-        <seg>Nell'elenco del Navigatore, selezionate l'elemento che volete inserire come collegamento ipertestuale.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T191719Z">
+        <seg>Nell'elenco del Navigatore, selezionare l'elemento che volete inserire come collegamento ipertestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46227,8 +46227,8 @@
       <tuv lang="EN">
         <seg>Select the document from the drop-down list at the bottom of the Navigator that contains the item that you want to link to.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T123000Z">
-        <seg>Dall'elenco a discesa, che si trova in basso nel Navigatore, selezionate il documento che contiene gli elementi che volete collegare.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T191701Z">
+        <seg>Selezionare il documento dall'elenco a discesa nella parte inferiore del Navigatore che contiene l'elemento a cui ci si vuol collegare.</seg>
       </tuv>
     </tu>
     <tu>
