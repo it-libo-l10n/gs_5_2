@@ -16744,8 +16744,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;f3&gt;Select Path&lt;/f3&gt; icon to open a file browser and choose where to store the file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T220402Z">
-        <seg>Fate clic sull'icona &lt;f3&gt;Seleziona percorso&lt;/f3&gt; per aprire una finestra di esplorazione e scegliere dove salvare il file.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T234722Z">
+        <seg>Fare clic sull'icona &lt;f3&gt;Seleziona percorso&lt;/f3&gt; per aprire una finestra di esplorazione e scegliere dove salvare il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21106,8 +21106,8 @@
       <tuv lang="EN">
         <seg>Enter the file name and select the type of document to create (text, spreadsheet, and so on).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T220328Z">
-        <seg>Inserite il nome del fil e selezionate ill tipo di documento da creare (documento di testo, foglio elettronico e così via).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T234657Z">
+        <seg>Inserire il nome del file e selezionare il tipo di documento da creare (documento di testo, foglio elettronico e così via).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49675,8 +49675,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Further settings&lt;/f0&gt; section in the bottom right part of the dialog is common to all the hyperlink categories, although some choices are more relevant to some types of links.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T220517Z">
-        <seg>La sezione &lt;f0&gt;Ulteriori impostazioni&lt;/f0&gt; nella parte in basso a destra della finestra di dialogo è comune per tutte le categorie di collegamento ipertestuale, nonostante alcune scelte siano più adatte ad alcuni tipi di collegamenti.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T234816Z">
+        <seg>La sezione &lt;f0&gt;Ulteriori impostazioni&lt;/f0&gt; nella parte in basso a destra della finestra di dialogo è comune per tutte le categorie di collegamento ipertestuale, sebbene alcune scelte siano più adatte ad alcuni tipi di collegamenti.</seg>
       </tuv>
     </tu>
     <tu>
