@@ -16728,8 +16728,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;f2&gt;Target in Document&lt;/f2&gt; icon to open the Target in Document dialog where you can select the type of target; or, if you know the name of the target, you can type it into the box.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T220016Z">
-        <seg>Fate clic sull'icona &lt;f2&gt;Destinazione nel documento&lt;/f2&gt; per aprire l'omonima finestra di dialogo nella quale potete selezionare il tipo di destinazione; oppure, se ne conoscete il nome, potete digitarlo direttamente nella casella.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T234529Z">
+        <seg>Fate clic sull'icona &lt;f2&gt;Destinazione nel documento&lt;/f2&gt; per aprire l'omonima finestra di dialogo nella quale si può selezionare il tipo di destinazione; oppure, se si conosce il nome della destinazione, lo si può  digitare direttamente nella casella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25074,8 +25074,8 @@
       <tuv lang="EN">
         <seg>For a &lt;f0&gt;New Document&lt;/f0&gt; hyperlink, specify whether to edit the newly created document immediately (&lt;f1&gt;Edit now&lt;/f1&gt;) or just create it (&lt;f2&gt;Edit later&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T220225Z">
-        <seg>Per un collegamento ipertestuale della categoria &lt;f0&gt;Nuovo documento&lt;/f0&gt;, specificate se modificarlo immediatamente (&lt;f1&gt;Modifica subito&lt;/f1&gt;) oppure se crearlo soltanto (&lt;f2&gt;Modifica dopo&lt;/f2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T234602Z">
+        <seg>Per un collegamento ipertestuale della categoria &lt;f0&gt;Nuovo documento&lt;/f0&gt;, specificare se modificarlo immediatamente (&lt;f1&gt;Modifica subito&lt;/f1&gt;) oppure se crearlo soltanto (&lt;f2&gt;Modifica dopo&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
