@@ -15349,8 +15349,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f1&gt;Apply&lt;/f1&gt; after editing each hyperlink.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T123328Z">
-        <seg>Fate clic su &lt;f1&gt;Applica&lt;/f1&gt; dopo che avete finito di modificare ogni singolo collegamento ipertestuale.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T235601Z">
+        <seg>Fare clic su &lt;f1&gt;Applica&lt;/f1&gt; dopo che si è finito di modificare ogni singolo collegamento ipertestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63627,8 +63627,8 @@
       <tuv lang="EN">
         <seg>When you are finished editing hyperlinks, click &lt;f0&gt;Close&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T123200Z">
-        <seg>Una volta che avete terminato di modificare i collegamenti, fate clic su &lt;f0&gt;Chiudi&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T235620Z">
+        <seg>Una volta che si è terminato di modificare i collegamenti, fare clic su &lt;f0&gt;Chiudi&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
