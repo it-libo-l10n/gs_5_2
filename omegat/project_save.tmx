@@ -8082,8 +8082,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;T&lt;/f4&gt;he Drag Mode icon changes shape depending on the type of insert that was previously selected.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T122723Z">
-        <seg>&lt;f4&gt;L'&lt;/f4&gt;icona del modo trascinamento cambia forma a seconda del tipo di inserimento selezionato in precedenza.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T191137Z">
+        <seg>&lt;f4&gt;L'&lt;/f4&gt;icona del Modo trascinamento cambia forma a seconda del tipo di inserimento selezionato in precedenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51333,8 +51333,8 @@
       <tuv lang="EN">
         <seg>The default icon for Drag Mode is to show the Hyperlink icon &lt;f5&gt;&lt;df6&gt;&lt;di7/&gt;&lt;/df6&gt;&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T122813Z">
-        <seg>L'icona predefinita del modo trascinamento è quella del collegamento ipertestuale &lt;f5&gt;&lt;df6&gt;&lt;di7/&gt;&lt;/df6&gt;&lt;/f5&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T191358Z">
+        <seg>L'icona predefinita del Modo trascinamento mostra l'icona del collegamento ipertestuale &lt;f5&gt;&lt;df6&gt;&lt;di7/&gt;&lt;/df6&gt;&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
