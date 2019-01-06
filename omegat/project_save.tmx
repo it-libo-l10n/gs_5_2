@@ -51133,8 +51133,8 @@
       <tuv lang="EN">
         <seg>The complete path and address can only be seen when you view the result of the HTML export (saving the spreadsheet as an HTML file), by loading the HTML file as text, or by opening it with a text editor.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T205852Z">
-        <seg>Il percorso completo e l'indirizzo sono visibili solo quando osservate il risultato dell'esportazione in HTML (salvate il foglio elettronico come file HTML), caricate il file HTML come testo, oppure lo aprite con un editor di testo.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T182001Z">
+        <seg>Il percorso completo e l'indirizzo sono visibili solo quando si osserva il risultato dell'esportazione in HTML (salvando il foglio elettronico come file HTML), caricando il file HTML come testo, oppure aprendolo con un editor di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63995,8 +63995,8 @@
       <tuv lang="EN">
         <seg>When you type text (such as a website addresses or URL) that can be used as a hyperlink, and then press the spacebar or the &lt;f0&gt;Enter&lt;/f0&gt; key, LibreOffice automatically creates the hyperlink and applies formatting to the text (usually a color and underlining).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T210302Z">
-        <seg>Quando inserite del testo (come un indirizzo di un sito web o URL) che può essere usato come collegamento ipertestuale, LibreOffice lo crea automaticamente, appena premete la barra spaziatrice oppure il tasto &lt;f0&gt;Invio&lt;/f0&gt;, e applica al suo testo la relativa formattazione (normalmente colorazione e sottolineatura).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T182537Z">
+        <seg>Quando si inserisce del testo (come un indirizzo di un sito web o URL) che può essere usato come collegamento ipertestuale, appena premete la barra spaziatrice oppure il tasto &lt;f0&gt;Invio&lt;/f0&gt;, LibreOffice crea automaticamente il collegamento ipertestuale e applica al suo testo la relativa formattazione (normalmente colorazione e sottolineatura).</seg>
       </tuv>
     </tu>
     <tu>
