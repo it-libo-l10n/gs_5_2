@@ -40859,8 +40859,8 @@
       <tuv lang="EN">
         <seg>Optionally specify the target in the document (for example a specific slide).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T215823Z">
-        <seg>Facoltativamente è possibile specificare la destinazione all'interno del documento (ad esempio, una particolare diapositiva).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T234231Z">
+        <seg>In alternativa è possibile specificare la destinazione all'interno del documento (ad esempio, una particolare diapositiva).</seg>
       </tuv>
     </tu>
     <tu>
