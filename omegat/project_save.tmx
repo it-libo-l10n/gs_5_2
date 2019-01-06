@@ -3938,8 +3938,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Events&lt;/f0&gt;: click this icon to open the Assign Macro dialog and select a macro to run when the link is clicked.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T221114Z">
-        <seg>&lt;f0&gt;Eventi&lt;/f0&gt;: fate clic su quest'icona per aprire la finestra di dialogo Assegna Macro e sceglierne una da eseguire quando fate clic sul collegamento.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T235222Z">
+        <seg>&lt;f0&gt;Eventi&lt;/f0&gt;: fare clic su quest'icona per aprire la finestra di dialogo Assegna Macro e sceglierne una da eseguire quando si fa clic sul collegamentor</seg>
       </tuv>
     </tu>
     <tu>
@@ -35106,8 +35106,8 @@
       <tuv lang="EN">
         <seg>It specifies text that will be added as a &lt;f1&gt;NAME&lt;/f1&gt; attribute in the HTML code behind the hyperlink.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T220954Z">
-        <seg>Definisce il testo che sarà aggiunto come attributo &lt;f1&gt;Name&lt;/f1&gt; nel codice HTML del collegamento ipertestuale.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T235136Z">
+        <seg>Definisce il testo che sarà aggiunto come attributo &lt;f1&gt;NAME&lt;/f1&gt; nel codice HTML del collegamento ipertestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39075,8 +39075,8 @@
       <tuv lang="EN">
         <seg>Note that if the link is relative and you move the file, this text will not change, though the target will.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T220929Z">
-        <seg>Da notare che se il collegamento è relativo e voi spostate il file, questo testo non cambierà, nonostante cambi la destinazione.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T235052Z">
+        <seg>Da notare che se il collegamento è relativo e si sposta il file, questo testo non cambierà, nonostante cambi la destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44755,8 +44755,8 @@
       <tuv lang="EN">
         <seg>See the &lt;f1&gt;Writer Guide Chapter 15 Using Forms in Writer&lt;/f1&gt; for more information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T220834Z">
-        <seg>Per maggiori informazioni vedete il &lt;f1&gt;Capitolo 15 della Guida a Writer (Usare i formulari in Writer)&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T234950Z">
+        <seg>Per maggiori informazioni vedere il &lt;f1&gt;Capitolo 15 della Guida a Writer (Usare i formulari in Writer)&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
