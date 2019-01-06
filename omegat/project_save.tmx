@@ -29138,8 +29138,8 @@
       <tuv lang="EN">
         <seg>However, if that object has been placed in a frame (for example, with an associated caption), it is not saved and does not appear in the HTML document; instead, the name of the frame appears.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T205121Z">
-        <seg>Tuttavia, se l'oggetto è posizionato in una cornice (ad esempio, con una didascalia associata), questo non verrà salvato e non comparirà nel documento HTML; verrà invece visualizzato il nome della cornice.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T180005Z">
+        <seg>Tuttavia, se l'oggetto è posizionato in una frame (ad esempio, con una didascalia associata), questo non verrà salvato e non comparirà nel documento HTML; verrà invece visualizzato il nome della frame.</seg>
       </tuv>
     </tu>
     <tu>
