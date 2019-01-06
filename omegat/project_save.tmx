@@ -40435,8 +40435,8 @@
       <tuv lang="EN">
         <seg>Open the Navigator in the target document and drag the item to the position in the source document where you want the hyperlink to appear.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T123624Z">
-        <seg>Aprite il Navigatore nel documento di destinazione e trascinate l'elemento nel punto all'interno del documento sorgente in cui desiderate che compaia il collegamento ipertestuale.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T192338Z">
+        <seg>Aprire il Navigatore nel documento di destinazione e trascinare l'elemento nel punto all'interno del documento sorgente in cui si desidera che compaia il collegamento ipertestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65531,8 +65531,8 @@
       <tuv lang="EN">
         <seg>You can also use the Navigator to insert a hyperlink from one document (the source) to a specific place in another document (the target).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T123525Z">
-        <seg>Potete anche usare il Navigatore per inserire un collegamento ipertestuale da un documento (sorgente) a una specifica posizione in un altro documento (destinazione).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T192242Z">
+        <seg>Potete anche usare il Navigatore per inserire un collegamento ipertestuale da un documento (la sorgente) a una specifica posizione in un altro documento (la destinazione).</seg>
       </tuv>
     </tu>
     <tu>
@@ -66875,8 +66875,8 @@
       <tuv lang="EN">
         <seg>You can use the Hyperlink dialog to insert a hyperlink and modify all hyperlinks.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T123720Z">
-        <seg>Potete utilizzare la finestra di dialogo Collegamento ipertestuale per inserire e modificare tutti i collegamenti ipertestuali.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T192440Z">
+        <seg>Si può utilizzare la finestra di dialogo Collegamento ipertestuale per inserire un collegamento ipertestuale e modificare tutti i collegamenti ipertestuali.</seg>
       </tuv>
     </tu>
     <tu>
