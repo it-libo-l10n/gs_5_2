@@ -14677,8 +14677,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Apply&lt;/f0&gt; to create the hyperlink and the Hyperlink dialog remains open allowing you to create another hyperlink.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T124309Z">
-        <seg>Fate clic su &lt;f0&gt;Applica&lt;/f0&gt; per creare il collegamento; la finestra di dialogo Collegamento ipertestuale rimane aperta permettendovi di creare un altro collegamento.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T233301Z">
+        <seg>Fate clic su &lt;f0&gt;Applica&lt;/f0&gt; per creare il collegamento; la finestra di dialogo Collegamento ipertestuale rimane aperta permettendo di creare un altro collegamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21074,8 +21074,8 @@
       <tuv lang="EN">
         <seg>Enter all necessary details to create the hyperlink.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T124207Z">
-        <seg>Inserite tutti i dettagli necessari alla creazione del collegamento ipertestuale.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T233233Z">
+        <seg>Inserire tutti i dettagli necessari alla creazione del collegamento ipertestuale.</seg>
       </tuv>
     </tu>
     <tu>
