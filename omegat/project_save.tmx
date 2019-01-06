@@ -16503,8 +16503,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Hyperlink &lt;/f0&gt;icon on the Standard toolbar or go to &lt;f1&gt;Insert &gt; Hyperlink&lt;/f1&gt; on the menu bar to open the Hyperlink dialog (Figure &lt;t2&gt;324&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T123923Z">
-        <seg>Fate clic sull'icona &lt;f0&gt;Collegamento ipertestuale&lt;/f0&gt; nella barra degli strumenti Standard, oppure nella barra del menu andate in &lt;f1&gt;Inserisci &gt; Collegamento ipertestuale&lt;/f1&gt; in modo da aprire la finestra di dialogo Collegamento ipertestuale (Figura &lt;t2&gt;324&lt;/t2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T192749Z">
+        <seg>Fare clic sull'icona &lt;f0&gt;Collegamento ipertestuale&lt;/f0&gt; nella barra degli strumenti Standard, oppure nella barra del menu scegliere la voce &lt;f1&gt;Inserisci &gt; Collegamento ipertestuale&lt;/f1&gt; in modo da aprire la finestra di dialogo Collegamento ipertestuale (Figura &lt;t2&gt;324&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28770,8 +28770,8 @@
       <tuv lang="EN">
         <seg>Highlight the existing text you want to use as a link.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T123744Z">
-        <seg>Selezionate il testo esistente che volete usare come collegamento.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T192601Z">
+        <seg>Evidenziare il testo esistente che si vuole usare come collegamento.</seg>
       </tuv>
     </tu>
     <tu>
