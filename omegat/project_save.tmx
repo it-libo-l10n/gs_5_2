@@ -29842,8 +29842,8 @@
       <tuv lang="EN">
         <seg>If clicking in your links activates them, check that page to see if the option has been deselected.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T123534Z">
-        <seg>Se facendo clic sui collegamenti questi si attivano, controllate in quella pagina per verificare se l'opzione è stata deselezionata.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T235821Z">
+        <seg>Se facendo clic sui collegamenti questi si attivano, controllare in quella pagina se l'opzione è stata deselezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55029,8 +55029,8 @@
       <tuv lang="EN">
         <seg>This behavior can be changed in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Security &gt; Options&lt;/f1&gt; by deselecting the option &lt;f2&gt;Ctrl-click required to follow hyperlinks&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T123449Z">
-        <seg>Potete modificare questo comportamento andando in &lt;f1&gt;Strumenti &gt; Opzioni&gt; LibreOffice &gt; Sicurezza&gt; Opzioni&lt;/f1&gt;, e deselezionando l'opzione &lt;f2&gt;È necessario Ctrl+clic per l'apertura dei collegamenti&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T235738Z">
+        <seg>Si può modificare questo comportamento andando in &lt;f1&gt;Strumenti &gt; Opzioni&gt; LibreOffice &gt; Sicurezza&gt; Opzioni&lt;/f1&gt;, deselezionando l'opzione &lt;f2&gt;È necessario Ctrl+clic per l'apertura dei collegamenti&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66475,8 +66475,8 @@
       <tuv lang="EN">
         <seg>You can remove the link from hyperlink text and leave just the text by right-clicking on the link and selecting &lt;f0&gt;Remove Hyperlink&lt;/f0&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T123734Z">
-        <seg>Potete rimuovere un collegamento lasciando solamente il testo - facendo clic col pulsante destro del mouse sul collegamento e selezionando dal menu contestuale &lt;f0&gt;Elimina collegamento&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T235903Z">
+        <seg>Si può rimuovere un collegamento lasciando solamente il testo - facendo clic col pulsante destro del mouse sul collegamento e selezionando dal menu contestuale &lt;f0&gt;Elimina collegamento&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67275,8 +67275,8 @@
       <tuv lang="EN">
         <seg>You may then need to re-apply some formatting to match the text with the rest of your document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T123820Z">
-        <seg>Potreste poi dover riapplicare la formattazione per rendere omogeneo il testo con il resto del documento.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190106T235932Z">
+        <seg>Si potrebbe poi dover riapplicare la formattazione per rendere omogeneo il testo con il resto del documento.</seg>
       </tuv>
     </tu>
     <tu>
