@@ -5986,8 +5986,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Select button style&lt;/f0&gt; to be used for the web pages from the designs available (Figure &lt;t1&gt;337&lt;/t1&gt;) and then click &lt;f2&gt;Next&gt;&gt;.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T182451Z">
-        <seg>&lt;f0&gt;Selezionate tra quelli disponibili lo stile dei pulsanti&lt;/f0&gt; da utilizzare nelle pagine web (Figura &lt;t1&gt;337&lt;/t1&gt;) e poi fate clic su &lt;f2&gt;Avanti &gt;&gt;.&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T150004Z">
+        <seg>&lt;f0&gt;Selezionare tra quelli disponibili lo stile dei pulsanti&lt;/f0&gt; da utilizzare nelle pagine web (Figura &lt;t1&gt;337&lt;/t1&gt;) e poi fare clic su &lt;f2&gt;Avanti &gt;&gt;.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31090,8 +31090,8 @@
       <tuv lang="EN">
         <seg>If you do not select a button style, LibreOffice will create a text navigator.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T182536Z">
-        <seg>Se non scegliete uno stile per i pulsanti, LibreOffice creerà un navigatore testuale.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T150031Z">
+        <seg>Se non è stato scelto uno stile per i pulsanti, LibreOffice creerà un navigatore testuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55933,8 +55933,8 @@
       <tuv lang="EN">
         <seg>This page is not available if you have selected either Automatic or WebCast publication type.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T182601Z">
-        <seg>Questa pagina non è disponibile se avete selezionato Automatico o WebCast come tipo di pubblicazione.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T150044Z">
+        <seg>Questa pagina non è disponibile se è stato selezionato Automatico o WebCast come tipo di pubblicazione.</seg>
       </tuv>
     </tu>
     <tu>
