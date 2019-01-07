@@ -4978,8 +4978,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Instead, u&lt;/f0&gt;se borderless tables to position contents in&lt;f1&gt;stead&lt;/f1&gt; of the tab character in a line.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T202738Z">
-        <seg>&lt;f0&gt;Piuttosto, &lt;/f0&gt;per posizionare i contenuti, usate delle tabelle prive di bordi &lt;f1&gt;anziché&lt;/f1&gt; inserire caratteri di tabulazione.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T111835Z">
+        <seg>&lt;f0&gt;Piuttosto, &lt;/f0&gt;per posizionare i contenuti, usare delle tabelle prive di bordi &lt;f1&gt;anziché&lt;/f1&gt; inserire caratteri di tabulazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57671,8 +57671,8 @@
       <tuv lang="EN">
         <seg>To do this, press &lt;f0&gt;Ctrl+Spacebar&lt;/f0&gt; instead of just &lt;f1&gt;Spacebar&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T202415Z">
-        <seg>Per farlo, premete &lt;f0&gt;Ctrl+barra spaziatrice&lt;/f0&gt; invece della sola &lt;f1&gt;barra spaziatrice&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T111807Z">
+        <seg>Per farlo, premere &lt;f0&gt;Ctrl+barra spaziatrice&lt;/f0&gt; invece della sola &lt;f1&gt;barra spaziatrice&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58945,8 +58945,8 @@
       <tuv lang="EN">
         <seg>To render an OLE object in XHTML, first transform its visible contents into an image and then replace the object in your document with the image.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T203350Z">
-        <seg>Per visualizzare un oggetto OLE in un file XHTML, per prima cosa trasformate il suo contenuto visibile in un'immagine e poi, nel documento, sostituite  l'oggetto Ole con la sua immagine.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T111937Z">
+        <seg>Per visualizzare un oggetto OLE in un file XHTML, per prima cosa trasformate il suo contenuto visibile in un'immagine e poi, nel documento, sostituite  l'oggetto OLE con la sua immagine.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60914,8 +60914,8 @@
       <tuv lang="EN">
         <seg>Use a list style where the tab character is replaced by a space.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T202947Z">
-        <seg>Utilizzate uno stile di elenco nel quale il carattere di tabulazione sia sostituito da uno spazio.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T111858Z">
+        <seg>Utilizzare uno stile di elenco nel quale il carattere di tabulazione sia sostituito da uno spazio.</seg>
       </tuv>
     </tu>
     <tu>
