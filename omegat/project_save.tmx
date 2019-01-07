@@ -27594,8 +27594,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;File &gt; Export&lt;/f0&gt; and select &lt;f1&gt;HTML Document (Draw)&lt;/f1&gt; as the file type, then follow the procedure above for exporting Impress presentations.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T183753Z">
-        <seg>Andate in &lt;f0&gt;File &gt; Esporta&lt;/f0&gt; e come tipo di file selezionate &lt;f1&gt;documento HTML (Draw)&lt;/f1&gt;, quindi seguite la procedura sopra esposta per l'esportazione delle presentazioni di Impress.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T150423Z">
+        <seg>Andare in &lt;f0&gt;File &gt; Esporta&lt;/f0&gt; e come tipo di file selezionare &lt;f1&gt;documento HTML (Draw)&lt;/f1&gt;, quindi seguire la procedura sopra esposta per l'esportazione delle presentazioni di Impress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32890,8 +32890,8 @@
       <tuv lang="EN">
         <seg>In addition to the Normal and Web display modes for editing (Figure &lt;t0&gt;339&lt;/t0&gt;), Writer/Web has a third editing mode called HTML Source mode (Figure &lt;t1&gt;340&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T191541Z">
-        <seg>Per la modifica dei documenti, in aggiunta ai modi di visualizzazione Normale e Web (Figura &lt;t0&gt;339&lt;/t0&gt;), Writer/Web ha un terzo modo di modifica Testo sorgente HTML (Figura &lt;t1&gt;340&lt;/t1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T150649Z">
+        <seg>Per la modifica dei documenti, in aggiunta ai modi di visualizzazione Normale e Web (Figura &lt;t0&gt;339&lt;/t0&gt;), Writer/Web ha un terzo modo di modifica denominato Testo sorgente HTML (Figura &lt;t1&gt;340&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
