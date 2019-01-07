@@ -30986,8 +30986,8 @@
       <tuv lang="EN">
         <seg>If you delete a design, you will only delete the design information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T211457Z">
-        <seg>Se eliminate una struttura, cancellerete solo le informazioni sulla struttura.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T131445Z">
+        <seg>Se viene eliminata una struttura, verranno cancellate solo le informazioni sulla struttura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48395,8 +48395,8 @@
       <tuv lang="EN">
         <seg>Specify the &lt;f0&gt;Publication type&lt;/f0&gt; for the web pages (Figure &lt;t1&gt;339&lt;/t1&gt;), then click &lt;f2&gt;Next&gt;&gt;&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T122756Z">
-        <seg>Specificate il &lt;f0&gt;Tipo di pubblicazione&lt;/f0&gt; per le pagine web (Figura &lt;t1&gt;339&lt;/t1&gt;), poi fate clic su &lt;f2&gt;Avanti &gt;&gt;&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T131518Z">
+        <seg>Specificare il &lt;f0&gt;Tipo di pubblicazione&lt;/f0&gt; per le pagine web (Figura &lt;t1&gt;339&lt;/t1&gt;), poi fare clic su &lt;f2&gt;Avanti &gt;&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
