@@ -13029,8 +13029,8 @@
       <tuv lang="EN">
         <seg>Calc can save files as HTML documents by going to &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the menu bar and select &lt;f1&gt;HTML Document (Calc)&lt;/f1&gt; format as the file type.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T204745Z">
-        <seg>Calc può salvare i file come documenti HTML , per farlo, nella barra del menu, andate in &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt; e selezionate come tipo di file il formato &lt;f1&gt;Documento HTML (Calc)&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T112224Z">
+        <seg>Calc può salvare i file come documenti HTML , per farlo, nella barra del menu, andare in &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt; e selezionare come tipo di file il formato &lt;f1&gt;Documento HTML (Calc)&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18841,8 +18841,8 @@
       <tuv lang="EN">
         <seg>Decide which headings in the document should start on a new page and make sure all those headings have the same paragraph style (for example, Heading 1).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T203903Z">
-        <seg>Decidete quali intestazioni presenti nel documento debbano iniziare su una nuova pagina e assicuratevi che abbiano tutte lo stesso stile (per esempio, Intestazione 1).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T112040Z">
+        <seg>Decidere quali intestazioni presenti nel documento debbano iniziare su una nuova pagina e assicurarsi che abbiano tutte lo stesso stile (per esempio, Intestazione 1).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28218,8 +28218,8 @@
       <tuv lang="EN">
         <seg>Go to&lt;f0&gt; File &gt; Send &gt; Create HTML Document&lt;/f0&gt; on the menu bar to open the Name and Path of the HTML Document dialog (Figure &lt;t1&gt;332&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T204059Z">
-        <seg>Nella barra del menu andate in &lt;f0&gt; File &gt; Invia &gt; Crea Documento HTML&lt;/f0&gt; per aprire la finestra di dialogo Nome e Percorso del Documento HTML (Figura &lt;t1&gt;332&lt;/t1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T112056Z">
+        <seg>Nella barra del menu andare in &lt;f0&gt; File &gt; Invia &gt; Crea Documento HTML&lt;/f0&gt; per aprire la finestra di dialogo Nome e Percorso del Documento HTML (Figura &lt;t1&gt;332&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48435,8 +48435,8 @@
       <tuv lang="EN">
         <seg>Specify which style indicates a new page by using the Styles drop-down list at the bottom of the dialog (for example, Heading 1).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T204352Z">
-        <seg>Usando l'elenco a discesa degli stili che si trova in basso nella finestra di dialogo, specificate quale stile indica l'inizio di una nuova pagina (ad esempio, Intestazione 1).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T112137Z">
+        <seg>Usando l'elenco a discesa degli stili che si trova in basso nella finestra di dialogo, specificare quale stile indica l'inizio di una nuova pagina (ad esempio, Intestazione 1).</seg>
       </tuv>
     </tu>
     <tu>
@@ -60289,8 +60289,8 @@
       <tuv lang="EN">
         <seg>Type the file name to save the pages under.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T204206Z">
-        <seg>Digitate il nome del file con cui salvare le pagine.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T112119Z">
+        <seg>Digitare il nome del file con cui salvare le pagine.</seg>
       </tuv>
     </tu>
     <tu>
