@@ -33266,8 +33266,8 @@
       <tuv lang="EN">
         <seg>In that mode you must know the HTML markup language.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T191800Z">
-        <seg>In questa modalità dovete conoscere il linguaggio di markup HTML.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T150744Z">
+        <seg>In questa modalità occorre conoscere il linguaggio di markup HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57439,8 +57439,8 @@
       <tuv lang="EN">
         <seg>To create an HTML document, choose &lt;f0&gt;File &gt; New &gt; HTML Document&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T192531Z">
-        <seg>Per creare un documento HTML, scegliete &lt;f0&gt;File &gt; Nuovo &gt; Documento HTML&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T151012Z">
+        <seg>Per creare un documento HTML, scegliere &lt;f0&gt;File &gt; Nuovo &gt; Documento HTML&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61098,8 +61098,8 @@
       <tuv lang="EN">
         <seg>Use the HTML Source editing mode to tweak the formatting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T192042Z">
-        <seg>Usate il modo di modifica Testo sorgente HTML per aggiustare la formattazione.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T150927Z">
+        <seg>Usare il modo di modifica Testo sorgente HTML per aggiustare la formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64363,8 +64363,8 @@
       <tuv lang="EN">
         <seg>With the HTML Source mode, you can directly edit HTML tags such as &lt;f2&gt;&lt;p&gt;&lt;/f2&gt;, &lt;f3&gt;&lt;ul&gt;&lt;/f3&gt;, &lt;f4&gt;&lt;table&gt;&lt;/f4&gt;,&lt;f5&gt; and so on &lt;/f5&gt;to compose web page elements.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T191722Z">
-        <seg>In modalità Testo sorgente HTML, potete comporre gli elementi della pagina web modificando direttamente i tag HTML come &lt;f2&gt;&lt;p&gt;&lt;/f2&gt;, &lt;f3&gt;&lt;ul&gt;&lt;/f3&gt;, &lt;f4&gt;&lt;table&gt;&lt;/f4&gt;&lt;f5&gt; e via dicendo&lt;/f5&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T150716Z">
+        <seg>In modalità Testo sorgente HTML, si può comporre gli elementi della pagina web modificando direttamente i tag HTML come &lt;f2&gt;&lt;p&gt;&lt;/f2&gt;, &lt;f3&gt;&lt;ul&gt;&lt;/f3&gt;, &lt;f4&gt;&lt;table&gt;&lt;/f4&gt;&lt;f5&gt; e via dicendo&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67435,8 +67435,8 @@
       <tuv lang="EN">
         <seg>You normally add content to an HTML document using the Web display mode, because it will render the contents as if displayed in a browser.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T192002Z">
-        <seg>Solitamente aggiungerete i contenuti ad un documento HTML usando il modo di visualizzazione Web, in quanto questo dispone i contenuti come se li steste visualizzando inn un browser.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T150910Z">
+        <seg>Solitamente si aggiungono i contenuti ad un documento HTML usando il modo di visualizzazione Web, in quanto questo modo dispone i contenuti come se li steste visualizzando in un browser.</seg>
       </tuv>
     </tu>
     <tu>
