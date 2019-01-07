@@ -7866,8 +7866,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Creating, editing, and saving web pages using Writer/Web&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;” on page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;345&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T124314Z">
-        <seg>&lt;f1&gt;Vedete “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Creazione, modifica e salvataggio di pagine Web tramite Writer/Web&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;” a pagina &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;345&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T111630Z">
+        <seg>&lt;f1&gt;Vedere “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Creazione, modifica e salvataggio di pagine Web tramite Writer/Web&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;” a pagina &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;345&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19594,8 +19594,8 @@
       <tuv lang="EN">
         <seg>Do not expect good layout fidelity when saving a file with HTML format.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T124132Z">
-        <seg>Salvando un file in formato HTML, non aspettatevi di ottenere una buona corrispondenza del layout.&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T111604Z">
+        <seg>Salvando un file in formato HTML, non ci si deve aspettare di ottenere una buona corrispondenza del layout.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27498,8 +27498,8 @@
       <tuv lang="EN">
         <seg>Gif image of &lt;f0&gt;visible&lt;/f0&gt; &lt;f1&gt;contents of &lt;/f1&gt;OLE objects.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T123606Z">
-        <seg>Immagine gif con i contenuti &lt;f0&gt;visibili&lt;/f0&gt; &lt;f1&gt;degli &lt;/f1&gt;oggetti OLE.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T111401Z">
+        <seg>Immagine Gif con i contenuti &lt;f0&gt;visibili&lt;/f0&gt; &lt;f1&gt;degli &lt;/f1&gt;oggetti OLE.</seg>
       </tuv>
     </tu>
     <tu>
