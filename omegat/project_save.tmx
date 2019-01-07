@@ -27658,8 +27658,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;File &gt; Wizards &gt; Web Page&lt;/f0&gt; on the menu bar to open the Web Wizard dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T220140Z">
-        <seg>Nella barra del menu andate in &lt;f0&gt;File &gt; Procedure guidate &gt; Pagina Web&lt;/f0&gt; per aprire la finestra di dialogo creazione guidata sito web.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110156Z">
+        <seg>Nella barra del menu andare in &lt;f0&gt;File &gt; Procedure guidate &gt; Pagina Web&lt;/f0&gt; per aprire la finestra di dialogo creazione guidata sito web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29954,8 +29954,8 @@
       <tuv lang="EN">
         <seg>If necessary, edit this information (Figure &lt;t3&gt;326&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T220501Z">
-        <seg>Se necessario, modificate queste informazioni (Figura &lt;t3&gt;326&lt;/t3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110354Z">
+        <seg>Se necessario, modificare queste informazioni (Figura &lt;t3&gt;326&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30626,8 +30626,8 @@
       <tuv lang="EN">
         <seg>If this is your first web page, the only choice is &lt;default&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T220320Z">
-        <seg>Se questa è la vostra prima pagina web, l'unica opzione disponibile è &lt;predefinito&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110250Z">
+        <seg>Se questa è la prima pagina web che si crea, l'unica opzione disponibile è &lt;predefinito&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40003,8 +40003,8 @@
       <tuv lang="EN">
         <seg>On the first page of the Wizard, choose settings and click &lt;f0&gt;Next &gt;&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T220301Z">
-        <seg>Nella prima pagina della procedura guidata, selezionate le impostazioni desiderate e fate clic su &lt;f0&gt;Avanti &gt;&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110215Z">
+        <seg>Nella prima pagina della procedura guidata, selezionare le impostazioni desiderate e fate clic su &lt;f0&gt;Avanti &gt;&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45787,8 +45787,8 @@
       <tuv lang="EN">
         <seg>Select or browse to the document you would like to format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T220410Z">
-        <seg>Selezionate o scorrete sino al documento a cui volete applicare la formattazione.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110322Z">
+        <seg>Selezionare o scorrere sino al documento a cui si vuole applicare la formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50741,8 +50741,8 @@
       <tuv lang="EN">
         <seg>The Web Wizard is linked to Writer and is normally used in Writer for creating web pages.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T124647Z">
-        <seg>La procedura guidata per la creazione di pagine web è legata a Writer e, per la loro creazione, di solito viene usata in Writer.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110129Z">
+        <seg>La procedura guidata per la creazione di pagine web è legata a Writer e per la creazione delle stesse di solito viene usato Writer.</seg>
       </tuv>
     </tu>
     <tu>
