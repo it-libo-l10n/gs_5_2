@@ -3826,8 +3826,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Effects&lt;/f0&gt; – specifies whether sound files defined as an effect for slide transitions are exported and whether any hidden slides are exported.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T180431Z">
-        <seg>&lt;f0&gt;Effetti&lt;/f0&gt; – specifica se devono essere esportati anche i file audio impostati come effetti di transizione tra le diapositive e le diapositive nascoste.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T145731Z">
+        <seg>&lt;f0&gt;Effetti&lt;/f0&gt; – specifica se devono essere esportati anche i file audio impostati come effetti di transizione tra le diapositive e se vengono esportate le diapositive nascoste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26538,8 +26538,8 @@
       <tuv lang="EN">
         <seg>For more information on the options available for this page of the HTML Export dialog, click &lt;f0&gt;Help&lt;/f0&gt; to open the help pages.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T180507Z">
-        <seg>Per maggiori informazioni sulle opzioni disponibili in questa pagina della finestra di dialogo Esportazione HTML, fate clic su &lt;f0&gt; Aiuto&lt;/f0&gt; per aprire l'aiuto in linea.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T145755Z">
+        <seg>Per maggiori informazioni sulle opzioni disponibili in questa pagina della finestra di dialogo Esportazione HTML, fare clic su &lt;f0&gt; Aiuto&lt;/f0&gt; per aprire l'aiuto in linea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45219,8 +45219,8 @@
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Link to a copy of the original presentation&lt;/f0&gt; if you want to create a hyperlink to download a copy of the presentation file and then click &lt;f1&gt;Next&gt;&gt;.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T181636Z">
-        <seg>Se volete creare un collegamento ipertestuale che permetta di scaricare una copia del file della presentazione, selezionate &lt;f0&gt;Collegamento alla copia della presentazione originale&lt;/f0&gt;  e poi fate clic su &lt;f1&gt;Avanti &gt;&gt;.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T145945Z">
+        <seg>Se si vuole creare un collegamento ipertestuale che permetta di scaricare una copia del file della presentazione, selezionare &lt;f0&gt;Collegamento alla copia della presentazione originale&lt;/f0&gt;  e poi fare clic su &lt;f1&gt;Avanti &gt;&gt;.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48387,8 +48387,8 @@
       <tuv lang="EN">
         <seg>Specify the &lt;f0&gt;Information for the title page&lt;/f0&gt; to be used with the web version of your presentation (Figure &lt;t1&gt;336&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T181225Z">
-        <seg>Specificate le &lt;f0&gt;Informazioni per la pagina sommario&lt;/f0&gt; da usare nella versione web della presentazione (Figura &lt;t1&gt;336&lt;/t1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T145826Z">
+        <seg>Specificare le &lt;f0&gt;Informazioni per la pagina sommario&lt;/f0&gt; da usare nella versione web della presentazione (Figura &lt;t1&gt;336&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53941,8 +53941,8 @@
       <tuv lang="EN">
         <seg>The title page normally contains the author’s name, an e-mail address and home page, along with any additional information you may want to include.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T181257Z">
-        <seg>Normalmente il sommario contiene il nome dell'autore, l'indirizzo e-mail e la home page, con l'aggiunta di tutte le informazioni che vorrete includere.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T145846Z">
+        <seg>Normalmente il sommario contiene il nome dell'autore, l'indirizzo e-mail e la home page, con l'aggiunta di tutte le informazioni che si vorranno includere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55941,8 +55941,8 @@
       <tuv lang="EN">
         <seg>This page is not available if you have selected not to create a title page and either Automatic or WebCast publication type.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T181421Z">
-        <seg>Questa pagina non è disponibile se avete selezionato di non creare una pagina sommario, oppure Automatico o WebCast come tipo di pubblicazione.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T145913Z">
+        <seg>Questa pagina non è disponibile se è stato selezionato di non creare una pagina sommario, oppure Automatico o WebCast come tipo di pubblicazione.</seg>
       </tuv>
     </tu>
     <tu>
