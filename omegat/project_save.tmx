@@ -20778,8 +20778,8 @@
       <tuv lang="EN">
         <seg>Each time you start the Web Wizard in a LibreOffice component, Writer automatically starts before the Web Wizard opens.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T124433Z">
-        <seg>Ogni volta che da un componente di LibreOffice richiamate la procedura guidata per la creazione di pagine web, Writer si avvia automaticamente prima che questa si apra.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T105936Z">
+        <seg>Ogni volta che da un componente di LibreOffice si richiama la procedura guidata per la creazione di pagine web, si avvia automaticamente Writer prima che questa si apra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66787,8 +66787,8 @@
       <tuv lang="EN">
         <seg>You can use &lt;i0/&gt;the Web Wizard to create several types of standard web pages from all LibreOffice components except Math.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180925T124230Z">
-        <seg>In tutti i componenti di LibreOffice, tranne che in Math, potete usare &lt;i0/&gt;la procedura guidata per la realizzazione di pagine Web Wizard, per creare diversi tipi di pagine web standard.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T105851Z">
+        <seg>In tutti i componenti di LibreOffice, tranne che in Math, si può usare &lt;i0/&gt;la procedura guidata per la realizzazione di pagine Web Wizard, per creare diversi tipi di pagine web standard.</seg>
       </tuv>
     </tu>
     <tu>
