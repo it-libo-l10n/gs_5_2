@@ -12564,8 +12564,8 @@
       <tuv lang="EN">
         <seg>Browse to select a background image and icon set from the Gallery (Figure &lt;t1&gt;329&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T121354Z">
-        <seg>Scorrete la Galleria per selezionare un'immagine di sfondo e un insieme di icone (Figura &lt;t1&gt;329&lt;/t1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110641Z">
+        <seg>Scorrere la Galleria per selezionare un'immagine di sfondo e un insieme di icone (Figura &lt;t1&gt;329&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14853,8 +14853,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Finish&lt;/f0&gt; to save the file and close the Web Wizard.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T121847Z">
-        <seg>Fate clic su &lt;f0&gt;Fine&lt;/f0&gt; per salvare il file e chiudere la creazione guidata sito web.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110728Z">
+        <seg>Fare clic su &lt;f0&gt;Fine&lt;/f0&gt; per salvare il file e chiudere la creazione guidata sito web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14933,32 +14933,32 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Next &gt;&lt;/f0&gt; and enter general information for the web site, such as Title and HTML Metadata information (Figure &lt;t1&gt;330&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T121455Z">
-        <seg>Fate clic su &lt;f0&gt;Avanti &gt;&lt;/f0&gt; ed inserite le informazioni generali relative al sito web, come il titolo ed i metadati HTML (Figura &lt;t1&gt;330&lt;/t1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110701Z">
+        <seg>Fare clic su &lt;f0&gt;Avanti &gt;&lt;/f0&gt; ed inserire le informazioni generali relative al sito web, come il titolo ed i metadati HTML (Figura &lt;t1&gt;330&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Next &gt;&lt;/f0&gt; and select a layout for the web site by clicking on the layout boxes (Figure &lt;t1&gt;327&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T115717Z">
-        <seg>Fate clic su &lt;f0&gt;Avanti &gt;&lt;/f0&gt; e selezionate un layout per il sito web facendo clic sui riquadri di layout (Figura &lt;t1&gt;327&lt;/t1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110455Z">
+        <seg>Fare clic su &lt;f0&gt;Avanti &gt;&lt;/f0&gt; e selezionare uno stile per il sito web facendo clic sui riquadri di layout (Figura &lt;t1&gt;327&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Next &gt;&lt;/f0&gt; and select a style for the page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T121241Z">
-        <seg>Fate clic su &lt;f0&gt;Avanti &gt;&lt;/f0&gt; e selezionate uno stile per la pagina.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110602Z">
+        <seg>Fare clic su &lt;f0&gt;Avanti &gt;&lt;/f0&gt; e selezionare uno stile per la pagina.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Next &gt;&lt;/f0&gt; to customize the layout and select the information to be listed and screen resolution (Figure &lt;t1&gt;328&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T120002Z">
-        <seg>Fate clic su &lt;f0&gt;Avanti &gt;&lt;/f0&gt; per personalizzare il layout, selezionare i dati da visualizzare e la risoluzione dello schermo (Figura &lt;t1&gt;328&lt;/t1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110525Z">
+        <seg>Fare clic su &lt;f0&gt;Avanti &gt;&lt;/f0&gt; per personalizzare il layout, selezionare i dati da visualizzare e la risoluzione dello schermo (Figura &lt;t1&gt;328&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17072,8 +17072,8 @@
       <tuv lang="EN">
         <seg>Click&lt;f0&gt; Next &gt;&lt;/f0&gt; and enter the information of where to publish your new web site (Figure &lt;t1&gt;331&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T121704Z">
-        <seg>Fate clic su &lt;f0&gt; Avanti &gt;&lt;/f0&gt; ed inserite le informazioni relative a dove pubblicare il nuovo sito web (Figura &lt;t1&gt;331&lt;/t1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110718Z">
+        <seg>Fare clic su &lt;f0&gt; Avanti &gt;&lt;/f0&gt; ed inserire le informazioni relative a dove pubblicare il nuovo sito web (Figura &lt;t1&gt;331&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23674,16 +23674,16 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;327&lt;/seq0&gt;: Main layout page of Web Wizard dialog</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T115858Z">
-        <seg>Figura &lt;seq0&gt;327&lt;/seq0&gt;: pagina della finestra di dialogo creazione guida sito web, per la scelta del layout principale  </seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110510Z">
+        <seg>Figura &lt;seq0&gt;327&lt;/seq0&gt;: pagina della finestra di dialogo creazione guida sito web, per la scelta dello stile principale  </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;328&lt;/seq0&gt;: Layout details page of Web Wizard dialog</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T121219Z">
-        <seg>Figura &lt;seq0&gt;328&lt;/seq0&gt;: pagina della finestra di dialogo creazione guida sito web, per la personalizzazione del layout</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110549Z">
+        <seg>Figura &lt;seq0&gt;328&lt;/seq0&gt;: pagina della finestra di dialogo creazione guida sito web, per la personalizzazione dello stile</seg>
       </tuv>
     </tu>
     <tu>
@@ -61186,8 +61186,8 @@
       <tuv lang="EN">
         <seg>Use the drop-down list to choose different styles and color combinations.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T121301Z">
-        <seg>Utilizzate l'elenco a discesa per scegliere tra diversi stili e combinazioni di colori.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110615Z">
+        <seg>Utilizzare l'elenco a discesa per scegliere tra diversi stili e combinazioni di colori.</seg>
       </tuv>
     </tu>
     <tu>
