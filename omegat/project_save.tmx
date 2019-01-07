@@ -53869,8 +53869,8 @@
       <tuv lang="EN">
         <seg>The text contents, page layout, text attributes, &lt;f0&gt;meta tags,&lt;/f0&gt; and styles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T123454Z">
-        <seg>Contenuto testuale, layout della pagina, attributi del testo, &lt;f0&gt;metadati,&lt;/f0&gt; e stili.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T111343Z">
+        <seg>Il contenuto testuale, lo stile della pagina, gli attributi del testo, i &lt;f0&gt;metadati,&lt;/f0&gt; e gli stili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59113,8 +59113,8 @@
       <tuv lang="EN">
         <seg>To save a &lt;f0&gt;Writer &lt;/f0&gt;document as a single web page (HTML format), go to &lt;f1&gt;File &gt; Save As&lt;/f1&gt; on the menu bar and specify &lt;f2&gt;HTML Document (Writer)&lt;/f2&gt; as the file type.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T122622Z">
-        <seg>Per salvare un documento di &lt;f0&gt;Writer &lt;/f0&gt;come una singola pagina web (in formato HTML), nella barra del menu scegliete &lt;f1&gt;File &gt; Salva con nome&lt;/f1&gt; e specificate come tipo di file &lt;f2&gt;Documento HTML&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T111119Z">
+        <seg>Per salvare un documento di &lt;f0&gt;Writer &lt;/f0&gt;come una singola pagina web (in formato HTML), nella barra del menu scegliere &lt;f1&gt;File &gt; Salva con nome&lt;/f1&gt; e specificare come tipo di file &lt;f2&gt;Documento HTML&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
