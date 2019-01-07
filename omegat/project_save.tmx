@@ -31274,8 +31274,8 @@
       <tuv lang="EN">
         <seg>If you have not previously saved a web page design, the &lt;f4&gt;Existing Design&lt;/f4&gt; choice is not available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T211026Z">
-        <seg>Se in precedenza on avete salvato una struttura di pagina Web, l'opzione &lt;f4&gt;Struttura esistente&lt;/f4&gt; non sarà disponibile.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T131339Z">
+        <seg>Se in precedenza non è stata salvata una struttura di pagina Web, l'opzione &lt;f4&gt;Struttura esistente&lt;/f4&gt; non sarà disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39635,8 +39635,8 @@
       <tuv lang="EN">
         <seg>On the &lt;f0&gt;Assign design &lt;/f0&gt;page, you can choose to create a new design and select or delete an existing design.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T210806Z">
-        <seg>Nella pagina &lt;f0&gt;Assegna struttura&lt;/f0&gt;, potete scegliere di creare una nuova struttura, selezionare una esistente o cancellarne una.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T131243Z">
+        <seg>Nella pagina &lt;f0&gt;Assegna struttura&lt;/f0&gt;, si può scegliere di creare una nuova struttura, selezionarne una esistente o cancellarne una</seg>
       </tuv>
     </tu>
     <tu>
@@ -48379,8 +48379,8 @@
       <tuv lang="EN">
         <seg>Specify a &lt;f1&gt;New design&lt;/f1&gt; or an &lt;f2&gt;Existing design&lt;/f2&gt; and click &lt;f3&gt;Next &gt;&gt;&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T210919Z">
-        <seg>Specificate &lt;f1&gt;Nuova struttura&lt;/f1&gt; o &lt;f2&gt;Struttura esistente&lt;/f2&gt; e fate clic su &lt;f3&gt;Avanti &gt;&gt;&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T131258Z">
+        <seg>Specificare &lt;f1&gt;Nuova struttura&lt;/f1&gt; o &lt;f2&gt;Struttura esistente&lt;/f2&gt; e fare clic su &lt;f3&gt;Avanti &gt;&gt;&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
