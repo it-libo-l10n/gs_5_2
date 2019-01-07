@@ -27602,8 +27602,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;File &gt; Export&lt;/f0&gt; on the menu bar and specify the file name and location of where to save the web page version of your presentation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T210303Z">
-        <seg>Nella barra del menu andate in &lt;f0&gt;File &gt; Esporta&lt;/f0&gt; e precisate il nome file e la posizione in cui salvare la versione della presentazione in formato pagine Web.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T112530Z">
+        <seg>Nella barra del menu andare in &lt;f0&gt;File &gt; Esporta&lt;/f0&gt; e precisare il nome file e la posizione in cui salvare la versione della presentazione in formato pagina Web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44859,8 +44859,8 @@
       <tuv lang="EN">
         <seg>See “&lt;bf0&gt;Creating hyperlinks&lt;/bf0&gt;” on page &lt;bf1&gt;333&lt;/bf1&gt; for more information on hyperlinks.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T205410Z">
-        <seg>Per maggiori informazioni sui collegamenti ipertestuali, vedete “&lt;bf0&gt;Creazione di collegamenti ipertestuali&lt;/bf0&gt;” a pagina &lt;bf1&gt;333&lt;/bf1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T112338Z">
+        <seg>Per maggiori informazioni sui collegamenti ipertestuali, vedere “&lt;bf0&gt;Creazione di collegamenti ipertestuali&lt;/bf0&gt;” a pagina &lt;bf1&gt;333&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54133,8 +54133,8 @@
       <tuv lang="EN">
         <seg>The web pages created will then use the default settings that you have not changed in any way.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180927T210136Z">
-        <seg>Le pagine web create useranno i valori predefiniti per le impostazioni nelle quali non avete modificato nulla.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T112458Z">
+        <seg>Le pagine web create useranno i valori predefiniti per le impostazioni nelle quali non si sarà modificato nulla.</seg>
       </tuv>
     </tu>
     <tu>
