@@ -5930,8 +5930,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Saving a Writer document as a&lt;/f0&gt; &lt;i1/&gt;web page</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T122450Z">
-        <seg>&lt;f0&gt;Salvare documenti di Writer come&lt;/f0&gt; &lt;i1/&gt;pagine web</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T111037Z">
+        <seg>&lt;f0&gt;Salvare un documento di Writer come&lt;/f0&gt; &lt;i1/&gt;pagina web</seg>
       </tuv>
     </tu>
     <tu>
@@ -29330,8 +29330,8 @@
       <tuv lang="EN">
         <seg>However, web layout view does not show you which features will or will not be saved correctly in HTML format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T122215Z">
-        <seg>Tuttavia, la vista layout web non vi mostrerà quali caratteristiche verranno correttamente salvate in HTML.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110948Z">
+        <seg>Tuttavia, la vista layout web non mostrerà quali caratteristiche verranno o non verranno correttamente salvate in HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42787,8 +42787,8 @@
       <tuv lang="EN">
         <seg>Refer to “&lt;bf2&gt;Relative and absolute hyperlinks&lt;/bf2&gt;” on page &lt;bf3&gt;332&lt;/bf3&gt; on what to consider before creating a web page from a document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T122355Z">
-        <seg>Fate riferimento a “&lt;bf2&gt;Collegamenti ipertestuali relativi e assoluti&lt;/bf2&gt;” a pagina &lt;bf3&gt;332&lt;/bf3&gt; che spiega cosa considerare prima di creare una pagina web a partire da un documento.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T111005Z">
+        <seg>Fare riferimento a “&lt;bf2&gt;Collegamenti ipertestuali relativi e assoluti&lt;/bf2&gt;” a pagina &lt;bf3&gt;332&lt;/bf3&gt; che spiega cosa considerare prima di creare una pagina web a partire da un documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66123,8 +66123,8 @@
       <tuv lang="EN">
         <seg>You can get a good idea of how it will appear as a web page by &lt;i0/&gt;using &lt;f1&gt;View &gt; Web Layout&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180926T122141Z">
-        <seg>Potete farvi un'idea di come apparirà come pagina web &lt;i0/&gt;usando &lt;f1&gt;Visualizza &gt; Layout Web&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T110848Z">
+        <seg>Ci si può fare un'idea di come apparirà come pagina web &lt;i0/&gt;usando &lt;f1&gt;Visualizza &gt; Layout Web&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
