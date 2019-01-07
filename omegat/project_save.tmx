@@ -31682,8 +31682,8 @@
       <tuv lang="EN">
         <seg>If you specify a high resolution, then a viewer with a medium-resolution monitor will have to scroll sideways to see the entire slide, which is probably not desirable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T125032Z">
-        <seg>Se specificate una risoluzione alta, chi utilizzerà un monitor con una risoluzione media dovrà far scorrere la diapositiva lateralmente per poterla visualizzare completamente; il che non è auspicabile.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T140223Z">
+        <seg>Se si specifica una risoluzione alta, chi utilizzerà un monitor con una risoluzione media dovrà far scorrere la diapositiva lateralmente per poterla visualizzare completamente; il che non è auspicabile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63355,8 +63355,8 @@
       <tuv lang="EN">
         <seg>When selecting a resolution, consider what the majority of your viewers might be using.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T124944Z">
-        <seg>Quando scegliete una risoluzione, tenete conto della risoluzione utilizzata dalla maggioranza di coloro che vedranno le diapositive.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T140151Z">
+        <seg>Quando viene scelta una risoluzione, occorre tenere conto della risoluzione utilizzata dalla maggioranza di coloro che vedranno le diapositive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66683,8 +66683,8 @@
       <tuv lang="EN">
         <seg>You can specify a reduction of up to 80% from the original size.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T124901Z">
-        <seg>Potete specificare una riduzione fino ad un massimo dell'80% delle dimensioni originali.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T140103Z">
+        <seg>Si può specificare una riduzione fino ad un massimo dell'80% delle dimensioni originali.</seg>
       </tuv>
     </tu>
     <tu>
