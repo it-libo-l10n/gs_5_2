@@ -5994,8 +5994,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Select color scheme&lt;/f0&gt; to be used for the web pages (Figure &lt;t1&gt;338&lt;/t1&gt;) such as the color scheme and colors for text and background.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T182854Z">
-        <seg>&lt;f0&gt;Selezionate lo schema dei colori&lt;/f0&gt; da usare per le pagine web (Figura &lt;t1&gt;338&lt;/t1&gt;) tra gli schemi di colore ed i colori del testo e dello sfondo.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T150110Z">
+        <seg>&lt;f0&gt;Selezionare lo schema dei colori&lt;/f0&gt; da usare per le pagine web (Figura &lt;t1&gt;338&lt;/t1&gt;) tra gli schemi di colore ed i colori del testo e dello sfondo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14821,8 +14821,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Create&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T182937Z">
-        <seg>Fate clic su &lt;f0&gt;Crea&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T150132Z">
+        <seg>Fare clic su &lt;f0&gt;Crea&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20162,8 +20162,8 @@
       <tuv lang="EN">
         <seg>Draw documents cannot be saved in HTML format, but have to be exported as HTML documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T183538Z">
-        <seg>I documenti di Draw non possono essere salvati in formato HTML, ma devono essere esportate come documenti HTML.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T150341Z">
+        <seg>I documenti di Draw non possono essere salvati in formato HTML, ma devono essere esportati come documenti HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31210,8 +31210,8 @@
       <tuv lang="EN">
         <seg>If you have created a new design for your web pages, type in a name for your design and click &lt;f0&gt;Save&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T183041Z">
-        <seg>Se avete creato una nuova struttura per le pagine web, digitate un nome da assegnargli e fate clic su &lt;f0&gt;Salva&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T150234Z">
+        <seg>Se è stata creata una nuova struttura per le pagine web, digitare il  nome da assegnare e fare clic su &lt;f0&gt;Salva&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31674,8 +31674,8 @@
       <tuv lang="EN">
         <seg>If you simply save to your desktop and not in a specific folder, these separate HTML and graphics files will be placed all over your desktop.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T183458Z">
-        <seg>Se effettuate il salvataggio direttamente sul desktop anziché in un'apposita cartella, i file HTML e quelli in formato grafico potrebbero riempire il vostro desktop.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T150318Z">
+        <seg>Se è stato effettuato il salvataggio direttamente sul desktop anziché in un'apposita cartella, i file HTML e quelli in formato grafico potrebbero riempire il vostro desktop.</seg>
       </tuv>
     </tu>
     <tu>
