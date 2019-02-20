@@ -11841,6 +11841,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the bottom of the dialog (Figure &lt;t0&gt;307&lt;/t0&gt;) are two options, &lt;f1&gt;Preview&lt;/f1&gt; and &lt;f2&gt;Link&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T223221Z" creationid="osvaldo" creationdate="20190220T223221Z">
+        <seg>Nella parte inferiore della finestra di dialogo (Figure &lt;t0&gt;307&lt;/t0&gt;) are two options, &lt;f1&gt;Preview&lt;/f1&gt; and &lt;f2&gt;Link&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the bottom of the grid of cells in a spreadsheet &lt;i0/&gt;are sheet tabs indicating how many sheets there are in the spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T212003Z">
