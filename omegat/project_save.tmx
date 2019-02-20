@@ -14251,6 +14251,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Insert &gt; Image&lt;/f0&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222923Z" creationid="osvaldo" creationdate="20190220T222923Z">
+        <seg>Scegliete &lt;f0&gt;Inserisci &gt; Immagine&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Insert &gt; Special Character&lt;/f0&gt; or click on the Special Character icon in the main toolbar to open the Special Characters dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105555Z">
@@ -15727,6 +15735,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180822T104941Z">
         <seg>Fate clic nella cella del Nome di campo direttamente sotto IDCarburante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the LibreOffice document where you want the image to appear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222846Z" creationid="osvaldo" creationdate="20190220T222846Z">
+        <seg>Fate clic nel documento di LibreOffice dove desiderate che compaia l'immagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34268,6 +34284,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T163954Z">
         <seg>finestra di dialogo Inserisci segnalibro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Image dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222808Z" creationid="osvaldo" creationdate="20190220T222808Z">
+        <seg>Finestra di dialogo Inserisci Immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Picture dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222833Z" creationid="osvaldo" creationdate="20190220T222833Z">
+        <seg>Finestra di dialogo Inserisci Immagine.</seg>
       </tuv>
     </tu>
     <tu>
