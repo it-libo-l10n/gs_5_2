@@ -32016,6 +32016,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Images can be added to a document in several ways: by inserting an image file, directly from a graphics program or a scanner, by dragging them from the clip art internal gallery, or by copying and pasting from a source being viewed on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222032Z" creationid="osvaldo" creationdate="20190220T222032Z">
+        <seg>È possibile aggiungere delle immagini a un documento in vari modi: inserendo un file immagine, direttamente da un programma di grafica o da uno scanner, da un &lt;f0&gt;file memorizzato sul vostro computer, oppure copiando e incollando da una fonte che state visualizzando sul vostro computer.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Images created by another program, including photographs from a digital camera (&lt;f0&gt;Insert &gt; Picture &gt; From File&lt;/f0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105301Z">
@@ -34276,6 +34284,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T100716Z">
         <seg>Inserimento di una intestazione oppure un piè di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserting an &lt;i0/&gt;&lt;i1/&gt;&lt;i2/&gt;image file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222123Z" creationid="osvaldo" creationdate="20190220T222123Z">
+        <seg>Inserimento di un &lt;i0/&gt;&lt;i1/&gt;&lt;i2/&gt;file immagine</seg>
       </tuv>
     </tu>
     <tu>
@@ -63481,6 +63497,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the image is in a file stored on the computer, you can insert it into a LibreOffice document using either of the following methods.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222148Z" creationid="osvaldo" creationdate="20190220T222148Z">
+        <seg>Quando l'immagine si trova in un file salvato sul computer, potete inserirla in un documento di LibreOffice usando uno dei seguenti metodi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the installation is complete, the extension is listed in the Extension Manager dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T130642Z">
@@ -67689,6 +67713,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>adding from file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222039Z" creationid="osvaldo" creationdate="20190220T222039Z">
+        <seg>aggiungere da file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>adding macros from other sources</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180917T210537Z">
@@ -69057,6 +69089,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>graphics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222047Z" creationid="osvaldo" creationdate="20190220T222047Z">
+        <seg>oggetti grafici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>grayscale on color printer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T211752Z" creationid="Alessia Mazzarini" creationdate="20181007T211752Z">
@@ -69237,6 +69277,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T165524Z" creationid="Alessia Mazzarini" creationdate="20181104T165524Z">
         <seg>compressione e risoluzione dell'immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>images</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222107Z" creationid="osvaldo" creationdate="20190220T222107Z">
+        <seg>immagini</seg>
       </tuv>
     </tu>
     <tu>
@@ -69949,6 +69997,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T144847Z">
         <seg>opzioni percorsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pictures</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222058Z" creationid="osvaldo" creationdate="20190220T222058Z">
+        <seg>foto</seg>
       </tuv>
     </tu>
     <tu>
