@@ -55859,6 +55859,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This method embeds (saves a copy of) the image file in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222605Z" creationid="osvaldo" creationdate="20190220T222605Z">
+        <seg>Questo metodo incorpora il file immagine (ne salva una copia) nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This method is described here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164421Z" creationid="Alessia Mazzarini" creationdate="20181105T164357Z">
@@ -58410,6 +58418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T164529Z">
         <seg>Collegare il formulario ad un database o ad una sorgente dati in modo da consentire ad un utente di inserirvi le informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To link the file instead of embedding it, hold down the &lt;f0&gt;Ctrl+Shift&lt;/f0&gt; keys while dragging the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222625Z" creationid="osvaldo" creationdate="20190220T222625Z">
+        <seg>Per collegare il file, anziché incorporarlo, tenete premuti i tasti &lt;f0&gt;Ctrl+Maiusc&lt;/f0&gt; mentre trascinate l'immagine.</seg>
       </tuv>
     </tu>
     <tu>
