@@ -39993,6 +39993,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Insert Image dialog, navigate to the file to be inserted, and select it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T223016Z" creationid="osvaldo" creationdate="20190220T223016Z">
+        <seg>Nella finestra di dialogo Inserisci Immagine, navigate sino al file da inserire, e selezionatelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Links page, you can choose how links are exported to PDF.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T222121Z" creationid="Alessia Mazzarini" creationdate="20181104T222121Z">
