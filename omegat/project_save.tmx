@@ -8769,6 +8769,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A faint vertical line marks where the image will be dropped.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222331Z" creationid="osvaldo" creationdate="20190220T222331Z">
+        <seg>Una tenue linea verticale segna la posizione in cui l'immagine verrà rilasciata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A few examples of the drawing functions are: layer management, magnetic grid-point system, dimensions and measurement display, connectors for making organization charts, 3D functions that enable small three-dimensional drawings to be created (with texture and lighting effects), drawing and page-style integration, and Bézier curves.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T060646Z">
@@ -19968,6 +19976,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag and drop</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222247Z" creationid="osvaldo" creationdate="20190220T222247Z">
+        <seg>Trascinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drag and drop the control to where you want it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T094842Z">
@@ -20028,6 +20044,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T090114Z">
         <seg>Trascinate il gruppo di controlli dove li volete posizionare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drag the image into the LibreOffice document and drop it where you want it to appear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222307Z" creationid="osvaldo" creationdate="20190220T222307Z">
+        <seg>Trascinate l'immagine nel documento di LibreOffice e rilasciatela dove desiderate che compaia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40469,6 +40493,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162746Z" creationid="manuel" creationdate="20181015T162746Z">
         <seg>Aprite un documento con Writer oppure Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open a file browser window and locate the image you want to insert.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222258Z" creationid="osvaldo" creationdate="20190220T222258Z">
+        <seg>Aprite una finestra di esplorazione file e trovate l'immagine che volete inserire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68613,6 +68645,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T091630Z">
         <seg>scaricare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>drag and drop</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222239Z" creationid="osvaldo" creationdate="20190220T222239Z">
+        <seg>trascinamento</seg>
       </tuv>
     </tu>
     <tu>
