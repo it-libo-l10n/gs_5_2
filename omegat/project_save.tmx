@@ -9953,6 +9953,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding objects to the Gallery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T112230Z" creationid="osvaldo" creationdate="20190221T112230Z">
+        <seg>Aggiungere oggetti alla Galleria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding pictures</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182701Z" creationid="Elisabetta Manuele" creationdate="20181203T182701Z">
@@ -68193,6 +68201,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may wish to add to the My Theme folder in the Gallery any images that you use frequently, for example, a company logo.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T112341Z" creationid="osvaldo" creationdate="20190221T112341Z">
+        <seg>Può capitare di voler aggiungere alla Galleria immagini di uso frequente, per esempio un logo aziendale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may wish to ensure that personal data, versions, notes, hidden information, or recorded changes are removed from files before you send them to other people or create PDFs from them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T184509Z" creationid="Alessia Mazzarini" creationdate="20181111T184509Z">
@@ -68525,6 +68541,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180917T210537Z">
         <seg>aggiungere macro da altre fonti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>adding objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T112210Z" creationid="osvaldo" creationdate="20190221T112210Z">
+        <seg>aggiungere oggetti</seg>
       </tuv>
     </tu>
     <tu>
