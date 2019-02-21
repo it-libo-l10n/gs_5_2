@@ -59070,6 +59070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To get more gallery themes, visit the LibreOffice extensions website at http://extensions.libreoffice.org.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T213028Z" creationid="osvaldo" creationdate="20190221T213028Z">
+        <seg>Per ottenere più categorie per la Galleria, visita il sito web delle estensioni di LibreOffice http://extensions.libreoffice.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To get the software, access your mobile device application store, either Google Play Store for Android devices or Apple Store for IOs devices.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T175747Z">
@@ -70509,6 +70517,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T165524Z" creationid="Alessia Mazzarini" creationdate="20181104T165524Z">
         <seg>compressione e risoluzione dell'immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>image map</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T213203Z" creationid="osvaldo" creationdate="20190221T213203Z">
+        <seg>mappa immagine</seg>
       </tuv>
     </tu>
     <tu>
