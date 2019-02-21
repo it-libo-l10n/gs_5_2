@@ -14387,6 +14387,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f2&gt;Keep Link&lt;/f2&gt; if you want the link, or &lt;f3&gt;Embed Graphic&lt;/f3&gt; if you do not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T091418Z" creationid="osvaldo" creationdate="20190221T091418Z">
+        <seg>Scegliete &lt;f2&gt;Mantieni collegamento&lt;/f2&gt; se volete collegare l'immagine, o &lt;f3&gt;Incorpora immagine&lt;/f3&gt; se volete incorporarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f3&gt;Edit &gt; Track Changes &gt; Show Changes&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T155321Z">
@@ -34652,6 +34660,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T123929Z">
         <seg>Supporta anche servizi di uso comune come Google Drive e Microsoft OneNote, così come server sia commerciali che open source che implementano lo standard OASIS CMIS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It asks if you want to embed the graphic instead.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T091328Z" creationid="osvaldo" creationdate="20190221T091328Z">
+        <seg>Richiede se si desidera invece incorporare l'immagine.</seg>
       </tuv>
     </tu>
     <tu>
