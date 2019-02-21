@@ -26904,6 +26904,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information, see the Help.&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T110017Z" creationid="osvaldo" creationdate="20190221T110017Z">
+        <seg>Per ulteriori informazioni, consultare la Guida. &lt;/ F16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information, see “&lt;bf1&gt;Adding pictures, tables, charts, and media&lt;/bf1&gt;” on page &lt;bf2&gt;174&lt;/bf2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172124Z" creationid="Elisabetta Manuele" creationdate="20181129T172124Z">
@@ -30764,6 +30772,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T141020Z">
         <seg>Se la risoluzione impostata è di 1 cm in orizzontale e 2 cm in verticale, la griglia consiste di rettangoli alti 2 cm e larghi 1 cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the resulting image is not acceptable, press &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Ctrl+Z&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; to undo and choose another compression setting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T105940Z" creationid="osvaldo" creationdate="20190221T105940Z">
+        <seg>Se l'immagine risultante non è accettabile, premi &lt;/ f13&gt; &lt;f14&gt; &lt;f15&gt; Ctrl + Z &lt;/ f15&gt; &lt;/ f14&gt; &lt;f16&gt; per annullare e scegliere un'altra impostazione di compressione.</seg>
       </tuv>
     </tu>
     <tu>
