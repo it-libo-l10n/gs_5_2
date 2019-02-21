@@ -14555,6 +14555,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose&lt;f0&gt; Insert &gt; Media &gt; Clip Art Gallery&lt;/f0&gt; and select a theme.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T101152Z" creationid="osvaldo" creationdate="20190221T101152Z">
+        <seg>Scegliete &lt;f0&gt;Inserisci &gt; Media &gt; Galleria&lt;/f0&gt; e selezionate una categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choosing &lt;bs0/&gt;Open and Save As dialogs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T203619Z">
