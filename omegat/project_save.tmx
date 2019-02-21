@@ -34560,6 +34560,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inserting an image as a &lt;i0/&gt;background</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100933Z" creationid="osvaldo" creationdate="20190221T100933Z">
+        <seg>Inserire un'immagine come &lt;i0/&gt;sfondo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inserting an image from the Gallery</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T094222Z" creationid="osvaldo" creationdate="20190221T094222Z">
@@ -58758,6 +58766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To insert an image as the background to a page or paragraph:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100950Z" creationid="osvaldo" creationdate="20190221T100950Z">
+        <seg>Per inserire un'immagine come sfondo di una pagina o di un paragrafo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To insert an image into a file, or add a new image to the new category, drag and drop the selected image.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T083056Z">
@@ -68377,6 +68393,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>background images from Gallery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100924Z" creationid="osvaldo" creationdate="20190221T100924Z">
+        <seg>immagini di sfondo dalla Galleria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>banners</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T144020Z">
@@ -69901,6 +69925,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180714T151017Z">
         <seg>inserimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>inserting object as background</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100915Z" creationid="osvaldo" creationdate="20190221T100915Z">
+        <seg>inserire un oggetto come sfondo</seg>
       </tuv>
     </tu>
     <tu>
