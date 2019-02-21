@@ -34144,6 +34144,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Properties of New Theme dialog, click the &lt;f0&gt;General&lt;/f0&gt; tab and type a name for the new theme.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T122316Z" creationid="osvaldo" creationdate="20190221T122316Z">
+        <seg>Nella finestra di dialogo Proprietà della nuova categoria, fare clic sulla scheda &lt;f0&gt; Generale &lt;/ f0&gt; e inserire un nome per la nuova categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Save Keyboard Configuration dialog, select &lt;f0&gt;All files&lt;/f0&gt; from the &lt;f1&gt;Save as Type&lt;/f1&gt; list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T124303Z">
