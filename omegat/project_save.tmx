@@ -19375,6 +19375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleting images from the Gallery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121141Z" creationid="osvaldo" creationdate="20190221T121141Z">
+        <seg>Eliminare immagini dalla Galleria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deleting sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T164051Z">
@@ -58397,6 +58405,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To delete an image from a theme:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121210Z" creationid="osvaldo" creationdate="20190221T121210Z">
+        <seg>Per eliminare un'immagine da una categoria </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To delete any unwanted styles, in the Styles and Formatting window select each one to be deleted (hold &lt;f0&gt;Ctrl&lt;/f0&gt; while selecting multiple styles), and then right-click on a selected style and select &lt;f1&gt;Delete&lt;/f1&gt; on the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T085233Z">
@@ -69445,6 +69461,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084742Z">
         <seg>eliminare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>deleting images</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121119Z" creationid="osvaldo" creationdate="20190221T121119Z">
+        <seg>eliminare immagini</seg>
       </tuv>
     </tu>
     <tu>
