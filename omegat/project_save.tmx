@@ -17550,6 +17550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compressing images</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T103452Z" creationid="osvaldo" creationdate="20190221T103452Z">
+        <seg>Comprimere le immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Computers with a Mac operating system do not have a Quickstarter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180607T203649Z">
