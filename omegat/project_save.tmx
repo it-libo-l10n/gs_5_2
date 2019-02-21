@@ -9089,6 +9089,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A message appears, asking if you want to delete this object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121605Z" creationid="osvaldo" creationdate="20190221T121605Z">
+        <seg>Viene visualizzato un messaggio che chiede se si desidera eliminare questo oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A message box appears and asks you to confirm the deletion.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T142242Z">
@@ -14971,6 +14979,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Delete&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121531Z" creationid="osvaldo" creationdate="20190221T121531Z">
+        <seg>Fate click su &lt;f0&gt;Elimina&lt;/f0&gt; nel menu di scelta rapida..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Dock All Toolbars&lt;/f0&gt; to dock all floating toolbars.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T190106Z">
@@ -15567,6 +15583,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093739Z">
         <seg>Fate clic su &lt;f1&gt;Salva&lt;/f1&gt; quando viene richiesto se volete salvare il file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f1&gt;Yes.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121631Z" creationid="osvaldo" creationdate="20190221T121631Z">
+        <seg>Fate cick su  &lt;f1&gt;Si.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19395,6 +19419,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084746Z">
         <seg>Eliminare gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting the name of a file from the list in the Gallery does not delete the file from the hard disk or other location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121719Z" creationid="osvaldo" creationdate="20190221T121719Z">
+        <seg>L'eliminazione del nome di un file dall'elenco nella Galleria non elimina il file dal disco rigido o da un'altra posizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69209,6 +69241,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>creating a new theme</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121806Z" creationid="osvaldo" creationdate="20190221T121806Z">
+        <seg>Crazione di una nuova catgoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>creating by dragging and dropping</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T065203Z">
@@ -72029,6 +72069,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T195729Z">
         <seg>temi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>themes (Gallery)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121826Z" creationid="osvaldo" creationdate="20190221T121826Z">
+        <seg>Categorie (Gallery)</seg>
       </tuv>
     </tu>
     <tu>
