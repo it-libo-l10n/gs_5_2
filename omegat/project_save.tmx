@@ -44257,6 +44257,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the name of the image file or its thumbnail in the Gallery.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121320Z" creationid="osvaldo" creationdate="20190221T121320Z">
+        <seg>Fare clic con il tasto destro sul nome del file immagine o sulla sua miniatura nella Galleria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on the percentage figure to open a list of magnification values from which to choose.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T192914Z">
