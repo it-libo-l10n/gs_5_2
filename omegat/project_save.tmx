@@ -23904,6 +23904,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;312&lt;/seq0&gt;: Gallery Properties dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T113415Z" creationid="osvaldo" creationdate="20190221T113415Z">
+        <seg>Figura &lt;seq0&gt;312&lt;/seq0&gt;:  finestra di dialogo Proprietà Galleria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Choosing accessibility options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T155427Z">
@@ -57472,6 +57480,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170108Z">
         <seg>Per aggiungere altri dizionari, assicuratevi di essere connessi a Internet, poi usate &lt;f1&gt;Strumenti &gt; Lingua &gt; Ulteriori dizionari in linea&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add several files at once:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T113458Z" creationid="osvaldo" creationdate="20190221T113458Z">
+        <seg>Per aggiungere più file contemporaneamente:</seg>
       </tuv>
     </tu>
     <tu>
