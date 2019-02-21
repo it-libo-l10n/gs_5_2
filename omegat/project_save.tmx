@@ -28594,8 +28594,8 @@
       <tuv lang="EN">
         <seg>Graphics in the Gallery are grouped &lt;i0/&gt;&lt;i1/&gt;by themes, such as Arrows, Diagrams, and People.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T110153Z" creationid="osvaldo" creationdate="20190221T110153Z">
-        <seg>Le immagini nella Galleria sono raggruppate &lt;i0 /&gt; &lt;i1 /&gt; per temi, come Frecce, Diagrammi e Persone.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T115101Z" creationid="osvaldo" creationdate="20190221T110153Z">
+        <seg>Le immagini nella Galleria sono raggruppate &lt;i0 /&gt; &lt;i1 /&gt; per categorie, come Frecce, Diagrammi e Persone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53245,8 +53245,8 @@
       <tuv lang="EN">
         <seg>The locked themes are easily recognizable by right-clicking on them; the only available option in the context menu is &lt;f5&gt;Properties&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T111850Z" creationid="osvaldo" creationdate="20190221T111850Z">
-        <seg>I temi bloccati sono facilmente riconoscibili facendo clic con il tasto destro su di essi; l'unica opzione disponibile nel menu di scelta rapida è &lt;f5&gt; Proprietà &lt;/ f5&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T115217Z" creationid="osvaldo" creationdate="20190221T111850Z">
+        <seg>Le categorie bloccate sono facilmente riconoscibili facendo clic con il tasto destro su di essi; l'unica opzione disponibile nel menu di scelta rapida è &lt;f5&gt; Proprietà &lt;/ f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67043,8 +67043,8 @@
       <tuv lang="EN">
         <seg>You can float the Gallery as you can other Sidebar panes; see Chapter 1, Introducing LibreOffice, for more information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T112158Z" creationid="osvaldo" creationdate="20190221T112158Z">
-        <seg>Puoi spostare la Gallery come gli altri riquadri della Sidebar; vedete il Capitolo 1, Introduzione a LibreOffice, per ulteriori informazioni..</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T115256Z" creationid="osvaldo" creationdate="20190221T112158Z">
+        <seg>Potete spostare la Gallery come gli altri riquadri della Sidebar; vedete il Capitolo 1, Introduzione a LibreOffice, per ulteriori informazioni..</seg>
       </tuv>
     </tu>
     <tu>
