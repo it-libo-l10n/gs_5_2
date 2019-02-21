@@ -36448,6 +36448,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice provides many tools for cropping, resizing, modifying, filtering, and positioning graphics; wrapping text around graphics; and using graphics as backgrounds and watermarks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T102338Z" creationid="osvaldo" creationdate="20190221T102338Z">
+        <seg>LibreOffice offre molti strumenti per ritagliare, ridimensionare, modificare, filtrare e disporre le immagini; gestire il testo intorno alle immagini; usare le immagini come sfondi e filigrana (watermark).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice provides several ways for you to select styles to apply:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T155519Z">
@@ -38045,6 +38053,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T173622Z" creationid="Elisabetta Manuele" creationdate="20181129T173622Z">
         <seg>Modificare la presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying, &lt;f0&gt;handling,&lt;/f0&gt; and positioning graphics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T102230Z" creationid="osvaldo" creationdate="20190221T102230Z">
+        <seg>Modifica, &lt;f0&gt;gestione,&lt;/f0&gt; e posizionamento delle immagini</seg>
       </tuv>
     </tu>
     <tu>
@@ -48721,6 +48737,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some sophisticated adjustments of the graphics are best done in an image manipulation program and the results brought into LibreOffice, rather than using LibreOffice’s built-in tools.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T102425Z" creationid="osvaldo" creationdate="20190221T102425Z">
+        <seg>È comunque preferibile eseguire le modifiche più complesse con un programma di elaborazione di immagini per poi portare il risultato in LibreOffice, anziché usare gli strumenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some tags that are exported are table of contents, hyperlinks, and controls.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T194230Z" creationid="luke" creationdate="20181007T012000Z">
@@ -55335,6 +55359,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191434Z" creationid="Elisabetta Manuele" creationdate="20181127T191434Z">
         <seg>Questi insiemi di barre possono essere personalizzati accedendo alla voce &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt;, nella Barra dei menu, quindi selezionando o deselezionando la barra degli strumenti da aggiungere o rimuovere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These tools are described in relevant chapters of the other guides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T102347Z" creationid="osvaldo" creationdate="20190221T102347Z">
+        <seg>Questi strumenti sono descritti nei relativi capitoli delle altre guide.</seg>
       </tuv>
     </tu>
     <tu>
