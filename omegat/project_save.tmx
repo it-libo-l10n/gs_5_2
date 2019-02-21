@@ -23880,6 +23880,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;311&lt;/seq0&gt;: Gallery in Detailed View</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T110729Z" creationid="osvaldo" creationdate="20190221T110729Z">
+        <seg>Figura &lt;seq0&gt;311&lt;/seq0&gt;: Galleria nella vista dettagliata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Choosing accessibility options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T155427Z">
@@ -66837,6 +66845,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T072859Z">
         <seg>Potete stabilire un sostituto per ogni carattere presente nei documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can display the Gallery in &lt;i0/&gt;&lt;f1&gt;Icon View&lt;/f1&gt; (Figure &lt;t2&gt;309&lt;/t2&gt;) or &lt;f3&gt;Detailed View&lt;/f3&gt; (Figure &lt;t4&gt;311&lt;/t4&gt;), and you can &lt;i5/&gt;hide or show the Gallery by clicking on the Sidebar’s &lt;f6&gt;Hide&lt;/f6&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T110641Z" creationid="osvaldo" creationdate="20190221T110641Z">
+        <seg>Potete visualizzare la Galleria in &lt;i0/&gt;&lt;f1&gt;Vista icone&lt;/f1&gt; (Figura &lt;t2&gt;309&lt;/t2&gt;) o in &lt;f3&gt;Vista Dettagli&lt;/f3&gt;(Figura &lt;t4&gt;311&lt;/t4&gt;),  e potete &lt;i5/&gt;nasconderla o mostrarla facendo clic sul pulsante &lt;f6&gt;Nascondi&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
