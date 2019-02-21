@@ -9873,6 +9873,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding a new theme to the Gallery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121922Z" creationid="osvaldo" creationdate="20190221T121922Z">
+        <seg>Aggiunta di un nuovo tema alla Galleria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding a trusted timestamp to an electronic signature on a PDF provides a digital seal of data integrity and a trusted date and time of when the file was signed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T153100Z">
@@ -16786,6 +16794,14 @@
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101803Z">
         <seg>Fai clic sul pulsante &lt;f0&gt;Naviga da&lt;/f0&gt; per aprire il Navigatore e la barra di navigazione, descritti in "&lt;bf1&gt;Spostamento rapido lungo un documento&lt;/bf1&gt;" &lt;f2&gt;a pagina &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;87&lt;/bf4&gt;&lt;/f3&gt;.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;New Theme&lt;/f0&gt; button above the list of themes (Figure &lt;t1&gt;311&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T122120Z" creationid="osvaldo" creationdate="20190221T122120Z">
+        <seg>Fai clic sul pulsante &lt;f0&gt; Nuova Categoria &lt;/ f0&gt; sopra l'elenco delle Categorie(Figura &lt;t1&gt; 311 &lt;/ t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -57532,6 +57548,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a new theme to the Gallery:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121957Z" creationid="osvaldo" creationdate="20190221T121957Z">
+        <seg>Per aggiungere un nuovo tema alla Galleria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add a picture to a contents box:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T182737Z" creationid="Elisabetta Manuele" creationdate="20181203T182737Z">
@@ -72075,8 +72099,8 @@
       <tuv lang="EN">
         <seg>themes (Gallery)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121826Z" creationid="osvaldo" creationdate="20190221T121826Z">
-        <seg>Categorie (Gallery)</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121858Z" creationid="osvaldo" creationdate="20190221T121826Z">
+        <seg>Categorie (Galleria)</seg>
       </tuv>
     </tu>
     <tu>
