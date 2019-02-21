@@ -28224,6 +28224,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Insert &gt; Media &gt; Clip Art Gallery.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T174509Z" creationid="osvaldo" creationdate="20190221T174435Z">
+        <seg>Andate su &lt;f0&gt;Inserisci &gt; Media &gt; Galleria.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Insert &gt; Object &gt; OLE Object&lt;/f0&gt; on the menu bar to open the Insert OLE Object dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T131010Z">
@@ -46525,6 +46533,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181009T095223Z" creationid="manuel" creationdate="20181009T095223Z">
         <seg>Selezionate i campi dalla tabella Collezione_CD nell'elenco &lt;f0&gt;Campi disponibili&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select from the list of themes the theme you wish to delete.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T174501Z" creationid="osvaldo" creationdate="20190221T174501Z">
+        <seg>Selezionate from the list of themes the theme you wish to delete.</seg>
       </tuv>
     </tu>
     <tu>
