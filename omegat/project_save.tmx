@@ -11177,6 +11177,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An image map defines areas of an image (called &lt;f0&gt;hotspots&lt;/f0&gt;) with hyperlinks to web addresses, other files on the computer, or parts of the same document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T213346Z" creationid="osvaldo" creationdate="20190221T213346Z">
+        <seg>Una mappa immagine definisce le aree di un'immagine (dette &lt;f0&gt;hotspots - zone attive&lt;/f0&gt;) con collegamenti ipertestuali a indirizzi web, altri file sul computer o parti dello stesso documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An independent Foundation is a better match to the values of our contributors, users, and supporters, and will enable a more effective, efficient, transparent, and inclusive Community.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T200907Z">
@@ -17370,6 +17378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065651Z">
         <seg>Facendo clic nel testo potete estendere o ridurre la selezione corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking on a hotspot causes LibreOffice to open the linked page in the appropriate program (for example, the default browser for an HTML page; LibreOffice Calc for an ODS file; a PDF viewer for a PDF file).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T213506Z" creationid="osvaldo" creationdate="20190221T213506Z">
+        <seg>Facendo clic su un hotspot, LibreOffice aprirà la pagina collegata nel programma appropriato (ad esempio, il browser predefinito per una pagina HTML; LibreOffice Calc per un file .ODS; un visualizzatore PDF per un file PDF).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29420,6 +29436,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T161053Z">
         <seg>Linee orizzontali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hotspots are the graphic equivalent of text hyperlinks (described in Chapter 12).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T213421Z" creationid="osvaldo" creationdate="20190221T213421Z">
+        <seg>Gli hotspot sono l'equivalente grafico dei collegamenti ipertestuali in testo (descritti nel Capitolo 12).</seg>
       </tuv>
     </tu>
     <tu>
@@ -60951,6 +60975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use the image map editor:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T213535Z" creationid="osvaldo" creationdate="20190221T213535Z">
+        <seg>Per usare l'editor mappa immagine:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use the standard Open and Save dialogs for your operating system, deselect th&lt;f0&gt;is&lt;/f0&gt; option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180529T060755Z">
@@ -67037,6 +67069,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180920T065946Z">
         <seg>Potete personalizzare gradienti, tratteggi e Bitmap usando il componente Draw di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create hotspots of various shapes and include several hotspots in the same image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T213523Z" creationid="osvaldo" creationdate="20190221T213523Z">
+        <seg>Potete creare hotspot di varie forme e includere diversi hotspot nella stessa immagine.</seg>
       </tuv>
     </tu>
     <tu>
