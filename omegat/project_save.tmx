@@ -67033,6 +67033,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can enter the path for the file’s directory in the &lt;f1&gt;Path&lt;/f1&gt; text box, or you can navigate to locate the file’s directory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T113928Z" creationid="osvaldo" creationdate="20190221T113825Z">
+        <seg>È possibile immettere il percorso per la directory del file nella casella di testo &lt;f1&gt; Percorso &lt;/ f1&gt; oppure è possibile spostarsi per individuare la directory del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can float the Gallery as you can other Sidebar panes; see Chapter 1, Introducing LibreOffice, for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T112158Z" creationid="osvaldo" creationdate="20190221T112158Z">
