@@ -27776,6 +27776,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gallery contents provided with LibreOffice are stored in a different location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T212256Z" creationid="osvaldo" creationdate="20190221T212256Z">
+        <seg>I contenuti della Galleria forniti con LibreOffice sono memorizzati in una posizione diversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gary Schnabl</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180048Z">
@@ -66837,6 +66845,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T095603Z">
         <seg>Potete modificare le proprietà o le opzioni di un oggetto senza dover aprire una finestra di dialogo o utilizzare uno degli strumenti disponibili nelle varie barre degli strumenti fornite da Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change this location, and you can copy your gallery files (&lt;f1&gt;SDV&lt;/f1&gt;) to other computers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T212232Z" creationid="osvaldo" creationdate="20190221T212232Z">
+        <seg>Potete modificare questa posizione e potete anche copiare i file della vostra Galleria (&lt;f1&gt;(*.sdv&lt;f1&gt;) in altri computer.</seg>
       </tuv>
     </tu>
     <tu>
