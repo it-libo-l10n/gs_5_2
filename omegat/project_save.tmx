@@ -34392,6 +34392,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the theme’s Properties dialog, click the &lt;f0&gt;Files&lt;/f0&gt; tab (Figure &lt;t1&gt;312&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T113250Z" creationid="osvaldo" creationdate="20190221T113250Z">
+        <seg>Nella finestra di dialogo Proprietà della categoria, fate click sulla scheda &lt;f0&gt;Files&lt;/f0&gt; (Figura &lt;t1&gt;312&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case, click the Date field of the main form.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180927T151223Z">
