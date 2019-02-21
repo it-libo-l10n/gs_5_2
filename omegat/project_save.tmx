@@ -39585,6 +39585,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Calculate&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; button updates the image information on the dialog on each parameter set you change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T105643Z" creationid="osvaldo" creationdate="20190221T105643Z">
+        <seg>Notare che il pulsante &lt;/ f7&gt; &lt;f8&gt; &lt;f9&gt; Calcola &lt;/ f9&gt; &lt;/ f8&gt; &lt;f10&gt; aggiorna le informazioni sull'immagine nella finestra di dialogo su ciascun set di parametri che si modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that you can change the list of available colors as described in “&lt;bf1&gt;Color options&lt;/bf1&gt;” on page &lt;bf2&gt;42&lt;/bf2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T142127Z">
