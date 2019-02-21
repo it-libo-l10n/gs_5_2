@@ -19335,6 +19335,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on the original format of the image, LibreOffice will &lt;f4&gt;let you&lt;/f4&gt; save the picture in many different formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T103212Z" creationid="osvaldo" creationdate="20190221T103212Z">
+        <seg>A seconda del formato originale dell'immagine, LibreOffice consentirà &lt;f4&gt; di &lt;/ f4&gt; di salvare l'immagine in molti formati diversi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the selected resolution, the image will be displayed in a reduced size.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T124828Z">
