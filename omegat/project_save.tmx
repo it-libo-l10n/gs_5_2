@@ -27720,6 +27720,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Give a name to the image, &lt;f5&gt;s&lt;/f5&gt;elect the desired image format &lt;f6&gt;in the Filter list, &lt;/f6&gt;and click &lt;f7&gt;Save&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T103417Z" creationid="osvaldo" creationdate="20190221T103417Z">
+        <seg>Assegnate un nome all'immagine, &lt;f5&gt;s&lt;/f5&gt;elezionate il formato desiderato &lt;f6&gt; nell'elenco dei filtri, &lt;/ f6&gt; e fate clic su &lt;f7&gt; Salva &lt;/ f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gives the property the name “Text” and the value “Your name”, which is the text that is inserted when the macro is run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180920T230530Z">
