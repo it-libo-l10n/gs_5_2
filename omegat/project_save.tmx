@@ -9025,6 +9025,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list of graphic files is then displayed in the Properties dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T115431Z" creationid="osvaldo" creationdate="20190221T115431Z">
+        <seg>Nella finestra di dialogo Proprietà apparirà un elenco di file di immagini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of page styles pops up; choose a different style by clicking on it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T060401Z">
@@ -16818,6 +16826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091340Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;Salva&lt;/f0&gt; presente sulla barra strumenti principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Select&lt;/f0&gt; button to start the search.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T115415Z" creationid="osvaldo" creationdate="20190221T115415Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Seleziona&lt;/f0&gt; per iniziare la ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57460,6 +57476,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add all of the files shown in the list, click &lt;f0&gt;Add All.&lt;/f0&gt; Otherwise, select the files to add and then click &lt;f1&gt;Add&lt;/f1&gt; (hold down either the Shift key or the &lt;f2&gt;Ctrl&lt;/f2&gt; key while clicking on the files).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T115543Z" creationid="osvaldo" creationdate="20190221T115543Z">
+        <seg>&lt;f0&gt;Per aggiungere tutti i file mostrati in elenco, fate clic su &lt;/f0&gt;&lt;f1&gt;Aggiungi tutti.&lt;/f1&gt;&lt;f2&gt; ltrimenti, selezionate i file da aggiungere e poi fate clic su &lt;/f2&gt;&lt;f3&gt;Aggiungi&lt;/f3&gt;&lt;f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add any objects to a slide, for example a picture, clipart, drawing, photograph, or spreadsheet, click on &lt;f0&gt;Insert&lt;/f0&gt; then select from the drop down menu what type of object you want to insert.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T172034Z" creationid="Elisabetta Manuele" creationdate="20181129T172034Z">
@@ -67821,6 +67845,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180904T203826Z">
         <seg>Ai lati del segno dell'uguale potete usare spazi, o i caratteri ` o ~, ma viene consigliato l'uso delle parentesi graffe in quanto sono più facili da individuare nel linguaggio di markup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use the &lt;f1&gt;File type&lt;/f1&gt; drop-down list to limit the files displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T115449Z" creationid="osvaldo" creationdate="20190221T115449Z">
+        <seg>Potete usare l'elenco a discesa &lt;f2&gt;Tipo file&lt;/f2&gt; per restringere il numero di file visualizzati.</seg>
       </tuv>
     </tu>
     <tu>
