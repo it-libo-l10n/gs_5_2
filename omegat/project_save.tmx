@@ -16573,6 +16573,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Gallery&lt;/f0&gt; icon in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T095347Z" creationid="osvaldo" creationdate="20190221T095347Z">
+        <seg>Nella barra laterale fate clic sull'icona &lt;/f0&gt;Gallery&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Help&lt;/f0&gt; button to access the help pages included with LibreOffice or see &lt;f1&gt;Chapter 14 Customizing LibreOffice&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T130458Z">
