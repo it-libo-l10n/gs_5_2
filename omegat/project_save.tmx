@@ -16381,6 +16381,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click once on the selected image and press &lt;f0&gt;Ctrl+C&lt;/f0&gt; to copy the image to the clipboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093500Z" creationid="osvaldo" creationdate="20190221T093500Z">
+        <seg>Fate una volta click sull'immagine e premete &lt;f0&gt;Ctrl+C&lt;/f0&gt; per copiare l'immagine negli appunti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click one of the icons to open a new document of that type, or click the &lt;f2&gt;Templates&lt;/f2&gt; icon to start a new document using a template.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T123353Z">
@@ -17122,6 +17130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T093051Z">
         <seg>Fate clic per aprire l'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click to place the cursor where the graphic is to be inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093539Z" creationid="osvaldo" creationdate="20190221T093539Z">
+        <seg>Fate clic per posizionare il cursore nel punto in cui volete inserire l'immagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42193,6 +42209,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Ctrl+V&lt;/f0&gt; to insert the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093625Z" creationid="osvaldo" creationdate="20190221T093625Z">
+        <seg>Premete &lt;f0&gt;Ctrl+V&lt;/f0&gt; per inserirla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;f0&gt;Ctrl+V&lt;/f0&gt; to paste the selected number to the start of the line.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180922T115920Z">
@@ -49461,6 +49485,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T181059Z" creationid="luke" creationdate="20181007T011138Z">
         <seg>Scorrete a sinistra per passare alla diapositiva successiva, oppure a destra per tornare alla precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch to the target document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093523Z" creationid="osvaldo" creationdate="20190221T093523Z">
+        <seg>Passate al documento di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
