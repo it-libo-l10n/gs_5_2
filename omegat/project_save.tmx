@@ -4768,6 +4768,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If&lt;/f0&gt; you insert a large image in your document and resize it to fit into the layout of the page, &lt;f1&gt;t&lt;/f1&gt;he complete original image is stored in the document file to preserve its &lt;f2&gt;content&lt;/f2&gt;, resulting in a large &lt;f3&gt;document &lt;/f3&gt;file to store or send by mail.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T104103Z" creationid="osvaldo" creationdate="20190221T104103Z">
+        <seg>&lt;f0&gt; Se &lt;/ f0&gt; si inserisce una grande immagine nel documento e la si ridimensiona per adattarla al layout della pagina, &lt;f1&gt; l&lt;/ f1&gt;'immagine originale completa viene memorizzata nel file del documento per preservare il suo&lt; f2&gt; contenuto&lt;/ f2&gt;, con la conseguenza di ottenere un grande file da memorizzare o inviare per posta elettronica, associato al &lt;f3&gt; documento &lt;/ f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If&lt;/f0&gt; you se&lt;f1&gt;lec&lt;/f1&gt;t&lt;f2&gt;ed&lt;/f2&gt; &lt;f3&gt;Add caption to each slide&lt;/f3&gt;, &lt;f4&gt;t&lt;/f4&gt;here will be a placeholder for the image caption &lt;f5&gt;(title) on each slide.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T201643Z">
