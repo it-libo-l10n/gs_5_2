@@ -16421,6 +16421,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Break Link&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092936Z" creationid="osvaldo" creationdate="20190221T092936Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Interruzione&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Bullets On/Off&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Text Formatting toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T174647Z" creationid="Elisabetta Manuele" creationdate="20181203T174647Z">
@@ -19560,6 +19568,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disadvantage – If you send the document to someone else, or move it to a different computer, you must also send the image files, or the receiver will not be able to see the linked images.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092336Z" creationid="osvaldo" creationdate="20190221T092336Z">
+        <seg>Svantaggio – Se inviate il documento a qualcun altro, o lo trasferite su un altro computer, dovete inviare anche i file delle immagini, altrimenti il destinatario non potrà vedere le immagini collegate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dispatch framework</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180922T124010Z">
@@ -21028,6 +21044,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T183414Z" creationid="Elisabetta Manuele" creationdate="20181127T183414Z">
         <seg>Oggetto incorporato (OLE) “NomeOggetto” selezionato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Embedding linked images</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092547Z" creationid="osvaldo" creationdate="20190221T092547Z">
+        <seg>Inserimento di immagini collegate</seg>
       </tuv>
     </tu>
     <tu>
@@ -26096,6 +26120,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you might keep images in a subfolder named Images (under the folder containing the document); the recipient of the file needs to put the images in a subfolder with the same name and in the same place relative to the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092455Z" creationid="osvaldo" creationdate="20190221T092455Z">
+        <seg>Per esempio, potreste tenere le immagini in una sottocartella chiamata Immagini (all'interno della cartella che contiene il documento); chi riceve il file dovrà mettere le immagini in una sottocartella con lo stesso nome e nella stessa posizione relativamente al documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you might know two people called “Randy Herring” or three people living at the same address and the database needs to distinguish between them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T084737Z">
@@ -28316,6 +28348,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190107T112056Z">
         <seg>Nella barra del menu andare in &lt;f0&gt; File &gt; Invia &gt; Crea Documento HTML&lt;/f0&gt; per aprire la finestra di dialogo Nome e Percorso del Documento HTML (Figura &lt;t1&gt;332&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Going the other way, from embedded to linked, is not so easy—you must replace the images, one at a time, selecting the &lt;f0&gt;Link&lt;/f0&gt; option when you do so.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093015Z" creationid="osvaldo" creationdate="20190221T093015Z">
+        <seg>Il procedimento inverso, da incorporato a collegato, non è altrettanto semplice: bisogna cancellare e reinserire ogni immagine, una per volta, selezionando l'opzione &lt;f0&gt;Collegamento&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31640,6 +31680,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you originally linked the images, you can easily embed one or more of them later if you wish.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092607Z" creationid="osvaldo" creationdate="20190221T092607Z">
+        <seg>Se in un primo momento avete collegato le immagini, potete facilmente incorporarne una o più in seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you plan to share documents with people who use editors that use older versions of ODF, you may wish to save the document using ODF version 1.0/1.1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T152605Z">
@@ -33604,6 +33652,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T082245Z">
         <seg>Nella sezione &lt;f1&gt;Opzioni&lt;/f1&gt; della pagina (Figura &lt;t2&gt;42&lt;/t2&gt;), scegliete le impostazioni che ritenete utili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f1&gt;Source file&lt;/f1&gt; list, select the files you want to change from linked to embedded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092918Z" creationid="osvaldo" creationdate="20190221T092918Z">
+        <seg>Nell'elenco &lt;f1&gt;File sorgente&lt;/f1&gt; selezionate i file che volete modificare da collegati a incorporati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40757,6 +40813,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180929T105850Z">
         <seg>Aprite il file di database nella finestra di LibreOffice Base (Figura &lt;t0&gt;208&lt;/t0&gt;) e selezionate la vista Tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the document in LibreOffice and choose &lt;f0&gt;Edit &gt; Links&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092656Z" creationid="osvaldo" creationdate="20190221T092656Z">
+        <seg>Aprite il documento in LibreOffice e scegliete &lt;f0&gt;Modifica &gt; Collegamenti&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50426,6 +50490,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Edit Links dialog (Figure &lt;t0&gt;308&lt;/t0&gt;) shows all the linked files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092847Z" creationid="osvaldo" creationdate="20190221T092847Z">
+        <seg>La finestra di dialogo Modifica collegamenti  (Figura &lt;t0&gt;308&lt;/t0&gt;) mostra tutti i file collegati..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Elements &lt;f0&gt;window&lt;/f0&gt; can easily be used when entering formula data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180816T123345Z">
@@ -57941,6 +58013,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do so:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092625Z" creationid="osvaldo" creationdate="20190221T092625Z">
+        <seg>Per eseguire questa operazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do that, you need to change the default template for documents, as described in Chapter 3.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T073444Z">
@@ -63569,6 +63649,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When inserting the same image several times in the document, it would appear beneficial to link rather than embed; however, this is not necessary as LibreOffice embeds only one copy of the image file in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092537Z" creationid="osvaldo" creationdate="20190221T092537Z">
+        <seg>Quando dovete inserire la stessa immagine più volte nel documento, potrebbe essere utile creare dei collegamenti anziché incorporare; ciò non è comunque necessario, in quanto LibreOffice include nel documento una sola copia del file dell'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When moving an object or changing its size, check the left-hand area of the status bar at the bottom of the Draw window (Figure &lt;t0&gt;188&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T061637Z">
@@ -67741,6 +67829,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T164721Z" creationid="manuel" creationdate="20181015T164721Z">
         <seg>Dovete aver aperto la finestra Sorgente dati e il vostro foglio elettronico, e selezionato la tabella dalla quale desiderate prelevare i dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to keep track of the location of the images and make sure the recipient knows where to put them on another machine, so that the document can find them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092409Z" creationid="osvaldo" creationdate="20190221T092409Z">
+        <seg>È necessario prendere nota della posizione delle immagini e assicurarsi che il destinatario sappia dove metterle in un altro computer, in modo che il documento, quando viene aperto, le possa ritrovare.</seg>
       </tuv>
     </tu>
     <tu>
