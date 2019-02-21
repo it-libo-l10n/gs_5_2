@@ -31136,6 +31136,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can accept some loss of quality &lt;f0&gt;of&lt;/f0&gt; the image rendering &lt;f1&gt;or want to resize it&lt;/f1&gt;, you can compress &lt;f2&gt;or resize &lt;/f2&gt;the image object to reduce its data volume &lt;f3&gt;while preserving its display in the page layout.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T104834Z" creationid="osvaldo" creationdate="20190221T104802Z">
+        <seg>Se si può accettare una perdita di qualità &lt;f0&gt; della&lt;/ f0&gt; resa dell'immagine &lt;f1&gt; o la si vuoi ridimensionare &lt;/ f1&gt;, si può comprimere &lt;f2&gt; o ridimensionare &lt;/ f2&gt; l'oggetto immagine per ridurne il volume dei dati &lt;f3&gt; pur conservando la visualizzazione nel layout della pagina. &lt;/ f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you cannot find the file type you are looking for under &lt;f1&gt;Save As&lt;/f1&gt;, look under &lt;f2&gt;Export&lt;/f2&gt; for additional types.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T215922Z">
