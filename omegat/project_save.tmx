@@ -10089,6 +10089,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advantage – Linking can reduce the size of the document when it is saved, because the image file itself is not included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092151Z" creationid="osvaldo" creationdate="20190221T092151Z">
+        <seg>Vantaggio – Con il collegamento si possono ridurre le dimensioni del documento quando viene salvato, poiché non si include il file dell'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advantages of LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203232Z">
@@ -24768,6 +24776,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File size is usually not a problem on a modern computer with a reasonable amount of memory, unless the document includes many large graphics files; LibreOffice can handle quite large files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092225Z" creationid="osvaldo" creationdate="20190221T092225Z">
+        <seg>Le dimensioni di un file in genere non sono un problema su computer moderni con una memoria ampia, a meno che il documento non includa molte immagini di grosse dimensioni; LibreOffice è in grado di gestire anche file di grandi dimensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill Format</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180613T172935Z">
@@ -30156,6 +30172,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180915T130515Z">
         <seg>Se l'icona della &lt;f0&gt;Formula&lt;/f0&gt; non è visualizzata nella barre degli strumenti Standard, fate clic con il pulsante destro del mouse in una zona vuota della barra, dal menu contestuale selezionate &lt;f1&gt;Pulsanti visibili&lt;/f1&gt;, quindi selezionate &lt;f2&gt;Formula&lt;/f2&gt; tra le opzioni disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the &lt;f0&gt;Link&lt;/f0&gt; option in the Insert picture dialog is selected, LibreOffice creates a link to the file containing the image instead of saving a copy of the image in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T091930Z" creationid="osvaldo" creationdate="20190221T091930Z">
+        <seg>Se è selezionata l'opzione &lt;/f0&gt;Collegamento&lt;/f0&gt; nella finestra di dialogo Inserisci immagine, LibreOffice crea un collegamento al file che contiene l'immagine, anziché includere una copia dell'immagine nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36485,6 +36509,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T091644Z" creationid="osvaldo" creationdate="20190221T091644Z">
         <seg>Collegare un file immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linking an image has two advantages and one disadvantage:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092112Z" creationid="osvaldo" creationdate="20190221T092112Z">
+        <seg>Collegare un'immagine presenta due vantaggi e uno svantaggio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51771,6 +51803,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The document and the image remain as two separate files, and they are merged together only when you open the document again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092055Z" creationid="osvaldo" creationdate="20190221T092055Z">
+        <seg>Il documento e l'immagine rimangono due file separati, che vengono riuniti solo quando si riapre il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The document is attached.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163838Z" creationid="Alessia Mazzarini" creationdate="20181105T163838Z">
@@ -53575,6 +53615,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T065716Z">
         <seg>Il risultato è una selezione multipla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is that the image is displayed in the document, but when the document is saved, it contains only a reference to the image file, not the image itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092033Z" creationid="osvaldo" creationdate="20190221T092033Z">
+        <seg>In questo modo l'immagine viene mostrata nel documento, ma il documento salvato contiene solo un riferimento al file dell'immagine, non l'immagine stessa.</seg>
       </tuv>
     </tu>
     <tu>
