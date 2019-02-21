@@ -33624,6 +33624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In some installations, only the &lt;f0&gt;My themes&lt;/f0&gt; theme is customizable, although new themes can be added as explained in “&lt;f1&gt;&lt;rf2&gt;Adding a new theme to the Gallery&lt;/rf2&gt;&lt;/f1&gt;” on page &lt;f3&gt;&lt;rf4&gt;321&lt;/rf4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T111705Z" creationid="osvaldo" creationdate="20190221T111705Z">
+        <seg>In alcune installazioni, solo la categoria &lt;f0&gt;Le mie Categorie&lt;/ f0&gt; è personalizzabile, sebbene sia possibile aggiungere nuove categorie come spiegato in "&lt;f1&gt; &lt;rf2&gt; Aggiunta di una nuova categoria alla Galleria &lt;/ rf2&gt; &lt;/ f1&gt; "A pagina &lt;f3&gt; &lt;rf4&gt; 321 &lt;/ rf4&gt; &lt;/ f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In some tables, a suitable field for the primary key has already been listed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180715T155339Z">
@@ -53175,6 +53183,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160404Z">
         <seg>La posizione varia a seconda del sistema operativo presente sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The locked themes are easily recognizable by right-clicking on them; the only available option in the context menu is &lt;f5&gt;Properties&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T111850Z" creationid="osvaldo" creationdate="20190221T111850Z">
+        <seg>I temi bloccati sono facilmente riconoscibili facendo clic con il tasto destro su di essi; l'unica opzione disponibile nel menu di scelta rapida è &lt;f5&gt; Proprietà &lt;/ f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
