@@ -20098,8 +20098,8 @@
       <tuv lang="EN">
         <seg>Drag and drop the image into the document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T083706Z">
-        <seg>Drag and drop the image into the document.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100229Z">
+        <seg>Trascinate l'immagine e rilasciatela nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46107,8 +46107,8 @@
       <tuv lang="EN">
         <seg>Select an object with a single click.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T083823Z">
-        <seg>Select an object with a single click.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100219Z">
+        <seg>Selezionate un oggetto con un singolo clic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65925,6 +65925,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T215648Z">
         <seg>Potete anche eliminare o aggiungere icone alle barre degli strumenti; per maggiori informazioni vedete il &lt;f0&gt;Capitolo 14 (Personalizzare LibreOffice)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also right-click on the object and choose &lt;f0&gt;Insert&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100305Z" creationid="osvaldo" creationdate="20190221T100305Z">
+        <seg>Potete anche fare clic con il pulsante destro sull'oggetto e scegliere &lt;f0&gt;Inserisci&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
