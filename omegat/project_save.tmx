@@ -23736,6 +23736,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;308&lt;/seq0&gt;: The Edit Links dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093127Z" creationid="osvaldo" creationdate="20190221T093127Z">
+        <seg>Figura &lt;seq0&gt;308&lt;/seq0&gt;: La finestra di dialogo Modifica collegamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Showing or hiding text, object, and table boundaries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100633Z">
@@ -34120,6 +34128,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the source document, select the image to be copied.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093244Z" creationid="osvaldo" creationdate="20190221T093244Z">
+        <seg>Nel documento sorgente, selezionate l'immagine da copiare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the spreadsheet, click on the sheet tab to select the sheet you want to print.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T202459Z" creationid="Alessia Mazzarini" creationdate="20181007T202459Z">
@@ -34476,6 +34492,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222123Z" creationid="osvaldo" creationdate="20190220T222123Z">
         <seg>Inserimento di un &lt;i0/&gt;&lt;i1/&gt;&lt;i2/&gt;file immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserting an image from the clipboard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093143Z" creationid="osvaldo" creationdate="20190221T093143Z">
+        <seg>Inserimento di un'immagine dagli appunti</seg>
       </tuv>
     </tu>
     <tu>
@@ -40709,6 +40733,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181207T181050Z" creationid="Elisabetta Manuele" creationdate="20181207T181050Z">
         <seg>Aprite una nuova presentazione vuota oppure una già esistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open both the source document and the target document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093228Z" creationid="osvaldo" creationdate="20190221T093228Z">
+        <seg>Aprite sia il documento sorgente, sia quello di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62524,6 +62556,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181009T093754Z" creationid="manuel" creationdate="20181009T093754Z">
         <seg>Utilizzo della Creazione guidata per creare una ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the clipboard, you can copy images into a LibreOffice document from another LibreOffice document and from other programs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093205Z" creationid="osvaldo" creationdate="20190221T093205Z">
+        <seg>Utilizzando gli appunti, potete copiare immagini in un documento di LibreOffice da un altro documento di LibreOffice o da altri programmi.</seg>
       </tuv>
     </tu>
     <tu>
