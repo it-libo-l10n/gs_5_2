@@ -15219,6 +15219,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T090508Z" creationid="osvaldo" creationdate="20190221T090508Z">
+        <seg>Fare clic su &lt;f0&gt;Apri&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Organizer&lt;/f0&gt; to open the Basic Macro Organizer dialog (Figure &lt;t1&gt;342&lt;/t1&gt;) and select the &lt;f2&gt;Libraries&lt;/f2&gt; tab.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180917T211503Z">
