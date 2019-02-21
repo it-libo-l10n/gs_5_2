@@ -5808,6 +5808,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Right-click to select the image and open the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T105044Z" creationid="osvaldo" creationdate="20190221T105044Z">
+        <seg>&lt;f0&gt;Fare clic con il tasto destro per selezionare l'immagine e aprire il menu di scelta rapida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Right-click&lt;/f0&gt;&lt;f1&gt; on the &lt;/f1&gt;&lt;f2&gt;selected &lt;/f2&gt;&lt;f3&gt;formula object and select &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Object&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from the context menu, or go t&lt;/f6&gt;&lt;f7&gt;o&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Format &gt; Frame/Object&lt;/f9&gt;&lt;f10&gt; to open the Object dialog (&lt;/f10&gt;&lt;f11&gt;Figure &lt;/f11&gt;&lt;f12&gt;&lt;t13&gt;280&lt;/t13&gt;&lt;/f12&gt;&lt;f14&gt;).&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180911T214738Z">
@@ -23844,6 +23852,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T100633Z">
         <seg>Figura &lt;seq0&gt;30&lt;/seq0&gt;: mostrare o nascondere i margini del testo, il contorno di un oggetto e di una tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;310&lt;/seq0&gt;: Compressing an image</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T104952Z" creationid="osvaldo" creationdate="20190221T104952Z">
+        <seg>Figura &lt;seq0&gt;310&lt;/seq0&gt;: Comprimere un'immagine</seg>
       </tuv>
     </tu>
     <tu>
@@ -46219,8 +46235,8 @@
       <tuv lang="EN">
         <seg>Select an object with a single click, right-click on the object, and choose &lt;f0&gt;Insert as &lt;s1/&gt;Background &gt; Page&lt;/f0&gt; or &lt;f2&gt;&gt; Paragraph&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T102122Z" creationid="osvaldo" creationdate="20190221T102122Z">
-        <seg>Selezionate un oggetto con un clic, fate clic con il pulsante destro sull'oggetto e scegliete &lt;f0&gt;Inserisci come &lt;s1/&gt;Sfondo &gt; Pagina&lt;/f0&gt; oppure &lt;f2&gt;&gt; Paragrafo&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T105108Z" creationid="osvaldo" creationdate="20190221T102122Z">
+        <seg>Selezionate un oggetto con un clic, fate clic con il tasto destro sull'oggetto e scegliete &lt;f0&gt;Inserisci come &lt;s1/&gt;Sfondo &gt; Pagina&lt;/f0&gt; oppure &lt;f2&gt;&gt; Paragrafo&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
