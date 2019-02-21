@@ -30448,6 +30448,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the application from which the graphic was copied is closed before the graphic is pasted into the target, the image stored on the clipboard could be lost.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093744Z" creationid="osvaldo" creationdate="20190221T093744Z">
+        <seg>Se chiudete l'applicazione dalla quale avete copiato l'immagine prima di incollarla nel documento di destinazione, l'immagine memorizzata negli appunti potrebbe andare persa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the current language does not have a thesaurus installed, this feature is disabled.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T151656Z">
@@ -34516,6 +34524,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093143Z" creationid="osvaldo" creationdate="20190221T093143Z">
         <seg>Inserimento di un'immagine dagli appunti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserting an image using a scanner</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093753Z" creationid="osvaldo" creationdate="20190221T093753Z">
+        <seg>Inserimento di un'immagine da scanner</seg>
       </tuv>
     </tu>
     <tu>
@@ -70877,6 +70893,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T084059Z">
         <seg>scala (interfaccia utente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>scanned</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093805Z" creationid="osvaldo" creationdate="20190221T093805Z">
+        <seg>acquisite da uno scanner</seg>
       </tuv>
     </tu>
     <tu>
