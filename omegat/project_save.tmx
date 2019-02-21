@@ -57476,10 +57476,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a single file:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T115942Z" creationid="osvaldo" creationdate="20190221T115942Z">
+        <seg>Per aggiungere un singolo file:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add all of the files shown in the list, click &lt;f0&gt;Add All.&lt;/f0&gt; Otherwise, select the files to add and then click &lt;f1&gt;Add&lt;/f1&gt; (hold down either the Shift key or the &lt;f2&gt;Ctrl&lt;/f2&gt; key while clicking on the files).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T115543Z" creationid="osvaldo" creationdate="20190221T115543Z">
-        <seg>&lt;f0&gt;Per aggiungere tutti i file mostrati in elenco, fate clic su &lt;/f0&gt;&lt;f1&gt;Aggiungi tutti.&lt;/f1&gt;&lt;f2&gt; ltrimenti, selezionate i file da aggiungere e poi fate clic su &lt;/f2&gt;&lt;f3&gt;Aggiungi&lt;/f3&gt;&lt;f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T115904Z" creationid="osvaldo" creationdate="20190221T115543Z">
+        <seg>Per aggiungere tutti i file mostrati in elenco, fate clic su &lt;/f0&gt;Aggiungi tutti.&lt;/f0&gt; Altrimenti, selezionate i file da aggiungere e poi fate clic su &lt;f1&gt;Aggiungi&lt;/f1&gt; (tieni premuto il tasto Shift o il tasto &lt;f2&gt; Ctrl &lt;/ f2&gt; mentre fai clic sui file).</seg>
       </tuv>
     </tu>
     <tu>
