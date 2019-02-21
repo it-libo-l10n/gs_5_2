@@ -27784,6 +27784,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gallery themes can be packed for distribution through the LibreOffice extensions framework.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T212718Z" creationid="osvaldo" creationdate="20190221T212718Z">
+        <seg>Le categorie della Galleria possono essere impacchettate per la distribuzione attraverso il framework delle estensioni di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gary Schnabl</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180048Z">
@@ -33836,6 +33844,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T192417Z" creationid="Elisabetta Manuele" creationdate="20181210T192417Z">
         <seg>Nelle caselle di testo è possibile creare un nuovo livello di struttura esclusivamente tramite il tasto &lt;f0&gt;Tab&lt;/f0&gt; per decrementare la voce dell'elenco e la combinazione di tasti &lt;f1&gt;Maiusc+Tab&lt;/f1&gt; per incrementarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In that case, the location of the graphic files is determined by the extension settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T212810Z" creationid="osvaldo" creationdate="20190221T212810Z">
+        <seg>In tal caso, la posizione dei file grafici è determinata dalle impostazioni dell'estensione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68205,6 +68221,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180915T140053Z">
         <seg>Non potete però modificare le proprietà del testo contenuto in un oggetto formula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot change this location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T212303Z" creationid="osvaldo" creationdate="20190221T212303Z">
+        <seg>Non è possibile modificare questa posizione.</seg>
       </tuv>
     </tu>
     <tu>
