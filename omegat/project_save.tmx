@@ -14243,6 +14243,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Edit &gt; ImageMap&lt;/f0&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T213615Z" creationid="osvaldo" creationdate="20190221T213615Z">
+        <seg>Scegliete &lt;f0&gt;Modifica &gt; ImageMap&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Edit &gt; Paste Special&lt;/f0&gt;, or</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T162705Z">
@@ -34672,6 +34680,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In your LibreOffice document, click on the picture in which you want to create the hotspots.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T213556Z" creationid="osvaldo" creationdate="20190221T213556Z">
+        <seg>Nel vostro documento di LibreOffice, selezionate l'immagine dove desiderate definire gli hotspot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In your document, place the cursor where you want the cross-reference to appear.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T161339Z">
@@ -51271,6 +51287,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T121939Z">
         <seg>L'IDE è un editor di testo integrato in LibreOffice che permette di creare e modificare le macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The ImageMap Editor (Figure &lt;t1&gt;313&lt;/t1&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T213728Z" creationid="osvaldo" creationdate="20190221T213636Z">
+        <seg>Si aprirà l'Editor mappa immagine (Figura&lt;t1&gt; 313&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
