@@ -10889,6 +10889,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although this practice is quick and easy, it is unlikely to result in a high-quality image of the correct size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T094145Z" creationid="osvaldo" creationdate="20190221T094145Z">
+        <seg>Anche se questo procedimento è facile e veloce, si potrebbero non ottenere immagini di alta qualità e delle dimensioni giuste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although you can easily reset the shortcut key assignments to the LibreOffice defaults, changing some common shortcut keys can cause confusion, especially if other users share your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T073335Z">
@@ -29728,6 +29736,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;i0/&gt;a &lt;i1/&gt;scanner is connected to your computer, LibreOffice can call the scanning application and insert the scanned item into the LibreOffice document as an image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T094030Z" creationid="osvaldo" creationdate="20190221T094000Z">
+        <seg>Se avete &lt;i0/&gt;uno &lt;i1/&gt;scanner collegato al computer, LibreOffice può attivare l'applicazione utilizzata per la scansione e inserire il risultato della scansione come immagine nel documento di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Character Styles are active, the character style will be added to the list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070445Z">
@@ -34516,6 +34532,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T222123Z" creationid="osvaldo" creationdate="20190220T222123Z">
         <seg>Inserimento di un &lt;i0/&gt;&lt;i1/&gt;&lt;i2/&gt;file immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserting an image from the Gallery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T094222Z" creationid="osvaldo" creationdate="20190221T094222Z">
+        <seg>Inserimento di un'immagine dalla Galleria</seg>
       </tuv>
     </tu>
     <tu>
@@ -60039,6 +60063,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To start this procedure, place the cursor where you want the graphic to be inserted and choose &lt;f2&gt;Insert &gt; Media &gt; Scan &gt; Select Source&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T094124Z" creationid="osvaldo" creationdate="20190221T094124Z">
+        <seg>Per iniziare questa procedura, portate il cursore nel punto in cui volete inserire l'immagine e scegliete &lt;f2&gt;Inserisci &gt; Immagine &gt; Scanner &gt; Scegli sorgente&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To start, check out this webpage: &lt;a0&gt;https://www.libreoffice.org/community/get-involved/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181936Z">
@@ -67691,8 +67723,8 @@
       <tuv lang="EN">
         <seg>You may get better results by passing scanned material into a graphics program and cleaning it up there before inserting the resulting image into LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154814Z">
-        <seg>You may get better results by passing scanned material into a graphics program and cleaning it up there before inserting the resulting image into LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T094215Z">
+        <seg>Potete ottenere risultati migliori elaborando il materiale acquisito con un programma di grafica prima di inserire le immagini così prodotte in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68557,6 +68589,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153757Z">
         <seg>copiare e incollare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>copying object from Gallery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T094235Z" creationid="osvaldo" creationdate="20190221T094235Z">
+        <seg>copiare oggetti dalla Galleria</seg>
       </tuv>
     </tu>
     <tu>
