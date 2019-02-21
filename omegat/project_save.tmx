@@ -46121,6 +46121,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select an object with a single click, then while pressing the &lt;f0&gt;Shift&lt;/f0&gt; and &lt;f1&gt;Ctrl&lt;/f1&gt; keys, drag and drop the object into the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100739Z" creationid="osvaldo" creationdate="20190221T100739Z">
+        <seg>Selezionate un oggetto con un clic, quindi, tenendo premuti i tasti &lt;f0&gt;Maiusc&lt;/f0&gt; e &lt;f1&gt;Ctrl&lt;/f1&gt; sulla tastiera, trascinatelo e rilasciatelo all'interno del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select an object with a single click.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100219Z">
