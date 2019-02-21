@@ -54867,6 +54867,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then &lt;/f0&gt;choose&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Compress&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; to open the Compress Image dialog (Figure &lt;/f4&gt;&lt;f5&gt;&lt;t6&gt;310&lt;/t6&gt;&lt;/f5&gt;&lt;f7&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T105359Z" creationid="osvaldo" creationdate="20190221T105359Z">
+        <seg>Quindi &lt;/ f0&gt; scegliete &lt;f1&gt; &lt;/ f1&gt; &lt;f2&gt; &lt;f3&gt; Comprimi &lt;/ f3&gt; &lt;/ f2&gt; &lt;f4&gt; per aprire la finestra di dialogo Comprimi immagine (Figura &lt;/ f4&gt; &lt;f5&gt; &lt;t6&gt; 310 &lt;/ T6&gt; &lt;/ f5&gt; &lt;F7&gt;)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then &lt;f2&gt;choose&lt;/f2&gt; &lt;f3&gt;Save&lt;/f3&gt; to open the Image Export dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T103041Z" creationid="osvaldo" creationdate="20190221T103041Z">
