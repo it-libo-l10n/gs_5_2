@@ -62184,6 +62184,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the navigation controls to locate the image to add to the theme.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T120151Z" creationid="osvaldo" creationdate="20190221T120151Z">
+        <seg>Usa i controlli di navigazione per localizzare l'immagine da aggiungere alla categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the right and left arrows to select any icon on a horizontal toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T131624Z">
