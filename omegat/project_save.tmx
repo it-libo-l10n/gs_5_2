@@ -16685,6 +16685,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Files&lt;/f0&gt; tab and add images to the theme, as described earlier.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T174014Z" creationid="osvaldo" creationdate="20190221T174014Z">
+        <seg>Fate clic sulla scheda &lt;f0&gt;File&lt;/f0&gt; e aggiungete immagini alla categoria, come descritto precedentemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Find All&lt;/f0&gt; button to select all instances of the search term within the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T101345Z">
@@ -19387,6 +19395,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T103905Z">
         <seg>Eliminare una &lt;f0&gt;categoria&lt;/f0&gt; di modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting a theme from the Gallery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T174042Z" creationid="osvaldo" creationdate="20190221T174042Z">
+        <seg>Eliminare una categoria dalla Galleria</seg>
       </tuv>
     </tu>
     <tu>
@@ -58477,6 +58493,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To delete a theme from the Gallery:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T174048Z" creationid="osvaldo" creationdate="20190221T174048Z">
+        <seg>Per eliminare una categoria dalla Galleria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To delete an image from a theme:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121210Z" creationid="osvaldo" creationdate="20190221T121210Z">
@@ -72093,6 +72117,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T210038Z">
         <seg>documenti di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>theme</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T174025Z" creationid="osvaldo" creationdate="20190221T174025Z">
+        <seg>categoria</seg>
       </tuv>
     </tu>
     <tu>
