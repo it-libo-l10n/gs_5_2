@@ -14291,6 +14291,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Insert &gt; Media &gt; Clip Art Gallery&lt;/f0&gt; and select a theme.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100659Z" creationid="osvaldo" creationdate="20190221T100659Z">
+        <seg>Scegliete &lt;f0&gt;Strumenti &gt; Galleria&lt;/f0&gt; e selezionate una categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Insert &gt; Special Character&lt;/f0&gt; or click on the Special Character icon in the main toolbar to open the Special Characters dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180622T105555Z">
@@ -16575,8 +16583,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Gallery&lt;/f0&gt; icon in the Sidebar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T095347Z" creationid="osvaldo" creationdate="20190221T095347Z">
-        <seg>Nella barra laterale fate clic sull'icona &lt;/f0&gt;Gallery&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100553Z" creationid="osvaldo" creationdate="20190221T095347Z">
+        <seg>Nella barra laterale fate clic sull'icona &lt;/f0&gt;Galleria&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23772,6 +23780,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T093127Z" creationid="osvaldo" creationdate="20190221T093127Z">
         <seg>Figura &lt;seq0&gt;308&lt;/seq0&gt;: La finestra di dialogo Modifica collegamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;309&lt;/seq0&gt;: The Gallery in the Sidebar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100423Z" creationid="osvaldo" creationdate="20190221T100423Z">
+        <seg>Figura &lt;seq0&gt;309&lt;/seq0&gt;: La Galleria nella barra laterale</seg>
       </tuv>
     </tu>
     <tu>
@@ -46083,8 +46099,8 @@
       <tuv lang="EN">
         <seg>Select a theme.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T095456Z" creationid="osvaldo" creationdate="20190221T095456Z">
-        <seg>Selezionate un tema.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100706Z" creationid="osvaldo" creationdate="20190221T095456Z">
+        <seg>Selezionate una categoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58742,6 +58758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To insert an object as a link:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100619Z" creationid="osvaldo" creationdate="20190221T100619Z">
+        <seg>Per inserire un oggetto come collegamento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To insert an object:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T095004Z" creationid="osvaldo" creationdate="20190221T095004Z">
@@ -70005,6 +70029,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T063438Z">
         <seg>collegamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>linking object from gallery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T100612Z" creationid="osvaldo" creationdate="20190221T100612Z">
+        <seg>collegare oggetti dalla Galleria</seg>
       </tuv>
     </tu>
     <tu>
