@@ -15171,6 +15171,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; on the Properties dialog to close it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121045Z" creationid="osvaldo" creationdate="20190221T121045Z">
+        <seg>Fate click su &lt;f0&gt;OK&lt;/f0&gt; nella finestra di dialogo Proprietà  per chiderla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to accept the change.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T104030Z">
@@ -46465,6 +46473,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select it and then click &lt;f0&gt;Open&lt;/f0&gt; to add it to the theme.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T120932Z" creationid="osvaldo" creationdate="20190221T120932Z">
+        <seg>Selezionate il file e quindi fate clic su &lt;f0&gt; Apri &lt;/ f0&gt; per aggiungerlo al tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select its checkbox and when you make any changes in a slide transition, the new slide is previewed in the Slide Design area, including its transition effect.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171229Z">
@@ -69429,6 +69445,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084742Z">
         <seg>eliminare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>deleting objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121051Z" creationid="osvaldo" creationdate="20190221T121051Z">
+        <seg>eliminare oggetti</seg>
       </tuv>
     </tu>
     <tu>
