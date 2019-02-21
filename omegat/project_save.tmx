@@ -50449,6 +50449,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Select path&lt;/f0&gt; dialog (not shown) opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T113753Z" creationid="osvaldo" creationdate="20190221T113753Z">
+        <seg>Si apre la finestra di dialogo &lt;f0&gt; Seleziona percorso &lt;/ f0&gt; (non mostrata).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Sidebar&lt;/f0&gt; has four main sections &lt;f1&gt;in Draw&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T104926Z">
