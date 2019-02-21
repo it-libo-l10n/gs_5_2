@@ -37177,6 +37177,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Location of the Gallery and the objects in it</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T174748Z" creationid="osvaldo" creationdate="20190221T174748Z">
+        <seg>Ubicazione della Galleria e degli oggetti in essa contenuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lots of links to macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T092530Z">
@@ -44369,6 +44377,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the theme, then click &lt;f0&gt;Delete&lt;/f0&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T174732Z" creationid="osvaldo" creationdate="20190221T174634Z">
+        <seg>Fate clic con il pulsante destro sulla categoria, poi fate clic su &lt;f0&gt;Elimina&lt;/f0&gt; nel menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on the&lt;f0&gt; CD-Collection&lt;/f0&gt; table icon.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T091616Z">
@@ -46539,8 +46555,8 @@
       <tuv lang="EN">
         <seg>Select from the list of themes the theme you wish to delete.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T174501Z" creationid="osvaldo" creationdate="20190221T174501Z">
-        <seg>Selezionate from the list of themes the theme you wish to delete.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T174555Z" creationid="osvaldo" creationdate="20190221T174501Z">
+        <seg>Selezionate dalla lista delle categorie quella che si vuol cancellare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70669,6 +70685,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T170120Z">
         <seg>impostazioni locali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>location</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T174739Z" creationid="osvaldo" creationdate="20190221T174739Z">
+        <seg>posizione</seg>
       </tuv>
     </tu>
     <tu>
