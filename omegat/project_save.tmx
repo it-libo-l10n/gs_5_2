@@ -7848,6 +7848,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Right-c&lt;/f1&gt;lick on the image to select it and open the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T102857Z" creationid="osvaldo" creationdate="20190221T102857Z">
+        <seg>Fate click con il bottone di &lt;f1&gt;destra&lt;/f1&gt; sull'immagine per selezionarla ed aprire il menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Right-click to open the context menu c&lt;/f1&gt;lick &lt;f2&gt;Edit&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T155153Z">
@@ -54799,6 +54807,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180815T114441Z">
         <seg>Alla sinistra della finestra dell'Anteprima, può apparire la &lt;f7&gt; Finestra degli elementi&lt;/f7&gt; &lt;f8&gt;, se è stata selezionata nel menu &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Visualizza&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then &lt;f2&gt;choose&lt;/f2&gt; &lt;f3&gt;Save&lt;/f3&gt; to open the Image Export dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T103041Z" creationid="osvaldo" creationdate="20190221T103041Z">
+        <seg>Poi &lt;f2&gt;scegliere&lt;/f2&gt; &lt;f3&gt;Salva&lt;/f3&gt; per aprire la finestra di dialogo Esporta Immagine.</seg>
       </tuv>
     </tu>
     <tu>
