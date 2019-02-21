@@ -67641,6 +67641,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then easily insert these graphics into a document later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T112600Z" creationid="osvaldo" creationdate="20190221T112600Z">
+        <seg>Tali immagini possono poi essere inserite nei documenti in modo molto semplice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can then select the &lt;f0&gt;Use a &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Java runtime environment&lt;/f2&gt; option and (if necessary) choose one of the JREs listed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105915Z">
