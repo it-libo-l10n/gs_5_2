@@ -44161,6 +44161,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the My Theme folder and select &lt;f0&gt;Properties&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T112722Z" creationid="osvaldo" creationdate="20190221T112722Z">
+        <seg>Fate clic con il pulsante destro sulla categoria Mia Categoria e selezionate Proprietà dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on the cell and select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar, or press &lt;f2&gt;Ctrl+1&lt;/f2&gt;, to open the Format Cells dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T122308Z">
