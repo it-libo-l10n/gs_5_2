@@ -50409,6 +50409,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;i1/&gt;&lt;i2/&gt;Gallery is available in all components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T094517Z" creationid="osvaldo" creationdate="20190221T094517Z">
+        <seg>La &lt;i1/&gt;&lt;i2/&gt;Galleria è presente in tutti i componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;i2/&gt;&lt;i3/&gt;Query Wizard window opens (Figure &lt;t4&gt;241&lt;/t4&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181009T094023Z" creationid="manuel" creationdate="20181009T094023Z">
@@ -50668,8 +50676,8 @@
       <tuv lang="EN">
         <seg>The Gallery (Figure &lt;t0&gt;309&lt;/t0&gt;) provides a convenient way to group reusable objects such as graphics and sounds that you can insert into your documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T154824Z">
-        <seg>The Gallery (Figure &lt;t0&gt;309&lt;/t0&gt;) provides a convenient way to group reusable objects such as graphics and sounds that you can insert into your documents.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T094400Z">
+        <seg>La Galleria (Figure &lt;t0&gt;309&lt;/t0&gt;) offre un modo pratico per raggruppare oggetti come immagini e suoni che potreste aver necessità d'inserire nei documenti più volte..</seg>
       </tuv>
     </tu>
     <tu>
