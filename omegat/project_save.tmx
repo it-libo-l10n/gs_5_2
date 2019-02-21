@@ -15221,8 +15221,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T090508Z" creationid="osvaldo" creationdate="20190221T090508Z">
-        <seg>Fare clic su &lt;f0&gt;Apri&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T090956Z" creationid="osvaldo" creationdate="20190221T090508Z">
+        <seg>Fate clic su &lt;f0&gt;Apri&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30988,6 +30988,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072801Z">
         <seg>Se scegliete entrambe le opzioni, alla successiva apertura di questa finestra di dialogo, ci saranno ulteriori opzioni in Impostazioni lingua, come mostrato in Figura &lt;t2&gt;40&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you choose the &lt;f0&gt;Link&lt;/f0&gt; option, a message box appears when you click &lt;f1&gt;Open&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T091116Z" creationid="osvaldo" creationdate="20190221T091116Z">
+        <seg>Se scegliete l'opzione &lt;f0&gt;Collegamento&lt;/f0&gt;, apparirà un messaggio quando fate clic su &lt;f1&gt;Apri&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
