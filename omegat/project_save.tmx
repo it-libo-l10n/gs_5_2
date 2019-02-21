@@ -46081,6 +46081,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a theme.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T095456Z" creationid="osvaldo" creationdate="20190221T095456Z">
+        <seg>Selezionate un tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select an additional point in Point Selection mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180830T063924Z">
