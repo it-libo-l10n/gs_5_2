@@ -21776,6 +21776,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exporting images</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T102431Z" creationid="osvaldo" creationdate="20190221T102431Z">
+        <seg>Esportare oggetti grafici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exporting to PDF</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T185622Z">
@@ -31724,6 +31732,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T105510Z">
         <seg>Se avete necessità di rifinire l'aspetto di una linea, scegliete &lt;f0&gt;Formato &gt; Linea&lt;/f0&gt; dalla barra dei menu, oppure fate clic con il pulsante destro sulla linea e selezionate &lt;f1&gt;Linea&lt;/f1&gt; dal menu contestuale, oppure selezionate l'icona &lt;f2&gt;Linea&lt;/f2&gt; &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt; dalla barra degli strumenti Stile e riempimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you need to make &lt;f0&gt;complex &lt;/f0&gt;adjustments to the image, or want to save the image for use in another document, you can export the image directly from your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T102530Z" creationid="osvaldo" creationdate="20190221T102530Z">
+        <seg>Se devi apportare modifiche &lt;f0&gt; complesse &lt;/ f0&gt; all'immagine, o vuoi salvare l'immagine per utilizzarla in un altro documento, puoi esportare l'immagine direttamente dal tuo documento.</seg>
       </tuv>
     </tu>
     <tu>
