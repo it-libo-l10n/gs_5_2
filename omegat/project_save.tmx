@@ -16027,6 +16027,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on a theme to see its contents displayed in the Gallery window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T110303Z" creationid="osvaldo" creationdate="20190221T110303Z">
+        <seg>Fate clic su una categoria per vedere il suo contenuto nella finestra della Galleria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on a word or phrase in the submenu to have it replace the highlighted word or phrase in the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T074418Z">
@@ -28540,6 +28548,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T144315Z">
         <seg>In Writer ci sono tre tipologie principali di oggetti grafici:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Graphics in the Gallery are grouped &lt;i0/&gt;&lt;i1/&gt;by themes, such as Arrows, Diagrams, and People.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T110153Z" creationid="osvaldo" creationdate="20190221T110153Z">
+        <seg>Le immagini nella Galleria sono raggruppate &lt;i0 /&gt; &lt;i1 /&gt; per temi, come Frecce, Diagrammi e Persone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66673,6 +66689,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can create other groups or themes and add your own pictures or find extensions containing more graphics.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T110247Z" creationid="osvaldo" creationdate="20190221T110247Z">
+        <seg>Potete creare altri gruppi o categorie e aggiungere le vostre immagini o trovare estensioni contenenti altre immagini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create slides that contain many different elements, including text, bulleted and numbered lists, tables, charts, and a wide range of graphic objects such as clipart, drawings, and photographs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T181042Z" creationid="Elisabetta Manuele" creationdate="20181126T181042Z">
@@ -69913,6 +69937,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>hide/show</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T110321Z" creationid="osvaldo" creationdate="20190221T110321Z">
+        <seg>nascondi/mostra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>hiding and showing data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T122108Z">
@@ -71965,6 +71997,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T165854Z">
         <seg>visualizzare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>views (icon/detailed)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T110312Z" creationid="osvaldo" creationdate="20190221T110312Z">
+        <seg>viste (icona/dettagli)</seg>
       </tuv>
     </tu>
     <tu>
