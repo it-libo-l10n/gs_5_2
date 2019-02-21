@@ -10097,6 +10097,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advantage – You can modify the image file separately without changing the document because the link to the file remains valid, and the modified image will appear when you next open the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092252Z" creationid="osvaldo" creationdate="20190221T092252Z">
+        <seg>Vantaggio – Potete modificare il file dell'immagine separatamente senza dover modificare il documento perché il collegamento al file rimane attivo; quando poi riaprirete il documento vedrete l'immagine modificata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advantages of LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180614T203232Z">
@@ -55375,6 +55383,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181015T162805Z" creationid="manuel" creationdate="20181015T162805Z">
         <seg>In questo modo viene mostrato un elenco dei database registrati, incluso Bibliography e qualsiasi altro database registrato, come il database Automobile creato precedentemente in questo capitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be a big advantage if you (or someone else, perhaps a graphic artist) is updating images.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T092308Z" creationid="osvaldo" creationdate="20190221T092308Z">
+        <seg>Questo può essere un grande vantaggio se l'autore del documento (o qualcun altro, per esempio un grafico) aggiorna le immagini.</seg>
       </tuv>
     </tu>
     <tu>
