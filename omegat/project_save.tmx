@@ -28688,6 +28688,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Graphics and other objects shown in the Gallery can be located anywhere on your computer’s hard disk, on a network drive, or other removable media.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T174936Z" creationid="osvaldo" creationdate="20190221T174936Z">
+        <seg>Le immagini e gli altri oggetti mostrati nella Galleria possono risiedere ovunque, nel disco rigido del computer, su un drive di rete o altri supporti rimovibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Graphics in LibreOffice are of three basic types:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190220T221732Z" creationid="osvaldo" creationdate="20190220T221732Z">
@@ -33308,6 +33316,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T222446Z">
         <seg>In un foglio elettronico il termine “funzione” comprende molto di più delle sole funzioni matematiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a workgroup, you may have access to a shared Gallery (where you cannot change the contents unless authorized to do so) and a user Gallery, where you can add, change, or delete objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T175047Z" creationid="osvaldo" creationdate="20190221T175047Z">
+        <seg>Nel caso di un gruppo di lavoro, potreste avere accesso a una Galleria condivisa (il cui contenuto non può essere modificato, a meno che non disponiate della necessaria autorizzazione) e a una Galleria utente, in cui potete aggiungere, modificare o eliminare oggetti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53395,6 +53411,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location of the user Gallery is specified in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T175111Z" creationid="osvaldo" creationdate="20190221T175111Z">
+        <seg>La posizione della Galleria utente è specificata in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Percorsi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location varies with your computer’s operating system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160404Z">
@@ -64717,6 +64741,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161554Z">
         <seg>Quando &lt;i0/&gt;incollate del testo, il risultato dipende dalla sorgente del testo e da come lo incollate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you add graphics to the Gallery, the files are not moved or copied; the location of each new object is simply added as a reference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T175009Z" creationid="osvaldo" creationdate="20190221T175009Z">
+        <seg>Quando aggiungete un'immagine alla Galleria i file non vengono spostati o copiati, ma viene solamente aggiunta la posizione di ciascun nuovo oggetto come riferimento.</seg>
       </tuv>
     </tu>
     <tu>
