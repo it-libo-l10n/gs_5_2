@@ -14723,6 +14723,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;OK&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; to apply the compression settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T105823Z" creationid="osvaldo" creationdate="20190221T105823Z">
+        <seg>Fai clic su &lt;/ f10&gt; &lt;f11&gt; &lt;f12&gt; OK &lt;/ f12&gt; &lt;/ f11&gt; &lt;f13&gt; per applicare le impostazioni di compressione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Add to Dictionary&lt;/f0&gt; in the Spelling and Grammar dialog or in the context menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T064052Z">
