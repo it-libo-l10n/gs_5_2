@@ -52483,6 +52483,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The bounding box expands to include all the selected objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T122946Z" creationid="osvaldo" creationdate="20190222T122946Z">
+        <seg>Il riquadro di selezione si allarga per includere tutti gli oggetti selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The button is also a drop-down list to select the templat&lt;f3&gt;es &lt;/f3&gt;of a given type of document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T102729Z">
