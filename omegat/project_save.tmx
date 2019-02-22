@@ -4672,6 +4672,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Group&lt;/f0&gt; icon: Group the selected objects, so you can manage them as a single object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155626Z" creationid="osvaldo" creationdate="20190222T155626Z">
+        <seg>Icona &lt;f0&gt;Raggruppa&lt;/f0&gt;: consente di raggruppare gli oggetti selezionati, per poterli gestire come un oggetto singolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Growth&lt;/f0&gt; – creates a growth series using the defined increment and end value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180808T210923Z">
@@ -7004,6 +7012,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221854Z">
         <seg>&lt;f0&gt;Inglese US&lt;/f0&gt; – vengono ricercati i numeri formattati in Inglese US ed inseriti indipendentemente dalla lingua di sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Ungroup&lt;/f0&gt; icon: Ungroup a selection of grouped objects, so that they can be managed individually.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155601Z" creationid="osvaldo" creationdate="20190222T155601Z">
+        <seg>Icona &lt;f0&gt;Separa&lt;/f0&gt;: Separa una selezione di oggetti raggruppati, in modo che possano essere gestiti individualmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12005,6 +12021,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T074006Z">
         <seg>Interprete&lt;/f0&gt; nell'elenco Comandi di campo e &lt;f1&gt;è uguale a&lt;/f1&gt; come Condizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As Character—The object is placed in the document like any character and moves with the paragraph as you add or delete text before the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155349Z" creationid="osvaldo" creationdate="20190222T155349Z">
+        <seg>Come carattere - L'oggetto è posizionato nel documento come qualsiasi carattere e si sposta col paragrafo ogni volta che viene aggiunto o cancellato del testo prima dell'oggetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57979,6 +58003,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This method resembles anchoring to a paragraph.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155339Z" creationid="osvaldo" creationdate="20190222T155339Z">
+        <seg>Questo metodo è simile all'ancoraggio al paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This might not be what you want.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T203007Z" creationid="Alessia Mazzarini" creationdate="20181007T203007Z">
@@ -64356,6 +64388,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180944Z">
         <seg>Uso di documenti master</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using menu options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155634Z" creationid="osvaldo" creationdate="20190222T155634Z">
+        <seg>Uso delle opzioni del menu</seg>
       </tuv>
     </tu>
     <tu>
