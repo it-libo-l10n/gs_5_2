@@ -17982,6 +17982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue as described above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092246Z" creationid="osvaldo" creationdate="20190222T092246Z">
+        <seg>Continuate come sopra descritto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Continuing the version numbers from OpenOffice.org, LibreOffice 3.3 was released in January 2011.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T200444Z">
@@ -35864,6 +35872,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is not retained when you close the document or close Writer, and it does not apply to any other document you open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092216Z" creationid="osvaldo" creationdate="20190222T092216Z">
+        <seg>Non vengono mantenuti quando chiudete il documento o chiudete Writer, e non si applicano agli altri documenti che aprite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is open source software and therefore free to download, use, and distribute.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180928T195130Z">
@@ -44769,6 +44785,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the drawing object and then choose &lt;f0&gt;Position and Size&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092347Z" creationid="osvaldo" creationdate="20190222T092347Z">
+        <seg>Fate clic con il pulsante destro del mouse sull'oggetto di disegno e poi scegliete &lt;f0&gt;Posizione e dimensione&lt;/f0&gt; dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on the formula and select &lt;f0&gt;Object&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Frame/Object&lt;/f1&gt; on the menu bar to open the object dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180913T191433Z">
@@ -47685,6 +47709,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T164746Z" creationid="Elisabetta Manuele" creationdate="20181205T164746Z">
         <seg>Selezionate il numero di righe e di colonne desiderato nella successiva finestra di dialogo Inserisci tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092239Z" creationid="osvaldo" creationdate="20190222T092239Z">
+        <seg>Selezionate l'oggetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51923,6 +51955,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Position and Size dialog is displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092419Z" creationid="osvaldo" creationdate="20190222T092419Z">
+        <seg>Viene quindi mostrata la finestra di dialogo Posizione e Dimensione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Presenter Console (Figure &lt;t0&gt;158&lt;/t0&gt;) provides extra control over slide shows by using different views on your computer display and on the display &lt;t1/&gt;that the audience sees.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T175152Z">
@@ -52783,6 +52823,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092140Z" creationid="osvaldo" creationdate="20190222T092140Z">
         <seg>I valori predefiniti da voi impostati si applicano al documento e alla sessione corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The defaults apply to all the drawing objects except text objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092225Z" creationid="osvaldo" creationdate="20190222T092225Z">
+        <seg>Essi si applicano a tutti gli oggetti di disegno, tranne gli oggetti di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58745,6 +58793,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T093621Z">
         <seg>Per modificare le proprietà per tutto il testo all'interno della cornice, dovete evidenziare tutto il testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the properties for an existing drawing object:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092234Z" creationid="osvaldo" creationdate="20190222T092234Z">
+        <seg>Per modificare le proprietà di un oggetto di disegno esistente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67213,6 +67269,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151435Z">
         <seg>È anche possibile impostare la lingua per l'intero documento, per singoli paragrafi, o persino per singole parole e caratteri, da &lt;f0&gt;Strumenti &gt; Lingua&lt;/f0&gt; sulla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also specify the position and size, rotation, and slant and corner radius properties of the drawing object:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092309Z" creationid="osvaldo" creationdate="20190222T092309Z">
+        <seg>Potete anche specificare le proprietà dell'oggetto di disegno per posizione e dimensioni, rotazione, raggio d'inclinazione e d'angolo:</seg>
       </tuv>
     </tu>
     <tu>
