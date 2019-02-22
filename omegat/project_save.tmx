@@ -2735,6 +2735,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Active&lt;/f0&gt; icon: toggles the status of a selected hotspot between active and inactive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062120Z" creationid="osvaldo" creationdate="20190222T062120Z">
+        <seg>Icona &lt;f0&gt;Attivo&lt;/f0&gt;: cambia lo stato dell'hotspot selezionato tra attivo e inattivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Add the character to the &lt;/f0&gt;&lt;f1&gt;Math C&lt;/f1&gt;&lt;f2&gt;atalog, &lt;/f2&gt;&lt;f3&gt;for example the double quote character&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180826T202911Z">
@@ -2827,6 +2835,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T124912Z">
         <seg>Per impostazione predefinita &lt;f0&gt;tutti gli &lt;/f0&gt;&lt;f1&gt;Spazi&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;al termine di una riga del codice di &lt;/f4&gt;&lt;f5&gt;markup &lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;vengono ignorati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Apply&lt;/f0&gt; button: click this button to apply the changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T061935Z" creationid="osvaldo" creationdate="20190222T061935Z">
+        <seg>Pulsante &lt;f0&gt;Applica&lt;/f0&gt;: fateci clic sopra per applicare le modifiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3812,6 +3828,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T142128Z">
         <seg>&lt;f0&gt;Modifica&lt;/f0&gt; – contiene comandi per modificare il documento; ad esempio, &lt;f1&gt;Annulla&lt;/f1&gt;, &lt;f2&gt;Copia&lt;/f2&gt;, &lt;f3&gt;Traccia le modifiche&lt;/f3&gt;, &lt;f4&gt;Compila&lt;/f4&gt;, &lt;f5&gt;Plugin&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit&lt;/f0&gt;, &lt;f1&gt;Move&lt;/f1&gt;, &lt;f2&gt;Insert&lt;/f2&gt;, &lt;f3&gt;Delete&lt;/f3&gt; &lt;f4&gt;Points&lt;/f4&gt;: advanced editing tools to manipulate the shape of a polygon hotspot.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062043Z" creationid="osvaldo" creationdate="20190222T062043Z">
+        <seg>&lt;f0&gt;Modifica&lt;/f0&gt;, &lt;f1&gt;Sposta&lt;/f1&gt;, &lt;f2&gt;Inserisci&lt;/f2&gt;, &lt;f3&gt;Elimina&lt;/f3&gt; &lt;f4&gt;Punti&lt;/f4&gt;: strumenti avanzati di editing per manipolare un hotspot con forma poligonale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5136,6 +5160,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Load,&lt;/f0&gt; &lt;f1&gt;Save,&lt;/f1&gt; and &lt;f2&gt;Select&lt;/f2&gt; icons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T061950Z" creationid="osvaldo" creationdate="20190222T061950Z">
+        <seg>Icone &lt;f0&gt;Apri,&lt;/f0&gt; &lt;f1&gt;Salva,&lt;/f1&gt; e &lt;f2&gt;Seleziona&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Location, Contact information, Reason:&lt;/f0&gt; Optionally enter additional information about the digital signature that will be applied to the PDF.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T161146Z" creationid="Alessia Mazzarini" creationdate="20181105T155318Z">
@@ -5164,6 +5196,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T190551Z">
         <seg>&lt;f0&gt;Mac OS X&lt;/f0&gt; 10.8 (Mountain Lion) o superiore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Macro&lt;/f0&gt;: associates a macro with the hotspot instead of just associating a hyperlink.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062145Z" creationid="osvaldo" creationdate="20190222T062145Z">
+        <seg>Icona &lt;f0&gt;Macro&lt;/f0&gt;: associa una macro all'area attiva, oltre al collegamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5684,6 +5724,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T183140Z">
         <seg>&lt;f0&gt;Proprietà&lt;/f0&gt;: Questo pannello comprende &lt;f1&gt;cinque&lt;/f1&gt; aree di contenuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Properties&lt;/f0&gt;: sets the hyperlink properties and adds the Name attribute to the hyperlink.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062200Z" creationid="osvaldo" creationdate="20190222T062200Z">
+        <seg>&lt;f0&gt;Proprietà&lt;/f0&gt;: permette di impostare le proprietà del collegamento ipertestuale e aggiungere l'attributo Nome al collegamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14551,6 +14599,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180818T134602Z">
         <seg>Scegliete la scheda &lt;f1&gt;Menu&lt;/f1&gt; (Figura &lt;t2&gt;351&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the Edit Points tool to activate the other tools.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062128Z" creationid="osvaldo" creationdate="20190222T062059Z">
+        <seg>Scegliete lo strumento Modifica Punti per attivare gli altri strumenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24060,6 +24116,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T113415Z" creationid="osvaldo" creationdate="20190221T113415Z">
         <seg>Figura &lt;seq0&gt;312&lt;/seq0&gt;:  finestra di dialogo Proprietà Galleria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;313&lt;/seq0&gt;: The dialog to create or edit an image map</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062227Z" creationid="osvaldo" creationdate="20190222T062227Z">
+        <seg>Figura &lt;seq0&gt;313&lt;/seq0&gt;: la finestra di dialogo per creare o modificare una mappa immagine</seg>
       </tuv>
     </tu>
     <tu>
@@ -61227,6 +61291,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T093554Z">
         <seg>Barre degli strumenti, voci di menu e tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tools for drawing a hotspot shape: these tools work in exactly the same way as the corresponding tools in the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062009Z" creationid="osvaldo" creationdate="20190222T062009Z">
+        <seg>Strumenti per disegnare la forma di un hotspot: questi strumenti funzionano nello stesso identico modo in cui funzionano i corrispondenti strumenti nella barra degli strumenti Disegno.</seg>
       </tuv>
     </tu>
     <tu>
