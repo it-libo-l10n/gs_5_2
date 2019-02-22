@@ -20728,6 +20728,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drawing Object Properties toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T090642Z" creationid="osvaldo" creationdate="20190222T090642Z">
+        <seg>barra degli strumenti Proprietà Oggetto di Disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drawing a dimension line</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T101245Z">
@@ -38977,6 +38985,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the cross-hair pointer to the place in the document where you want the graphic to appear and then click and drag to create the drawing object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T090536Z" creationid="osvaldo" creationdate="20190222T090536Z">
+        <seg>Portate il puntatore a croce nel punto del documento in cui desiderate che compaia l'immagine e poi fate clic e trascinate per creare l'oggetto di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the cursor over a higher level folder and release the mouse button to navigate to that folder</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180622T205124Z">
@@ -53995,6 +54011,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The mouse pointer changes to a drawing-functions pointer similar to this one for a rectangle shape &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T090513Z" creationid="osvaldo" creationdate="20190222T090513Z">
+        <seg>Il puntatore del mouse cambia forma, divenendo un puntatore con funzioni di disegno simile a questo per una forma rettangolare&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The mouse pointer may change to include a plus sign depending on the setup of your operating system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180729T161911Z">
@@ -54815,6 +54839,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180619T212144Z">
         <seg>La seconda barra degli strumenti in alto, in un'installazione standard di LibreOffice, è la barra di &lt;f0&gt;Formattazione&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected drawing function remains active, so that you can draw another object of the same type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T090558Z" creationid="osvaldo" creationdate="20190222T090558Z">
+        <seg>La funzione di disegno selezionata rimane attiva, in modo da poter disegnare un altro oggetto dello stesso tipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58280,6 +58312,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112753Z">
         <seg>Per cancellare un raggruppamento temporaneo di oggetti semplicemente fate clic all'esterno delle maniglie di selezione mostrate intorno agli oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To cancel the selected drawing function, press the &lt;f0&gt;Esc&lt;/f0&gt; key or click on the &lt;f1&gt;Select&lt;/f1&gt; icon (the arrow) on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T090619Z" creationid="osvaldo" creationdate="20190222T090619Z">
+        <seg>Per disattivare la funzione selezionata premete il tasto &lt;f0&gt;Esc&lt;/f0&gt; oppure fate clic sull'icona &lt;f1&gt;Seleziona&lt;/f1&gt; (la freccia) sulla barra degli strumenti Disegno.</seg>
       </tuv>
     </tu>
     <tu>
