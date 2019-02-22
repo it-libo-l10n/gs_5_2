@@ -14715,6 +14715,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose the tool from&lt;i0/&gt; the Drawing toolbar (Figure &lt;t1&gt;314&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T090136Z" creationid="osvaldo" creationdate="20190222T090136Z">
+        <seg>Scegliete lo strumento dalla &lt;i0/&gt;barra degli strumenti Disegno (Figura &lt;t1&gt;314&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose whether to enable AutoRecovery and how often to save the information used by the AutoRecovery process.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T144239Z">
@@ -16103,6 +16111,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180718T124842Z">
         <seg>Fate clic sull'intestazione per selezionare la colonna o la riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the document where you want the drawing to be anchored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T085929Z" creationid="osvaldo" creationdate="20190222T085929Z">
+        <seg>Fate clic nel documento dove volete che il disegno rimanga ancorato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67233,6 +67249,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change the anchor later, if necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T085936Z" creationid="osvaldo" creationdate="20190222T085936Z">
+        <seg>Potete modificare l'ancoraggio in seguito, se necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change the margins directly on the rulers by dragging them with the mouse.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105157Z">
@@ -70285,6 +70309,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105351Z">
         <seg>oggetti di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>drawing toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T085942Z" creationid="osvaldo" creationdate="20190222T085942Z">
+        <seg>La barra degli strumenti Disegno</seg>
       </tuv>
     </tu>
     <tu>
