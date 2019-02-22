@@ -14371,6 +14371,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choices are left align, center, right align, word justify, and stretch justify.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150345Z" creationid="osvaldo" creationdate="20190222T150345Z">
+        <seg>Potete scegliere fra: allinea a sinistra, centrale, allinea a destra, giustifica parole e giustifica caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choices made on the &lt;f0&gt;Load/Save – HTML Compatibility&lt;/f0&gt; page (Figure &lt;t1&gt;39&lt;/t1&gt;) affect HTML pages imported into LibreOffice and those exported from LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180608T155253Z">
@@ -16456,6 +16464,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T183459Z" creationid="Elisabetta Manuele" creationdate="20181210T183459Z">
         <seg>Fate clic sulla scheda &lt;f2&gt;Note e stampati&lt;/f2&gt; (Figura &lt;t3&gt;131&lt;/t3&gt;) e selezionate gli elementi con i relativi contenuti da visualizzare in ogni pagina dello stampato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the Fontwork object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150617Z" creationid="osvaldo" creationdate="20190222T150617Z">
+        <seg>Fate clic sull'oggetto fontwork.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25776,6 +25792,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fontwork &lt;i0/&gt;&lt;i1/&gt;Character Spacing: Changes the character spacing and kerning in the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150444Z" creationid="osvaldo" creationdate="20190222T150444Z">
+        <seg>Spaziatura &lt;i0/&gt;&lt;i1/&gt;caratteri fontwork: consente di modificare la spaziatura e la crenatura fra i caratteri dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fontwork &lt;i0/&gt;Alignment: Changes the alignment of characters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150328Z" creationid="osvaldo" creationdate="20190222T150328Z">
@@ -27780,6 +27804,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180218Z">
         <seg>Formattazione del testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150523Z" creationid="osvaldo" creationdate="20190222T150523Z">
+        <seg>Barra di formattazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -35072,6 +35104,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the stretch justify mode, all the lines are filled completely.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150408Z" creationid="osvaldo" creationdate="20190222T150408Z">
+        <seg>Nel modo "giustifica caratteri" tutte le linee vengono occupate completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the text box below the slide, click on the words &lt;f0&gt;Click to add notes&lt;/f0&gt; and begin typing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T114238Z" creationid="Elisabetta Manuele" creationdate="20181128T114238Z">
@@ -40573,6 +40613,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T153738Z">
         <seg>Ora è possibile evidenziare la selezione, utilizzando il mouse o la tastiera, come mostrato sotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now let us go further and customize the Fontwork object with several more attributes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150604Z" creationid="osvaldo" creationdate="20190222T150604Z">
+        <seg>A questo punto potete personalizzare l'oggetto fontwork con numerose altre caratteristiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47257,6 +47305,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select from the choices in the drop-down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150518Z" creationid="osvaldo" creationdate="20190222T150518Z">
+        <seg>Selezionare dalle scelte nell'elenco a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select from the list of themes the theme you wish to delete.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T174555Z" creationid="osvaldo" creationdate="20190221T174501Z">
@@ -51882,6 +51938,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Formatting toolbar changes to show the options for editing the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150626Z" creationid="osvaldo" creationdate="20190222T150626Z">
+        <seg>La barra degli strumenti Formattazione cambia per mostrare le opzioni disponibili per modificare l'oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Formula Bar is permanently docked in this position and cannot be used as a floating toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220021Z">
@@ -53335,6 +53399,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071408Z">
         <seg>L'effetto cambia a seconda della larghezza della finestra e del fattore di zoom in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The effects of the text alignment can only be seen if the text spans over two or more lines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150356Z" creationid="osvaldo" creationdate="20190222T150356Z">
+        <seg>L'effetto dell'allineamento del testo si può vedere solo se il testo si estende su due o più linee.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64112,6 +64184,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150552Z" creationid="osvaldo" creationdate="20190222T150552Z">
+        <seg>Uso della barra degli strumenti Formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the Hide/Show marker hides, but does not close, the Slide pane or Sidebar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T183718Z" creationid="Elisabetta Manuele" creationdate="20181126T183718Z">
@@ -70073,6 +70153,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>attributes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150420Z" creationid="osvaldo" creationdate="20190222T150420Z">
+        <seg>attributi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>automatically advance</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T171354Z">
@@ -70245,6 +70333,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180612T155934Z">
         <seg>modifica tramite la finestra di dialogo Stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>character spacing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150413Z" creationid="osvaldo" creationdate="20190222T150413Z">
+        <seg>spaziatura caratteri</seg>
       </tuv>
     </tu>
     <tu>
