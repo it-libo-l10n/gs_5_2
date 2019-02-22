@@ -31384,6 +31384,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the selected Fontwork object is a 3-D object, you can also use the 3D-Settings toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T144302Z" creationid="osvaldo" creationdate="20190222T144302Z">
+        <seg>Se l'oggetto fontwork selezionato è un oggetto 3-D, potete anche usare la barra degli strumenti Impostazioni 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the selected icon normally demands a consecutive mouse action, such as inserting a rectangle, then pressing the &lt;f1&gt;Enter&lt;/f1&gt; key is not sufficient: in these cases press &lt;f2&gt;Ctrl+Enter&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T132238Z">
@@ -40509,6 +40517,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T102341Z">
         <seg>Ora selezionate la combinazione di tasti desiderata nell'elenco &lt;f0&gt;Tasti di scelta rapida&lt;/f0&gt; e fate clic sul pulsante &lt;f1&gt;Cambia&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now that the Fontwork object is created, you can edit some of its attributes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T144125Z" creationid="osvaldo" creationdate="20190222T144125Z">
+        <seg>Una volta creato l'oggetto fontwork, è possibile modificare alcuni dei suoi attributi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59550,6 +59566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do this, you can use the Fontwork toolbar, the Formatting toolbar, or menu options as described in this section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T144249Z" creationid="osvaldo" creationdate="20190222T144249Z">
+        <seg>Per farlo, potete usare la barra degli strumenti Fontwork, la barra degli strumenti Formattazione, o le opzioni di menu descritte in questa sezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do this:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T142131Z">
@@ -73269,6 +73293,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T135855Z">
         <seg>barra del titolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T144305Z" creationid="osvaldo" creationdate="20190222T144305Z">
+        <seg>barra degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
