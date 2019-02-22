@@ -27408,6 +27408,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on all of these menu options, see the &lt;f0&gt;Draw Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155906Z" creationid="osvaldo" creationdate="20190222T155906Z">
+        <seg>Per maggiori informazioni su tutte queste opzioni dei menu consultate la &lt;f0&gt;Guida a Draw&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on area fill, see&lt;f3&gt; &lt;/f3&gt;Chapter 4, Changing Object Attributes, &lt;f4&gt;in the &lt;/f4&gt;&lt;f5&gt;Draw Guide.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180707T111454Z">
@@ -31708,6 +31716,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T144302Z" creationid="osvaldo" creationdate="20190222T144302Z">
         <seg>Se l'oggetto fontwork selezionato è un oggetto 3-D, potete anche usare la barra degli strumenti Impostazioni 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the selected Fontwork object is a 3-D object, you can also use the options on the 3D-Settings toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155924Z" creationid="osvaldo" creationdate="20190222T155924Z">
+        <seg>Se l'oggetto fontwork selezionato è un oggetto 3-D, potete anche usare le opzioni sulla barra degli strumenti Impostazioni 3D.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41645,6 +41661,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180918T144513Z">
         <seg>Nella finestra di dialogo Posizione e dimensione, modificate la Larghezza a 2 cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Position and Size dialog, you can enter precise values for size and position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155851Z" creationid="osvaldo" creationdate="20190222T155851Z">
+        <seg>Nella finestra di dialogo Posizione e dimensione potete inserire dei valori precisi per dimensioni e posizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52771,6 +52795,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Text dialog offers only a few options for Fontwork objects and is not discussed here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155752Z" creationid="osvaldo" creationdate="20190222T155752Z">
+        <seg>La finestra di dialogo Testo offre solo poche opzioni per gli oggetti fontwork e non viene descritta in questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The View Tab Bar is visible in this image.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T174553Z" creationid="Elisabetta Manuele" creationdate="20181127T174553Z">
@@ -55239,6 +55271,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T162204Z">
         <seg>Il puntatore del mouse cambia forma in una freccia a doppia punta e visualizza l'impostazione corrente in un suggerimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The pop-up menu also provides quick access to the Line, Area, Text, and Position and Size dialogs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155746Z" creationid="osvaldo" creationdate="20190222T155746Z">
+        <seg>Inoltre, il menu a comparsa offre un accesso rapido alle finestre di dialogo Linea, Area, Testo e Posizione e dimensione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64456,6 +64496,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the 3D-Settings toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155912Z" creationid="osvaldo" creationdate="20190222T155912Z">
+        <seg>Utilizzo della barra degli strumenti Impostazioni 3D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the &lt;f0&gt;Alt&lt;/f0&gt; key method works on computers using a Windows or Mac operating systems.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T172320Z">
@@ -67657,6 +67705,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also change a 2-D Fontwork object into a 3-D object (or change a 3-D object into a 2-D object) by clicking the Extrusion On/Off icon on the 3D-Settings toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155930Z" creationid="osvaldo" creationdate="20190222T155930Z">
+        <seg>Potete anche modificare un oggetto fontwork 2-D in un oggetto 3-D (o modificare un oggetto 3-D in un oggetto 2-D) facendo clic sull'icona Estrusione sì/no sulla barra degli strumenti Impostazioni 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also change the font type, size, and alignment in the usual editing manner.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T082704Z">
@@ -67949,6 +68005,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T215648Z">
         <seg>Potete anche eliminare o aggiungere icone alle barre degli strumenti; per maggiori informazioni vedete il &lt;f0&gt;Capitolo 14 (Personalizzare LibreOffice)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also right-click on a Fontwork object and choose many of the same options from the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155741Z" creationid="osvaldo" creationdate="20190222T155741Z">
+        <seg>Facendo clic col pulsante destro del mouse su un oggetto fontwork potete scegliere molte delle stesse opzioni dal menu a comparsa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69581,6 +69645,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180628T154503Z">
         <seg>Potete usare diversi modi per &lt;i0/&gt;rilevare le modifiche apportate a un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use some the choices on the &lt;f0&gt;Format&lt;/f0&gt; menu to anchor, align, arrange, and group selected Fontwork objects, wrap text around them, and flip them horizontally and vertically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155726Z" creationid="osvaldo" creationdate="20190222T155726Z">
+        <seg>Potete utilizzare alcune opzioni del menu &lt;f0&gt;Formato&lt;/f0&gt; per ancorare, allineare, disporre e raggruppare gli oggetti fontwork selezionati, disporre il testo attorno ad essi, e rispecchiarli in orizzontale e in verticale.</seg>
       </tuv>
     </tu>
     <tu>
