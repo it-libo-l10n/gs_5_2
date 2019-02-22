@@ -18102,6 +18102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conversely, if you grab one of the edges, LibreOffice will scale unproportionally in the direction perpendicular to the edge; if you also press the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; key, LibreOffice will scale proportionately.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T093603Z" creationid="osvaldo" creationdate="20190222T093603Z">
+        <seg>Viceversa, se prendete uno dei bordi, LibreOffice ridimensionerà l'oggetto in modo non proporzionale nella direzione perpendicolare al bordo; se premete anche il tasto &lt;/ f3&gt; &lt;f4&gt; &lt;f5&gt; Shift &lt;/ f5&gt; &lt;/ f4&gt; &lt;f6&gt;, LibreOffice ridimensionerà l'oggetto proporzionalmente. &lt;/ f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert document references to PDF targets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T181446Z" creationid="Alessia Mazzarini" creationdate="20181104T222341Z">
