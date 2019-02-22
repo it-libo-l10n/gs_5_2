@@ -9857,6 +9857,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A yellow dot also appears on the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T160041Z" creationid="osvaldo" creationdate="20190222T160041Z">
+        <seg>Sull'oggetto appare anche un punto giallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ability to open, edit, and save Microsoft Excel spreadsheets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T131832Z">
@@ -24624,6 +24632,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;322&lt;/seq0&gt;: 3D-Settings toolbars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T160012Z" creationid="osvaldo" creationdate="20190222T160012Z">
+        <seg>Figura &lt;seq0&gt;322&lt;/seq0&gt;: barra degli strumenti Impostazioni 3D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;323&lt;/seq0&gt;: Inserting hyperlink using the Navigator</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T122832Z">
@@ -30160,6 +30176,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hovering the pointer over other parts of the object turns the pointer into the usual symbol for dragging the object to another part of the page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T160214Z" creationid="osvaldo" creationdate="20190222T160214Z">
+        <seg>Posizionando il cursore su altre parti dell'oggetto, esso riprende la forma abituale. In questo caso è possibile trascinare l'oggetto in un'altra posizione nella pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T181841Z">
@@ -32652,6 +32676,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T123544Z">
         <seg>Se dovete inserire ripetutamente lo stesso dato, dopo averlo inserito nel documento per la prima volta, potete copiarlo ed incollarlo nel documento ogni volta che volete usarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you hover the pointer over this yellow dot, the pointer turns into a hand symbol.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T160205Z" creationid="osvaldo" creationdate="20190222T160205Z">
+        <seg>Se portate il cursore del mouse sul punto giallo, esso si trasformerà in una mano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40173,6 +40205,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184458Z">
         <seg>Spostare e modificare le dimensioni di un oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving and resizing Fontwork objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T160025Z" creationid="osvaldo" creationdate="20190222T160025Z">
+        <seg>Spostare e ridimensionare gli oggetti fontwork</seg>
       </tuv>
     </tu>
     <tu>
@@ -57587,6 +57627,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dot may be along an edge of the object, or it may be somewhere else; in the example on the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T160158Z" creationid="osvaldo" creationdate="20190222T160158Z">
+        <seg>Questo punto può trovarsi sul bordo dell'oggetto o altrove; nell'esempio a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This element is said to have the focus on it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T133441Z">
@@ -66553,6 +66601,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you select a Fontwork object, eight colored squares (known as &lt;f0&gt;handles&lt;/f0&gt;) appear around the edge of the object, as shown below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T160034Z" creationid="osvaldo" creationdate="20190222T160034Z">
+        <seg>Quando selezionate un oggetto fontwork, otto quadratini colorati (detti &lt;f0&gt;maniglie&lt;/f0&gt;) appaiono attorno ai bordi dell'oggetto, come si nota sotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you select a presentation background, you will see a preview of the slide design in the Preview window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181128T162136Z" creationid="Elisabetta Manuele" creationdate="20181128T162136Z">
@@ -68789,6 +68845,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180614T070357Z">
         <seg>Potete trascinare una selezione nella finestra Stili e formattazione per creare un nuovo stile..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can drag the dot in different directions to distort the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T160209Z" creationid="osvaldo" creationdate="20190222T160209Z">
+        <seg>Potete trascinare il punto in diverse direzioni per modificare la forma dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can drag these handles to resize the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T160038Z" creationid="osvaldo" creationdate="20190222T160038Z">
+        <seg>Potete ridimensionare l'oggetto trascinando queste maniglie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72645,6 +72717,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180530T085525Z">
         <seg>posizionamento del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>moving and resizing objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T160018Z" creationid="osvaldo" creationdate="20190222T160018Z">
+        <seg>Spostare e ridimensionare gli oggetti</seg>
       </tuv>
     </tu>
     <tu>
