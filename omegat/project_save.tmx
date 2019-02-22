@@ -48321,6 +48321,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting or &lt;i0/&gt;changing properties for drawing objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T091038Z" creationid="osvaldo" creationdate="20190222T091038Z">
+        <seg>Impostare o &lt;i0/&gt;modificare le proprietà degli oggetti di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting tab stops and indents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T063619Z">
@@ -68057,6 +68065,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can now change the properties (fill color, line type and weight, anchoring, and others) of the drawing object using either &lt;i0/&gt;the Drawing Object Properties toolbar (Figure &lt;t1&gt;315&lt;/t1&gt;) or the choices and dialogs reached by right-clicking on the drawing object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T090836Z" creationid="osvaldo" creationdate="20190222T090836Z">
+        <seg>Potete ora modificare le proprietà (colore di riempimento, tipo e spessore della linea, ancoraggio e altro) dell'oggetto di disegno usando la &lt;i0/&gt;barra degli strumenti Proprietà Oggetto di Disegno (Figura &lt;t1&gt;315&lt;/t1&gt;) oppure le opzioni e le finestre di dialogo raggiungibili facendo clic col pulsante destro del mouse sull'oggetto di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can now click and drag the contents box to a new position on the slide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T171138Z" creationid="Elisabetta Manuele" creationdate="20181129T171138Z">
@@ -71893,6 +71909,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T150039Z">
         <seg>stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>properties</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T090904Z" creationid="osvaldo" creationdate="20190222T090904Z">
+        <seg>Proprietà</seg>
       </tuv>
     </tu>
     <tu>
