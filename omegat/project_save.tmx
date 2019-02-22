@@ -7072,6 +7072,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;When you grab the corner handle of an object and drag it, LibreOffice will resize proportionately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092934Z" creationid="osvaldo" creationdate="20190222T092934Z">
+        <seg>&lt;f0&gt;Quando prendete la maniglia d'angolo di un oggetto e lo trascinate, LibreOffice lo ridimensionerà proporzionalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When&lt;/f0&gt;&lt;f1&gt; you have finished creating cross-references, click &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Close&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; to close the Fields dialog.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180910T124754Z">
