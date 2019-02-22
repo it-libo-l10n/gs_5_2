@@ -2799,6 +2799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Alignment&lt;/f0&gt; icon: Modify the alignment of the selected objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155038Z" creationid="osvaldo" creationdate="20190222T155038Z">
+        <seg>Icona &lt;f0&gt;Allineamento&lt;/f0&gt;: consente di modificare l'allineamento degli oggetti selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Alignment&lt;/f0&gt;: Controls to align the text in various ways, including horizontal and vertical alignment, wrapping, indenting, merging, text orientation, and vertical stacking.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180708T184431Z">
@@ -3055,6 +3063,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Bring to front&lt;/f0&gt; icon: Move the selected object in front of the others.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155101Z" creationid="osvaldo" creationdate="20190222T155101Z">
+        <seg>Icona &lt;f0&gt;Porta in primo piano&lt;/f0&gt;: consente di spostare l'oggetto selezionato davanti agli altri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;By default, a multiple line formula is centr&lt;/f0&gt;&lt;f1&gt;ally&lt;/f1&gt;&lt;f2&gt; aligned.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T124303Z">
@@ -3196,6 +3212,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T120153Z">
         <seg>&lt;f0&gt;Modificare&lt;/f0&gt; i dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Change &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Anchor&lt;/f2&gt; icon: Choose between anchoring options:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155232Z" creationid="osvaldo" creationdate="20190222T155232Z">
+        <seg>Icona &lt;f0&gt;Cambia &lt;/f0&gt;&lt;i1/&gt;l'&lt;f2&gt;ancoraggio&lt;/f2&gt;: consente di scegliere tra le diverse opzioni di ancoraggio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6272,6 +6296,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Send to back&lt;/f0&gt; icon: Move the selected object behind the others.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155125Z" creationid="osvaldo" creationdate="20190222T155125Z">
+        <seg>Icona &lt;f0&gt;Porta in fondo&lt;/f0&gt;: consente di spostare l'oggetto selezionato dietro agli altri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Separated by&lt;/f0&gt; – select the separator used in the data to delimit the data into columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T215928Z">
@@ -6772,6 +6804,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180818T141120Z">
         <seg>&lt;f0&gt;Per &lt;/f0&gt;personalizzare il menu selezionato, fate clic sul pulsante &lt;f1&gt;Cambia&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To Background&lt;/f0&gt; icon: Move the selected object behind the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155029Z" creationid="osvaldo" creationdate="20190222T155029Z">
+        <seg>Icona &lt;f0&gt;Sullo sfondo&lt;/f0&gt;: permette di spostare l'oggetto selezionato dietro al testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36112,6 +36152,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It does not move as you add or delete text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155254Z" creationid="osvaldo" creationdate="20190222T155254Z">
+        <seg>L'oggetto non si sposterà se aggiungete o cancellate del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It has five tabs: &lt;f2&gt;Normal&lt;/f2&gt;, &lt;f3&gt;Outline&lt;/f3&gt;, &lt;f4&gt;Notes&lt;/f4&gt;, &lt;f5&gt;Handout&lt;/f5&gt;, and &lt;f6&gt;Slide Sorter&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T184832Z" creationid="Elisabetta Manuele" creationdate="20181126T184832Z">
@@ -36464,6 +36512,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may be placed in the margin or another location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155310Z" creationid="osvaldo" creationdate="20190222T155310Z">
+        <seg>Può essere posizionato sul margine o altrove.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It may become necessary to remove a defined print range, for example, if the whole sheet needs to be printed later.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203313Z">
@@ -36484,6 +36540,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T094948Z">
         <seg>Questo comando sposta il campo oppure l'etichetta ma non entrambi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It moves with the paragraph but may be placed in the margin or another location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155333Z" creationid="osvaldo" creationdate="20190222T155333Z">
+        <seg>Si sposta assieme al paragrafo ma può essere posizionato sul margine o altrove.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58619,6 +58683,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To Character—The object is associated with a character but is not in the text sequence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155321Z" creationid="osvaldo" creationdate="20190222T155321Z">
+        <seg>Al carattere - L'oggetto è associato al carattere ma non si trova nella sequenza del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To Page—The object keeps the same position in relation to the page margins.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155244Z" creationid="osvaldo" creationdate="20190222T155244Z">
+        <seg>Alla pagina - L'oggetto mantiene la stessa posizione rispetto ai margini della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To Paragraph—The object is associated with a paragraph and moves with the paragraph.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155302Z" creationid="osvaldo" creationdate="20190222T155302Z">
+        <seg>Al paragrafo - L'oggetto è associato al paragrafo e si sposta con esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To accept the suggestion, press &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T113438Z">
@@ -70309,6 +70397,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150316Z" creationid="osvaldo" creationdate="20190222T150316Z">
         <seg>allineamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>anchoring</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T155129Z" creationid="osvaldo" creationdate="20190222T155129Z">
+        <seg>ancoraggio</seg>
       </tuv>
     </tu>
     <tu>
