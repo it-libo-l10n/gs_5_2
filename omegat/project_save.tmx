@@ -12506,6 +12506,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Basic Shapes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062918Z" creationid="osvaldo" creationdate="20190222T062918Z">
+        <seg>Forme base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Basic shapes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T103955Z">
@@ -21384,6 +21392,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ellipse</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062913Z" creationid="osvaldo" creationdate="20190222T062913Z">
+        <seg>Ellisse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ellipsis</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T113358Z">
@@ -22172,6 +22188,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T140449Z">
         <seg>Le estensioni possono essere scritte in quasi tutti i linguaggi di programmazione e possono essere sia semplici, sia complesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extrusion On/Off</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062937Z" creationid="osvaldo" creationdate="20190222T062937Z">
+        <seg>Estrusione sì/no</seg>
       </tuv>
     </tu>
     <tu>
@@ -24160,6 +24184,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;314&lt;/seq0&gt;: The Drawing toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062957Z" creationid="osvaldo" creationdate="20190222T062957Z">
+        <seg>Figura &lt;seq0&gt;314&lt;/seq0&gt;: barra degli strumenti Disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Choosing accessibility options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T155427Z">
@@ -25548,6 +25580,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180531T062558Z">
         <seg>I caratteri che sono regolati per l'utilizzo con una scrittura specifica, come l'Arabo, l'Ebraico, il Malayalam, e così via, ora mostrano una ulteriore anteprima di un testo di esempio nella scrittura di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fontwork Gallery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062905Z" creationid="osvaldo" creationdate="20190222T062905Z">
+        <seg>Galleria Fontwork</seg>
       </tuv>
     </tu>
     <tu>
@@ -27716,6 +27756,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173548Z">
         <seg>FAQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From File</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062930Z" creationid="osvaldo" creationdate="20190222T062930Z">
+        <seg>Da file</seg>
       </tuv>
     </tu>
     <tu>
@@ -43757,6 +43805,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T123408Z">
         <seg>Registrare una &lt;i0/&gt;macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rectangle</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062851Z" creationid="osvaldo" creationdate="20190222T062851Z">
+        <seg>Rettangolo</seg>
       </tuv>
     </tu>
     <tu>
@@ -61187,6 +61243,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180821T094041Z">
         <seg>Per utilizzare un'icona personalizzata, createla in un programma di grafica e importatela in LibreOffice facendo clic sul pulsante &lt;f0&gt;Importa&lt;/f0&gt; nella finestra di dialogo Cambia icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use a drawing tool:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T063007Z" creationid="osvaldo" creationdate="20190222T063007Z">
+        <seg>Per utilizzare uno strumento di disegno:</seg>
       </tuv>
     </tu>
     <tu>
