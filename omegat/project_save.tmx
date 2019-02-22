@@ -20408,6 +20408,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click the object to edit the Fontwork text (see Figure &lt;t0&gt;317&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T143528Z" creationid="osvaldo" creationdate="20190222T143528Z">
+        <seg>Fate doppio clic sull'oggetto per modificare il testo fontwork (vedere &lt;t0&gt;Figura 317&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-clicking in this area opens a relevant dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T071309Z">
@@ -24308,6 +24316,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092052Z" creationid="osvaldo" creationdate="20190222T092052Z">
         <seg>Figura &lt;seq0&gt;315&lt;/seq0&gt;: barra degli strumenti Proprietà oggetto di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;316&lt;/seq0&gt;: The Fontwork Gallery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T143505Z" creationid="osvaldo" creationdate="20190222T143505Z">
+        <seg>Figura &lt;seq0&gt;316&lt;/seq0&gt;: Galleria fontwork</seg>
       </tuv>
     </tu>
     <tu>
@@ -40433,6 +40449,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notice the colored squares around the edge (indicating that the object is selected) and the yellow dot; these are discussed in “&lt;rf3&gt;Moving and resizing Fontwork objects&lt;/rf3&gt;” on page &lt;rf4&gt;330&lt;/rf4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T143431Z" creationid="osvaldo" creationdate="20190222T143431Z">
+        <seg>Fate attenzione ai quadratini colorati attorno al bordo (che indicano che l'oggetto è selezionato) e il punto giallo; questi elementi saranno discussi in modo più dettagliato nel paragrafo “&lt;rf3&gt;Spostare e ridimensionare gli oggetti Fontwork&lt;/rf3&gt;” a pagina &lt;rf4&gt;330&lt;/rf4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now click on a table to see all the records held in it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20181018T072833Z" creationid="manuel" creationdate="20181018T072833Z">
@@ -48077,6 +48101,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T141946Z">
         <seg>Selezionate il modello che volete eliminare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the text and type your own text in place of the black &lt;f1&gt;Fontwork&lt;/f1&gt; text that appears over the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T143626Z" creationid="osvaldo" creationdate="20190222T143626Z">
+        <seg>Seleziona il testo e digita il tuo testo al posto del testo nero &lt;f1&gt; Fontwork &lt;/f1&gt; che appare sopra l'oggetto.</seg>
       </tuv>
     </tu>
     <tu>
