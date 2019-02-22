@@ -32056,6 +32056,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do not see it, go to &lt;f1&gt;View &gt; Toolbars &gt; Fontwork&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T144513Z" creationid="osvaldo" creationdate="20190222T144513Z">
+        <seg>Se non riuscite a visualizzare la barra, selezionatela da &lt;f1&gt;Visualizza &gt; Barre degli strumenti &gt; Fontwork&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not see the symbol next to your preferred language, you can install the additional dictionary using &lt;f2&gt;Tools &gt; Language &gt; More Dictionaries Online&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T151734Z">
@@ -63972,6 +63980,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T183848Z" creationid="Elisabetta Manuele" creationdate="20181210T183848Z">
         <seg>Tramite tasto &lt;f0&gt;Maiusc&lt;/f0&gt;: fate clic sulla prima diapositiva e, mantenendo &lt;f1&gt;Maiusc&lt;/f1&gt; premuto, selezionate l'ultima diapositiva del gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the &lt;i0/&gt;Fontwork toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T144427Z" creationid="osvaldo" creationdate="20190222T144427Z">
+        <seg>Utilizzo della &lt;i0/&gt;barra degli strumenti Fontwork</seg>
       </tuv>
     </tu>
     <tu>
