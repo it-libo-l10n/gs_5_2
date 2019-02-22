@@ -18857,8 +18857,8 @@
       <tuv lang="EN">
         <seg>Ctrl+Shift+Y</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180828T150417Z">
-        <seg>Ctrl+Shift+Y</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T122721Z">
+        <seg>Ctrl+Maiusc+Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -43123,8 +43123,8 @@
       <tuv lang="EN">
         <seg>Press &lt;f0&gt;Ctrl+Shift+Right Arrow&lt;/f0&gt; to select and move the cursor before the % sign.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180922T115855Z">
-        <seg>Premete &lt;f0&gt;Ctrl+Shift+Freccia destra&lt;/f0&gt; per selezionare e muovere il cursore prima del simbolo %.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T122658Z">
+        <seg>Premete &lt;f0&gt;Ctrl+Maiusc+Freccia destra&lt;/f0&gt; per selezionare e muovere il cursore prima del simbolo %.</seg>
       </tuv>
     </tu>
     <tu>
