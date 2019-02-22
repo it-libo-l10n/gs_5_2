@@ -18335,6 +18335,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a Fontwork object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T142816Z" creationid="osvaldo" creationdate="20190222T142816Z">
+        <seg>Creazione di un oggetto Fontwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a database form</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184724Z">
@@ -25700,6 +25708,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062905Z" creationid="osvaldo" creationdate="20190222T062905Z">
         <seg>Galleria Fontwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fontwork is available with each component of LibreOffice, but you will notice small differences in the way that each component displays it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T142758Z" creationid="osvaldo" creationdate="20190222T142758Z">
+        <seg>Fontwork può essere utilizzato in ogni componente di LibreOffice, ma potrete notare delle piccole differenze nel modo in cui viene visualizzato nei vari componenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56003,6 +56019,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are many different settings for text art objects (line, area, position, size, and more), so you have a large choice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T142740Z" creationid="osvaldo" creationdate="20190222T142740Z">
+        <seg>Avete a disposizione una vasta scelta di impostazioni per gli oggetti di testo grafici (linea, area, posizione, dimensioni, ecc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are many other ways to use styles; see the guides for the various components for details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T143925Z">
@@ -66209,6 +66233,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With Fontwork you can create graphical text art objects to make your work more attractive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T142720Z" creationid="osvaldo" creationdate="20190222T142720Z">
+        <seg>Con Fontwork potete creare elementi di testo elaborati graficamente con cui rendere più originale il vostro lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With LibreOffice, you can define the &lt;f0&gt;page style&lt;/f0&gt; for the first page and specify the style for the following pages to be applied automatically.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180616T144134Z">
@@ -70245,6 +70277,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190221T121806Z" creationid="osvaldo" creationdate="20190221T121806Z">
         <seg>Crazione di una nuova catgoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>creating an object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T142805Z" creationid="osvaldo" creationdate="20190222T142805Z">
+        <seg>creare un oggetto</seg>
       </tuv>
     </tu>
     <tu>
