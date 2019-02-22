@@ -18104,8 +18104,8 @@
       <tuv lang="EN">
         <seg>Conversely, if you grab one of the edges, LibreOffice will scale unproportionally in the direction perpendicular to the edge; if you also press the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; key, LibreOffice will scale proportionately.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T094506Z" creationid="osvaldo" creationdate="20190222T093603Z">
-        <seg>Viceversa, se prendete uno dei bordi, LibreOffice ridimensionerà l'oggetto in modo non proporzionale nella direzione perpendicolare al bordo; se premete anche il tasto &lt;/f3&gt;&lt;f4&gt; &lt;f5&gt;(Maiusc)&lt;/f5&gt;&lt;/f4&gt; &lt;f6&gt;, LibreOffice ridimensionerà l'oggetto proporzionalmente.&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T122401Z" creationid="osvaldo" creationdate="20190222T093603Z">
+        <seg>Viceversa, se prendete uno dei bordi, LibreOffice ridimensionerà l'oggetto in modo non proporzionale nella direzione perpendicolare al bordo; se premete anche il tasto &lt;/f3&gt;&lt;f4&gt; &lt;f5&gt;Maiusc&lt;/f5&gt;&lt;/f4&gt; &lt;f6&gt;, LibreOffice ridimensionerà l'oggetto proporzionalmente.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31626,8 +31626,8 @@
       <tuv lang="EN">
         <seg>If you also press the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Shift&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; key, the resizing will not keep object proportions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T093225Z" creationid="osvaldo" creationdate="20190222T093225Z">
-        <seg>Se si preme anche il tasto &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;(Maiusc)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, il ridimensionamento non manterrà le proporzioni dell'oggetto.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T122300Z" creationid="osvaldo" creationdate="20190222T093225Z">
+        <seg>Se si preme anche il tasto &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Maiusc&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, il ridimensionamento non manterrà le proporzioni dell'oggetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43219,8 +43219,8 @@
       <tuv lang="EN">
         <seg>Press &lt;f0&gt;Shift+Ctrl+R&lt;/f0&gt; to restore or refresh the view of the current document after changing the anti-aliasing settings, to see the effect.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180531T055550Z">
-        <seg>Premete &lt;f0&gt;Shift+Ctrl+R&lt;/f0&gt; per ripristinare o aggiornare la vista del documento attivo dopo avere modificato le impostazioni anti-aliasing, per vederne l'effetto.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T122529Z">
+        <seg>Premete &lt;f0&gt;Maiusc+Ctrl+R&lt;/f0&gt; per ripristinare o aggiornare la vista del documento attivo dopo avere modificato le impostazioni anti-aliasing, per vederne l'effetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63098,8 +63098,8 @@
       <tuv lang="EN">
         <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180621T194736Z">
-        <seg>Usate la combinazione di tasti&lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T122450Z">
+        <seg>Usate la combinazione di tasti&lt;f0&gt;Ctrl+Maiusc+S&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
