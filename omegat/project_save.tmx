@@ -18447,6 +18447,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating drawing objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062702Z" creationid="osvaldo" creationdate="20190222T062702Z">
+        <seg>Creare oggetti di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating drawings in Impress is similar to the Draw program included in LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181126T181828Z" creationid="Elisabetta Manuele" creationdate="20181126T181828Z">
@@ -27656,6 +27664,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Freeform Line</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062822Z" creationid="osvaldo" creationdate="20190222T062822Z">
+        <seg>Linea a mano libera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Freeform lines</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T105135Z">
@@ -31472,6 +31488,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are planning to use the drawing tools repeatedly, you can tear off this toolbar and move it to a convenient place on the window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062807Z" creationid="osvaldo" creationdate="20190222T062807Z">
+        <seg>Se utilizzate spesso gli strumenti di disegno, potete staccare la barra e spostarla in una posizione più pratica nella finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are sure you do not want to keep the changes from the last save operation, you can reload your document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T132135Z">
@@ -31628,6 +31652,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180621T161626Z">
         <seg>Se fate clic sul pulsante &lt;f1&gt;Incolla&lt;/f1&gt;, viene mantenuta qualsiasi formattazione del testo (come grassetto o corsivo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you convert a document to another format, such as HTML, the drawing objects and the graphics will not remain associated; they are saved separately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062643Z" creationid="osvaldo" creationdate="20190222T062643Z">
+        <seg>Se convertite un documento in un altro formato, come HTML, gli oggetti di disegno e gli oggetti grafici non rimarranno associati; essi vengono salvati separatamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33764,6 +33796,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180922T131005Z">
         <seg>Infatti, il codice generato è commentato in maniera tale da non poter essere nemmeno eseguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In general, if you need to create complex drawings, it is recommended to use LibreOffice Draw, which includes many more features such as layers, styles, and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062655Z" creationid="osvaldo" creationdate="20190222T062655Z">
+        <seg>In generale, se avete necessità di creare disegni complessi, è meglio utilizzare LibreOffice Draw, che include molte più funzionalità, come livelli, stili, e così via.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37133,6 +37173,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T180107Z">
         <seg>Linda Worthington</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062835Z" creationid="osvaldo" creationdate="20190222T062835Z">
+        <seg>Linea</seg>
       </tuv>
     </tu>
     <tu>
@@ -42641,6 +42689,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Points</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062847Z" creationid="osvaldo" creationdate="20190222T062847Z">
+        <seg>Punti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Polygons</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T104018Z">
@@ -45981,6 +46037,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112432Z">
         <seg>Vedere il&lt;f3&gt; &lt;/f3&gt;Capitolo 5 (Combinare oggetti multipli) &lt;f4&gt;nella &lt;/f4&gt;&lt;f5&gt;Guida a Draw &lt;/f5&gt;per maggiori informazioni su queste funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062815Z" creationid="osvaldo" creationdate="20190222T062815Z">
+        <seg>Seleziona</seg>
       </tuv>
     </tu>
     <tu>
@@ -49633,6 +49697,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062831Z" creationid="osvaldo" creationdate="20190222T062831Z">
+        <seg>Stelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Stars &lt;i0/&gt;and banners</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T170938Z">
@@ -50197,6 +50269,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180827T071616Z">
         <seg>Permette di passare alla barra dei menu e tornare indietro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Symbol Shapes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062827Z" creationid="osvaldo" creationdate="20190222T062827Z">
+        <seg>Forme simboli</seg>
       </tuv>
     </tu>
     <tu>
@@ -58096,6 +58176,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065654Z">
         <seg>Per definire le relazioni, selezionate &lt;f0&gt;Strumenti &gt; Relazioni&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To begin using the drawing tools, display the Drawing toolbar (Figure &lt;t0&gt;314&lt;/t0&gt;) by clicking &lt;f1&gt;View &gt; Toolbars &gt; Drawing&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062755Z" creationid="osvaldo" creationdate="20190222T062755Z">
+        <seg>Per iniziare a utilizzare gli strumenti di disegno, visualizzate la barra degli strumenti Disegno (Figura &lt;t0&gt;314&lt;/t0&gt;) facendo clic su &lt;f1&gt;Visualizza &gt; Barre degli strumenti &gt; Disegno&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66961,6 +67049,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also use the drawing tools to annotate photographs, screen captures, or other illustrations produced by other programs, but this is not recommended because:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062610Z" creationid="osvaldo" creationdate="20190222T062610Z">
+        <seg>Potete anche usare gli strumenti di disegno per commentare fotografie, immagini catturate da schermo o prodotte con altri programmi, anche se ciò non è raccomandato, in quanto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also use the rulers to manage object handles and guide lines, making it easier to position objects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105130Z">
@@ -67889,6 +67985,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can place the drawing objects directly on a page in your document, or you can insert them into a frame.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062552Z" creationid="osvaldo" creationdate="20190222T062552Z">
+        <seg>Potete posizionare gli oggetti direttamente su una pagina nel vostro documento, oppure inserirli in una cornice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can press the &lt;f1&gt;Tab&lt;/f1&gt; key to change the selection from the field to the label or the label to the field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180913T085931Z">
@@ -68525,6 +68629,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T090020Z">
         <seg>Non è possibile importare la libreria Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot include images in a group with drawing objects, so they may not remain aligned in your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062622Z" creationid="osvaldo" creationdate="20190222T062622Z">
+        <seg>Non potendo includere immagini in un gruppo con oggetti di disegno, esse potrebbero perdere l'allineamento nel documento.</seg>
       </tuv>
     </tu>
     <tu>
