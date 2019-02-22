@@ -2887,6 +2887,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Arrow Style&lt;/f0&gt; icon: Choose from the different arrow styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T152757Z" creationid="osvaldo" creationdate="20190222T152757Z">
+        <seg>Icona &lt;f0&gt;Stile estremità linea&lt;/f0&gt;: consente di scegliere tra i diversi stili di estremità linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Artist&lt;/f0&gt;: Use the Default setting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T061551Z">
@@ -5152,10 +5160,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Line Color&lt;/f0&gt; box: Select the color of the line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T152830Z" creationid="osvaldo" creationdate="20190222T152830Z">
+        <seg>Riquadro &lt;f0&gt;Colore della linea&lt;/f0&gt;: permette di selezionare il colore della linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Line Style&lt;/f0&gt; box: Choose from the available line styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T152803Z" creationid="osvaldo" creationdate="20190222T152803Z">
+        <seg>Riquadro &lt;f0&gt;Stile linea&lt;/f0&gt;: permette di scegliere fra i diversi stili di linea disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Line Width&lt;/f0&gt; box: Set the width of the line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T152809Z" creationid="osvaldo" creationdate="20190222T152809Z">
+        <seg>Riquadro &lt;f0&gt;Spessore linea&lt;/f0&gt;: consente di impostare lo spessore della linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Line:&lt;/f0&gt; Permits edits to the line style, width, color, arrows, corners, and cap styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T145340Z">
         <seg>&lt;f0&gt;Linea:&lt;/f0&gt; consente di modificare lo stile, la larghezza, il colore, le frecce, gli angoli e gli stili del cappuccio della linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Line&lt;/f0&gt; icon: Opens a dialog with three tabs: &lt;f1&gt;Line&lt;/f1&gt;, &lt;f2&gt;Line Styles&lt;/f2&gt;, &lt;f3&gt;Arrow Styles&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T152706Z" creationid="osvaldo" creationdate="20190222T152706Z">
+        <seg>Icona &lt;f0&gt;Linea&lt;/f0&gt;: apre una finestra di dialogo con tre schede: &lt;f1&gt;Linea&lt;/f1&gt;, &lt;f2&gt;Stili linee&lt;/f2&gt;, &lt;f3&gt;Estremità linee&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11725,6 +11765,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T091929Z" creationid="osvaldo" creationdate="20190222T091929Z">
         <seg>Stile di riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Area options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T152842Z" creationid="osvaldo" creationdate="20190222T152842Z">
+        <seg>Opzioni Area</seg>
       </tuv>
     </tu>
     <tu>
@@ -63288,10 +63336,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the &lt;f4&gt;Line&lt;/f4&gt; tab to edit the most common properties of the line around the selected Fontwork object, by choosing from previously-defined attributes including line style, line color, and arrow styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T152732Z" creationid="osvaldo" creationdate="20190222T152732Z">
+        <seg>Usate la scheda &lt;f4&gt;Linea&lt;/f4&gt; per modificare le proprietà più comuni della linea intorno all'oggetto Fontwork selezionato, scegliendo fra gli attributi definiti precedentemente, compresi lo stile linea, il colore linea e gli stili delle estremità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the &lt;f4&gt;Tab&lt;/f4&gt; key instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180927T145721Z">
         <seg>Usate quindi il tasto &lt;f4&gt;Tab&lt;/f4&gt; per uscire da un campo di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f5&gt;Lines Styles&lt;/f5&gt; and &lt;f6&gt;Arrow Styles&lt;/f6&gt; tabs to edit the properties of line and arrow styles, and define new styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T152746Z" creationid="osvaldo" creationdate="20190222T152746Z">
+        <seg>Usate le schede &lt;f5&gt;Stili linee&lt;/f5&gt; e &lt;f6&gt;Estremità linee&lt;/f6&gt; per modificare le proprietà degli stili di linea e delle estremità linee, e per definire nuovi stili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70173,6 +70237,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T093712Z">
         <seg>colori dell'applicazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>area options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T152835Z" creationid="osvaldo" creationdate="20190222T152835Z">
+        <seg>opzioni area</seg>
       </tuv>
     </tu>
     <tu>
