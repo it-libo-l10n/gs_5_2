@@ -21392,6 +21392,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Effects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T091820Z" creationid="osvaldo" creationdate="20190222T091820Z">
+        <seg>Effetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Either:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T121036Z">
@@ -26860,6 +26868,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180811T165857Z">
         <seg>Per ulteriori campi di controllo, tra cui la spaziatura tra il bordo cella ed il testo, usate la scheda &lt;f0&gt;Bordo&lt;/f0&gt; della finestra di dialogo Formato celle. (Figura &lt;t1&gt;104&lt;/t1&gt; a pagina &lt;t2&gt;133&lt;/t2&gt;), nella quale potete definire anche uno stile di ombreggiatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more control, or to define new attributes, you can click on the &lt;f0&gt;Area&lt;/f0&gt; or &lt;f1&gt;Line&lt;/f1&gt; icons on the toolbar to display detailed dialogs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T091758Z" creationid="osvaldo" creationdate="20190222T091758Z">
+        <seg>Per avere un maggiore controllo, o per definire nuovi attributi, potete fare clic sulle icone &lt;f0&gt;Area&lt;/f0&gt; o &lt;f1&gt;Linea&lt;/f1&gt; sulla barra degli strumenti per visualizzare finestre di dialogo dettagliate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37265,6 +37281,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Line Style</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T091809Z" creationid="osvaldo" creationdate="20190222T091809Z">
+        <seg>Stile linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line Width</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T091828Z" creationid="osvaldo" creationdate="20190222T091828Z">
+        <seg>Spessore linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Line and Filling toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105851Z">
@@ -40877,6 +40909,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180820T101253Z">
         <seg>Nella finestra di dialogo Personalizza, selezionate il menu nell'elenco dei &lt;f1&gt;Menu&lt;/f1&gt; e fate clic sul pulsante &lt;f2&gt;Importa&lt;/f2&gt; nella sezione &lt;f3&gt;Contenuto del menu&lt;/f3&gt; della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Drawing Object Properties toolbar (Figure &lt;t0&gt;315&lt;/t0&gt;), click on the icon for each property and select the value you want for that property.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T091732Z" creationid="osvaldo" creationdate="20190222T091732Z">
+        <seg>Sulla barra degli strumenti Proprietà oggetto di disegno (Figura &lt;t0&gt;315&lt;/t0&gt;), fate clic sull'icona per ciascuna proprietà e selezionate il valore desiderato per quella proprietà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Drawing toolbar (Figure &lt;t0&gt;314&lt;/t0&gt;), click the &lt;f1&gt;Select&lt;/f1&gt; tool.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T091650Z" creationid="osvaldo" creationdate="20190222T091650Z">
+        <seg>Sulla barra degli strumenti Disegno (Figura &lt;t0&gt;314&lt;/t0&gt;), fate clic sullo strumento &lt;f1&gt;Seleziona&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60947,6 +60995,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T072649Z">
         <seg>Per impostare le unità di misura e la spaziatura degli intervalli di tabulazione predefiniti, andate in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Writer &gt; Generale&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To set the properties for a drawing object before you draw it:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T091606Z" creationid="osvaldo" creationdate="20190222T091606Z">
+        <seg>Per impostare le proprietà di un oggetto di disegno prima di crearlo:</seg>
       </tuv>
     </tu>
     <tu>
