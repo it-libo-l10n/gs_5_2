@@ -16035,6 +16035,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click anywhere in a free space or press &lt;f0&gt;Esc&lt;/f0&gt; to apply your changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T143945Z" creationid="osvaldo" creationdate="20190222T143945Z">
+        <seg>Fate clic in un'area vuota qualsiasi oppure premete il tasto &lt;f0&gt;Esc&lt;/f0&gt;per applicare le modifiche.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click anywhere in the hyperlink text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T221317Z">
@@ -24324,6 +24332,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T143505Z" creationid="osvaldo" creationdate="20190222T143505Z">
         <seg>Figura &lt;seq0&gt;316&lt;/seq0&gt;: Galleria fontwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;317&lt;/seq0&gt;: Editing Fontwork text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T143734Z" creationid="osvaldo" creationdate="20190222T143734Z">
+        <seg>Figura &lt;seq0&gt; 317 &lt;/seq0&gt;: modifica del testo Fontwork</seg>
       </tuv>
     </tu>
     <tu>
