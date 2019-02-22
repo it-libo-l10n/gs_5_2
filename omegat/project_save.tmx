@@ -66313,6 +66313,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With the objects selected, hover the mouse pointer over one of the objects and choose &lt;f0&gt;Format &gt; Group &gt; Group&lt;/f0&gt; from the Menu bar or right-click and choose &lt;f1&gt;Group &gt; Group&lt;/f1&gt; from the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T142640Z" creationid="osvaldo" creationdate="20190222T142640Z">
+        <seg>Mentre gli oggetti sono selezionati, scegliete &lt;f0&gt;Formato &gt; Raggruppa &gt; Raggruppa&lt;/f0&gt; dalla barra dei menu, oppure, portando il puntatore del mouse su uno degli oggetti, fate clic con il pulsante destro del mouse e scegliete &lt;f1&gt;Raggruppa &gt; Raggruppa&lt;/f1&gt; dal menu a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With the two questions given above in mind, inspect the text to see if a macro can be recorded to format the text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180921T124148Z">
@@ -69085,6 +69093,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T090020Z">
         <seg>Non è possibile importare la libreria Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot include an embedded or linked graphic in a group with drawing objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T142658Z" creationid="osvaldo" creationdate="20190222T142658Z">
+        <seg>In un gruppo di oggetti di disegno non è possibile includere un'immagine incorporata o collegata.</seg>
       </tuv>
     </tu>
     <tu>
