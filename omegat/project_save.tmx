@@ -27496,6 +27496,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information, see the &lt;f0&gt;Draw Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T151045Z" creationid="osvaldo" creationdate="20190222T151045Z">
+        <seg>Per maggiori informazioni consultate la &lt;f0&gt;Guida a Draw&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information, see the &lt;f0&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181203T170606Z" creationid="Elisabetta Manuele" creationdate="20181203T170606Z">
@@ -37637,6 +37645,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180629T105851Z">
         <seg>La barra degli strumenti Stile e riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T151050Z" creationid="osvaldo" creationdate="20190222T151050Z">
+        <seg>Opzioni Linea</seg>
       </tuv>
     </tu>
     <tu>
@@ -51970,6 +51986,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Formatting toolbar provides a large choice of options for customizing your object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T151027Z" creationid="osvaldo" creationdate="20190222T151027Z">
+        <seg>La barra degli strumenti Formattazione offre un'ampia scelta di opzioni per la personalizzazione dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Formula Bar is permanently docked in this position and cannot be used as a floating toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T220021Z">
@@ -56511,6 +56535,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T072915Z">
         <seg>Queste opzioni (&lt;f3&gt;Opzioni di ricerca per il giapponese&lt;/f3&gt;, &lt;f4&gt;Layout asiatico&lt;/f4&gt;, e &lt;f5&gt;Disposizione testo complesso&lt;/f5&gt;) non sono descritte in questo testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These choices are the same as the ones for other drawing objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T151037Z" creationid="osvaldo" creationdate="20190222T151037Z">
+        <seg>Queste opzioni sono le stesse utilizzabili per altri oggetti di disegno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71965,6 +71997,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180825T124946Z">
         <seg>limiti per sommatorie e integrali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>line options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T151055Z" creationid="osvaldo" creationdate="20190222T151055Z">
+        <seg>opzioni linea</seg>
       </tuv>
     </tu>
     <tu>
