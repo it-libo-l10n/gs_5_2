@@ -11273,6 +11273,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An object is resized in a similar way to an image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092457Z" creationid="osvaldo" creationdate="20190222T092457Z">
+        <seg>Il ridimensionamento di un oggetto è simile a quello di un'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An object such as an image is saved as a separate file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T205002Z">
@@ -14647,6 +14655,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181129T174610Z" creationid="Elisabetta Manuele" creationdate="20181129T174610Z">
         <seg>Scegliete un layout predefinito dalla sezione &lt;f0&gt;Layout&lt;/f0&gt; della Barra laterale, ma nessun tipo di contenuto speciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose any properties, as required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092433Z" creationid="osvaldo" creationdate="20190222T092433Z">
+        <seg>Scegliete le proprietà da modificare, secondo le vostre necessità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44505,6 +44521,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resizing a drawing object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092446Z" creationid="osvaldo" creationdate="20190222T092446Z">
+        <seg>Ridimensionare un oggetto di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restart Numbering</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T165924Z">
@@ -47709,6 +47733,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181205T164746Z" creationid="Elisabetta Manuele" creationdate="20181205T164746Z">
         <seg>Selezionate il numero di righe e di colonne desiderato nella successiva finestra di dialogo Inserisci tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the object, click on one of the eight handles around it and drag it to its new size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092528Z" creationid="osvaldo" creationdate="20190222T092528Z">
+        <seg>Selezionate l'oggetto, fate clic su una delle otto maniglie attorno all'oggetto e trascinatela nella sua nuova dimensione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54367,6 +54399,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180913T190434Z">
         <seg>I numeratori e denominatori delle frazioni vengono ristretti, mentre i limiti degli integrali e delle somme vengono posizionati di fianco al segno dell'integrale/somma, &lt;/f17&gt;&lt;f18&gt;come illustrato nell'esempio seguente&lt;/f18&gt;&lt;f19&gt;.&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The object will be scaled up or down.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092641Z" creationid="osvaldo" creationdate="20190222T092641Z">
+        <seg>L'oggetto verrà ingrandito o ridotto</seg>
       </tuv>
     </tu>
     <tu>
