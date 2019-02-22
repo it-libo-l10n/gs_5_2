@@ -27816,6 +27816,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For precise control of the location and size of the object, use the Position and Size areas of the Type tab in the Properties dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T160400Z" creationid="osvaldo" creationdate="20190222T160400Z">
+        <seg>Usate la finestra di dialogo Posizione e dimensione della scheda Tipo nella finestra di dialogo Proprietà per definire in modo preciso la posizione e le dimensioni dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For quick tips, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170257Z">
