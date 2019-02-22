@@ -21408,6 +21408,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing a Fontwork object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T144039Z" creationid="osvaldo" creationdate="20190222T144039Z">
+        <seg>Modifica di un oggetto Fontwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editing a print range</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180813T203504Z">
@@ -70877,6 +70885,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T153837Z">
         <seg>modificare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editing an object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T144020Z" creationid="osvaldo" creationdate="20190222T144020Z">
+        <seg>modificare un oggetto</seg>
       </tuv>
     </tu>
     <tu>
