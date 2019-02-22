@@ -27376,6 +27376,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more sophisticated control of the size of the object, choose &lt;f0&gt;Format &gt; Frame and Object &gt; Properties&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T094657Z" creationid="osvaldo" creationdate="20190222T094657Z">
+        <seg>Per un controllo più sofisticato delle dimensioni dell'oggetto, scegliete &lt;f0&gt;Formato &gt; Cornice e oggetto &gt; Proprietà&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more uses of the Navigator in Writer, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180706T150920Z">
