@@ -2887,6 +2887,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Area&lt;/f0&gt; icon: Opens a dialog with seven tabs: &lt;f1&gt;Area&lt;/f1&gt;, &lt;f2&gt;Shadow&lt;/f2&gt;, &lt;f3&gt;Transparency&lt;/f3&gt;, &lt;f4&gt;Colors&lt;/f4&gt;, &lt;f5&gt;Gradients&lt;/f5&gt;, &lt;f6&gt;Hatching&lt;/f6&gt;, &lt;f7&gt;Bitmaps&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T153444Z" creationid="osvaldo" creationdate="20190222T153444Z">
+        <seg>Icona &lt;f0&gt;Area&lt;/f0&gt;: consente di aprire una finestra di dialogo con sette schede: &lt;/f1&gt;Area&lt;/f1&gt;, &lt;f2&gt;Ombre&lt;/f2&gt;, &lt;f3&gt;Trasparenza&lt;/f3&gt;, &lt;f4&gt;Colori&lt;/f4&gt;, &lt;f5&gt;Sfumature&lt;/f5&gt;, &lt;f6&gt;Tratteggio&lt;/f6&gt;, &lt;f7&gt;Bitmap&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Area&lt;/f0&gt; tab: Choose from the predefined list a color, bitmap, gradient or hatching pattern to fill the selected object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T153505Z" creationid="osvaldo" creationdate="20190222T153505Z">
+        <seg>Scheda &lt;f0&gt;Area&lt;/f0&gt;: consente di scegliere dall'elenco predefinito un colore, un tipo di bitmap, una sfumatura o un tratteggio per riempire l'oggetto selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Arrow Style&lt;/f0&gt; icon: Choose from the different arrow styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T152757Z" creationid="osvaldo" creationdate="20190222T152757Z">
