@@ -279,6 +279,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The toolbar shown in Figure &lt;t0&gt;321&lt;/t0&gt; appears when you use Fontwork in Writer.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150801Z" creationid="osvaldo" creationdate="20190222T150801Z">
+        <seg>(la barra degli strumenti mostrata nella Figura &lt;to&gt;321&lt;/t0&gt; apparirà quando utilizzate Fontwork in Writer).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(There are only two that you need to check.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180919T082011Z">
@@ -24408,6 +24416,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;321&lt;/seq0&gt;: Formatting toolbar for a Fontwork object in Writer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150849Z" creationid="osvaldo" creationdate="20190222T150849Z">
+        <seg>Figura &lt;seq0&gt;321&lt;/seq0&gt;: Barra degli strumenti di formattazione per un oggetto Fontwork in Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;323&lt;/seq0&gt;: Inserting hyperlink using the Navigator</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180924T122832Z">
@@ -34188,6 +34204,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180531T213742Z">
         <seg>In linea di massima, LibreOffice si avvia allo stesso modo in cui, sul vostro computer, avviate qualunque altro programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In its default, docked position it is one of the toolbars located below the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150930Z" creationid="osvaldo" creationdate="20190222T150930Z">
+        <seg>Per impostazione predefinita, quando è ancorata si trova posizionata sotto la barra dei menu, con altre barre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53475,6 +53499,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The example toolbar has also been customized to show all of the available options; by default only a subset of these options is shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150941Z" creationid="osvaldo" creationdate="20190222T150941Z">
+        <seg>La barra degli strumenti nell'esempio è stata personalizzata per mostrare tutte le opzioni disponibili; per impostazione predefinita sono visibili solo alcune delle opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The examples covered in this chapter are created using the macro recorder and the dispatcher.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180923T141258Z">
@@ -57279,6 +57311,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180620T191951Z">
         <seg>Questa area rimane vuota quando il programma si trova in modalità Inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This figure shows the toolbar floating.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150912Z" creationid="osvaldo" creationdate="20190222T150912Z">
+        <seg>La figura mostra la barra degli strumenti mobile.</seg>
       </tuv>
     </tu>
     <tu>
