@@ -10473,6 +10473,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alignment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T091941Z" creationid="osvaldo" creationdate="20190222T091941Z">
+        <seg>Allineamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All Draw objects have glue points, which are not normally displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094631Z">
@@ -11689,6 +11697,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Area Style / Filling</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T091929Z" creationid="osvaldo" creationdate="20190222T091929Z">
+        <seg>Stile di riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrange</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092019Z" creationid="osvaldo" creationdate="20190222T092019Z">
+        <seg>Disponi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arrange the position of an object by moving it either forward or backward in relation to the order of objects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112539Z">
@@ -11733,6 +11757,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184624Z">
         <seg>Disporre, allineare e distribuire gli oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrow Style</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T091951Z" creationid="osvaldo" creationdate="20190222T091951Z">
+        <seg>Stile estremità linea</seg>
       </tuv>
     </tu>
     <tu>
@@ -24220,6 +24252,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062957Z" creationid="osvaldo" creationdate="20190222T062957Z">
         <seg>Figura &lt;seq0&gt;314&lt;/seq0&gt;: barra degli strumenti Disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;315&lt;/seq0&gt;: Drawing Object Properties toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092052Z" creationid="osvaldo" creationdate="20190222T092052Z">
+        <seg>Figura &lt;seq0&gt;315&lt;/seq0&gt;: barra degli strumenti Proprietà oggetto di disegno</seg>
       </tuv>
     </tu>
     <tu>
@@ -37273,6 +37313,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Line Color</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T091957Z" creationid="osvaldo" creationdate="20190222T091957Z">
+        <seg>Colore della linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Line Spacing (choose from 1, 1.15, 1.5, 2, or custom spacing</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180626T154849Z">
@@ -48481,6 +48529,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shadow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092013Z" creationid="osvaldo" creationdate="20190222T092013Z">
+        <seg>Ombreggiatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sharing content between sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T181639Z">
@@ -52719,6 +52775,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T144217Z">
         <seg>L'impostazione predefinita all'apertura di Calc è con le barre degli strumenti Standard e Formattazione agganciate in alto sopra lo spazio di lavoro (Figura &lt;t0&gt;86&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default you set applies to the current document and session.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T092140Z" creationid="osvaldo" creationdate="20190222T092140Z">
+        <seg>I valori predefiniti da voi impostati si applicano al documento e alla sessione corrente.</seg>
       </tuv>
     </tu>
     <tu>
