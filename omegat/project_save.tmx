@@ -29152,6 +29152,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Grouping drawing objects makes it easier to handle several objects as a single entity, while preserving their relative sizes and positions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T122154Z" creationid="osvaldo" creationdate="20190222T122154Z">
+        <seg>Il raggruppamento di più oggetti di disegno ne facilita la gestione come singola entità, mantenendo le loro posizioni e proporzioni relative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Grouping of objects is similar to putting objects into a container.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T144935Z">
@@ -47161,6 +47169,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select one object, then hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and select the others you want to include in the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T122226Z" creationid="osvaldo" creationdate="20190222T122226Z">
+        <seg>Selezionate un oggetto, quindi tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; e selezionate gli altri oggetti che desiderate includere nel gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select one of the buttons at the top left of the Styles and Formatting window to display a list of styles in that category.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180611T161517Z">
@@ -59754,6 +59770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T180944Z" creationid="Elisabetta Manuele" creationdate="20181210T180944Z">
         <seg>Per tornare indietro nella presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To group drawing objects:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T122201Z" creationid="osvaldo" creationdate="20190222T122201Z">
+        <seg>Per raggruppare oggetti di disegno:</seg>
       </tuv>
     </tu>
     <tu>
