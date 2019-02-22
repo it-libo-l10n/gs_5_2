@@ -2871,6 +2871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Area Style / Filling&lt;/f0&gt; boxes: Select the type of the fill of the selected object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T154851Z" creationid="osvaldo" creationdate="20190222T154851Z">
+        <seg>Riquadri &lt;f0&gt;Stile area/Riempimento&lt;/f0&gt;: consentono di scegliere il tipo di riempimento dell'oggetto selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Area:&lt;/f0&gt; Fill and transparency edits are available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180618T143805Z">
@@ -3027,6 +3035,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180920T061713Z">
         <seg>&lt;f0&gt;Bitmap&lt;/f0&gt;: selezionate il disegno bitmap desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Bitmaps&lt;/f0&gt; tab: Create simple bitmap patterns and import bitmaps, to make them available on the Area tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T154805Z" creationid="osvaldo" creationdate="20190222T154805Z">
+        <seg>Scheda &lt;f0&gt;Bitmap&lt;/f0&gt;: consente di creare dei semplici modelli bitmap e di importarne altri per renderli disponibili nella scheda Area.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3380,6 +3396,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180806T055800Z">
         <seg>&lt;f0&gt;ID_Collezione&lt;/f0&gt;: Cambiate &lt;f1&gt;Valore Automatico&lt;/f1&gt; da &lt;f2&gt;No&lt;/f2&gt; a &lt;f3&gt;Sì&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Colors&lt;/f0&gt; tab: Modify the available colors or add new ones to appear on the Area tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T154747Z" creationid="osvaldo" creationdate="20190222T154747Z">
+        <seg>Scheda &lt;f0&gt;Colori&lt;/f0&gt;: permette di modificare i colori disponibili o di aggiungerne di nuovi a quelli che appaiono nella scheda Area.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4576,6 +4600,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Gradients&lt;/f0&gt; tab: Modify the available gradients or add new ones to appear on the Area tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T154753Z" creationid="osvaldo" creationdate="20190222T154753Z">
+        <seg>Scheda &lt;f0&gt;Sfumature&lt;/f0&gt;: consente di modificare le sfumature disponibili o di aggiungerne di nuove a quelle che appaiono nella scheda Area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Granularity.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T184853Z">
@@ -4636,6 +4668,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181007T204502Z" creationid="Alessia Mazzarini" creationdate="20181007T204502Z">
         <seg>Con &lt;f0&gt;Stampati&lt;/f0&gt; le diapositive vengono stampate in dimensioni ridotte sulla pagina, da una a nove diapositive per pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hatching&lt;/f0&gt; tab: Modify the available hatching patterns or add new ones to appear on the Area tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T154759Z" creationid="osvaldo" creationdate="20190222T154759Z">
+        <seg>Scheda &lt;f0&gt;Tratteggio&lt;/f0&gt;&lt;f1&gt;: consente di modificare i modelli di tratteggio disponibili o di aggiungerne di nuovi a quelli che appaiono nella scheda Area.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5952,6 +5992,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Rotate&lt;/f0&gt; icon: Rotate the selected object manually using the mouse to drag the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T154926Z" creationid="osvaldo" creationdate="20190222T154926Z">
+        <seg>Icona &lt;f0&gt;Ruota&lt;/f0&gt;: consente di ruotare manualmente l'oggetto selezionato utilizzando il mouse per trascinarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;S&lt;/f0&gt;&lt;f1&gt;cal&lt;/f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;f3&gt;ble bracket&lt;/f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;can&lt;/f6&gt;&lt;f7&gt; be used with any element &lt;/f7&gt;&lt;f8&gt;of a formula&lt;/f8&gt;&lt;f9&gt;, such as &lt;/f9&gt;&lt;f10&gt;a &lt;/f10&gt;&lt;f11&gt;fraction &lt;/f11&gt;&lt;f12&gt;or&lt;/f12&gt;&lt;f13&gt; sq&lt;/f13&gt;&lt;f14&gt;u&lt;/f14&gt;&lt;f15&gt;are root.&lt;/f15&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180824T110500Z">
@@ -6268,6 +6316,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T150408Z">
         <seg>&lt;f0&gt;Poni su cerchio (inclina)&lt;/f0&gt; crea uno pseudo effetto tridimensionale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Shadow&lt;/f0&gt; tab: Set the shadow properties of the selected object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T154729Z" creationid="osvaldo" creationdate="20190222T154729Z">
+        <seg>Scheda &lt;f0&gt;Ombre&lt;/f0&gt;: consente d'impostare le proprietà dell'ombreggiatura dell'oggetto selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6720,6 +6776,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To Foreground&lt;/f0&gt; icon: Move the selected object in front of the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T154953Z" creationid="osvaldo" creationdate="20190222T154953Z">
+        <seg>Icona &lt;f0&gt;In primo piano&lt;/f0&gt;: permette di spostare l'oggetto selezionato davanti al testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To change the &lt;/f0&gt;&lt;f1&gt;alignment&lt;/f1&gt;&lt;f2&gt; used for &lt;/f2&gt;&lt;f3&gt;the current &lt;/f3&gt;&lt;f4&gt;formula &lt;/f4&gt;&lt;f5&gt;in Math or another LibreOffice module&lt;/f5&gt;&lt;f6&gt;:&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T080803Z">
@@ -6852,6 +6916,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180707T143625Z">
         <seg>&lt;f0&gt;Strumenti&lt;/f0&gt; – contiene diverse funzioni di supporto per il controllo e la personalizzazione del foglio di lavoro; ad esempio, &lt;f1&gt;Controllo ortografico&lt;/f1&gt;, &lt;f2&gt;Condividi documento&lt;/f2&gt;, &lt;f3&gt;Galleria&lt;/f3&gt;, &lt;f4&gt;Macro&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Transparency&lt;/f0&gt; tab: Set the transparency properties of the selected object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T154736Z" creationid="osvaldo" creationdate="20190222T154736Z">
+        <seg>Scheda &lt;f0&gt;Trasparenza&lt;/f0&gt;: consente d'impostare le proprietà della trasparenza dell'oggetto selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27200,6 +27272,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more detailed settings, use the Area icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T154905Z" creationid="osvaldo" creationdate="20190222T154905Z">
+        <seg>Usate l'icona Area per impostazioni più dettagliate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information about text, see&lt;f0&gt; &lt;/f0&gt;Chapter 2, Drawing Basic Shapes, and Chapter 9, Adding and Formatting Text, &lt;f1&gt;in the &lt;/f1&gt;&lt;f2&gt;Draw Guide&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T094549Z">
@@ -43309,6 +43389,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184548Z">
         <seg>Posizionamento degli oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Positioning options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T154918Z" creationid="osvaldo" creationdate="20190222T154918Z">
+        <seg>Opzioni di posizionamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -72669,6 +72757,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180704T102725Z">
         <seg>poligono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>positioning options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T154911Z" creationid="osvaldo" creationdate="20190222T154911Z">
+        <seg>opzioni posizionamento</seg>
       </tuv>
     </tu>
     <tu>
