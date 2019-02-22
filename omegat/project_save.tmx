@@ -34480,6 +34480,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;i0/&gt;Fontwork Gallery (Figure &lt;t1&gt;316&lt;/t1&gt;), select a Fontwork style, then click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T143302Z" creationid="osvaldo" creationdate="20190222T143302Z">
+        <seg>Nella &lt;i0/&gt; Galleria Fontwork (Figura &lt;t1&gt;316&lt;/t1&gt;), seleziona uno stile Fontwork, quindi fai clic su &lt;f2&gt; OK &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Add Tables dialog, use either of these ways to add a table to the Relation Design window:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180910T065748Z">
@@ -41109,6 +41117,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163651Z" creationid="Alessia Mazzarini" creationdate="20181105T163651Z">
         <seg>Nella finestra di dialogo Esporta, specificate un nome file per il documento che state esportando, poi selezionate il formato desiderato nell'elenco &lt;f1&gt;Formato file&lt;/f1&gt; e fate clic sul pulsante &lt;f2&gt;Esporta&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Fontwork toolbar (&lt;f0&gt;View &gt; Toolbars &gt; Fontwork&lt;/f0&gt;) or the Drawing toolbar (&lt;f1&gt;View &gt; Toolbars &gt; Drawing&lt;/f1&gt;), click the Fontwork Gallery icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;, or choose &lt;f4&gt;Insert &gt; Media &gt; FontWork Gallery&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T143114Z" creationid="osvaldo" creationdate="20190222T143114Z">
+        <seg>Sulla barra degli strumenti Fontwork (&lt;f0&gt; Visualizza&gt; Barre degli strumenti&gt; Fontwork &lt;/f0&gt;) o sulla barra degli strumenti Disegno (&lt;f1&gt; Visualizza&gt; Barre degli strumenti&gt; Disegno &lt;/f1&gt;), fare clic sull'icona Galleria Fontwork &lt;df2&gt; &lt;di3/&gt; &lt;/df2&gt;, o scegliere &lt;f4&gt; Inserisci&gt; Media&gt; Galleria FontWork &lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51718,6 +51734,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T160412Z">
         <seg>Il Gestore Estensioni offre un modo semplice per installare collezioni di modelli che sono stati pacchettizzati come estensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Fontwork object will appear in your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T143312Z" creationid="osvaldo" creationdate="20190222T143312Z">
+        <seg>L'oggetto fontwork apparirà nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71165,6 +71189,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180922T124126Z">
         <seg>funzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gallery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T143120Z" creationid="osvaldo" creationdate="20190222T143120Z">
+        <seg>Galleria</seg>
       </tuv>
     </tu>
     <tu>
