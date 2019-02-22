@@ -24360,10 +24360,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;318&lt;/seq0&gt;: The floating Fontwork toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150053Z" creationid="osvaldo" creationdate="20190222T150053Z">
+        <seg>Figura &lt;seq0&gt;318&lt;/seq0&gt;: La barra degli strumenti Fontwork mobile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;319&lt;/seq0&gt;: Fontwork toolbar showing palette of shapes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150157Z" creationid="osvaldo" creationdate="20190222T150157Z">
+        <seg>Figura &lt;seq0&gt;319&lt;/seq0&gt;: Barra degli strumenti Fontwork che mostra una tavolozza di forme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Choosing accessibility options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T155427Z">
         <seg>Figura &lt;seq0&gt;31&lt;/seq0&gt;: opzioni di Accessibilità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;320&lt;/seq0&gt;: Left: normal letters; right: same letter heights</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150313Z" creationid="osvaldo" creationdate="20190222T150313Z">
+        <seg>Figura &lt;seq0&gt;320&lt;/seq0&gt;: A sinistra: lettere normali; a destra: stessa altezza delle lettere</seg>
       </tuv>
     </tu>
     <tu>
@@ -25752,10 +25776,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fontwork &lt;i0/&gt;Alignment: Changes the alignment of characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150328Z" creationid="osvaldo" creationdate="20190222T150328Z">
+        <seg>Allineamento &lt;i0/&gt;fontwork: permette di modificare l'allineamento dei caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fontwork &lt;i0/&gt;Same Letter Heights: Changes the height of characters in the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150229Z" creationid="osvaldo" creationdate="20190222T150229Z">
+        <seg>Lettere di &lt;i0/&gt;uguale altezza fontwork: consente di modificare l'altezza dei caratteri nell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fontwork Gallery</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062905Z" creationid="osvaldo" creationdate="20190222T062905Z">
         <seg>Galleria Fontwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fontwork Shape: Edits the shape of the selected object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150106Z" creationid="osvaldo" creationdate="20190222T150106Z">
+        <seg>Forma fontwork: consente di modificare la forma dell'oggetto selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61895,6 +61943,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Toggles between normal height (some characters taller than others, for example capital letters, d, h, l and others) and all letters the same height.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150242Z" creationid="osvaldo" creationdate="20190222T150242Z">
+        <seg>Permette di passare dall'altezza normale (alcuni caratteri sono più alti degli altri, per esempio le lettere maiuscole, d, h, l e altre) a lettere della stessa altezza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggles row selection, except when the row is in edit mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180828T154841Z">
@@ -67825,6 +67881,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can choose from a palette of shapes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150114Z" creationid="osvaldo" creationdate="20190222T150114Z">
+        <seg>Potete sceglierla tramite una tavolozza delle forme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can choose individual slides, ranges of slides, or selections of slides for printing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181101T112716Z" creationid="Alessia Mazzarini" creationdate="20181007T203026Z">
@@ -69917,6 +69981,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T112449Z">
         <seg>allineare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>alignment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150316Z" creationid="osvaldo" creationdate="20190222T150316Z">
+        <seg>allineamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -72709,6 +72781,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180918T201945Z">
         <seg>eseguire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>same letter heights</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T150207Z" creationid="osvaldo" creationdate="20190222T150207Z">
+        <seg>lettere della stessa altezza</seg>
       </tuv>
     </tu>
     <tu>
