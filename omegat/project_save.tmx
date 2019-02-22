@@ -2759,6 +2759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Address:&lt;/f0&gt; the address pointed to by the hyperlink.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062244Z" creationid="osvaldo" creationdate="20190222T062244Z">
+        <seg>&lt;f0&gt;Indirizzo:&lt;/f0&gt; l'indirizzo a cui punta il collegamento ipertestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Adjusting formula&lt;/f0&gt; alignment</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180909T080134Z">
@@ -4330,8 +4338,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Frame:&lt;/f0&gt; where the target of the hyperlink will open: pick among _blank (opens in a new browser window), _self (opens in the active browser window), _top or _parent.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181007T004935Z" creationid="luke" creationdate="20181007T004935Z">
-        <seg>&lt;f0&gt;Frame:&lt;/f0&gt; where the target of the hyperlink will open: pick among _blank (opens in a new browser window), _self (opens in the active browser window), _top or _parent.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062408Z" creationid="luke" creationdate="20181007T004935Z">
+        <seg>&lt;f0&gt;Frame:&lt;/f0&gt; dove desiderate si apra la destinazione del collegamento ipertestuale: scegliete tra _blank (apertura in una nuova finestra del browser), _self (apertura nella finestra attiva del browser), _top or _parent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6524,6 +6532,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T221725Z">
         <seg>&lt;f0&gt;Testo&lt;/f0&gt; – i dati importati vengono trattati come testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt;: type the text that you want to be displayed when the mouse pointer is moved over the hotspot.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062336Z" creationid="osvaldo" creationdate="20190222T062336Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt;: digitate il testo da mostrare quando il puntatore del mouse passa sopra l'hotspot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12614,6 +12630,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191148Z" creationid="Elisabetta Manuele" creationdate="20181127T191148Z">
         <seg>A partire da LibreOffice 5.1 la Barra a schede delle viste è nascosta per impostazione predefinita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Below the toolbar, specify for the selected hotspot:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062235Z" creationid="osvaldo" creationdate="20190222T062235Z">
+        <seg>Sotto la barra degli strumenti, potete specificare per l'hotspot selezionato:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35800,6 +35824,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is therefore not recommended to use the other choices unless absolutely necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062437Z" creationid="osvaldo" creationdate="20190222T062437Z">
+        <seg>Le altre opzioni sono sconsigliate, a meno che il loro utilizzo non sia strettamente necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is therefore useful to familiarize yourself with them in order to accomplish those tasks quickly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181127T191129Z" creationid="Elisabetta Manuele" creationdate="20181127T191129Z">
@@ -55227,6 +55259,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The value _self for the target frame will usually work just fine.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062427Z" creationid="osvaldo" creationdate="20190222T062427Z">
+        <seg>Il valore _self per il frame di destinazione è normalmente la scelta migliore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The values are called arguments.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180919T202826Z">
@@ -66577,6 +66617,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also group several drawing objects to make sure they maintain their relative position and proportion.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062540Z" creationid="osvaldo" creationdate="20190222T062540Z">
+        <seg>È anche possibile raggruppare più oggetti di disegno per essere sicuri che mantengano la loro posizione e proporzioni relative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also import and export templates.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180615T163850Z">
@@ -66693,6 +66741,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173151Z">
         <seg>È inoltre possibile acquistare contratti di assistenza presso un distributore o una società di consulenza specializzata in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also point to an anchor in a document; to do this, write the address in this format: &lt;f1&gt;file:///&lt;path&gt;/document_name#anchor_name&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062327Z" creationid="osvaldo" creationdate="20190222T062327Z">
+        <seg>È anche possibile puntare a un ancoraggio presente in un documento; è sufficiente scrivere l'indirizzo in questo formato: &lt;f1&gt;file:///&lt;percorso&gt;/nome_documento#nome_ancora&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -68237,6 +68293,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180823T131525Z">
         <seg>È possibile utilizzare LibreOffice senza un dispositivo di puntamento, come un mouse o un touchpad, utilizzando i tasti di scelta rapida integrati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use LibreOffice’s drawing tools to create graphics such as simple diagrams using rectangles, circles, lines, text, and other predefined shapes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062524Z" creationid="osvaldo" creationdate="20190222T062524Z">
+        <seg>È possibile utilizzare gli strumenti di disegno di LibreOffice per creare oggetti grafici come semplici diagrammi, usando rettangoli, cerchi, linee, testo e altre forme predefinite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70045,6 +70109,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T105351Z">
         <seg>oggetti di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>drawing tools</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T062446Z" creationid="osvaldo" creationdate="20190222T062446Z">
+        <seg>strumenti di disegno &lt;s0/&gt;306</seg>
       </tuv>
     </tu>
     <tu>
