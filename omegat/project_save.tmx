@@ -31584,6 +31584,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you also press the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Shift&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; key, the resizing will not keep object proportions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T093225Z" creationid="osvaldo" creationdate="20190222T093225Z">
+        <seg>Se si preme anche il tasto &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;(Maiusc)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, il ridimensionamento non manterrà le proporzioni dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are a system administrator, programmer, or other person who customizes JRE installations, you can use the Parameters and Class Path pages (reached from the Java page) to specify this information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180606T105835Z">
