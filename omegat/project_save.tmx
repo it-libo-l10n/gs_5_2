@@ -29144,6 +29144,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Grouping drawing objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T121855Z" creationid="osvaldo" creationdate="20190222T121855Z">
+        <seg>Raggruppare oggetti di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Grouping of objects is similar to putting objects into a container.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180705T144935Z">
@@ -30924,6 +30932,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20181210T193052Z" creationid="Elisabetta Manuele" creationdate="20181205T164935Z">
         <seg>Se la sezione &lt;f1&gt;Struttura tabella&lt;/f1&gt; non si apre automaticamente dopo l'inserimento o la selezione di una tabella, fate clic sull'icona Proprietà, a lato della Barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the &lt;f2&gt;Keep ratio&lt;/f2&gt; option is selected, then the two dimensions change so that the proportion is maintained, resulting in a scaled resizing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T121844Z" creationid="osvaldo" creationdate="20190222T121844Z">
+        <seg>Se l'opzione &lt;f2&gt;Mantieni rapporto&lt;/f2&gt; è selezionata, le due dimensioni cambiano in modo proporzionale, permettendo un ridimensionamento in scala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62876,6 +62892,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180830T063758Z">
         <seg>Usate la &lt;f1&gt;Freccia giù&lt;/f1&gt; e la &lt;f2&gt;Freccia destra&lt;/f2&gt; per selezionare l'icona della barra strumenti desiderata e premete &lt;f3&gt;Ctrl+Invio&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f1&gt;Type&lt;/f1&gt; tab to set the position and size independently.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T121731Z" creationid="osvaldo" creationdate="20190222T121731Z">
+        <seg>Utilizzare la scheda &lt;f1&gt; Tipo &lt;/ f1&gt; per impostare la posizione e la dimensione in modo indipendente.</seg>
       </tuv>
     </tu>
     <tu>
