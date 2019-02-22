@@ -8953,6 +8953,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A hotspot is identified by a line indicating its shape.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T061905Z" creationid="osvaldo" creationdate="20190222T061905Z">
+        <seg>Un hotspot è identificato da una linea indicante la sua forma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A keyboard layout is normally based on the language used by the operating system but can be changed by the user.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180609T081428Z">
@@ -16569,6 +16577,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180807T085343Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;&gt;&gt;&lt;/f0&gt; per spostare tutti i campi dal riquadro di sinistra a quello di destra, quindi fate clic su &lt;f1&gt;Avanti&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Apply&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; to apply the settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T061819Z" creationid="osvaldo" creationdate="20190222T061819Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Applica&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; per applicare le impostazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53579,6 +53595,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main part of the dialog shows the image on which the hotspots are defined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T061855Z" creationid="osvaldo" creationdate="20190222T061855Z">
+        <seg>L'area principale della finestra di dialogo mostra l'immagine sulla quale vengono definiti gli hotspot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main section of the workspace in Calc displays the &lt;i0/&gt;cells in the form of a grid.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180712T210825Z">
@@ -54975,6 +54999,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="manuel" changedate="20180627T101713Z">
         <seg>Il titolo appare su uno sfondo grigio (che non verrà mostrato durante la stampa e che può essere disattivato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The toolbar at the top of the dialog contains the following tools:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T061917Z" creationid="osvaldo" creationdate="20190222T061917Z">
+        <seg>La barra degli strumenti nella parte superiore della finestra di dialogo contiene i seguenti strumenti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62528,6 +62560,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the tools and fields in the dialog (described below) to define the hotspots and links necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T061741Z" creationid="osvaldo" creationdate="20190222T061741Z">
+        <seg>Usate gli strumenti e i comandi di campo presenti nella finestra di dialogo (descritti di seguito) per definire gli hotspot e i collegamenti necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the up and down arrow buttons to move the menu into the required position.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20180819T062442Z">
@@ -64389,6 +64429,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180812T123321Z">
         <seg>Quando i dati all'interno delle celle sono nascosti, le celle vuote rimangono visibili nel foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When done, click the &lt;f0&gt;Save&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; to save the image map to a file, then click the &lt;f3&gt;X&lt;/f3&gt; in the upper right corner to close the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20190222T061844Z" creationid="osvaldo" creationdate="20190222T061844Z">
+        <seg>Quando avete finito, fate clic sull'icona &lt;f0&gt;Salva&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; per salvare la mappa immagine in un file, quindi fate clic sulla &lt;f3&gt;X&lt;/f3&gt; nell'angolo in alto a destra per chiudere la finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
