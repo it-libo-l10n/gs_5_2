@@ -4698,8 +4698,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Handouts&lt;/f0&gt; prints the slides in reduced size on the page, from one to nine slides per page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190410T201616Z" creationid="Alessia Mazzarini" creationdate="20181007T204502Z">
-        <seg>Con &lt;f0&gt;Stampati&lt;/f0&gt; le diapositive vengono stampate sulla pagina in dimensioni ridotte, da una a nove diapositive per pagina.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190410T202011Z" creationid="Alessia Mazzarini" creationdate="20181007T204502Z">
+        <seg>Con l'opzione &lt;f0&gt;Stampati&lt;/f0&gt; le diapositive vengono stampate sulla pagina in dimensioni ridotte, da una a nove diapositive per pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5578,8 +5578,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Notes&lt;/f0&gt; prints a single slide per page with any notes entered for that slide in Notes View.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190410T202000Z" creationid="Alessia Mazzarini" creationdate="20181007T204651Z">
-        <seg>Con &lt;f0&gt;Note&lt;/f0&gt; viene stampata una singola diapositiva per pagina, includendo qualsiasi nota inserita in Visualizzazione Note per quella diapositiva.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190410T202023Z" creationid="Alessia Mazzarini" creationdate="20181007T204651Z">
+        <seg>Con l'opzione &lt;f0&gt;Note&lt;/f0&gt; viene stampata una singola diapositiva per pagina, includendo qualsiasi nota inserita in Visualizzazione Note per quella diapositiva.</seg>
       </tuv>
     </tu>
     <tu>
