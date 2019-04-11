@@ -3786,8 +3786,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Display document title.&lt;/f0&gt; Causes the PDF viewer to display the document’s title in the title bar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221812Z" creationid="Alessia Mazzarini" creationdate="20181104T221812Z">
-        <seg>&lt;f0&gt;Visualizza titolo documento.&lt;/f0&gt; Fa sì che il visualizzatore di PDF mostri il titolo del documento nella barra del titolo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T103038Z" creationid="Alessia Mazzarini" creationdate="20181104T221812Z">
+        <seg>&lt;f0&gt;Mostra titolo documento.&lt;/f0&gt; Fa sì che il visualizzatore di PDF mostri il titolo del documento nella barra del titolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4762,8 +4762,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hide window controls.&lt;/f0&gt; Causes the PDF viewer to hide other window controls.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221933Z" creationid="Alessia Mazzarini" creationdate="20181104T221933Z">
-        <seg>&lt;f0&gt;Nascondi controlli finestra.&lt;/f0&gt; Fa sì che il visualizzatore di PDF nasconda altri controlli finestra.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T103205Z" creationid="Alessia Mazzarini" creationdate="20181104T221933Z">
+        <seg>&lt;f0&gt;Nascondi campi di controllo della finestra.&lt;/f0&gt; Fa sì che il visualizzatore di PDF nasconda altri controlli finestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5946,8 +5946,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Resize window to initial page.&lt;/f0&gt; Causes the PDF viewer window to resize to fit the first page of the PDF.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221734Z" creationid="Alessia Mazzarini" creationdate="20181104T221734Z">
-        <seg>&lt;f0&gt;Ridimensiona finestra a pagina iniziale.&lt;/f0&gt; Fa sì che il visualizzatore di PDF ridimensioni la finestra adattandola alla prima pagina del file PDF.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T102941Z" creationid="Alessia Mazzarini" creationdate="20181104T221734Z">
+        <seg>&lt;f0&gt;Ridimensiona finestra in base a pagina iniziale.&lt;/f0&gt; Fa sì che il visualizzatore di PDF ridimensioni la finestra adattandola alla prima pagina del file PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64106,8 +64106,8 @@
       <tuv lang="EN">
         <seg>User interface options section</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T221850Z" creationid="Alessia Mazzarini" creationdate="20181104T221850Z">
-        <seg>Sezione Opzioni interfaccia utente</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T103114Z" creationid="Alessia Mazzarini" creationdate="20181104T221850Z">
+        <seg>Sezione Opzioni dell'interfaccia utente</seg>
       </tuv>
     </tu>
     <tu>
