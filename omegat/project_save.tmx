@@ -12628,8 +12628,8 @@
       <tuv lang="EN">
         <seg>Back on the Select address list page, click &lt;f0&gt;Next&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164908Z" creationid="Alessia Mazzarini" creationdate="20181105T164908Z">
-        <seg>Una volta tornati alla pagina di selezione dell'elenco indirizzi, fate clic su &lt;f0&gt;Avanti&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T113731Z" creationid="Alessia Mazzarini" creationdate="20181105T164908Z">
+        <seg>Una volta tornati alla pagina di selezione dell'elenco indirizzi, fate clic su &lt;f0&gt;Successivo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41803,8 +41803,8 @@
       <tuv lang="EN">
         <seg>On the first page of the wizard, select &lt;f1&gt;Use the current document&lt;/f1&gt; and click &lt;f2&gt;Next&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164728Z" creationid="Alessia Mazzarini" creationdate="20181105T164728Z">
-        <seg>Sulla prima pagina della procedura guidata, selezionate &lt;f1&gt;Usa il documento attivo&lt;/f1&gt; e fate clic su &lt;f2&gt;Avanti&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T113516Z" creationid="Alessia Mazzarini" creationdate="20181105T164728Z">
+        <seg>Sulla prima pagina della procedura guidata, selezionate &lt;f1&gt;Usa il documento attivo&lt;/f1&gt; e fate clic su &lt;f2&gt;Successivo&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41867,8 +41867,8 @@
       <tuv lang="EN">
         <seg>On the second page, select &lt;f0&gt;E-mail message&lt;/f0&gt; and click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164757Z" creationid="Alessia Mazzarini" creationdate="20181105T164757Z">
-        <seg>Sulla seconda pagina, selezionate &lt;f0&gt;Messaggio e-mail&lt;/f0&gt; e fate clic su &lt;f1&gt;Avanti&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T113611Z" creationid="Alessia Mazzarini" creationdate="20181105T164757Z">
+        <seg>Sulla seconda pagina, selezionate &lt;f0&gt;Messaggio e-mail&lt;/f0&gt; e fate clic su &lt;f1&gt;Successivo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
