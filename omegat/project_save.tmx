@@ -41923,8 +41923,8 @@
       <tuv lang="EN">
         <seg>Once opened, there are no restrictions on what the user can do with the document (for example, print, copy, or change it).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223709Z" creationid="Alessia Mazzarini" creationdate="20181104T223709Z">
-        <seg>Una volta aperto il file, non esistono restrizioni su cosa può fare l'utente sul documento (per esempio stamparlo, copiarlo o cambiarlo).</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T105301Z" creationid="Alessia Mazzarini" creationdate="20181104T223709Z">
+        <seg>Una volta aperto, non ci sono restrizioni sull'uso che l'utente può fare del documento (per esempio stamparlo, copiarlo o modificarlo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -67027,8 +67027,8 @@
       <tuv lang="EN">
         <seg>With an &lt;f0&gt;open password&lt;/f0&gt; set, the PDF can only be opened with the &lt;i1/&gt;password&lt;i2/&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223655Z" creationid="Alessia Mazzarini" creationdate="20181104T223655Z">
-        <seg>Impostando una &lt;f0&gt;password di apertura&lt;/f0&gt;, il documento può essere aperto solamente con la &lt;i1/&gt;password&lt;i2/&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T105142Z" creationid="Alessia Mazzarini" creationdate="20181104T223655Z">
+        <seg>Impostando una &lt;f0&gt;password di apertura&lt;/f0&gt;, il PDF può essere aperto solamente con la &lt;i1/&gt;password&lt;i2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
