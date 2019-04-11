@@ -27306,8 +27306,8 @@
       <tuv lang="EN">
         <seg>For more control over the content and quality of the resulting PDF, use &lt;f0&gt;File &gt; Export as PDF&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T082736Z" creationid="Alessia Mazzarini" creationdate="20181011T171859Z">
-        <seg>Per un maggior controllo sul contenuto e sulla qualità del documento PDF risultante, utilizzate &lt;f0&gt;File &gt; Esporta nel formato PDF&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T083522Z" creationid="Alessia Mazzarini" creationdate="20181011T171859Z">
+        <seg>Per un maggior controllo sul contenuto e sulla qualità del documento PDF risultante, utilizzate &lt;f0&gt;File &gt; Esporta come &gt; Esporta nel formato PDF&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
