@@ -3474,8 +3474,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Create &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;PDF form – Submit format:&lt;/f2&gt; Choose the format of submitting forms from within the PDF file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T202544Z" creationid="Alessia Mazzarini" creationdate="20181104T202544Z">
-        <seg>&lt;f0&gt;Crea &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;formulario PDF – Invio formato:&lt;/f2&gt; Scegliete il formato per l'invio dei formulari dal file PDF.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T094808Z" creationid="Alessia Mazzarini" creationdate="20181104T202544Z">
+        <seg>&lt;f0&gt;Crea &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;formulario PDF – Formato di invio dati:&lt;/f2&gt; scegliete il formato per l'invio dei formulari dal file PDF.</seg>
       </tuv>
     </tu>
     <tu>
