@@ -33714,8 +33714,8 @@
       <tuv lang="EN">
         <seg>In &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Security &gt; Options&lt;/f0&gt;, you can set LibreOffice to remind (warn) you when files contain certain information and remove personal information automatically on saving.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T184542Z" creationid="Alessia Mazzarini" creationdate="20181111T184542Z">
-        <seg>In &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Sicurezza &gt; Opzioni&lt;/f0&gt;, potete impostare LibreOffice in modo da essere avvisati quando i file contengono determinate informazioni ed eliminare le informazioni personali automaticamente durante il salvataggio.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T125836Z" creationid="Alessia Mazzarini" creationdate="20181111T184542Z">
+        <seg>In &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Sicurezza &gt; Opzioni&lt;/f0&gt;, potete impostare LibreOffice in modo dche vi avvisi quando i file contengono certe informazioni e che cancelli automaticamente le informazioni personali durante il salvataggio.</seg>
       </tuv>
     </tu>
     <tu>
