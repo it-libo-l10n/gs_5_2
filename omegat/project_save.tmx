@@ -3682,8 +3682,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Default mode&lt;/f0&gt;: The PDF links will be handled as specified in your operating system.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T223235Z" creationid="Alessia Mazzarini" creationdate="20181104T223222Z">
-        <seg>&lt;f0&gt;Modalità predefinita&lt;/f0&gt;: i collegamenti PDF saranno trattati come specificato nel vostro sistema operativo.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T104701Z" creationid="Alessia Mazzarini" creationdate="20181104T223222Z">
+        <seg>&lt;f0&gt;Modo predefinito&lt;/f0&gt;: i collegamenti PDF saranno trattati come specificato nel vostro sistema operativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5698,8 +5698,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Open with Internet browser&lt;/f0&gt;: Use the default Internet browser to display linked PDF documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181110T181627Z" creationid="Alessia Mazzarini" creationdate="20181104T223334Z">
-        <seg>&lt;f0&gt;Apri con il browser internet&lt;/f0&gt;: utilizza il browser Internet predefinito per la visualizzazione dei documenti PDF collegati.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T104732Z" creationid="Alessia Mazzarini" creationdate="20181104T223334Z">
+        <seg>&lt;f0&gt;Apri col browser internet&lt;/f0&gt;: utilizza il browser Internet predefinito per la visualizzazione dei documenti PDF collegati.</seg>
       </tuv>
     </tu>
     <tu>
