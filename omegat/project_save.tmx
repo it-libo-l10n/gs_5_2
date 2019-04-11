@@ -21314,8 +21314,8 @@
       <tuv lang="EN">
         <seg>EPS images without embedded previews are exported as empty placeholders.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T180805Z" creationid="Alessia Mazzarini" creationdate="20181104T180805Z">
-        <seg>Le immagini EPS senza anteprima sono esportate come segnaposti vuoti.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T094244Z" creationid="Alessia Mazzarini" creationdate="20181104T180805Z">
+        <seg>Le immagini EPS senza anteprima vengono esportate come segnaposti vuoti.</seg>
       </tuv>
     </tu>
     <tu>
