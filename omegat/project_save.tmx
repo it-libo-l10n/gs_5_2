@@ -47683,8 +47683,8 @@
       <tuv lang="EN">
         <seg>Select how many heading levels are displayed as bookmarks, if &lt;f0&gt;Export bookmarks&lt;/f0&gt; is selected on the General page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T222016Z" creationid="Alessia Mazzarini" creationdate="20181104T222016Z">
-        <seg>Selezionate quanti livelli di intestazione devono essere visualizzati come segnalibri, se &lt;f0&gt;Esporta segnalibri&lt;/f0&gt; è selezionato sulla scheda Generale.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T103624Z" creationid="Alessia Mazzarini" creationdate="20181104T222016Z">
+        <seg>Permette di selezionare quanti livelli di intestazione vengono visualizzati come segnalibri, se l'opzione &lt;f0&gt;Esporta segnalibri&lt;/f0&gt; è selezionata sulla scheda Generale.</seg>
       </tuv>
     </tu>
     <tu>
