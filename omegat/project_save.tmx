@@ -4082,8 +4082,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Export automatically inserted &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;blank pages&lt;/f2&gt;: If selected, automatically inserted blank pages are exported to the PDF.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213139Z" creationid="Alessia Mazzarini" creationdate="20181104T213139Z">
-        <seg>&lt;f0&gt;Esporta pagine vuote inserite &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;automaticamente&lt;/f2&gt;: se l'opzione è selezionata, le pagine vuote inserite automaticamente vengono esportate in PDF.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T101301Z" creationid="Alessia Mazzarini" creationdate="20181104T213139Z">
+        <seg>&lt;f0&gt;Esporta pagine vuote inserite &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;automaticamente&lt;/f2&gt;: se l'opzione è selezionata, le pagine vuote inserite automaticamente vengono esportate nel PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70171,8 +70171,8 @@
       <tuv lang="EN">
         <seg>You may not want this!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181104T213054Z" creationid="Alessia Mazzarini" creationdate="20181104T213054Z">
-        <seg>Forse non desiderate questo!</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T101158Z" creationid="Alessia Mazzarini" creationdate="20181104T213054Z">
+        <seg>Forse non è questo quello che volete ottenere.</seg>
       </tuv>
     </tu>
     <tu>
