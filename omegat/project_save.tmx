@@ -66291,8 +66291,8 @@
       <tuv lang="EN">
         <seg>When you apply &lt;i0/&gt;a digital signature to a document, a kind of checksum is computed from the document’s content plus your personal key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181111T185625Z" creationid="Alessia Mazzarini" creationdate="20181105T174438Z">
-        <seg>Quando apponete una &lt;i0/&gt;firma digitale a un documento, viene calcolata una specie di somma di controllo (checksum), utilizzando il contenuto del documento e la vostra chiave personale.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T121154Z" creationid="Alessia Mazzarini" creationdate="20181105T174438Z">
+        <seg>Quando applicate una &lt;i0/&gt;firma digitale a un documento, viene calcolata una specie di somma di controllo (checksum), utilizzando il contenuto del documento e la vostra chiave personale.</seg>
       </tuv>
     </tu>
     <tu>
