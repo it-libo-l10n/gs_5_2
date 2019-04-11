@@ -35098,8 +35098,8 @@
       <tuv lang="EN">
         <seg>In the Select Certificate dialog, select your certificate and click &lt;f0&gt;OK&lt;/f0&gt; to return to the Digital Signatures dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T180054Z" creationid="Alessia Mazzarini" creationdate="20181105T180054Z">
-        <seg>Nella finestra di dialogo Seleziona certificato, selezionate il vostro certificato e fate clic su &lt;f0&gt;OK&lt;/f0&gt; per tornare alla finestra di dialogo Firme digitali.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T123110Z" creationid="Alessia Mazzarini" creationdate="20181105T180054Z">
+        <seg>Nella finestra di dialogo Seleziona certificato, selezionate il vostro certificato e fate clic su &lt;f0&gt;Firma&lt;/f0&gt; per tornare alla finestra di dialogo Firme digitali.</seg>
       </tuv>
     </tu>
     <tu>
