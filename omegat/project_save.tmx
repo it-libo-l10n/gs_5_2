@@ -41635,8 +41635,8 @@
       <tuv lang="EN">
         <seg>On the Export dialog, specify a file name for the exported document, then select the required format in the &lt;f1&gt;File format&lt;/f1&gt; list and click the &lt;f2&gt;Export&lt;/f2&gt; button.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163651Z" creationid="Alessia Mazzarini" creationdate="20181105T163651Z">
-        <seg>Nella finestra di dialogo Esporta, specificate un nome file per il documento che state esportando, poi selezionate il formato desiderato nell'elenco &lt;f1&gt;Formato file&lt;/f1&gt; e fate clic sul pulsante &lt;f2&gt;Esporta&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T112707Z" creationid="Alessia Mazzarini" creationdate="20181105T163651Z">
+        <seg>Nella finestra di dialogo Esporta, specificate un nome file per il documento che state esportando, poi selezionate il formato desiderato nell'elenco &lt;f1&gt;Salva come&lt;/f1&gt; e fate clic sul pulsante &lt;f2&gt;Salva&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
