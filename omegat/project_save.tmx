@@ -14693,8 +14693,8 @@
       <tuv lang="EN">
         <seg>Choose &lt;f0&gt;File &gt; Send &gt; Document as E-mail&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T163827Z" creationid="Alessia Mazzarini" creationdate="20181105T163827Z">
-        <seg>Scegliete &lt;f0&gt;File &gt; Invia &gt; Documento come e-mail&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T112941Z" creationid="Alessia Mazzarini" creationdate="20181105T163827Z">
+        <seg>Scegliete &lt;f0&gt;File &gt; Invia &gt; Documento allegato alla e-mail&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49587,8 +49587,8 @@
       <tuv lang="EN">
         <seg>Similarly, if you choose &lt;f0&gt;E-mail as PDF&lt;/f0&gt;, LibreOffice first creates a PDF using your default PDF settings (as when using the &lt;f1&gt;Export Directly as PDF&lt;/f1&gt; toolbar button) and then opens your email program with the PDF file attached.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20181105T164208Z" creationid="Alessia Mazzarini" creationdate="20181105T164208Z">
-        <seg>Allo stesso modo, se scegliete &lt;f0&gt;E-mail come PDF&lt;/f0&gt;, LibreOffice creerà prima un PDF usando le vostre impostazioni PDF predefinite (le stesse che vengono usate con il pulsante &lt;f1&gt;Esporta direttamente come file PDF&lt;/f1&gt;) e poi aprirà il vostro programma di posta, allegando il file PDF.</seg>
+      <tuv lang="IT-IT" changeid="Alessia Mazzarini" changedate="20190411T113046Z" creationid="Alessia Mazzarini" creationdate="20181105T164208Z">
+        <seg>Allo stesso modo, se scegliete &lt;f0&gt;E-mail come PDF&lt;/f0&gt;, LibreOffice creerà prima un PDF usando le vostre impostazioni PDF predefinite (le stesse che vengono usate con il pulsante &lt;f1&gt;Esporta direttamente in PDF&lt;/f1&gt;) e poi aprirà il vostro programma di posta, allegando il file PDF.</seg>
       </tuv>
     </tu>
     <tu>
