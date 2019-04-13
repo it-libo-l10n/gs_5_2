@@ -38483,8 +38483,8 @@
       <tuv lang="EN">
         <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; page is selected, then select &lt;f1&gt;Date&lt;/f1&gt; or &lt;f2&gt;Time&lt;/f2&gt; from the &lt;f3&gt;Category&lt;/f3&gt; list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180804T182007Z">
-        <seg>Assicuratevi che sia attiva la scheda &lt;f0&gt;Numeri&lt;/f0&gt;, quindi selezionate &lt;f1&gt;Data&lt;/f1&gt; nell'elenco delle &lt;f2&gt;Categorie&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190413T095804Z">
+        <seg>Assicuratevi che la scheda &lt;f0&gt;Numeri&lt;/f0&gt; sia attiva, quindi selezionate &lt;f1&gt;Data&lt;/f1&gt; oppure &lt;f2&gt;Orario&lt;/f2&gt; nell'elenco delle &lt;f3&gt;Categorie&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
