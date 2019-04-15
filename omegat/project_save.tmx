@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3818,8 +3818,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190413T095122Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;La documentazione per LibreOffice è disponibile all'indirizzo &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;https://it.libreoffice.org/supporto/documentazione/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190415T065714Z">
+        <seg>&lt;f0&gt;La documentazione per LibreOffice è disponibile all'indirizzo &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57637,8 +57637,8 @@
       <tuv lang="EN">
         <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2017&lt;/f1&gt; by &lt;f2&gt;the LibreOffice Documentation Team.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T164502Z">
-        <seg>Il presente documento è protetto da Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2017&lt;/f1&gt; dei &lt;f2&gt;collaboratori di LibreOffice Documentation Team.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190415T065849Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaIl presente documento è protetto da Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2017&lt;/f1&gt; dei &lt;f2&gt;collaboratori di LibreOffice Documentation Team.</seg>
       </tuv>
     </tu>
     <tu>
