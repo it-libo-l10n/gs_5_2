@@ -10891,8 +10891,8 @@
       <tuv lang="EN">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T072631Z">
-        <seg>Tutti i marchi registrati citati in questo documento appartengono ai legittimi proprietari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190416T071748Z">
+        <seg>aaaaaaaaaaaaaaaaaTutti i marchi registrati citati in questo documento appartengono ai legittimi proprietari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13373,8 +13373,8 @@
       <tuv lang="EN">
         <seg>C&lt;/f2&gt;ontributors a&lt;f3&gt;re&lt;/f3&gt; listed below.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T164540Z">
-        <seg>I c&lt;/f2&gt;ollaboratori s&lt;f3&gt;ono&lt;/f3&gt; elencati di seguito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190416T071147Z">
+        <seg>I &lt;/f2&gt;collaboratori &lt;f3&gt;sono&lt;/f3&gt; elencati di seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57637,8 +57637,8 @@
       <tuv lang="EN">
         <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2017&lt;/f1&gt; by &lt;f2&gt;the LibreOffice Documentation Team.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190415T065849Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaIl presente documento è protetto da Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2017&lt;/f1&gt; dei &lt;f2&gt;collaboratori di LibreOffice Documentation Team.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190416T070938Z">
+        <seg>Il presente documento è rilasciato sotto Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2017&lt;/f1&gt; del &lt;f2&gt;LibreOffice Documentation Team.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70099,8 +70099,8 @@
       <tuv lang="EN">
         <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a4&gt;http://www.gnu.org/licenses/gpl.html&lt;/a4&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a5&gt;&lt;f6&gt;http://creativecommons.org/licenses/by/4.0/&lt;/f6&gt;&lt;/a5&gt;), version &lt;f7&gt;4&lt;/f7&gt;.0 or later.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T170026Z">
-        <seg>È comunque possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (&lt;a4&gt;http://www.gnu.org/licenses/gpl.html&lt;/a4&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a5&gt;&lt;f6&gt;http://creativecommons.org/licenses/by/4.0/&lt;/f6&gt;&lt;/a5&gt;), versione &lt;f7&gt;4&lt;/f7&gt;.0 o successiva.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190416T071739Z">
+        <seg>È possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (&lt;a4&gt;http://www.gnu.org/licenses/gpl.html&lt;/a4&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a5&gt;&lt;f6&gt;http://creativecommons.org/licenses/by/4.0/&lt;/f6&gt;&lt;/a5&gt;), versione &lt;f7&gt;4&lt;/f7&gt;.0 o successiva.</seg>
       </tuv>
     </tu>
     <tu>
