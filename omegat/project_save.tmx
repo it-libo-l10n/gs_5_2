@@ -5882,8 +5882,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Published &lt;/f0&gt;&lt;f1&gt;16 February&lt;/f1&gt;&lt;f2&gt; 201&lt;/f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173241Z">
-        <seg>&lt;f0&gt;Pubblicato &lt;/f0&gt;&lt;f1&gt;il 16 febbraio&lt;/f1&gt;&lt;f2&gt; 201&lt;/f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190419T070615Z">
+        <seg>aaaaaaaaaaaaaaaaaaaa&lt;f0&gt;Pubblicato &lt;/f0&gt;&lt;f1&gt;il 16 febbraio&lt;/f1&gt;&lt;f2&gt; 201&lt;/f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44267,8 +44267,8 @@
       <tuv lang="EN">
         <seg>Publication date and software version</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190419T070352Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaData di pubblicazione e versione del software</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190419T070604Z">
+        <seg>Data di pubblicazione e versione del software</seg>
       </tuv>
     </tu>
     <tu>
