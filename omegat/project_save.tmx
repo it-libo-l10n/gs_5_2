@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5882,8 +5882,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Published &lt;/f0&gt;&lt;f1&gt;16 February&lt;/f1&gt;&lt;f2&gt; 201&lt;/f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190419T070615Z">
-        <seg>aaaaaaaaaaaaaaaaaaaa&lt;f0&gt;Pubblicato &lt;/f0&gt;&lt;f1&gt;il 16 febbraio&lt;/f1&gt;&lt;f2&gt; 201&lt;/f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190420T074147Z">
+        <seg>&lt;f0&gt;Pubblicato &lt;/f0&gt;&lt;f1&gt;il 16 Febbraio&lt;/f1&gt;&lt;f2&gt; 201&lt;/f2&gt;&lt;f3&gt;7&lt;/f3&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64290,8 +64290,8 @@
       <tuv lang="EN">
         <seg>Using LibreOffice on a Mac</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173519Z">
-        <seg>Uso di LibreOffice su Mac</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190420T074640Z">
+        <seg>Utilizzo di LibreOffice su Mac</seg>
       </tuv>
     </tu>
     <tu>
@@ -66731,8 +66731,8 @@
       <tuv lang="EN">
         <seg>Where to get more help</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173440Z">
-        <seg>Per ottenere assistenza</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190420T074531Z">
+        <seg>Dove ottenere ulteriore aiuto</seg>
       </tuv>
     </tu>
     <tu>
