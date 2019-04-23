@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22530,8 +22530,8 @@
       <tuv lang="EN">
         <seg>Extensions and add-ons</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180528T191641Z">
-        <seg>Estensioni e componenti aggiuntivi</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T070202Z">
+        <seg>aaaaaaaaaaaaaaaEstensioni e componenti aggiuntivi</seg>
       </tuv>
     </tu>
     <tu>
@@ -65459,8 +65459,8 @@
       <tuv lang="EN">
         <seg>What is LibreOffice?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T173838Z">
-        <seg>Che cos'è LibreOffice</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T065946Z">
+        <seg>Cos'è LibreOffice?</seg>
       </tuv>
     </tu>
     <tu>
@@ -65523,8 +65523,8 @@
       <tuv lang="EN">
         <seg>What’s new in LibreOffice 5.2?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190420T074835Z">
-        <seg>aaaaaaaaaaaaaaaaaaaNovità in LibreOffice 5.2</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T065827Z">
+        <seg>Novità in LibreOffice 5.2</seg>
       </tuv>
     </tu>
     <tu>
