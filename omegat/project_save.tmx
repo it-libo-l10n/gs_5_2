@@ -1201,8 +1201,8 @@
       <tuv lang="EN">
         <seg>31</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190425T095646Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaa31</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T084807Z">
+        <seg>31</seg>
       </tuv>
     </tu>
     <tu>
@@ -1369,8 +1369,8 @@
       <tuv lang="EN">
         <seg>35</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175432Z">
-        <seg>35</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T085410Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaaa35</seg>
       </tuv>
     </tu>
     <tu>
@@ -15061,8 +15061,8 @@
       <tuv lang="EN">
         <seg>Choosing Open and Save As dialogs</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T174153Z">
-        <seg>Finestre di dialogo Apri e Salva come</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T085017Z">
+        <seg>Scelta delle finestre di dialogo Apri e Salva con nome</seg>
       </tuv>
     </tu>
     <tu>
@@ -18000,8 +18000,8 @@
       <tuv lang="EN">
         <seg>Closing LibreOffice</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T133559Z">
-        <seg>Chiudere LibreOffice</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T085254Z">
+        <seg>Chiusura di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -63081,8 +63081,8 @@
       <tuv lang="EN">
         <seg>Undoing and redoing changes</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T130243Z">
-        <seg>Annullare e ripristinare le modifiche</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T085113Z">
+        <seg>Annullamento e ripristino delle modifiche</seg>
       </tuv>
     </tu>
     <tu>
@@ -64698,8 +64698,8 @@
       <tuv lang="EN">
         <seg>Using the Navigator</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20180623T124348Z">
-        <seg>Usare il Navigatore</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T085045Z">
+        <seg>Uso del Navigatore</seg>
       </tuv>
     </tu>
     <tu>
