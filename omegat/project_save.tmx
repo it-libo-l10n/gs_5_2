@@ -1609,8 +1609,8 @@
       <tuv lang="EN">
         <seg>62</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190430T065620Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaa62</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190502T065911Z">
+        <seg>62</seg>
       </tuv>
     </tu>
     <tu>
@@ -1625,8 +1625,8 @@
       <tuv lang="EN">
         <seg>64</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175740Z">
-        <seg>64</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190502T070012Z">
+        <seg>aaaaaaaaaaaaaaaaaaaa64</seg>
       </tuv>
     </tu>
     <tu>
@@ -65483,7 +65483,7 @@
       <tuv lang="EN">
         <seg>What is a template?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175714Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190502T065959Z">
         <seg>Definizione di modello</seg>
       </tuv>
     </tu>
