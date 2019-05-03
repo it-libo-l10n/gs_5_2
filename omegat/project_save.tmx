@@ -1625,8 +1625,8 @@
       <tuv lang="EN">
         <seg>64</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190502T070012Z">
-        <seg>aaaaaaaaaaaaaaaaaaaa64</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190503T065500Z">
+        <seg>64</seg>
       </tuv>
     </tu>
     <tu>
@@ -1649,7 +1649,7 @@
       <tuv lang="EN">
         <seg>70</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175825Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190503T065729Z">
         <seg>70</seg>
       </tuv>
     </tu>
@@ -1657,8 +1657,8 @@
       <tuv lang="EN">
         <seg>71</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175838Z">
-        <seg>71</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190503T065756Z">
+        <seg>aaaaaaaaaaaaaaaaaaa71</seg>
       </tuv>
     </tu>
     <tu>
@@ -11899,8 +11899,8 @@
       <tuv lang="EN">
         <seg>Applying styles</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180611T145819Z">
-        <seg>Applicare gli stili</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190503T065542Z">
+        <seg>Applicazione degli stili</seg>
       </tuv>
     </tu>
     <tu>
@@ -18865,8 +18865,8 @@
       <tuv lang="EN">
         <seg>Creating new (custom) styles</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175802Z">
-        <seg>Creare stili personalizzati</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190503T065622Z">
+        <seg>Creazione di nuovi stili personalizzati</seg>
       </tuv>
     </tu>
     <tu>
@@ -19929,8 +19929,8 @@
       <tuv lang="EN">
         <seg>Deleting styles</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180614T084746Z">
-        <seg>Eliminare gli stili</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190503T065719Z">
+        <seg>Eliminazione degli stili</seg>
       </tuv>
     </tu>
     <tu>
@@ -39331,8 +39331,8 @@
       <tuv lang="EN">
         <seg>Modifying styles</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180612T154358Z">
-        <seg>Modificare gli stili</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190503T065523Z">
+        <seg>Modifica degli stili</seg>
       </tuv>
     </tu>
     <tu>
@@ -64370,8 +64370,8 @@
       <tuv lang="EN">
         <seg>Using a template to create a document</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T175836Z">
-        <seg>Usare un modello per creare un documento</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190503T065753Z">
+        <seg>Uso di un modello per creare un documento</seg>
       </tuv>
     </tu>
     <tu>
