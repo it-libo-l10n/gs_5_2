@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1689,8 +1689,8 @@
       <tuv lang="EN">
         <seg>76</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190505T094204Z">
-        <seg>aaaaaaaaaaaaaaaaaa76</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T085659Z">
+        <seg>76</seg>
       </tuv>
     </tu>
     <tu>
@@ -1745,8 +1745,8 @@
       <tuv lang="EN">
         <seg>89</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180216Z">
-        <seg>89</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T090450Z">
+        <seg>aaaaaaaaaaaaaaaaaaaa89</seg>
       </tuv>
     </tu>
     <tu>
@@ -14325,8 +14325,8 @@
       <tuv lang="EN">
         <seg>Chapter 4 Getting Started with Writer</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180024Z">
-        <seg>Capitolo 4 Guida introduttiva a Writer</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T090023Z">
+        <seg>Capitolo 4 Introduzione a Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -42795,8 +42795,8 @@
       <tuv lang="EN">
         <seg>Organizing templates</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="manuel" changedate="20180615T162851Z">
-        <seg>Gestire i modelli</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T085717Z">
+        <seg>Gestione dei modelli</seg>
       </tuv>
     </tu>
     <tu>
@@ -64402,8 +64402,8 @@
       <tuv lang="EN">
         <seg>Using built-in language tools</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T180204Z">
-        <seg>Utilizzo degli strumenti per la lingua integrati</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T090428Z">
+        <seg>Uso degli strumenti integrati per la lingua</seg>
       </tuv>
     </tu>
     <tu>
