@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28698,8 +28698,8 @@
       <tuv lang="EN">
         <seg>Glue points and connectors</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184442Z">
-        <seg>Punti di incollaggio e connettori</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T065233Z">
+        <seg>aaaaaaaaaaaaaaaaaaaPunti di incollaggio e connettori</seg>
       </tuv>
     </tu>
     <tu>
@@ -65443,8 +65443,8 @@
       <tuv lang="EN">
         <seg>What is Draw?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190527T081720Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaIntroduzione a Draw</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T065119Z">
+        <seg>Introduzione a Draw</seg>
       </tuv>
     </tu>
     <tu>
@@ -67243,8 +67243,8 @@
       <tuv lang="EN">
         <seg>Working with layers</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184350Z">
-        <seg>Lavorare con i livelli</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T065159Z">
+        <seg>Utilizzo dei livelli</seg>
       </tuv>
     </tu>
     <tu>
