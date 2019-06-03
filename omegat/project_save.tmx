@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18593,8 +18593,8 @@
       <tuv lang="EN">
         <seg>Creating a database form</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184724Z">
-        <seg>Creazione di un formulario</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190603T102830Z">
+        <seg>aaaaaaaaaaaaaaaaaaaCreazione di un formulario</seg>
       </tuv>
     </tu>
     <tu>
@@ -18793,7 +18793,7 @@
       <tuv lang="EN">
         <seg>Creating database tables</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180620T184720Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190603T102826Z">
         <seg>Creazione delle tabelle di un database</seg>
       </tuv>
     </tu>
@@ -43451,8 +43451,8 @@
       <tuv lang="EN">
         <seg>Planning a database</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190601T145818Z">
-        <seg>aaaaaaaaaaaaaaaaaaPianificare un database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190603T102803Z">
+        <seg>Pianificare un database</seg>
       </tuv>
     </tu>
     <tu>
