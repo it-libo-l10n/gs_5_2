@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1337,8 +1337,8 @@
       <tuv lang="EN">
         <seg>345</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151315Z">
-        <seg>345</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T071430Z">
+        <seg>aaaaaaaaaaaaaaaaaaaa345</seg>
       </tuv>
     </tu>
     <tu>
@@ -18913,8 +18913,8 @@
       <tuv lang="EN">
         <seg>Creating, editing, and saving web pages using Writer/Web</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151312Z">
-        <seg>Creazione, modifica e salvataggio di pagine Web tramite Writer/Web</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T071424Z">
+        <seg>Creazione, modifica e salvataggio di pagine web tramite Writer/Web</seg>
       </tuv>
     </tu>
     <tu>
@@ -22506,8 +22506,8 @@
       <tuv lang="EN">
         <seg>Exporting web pages using the Web Wizard</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190616T112535Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaEsportazione delle pagine web tramite procedura guidata</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T071215Z">
+        <seg>Esportazione delle pagine web tramite procedura guidata</seg>
       </tuv>
     </tu>
     <tu>
@@ -45947,8 +45947,8 @@
       <tuv lang="EN">
         <seg>Saving and exporting documents as web pages</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151230Z">
-        <seg>Salvataggio ed esportazione dei documenti di Draw come pagine web</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T071319Z">
+        <seg>Salvataggio ed esportazione di documenti come pagine web</seg>
       </tuv>
     </tu>
     <tu>
