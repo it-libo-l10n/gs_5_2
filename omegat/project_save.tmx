@@ -1337,8 +1337,8 @@
       <tuv lang="EN">
         <seg>345</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190619T071430Z">
-        <seg>aaaaaaaaaaaaaaaaaaaa345</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T065726Z">
+        <seg>345</seg>
       </tuv>
     </tu>
     <tu>
@@ -14237,8 +14237,8 @@
       <tuv lang="EN">
         <seg>Chapter 13 Getting Started with Macros</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151455Z">
-        <seg>Capitolo 13 Guida introduttiva alle macro</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T065947Z">
+        <seg>Capitolo 13 Introduzione alle macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -14509,8 +14509,8 @@
       <tuv lang="EN">
         <seg>Checking a web page in a browser</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151414Z">
-        <seg>Controllo di una pagina Web del browser</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T065925Z">
+        <seg>Controllo di una pagina web nel browser</seg>
       </tuv>
     </tu>
     <tu>
@@ -70443,8 +70443,8 @@
       <tuv lang="EN">
         <seg>Your first macros</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T151505Z">
-        <seg>Le prime macro</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T065956Z">
+        <seg>aaaaaaaaaaaaaaaaaaLe prime macro</seg>
       </tuv>
     </tu>
     <tu>
