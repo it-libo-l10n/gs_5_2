@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36034,8 +36034,8 @@
       <tuv lang="EN">
         <seg>It also covers some of the features common to all components, including setup and customization, styles and templates, macro recording, and printing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165419Z">
-        <seg>Questo testo descrive inoltre alcune caratteristiche condivise da tutti i componenti, tra le quali l'installazione e la personalizzazione, gli stili e i modelli, la registrazione di macro e la stampa. </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190709T065851Z">
+        <seg>aaaaaaaaaaaaaaaaaQuesto testo descrive inoltre alcune caratteristiche condivise da tutti i componenti, tra le quali l'installazione e la personalizzazione, gli stili e i modelli, la registrazione di macro e la stampa. </seg>
       </tuv>
     </tu>
     <tu>
@@ -65515,8 +65515,8 @@
       <tuv lang="EN">
         <seg>What’s in this book?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190706T083744Z">
-        <seg>aaaaaaaaaaaaaaaaaaContenuto della guida</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190709T065739Z">
+        <seg>Contenuto della guida</seg>
       </tuv>
     </tu>
     <tu>
