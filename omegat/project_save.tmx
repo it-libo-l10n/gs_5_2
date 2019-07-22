@@ -8186,8 +8186,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Windows and Linux users can choose to download and install the offline Help for use when not connected to the Internet; the offline Help is installed with the program on Mac OS X.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190722T071331Z">
-        <seg>aaaa&lt;f1&gt;Gli utenti di Windows e Linux possono optare per il download e l'installazione della Guida offline da utilizzare in assenza di connessione a Internet, per gli utenti di Mac OS X, invece, essa è già integrata nel programma.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T073401Z">
+        <seg>&lt;f1&gt;Gli utenti di Windows e Linux possono optare per il download e l'installazione della Guida offline da utilizzare in assenza di connessione a Internet; gli utenti di Mac OS X, invece, troveranno la Guida offline già integrata nel programma.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8314,8 +8314,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;If you do not have the offline help installed on your computer, your default browser will open a page on the LibreOffice wiki if you are connected to the Internet.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170217Z">
-        <seg>&lt;f3&gt;Nel caso in cui la guida offline non sia installata sul computer, il browser predefinito aprirà una pagina del wiki di LibreOffice una volta effettuata la connessione a Internet.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T073643Z">
+        <seg>aaaaaaaaaaaaaaaaaaaa&lt;f3&gt;Nel caso in cui la guida offline non sia installata sul computer, il browser predefinito aprirà una pagina del wiki di LibreOffice una volta effettuata la connessione a Internet.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60063,8 +60063,8 @@
       <tuv lang="EN">
         <seg>To display the Help &lt;f0&gt;system&lt;/f0&gt;, press &lt;f1&gt;F1&lt;/f1&gt; or select &lt;f2&gt;LibreOffice Help&lt;/f2&gt; from the Help menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170120Z">
-        <seg>Per visualizzare la &lt;f0&gt;Guida in linea&lt;/f0&gt; premete il tasto &lt;f1&gt;F1&lt;/f1&gt; oppure selezionate &lt;f2&gt;Guida di LibreOffice&lt;/f2&gt; dal menu Aiuto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T073641Z">
+        <seg>Per visualizzare la &lt;f0&gt;Guida in linea&lt;/f0&gt; premete il tasto &lt;f1&gt;F1&lt;/f1&gt; oppure selezionate &lt;f2&gt;Guida di LibreOffice&lt;/f2&gt; dal menu di Aiuto.</seg>
       </tuv>
     </tu>
     <tu>
