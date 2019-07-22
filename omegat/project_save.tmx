@@ -8186,8 +8186,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Windows and Linux users can choose to download and install the offline Help for use when not connected to the Internet; the offline Help is installed with the program on Mac OS X.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165832Z">
-        <seg>&lt;f1&gt;Gli utenti di Windows e Linux possono optare per il download e l'installazione della Guida offline da utilizzare in assenza di connessione a Internet, per gli utenti di Mac OS X, invece, essa è già integrata nel programma.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T071331Z">
+        <seg>aaaa&lt;f1&gt;Gli utenti di Windows e Linux possono optare per il download e l'installazione della Guida offline da utilizzare in assenza di connessione a Internet, per gli utenti di Mac OS X, invece, essa è già integrata nel programma.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37498,8 +37498,8 @@
       <tuv lang="EN">
         <seg>LibreOffice comes with an &lt;i0/&gt;extensive Help system.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190711T090111Z">
-        <seg>aaaaaaaaaaaaaaaaaaaLibreOffice offre un &lt;i0/&gt;sistema di aiuto ampio e articolato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T070715Z">
+        <seg>LibreOffice offre un &lt;i0/&gt;sistema di aiuto ampio e articolato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57901,8 +57901,8 @@
       <tuv lang="EN">
         <seg>This is the first line of support for using LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T165800Z">
-        <seg>La presente guida rappresenta la prima linea di supporto all'utilizzo di LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T071329Z">
+        <seg>È il primo supporto per l'utilizzo di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
