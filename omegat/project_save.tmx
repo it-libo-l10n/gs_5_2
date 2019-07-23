@@ -8314,8 +8314,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;If you do not have the offline help installed on your computer, your default browser will open a page on the LibreOffice wiki if you are connected to the Internet.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190722T073643Z">
-        <seg>aaaaaaaaaaaaaaaaaaaa&lt;f3&gt;Nel caso in cui la guida offline non sia installata sul computer, il browser predefinito aprirà una pagina del wiki di LibreOffice una volta effettuata la connessione a Internet.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T072454Z">
+        <seg>&lt;f3&gt;Nel caso in cui la guida offline non sia installata sul computer, il browser predefinito aprirà una pagina del wiki di LibreOffice, a condizione che la connessione a Internet sia disponibile.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26226,8 +26226,8 @@
       <tuv lang="EN">
         <seg>For a more detailed explanation, select &lt;f0&gt;Help &gt; What's This?&lt;/f0&gt; and hold the pointer over the icon.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170345Z">
-        <seg>Per una spiegazione più approfondita selezionate &lt;f0&gt;Aiuto &gt; Di che si tratta?&lt;/f0&gt; e mantenete il puntatore sull'icona.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T073815Z">
+        <seg>Per una spiegazione più approfondita selezionate &lt;f0&gt;Aiuto &gt; Cos'è questo?&lt;/f0&gt; e mantenete il puntatore sull'icona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27834,8 +27834,8 @@
       <tuv lang="EN">
         <seg>For quick tips, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170257Z">
-        <seg>Posizionando il puntatore del mouse su un'icona qualsiasi comparirà un suggerimento rapido ("tooltip") contenente una breve descrizione della sua funzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T073611Z">
+        <seg>Per vedere i suggerimenti rapidi posizionate il puntatore del mouse su un'icona qualsiasi e comparirà un piccolo riquadro contenente una breve descrizione della funzione dell'icona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28234,8 +28234,8 @@
       <tuv lang="EN">
         <seg>Free online support</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170441Z">
-        <seg>Assistenza gratuita online</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T074046Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaAssistenza gratuita online</seg>
       </tuv>
     </tu>
     <tu>
@@ -34386,8 +34386,8 @@
       <tuv lang="EN">
         <seg>In addition, you can choose whether to activate Extended Tips using &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T170436Z">
-        <seg>Inoltre è possibile scegliere di attivare i suggerimenti attivi tramite &lt;f1&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T074044Z">
+        <seg>Inoltre è possibile scegliere di attivare la Guida attiva tramite &lt;f1&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
