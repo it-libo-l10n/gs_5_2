@@ -11563,8 +11563,8 @@
       <tuv lang="EN">
         <seg>Another forum that provides support for LibreOffice, among other open source office suites, is: &lt;a0&gt;http://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171515Z">
-        <seg>Un altro forum di supporto a LibreOffice e ad altre suite open source per ufficio è: &lt;a0&gt;http://forum.openoffice.org/it/forum/&lt;/a0&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190725T065918Z">
+        <seg>Un altro forum di supporto a LibreOffice e ad altre suite open source per ufficio è: &lt;a0&gt;http://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28210,8 +28210,8 @@
       <tuv lang="EN">
         <seg>Free LibreOffice support</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171617Z">
-        <seg>Assistenza gratuita per LibreOffice</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190725T065958Z">
+        <seg>aaaaaaaaaaaaaaaaAssistenza gratuita per LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -42875,8 +42875,8 @@
       <tuv lang="EN">
         <seg>Other websites run by users also offer free tips and tutorials.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190724T070926Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaSi possono inoltre reperire altri siti web gestiti da utenti che offrono consigli e tutorial gratuiti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190725T065303Z">
+        <seg>Sono inoltre presenti in rete altri siti web gestiti da utenti, che offrono gratuitamente consigli e tutorial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51339,8 +51339,8 @@
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Free support for LibreOffice users</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171539Z">
-        <seg>Tabella &lt;seq0&gt;1&lt;/seq0&gt;: assistenza gratuita agli utenti di LibreOffice</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190725T065953Z">
+        <seg>Tabella &lt;seq0&gt;1&lt;/seq0&gt;: assistenza gratuita per gli utenti di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -57725,8 +57725,8 @@
       <tuv lang="EN">
         <seg>This forum provides community support for LibreOffice: &lt;a0&gt;http://en.libreofficeforum.org/&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171444Z">
-        <seg>Il forum seguente fornisce il supporto della comunità di LibreOffice: &lt;a0&gt;http://it.libreoffice.org/supporto/nabble/&lt;/a0&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190725T065809Z">
+        <seg>Il forum seguente fornisce supporto da parte della comunità per LibreOffice: &lt;a0&gt;http://en.libreofficeforum.org/&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
