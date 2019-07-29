@@ -2457,8 +2457,8 @@
       <tuv lang="EN">
         <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://ask.libreoffice.org/en/questions/&lt;/a4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171758Z">
-        <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://ask.libreoffice.org/it/questions/&lt;/a4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190729T065150Z">
+        <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://ask.libreoffice.org/en/questions/&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44347,8 +44347,8 @@
       <tuv lang="EN">
         <seg>Questions and answers from the LibreOffice community&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190726T065931Z">
-        <seg>aaaaaaaaaaaaaaaaaaDomande e risposte dalla comunità di LibreOffice&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190729T065052Z">
+        <seg>Domande e risposte dalla comunità di LibreOffice&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -64090,8 +64090,8 @@
       <tuv lang="EN">
         <seg>User guides, how-tos, and other documentation &lt;a0&gt;&lt;f1&gt;https://documentation.libreoffice.org/&lt;/f1&gt;&lt;/a0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T171935Z">
-        <seg>Guide utente, istruzioni, e altra documentazione &lt;a0&gt;&lt;f1&gt;https://documentation.libreoffice.org/it/documentazione-in-italiano/&lt;/f1&gt;&lt;/a0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190729T065213Z">
+        <seg>aaaaaaaaaaaaaaaaGuide utente, istruzioni, e altra documentazione &lt;a0&gt;&lt;f1&gt;https://documentation.libreoffice.org/it/documentazione-in-italiano/&lt;/f1&gt;&lt;/a0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
