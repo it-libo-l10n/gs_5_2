@@ -1769,8 +1769,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;/f5&gt;&lt;/a4&gt;&lt;a7&gt;&lt;f8&gt;://wiki.documentfoundation.org/Faq&lt;/f8&gt;&lt;/a7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172117Z">
-        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;/f5&gt;&lt;/a4&gt;&lt;a7&gt;&lt;f8&gt;://wiki.documentfoundation.org/Faq/it&lt;/f8&gt;&lt;/a7&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190730T065807Z">
+        <seg>aaaaaaaaaaaaaaaaa&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;/f5&gt;&lt;/a4&gt;&lt;a7&gt;&lt;f8&gt;://wiki.documentfoundation.org/Faq/it&lt;/f8&gt;&lt;/a7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11603,8 +11603,8 @@
       <tuv lang="EN">
         <seg>Answers to frequently asked questions&lt;f0&gt;&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172028Z">
-        <seg>Risposte alle Domande frequenti&lt;f0&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190730T065805Z">
+        <seg>Risposte alle domande frequenti&lt;f0&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -64090,8 +64090,8 @@
       <tuv lang="EN">
         <seg>User guides, how-tos, and other documentation &lt;a0&gt;&lt;f1&gt;https://documentation.libreoffice.org/&lt;/f1&gt;&lt;/a0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190729T065213Z">
-        <seg>aaaaaaaaaaaaaaaaGuide utente, istruzioni, e altra documentazione &lt;a0&gt;&lt;f1&gt;https://documentation.libreoffice.org/it/documentazione-in-italiano/&lt;/f1&gt;&lt;/a0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190730T065651Z">
+        <seg>Guide utente, how-to, e altra documentazione &lt;a0&gt;&lt;f1&gt;https://documentation.libreoffice.org/&lt;/f1&gt;&lt;/a0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
