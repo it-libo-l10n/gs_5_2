@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1769,8 +1769,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;/f5&gt;&lt;/a4&gt;&lt;a7&gt;&lt;f8&gt;://wiki.documentfoundation.org/Faq&lt;/f8&gt;&lt;/a7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190730T065807Z">
-        <seg>aaaaaaaaaaaaaaaaa&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;/f5&gt;&lt;/a4&gt;&lt;a7&gt;&lt;f8&gt;://wiki.documentfoundation.org/Faq/it&lt;/f8&gt;&lt;/a7&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190731T052853Z">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;/f5&gt;&lt;/a4&gt;&lt;a7&gt;&lt;f8&gt;://wiki.documentfoundation.org/Faq&lt;/f8&gt;&lt;/a7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28226,8 +28226,8 @@
       <tuv lang="EN">
         <seg>Free community support is provided by a network of experienced users&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172145Z">
-        <seg>Il supporto gratuito della comunità è offerto da una rete di utenti esperti&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190731T052911Z">
+        <seg>aaaaaaaaaaaaaaaaaaaIl supporto gratuito della comunità è offerto da una rete di utenti esperti&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
