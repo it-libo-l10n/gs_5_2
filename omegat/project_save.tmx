@@ -2465,16 +2465,16 @@
       <tuv lang="EN">
         <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/a4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172615Z">
-        <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/a4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190801T071354Z">
+        <seg>aaaaaaaaaaaaaaaa&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://www.libreoffice.org/community/nlc/&lt;/a4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190731T070003Z">
-        <seg>aaaaaaaaaaaaaaaaaaaa&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://www.libreoffice.org/community/nlc/&lt;/a4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190801T070844Z">
+        <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://www.libreoffice.org/community/nlc/&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
