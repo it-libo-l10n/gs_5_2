@@ -2465,8 +2465,8 @@
       <tuv lang="EN">
         <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/a4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190801T071354Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/a4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190802T070433Z">
+        <seg>&lt;a1&gt;http&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2489,8 +2489,8 @@
       <tuv lang="EN">
         <seg>&lt;a1&gt;https://wiki.documentfoundation.org/Website/Web_Sites_services&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T172705Z">
-        <seg>&lt;a1&gt;https://wiki.documentfoundation.org/Website/Web_Sites_services&lt;/a1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190802T070821Z">
+        <seg>aaaa&lt;a1&gt;https://wiki.documentfoundation.org/Website/Web_Sites_services&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
