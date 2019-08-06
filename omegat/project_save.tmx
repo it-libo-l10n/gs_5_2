@@ -35642,8 +35642,8 @@
       <tuv lang="EN">
         <seg>Information about available accessibility options &lt;a0&gt;http&lt;/a0&gt;&lt;a1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;://www.libreoffice.org/get-help/accessibility/&lt;/a3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190802T071357Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaInformazioni relative all'accesso facilitato &lt;a0&gt;http&lt;/a0&gt;&lt;a1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;://it.libreoffice.org/supporto/accessibilita/&lt;/a3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190806T065950Z">
+        <seg>Informazioni relative all'accesso facilitato &lt;a0&gt;http&lt;/a0&gt;&lt;a1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;://www.libreoffice.org/get-help/accessibility/&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -68059,8 +68059,8 @@
       <tuv lang="EN">
         <seg>You can also pay for support through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173151Z">
-        <seg>È inoltre possibile acquistare contratti di assistenza presso un distributore o una società di consulenza specializzata in LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190806T070052Z">
+        <seg>aaaaaaaaaaaaaaaaÈ inoltre possibile acquistare contratti di assistenza presso un distributore o una società di consulenza specializzata in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
