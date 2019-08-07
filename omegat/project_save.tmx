@@ -27218,8 +27218,8 @@
       <tuv lang="EN">
         <seg>For information about certified professional support, see The Document Foundation’s website: &lt;a0&gt;http&lt;/a0&gt;&lt;a1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;://www.documentfoundation.org/gethelp/support/&lt;/a3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173255Z">
-        <seg>Per informazioni sul supporto professionale certificato, fate riferimento al sito web della Document Foundation: &lt;a0&gt;http&lt;/a0&gt;&lt;a1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;://it.libreoffice.org/supporto/supporto-professionale/&lt;/a3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190807T065913Z">
+        <seg>Per informazioni sul supporto professionale certificato, fate riferimento al sito web della Document Foundation: &lt;a0&gt;http&lt;/a0&gt;&lt;a1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;://www.documentfoundation.org/gethelp/support/&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37730,8 +37730,8 @@
       <tuv lang="EN">
         <seg>LibreOffice runs on Windows, Linux, and Mac OS X operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173407Z">
-        <seg>LibreOffice è disponibile per sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali prevede più versioni personalizzabili dagli utenti (relativamente a caratteri, colori, temi, gestori di finestre).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190807T065940Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaaaLibreOffice è disponibile per sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali prevede più versioni personalizzabili dagli utenti (relativamente a caratteri, colori, temi, gestori di finestre).</seg>
       </tuv>
     </tu>
     <tu>
@@ -68059,8 +68059,8 @@
       <tuv lang="EN">
         <seg>You can also pay for support through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190806T070052Z">
-        <seg>aaaaaaaaaaaaaaaaÈ inoltre possibile acquistare contratti di assistenza presso un distributore o una società di consulenza specializzata in LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190807T065626Z">
+        <seg>È anche possibile acquistare contratti di assistenza presso un distributore o una società di consulenza specializzata in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
