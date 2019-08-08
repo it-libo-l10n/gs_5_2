@@ -10939,8 +10939,8 @@
       <tuv lang="EN">
         <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173819Z">
-        <seg>Inoltre alcune finestre di dialogo potrebbero risultare diverse a causa delle impostazioni selezionate in LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T070535Z">
+        <seg>Inoltre alcune delle finestre di dialogo potrebbero risultare diverse a causa delle impostazioni selezionate in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37730,8 +37730,8 @@
       <tuv lang="EN">
         <seg>LibreOffice runs on Windows, Linux, and Mac OS X operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190807T065940Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaaaLibreOffice è disponibile per sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali prevede più versioni personalizzabili dagli utenti (relativamente a caratteri, colori, temi, gestori di finestre).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T070117Z">
+        <seg>LibreOffice funziona su sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali prevede diverse versioni e può essere personalizzato dagli utenti (relativamente a tipo di carattere, colori, temi, gestori di finestre).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54397,8 +54397,8 @@
       <tuv lang="EN">
         <seg>The illustrations in this guide were taken from a variety of computers and operating systems.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173423Z">
-        <seg>Le illustrazioni di questa guida sono state tratte da computer e sistemi operativi diversi, </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T070258Z">
+        <seg>Le illustrazioni di questa guida sono tratte da computer e sistemi operativi diversi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56765,8 +56765,8 @@
       <tuv lang="EN">
         <seg>Therefore, some illustrations will not look exactly like what you see on your computer display.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180625T173451Z">
-        <seg>di conseguenza alcune non avranno esattamente lo stesso aspetto di quelle visualizzate sullo schermo del computer in uso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T070345Z">
+        <seg>Alcune immagini, pertanto, non saranno esattamente uguali a quelle che vedete sul vostro computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68907,8 +68907,8 @@
       <tuv lang="EN">
         <seg>You can either use dialogs from your computer’s operating system or from LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T171502Z">
-        <seg>È infatti possibile scegliere se utilizzare le finestre di dialogo del sistema operativo in uso (impostazione predefinita), oppure quelle rese disponibili da LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T070540Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaÈ infatti possibile scegliere se utilizzare le finestre di dialogo del sistema operativo in uso (impostazione predefinita), oppure quelle rese disponibili da LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
