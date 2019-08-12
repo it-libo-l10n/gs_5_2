@@ -52493,8 +52493,8 @@
       <tuv lang="EN">
         <seg>The LibreOffice community has created icons for several icon sets: Breeze, Galaxy, High Contrast, Oxygen, Sifr, and Tango.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T171733Z">
-        <seg>La comunità di LibreOffice ha creato diversi set di icone: Breeze, Galaxy, High Contrast, Oxygen, Sifr, e Tango, </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T085403Z">
+        <seg>aaaaaaaaaaaaaaaaLa comunità di LibreOffice ha creato diversi set di icone: Breeze, Galaxy, High Contrast, Oxygen, Sifr, e Tango, </seg>
       </tuv>
     </tu>
     <tu>
@@ -59679,8 +59679,8 @@
       <tuv lang="EN">
         <seg>To change which dialogs are used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; and select or deselect the option &lt;f1&gt;Use LibreOffice dialogs&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190809T071417Z">
-        <seg>aaaaaaaaaaaaaaaaaPer modificare la scelta delle finestre di dialogo accedete al menu &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f0&gt; e selezionare o deselezionare l'opzione &lt;f1&gt;Usa finestre di dialogo LibreOffice&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T085341Z">
+        <seg>Per modificare la scelta delle finestre di dialogo accedete al menu &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f0&gt; e selezionate o deselezionate l'opzione &lt;f1&gt;Usa finestre di dialogo di LibreOffice&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
