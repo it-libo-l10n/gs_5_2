@@ -34914,8 +34914,8 @@
       <tuv lang="EN">
         <seg>In the &lt;f1&gt;User Interface &lt;/f1&gt;section, choose from the drop-down lists under &lt;f2&gt;Icon size and style.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T172237Z">
-        <seg>Nell'area &lt;f1&gt;Interfaccia utente &lt;/f1&gt;scegliete una voce dall'elenco a discesa &lt;f2&gt;Dimensione e stile icona.&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190819T093520Z">
+        <seg>aaaaNell'area &lt;f1&gt;Interfaccia utente &lt;/f1&gt;scegliete una voce dall'elenco a discesa &lt;f2&gt;Dimensione e stile icona.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59535,8 +59535,8 @@
       <tuv lang="EN">
         <seg>To change the icon set used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190814T071045Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaaPer modificare il set di icone utilizzato accedete al menu &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Vista&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190819T093518Z">
+        <seg>Per modificare il set di icone utilizzato accedete al menu &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Vista&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
