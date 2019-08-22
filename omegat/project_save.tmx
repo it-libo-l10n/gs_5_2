@@ -6946,8 +6946,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; menu selection</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173349Z">
-        <seg>&lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt; selezione del menu</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190822T065459Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaa&lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt; selezione del menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -26234,8 +26234,8 @@
       <tuv lang="EN">
         <seg>For a more detailed list, see the application Help.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20180823T132428Z">
-        <seg>Per un elenco più dettagliato, vedere la Guida in linea dell'applicazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190822T065439Z">
+        <seg>Per un elenco più dettagliato consultate la Guida in linea dell'applicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50099,8 +50099,8 @@
       <tuv lang="EN">
         <seg>Some keystrokes and menu items are different on a Mac from those used in Windows and Linux.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190821T065808Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaAlcuni tasti e voci di menu di Mac sono diversi da quelli utilizzati in ambienti Windows e Linux.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190822T065230Z">
+        <seg>Alcuni tasti e voci di menu su Mac sono diversi da quelli utilizzati in ambiente Windows e Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56045,8 +56045,8 @@
       <tuv lang="EN">
         <seg>The table below gives some common substitutions for the instructions in this book.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173248Z">
-        <seg>La tabella seguente fornisce le sostituzioni più comuni per le istruzioni di questo capitolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190822T065409Z">
+        <seg>La tabella seguente fornisce le sostituzioni più comuni per le istruzioni di questa guida.</seg>
       </tuv>
     </tu>
     <tu>
