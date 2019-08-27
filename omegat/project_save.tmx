@@ -3602,8 +3602,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; (&lt;f1&gt;Control&lt;/f1&gt;)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173457Z">
-        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; (&lt;f1&gt;Control&lt;/f1&gt;)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T070412Z">
+        <seg>aaaaaaaaaaaaaaaaaa&lt;f0&gt;Ctrl&lt;/f0&gt; (&lt;f1&gt;Control&lt;/f1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18288,8 +18288,8 @@
       <tuv lang="EN">
         <seg>Control+click and/or right-click depending on computer setup</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190826T081000Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaCtrl + clic e/o clic con il pulsante destro del mouse a seconda dell'impostazione del computer.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T070402Z">
+        <seg>Ctrl+clic e/o clic con il pulsante destro del mouse a seconda dell'impostazione del computer</seg>
       </tuv>
     </tu>
     <tu>
