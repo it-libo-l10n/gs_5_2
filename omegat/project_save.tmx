@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6386,8 +6386,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Shift&lt;/f0&gt;+⌘+&lt;f1&gt;F5&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173633Z">
-        <seg>&lt;f0&gt;Maiusc&lt;/f0&gt;+⌘+&lt;f1&gt;F5&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T070536Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaa&lt;f0&gt;Maiusc&lt;/f0&gt;+⌘+&lt;f1&gt;F5&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -64034,8 +64034,8 @@
       <tuv lang="EN">
         <seg>Used with other keys</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190828T131625Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaUsato con altri tasti</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T070530Z">
+        <seg>Usato con altri tasti</seg>
       </tuv>
     </tu>
     <tu>
