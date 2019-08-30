@@ -6386,8 +6386,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Shift&lt;/f0&gt;+⌘+&lt;f1&gt;F5&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190829T070536Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaa&lt;f0&gt;Maiusc&lt;/f0&gt;+⌘+&lt;f1&gt;F5&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190830T065644Z">
+        <seg>&lt;f0&gt;Maiusc&lt;/f0&gt;+⌘+&lt;f1&gt;F5&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42299,8 +42299,8 @@
       <tuv lang="EN">
         <seg>Open the Styles and Formatting window</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T173724Z">
-        <seg>Apre la finestra Stili e formattazione</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190830T065728Z">
+        <seg>aaaaaaaaaaaaaaaaaaApre la finestra Stili e formattazione</seg>
       </tuv>
     </tu>
     <tu>
