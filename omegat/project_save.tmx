@@ -8962,8 +8962,8 @@
       <tuv lang="EN">
         <seg>A dialog is a special type of window.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174345Z">
-        <seg>Una finestra di dialogo è un tipo di finestra particolare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T075955Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaUna finestra di dialogo è un tipo di finestra particolare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56101,8 +56101,8 @@
       <tuv lang="EN">
         <seg>The terms used in LibreOffice for most parts of the &lt;i0/&gt;user interface (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174028Z">
-        <seg>I termini utilizzati in gran parte dell'&lt;i0/&gt;interfaccia utente di LibreOffice (cioè gli elementi del programma che vedete e utilizzate, a differenza del codice non visibile che ne permette il funzionamento) sono gli stessi presenti in altri programmi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T075951Z">
+        <seg>I termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;interfaccia utente (le parti del programma che vedete e utilizzate, a differenza del codice non visibile che ne permette il funzionamento) sono gli stessi presenti in altri programmi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74179,8 +74179,8 @@
       <tuv lang="EN">
         <seg>user interface, parts of</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190902T093653Z">
-        <seg>aaaaaaaaaaaaaaaaaaaainterfaccia utente, parti</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T075525Z">
+        <seg>interfaccia utente, parti della</seg>
       </tuv>
     </tu>
     <tu>
