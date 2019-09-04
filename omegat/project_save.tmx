@@ -8962,8 +8962,8 @@
       <tuv lang="EN">
         <seg>A dialog is a special type of window.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190903T075955Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaUna finestra di dialogo è un tipo di finestra particolare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190904T084049Z">
+        <seg>Una finestra di dialogo è un tipo di finestra particolare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36650,8 +36650,8 @@
       <tuv lang="EN">
         <seg>It provides controls to use to specify how to carry out an action.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174439Z">
-        <seg>Contiene i controlli utili a determinare il corretto svolgimento di un'azione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190904T084144Z">
+        <seg>aaaaaaaaaaaaaaaaaaaContiene i controlli utili a determinare il corretto svolgimento di un'azione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36802,8 +36802,8 @@
       <tuv lang="EN">
         <seg>Its purpose is to inform you of something, or request input from you, or both.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174413Z">
-        <seg>Il suo scopo è quello di fornire all'utente informazioni su qualcosa, di richiederne un intervento, o entrambi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190904T084141Z">
+        <seg>Il suo scopo è quello di informarvi di qualcosa, o richiedervi un input, o entrambe le cose.</seg>
       </tuv>
     </tu>
     <tu>
