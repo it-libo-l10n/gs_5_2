@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -44491,8 +44491,8 @@
       <tuv lang="EN">
         <seg>Radio buttons (only one can be selected at a time).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20180627T174834Z">
-        <seg>Pulsanti di selezione (Radio) (permettono una singola scelta esclusiva).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200925T122428Z">
+        <seg>aaaaaaaaaaaaaaaaPulsanti di selezione (Radio) (permettono una singola scelta esclusiva).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51323,8 +51323,8 @@
       <tuv lang="EN">
         <seg>Tabbed page (not strictly speaking a control).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200320T112541Z">
-        <seg>aaaaaaaaaaaaaaaaaaPagina a schede (non un controllo in senso stretto).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200925T122421Z">
+        <seg>Pagina a schede (non un controllo in senso stretto).</seg>
       </tuv>
     </tu>
     <tu>
